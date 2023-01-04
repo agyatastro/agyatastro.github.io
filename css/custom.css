@@ -40,3 +40,6 @@ main.sanskrit{
   color: #d90202;
   line-height: 1.5em;
 }
+.sanskrit a{
+  text-decoration: none;
+}

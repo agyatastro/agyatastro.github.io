@@ -355,7 +355,7 @@ a:focus {
 }
 
 /*--
-	features-work Start 
+	features-work Start
 --*/
 #features-work {
   padding-top: 50px;
@@ -978,6 +978,19 @@ h3.quote::before {
 
 .blog-item {
   border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.sanskrit {
+  text-align: center;
+  font-size: 1.3em;
+  color: #d90202 !important;
+  line-height: 1.5em;
+}
+.sanskrit a {
+  text-decoration: none;
+}
+.sanskrit h1, .sanskrit h2, .sanskrit h3, .sanskrit h4, .sanskrit h5, .sanskrit h6, .sanskrit h7 {
+  color: #d90202 !important;
 }
 
 /*=================================================================

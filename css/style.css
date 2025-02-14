@@ -993,6 +993,37 @@ h3.quote::before {
   color: #d90202 !important;
 }
 
+blockquote {
+  font-size: 24px;
+  line-height: 40px;
+  font-weight: normal;
+  padding: 0px 25px 0px 85px;
+  margin: 65px 0 65px 0 !important;
+  position: relative;
+}
+blockquote ::before {
+  content: "";
+  width: 55px;
+  height: 2px;
+  background: #F75757;
+  position: absolute;
+  top: 25px;
+  left: 0;
+}
+
+hr {
+  border: 0;
+  height: 1px;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+  margin: 30px 0;
+}
+
+.blog-item-content p img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 0.25rem !important;
+}
+
 /*=================================================================
   Single Blog Page
 ==================================================================*/

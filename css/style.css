@@ -1276,6 +1276,48 @@ hr {
   border: 1px solid #F75757;
 }
 
+.colorful.icons {
+  height: 200px;
+  width: 115px;
+  background-image: url("../images/zodiac_sprite/colorful_small.png");
+}
+.colorful.aries {
+  background-position: 0 0;
+}
+.colorful.taurus {
+  background-position: -170px 0;
+}
+.colorful.gemini {
+  background-position: -340px 0;
+}
+.colorful.cancer {
+  background-position: -510px 0;
+}
+.colorful.leo {
+  background-position: -680px 0;
+}
+.colorful.virgo {
+  background-position: -850px 0;
+}
+.colorful.libra {
+  background-position: 0px -190px;
+}
+.colorful.scorpio {
+  background-position: -170px -190px;
+}
+.colorful.sagittarius {
+  background-position: -340px -190px;
+}
+.colorful.capricorn {
+  background-position: -510px -190px;
+}
+.colorful.aquarius {
+  background-position: -680px -190px;
+}
+.colorful.pisces {
+  background-position: -850px -190px;
+}
+
 .footer {
   padding-bottom: 10px;
 }

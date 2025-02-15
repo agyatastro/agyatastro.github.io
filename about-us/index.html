@@ -93,7 +93,7 @@
                 <li class="nav-item @@home">
                   <a class="nav-link" href="..">Home</a>
                 </li>
-                <li class="nav-item dropdown active">
+                <li class="nav-item active">
                   <a class="nav-link" href="../about-us/">About Us</a>
                   <!-- <a class="nav-link dropdown-toggle" href="#" id="dropdown03" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About <i class="fas fa-chevron-down small"></i></a> -->
                   <!-- <ul class="dropdown-menu" aria-labelledby="dropdown03">
@@ -110,7 +110,19 @@
                     </li>
                   </ul> -->
                 </li>
-                <li class="nav-item @@service"><a class="nav-link" href="../services">Services</a></li>
+                <li class="nav-item dropdown @@service">
+                  <a class="nav-link dropdown-toggle" href="../services"   data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" id="dropdown03">Services <i class="fas fa-chevron-down small"></i></a>
+                  <ul class="dropdown-menu" aria-labelledby="dropdown03">
+                    <li><a class="dropdown-item @@services" href="../services">All Services</a></li>
+                    <li><a class="dropdown-item @@quick" href="../services/consultation-one-area">Quick Consultation</a></li>
+                    <li><a class="dropdown-item @@onearea" href="../services/consultation-one-area">Consultation (One Area)</a></li>
+                    <li><a class="dropdown-item @@premium" href="../services/premium-consultation/">Premium Consultation</a></li>
+                    <li><a class="dropdown-item @@vaastu" href="../services/vaastu-visit-consultation/">Kundli Vaastu Consultation</a></li>
+                  </ul>
+                </li>
+                <li class="nav-item dropdown @@horoscope">
+                  <a class="nav-link" href="../horoscope/monthly" >Horoscope</a>
+                </li>
                 <li class="nav-item dropdown @@blog">
                   <a class="nav-link" href="../blog/" target="_blank">Blog</a>
                 </li>

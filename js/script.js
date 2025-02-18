@@ -100,4 +100,36 @@
 		});
 	}
 
+	$(function() {
+	    console.log( "ready!" );
+			emailjs.init({
+				publicKey: "ObsW-Ld16OF4X46C6",
+			});
+
+			var sendTouchDownEMail = function(parameters){
+				emailjs.send('default_service', 'template_j8k8jlr', parameters).then(
+					(response) => {
+						console.log('SUCCESS!', response.status, response.text);
+					},
+					(error) => {
+						console.log('FAILED...', error);
+					},
+				);
+			}
+
+			$( "#contactFormSubmit" ).on( "click", function( e ) {
+				e.preventDefault();
+				console.log("Preventing default");
+				const formData = new FormData(document.getElementById('contact-form'));
+				const formProps = Object.fromEntries(formData);
+				console.log(formProps);
+				var params = {
+					from_name: formProps.name,
+					from_email: formProps.email,
+					message: formProps.message
+				}
+				sendTouchDownEMail(params);
+			});
+	});
+
 })(jQuery);

@@ -130,6 +130,7 @@
 				}
 				sendTouchDownEMail(params);
 			});
+			$(".dynamicCopyrightYear").replaceWith((new Date()).getFullYear());
 	});
 
 })(jQuery);

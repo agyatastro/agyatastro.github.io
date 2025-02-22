@@ -993,6 +993,12 @@ h3.quote::before {
   color: #d90202 !important;
 }
 
+@media (min-width: 992px) {
+  .img-fixed-height {
+    height: 500px;
+    min-width: 100%;
+  }
+}
 blockquote {
   font-size: 24px;
   line-height: 40px;

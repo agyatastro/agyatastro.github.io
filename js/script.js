@@ -6,6 +6,9 @@
 (function ($) {
 	'use strict';
 
+	const F_ENDPOINT = 'https://faas-nyc1-2ef2e6cc.doserverless.co/api/v1/namespaces/fn-9893151b-0162-4035-b250-f6a60919b905/actions/form/send?blocking=true&result=true';
+
+	const T = 'YzViNjU5NDMtMzA2My00MmUwLTg1YzgtYTg5MTkxOTBlNmFlOmZybUI1cFlOdjVCdHlvSWZjZWdVRHd2aDFQZDViOU1DeTVLaU9tMVlTc2tKSDhSNnR5ZGF6Z1cxV3NqZEtoano=';
 	// testimonial-wrap
 	if ($('.testimonial-wrap').length !== 0) {
 		$('.testimonial-wrap').slick({
@@ -106,15 +109,14 @@
 				publicKey: "ObsW-Ld16OF4X46C6",
 			});
 
-			var sendTouchDownEMail = function(parameters){
-				emailjs.send('default_service', 'template_j8k8jlr', parameters).then(
-					(response) => {
-						console.log('SUCCESS!', response.status, response.text);
-					},
-					(error) => {
-						console.log('FAILED...', error);
-					},
-				);
+			var sendTouchDownEMail = async function(parameters){
+				const {data} = await axios.post(F_ENDPOINT, parameters, {
+					headers: {
+							'Content-Type': 'application/json',
+							'Authorization': `Basic ${T}`
+						}
+					}
+				)
 			}
 
 			$( "#contactFormSubmit" ).on( "click", function( e ) {

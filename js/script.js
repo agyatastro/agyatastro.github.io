@@ -157,13 +157,6 @@
 
 		var house12 = draw.polygon('400 100,550 250,700 100').fill('none').stroke({ color: color, width: stroke });
 
-		draw.text("Dilip Kumar - Agyat Astrology Data Bank").font({
-			// size: 20,
-			fill: color,
-			opacity: 1,
-			anchor: "middle"
-		}).move(100,70)
-
 		draw.text("© Agyat.One Ephemeris").font({
 			size: 40,
 			fill: color,

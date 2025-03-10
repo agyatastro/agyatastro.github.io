@@ -58,13 +58,13 @@ p {
   background: #F75757;
 }
 
-input[type=email], input[type=password], input[type=text], input[type=tel] {
+input[type=email], input[type=password], input[type=text], input[type=tel], input[type=date], input[type=time] {
   box-shadow: none;
   height: 45px;
   outline: none;
   font-size: 14px;
 }
-input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, input[type=tel]:focus {
+input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, input[type=tel]:focus, input[type=date]:focus, input[type=time]:focus {
   box-shadow: none;
   border: 1px solid #F75757;
 }
@@ -130,6 +130,10 @@ input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, inp
 .btn-transparent:hover {
   background: transparent;
   color: #F75757;
+}
+
+.btn-chart {
+  padding: 0.7rem 2.5rem 0.7rem;
 }
 
 .btn-large {

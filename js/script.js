@@ -355,13 +355,20 @@
 			});
 
 			var sendTouchDownEMail = async function(parameters){
-				const {data} = await axios.post(F_ENDPOINT, parameters, {
+				await axios.post(F_ENDPOINT, parameters, {
 					headers: {
 							'Content-Type': 'application/json',
 							'Authorization': `Basic ${T}`
 						}
 					}
-				)
+				).then(function (response) {
+			    console.log(response);
+					$("#consltation-form").hide(500);
+					$(".submission_complete").show(500);
+			  })
+			  .catch(function (error) {
+			    console.log(error);
+			  });
 			}
 
 			var getChartData = (payloadJson) => {
@@ -395,6 +402,14 @@
 				});
 				console.debug("Form Values: ", values);
 				getChartData(values);
+			});
+
+			$( "#consltation-form" ).on( "submit", function( e ) {
+				e.preventDefault();
+				const formData = new FormData(document.getElementById('consltation-form'));
+				const formProps = Object.fromEntries(formData);
+				console.debug(formProps);
+				sendTouchDownEMail(formProps);
 			});
 
 			$( "#contactFormSubmit" ).on( "click", function( e ) {

@@ -6,6 +6,8 @@
 (function ($) {
 	'use strict';
 
+	window._glob = {};
+
 	const F_ENDPOINT = 'https://faas-nyc1-2ef2e6cc.doserverless.co/api/v1/namespaces/fn-9893151b-0162-4035-b250-f6a60919b905/actions/form/send?blocking=true&result=true';
 
 	const T = 'YzViNjU5NDMtMzA2My00MmUwLTg1YzgtYTg5MTkxOTBlNmFlOmZybUI1cFlOdjVCdHlvSWZjZWdVRHd2aDFQZDViOU1DeTVLaU9tMVlTc2tKSDhSNnR5ZGF6Z1cxV3NqZEtoano=';
@@ -228,8 +230,8 @@
 		}
 	}
 
-	var drawSvgPlanets = (draw, planetsJSON) => {
-		const planets = extractPlanets(planetsJSON);
+	var drawSvgPlanets = (asc, draw, planetsJSON) => {
+		const planets = extractPlanets(asc, planetsJSON);
 		// console.debug("planetsArray: ", planets);
 		var midcoords=[[390,240], [240,150], [150,240],
 									[250,390], [150,540], [240,630],
@@ -250,13 +252,24 @@
 		}
 	}
 
-	var extractPlanets = (planetsJson) => {
+	var extractPlanets = (asc, planetsJson) => {
 		var houses = [[],[],[],[],[],[],[],[],[],[],[],[]];
 		$.each(planetsJson, function(k, v) {
 			if(PLANET_SHORT_CODES[k])
-				houses[(v.house-1)].push(PLANET_SHORT_CODES[k]);// + ":" + convertToDegreeMinute(v.cusp_degree.toFixed(2)));
+				houses[getHouseByZodiac(v.zodiac, asc)].push(PLANET_SHORT_CODES[k]);
+				// houses[(v.house-1)].push(PLANET_SHORT_CODES[k]);// + ":" + convertToDegreeMinute(v.cusp_degree.toFixed(2)));
 		});
+		console.log("extractPlanets", houses);
 		return houses;
+	}
+
+	var getHouseByZodiac = (zodiac, asc) => {
+		console.log("getHouseByZodiac", zodiac, asc, zodiac - asc, (12 - asc) + 1)
+		if(zodiac >= asc){
+			return zodiac - asc;
+		} else {
+			return (12 - asc) + zodiac;
+		}
 	}
 
 	var getDynamicXCords = (i, j, coordX) => {
@@ -330,6 +343,26 @@
 		table.show();
 	}
 
+	var redrawChart = (overrideAsc) => {
+		$("#snap").empty();
+		var chartObj;
+		if(window.localStorage){
+			chartObj = JSON.parse(window.localStorage.getItem('chart'));
+		} else {
+			chartObj = window._glob.chart;
+		}
+		var res = chartObj.response;
+		var draw = drawSvgChart();
+		var asc = res.ascendant.ascendant;
+		if(overrideAsc)
+			asc = overrideAsc;
+		drawSvgHouses(draw, asc);
+		drawSvgPlanets(asc, draw, res.planets);
+		showTable(res);
+	}
+
+	window.redraw = redrawChart;
+
 	$(function() {
 	    // console.log( "ready!" );
 			if($(".controls_table"))
@@ -376,17 +409,15 @@
 					params: payloadJson
 			  })
 			  .then(function (response) {
-					$("#snap").empty();
 					const chart = response.data.chart;
-					var draw = drawSvgChart();
 					if(response.data.chart){
-						var ascNo = chart.response.ascendant
-						drawSvgHouses(draw, ascNo.ascendant);
-						drawSvgPlanets(draw, chart.response.planets);
-						showTable(chart.response);
+						if(window.localStorage){
+							window.localStorage.setItem("chart", JSON.stringify(chart));
+						} else {
+							window._glob.chart = JSON.stringify(chart);
+						}
+						redrawChart();
 					}
-			    // console.debug(response.data.chart);
-			    // console.debug(response.data.chart.response.ascendant);
 			  })
 			  .catch(function (error) {
 			    console.debug(error);

@@ -435,6 +435,14 @@
 				getChartData(values);
 			});
 
+			$( "#subscription" ).on( "submit", (e) => {
+				e.preventDefault();
+				console.log('subscription');
+				const formData = new FormData(document.getElementById('subscription'));
+				const formProps = Object.fromEntries(formData);
+				sendTouchDownEMail(formProps);
+			} );
+
 			$( "#consltation-form" ).on( "submit", function( e ) {
 				e.preventDefault();
 				const formData = new FormData(document.getElementById('consltation-form'));

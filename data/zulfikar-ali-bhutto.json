@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Zulfikar Ali Bhutto",
+        "year": 1928,
+        "month": 1,
+        "day": 5,
+        "hour": 3,
+        "minute": 0,
+        "second": 0,
+        "latitude": 27.5564798,
+        "longitude": 68.2101509,
+        "location": "Larkana, Sindh, Pakistan"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 209.15068731228683,
+            "ascendant": 7
+        },
+        "planets": {
+            "Sun": {
+                "degree": 260.4976232188055,
+                "cusp_degree": 20.497623218805472,
+                "motion_speed": 1.0189375279547914,
+                "zodiac": 9,
+                "house": 3,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 49.88212605432784,
+                "cusp_degree": 19.88212605432784,
+                "motion_speed": 14.389978985790702,
+                "zodiac": 2,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 258.02999077021406,
+                "cusp_degree": 18.029990770214056,
+                "motion_speed": 1.603959514866348,
+                "zodiac": 9,
+                "house": 3,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 218.25693998030428,
+                "cusp_degree": 8.256939980304281,
+                "motion_speed": 1.1815460293489646,
+                "zodiac": 8,
+                "house": 2,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 236.8242063694933,
+                "cusp_degree": 26.82420636949331,
+                "motion_speed": 0.7252064592326313,
+                "zodiac": 8,
+                "house": 2,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 334.2197975882295,
+                "cusp_degree": 4.219797588229483,
+                "motion_speed": 0.14115670872932845,
+                "zodiac": 12,
+                "house": 6,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 231.08197563714813,
+                "cusp_degree": 21.081975637148133,
+                "motion_speed": 0.10837114496256058,
+                "zodiac": 8,
+                "house": 2,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 55.778894309431045,
+                "cusp_degree": 25.778894309431045,
+                "motion_speed": 0.007848612877857139,
+                "zodiac": 2,
+                "house": 8,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 54.59003442076073,
+                "cusp_degree": 24.59003442076073,
+                "motion_speed": -0.05299200783367717,
+                "zodiac": 2,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 234.59003442076073,
+                "motion_speed": -0.05299200783367717,
+                "cusp_degree": 24.59003442076073,
+                "zodiac": 8,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 235.77889430943105,
+                "motion_speed": 0.007848612877857139,
+                "cusp_degree": 25.778894309431053,
+                "zodiac": 8,
+                "house": 2,
+                "motion": "R"
+            }
+        }
+    }
+}

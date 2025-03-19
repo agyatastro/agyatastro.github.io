@@ -1,6 +1,6 @@
 {
     "request": {
-        "name": "John Franklin Kennedy (Politician/Figure)",
+        "name": "John F Kennedy",
         "year": 1917,
         "month": 5,
         "day": 29,
@@ -13,96 +13,96 @@
     },
     "response": {
         "ascendant": {
-            "asc_deg": 48.57371530223165,
-            "ascendant": 2
+            "asc_deg": 176.70506491953367,
+            "ascendant": 6
         },
         "planets": {
             "Sun": {
-                "degree": 44.716748634629035,
-                "cusp_degree": 14.716748634629035,
-                "motion_speed": 0.958846086478091,
+                "degree": 45.13354493128458,
+                "cusp_degree": 15.133544931284582,
+                "motion_speed": 0.9586824229032977,
                 "zodiac": 2,
-                "house": 1,
+                "house": 9,
                 "motion": "D"
             },
             "Moon": {
-                "degree": 139.26888372484427,
-                "cusp_degree": 19.268883724844272,
-                "motion_speed": 11.946108128557038,
+                "degree": 144.47600692198603,
+                "cusp_degree": 24.476006921986027,
+                "motion_speed": 12.012464384870231,
                 "zodiac": 5,
-                "house": 4,
+                "house": 12,
                 "motion": "D"
             },
             "Mercury": {
-                "degree": 27.88199035596791,
-                "cusp_degree": 27.88199035596791,
-                "motion_speed": -0.008232697547858001,
+                "degree": 27.885415779796073,
+                "cusp_degree": 27.885415779796073,
+                "motion_speed": 0.024019483051200757,
                 "zodiac": 1,
-                "house": 12,
-                "motion": "R"
+                "house": 8,
+                "motion": "D"
             },
             "Venus": {
-                "degree": 53.50049204713281,
-                "cusp_degree": 23.50049204713281,
-                "motion_speed": 1.2281721548010638,
+                "degree": 54.034384816123314,
+                "cusp_degree": 24.034384816123314,
+                "motion_speed": 1.2280787236133317,
                 "zodiac": 2,
-                "house": 1,
+                "house": 9,
                 "motion": "D"
             },
             "Mars": {
-                "degree": 25.404773004522095,
-                "cusp_degree": 25.404773004522095,
-                "motion_speed": 0.7290983528280945,
+                "degree": 25.72163824345826,
+                "cusp_degree": 25.72163824345826,
+                "motion_speed": 0.7286849367180233,
                 "zodiac": 1,
-                "house": 12,
+                "house": 8,
                 "motion": "D"
             },
             "Jupiter": {
-                "degree": 30.237507514259452,
-                "cusp_degree": 0.23750751425945182,
-                "motion_speed": 0.23299387292623547,
+                "degree": 30.33875457810565,
+                "cusp_degree": 0.33875457810565024,
+                "motion_speed": 0.2328067261365694,
                 "zodiac": 2,
-                "house": 1,
+                "house": 9,
                 "motion": "D"
             },
             "Saturn": {
-                "degree": 94.41007842839217,
-                "cusp_degree": 4.410078428392168,
-                "motion_speed": 0.09849358191575097,
+                "degree": 94.45299299247756,
+                "cusp_degree": 4.4529929924775615,
+                "motion_speed": 0.09894018278730639,
                 "zodiac": 4,
-                "house": 3,
+                "house": 11,
                 "motion": "D"
             },
             "Rahu True": {
-                "degree": 258.5431991651549,
-                "cusp_degree": 18.543199165154874,
-                "motion_speed": -0.009150161630050219,
+                "degree": 258.5370683306487,
+                "cusp_degree": 18.537068330648708,
+                "motion_speed": -0.019114088427259215,
                 "zodiac": 9,
-                "house": 8,
+                "house": 4,
                 "motion": "R"
             },
             "Rahu Mean": {
-                "degree": 259.80413359808904,
-                "cusp_degree": 19.804133598089038,
-                "motion_speed": -0.05299201805998939,
+                "degree": 259.78109675802017,
+                "cusp_degree": 19.78109675802017,
+                "motion_speed": -0.052992018056436656,
                 "zodiac": 9,
-                "house": 8,
+                "house": 4,
                 "motion": "R"
             },
             "Ketu Mean": {
-                "degree": 79.80413359808904,
-                "motion_speed": -0.05299201805998939,
-                "cusp_degree": 19.804133598089038,
+                "degree": 79.78109675802017,
+                "motion_speed": -0.052992018056436656,
+                "cusp_degree": 19.78109675802017,
                 "zodiac": 3,
-                "house": 2,
+                "house": 10,
                 "motion": "R"
             },
             "Ketu True": {
-                "degree": 78.54319916515487,
-                "motion_speed": -0.009150161630050219,
-                "cusp_degree": 18.543199165154874,
+                "degree": 78.53706833064871,
+                "motion_speed": -0.019114088427259215,
+                "cusp_degree": 18.537068330648708,
                 "zodiac": 3,
-                "house": 2,
+                "house": 10,
                 "motion": "R"
             }
         }

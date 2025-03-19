@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Sheila Dixit",
+        "year": 1938,
+        "month": 3,
+        "day": 31,
+        "hour": 13,
+        "minute": 20,
+        "second": 0,
+        "latitude": 31.38564755,
+        "longitude": 75.30533042971072,
+        "location": "Kapurthala, Punjab"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 93.49426088351004,
+            "ascendant": 4
+        },
+        "planets": {
+            "Sun": {
+                "degree": 346.9331745492787,
+                "cusp_degree": 16.933174549278704,
+                "motion_speed": 0.9875253521571465,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 340.89932941713926,
+                "cusp_degree": 10.899329417139256,
+                "motion_speed": 13.608524749700305,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 5.542034678971036,
+                "cusp_degree": 5.542034678971036,
+                "motion_speed": 1.2310927591416243,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 0.4928511568669343,
+                "cusp_degree": 0.4928511568669343,
+                "motion_speed": 1.2377747946099231,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 20.577440205203175,
+                "cusp_degree": 20.577440205203175,
+                "motion_speed": 0.7084073974137935,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 299.97344213551276,
+                "cusp_degree": 29.973442135512755,
+                "motion_speed": 0.19790640076200178,
+                "zodiac": 10,
+                "house": 7,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 345.2148662702742,
+                "cusp_degree": 15.214866270274172,
+                "motion_speed": 0.12519187776764032,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 214.81588230533038,
+                "cusp_degree": 4.815882305330376,
+                "motion_speed": -0.12861321218035737,
+                "zodiac": 8,
+                "house": 5,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 216.48596800306694,
+                "cusp_degree": 6.485968003066944,
+                "motion_speed": -0.05299199789963824,
+                "zodiac": 8,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 36.485968003066944,
+                "motion_speed": -0.05299199789963824,
+                "cusp_degree": 6.485968003066944,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 34.815882305330376,
+                "motion_speed": -0.12861321218035737,
+                "cusp_degree": 4.815882305330376,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "R"
+            }
+        }
+    }
+}

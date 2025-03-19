@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Sheikh Mujibur Rahman (Politician)",
+        "year": 1920,
+        "month": 3,
+        "day": 17,
+        "hour": 23,
+        "minute": 30,
+        "second": 0,
+        "latitude": 22.9053736,
+        "longitude": 89.8990776,
+        "location": "Tungipara, Bangladesh"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 226.12471437119345,
+            "ascendant": 8
+        },
+        "planets": {
+            "Sun": {
+                "degree": 334.0846297140901,
+                "cusp_degree": 4.084629714090113,
+                "motion_speed": 0.9947522124544763,
+                "zodiac": 12,
+                "house": 5,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 300.2114332143129,
+                "cusp_degree": 0.21143321431287632,
+                "motion_speed": 12.964724949601315,
+                "zodiac": 11,
+                "house": 4,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 338.90851420802625,
+                "cusp_degree": 8.908514208026247,
+                "motion_speed": -0.7924796659393711,
+                "zodiac": 12,
+                "house": 5,
+                "motion": "R"
+            },
+            "Venus": {
+                "degree": 306.1260069338424,
+                "cusp_degree": 6.126006933842405,
+                "motion_speed": 1.2271404999769577,
+                "zodiac": 11,
+                "house": 4,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 196.3105574522265,
+                "cusp_degree": 16.310557452226504,
+                "motion_speed": -0.032510562485379604,
+                "zodiac": 7,
+                "house": 12,
+                "motion": "R"
+            },
+            "Jupiter": {
+                "degree": 105.83245925864883,
+                "cusp_degree": 15.832459258648825,
+                "motion_speed": -0.054603946106065455,
+                "zodiac": 4,
+                "house": 9,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 134.0971479046758,
+                "cusp_degree": 14.097147904675808,
+                "motion_speed": -0.07276623273201256,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 204.10625252809868,
+                "cusp_degree": 24.10625252809868,
+                "motion_speed": -0.14464149344551872,
+                "zodiac": 7,
+                "house": 12,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 205.57567132555536,
+                "cusp_degree": 25.575671325555362,
+                "motion_speed": -0.052992015272059594,
+                "zodiac": 7,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 25.57567132555539,
+                "motion_speed": -0.052992015272059594,
+                "cusp_degree": 25.57567132555539,
+                "zodiac": 1,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 24.106252528098707,
+                "motion_speed": -0.14464149344551872,
+                "cusp_degree": 24.106252528098707,
+                "zodiac": 1,
+                "house": 6,
+                "motion": "R"
+            }
+        }
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Ben Affleck",
+        "year": 1972,
+        "month": 8,
+        "day": 15,
+        "hour": 2,
+        "minute": 53,
+        "second": 0,
+        "latitude": 41.9441774,
+        "longitude": -94.1137041,
+        "location": "Berkley, United States"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 86.79801481528932,
+            "ascendant": 3
+        },
+        "planets": {
+            "Sun": {
+                "degree": 119.1306975897471,
+                "cusp_degree": 29.1306975897471,
+                "motion_speed": 0.9610587393067573,
+                "zodiac": 4,
+                "house": 2,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 190.7176424174819,
+                "cusp_degree": 10.717642417481898,
+                "motion_speed": 11.955747778137097,
+                "zodiac": 7,
+                "house": 5,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 107.37253537272176,
+                "cusp_degree": 17.372535372721757,
+                "motion_speed": -0.29816118529004515,
+                "zodiac": 4,
+                "house": 2,
+                "motion": "R"
+            },
+            "Venus": {
+                "degree": 73.94034546974117,
+                "cusp_degree": 13.940345469741175,
+                "motion_speed": 0.8540738026306862,
+                "zodiac": 3,
+                "house": 1,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 126.72591626417815,
+                "cusp_degree": 6.725916264178153,
+                "motion_speed": 0.6348399495516557,
+                "zodiac": 5,
+                "house": 3,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 245.1639309751352,
+                "cusp_degree": 5.163930975135202,
+                "motion_speed": -0.03116724936887838,
+                "zodiac": 9,
+                "house": 7,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 55.086967510039095,
+                "cusp_degree": 25.086967510039095,
+                "motion_speed": 0.07964007626085089,
+                "zodiac": 2,
+                "house": 12,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 272.2099274921327,
+                "cusp_degree": 2.2099274921326924,
+                "motion_speed": -0.03316678750519442,
+                "zodiac": 10,
+                "house": 8,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 271.11489189136626,
+                "cusp_degree": 1.1148918913662555,
+                "motion_speed": -0.05299204754496267,
+                "zodiac": 10,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 91.11489189136626,
+                "motion_speed": -0.05299204754496267,
+                "cusp_degree": 1.1148918913662555,
+                "zodiac": 4,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 92.20992749213269,
+                "motion_speed": -0.03316678750519442,
+                "cusp_degree": 2.2099274921326924,
+                "zodiac": 4,
+                "house": 2,
+                "motion": "R"
+            }
+        }
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Kamal Hassan (Actor/Politician)",
+        "year": 1954,
+        "month": 11,
+        "day": 7,
+        "hour": 6,
+        "minute": 15,
+        "second": 0,
+        "latitude": 9.48671505,
+        "longitude": 78.67227177440276,
+        "location": "Paramakudi"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 202.0279260891091,
+            "ascendant": 7
+        },
+        "planets": {
+            "Sun": {
+                "degree": 200.84561099429428,
+                "cusp_degree": 20.845610994294276,
+                "motion_speed": 1.00321325476032,
+                "zodiac": 7,
+                "house": 1,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 330.7539806271499,
+                "cusp_degree": 0.7539806271498719,
+                "motion_speed": 14.4006067568032,
+                "zodiac": 12,
+                "house": 6,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 185.7479013322266,
+                "cusp_degree": 5.747901332226604,
+                "motion_speed": -0.16481145229161406,
+                "zodiac": 7,
+                "house": 1,
+                "motion": "R"
+            },
+            "Venus": {
+                "degree": 213.81788742952546,
+                "cusp_degree": 3.817887429525456,
+                "motion_speed": -0.4719375763629093,
+                "zodiac": 8,
+                "house": 2,
+                "motion": "R"
+            },
+            "Mars": {
+                "degree": 287.74100228884237,
+                "cusp_degree": 17.741002288842367,
+                "motion_speed": 0.6800442328207607,
+                "zodiac": 10,
+                "house": 4,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 96.54488664819566,
+                "cusp_degree": 6.544886648195657,
+                "motion_speed": 0.03286241085382182,
+                "zodiac": 4,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 199.09056835952524,
+                "cusp_degree": 19.090568359525236,
+                "motion_speed": 0.12007229821057191,
+                "zodiac": 7,
+                "house": 1,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 253.79222652973144,
+                "cusp_degree": 13.792226529731437,
+                "motion_speed": -0.10350792411029186,
+                "zodiac": 9,
+                "house": 3,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 255.10389742933714,
+                "cusp_degree": 15.103897429337138,
+                "motion_speed": -0.05299201504273393,
+                "zodiac": 9,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 75.10389742933717,
+                "motion_speed": -0.05299201504273393,
+                "cusp_degree": 15.103897429337167,
+                "zodiac": 3,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 73.79222652973147,
+                "motion_speed": -0.10350792411029186,
+                "cusp_degree": 13.792226529731465,
+                "zodiac": 3,
+                "house": 9,
+                "motion": "R"
+            }
+        }
+    }
+}

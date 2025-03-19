@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Asif Ali Zardari (Politician)",
+        "year": 1954,
+        "month": 7,
+        "day": 26,
+        "hour": 3,
+        "minute": 35,
+        "second": 0,
+        "latitude": 26.2452915,
+        "longitude": 68.4040229,
+        "location": "Nawabshah, Pakistan"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 62.210413913899615,
+            "ascendant": 3
+        },
+        "planets": {
+            "Sun": {
+                "degree": 99.17438574150266,
+                "cusp_degree": 9.174385741502661,
+                "motion_speed": 0.9556211904605142,
+                "zodiac": 4,
+                "house": 2,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 47.72278344025118,
+                "cusp_degree": 17.722783440251177,
+                "motion_speed": 14.108017729046603,
+                "zodiac": 2,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 79.56015458397874,
+                "cusp_degree": 19.560154583978743,
+                "motion_speed": 0.8159603189520536,
+                "zodiac": 3,
+                "house": 1,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 141.0912620281133,
+                "cusp_degree": 21.091262028113306,
+                "motion_speed": 1.1282601672773476,
+                "zodiac": 5,
+                "house": 3,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 242.45991718390195,
+                "cusp_degree": 2.4599171839019505,
+                "motion_speed": -0.05256825301876267,
+                "zodiac": 9,
+                "house": 7,
+                "motion": "R"
+            },
+            "Jupiter": {
+                "degree": 80.80960603721921,
+                "cusp_degree": 20.80960603721921,
+                "motion_speed": 0.2204249026198395,
+                "zodiac": 3,
+                "house": 1,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 189.71864088959146,
+                "cusp_degree": 9.718640889591455,
+                "motion_speed": 0.031167365192446235,
+                "zodiac": 7,
+                "house": 5,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 261.4933837541881,
+                "cusp_degree": 21.493383754188073,
+                "motion_speed": 0.020760526534197656,
+                "zodiac": 9,
+                "house": 7,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 260.6209592125702,
+                "cusp_degree": 20.6209592125702,
+                "motion_speed": -0.05299198211878273,
+                "zodiac": 9,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 80.6209592125702,
+                "motion_speed": -0.05299198211878273,
+                "cusp_degree": 20.6209592125702,
+                "zodiac": 3,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 81.49338375418807,
+                "motion_speed": 0.020760526534197656,
+                "cusp_degree": 21.493383754188073,
+                "zodiac": 3,
+                "house": 1,
+                "motion": "R"
+            }
+        }
+    }
+}

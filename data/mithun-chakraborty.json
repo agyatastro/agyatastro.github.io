@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Mithun Chakraborty (Actor/Politician)",
+        "year": 1950,
+        "month": 6,
+        "day": 16,
+        "hour": 5,
+        "minute": 40,
+        "second": 0,
+        "latitude": 22.5726459,
+        "longitude": 88.3638953,
+        "location": "Kolkata, West Bengal"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 71.34383221174863,
+            "ascendant": 3
+        },
+        "planets": {
+            "Sun": {
+                "degree": 61.12937832405421,
+                "cusp_degree": 1.1293783240542083,
+                "motion_speed": 0.9552209246146719,
+                "zodiac": 3,
+                "house": 1,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 65.0102556283617,
+                "cusp_degree": 5.010255628361705,
+                "motion_speed": 12.220775659612777,
+                "zodiac": 3,
+                "house": 1,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 38.5738453236302,
+                "cusp_degree": 8.573845323630202,
+                "motion_speed": 1.2794073008465299,
+                "zodiac": 2,
+                "house": 12,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 23.465551601490013,
+                "cusp_degree": 23.465551601490013,
+                "motion_speed": 1.1627886064892803,
+                "zodiac": 1,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 158.40644420711808,
+                "cusp_degree": 8.406444207118085,
+                "motion_speed": 0.3905859113203745,
+                "zodiac": 6,
+                "house": 4,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 314.0936428006163,
+                "cusp_degree": 14.093642800616294,
+                "motion_speed": 0.0350831306286379,
+                "zodiac": 11,
+                "house": 9,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 140.2651034555508,
+                "cusp_degree": 20.265103455550786,
+                "motion_speed": 0.052453360606051116,
+                "zodiac": 5,
+                "house": 3,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 340.6377220091009,
+                "cusp_degree": 10.637722009100912,
+                "motion_speed": -0.22391893936841606,
+                "zodiac": 12,
+                "house": 10,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 340.15743768567603,
+                "cusp_degree": 10.15743768567603,
+                "motion_speed": -0.05299205236864788,
+                "zodiac": 12,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 160.1574376856761,
+                "motion_speed": -0.05299205236864788,
+                "cusp_degree": 10.157437685676086,
+                "zodiac": 6,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 160.6377220091009,
+                "motion_speed": -0.22391893936841606,
+                "cusp_degree": 10.637722009100912,
+                "zodiac": 6,
+                "house": 4,
+                "motion": "R"
+            }
+        }
+    }
+}

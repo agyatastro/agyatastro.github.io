@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Varun Dhawan (Actor)",
+        "year": 1987,
+        "month": 4,
+        "day": 24,
+        "hour": 17,
+        "minute": 0,
+        "second": 0,
+        "latitude": 19.054999,
+        "longitude": 72.8692035,
+        "location": "Mumbai, Maharashtra"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 163.26905649387143,
+            "ascendant": 6
+        },
+        "planets": {
+            "Sun": {
+                "degree": 10.082533927267493,
+                "cusp_degree": 10.082533927267493,
+                "motion_speed": 0.9745571084057493,
+                "zodiac": 1,
+                "house": 8,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 326.0657084557901,
+                "cusp_degree": 26.065708455790116,
+                "motion_speed": 13.614915110602118,
+                "zodiac": 11,
+                "house": 6,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 356.26334128174494,
+                "cusp_degree": 26.263341281744943,
+                "motion_speed": 1.8734297659296173,
+                "zodiac": 12,
+                "house": 7,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 338.5009023016521,
+                "cusp_degree": 8.500902301652104,
+                "motion_speed": 1.2061422873542387,
+                "zodiac": 12,
+                "house": 7,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 48.833546349177254,
+                "cusp_degree": 18.833546349177254,
+                "motion_speed": 0.6618196403460084,
+                "zodiac": 2,
+                "house": 9,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 348.95325962700366,
+                "cusp_degree": 18.95325962700366,
+                "motion_speed": 0.2335163590866562,
+                "zodiac": 12,
+                "house": 7,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 237.00951160363903,
+                "cusp_degree": 27.009511603639027,
+                "motion_speed": -0.03818655573344355,
+                "zodiac": 8,
+                "house": 3,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 347.7774768400709,
+                "cusp_degree": 17.777476840070904,
+                "motion_speed": 0.021301753857555176,
+                "zodiac": 12,
+                "house": 7,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 346.8065323139155,
+                "cusp_degree": 16.80653231391551,
+                "motion_speed": -0.0529920333485676,
+                "zodiac": 12,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 166.80653231391557,
+                "motion_speed": -0.0529920333485676,
+                "cusp_degree": 16.806532313915568,
+                "zodiac": 6,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 167.7774768400709,
+                "motion_speed": 0.021301753857555176,
+                "cusp_degree": 17.777476840070904,
+                "zodiac": 6,
+                "house": 1,
+                "motion": "R"
+            }
+        }
+    }
+}

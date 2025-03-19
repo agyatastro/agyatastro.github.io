@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Sri Pavan Kalyan",
+        "year": 1967,
+        "month": 9,
+        "day": 2,
+        "hour": 22,
+        "minute": 0,
+        "second": 0,
+        "latitude": 16.2915189,
+        "longitude": 80.4541588,
+        "location": "Guntur, Andhra Pradesh"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 23.21753427708626,
+            "ascendant": 1
+        },
+        "planets": {
+            "Sun": {
+                "degree": 136.10863992722224,
+                "cusp_degree": 16.108639927222242,
+                "motion_speed": 0.9685835459817794,
+                "zodiac": 5,
+                "house": 5,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 111.89283032779002,
+                "cusp_degree": 21.892830327790023,
+                "motion_speed": 14.14885914081049,
+                "zodiac": 4,
+                "house": 4,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 144.46267680703275,
+                "cusp_degree": 24.46267680703275,
+                "motion_speed": 1.8003998052963055,
+                "zodiac": 5,
+                "house": 5,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 130.1334652559154,
+                "cusp_degree": 10.13346525591541,
+                "motion_speed": -0.5931773089628977,
+                "zodiac": 5,
+                "house": 5,
+                "motion": "R"
+            },
+            "Mars": {
+                "degree": 211.82932083665546,
+                "cusp_degree": 1.8293208366554552,
+                "motion_speed": 0.6360335068937691,
+                "zodiac": 8,
+                "house": 8,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 117.54742846864102,
+                "cusp_degree": 27.547428468641016,
+                "motion_speed": 0.21359332739797626,
+                "zodiac": 4,
+                "house": 4,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 347.797281568655,
+                "cusp_degree": 17.797281568655023,
+                "motion_speed": -0.06023756108343531,
+                "zodiac": 12,
+                "house": 12,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 5.666580245557273,
+                "cusp_degree": 5.666580245557273,
+                "motion_speed": -0.1343027494474276,
+                "zodiac": 1,
+                "house": 1,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 6.960346240824412,
+                "cusp_degree": 6.960346240824412,
+                "motion_speed": -0.052992101951675,
+                "zodiac": 1,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 186.9603462408244,
+                "motion_speed": -0.052992101951675,
+                "cusp_degree": 6.960346240824407,
+                "zodiac": 7,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 185.66658024555727,
+                "motion_speed": -0.1343027494474276,
+                "cusp_degree": 5.66658024555727,
+                "zodiac": 7,
+                "house": 7,
+                "motion": "R"
+            }
+        }
+    }
+}

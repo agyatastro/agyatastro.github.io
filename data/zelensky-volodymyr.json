@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Zelensky Volodymyr (Politician/Comic)",
+        "year": 1978,
+        "month": 1,
+        "day": 25,
+        "hour": 14,
+        "minute": 0,
+        "second": 0,
+        "latitude": 48.286968,
+        "longitude": 23.344231,
+        "location": "Kryvyi Rih, Ukrain"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 347.29815284968015,
+            "ascendant": 12
+        },
+        "planets": {
+            "Sun": {
+                "degree": 281.46616361605845,
+                "cusp_degree": 11.466163616058452,
+                "motion_speed": 1.0162969967877307,
+                "zodiac": 10,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 112.89119848692187,
+                "cusp_degree": 22.891198486921866,
+                "motion_speed": 12.237110304968672,
+                "zodiac": 4,
+                "house": 5,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 261.23525479300645,
+                "cusp_degree": 21.235254793006447,
+                "motion_speed": 1.4031830315312892,
+                "zodiac": 9,
+                "house": 10,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 282.2079496559907,
+                "cusp_degree": 12.207949655990717,
+                "motion_speed": 1.25621801624866,
+                "zodiac": 10,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 96.73363593521033,
+                "cusp_degree": 6.73363593521033,
+                "motion_speed": -0.39324784672598606,
+                "zodiac": 4,
+                "house": 5,
+                "motion": "R"
+            },
+            "Jupiter": {
+                "degree": 63.61252852055339,
+                "cusp_degree": 3.61252852055339,
+                "motion_speed": -0.08269183633927035,
+                "zodiac": 3,
+                "house": 4,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 125.26919129696951,
+                "cusp_degree": 5.26919129696951,
+                "motion_speed": -0.07022335872063486,
+                "zodiac": 5,
+                "house": 6,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 164.22539892056076,
+                "cusp_degree": 14.225398920560764,
+                "motion_speed": -0.16891008578767192,
+                "zodiac": 6,
+                "house": 7,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 165.7142462780207,
+                "cusp_degree": 15.71424627802071,
+                "motion_speed": -0.052992025701175775,
+                "zodiac": 6,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 345.7142462780207,
+                "motion_speed": -0.052992025701175775,
+                "cusp_degree": 15.71424627802071,
+                "zodiac": 12,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 344.2253989205608,
+                "motion_speed": -0.16891008578767192,
+                "cusp_degree": 14.225398920560792,
+                "zodiac": 12,
+                "house": 1,
+                "motion": "R"
+            }
+        }
+    }
+}

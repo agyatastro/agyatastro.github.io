@@ -1,0 +1,109 @@
+{
+    "request": {
+        "name": "Aamir Khan (Actor)",
+        "year": 1965,
+        "month": 3,
+        "day": 14,
+        "hour": 6,
+        "minute": 15,
+        "second": 0,
+        "latitude": 19.054999,
+        "longitude": 72.8692035
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 318.25353529114295,
+            "ascendant": 11
+        },
+        "planets": {
+            "Sun": {
+                "degree": 329.86508323117704,
+                "cusp_degree": 29.86508323117704,
+                "motion_speed": 0.9965083842059019,
+                "zodiac": 11,
+                "house": 1,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 103.50006529249288,
+                "cusp_degree": 13.500065292492877,
+                "motion_speed": 14.517968326563992,
+                "zodiac": 4,
+                "house": 6,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 345.48097382378785,
+                "cusp_degree": 15.48097382378785,
+                "motion_speed": 1.6756816454845131,
+                "zodiac": 12,
+                "house": 2,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 322.471928302892,
+                "cusp_degree": 22.471928302892024,
+                "motion_speed": 1.2454918157908401,
+                "zodiac": 11,
+                "house": 1,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 143.58932039709214,
+                "cusp_degree": 23.589320397092138,
+                "motion_speed": -0.3892248216099106,
+                "zodiac": 5,
+                "house": 7,
+                "motion": "R"
+            },
+            "Jupiter": {
+                "degree": 28.717255405875246,
+                "cusp_degree": 28.717255405875246,
+                "motion_speed": 0.17217657152935184,
+                "zodiac": 1,
+                "house": 3,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 316.12060852085864,
+                "cusp_degree": 16.12060852085864,
+                "motion_speed": 0.11971394705139289,
+                "zodiac": 11,
+                "house": 1,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 54.64836165497007,
+                "cusp_degree": 24.648361654970067,
+                "motion_speed": -0.10545785564172626,
+                "zodiac": 2,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 54.793946772716694,
+                "cusp_degree": 24.793946772716694,
+                "motion_speed": -0.05299203814623291,
+                "zodiac": 2,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 234.7939467727167,
+                "motion_speed": -0.05299203814623291,
+                "cusp_degree": 24.79394677271671,
+                "zodiac": 8,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 234.64836165497007,
+                "motion_speed": -0.10545785564172626,
+                "cusp_degree": 24.648361654970074,
+                "zodiac": 8,
+                "house": 10,
+                "motion": "R"
+            }
+        }
+    }
+}

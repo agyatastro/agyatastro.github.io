@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Lalit Modi (Businessman/BCCI)",
+        "year": 1963,
+        "month": 11,
+        "day": 29,
+        "hour": 11,
+        "minute": 0,
+        "second": 0,
+        "latitude": 28.6273928,
+        "longitude": 77.1716954,
+        "location": "Delhi, Delhi"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 280.3580161949497,
+            "ascendant": 10
+        },
+        "planets": {
+            "Sun": {
+                "degree": 222.91861832216117,
+                "cusp_degree": 12.918618322161166,
+                "motion_speed": 1.012454398087091,
+                "zodiac": 8,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 17.758032559700244,
+                "cusp_degree": 17.758032559700244,
+                "motion_speed": 15.163226993827578,
+                "zodiac": 1,
+                "house": 4,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 236.23643403030022,
+                "cusp_degree": 26.236434030300217,
+                "motion_speed": 1.5108516891325405,
+                "zodiac": 8,
+                "house": 11,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 246.14126464055514,
+                "cusp_degree": 6.141264640555136,
+                "motion_speed": 1.2445240092039045,
+                "zodiac": 9,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 242.01280167591378,
+                "cusp_degree": 2.012801675913778,
+                "motion_speed": 0.7518418924740776,
+                "zodiac": 9,
+                "house": 12,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 346.25605369853184,
+                "cusp_degree": 16.256053698531844,
+                "motion_speed": -0.021478632185041462,
+                "zodiac": 12,
+                "house": 3,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 294.3398414320898,
+                "cusp_degree": 24.339841432089827,
+                "motion_speed": 0.06253039621150877,
+                "zodiac": 10,
+                "house": 1,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 78.30997412677225,
+                "cusp_degree": 18.309974126772246,
+                "motion_speed": -0.09101830403162164,
+                "zodiac": 3,
+                "house": 6,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 79.74271264515895,
+                "cusp_degree": 19.742712645158946,
+                "motion_speed": -0.05299203939463663,
+                "zodiac": 3,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 259.7427126451589,
+                "motion_speed": -0.05299203939463663,
+                "cusp_degree": 19.742712645158917,
+                "zodiac": 9,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 258.30997412677226,
+                "motion_speed": -0.09101830403162164,
+                "cusp_degree": 18.30997412677226,
+                "zodiac": 9,
+                "house": 12,
+                "motion": "R"
+            }
+        }
+    }
+}

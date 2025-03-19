@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "John Franklin Kennedy (Politician/Figure)",
+        "year": 1917,
+        "month": 5,
+        "day": 29,
+        "hour": 15,
+        "minute": 1,
+        "second": 0,
+        "latitude": 42.3329021,
+        "longitude": -71.1187421,
+        "location": "Brookline, United States"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 48.57371530223165,
+            "ascendant": 2
+        },
+        "planets": {
+            "Sun": {
+                "degree": 44.716748634629035,
+                "cusp_degree": 14.716748634629035,
+                "motion_speed": 0.958846086478091,
+                "zodiac": 2,
+                "house": 1,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 139.26888372484427,
+                "cusp_degree": 19.268883724844272,
+                "motion_speed": 11.946108128557038,
+                "zodiac": 5,
+                "house": 4,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 27.88199035596791,
+                "cusp_degree": 27.88199035596791,
+                "motion_speed": -0.008232697547858001,
+                "zodiac": 1,
+                "house": 12,
+                "motion": "R"
+            },
+            "Venus": {
+                "degree": 53.50049204713281,
+                "cusp_degree": 23.50049204713281,
+                "motion_speed": 1.2281721548010638,
+                "zodiac": 2,
+                "house": 1,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 25.404773004522095,
+                "cusp_degree": 25.404773004522095,
+                "motion_speed": 0.7290983528280945,
+                "zodiac": 1,
+                "house": 12,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 30.237507514259452,
+                "cusp_degree": 0.23750751425945182,
+                "motion_speed": 0.23299387292623547,
+                "zodiac": 2,
+                "house": 1,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 94.41007842839217,
+                "cusp_degree": 4.410078428392168,
+                "motion_speed": 0.09849358191575097,
+                "zodiac": 4,
+                "house": 3,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 258.5431991651549,
+                "cusp_degree": 18.543199165154874,
+                "motion_speed": -0.009150161630050219,
+                "zodiac": 9,
+                "house": 8,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 259.80413359808904,
+                "cusp_degree": 19.804133598089038,
+                "motion_speed": -0.05299201805998939,
+                "zodiac": 9,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 79.80413359808904,
+                "motion_speed": -0.05299201805998939,
+                "cusp_degree": 19.804133598089038,
+                "zodiac": 3,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 78.54319916515487,
+                "motion_speed": -0.009150161630050219,
+                "cusp_degree": 18.543199165154874,
+                "zodiac": 3,
+                "house": 2,
+                "motion": "R"
+            }
+        }
+    }
+}

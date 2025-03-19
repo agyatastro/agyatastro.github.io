@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Dharmendra (Actor)",
+        "year": 1935,
+        "month": 12,
+        "day": 8,
+        "hour": 6,
+        "minute": 0,
+        "second": 0,
+        "latitude": 30.9090157,
+        "longitude": 75.851601,
+        "location": "Ludhiana, Punjab"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 215.92559328168463,
+            "ascendant": 8
+        },
+        "planets": {
+            "Sun": {
+                "degree": 232.02292364395058,
+                "cusp_degree": 22.022923643950577,
+                "motion_speed": 1.0154159181539228,
+                "zodiac": 8,
+                "house": 1,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 24.584260024384424,
+                "cusp_degree": 24.584260024384424,
+                "motion_speed": 14.23305463458433,
+                "zodiac": 1,
+                "house": 6,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 230.75187953119993,
+                "cusp_degree": 20.751879531199933,
+                "motion_speed": 1.5701197717531525,
+                "zodiac": 8,
+                "house": 1,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 186.3792342283241,
+                "cusp_degree": 6.379234228324094,
+                "motion_speed": 1.1126627658425357,
+                "zodiac": 7,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 277.6781192616768,
+                "cusp_degree": 7.678119261676784,
+                "motion_speed": 0.776028381703606,
+                "zodiac": 10,
+                "house": 3,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 223.46154297446338,
+                "cusp_degree": 13.461542974463384,
+                "motion_speed": 0.22241443974544564,
+                "zodiac": 8,
+                "house": 1,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 311.3236286169534,
+                "cusp_degree": 11.323628616953386,
+                "motion_speed": 0.051086765844706894,
+                "zodiac": 11,
+                "house": 4,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 260.00395270685067,
+                "cusp_degree": 20.00395270685067,
+                "motion_speed": -0.07318540969934831,
+                "zodiac": 9,
+                "house": 2,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 261.22662218527506,
+                "cusp_degree": 21.226622185275062,
+                "motion_speed": -0.05299213256791373,
+                "zodiac": 9,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 81.22662218527506,
+                "motion_speed": -0.05299213256791373,
+                "cusp_degree": 21.226622185275062,
+                "zodiac": 3,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 80.00395270685067,
+                "motion_speed": -0.07318540969934831,
+                "cusp_degree": 20.00395270685067,
+                "zodiac": 3,
+                "house": 8,
+                "motion": "R"
+            }
+        }
+    }
+}

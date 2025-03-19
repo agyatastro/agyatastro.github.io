@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Dilip Kumar (Actor)",
+        "year": 1922,
+        "month": 12,
+        "day": 11,
+        "hour": 11,
+        "minute": 15,
+        "second": 0,
+        "latitude": 34.0123846,
+        "longitude": 71.5787458,
+        "location": "Peshawar, Pakistan"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 289.8090046281407,
+            "ascendant": 10
+        },
+        "planets": {
+            "Sun": {
+                "degree": 235.6308268282685,
+                "cusp_degree": 25.63082682826851,
+                "motion_speed": 1.0165795753498277,
+                "zodiac": 8,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 139.72832345820538,
+                "cusp_degree": 19.72832345820538,
+                "motion_speed": 13.955864962052758,
+                "zodiac": 5,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 238.0987423949795,
+                "cusp_degree": 28.098742394979496,
+                "motion_speed": 1.5734202301252602,
+                "zodiac": 8,
+                "house": 11,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 212.13959090682272,
+                "cusp_degree": 2.1395909068227184,
+                "motion_speed": -0.18596955114818045,
+                "zodiac": 8,
+                "house": 11,
+                "motion": "R"
+            },
+            "Mars": {
+                "degree": 306.99347649918684,
+                "cusp_degree": 6.993476499186841,
+                "motion_speed": 0.7324574023323827,
+                "zodiac": 11,
+                "house": 2,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 196.7263677157995,
+                "cusp_degree": 16.726367715799512,
+                "motion_speed": 0.1923279215650206,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 175.24131773705577,
+                "cusp_degree": 25.241317737055766,
+                "motion_speed": 0.07994018836884315,
+                "zodiac": 6,
+                "house": 9,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 153.02571660128916,
+                "cusp_degree": 3.0257166012891616,
+                "motion_speed": -0.005194139456291785,
+                "zodiac": 6,
+                "house": 9,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 152.66244630282193,
+                "cusp_degree": 2.662446302821934,
+                "motion_speed": -0.05299214514076855,
+                "zodiac": 6,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 332.66244630282193,
+                "motion_speed": -0.05299214514076855,
+                "cusp_degree": 2.662446302821934,
+                "zodiac": 12,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 333.02571660128916,
+                "motion_speed": -0.005194139456291785,
+                "cusp_degree": 3.0257166012891616,
+                "zodiac": 12,
+                "house": 3,
+                "motion": "R"
+            }
+        }
+    }
+}

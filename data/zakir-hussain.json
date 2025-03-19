@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Zakir Hussain (Musician/Tabla)",
+        "year": 1951,
+        "month": 3,
+        "day": 9,
+        "hour": 11,
+        "minute": 0,
+        "second": 0,
+        "latitude": 19.054999,
+        "longitude": 72.8692035,
+        "location": "Mumbai, Maharashtra"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 37.80198496546363,
+            "ascendant": 2
+        },
+        "planets": {
+            "Sun": {
+                "degree": 324.66165986632456,
+                "cusp_degree": 24.661659866324555,
+                "motion_speed": 1.0000682214856529,
+                "zodiac": 11,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 341.31396478267396,
+                "cusp_degree": 11.313964782673963,
+                "motion_speed": 13.03674813339768,
+                "zodiac": 12,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 322.64991858173363,
+                "cusp_degree": 22.64991858173363,
+                "motion_speed": 1.8982855742796998,
+                "zodiac": 11,
+                "house": 10,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 351.9207291751267,
+                "cusp_degree": 21.920729175126723,
+                "motion_speed": 1.2277701890372565,
+                "zodiac": 12,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 342.46139703744694,
+                "cusp_degree": 12.461397037446943,
+                "motion_speed": 0.7689357014144185,
+                "zodiac": 12,
+                "house": 11,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 326.5511705413226,
+                "cusp_degree": 26.55117054132262,
+                "motion_speed": 0.24235384433117763,
+                "zodiac": 11,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 156.69333295707636,
+                "cusp_degree": 6.693332957076365,
+                "motion_speed": -0.07624375272883778,
+                "zodiac": 6,
+                "house": 5,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 325.8234876353198,
+                "cusp_degree": 25.823487635319793,
+                "motion_speed": 0.0011835165804904946,
+                "zodiac": 11,
+                "house": 10,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 326.0497739289685,
+                "cusp_degree": 26.049773928968477,
+                "motion_speed": -0.0529920847056507,
+                "zodiac": 11,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 146.04977392896848,
+                "motion_speed": -0.0529920847056507,
+                "cusp_degree": 26.049773928968477,
+                "zodiac": 5,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 145.8234876353198,
+                "motion_speed": 0.0011835165804904946,
+                "cusp_degree": 25.823487635319793,
+                "zodiac": 5,
+                "house": 4,
+                "motion": "R"
+            }
+        }
+    }
+}

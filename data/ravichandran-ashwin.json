@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Ravichandran Ashwin",
+        "year": 1986,
+        "month": 9,
+        "day": 17,
+        "hour": 12,
+        "minute": 39,
+        "second": 0,
+        "latitude": 13.0836939,
+        "longitude": 80.270186,
+        "location": "Chennai, Tamilnadu"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 244.19092901150887,
+            "ascendant": 9
+        },
+        "planets": {
+            "Sun": {
+                "degree": 150.43540848089688,
+                "cusp_degree": 0.4354084808968821,
+                "motion_speed": 0.9751564804065207,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 318.7488862467638,
+                "cusp_degree": 18.74888624676379,
+                "motion_speed": 13.618964497492442,
+                "zodiac": 11,
+                "house": 3,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 160.11369547785637,
+                "cusp_degree": 10.113695477856368,
+                "motion_speed": 1.7039977655483478,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 194.35647212672458,
+                "cusp_degree": 14.356472126724583,
+                "motion_speed": 0.7479967383501812,
+                "zodiac": 7,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 265.8153108853633,
+                "cusp_degree": 25.815310885363317,
+                "motion_speed": 0.4102403376556551,
+                "zodiac": 9,
+                "house": 1,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 323.34496284131586,
+                "cusp_degree": 23.344962841315862,
+                "motion_speed": -0.13067006760779803,
+                "zodiac": 11,
+                "house": 3,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 220.7278559927882,
+                "cusp_degree": 10.727855992788193,
+                "motion_speed": 0.06290118997934192,
+                "zodiac": 8,
+                "house": 12,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 357.35008458841355,
+                "cusp_degree": 27.35008458841355,
+                "motion_speed": -0.0580121799330938,
+                "zodiac": 12,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 358.42139045873313,
+                "cusp_degree": 28.42139045873313,
+                "motion_speed": -0.05299203394732502,
+                "zodiac": 12,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 178.42139045873319,
+                "motion_speed": -0.05299203394732502,
+                "cusp_degree": 28.421390458733185,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 177.35008458841355,
+                "motion_speed": -0.0580121799330938,
+                "cusp_degree": 27.35008458841355,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "R"
+            }
+        }
+    }
+}

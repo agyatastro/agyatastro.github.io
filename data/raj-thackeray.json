@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Sri Raj Thackeray",
+        "year": 1968,
+        "month": 6,
+        "day": 14,
+        "hour": 17,
+        "minute": 48,
+        "second": 0,
+        "latitude": 19.054999,
+        "longitude": 72.8692035,
+        "location": "Mumbai, Maharashtra"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 221.1369727272962,
+            "ascendant": 8
+        },
+        "planets": {
+            "Sun": {
+                "degree": 60.06542078600388,
+                "cusp_degree": 0.06542078600387669,
+                "motion_speed": 0.9547560860062635,
+                "zodiac": 3,
+                "house": 8,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 290.46489598504473,
+                "cusp_degree": 20.464895985044734,
+                "motion_speed": 13.917404573955299,
+                "zodiac": 10,
+                "house": 3,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 66.3033386364964,
+                "cusp_degree": 6.303338636496406,
+                "motion_speed": -0.5015914028354059,
+                "zodiac": 3,
+                "house": 8,
+                "motion": "R"
+            },
+            "Venus": {
+                "degree": 58.44512389512875,
+                "cusp_degree": 28.445123895128752,
+                "motion_speed": 1.2279702498585723,
+                "zodiac": 2,
+                "house": 7,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 62.065598125525085,
+                "cusp_degree": 2.065598125525085,
+                "motion_speed": 0.6768032976072642,
+                "zodiac": 3,
+                "house": 8,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 126.43098971634895,
+                "cusp_degree": 6.430989716348947,
+                "motion_speed": 0.13858867556296317,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 359.7925664501472,
+                "cusp_degree": 29.792566450147206,
+                "motion_speed": 0.08254734873794807,
+                "zodiac": 12,
+                "house": 5,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 352.72414357744884,
+                "cusp_degree": 22.724143577448842,
+                "motion_speed": -0.10387109297364655,
+                "zodiac": 12,
+                "house": 5,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 351.8138954463855,
+                "cusp_degree": 21.813895446385516,
+                "motion_speed": -0.052992035158400425,
+                "zodiac": 12,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 171.81389544638546,
+                "motion_speed": -0.052992035158400425,
+                "cusp_degree": 21.81389544638546,
+                "zodiac": 6,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 172.72414357744879,
+                "motion_speed": -0.10387109297364655,
+                "cusp_degree": 22.724143577448785,
+                "zodiac": 6,
+                "house": 11,
+                "motion": "R"
+            }
+        }
+    }
+}

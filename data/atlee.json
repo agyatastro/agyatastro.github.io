@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Atlee (Director)",
+        "year": 1986,
+        "month": 9,
+        "day": 21,
+        "hour": 23,
+        "minute": 38,
+        "second": 0,
+        "latitude": 9.9261153,
+        "longitude": 78.1140983,
+        "location": "Madurai, Tamilnadu"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 61.52908871479664,
+            "ascendant": 3
+        },
+        "planets": {
+            "Sun": {
+                "degree": 154.78768941053113,
+                "cusp_degree": 4.787689410531129,
+                "motion_speed": 0.9776341596167057,
+                "zodiac": 6,
+                "house": 4,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 16.5397835975849,
+                "cusp_degree": 16.5397835975849,
+                "motion_speed": 12.325356626770049,
+                "zodiac": 1,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 167.53870434835818,
+                "cusp_degree": 17.53870434835818,
+                "motion_speed": 1.6283368994800886,
+                "zodiac": 6,
+                "house": 4,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 197.53394467078806,
+                "cusp_degree": 17.53394467078806,
+                "motion_speed": 0.6756159717233526,
+                "zodiac": 7,
+                "house": 5,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 267.71947411958007,
+                "cusp_degree": 27.71947411958007,
+                "motion_speed": 0.4435216402377473,
+                "zodiac": 9,
+                "house": 7,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 322.77031401011374,
+                "cusp_degree": 22.770314010113736,
+                "motion_speed": -0.1268490209568744,
+                "zodiac": 11,
+                "house": 9,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 221.0213136771747,
+                "cusp_degree": 11.021313677174703,
+                "motion_speed": 0.06872409522468827,
+                "zodiac": 8,
+                "house": 6,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 357.28212387503385,
+                "cusp_degree": 27.282123875033847,
+                "motion_speed": 0.02191948376599323,
+                "zodiac": 12,
+                "house": 10,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 358.18517114894047,
+                "cusp_degree": 28.18517114894047,
+                "motion_speed": -0.05299204219132275,
+                "zodiac": 12,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 178.18517114894053,
+                "motion_speed": -0.05299204219132275,
+                "cusp_degree": 28.185171148940526,
+                "zodiac": 6,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 177.2821238750339,
+                "motion_speed": 0.02191948376599323,
+                "cusp_degree": 27.282123875033903,
+                "zodiac": 6,
+                "house": 4,
+                "motion": "R"
+            }
+        }
+    }
+}

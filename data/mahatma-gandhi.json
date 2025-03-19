@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Mahatma Gandhi (Politician/National Figure)",
+        "year": 1869,
+        "month": 10,
+        "day": 2,
+        "hour": 8,
+        "minute": 36,
+        "second": 0,
+        "latitude": 21.6409,
+        "longitude": 69.611,
+        "location": "Porbandar, Gujarat"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 192.00329978971726,
+            "ascendant": 7
+        },
+        "planets": {
+            "Sun": {
+                "degree": 166.9157592813572,
+                "cusp_degree": 16.915759281357197,
+                "motion_speed": 0.9853206449014169,
+                "zodiac": 6,
+                "house": 12,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 118.26402226344565,
+                "cusp_degree": 28.264022263445653,
+                "motion_speed": 14.438874504749997,
+                "zodiac": 4,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 191.74949896231104,
+                "cusp_degree": 11.749498962311037,
+                "motion_speed": 0.6169470833277148,
+                "zodiac": 7,
+                "house": 1,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 204.42652657217863,
+                "cusp_degree": 24.42652657217863,
+                "motion_speed": 1.1939769590775329,
+                "zodiac": 7,
+                "house": 1,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 206.3816076844776,
+                "cusp_degree": 26.381607684477586,
+                "motion_speed": 0.6977541731520687,
+                "zodiac": 7,
+                "house": 1,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 28.137083055014948,
+                "cusp_degree": 28.137083055014948,
+                "motion_speed": -0.07316780041104641,
+                "zodiac": 1,
+                "house": 7,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 230.32958855729686,
+                "cusp_degree": 20.32958855729686,
+                "motion_speed": 0.07245727173400093,
+                "zodiac": 8,
+                "house": 2,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 103.65854224311816,
+                "cusp_degree": 13.658542243118163,
+                "motion_speed": -0.030080874691560518,
+                "zodiac": 4,
+                "house": 10,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 102.14605075612555,
+                "cusp_degree": 12.146050756125547,
+                "motion_speed": -0.052992130099028645,
+                "zodiac": 4,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 282.14605075612553,
+                "motion_speed": -0.052992130099028645,
+                "cusp_degree": 12.146050756125533,
+                "zodiac": 10,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 283.6585422431182,
+                "motion_speed": -0.030080874691560518,
+                "cusp_degree": 13.658542243118177,
+                "zodiac": 10,
+                "house": 4,
+                "motion": "R"
+            }
+        }
+    }
+}

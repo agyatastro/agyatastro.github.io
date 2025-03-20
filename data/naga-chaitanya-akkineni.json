@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Naga Chaitanya Akkineni (Actor)",
+        "year": 1986,
+        "month": 11,
+        "day": 23,
+        "hour": 4,
+        "minute": 18,
+        "second": 0,
+        "latitude": 17.360589,
+        "longitude": 78.4740613,
+        "location": "Hyderabad, Telangana"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 181.43386269023006,
+            "ascendant": 7
+        },
+        "planets": {
+            "Sun": {
+                "degree": 216.6509892935644,
+                "cusp_degree": 6.6509892935644075,
+                "motion_speed": 1.0103509775995663,
+                "zodiac": 8,
+                "house": 2,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 106.81666885581504,
+                "cusp_degree": 16.81666885581504,
+                "motion_speed": 12.049451283034765,
+                "zodiac": 4,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 199.44115173997312,
+                "cusp_degree": 19.441151739973122,
+                "motion_speed": 0.10018764579560628,
+                "zodiac": 7,
+                "house": 1,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 191.43053364878952,
+                "cusp_degree": 11.43053364878952,
+                "motion_speed": -0.13182373064643096,
+                "zodiac": 7,
+                "house": 1,
+                "motion": "R"
+            },
+            "Mars": {
+                "degree": 304.19351234091295,
+                "cusp_degree": 4.193512340912946,
+                "motion_speed": 0.6703517992279098,
+                "zodiac": 11,
+                "house": 5,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 319.6556468643129,
+                "cusp_degree": 19.655646864312928,
+                "motion_speed": 0.04899825333561711,
+                "zodiac": 11,
+                "house": 5,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 227.14628442855266,
+                "cusp_degree": 17.14628442855266,
+                "motion_speed": 0.11720118871491401,
+                "zodiac": 8,
+                "house": 2,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 356.3343743721601,
+                "cusp_degree": 26.334374372160084,
+                "motion_speed": -0.051797976588407645,
+                "zodiac": 12,
+                "house": 6,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 354.8902080229047,
+                "cusp_degree": 24.890208022904687,
+                "motion_speed": -0.05299203374376951,
+                "zodiac": 12,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 174.89020802290474,
+                "motion_speed": -0.05299203374376951,
+                "cusp_degree": 24.890208022904744,
+                "zodiac": 6,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 176.33437437216003,
+                "motion_speed": -0.051797976588407645,
+                "cusp_degree": 26.334374372160028,
+                "zodiac": 6,
+                "house": 12,
+                "motion": "R"
+            }
+        }
+    }
+}

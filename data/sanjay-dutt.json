@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Sanjay Dutt (Actor)",
+        "year": 1959,
+        "month": 7,
+        "day": 29,
+        "hour": 15,
+        "minute": 0,
+        "second": 0,
+        "latitude": 19.054999,
+        "longitude": 72.8692035,
+        "location": "Mumbai, Maharashtra"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 217.41138779213136,
+            "ascendant": 8
+        },
+        "planets": {
+            "Sun": {
+                "degree": 102.21393443823456,
+                "cusp_degree": 12.21393443823456,
+                "motion_speed": 0.956038709434524,
+                "zodiac": 4,
+                "house": 9,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 31.635405767573175,
+                "cusp_degree": 1.6354057675731752,
+                "motion_speed": 11.838690182913034,
+                "zodiac": 2,
+                "house": 7,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 114.34670519886268,
+                "cusp_degree": 24.34670519886268,
+                "motion_speed": -0.5179465899452708,
+                "zodiac": 4,
+                "house": 9,
+                "motion": "R"
+            },
+            "Venus": {
+                "degree": 140.04529064913706,
+                "cusp_degree": 20.04529064913706,
+                "motion_speed": 0.41655040055479603,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 132.24911436178496,
+                "cusp_degree": 12.249114361784962,
+                "motion_speed": 0.6236803842567424,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 208.954476495962,
+                "cusp_degree": 28.954476495962012,
+                "motion_speed": 0.027130329471032062,
+                "zodiac": 7,
+                "house": 12,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 248.24795303598495,
+                "cusp_degree": 8.247953035984949,
+                "motion_speed": -0.05431962594111973,
+                "zodiac": 9,
+                "house": 2,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 162.79810480690156,
+                "cusp_degree": 12.798104806901563,
+                "motion_speed": -0.051146517200784,
+                "zodiac": 6,
+                "house": 11,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 163.67413229114456,
+                "cusp_degree": 13.67413229114456,
+                "motion_speed": -0.05299207661877286,
+                "zodiac": 6,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 343.6741322911446,
+                "motion_speed": -0.05299207661877286,
+                "cusp_degree": 13.674132291144588,
+                "zodiac": 12,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 342.79810480690156,
+                "motion_speed": -0.051146517200784,
+                "cusp_degree": 12.798104806901563,
+                "zodiac": 12,
+                "house": 5,
+                "motion": "R"
+            }
+        }
+    }
+}

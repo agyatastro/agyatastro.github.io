@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Ramvilas Paswan (Politician)",
+        "year": 1946,
+        "month": 7,
+        "day": 5,
+        "hour": 19,
+        "minute": 50,
+        "second": 0,
+        "latitude": 25.4930513,
+        "longitude": 86.69822644137813,
+        "location": "Khagaria"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 273.3053639077079,
+            "ascendant": 10
+        },
+        "planets": {
+            "Sun": {
+                "degree": 79.81978552949772,
+                "cusp_degree": 19.81978552949772,
+                "motion_speed": 0.9534050589723873,
+                "zodiac": 3,
+                "house": 6,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 162.48084598533993,
+                "cusp_degree": 12.480845985339926,
+                "motion_speed": 12.565864770984026,
+                "zodiac": 6,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 105.87948970942323,
+                "cusp_degree": 15.879489709423225,
+                "motion_speed": 0.9638158296913227,
+                "zodiac": 4,
+                "house": 7,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 117.34473496195028,
+                "cusp_degree": 27.34473496195028,
+                "motion_speed": 1.1668891012902438,
+                "zodiac": 4,
+                "house": 7,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 135.67575606849826,
+                "cusp_degree": 15.67575606849826,
+                "motion_speed": 0.586587405543162,
+                "zodiac": 5,
+                "house": 8,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 174.98346310480918,
+                "cusp_degree": 24.983463104809175,
+                "motion_speed": 0.06030534310163012,
+                "zodiac": 6,
+                "house": 9,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 93.28536801402582,
+                "cusp_degree": 3.2853680140258206,
+                "motion_speed": 0.12704449517537827,
+                "zodiac": 4,
+                "house": 7,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 57.48325873799708,
+                "cusp_degree": 27.483258737997083,
+                "motion_speed": -0.010273058317580006,
+                "zodiac": 2,
+                "house": 5,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 56.541556553301454,
+                "cusp_degree": 26.541556553301454,
+                "motion_speed": -0.052992089311169006,
+                "zodiac": 2,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 236.54155655330146,
+                "motion_speed": -0.052992089311169006,
+                "cusp_degree": 26.54155655330146,
+                "zodiac": 8,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 237.4832587379971,
+                "motion_speed": -0.010273058317580006,
+                "cusp_degree": 27.48325873799709,
+                "zodiac": 8,
+                "house": 11,
+                "motion": "R"
+            }
+        }
+    }
+}

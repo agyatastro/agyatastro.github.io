@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Bill Gates (Businessman)",
+        "year": 1955,
+        "month": 10,
+        "day": 28,
+        "hour": 22,
+        "minute": 0,
+        "second": 0,
+        "latitude": 47.6038321,
+        "longitude": -122.330062,
+        "location": "Seattle, United States"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 92.38454284624025,
+            "ascendant": 4
+        },
+        "planets": {
+            "Sun": {
+                "degree": 191.79054335841022,
+                "cusp_degree": 11.790543358410218,
+                "motion_speed": 0.9984781529318307,
+                "zodiac": 7,
+                "house": 4,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 344.9357655199917,
+                "cusp_degree": 14.935765519991719,
+                "motion_speed": 14.028556657183954,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 173.35178046182426,
+                "cusp_degree": 23.351780461824262,
+                "motion_speed": 0.9804670636299035,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 206.9809522579878,
+                "cusp_degree": 26.98095225798781,
+                "motion_speed": 1.2468626630697417,
+                "zodiac": 7,
+                "house": 4,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 166.87112555211914,
+                "cusp_degree": 16.87112555211914,
+                "motion_speed": 0.6423524731888431,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 124.53932361084829,
+                "cusp_degree": 4.539323610848285,
+                "motion_speed": 0.13850377633243782,
+                "zodiac": 5,
+                "house": 2,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 208.34667633868744,
+                "cusp_degree": 28.346676338687445,
+                "motion_speed": 0.11595727510636035,
+                "zodiac": 7,
+                "house": 4,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 234.88977886323045,
+                "cusp_degree": 24.889778863230447,
+                "motion_speed": -0.1208900903381685,
+                "zodiac": 8,
+                "house": 5,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 236.22739154699093,
+                "cusp_degree": 26.22739154699093,
+                "motion_speed": -0.05299208029302974,
+                "zodiac": 8,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 56.22739154699093,
+                "motion_speed": -0.05299208029302974,
+                "cusp_degree": 26.22739154699093,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 54.88977886323045,
+                "motion_speed": -0.1208900903381685,
+                "cusp_degree": 24.889778863230447,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "R"
+            }
+        }
+    }
+}

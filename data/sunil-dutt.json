@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Sunil Dutt (Actor/Politician)",
+        "year": 1931,
+        "month": 6,
+        "day": 6,
+        "hour": 11,
+        "minute": 30,
+        "second": 0,
+        "latitude": 33.639709154029575,
+        "longitude": 75.11297689184894,
+        "location": "Jhelum, Pakistan"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 126.02799494892747,
+            "ascendant": 5
+        },
+        "planets": {
+            "Sun": {
+                "degree": 51.659993568866156,
+                "cusp_degree": 21.659993568866156,
+                "motion_speed": 0.9567553047627644,
+                "zodiac": 2,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 299.3685059282657,
+                "cusp_degree": 29.368505928265677,
+                "motion_speed": 12.121323527011713,
+                "zodiac": 10,
+                "house": 6,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 29.241128697351737,
+                "cusp_degree": 29.241128697351737,
+                "motion_speed": 1.4315824629555851,
+                "zodiac": 1,
+                "house": 9,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 26.543546065540102,
+                "cusp_degree": 26.543546065540102,
+                "motion_speed": 1.2082727396403508,
+                "zodiac": 1,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 124.78748983871354,
+                "cusp_degree": 4.78748983871354,
+                "motion_speed": 0.5224802243153238,
+                "zodiac": 5,
+                "house": 1,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 88.33015482122143,
+                "cusp_degree": 28.330154821221427,
+                "motion_speed": 0.19926125507361725,
+                "zodiac": 3,
+                "house": 11,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 269.5010267720673,
+                "cusp_degree": 29.50102677206729,
+                "motion_speed": -0.04989078030954007,
+                "zodiac": 9,
+                "house": 5,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 349.3037524300265,
+                "cusp_degree": 19.30375243002652,
+                "motion_speed": -0.05926418247096814,
+                "zodiac": 12,
+                "house": 8,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 348.4402799156192,
+                "cusp_degree": 18.440279915619215,
+                "motion_speed": -0.052992070697199675,
+                "zodiac": 12,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 168.44027991561916,
+                "motion_speed": -0.052992070697199675,
+                "cusp_degree": 18.440279915619158,
+                "zodiac": 6,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 169.30375243002652,
+                "motion_speed": -0.05926418247096814,
+                "cusp_degree": 19.30375243002652,
+                "zodiac": 6,
+                "house": 2,
+                "motion": "R"
+            }
+        }
+    }
+}

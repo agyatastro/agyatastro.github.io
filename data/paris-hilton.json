@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Paris Hilton (Actor)",
+        "year": 1981,
+        "month": 2,
+        "day": 17,
+        "hour": 2,
+        "minute": 30,
+        "second": 0,
+        "latitude": 40.7127281,
+        "longitude": -74.0060152,
+        "location": "New York City, United States"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 231.39062434765637,
+            "ascendant": 8
+        },
+        "planets": {
+            "Sun": {
+                "degree": 304.96328952082615,
+                "cusp_degree": 4.963289520826152,
+                "motion_speed": 1.0086658927439682,
+                "zodiac": 11,
+                "house": 4,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 105.33715002624513,
+                "cusp_degree": 15.337150026245126,
+                "motion_speed": 13.0997435669757,
+                "zodiac": 4,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 305.32643316323765,
+                "cusp_degree": 5.3264331632376525,
+                "motion_speed": -1.1277960746683804,
+                "zodiac": 11,
+                "house": 4,
+                "motion": "R"
+            },
+            "Venus": {
+                "degree": 292.7396603158475,
+                "cusp_degree": 22.739660315847516,
+                "motion_speed": 1.2500075427123698,
+                "zodiac": 10,
+                "house": 3,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 314.59671995936606,
+                "cusp_degree": 14.596719959366055,
+                "motion_speed": 0.7891620452600168,
+                "zodiac": 11,
+                "house": 4,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 165.93204245926484,
+                "cusp_degree": 15.932042459264835,
+                "motion_speed": -0.07201577976883777,
+                "zodiac": 6,
+                "house": 11,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 165.43325817407737,
+                "cusp_degree": 15.433258174077366,
+                "motion_speed": -0.04941101979761923,
+                "zodiac": 6,
+                "house": 11,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 107.33101100413592,
+                "cusp_degree": 17.331011004135917,
+                "motion_speed": 0.0022765788722358144,
+                "zodiac": 4,
+                "house": 9,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 106.41851730102331,
+                "cusp_degree": 16.418517301023314,
+                "motion_speed": -0.052992055937824016,
+                "zodiac": 4,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 286.4185173010233,
+                "motion_speed": -0.052992055937824016,
+                "cusp_degree": 16.418517301023314,
+                "zodiac": 10,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 287.3310110041359,
+                "motion_speed": 0.0022765788722358144,
+                "cusp_degree": 17.331011004135917,
+                "zodiac": 10,
+                "house": 3,
+                "motion": "R"
+            }
+        }
+    }
+}

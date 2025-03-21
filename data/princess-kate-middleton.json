@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Princess Kate Middleton (Monarch/Princess)",
+        "year": 1982,
+        "month": 1,
+        "day": 9,
+        "hour": 19,
+        "minute": 0,
+        "second": 0,
+        "latitude": 51.45149525,
+        "longitude": -0.9836342499365378,
+        "location": "Reading, Britain"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 116.55748754706295,
+            "ascendant": 4
+        },
+        "planets": {
+            "Sun": {
+                "degree": 265.5997613610521,
+                "cusp_degree": 25.599761361052117,
+                "motion_speed": 1.0185829942011273,
+                "zodiac": 9,
+                "house": 6,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 85.10112784120251,
+                "cusp_degree": 25.101127841202512,
+                "motion_speed": 14.877202816925166,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 282.63378079757393,
+                "cusp_degree": 12.633780797573934,
+                "motion_speed": 1.4674277832331113,
+                "zodiac": 10,
+                "house": 7,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 283.6200780137846,
+                "cusp_degree": 13.620078013784621,
+                "motion_speed": -0.370228979253263,
+                "zodiac": 10,
+                "house": 7,
+                "motion": "R"
+            },
+            "Mars": {
+                "degree": 166.8628317502577,
+                "cusp_degree": 16.862831750257698,
+                "motion_speed": 0.36520921560702085,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 193.671510154843,
+                "cusp_degree": 13.671510154842991,
+                "motion_speed": 0.12700565729210617,
+                "zodiac": 7,
+                "house": 4,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 178.23961618349384,
+                "cusp_degree": 28.239616183493837,
+                "motion_speed": 0.03754595035681831,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 88.83451974464583,
+                "cusp_degree": 28.83451974464583,
+                "motion_speed": -0.000750647099164537,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 89.11753945519419,
+                "cusp_degree": 29.11753945519419,
+                "motion_speed": -0.052992021911030335,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 269.1175394551942,
+                "motion_speed": -0.052992021911030335,
+                "cusp_degree": 29.11753945519422,
+                "zodiac": 9,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 268.83451974464583,
+                "motion_speed": -0.000750647099164537,
+                "cusp_degree": 28.83451974464583,
+                "zodiac": 9,
+                "house": 6,
+                "motion": "R"
+            }
+        }
+    }
+}

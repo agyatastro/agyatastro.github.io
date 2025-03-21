@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Ajay Devgan (Actor)",
+        "year": 1969,
+        "month": 4,
+        "day": 2,
+        "hour": 13,
+        "minute": 32,
+        "second": 0,
+        "latitude": 28.6273928,
+        "longitude": 77.1716954,
+        "location": "Delhi"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 98.08102932028956,
+            "ascendant": 4
+        },
+        "planets": {
+            "Sun": {
+                "degree": 348.9627348859159,
+                "cusp_degree": 18.962734885915893,
+                "motion_speed": 0.985604450624676,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 163.10238794047126,
+                "cusp_degree": 13.10238794047126,
+                "motion_speed": 13.587789431544671,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 342.1269129742973,
+                "cusp_degree": 12.126912974297284,
+                "motion_speed": 1.9456595969404553,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 359.0056486586416,
+                "cusp_degree": 29.005648658641576,
+                "motion_speed": -0.5552995914185958,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "R"
+            },
+            "Mars": {
+                "degree": 229.8596450719843,
+                "cusp_degree": 19.85964507198429,
+                "motion_speed": 0.25743274072370503,
+                "zodiac": 8,
+                "house": 5,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 156.27054775978797,
+                "cusp_degree": 6.2705477597879735,
+                "motion_speed": -0.12373336581436886,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 3.074263551210824,
+                "cusp_degree": 3.074263551210824,
+                "motion_speed": 0.1247432534136758,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 336.8714226920425,
+                "cusp_degree": 6.871422692042472,
+                "motion_speed": -0.004831943976043906,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 336.35048618544033,
+                "cusp_degree": 6.350486185440332,
+                "motion_speed": -0.052992050844083,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 156.35048618544033,
+                "motion_speed": -0.052992050844083,
+                "cusp_degree": 6.350486185440332,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 156.87142269204242,
+                "motion_speed": -0.004831943976043906,
+                "cusp_degree": 6.871422692042415,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "R"
+            }
+        }
+    }
+}

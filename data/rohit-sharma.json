@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Rohit Sharma (Sports)",
+        "year": 1987,
+        "month": 4,
+        "day": 29,
+        "hour": 14,
+        "minute": 58,
+        "second": 0,
+        "latitude": 21.1498134,
+        "longitude": 79.0820556,
+        "location": "Nagpur, Maharashtra"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 139.68200418728003,
+            "ascendant": 5
+        },
+        "planets": {
+            "Sun": {
+                "degree": 14.85139085698486,
+                "cusp_degree": 14.85139085698486,
+                "motion_speed": 0.9721414598091072,
+                "zodiac": 1,
+                "house": 9,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 30.259233155822855,
+                "cusp_degree": 0.2592331558228551,
+                "motion_speed": 12.560354576039577,
+                "zodiac": 2,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 5.771097337420693,
+                "cusp_degree": 5.771097337420693,
+                "motion_speed": 2.00669362531412,
+                "zodiac": 1,
+                "house": 9,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 344.4133455831174,
+                "cusp_degree": 14.413345583117405,
+                "motion_speed": 1.2073741359634422,
+                "zodiac": 12,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 52.071144183534855,
+                "cusp_degree": 22.071144183534855,
+                "motion_speed": 0.6598232829566614,
+                "zodiac": 2,
+                "house": 10,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 350.0898425840511,
+                "cusp_degree": 20.089842584051098,
+                "motion_speed": 0.23036581411722964,
+                "zodiac": 12,
+                "house": 8,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 236.805700509924,
+                "cusp_degree": 26.80570050992401,
+                "motion_speed": -0.04492759094513102,
+                "zodiac": 8,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 347.68323229027527,
+                "cusp_degree": 17.68323229027527,
+                "motion_speed": -0.06803629837956642,
+                "zodiac": 12,
+                "house": 8,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 346.5469081956676,
+                "cusp_degree": 16.546908195667584,
+                "motion_speed": -0.05299203334856759,
+                "zodiac": 12,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 166.54690819566758,
+                "motion_speed": -0.05299203334856759,
+                "cusp_degree": 16.546908195667584,
+                "zodiac": 6,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 167.68323229027533,
+                "motion_speed": -0.06803629837956642,
+                "cusp_degree": 17.683232290275328,
+                "zodiac": 6,
+                "house": 2,
+                "motion": "R"
+            }
+        }
+    }
+}

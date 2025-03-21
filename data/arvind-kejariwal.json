@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Arvind Kejariwal (Politician)",
+        "year": 1968,
+        "month": 8,
+        "day": 16,
+        "hour": 7,
+        "minute": 30,
+        "second": 0,
+        "latitude": 28.7931703,
+        "longitude": 76.1391283,
+        "location": "Bhiwani, Haryana"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 134.5767131857973,
+            "ascendant": 5
+        },
+        "planets": {
+            "Sun": {
+                "degree": 119.82472810445661,
+                "cusp_degree": 29.82472810445661,
+                "motion_speed": 0.9612496085511368,
+                "zodiac": 4,
+                "house": 12,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 29.550176375696434,
+                "cusp_degree": 29.550176375696434,
+                "motion_speed": 11.868734490439378,
+                "zodiac": 1,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 128.52857861671765,
+                "cusp_degree": 8.528578616717652,
+                "motion_speed": 1.8771965152400694,
+                "zodiac": 5,
+                "house": 1,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 135.39585818572797,
+                "cusp_degree": 15.395858185727974,
+                "motion_speed": 1.2312882791795867,
+                "zodiac": 5,
+                "house": 1,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 103.25958807513757,
+                "cusp_degree": 13.259588075137572,
+                "motion_speed": 0.6427242531613315,
+                "zodiac": 4,
+                "house": 12,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 137.82508261813516,
+                "cusp_degree": 17.825082618135156,
+                "motion_speed": 0.21079366325920504,
+                "zodiac": 5,
+                "house": 1,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 2.0645378995934487,
+                "cusp_degree": 2.0645378995934487,
+                "motion_speed": -0.015516387622187357,
+                "zodiac": 1,
+                "house": 9,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 347.35194861632567,
+                "cusp_degree": 17.35194861632567,
+                "motion_speed": 0.0007038420271742397,
+                "zodiac": 12,
+                "house": 8,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 348.49898555895044,
+                "cusp_degree": 18.498985558950437,
+                "motion_speed": -0.05299203479622376,
+                "zodiac": 12,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 168.49898555895038,
+                "motion_speed": -0.05299203479622376,
+                "cusp_degree": 18.49898555895038,
+                "zodiac": 6,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 167.35194861632567,
+                "motion_speed": 0.0007038420271742397,
+                "cusp_degree": 17.35194861632567,
+                "zodiac": 6,
+                "house": 2,
+                "motion": "R"
+            }
+        }
+    }
+}

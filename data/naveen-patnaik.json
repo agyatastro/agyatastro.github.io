@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Naveen Patnaik (Politician)",
+        "year": 1946,
+        "month": 10,
+        "day": 16,
+        "hour": 1,
+        "minute": 0,
+        "second": 0,
+        "latitude": 20.4686,
+        "longitude": 85.8792,
+        "location": "Cuttack, Odisa"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 107.55900509045023,
+            "ascendant": 4
+        },
+        "planets": {
+            "Sun": {
+                "degree": 178.71138115070914,
+                "cusp_degree": 28.711381150709144,
+                "motion_speed": 0.9915283866401664,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 65.54166360794476,
+                "cusp_degree": 5.541663607944756,
+                "motion_speed": 14.308320151253872,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 198.4243003794573,
+                "cusp_degree": 18.424300379457293,
+                "motion_speed": 1.4043212888201522,
+                "zodiac": 7,
+                "house": 4,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 216.62311166845467,
+                "cusp_degree": 6.623111668454669,
+                "motion_speed": 0.4204854533638928,
+                "zodiac": 8,
+                "house": 5,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 201.35271463790517,
+                "cusp_degree": 21.352714637905166,
+                "motion_speed": 0.6959271421349116,
+                "zodiac": 7,
+                "house": 4,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 191.1790604133999,
+                "cusp_degree": 11.179060413399895,
+                "motion_speed": 0.21569335022225827,
+                "zodiac": 7,
+                "house": 4,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 104.61097041452562,
+                "cusp_degree": 14.610970414525625,
+                "motion_speed": 0.06317517417936219,
+                "zodiac": 4,
+                "house": 1,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 49.85940341656643,
+                "cusp_degree": 19.85940341656643,
+                "motion_speed": 0.017023444422654063,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 51.12495809516938,
+                "cusp_degree": 21.124958095169383,
+                "motion_speed": -0.05299202279470589,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 231.12495809516938,
+                "motion_speed": -0.05299202279470589,
+                "cusp_degree": 21.124958095169376,
+                "zodiac": 8,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 229.85940341656644,
+                "motion_speed": 0.017023444422654063,
+                "cusp_degree": 19.859403416566437,
+                "zodiac": 8,
+                "house": 5,
+                "motion": "R"
+            }
+        }
+    }
+}

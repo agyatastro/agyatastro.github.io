@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Sadguru Jaggi Vasudev (Monk/Spiritual Guru)",
+        "year": 1957,
+        "month": 9,
+        "day": 3,
+        "hour": 23,
+        "minute": 54,
+        "second": 0,
+        "latitude": 12.3051828,
+        "longitude": 76.6553609,
+        "location": "Mysore, Karnataka"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 43.003190102978465,
+            "ascendant": 2
+        },
+        "planets": {
+            "Sun": {
+                "degree": 137.6821805625215,
+                "cusp_degree": 17.682180562521495,
+                "motion_speed": 0.9688712687152732,
+                "zodiac": 5,
+                "house": 4,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 257.547790988043,
+                "cusp_degree": 17.547790988043005,
+                "motion_speed": 12.309919537117102,
+                "zodiac": 9,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 149.2257227951498,
+                "cusp_degree": 29.225722795149807,
+                "motion_speed": -0.7357355581084198,
+                "zodiac": 5,
+                "house": 4,
+                "motion": "R"
+            },
+            "Venus": {
+                "degree": 174.29491124646793,
+                "cusp_degree": 24.294911246467933,
+                "motion_speed": 1.187597926986926,
+                "zodiac": 6,
+                "house": 5,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 143.59090123698186,
+                "cusp_degree": 23.590901236981864,
+                "motion_speed": 0.6393682847464569,
+                "zodiac": 5,
+                "house": 4,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 162.08413436144764,
+                "cusp_degree": 12.084134361447639,
+                "motion_speed": 0.20547391359761147,
+                "zodiac": 6,
+                "house": 5,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 224.82950438335072,
+                "cusp_degree": 14.829504383350724,
+                "motion_speed": 0.03634606581859041,
+                "zodiac": 8,
+                "house": 7,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 199.5412896670344,
+                "cusp_degree": 19.54128966703439,
+                "motion_speed": -0.0858688361443108,
+                "zodiac": 7,
+                "house": 6,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 200.4309650442411,
+                "cusp_degree": 20.430965044241105,
+                "motion_speed": -0.05299204539411985,
+                "zodiac": 7,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 20.430965044241134,
+                "motion_speed": -0.05299204539411985,
+                "cusp_degree": 20.430965044241134,
+                "zodiac": 1,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 19.54128966703439,
+                "motion_speed": -0.0858688361443108,
+                "cusp_degree": 19.54128966703439,
+                "zodiac": 1,
+                "house": 12,
+                "motion": "R"
+            }
+        }
+    }
+}

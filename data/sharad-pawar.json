@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Sharad Pawar (Politician)",
+        "year": 1940,
+        "month": 12,
+        "day": 12,
+        "hour": 6,
+        "minute": 30,
+        "second": 0,
+        "latitude": 18.21985375,
+        "longitude": 74.45340540036307,
+        "location": "Baramati, Maharashtra"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 225.43930416075875,
+            "ascendant": 8
+        },
+        "planets": {
+            "Sun": {
+                "degree": 236.82152036677687,
+                "cusp_degree": 26.821520366776866,
+                "motion_speed": 1.0165298622821546,
+                "zodiac": 8,
+                "house": 1,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 25.011835147025668,
+                "cusp_degree": 25.011835147025668,
+                "motion_speed": 12.103911243836476,
+                "zodiac": 1,
+                "house": 6,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 220.57593840787754,
+                "cusp_degree": 10.575938407877544,
+                "motion_speed": 1.462067935574836,
+                "zodiac": 8,
+                "house": 1,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 206.06769771880332,
+                "cusp_degree": 26.067697718803316,
+                "motion_speed": 1.2372707060457968,
+                "zodiac": 7,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 201.05485626895933,
+                "cusp_degree": 21.054856268959327,
+                "motion_speed": 0.6645156427095122,
+                "zodiac": 7,
+                "house": 12,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 13.268211508285209,
+                "cusp_degree": 13.268211508285209,
+                "motion_speed": -0.06463124881949554,
+                "zodiac": 1,
+                "house": 6,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 15.596427135663307,
+                "cusp_degree": 15.596427135663307,
+                "motion_speed": -0.04977452548540844,
+                "zodiac": 1,
+                "house": 6,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 165.45017395316012,
+                "cusp_degree": 15.450173953160117,
+                "motion_speed": -0.12888419952307706,
+                "zodiac": 6,
+                "house": 11,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 164.1978831270741,
+                "cusp_degree": 14.197883127074107,
+                "motion_speed": -0.05299209462903148,
+                "zodiac": 6,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 344.1978831270741,
+                "motion_speed": -0.05299209462903148,
+                "cusp_degree": 14.197883127074078,
+                "zodiac": 12,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 345.4501739531601,
+                "motion_speed": -0.12888419952307706,
+                "cusp_degree": 15.450173953160117,
+                "zodiac": 12,
+                "house": 5,
+                "motion": "R"
+            }
+        }
+    }
+}

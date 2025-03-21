@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Omar Abdullah (Politician)",
+        "year": 1970,
+        "month": 3,
+        "day": 10,
+        "hour": 18,
+        "minute": 58,
+        "second": 0,
+        "latitude": 45.5867,
+        "longitude": 5.16286,
+        "location": "Roche, United Kingdom"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 160.66808466723862,
+            "ascendant": 6
+        },
+        "planets": {
+            "Sun": {
+                "degree": 326.3445180355185,
+                "cusp_degree": 26.34451803551849,
+                "motion_speed": 0.9990181069979458,
+                "zodiac": 11,
+                "house": 6,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 7.188922539337724,
+                "cusp_degree": 7.188922539337724,
+                "motion_speed": 13.827541710384008,
+                "zodiac": 1,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 315.00172089719644,
+                "cusp_degree": 15.001720897196435,
+                "motion_speed": 1.754352914032936,
+                "zodiac": 11,
+                "house": 6,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 337.2532074174069,
+                "cusp_degree": 7.253207417406884,
+                "motion_speed": 1.245161842364434,
+                "zodiac": 12,
+                "house": 7,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 9.2207243110155,
+                "cusp_degree": 9.2207243110155,
+                "motion_speed": 0.7141168125926659,
+                "zodiac": 1,
+                "house": 8,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 191.97294142803688,
+                "cusp_degree": 11.972941428036876,
+                "motion_speed": -0.058120456304304485,
+                "zodiac": 7,
+                "house": 2,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 12.313416540149303,
+                "cusp_degree": 12.313416540149303,
+                "motion_speed": 0.10215240765812018,
+                "zodiac": 1,
+                "house": 8,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 318.36875474011424,
+                "cusp_degree": 18.36875474011424,
+                "motion_speed": -0.017073350726149798,
+                "zodiac": 11,
+                "house": 6,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 318.2025518221467,
+                "cusp_degree": 18.202551822146688,
+                "motion_speed": -0.052992049939992326,
+                "zodiac": 11,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 138.2025518221467,
+                "motion_speed": -0.052992049939992326,
+                "cusp_degree": 18.202551822146688,
+                "zodiac": 5,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 138.36875474011424,
+                "motion_speed": -0.017073350726149798,
+                "cusp_degree": 18.36875474011424,
+                "zodiac": 5,
+                "house": 12,
+                "motion": "R"
+            }
+        }
+    }
+}

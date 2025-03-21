@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Amrinder Singh (Politician)",
+        "year": 1942,
+        "month": 3,
+        "day": 11,
+        "hour": 3,
+        "minute": 25,
+        "second": 0,
+        "latitude": 30.20927775,
+        "longitude": 76.33972313649818,
+        "location": "Patiala, Punjab"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 258.9293458304324,
+            "ascendant": 9
+        },
+        "planets": {
+            "Sun": {
+                "degree": 326.63257357203594,
+                "cusp_degree": 26.632573572035938,
+                "motion_speed": 0.9986191368360227,
+                "zodiac": 11,
+                "house": 3,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 249.53856083015316,
+                "cusp_degree": 9.538560830153159,
+                "motion_speed": 14.121776044110916,
+                "zodiac": 9,
+                "house": 1,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 299.4765956325957,
+                "cusp_degree": 29.476595632595718,
+                "motion_speed": 1.1205533635373115,
+                "zodiac": 10,
+                "house": 2,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 286.8300218047259,
+                "cusp_degree": 16.830021804725902,
+                "motion_speed": 0.5165551559298095,
+                "zodiac": 10,
+                "house": 2,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 39.049316533803285,
+                "cusp_degree": 9.049316533803285,
+                "motion_speed": 0.590376920196322,
+                "zodiac": 2,
+                "house": 6,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 50.14948097136569,
+                "cusp_degree": 20.14948097136569,
+                "motion_speed": 0.10378008329812766,
+                "zodiac": 2,
+                "house": 6,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 30.53276198244521,
+                "cusp_degree": 0.5327619824452086,
+                "motion_speed": 0.07934823107126537,
+                "zodiac": 2,
+                "house": 6,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 140.346562860916,
+                "cusp_degree": 20.34656286091601,
+                "motion_speed": 0.004880087344686899,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 140.14629211673338,
+                "cusp_degree": 20.146292116733377,
+                "motion_speed": -0.05299202726176844,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 320.1462921167334,
+                "motion_speed": -0.05299202726176844,
+                "cusp_degree": 20.146292116733377,
+                "zodiac": 11,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 320.34656286091604,
+                "motion_speed": 0.004880087344686899,
+                "cusp_degree": 20.346562860916038,
+                "zodiac": 11,
+                "house": 3,
+                "motion": "R"
+            }
+        }
+    }
+}

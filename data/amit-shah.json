@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Amit Shah (Politician)",
+        "year": 1964,
+        "month": 10,
+        "day": 22,
+        "hour": 5,
+        "minute": 25,
+        "second": 0,
+        "latitude": 19.054999,
+        "longitude": 72.8692035,
+        "location": "Mumbai, Maharashtra"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 162.6115343889864,
+            "ascendant": 6
+        },
+        "planets": {
+            "Sun": {
+                "degree": 185.2374157600852,
+                "cusp_degree": 5.237415760085213,
+                "motion_speed": 0.9949219462907682,
+                "zodiac": 7,
+                "house": 2,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 15.721443639201807,
+                "cusp_degree": 15.721443639201807,
+                "motion_speed": 14.464962371441157,
+                "zodiac": 1,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 189.39770838921993,
+                "cusp_degree": 9.397708389219929,
+                "motion_speed": 1.6319486638749252,
+                "zodiac": 7,
+                "house": 2,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 145.4713132148262,
+                "cusp_degree": 25.47131321482621,
+                "motion_speed": 1.1797977156242816,
+                "zodiac": 5,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 118.3802535111794,
+                "cusp_degree": 28.380253511179404,
+                "motion_speed": 0.5606253593601473,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 30.55663799609815,
+                "cusp_degree": 0.55663799609815,
+                "motion_speed": -0.11148293228216666,
+                "zodiac": 2,
+                "house": 9,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 305.08405718762276,
+                "cusp_degree": 5.084057187622761,
+                "motion_speed": -0.018512405882268317,
+                "zodiac": 11,
+                "house": 6,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 61.04533832164123,
+                "cusp_degree": 1.045338321641232,
+                "motion_speed": -0.11770013592788861,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 62.374495769850846,
+                "cusp_degree": 2.3744957698508458,
+                "motion_speed": -0.05299207156831465,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 242.37449576985085,
+                "motion_speed": -0.05299207156831465,
+                "cusp_degree": 2.374495769850853,
+                "zodiac": 9,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 241.04533832164122,
+                "motion_speed": -0.11770013592788861,
+                "cusp_degree": 1.0453383216412249,
+                "zodiac": 9,
+                "house": 4,
+                "motion": "R"
+            }
+        }
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Ashok Gahlot (Politician/Monk)",
+        "year": 1951,
+        "month": 5,
+        "day": 3,
+        "hour": 9,
+        "minute": 50,
+        "second": 0,
+        "latitude": 26.2967719,
+        "longitude": 73.0351433,
+        "location": "Jodhpur, Rajasthan"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 71.28710222378736,
+            "ascendant": 3
+        },
+        "planets": {
+            "Sun": {
+                "degree": 18.744002288846044,
+                "cusp_degree": 18.744002288846044,
+                "motion_speed": 0.9700451339157172,
+                "zodiac": 1,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 345.56670990066965,
+                "cusp_degree": 15.56670990066965,
+                "motion_speed": 12.641767528908485,
+                "zodiac": 12,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 6.2605278237155355,
+                "cusp_degree": 6.2605278237155355,
+                "motion_speed": -0.40001752716484545,
+                "zodiac": 1,
+                "house": 11,
+                "motion": "R"
+            },
+            "Venus": {
+                "degree": 57.72265651058957,
+                "cusp_degree": 27.722656510589573,
+                "motion_speed": 1.158622105796976,
+                "zodiac": 2,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 23.55758290034011,
+                "cusp_degree": 23.55758290034011,
+                "motion_speed": 0.7256183745267656,
+                "zodiac": 1,
+                "house": 11,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 339.3523558757298,
+                "cusp_degree": 9.352355875729813,
+                "motion_speed": 0.21332148878462168,
+                "zodiac": 12,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 152.92501621386552,
+                "cusp_degree": 2.9250162138655185,
+                "motion_speed": -0.04251677645042022,
+                "zodiac": 6,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 324.6536296728253,
+                "cusp_degree": 24.653629672825275,
+                "motion_speed": -0.05466387508857865,
+                "zodiac": 11,
+                "house": 9,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 323.13863310136566,
+                "cusp_degree": 23.138633101365656,
+                "motion_speed": -0.05299205149653165,
+                "zodiac": 11,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 143.13863310136566,
+                "motion_speed": -0.05299205149653165,
+                "cusp_degree": 23.138633101365656,
+                "zodiac": 5,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 144.65362967282528,
+                "motion_speed": -0.05466387508857865,
+                "cusp_degree": 24.653629672825275,
+                "zodiac": 5,
+                "house": 3,
+                "motion": "R"
+            }
+        }
+    }
+}

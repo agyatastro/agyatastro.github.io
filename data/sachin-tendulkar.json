@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Sachin Tendulkar (Sportsman)",
+        "year": 1973,
+        "month": 4,
+        "day": 24,
+        "hour": 12,
+        "minute": 54,
+        "second": 0,
+        "latitude": 19.054999,
+        "longitude": 72.8692035,
+        "location": "Mumbai, Maharashtra"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 101.31111041113888,
+            "ascendant": 4
+        },
+        "planets": {
+            "Sun": {
+                "degree": 10.472002290461699,
+                "cusp_degree": 10.472002290461699,
+                "motion_speed": 0.9738415913937937,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 264.35603461337837,
+                "cusp_degree": 24.35603461337837,
+                "motion_speed": 11.903332453527614,
+                "zodiac": 9,
+                "house": 6,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 346.69464183874663,
+                "cusp_degree": 16.694641838746634,
+                "motion_speed": 1.4949300472675293,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 14.232517998787628,
+                "cusp_degree": 14.232517998787628,
+                "motion_speed": 1.2351351030117106,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 296.687993485483,
+                "cusp_degree": 26.68799348548299,
+                "motion_speed": 0.7095759521135682,
+                "zodiac": 10,
+                "house": 7,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 286.5919960041744,
+                "cusp_degree": 16.591996004174405,
+                "motion_speed": 0.10787793690658835,
+                "zodiac": 10,
+                "house": 7,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 54.25712396875125,
+                "cusp_degree": 24.25712396875125,
+                "motion_speed": 0.1060801788394034,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 256.3882835985759,
+                "cusp_degree": 16.388283598575924,
+                "motion_speed": 0.008486546348518243,
+                "zodiac": 9,
+                "house": 6,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 257.76468844546224,
+                "cusp_degree": 17.76468844546224,
+                "motion_speed": -0.05299204689531641,
+                "zodiac": 9,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 77.76468844546224,
+                "motion_speed": -0.05299204689531641,
+                "cusp_degree": 17.76468844546224,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 76.38828359857592,
+                "motion_speed": 0.008486546348518243,
+                "cusp_degree": 16.388283598575924,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "R"
+            }
+        }
+    }
+}

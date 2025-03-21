@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Narendra Modi (Politician)",
+        "year": 1950,
+        "month": 9,
+        "day": 17,
+        "hour": 10,
+        "minute": 10,
+        "second": 0,
+        "latitude": 23.7853622,
+        "longitude": 72.6332132,
+        "location": "Vadnagar, Gujrat"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 195.1781722952512,
+            "ascendant": 7
+        },
+        "planets": {
+            "Sun": {
+                "degree": 150.54228135857198,
+                "cusp_degree": 0.5422813585719837,
+                "motion_speed": 0.975779214484195,
+                "zodiac": 6,
+                "house": 12,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 218.07908122285662,
+                "cusp_degree": 8.079081222856615,
+                "motion_speed": 14.3799412115854,
+                "zodiac": 8,
+                "house": 2,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 150.83777487078865,
+                "cusp_degree": 0.8377748707886497,
+                "motion_speed": -1.0470805657449496,
+                "zodiac": 6,
+                "house": 12,
+                "motion": "R"
+            },
+            "Venus": {
+                "degree": 135.6244884834146,
+                "cusp_degree": 15.62448848341461,
+                "motion_speed": 1.238483487761772,
+                "zodiac": 5,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 210.8953111349744,
+                "cusp_degree": 0.8953111349744063,
+                "motion_speed": 0.679166501030634,
+                "zodiac": 8,
+                "house": 2,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 306.60032600695354,
+                "cusp_degree": 6.600326006953537,
+                "motion_speed": -0.10907337884237724,
+                "zodiac": 11,
+                "house": 5,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 149.64507035681206,
+                "cusp_degree": 29.645070356812056,
+                "motion_speed": 0.12488012808981534,
+                "zodiac": 5,
+                "house": 11,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 335.21046340053607,
+                "cusp_degree": 5.210463400536071,
+                "motion_speed": 0.005493981869665519,
+                "zodiac": 12,
+                "house": 6,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 335.22008654992015,
+                "cusp_degree": 5.220086549920154,
+                "motion_speed": -0.05299208523460478,
+                "zodiac": 12,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 155.2200865499201,
+                "motion_speed": -0.05299208523460478,
+                "cusp_degree": 5.220086549920097,
+                "zodiac": 6,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 155.21046340053613,
+                "motion_speed": 0.005493981869665519,
+                "cusp_degree": 5.210463400536128,
+                "zodiac": 6,
+                "house": 12,
+                "motion": "R"
+            }
+        }
+    }
+}

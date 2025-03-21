@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Virat Kohli (Sportsman)",
+        "year": 1988,
+        "month": 11,
+        "day": 5,
+        "hour": 10,
+        "minute": 28,
+        "second": 0,
+        "latitude": 28.6273928,
+        "longitude": 77.1716954,
+        "location": "Delhi"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 243.43524151815365,
+            "ascendant": 9
+        },
+        "planets": {
+            "Sun": {
+                "degree": 199.28085776215323,
+                "cusp_degree": 19.280857762153232,
+                "motion_speed": 1.0029527047005447,
+                "zodiac": 7,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 150.14106748279826,
+                "cusp_degree": 0.1410674827982632,
+                "motion_speed": 11.814978171593511,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 184.0755023393227,
+                "cusp_degree": 4.075502339322696,
+                "motion_speed": 1.5381901372859321,
+                "zodiac": 7,
+                "house": 11,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 163.81499252922225,
+                "cusp_degree": 13.814992529222252,
+                "motion_speed": 1.2132126267134524,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 336.5867692103667,
+                "cusp_degree": 6.586769210366697,
+                "motion_speed": 0.10201521088821493,
+                "zodiac": 12,
+                "house": 4,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 39.69722221682563,
+                "cusp_degree": 9.69722221682563,
+                "motion_speed": -0.12046756101679242,
+                "zodiac": 2,
+                "house": 6,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 245.60218276964218,
+                "cusp_degree": 5.602182769642184,
+                "motion_speed": 0.09319951263700874,
+                "zodiac": 9,
+                "house": 1,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 318.7144471020133,
+                "cusp_degree": 18.71444710201331,
+                "motion_speed": -0.0286393960059358,
+                "zodiac": 11,
+                "house": 3,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 317.0932792016718,
+                "cusp_degree": 17.093279201671805,
+                "motion_speed": -0.052992023601721804,
+                "zodiac": 11,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 137.0932792016718,
+                "motion_speed": -0.052992023601721804,
+                "cusp_degree": 17.093279201671805,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 138.7144471020133,
+                "motion_speed": -0.0286393960059358,
+                "cusp_degree": 18.71444710201331,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "R"
+            }
+        }
+    }
+}

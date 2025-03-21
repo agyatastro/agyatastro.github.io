@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Mahendra Singh Dhoni (Sportsman)",
+        "year": 1981,
+        "month": 7,
+        "day": 7,
+        "hour": 11,
+        "minute": 15,
+        "second": 0,
+        "latitude": 23.3700501,
+        "longitude": 85.3250387,
+        "location": "Ranchi, Jharkhand"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 157.2483297636207,
+            "ascendant": 6
+        },
+        "planets": {
+            "Sun": {
+                "degree": 81.41170572469251,
+                "cusp_degree": 21.41170572469251,
+                "motion_speed": 0.9534990411012828,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 149.98860380433584,
+                "cusp_degree": 29.98860380433584,
+                "motion_speed": 12.563319698316226,
+                "zodiac": 5,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 63.30096681336452,
+                "cusp_degree": 3.300966813364518,
+                "motion_speed": 0.3079528796973574,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 105.37634741096068,
+                "cusp_degree": 15.376347410960676,
+                "motion_speed": 1.214823821203267,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 58.81383320323019,
+                "cusp_degree": 28.81383320323019,
+                "motion_speed": 0.6859766587185646,
+                "zodiac": 2,
+                "house": 9,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 159.1771174437841,
+                "cusp_degree": 9.177117443784113,
+                "motion_speed": 0.10962890045622935,
+                "zodiac": 6,
+                "house": 1,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 160.25522320594663,
+                "cusp_degree": 10.255223205946635,
+                "motion_speed": 0.05199271134693249,
+                "zodiac": 6,
+                "house": 1,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 98.19270556567,
+                "cusp_degree": 8.192705565669996,
+                "motion_speed": 0.01825350379043281,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 99.00419624571921,
+                "cusp_degree": 9.004196245719214,
+                "motion_speed": -0.05299205558755643,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 279.0041962457192,
+                "motion_speed": -0.05299205558755643,
+                "cusp_degree": 9.004196245719186,
+                "zodiac": 10,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 278.19270556567,
+                "motion_speed": 0.01825350379043281,
+                "cusp_degree": 8.192705565669996,
+                "zodiac": 10,
+                "house": 5,
+                "motion": "R"
+            }
+        }
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Yogi Adityanath (Politician/Monk)",
+        "year": 1972,
+        "month": 6,
+        "day": 5,
+        "hour": 10,
+        "minute": 54,
+        "second": 0,
+        "latitude": 30.06523135,
+        "longitude": 78.73157159495136,
+        "location": "Pauri, Garhwal, Uttarakhand"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 120.0084276670671,
+            "ascendant": 5
+        },
+        "planets": {
+            "Sun": {
+                "degree": 51.15123558419042,
+                "cusp_degree": 21.151235584190417,
+                "motion_speed": 0.9570875527941349,
+                "zodiac": 2,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 325.2278470702398,
+                "cusp_degree": 25.227847070239818,
+                "motion_speed": 13.79300349475805,
+                "zodiac": 11,
+                "house": 7,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 51.54865635912927,
+                "cusp_degree": 21.548656359129268,
+                "motion_speed": 2.202320021204877,
+                "zodiac": 2,
+                "house": 10,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 69.62486409052356,
+                "cusp_degree": 9.624864090523559,
+                "motion_speed": -0.3587905212433985,
+                "zodiac": 3,
+                "house": 11,
+                "motion": "R"
+            },
+            "Mars": {
+                "degree": 81.63063904878494,
+                "cusp_degree": 21.630639048784943,
+                "motion_speed": 0.6361925514815506,
+                "zodiac": 3,
+                "house": 11,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 252.36995180649032,
+                "cusp_degree": 12.36995180649032,
+                "motion_speed": -0.11053211760605258,
+                "zodiac": 9,
+                "house": 5,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 47.11285514576178,
+                "cusp_degree": 17.112855145761777,
+                "motion_speed": 0.1297539134345089,
+                "zodiac": 2,
+                "house": 10,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 273.3459588004077,
+                "cusp_degree": 3.3459588004076863,
+                "motion_speed": -0.007446226246095151,
+                "zodiac": 10,
+                "house": 6,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 274.88553310235756,
+                "cusp_degree": 4.885533102357556,
+                "motion_speed": -0.052992047685720224,
+                "zodiac": 10,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 94.88553310235756,
+                "motion_speed": -0.052992047685720224,
+                "cusp_degree": 4.885533102357556,
+                "zodiac": 4,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 93.34595880040769,
+                "motion_speed": -0.007446226246095151,
+                "cusp_degree": 3.3459588004076863,
+                "zodiac": 4,
+                "house": 12,
+                "motion": "R"
+            }
+        }
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Kamal Nath (Politician)",
+        "year": 1946,
+        "month": 11,
+        "day": 18,
+        "hour": 14,
+        "minute": 30,
+        "second": 0,
+        "latitude": 26.4609135,
+        "longitude": 80.3217588,
+        "location": "Kanpur, Uttar Pradesh"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 331.83185000056034,
+            "ascendant": 12
+        },
+        "planets": {
+            "Sun": {
+                "degree": 212.29571082018737,
+                "cusp_degree": 2.2957108201873666,
+                "motion_speed": 1.0090026499336358,
+                "zodiac": 8,
+                "house": 9,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 151.78049856768138,
+                "cusp_degree": 1.7804985676813772,
+                "motion_speed": 12.8406144702717,
+                "zodiac": 6,
+                "house": 7,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 220.041364121518,
+                "cusp_degree": 10.041364121518,
+                "motion_speed": -1.146874164862256,
+                "zodiac": 8,
+                "house": 9,
+                "motion": "R"
+            },
+            "Venus": {
+                "degree": 211.3803287054326,
+                "cusp_degree": 1.3803287054325892,
+                "motion_speed": -0.6069872148004574,
+                "zodiac": 8,
+                "house": 9,
+                "motion": "R"
+            },
+            "Mars": {
+                "degree": 225.28108728116686,
+                "cusp_degree": 15.281087281166862,
+                "motion_speed": 0.7294771712634729,
+                "zodiac": 8,
+                "house": 9,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 198.49339768139316,
+                "cusp_degree": 18.493397681393162,
+                "motion_speed": 0.21610452088092996,
+                "zodiac": 7,
+                "house": 8,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 105.77489308108608,
+                "cusp_degree": 15.774893081086077,
+                "motion_speed": 0.004293545611539975,
+                "zodiac": 4,
+                "house": 5,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 48.75093758366939,
+                "cusp_degree": 18.75093758366939,
+                "motion_speed": -0.03195175023054825,
+                "zodiac": 2,
+                "house": 3,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 49.3464119810819,
+                "cusp_degree": 19.3464119810819,
+                "motion_speed": -0.052992088917117944,
+                "zodiac": 2,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 229.3464119810819,
+                "motion_speed": -0.052992088917117944,
+                "cusp_degree": 19.3464119810819,
+                "zodiac": 8,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 228.75093758366938,
+                "motion_speed": -0.03195175023054825,
+                "cusp_degree": 18.750937583669383,
+                "zodiac": 8,
+                "house": 9,
+                "motion": "R"
+            }
+        }
+    }
+}

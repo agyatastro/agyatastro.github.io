@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Shivraj Singh Chauhan (Politician)",
+        "year": 1959,
+        "month": 3,
+        "day": 5,
+        "hour": 11,
+        "minute": 54,
+        "second": 0,
+        "latitude": 23.115004149999997,
+        "longitude": 77.06653558236647,
+        "location": "Sehore, Madhya Pradesh"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 47.82139160043079,
+            "ascendant": 2
+        },
+        "planets": {
+            "Sun": {
+                "degree": 320.62948299283914,
+                "cusp_degree": 20.629482992839144,
+                "motion_speed": 1.0019534863724826,
+                "zodiac": 11,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 270.44948995797023,
+                "cusp_degree": 0.44948995797022917,
+                "motion_speed": 13.408005187936752,
+                "zodiac": 10,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 336.31238471789567,
+                "cusp_degree": 6.312384717895668,
+                "motion_speed": 1.644847691584725,
+                "zodiac": 12,
+                "house": 11,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 347.5553866151714,
+                "cusp_degree": 17.555386615171415,
+                "motion_speed": 1.2295360564192503,
+                "zodiac": 12,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 47.36579512684008,
+                "cusp_degree": 17.365795126840077,
+                "motion_speed": 0.5021041009377766,
+                "zodiac": 2,
+                "house": 1,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 218.4105579482436,
+                "cusp_degree": 8.410557948243593,
+                "motion_speed": 0.04239426588085142,
+                "zodiac": 8,
+                "house": 7,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 252.3355587867548,
+                "cusp_degree": 12.335558786754802,
+                "motion_speed": 0.06576827372672542,
+                "zodiac": 9,
+                "house": 8,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 170.1311526089536,
+                "cusp_degree": 20.131152608953613,
+                "motion_speed": -0.06919611588383365,
+                "zodiac": 6,
+                "house": 5,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 171.41781655394803,
+                "cusp_degree": 21.41781655394803,
+                "motion_speed": -0.052992077127661595,
+                "zodiac": 6,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 351.417816553948,
+                "motion_speed": -0.052992077127661595,
+                "cusp_degree": 21.417816553948,
+                "zodiac": 12,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 350.1311526089536,
+                "motion_speed": -0.06919611588383365,
+                "cusp_degree": 20.131152608953585,
+                "zodiac": 12,
+                "house": 11,
+                "motion": "R"
+            }
+        }
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Sanjay Gandhi (Politician)",
+        "year": 1946,
+        "month": 12,
+        "day": 14,
+        "hour": 9,
+        "minute": 27,
+        "second": 0,
+        "latitude": 28.6273928,
+        "longitude": 77.1716954,
+        "location": "New Delhi"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 265.3790216994687,
+            "ascendant": 9
+        },
+        "planets": {
+            "Sun": {
+                "degree": 238.43279487195775,
+                "cusp_degree": 28.432794871957753,
+                "motion_speed": 1.0170431478120292,
+                "zodiac": 8,
+                "house": 12,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 132.282085242438,
+                "cusp_degree": 12.282085242438,
+                "motion_speed": 13.652619024414621,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 218.30140177516213,
+                "cusp_degree": 8.301401775162134,
+                "motion_speed": 1.2541194321036013,
+                "zodiac": 8,
+                "house": 12,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 204.65904762413493,
+                "cusp_degree": 24.659047624134928,
+                "motion_speed": 0.22325278991888556,
+                "zodiac": 7,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 244.39613112667794,
+                "cusp_degree": 4.396131126677943,
+                "motion_speed": 0.7522994559008954,
+                "zodiac": 9,
+                "house": 1,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 203.87873841387278,
+                "cusp_degree": 23.87873841387278,
+                "motion_speed": 0.19890488159926212,
+                "zodiac": 7,
+                "house": 11,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 105.26944892166172,
+                "cusp_degree": 15.26944892166172,
+                "motion_speed": -0.042387250632880895,
+                "zodiac": 4,
+                "house": 8,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 48.588941842029335,
+                "cusp_degree": 18.588941842029335,
+                "motion_speed": -0.01065043708608772,
+                "zodiac": 2,
+                "house": 6,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 47.97976875877033,
+                "cusp_degree": 17.979768758770327,
+                "motion_speed": -0.052992122005544776,
+                "zodiac": 2,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 227.97976875877032,
+                "motion_speed": -0.052992122005544776,
+                "cusp_degree": 17.97976875877032,
+                "zodiac": 8,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 228.58894184202933,
+                "motion_speed": -0.01065043708608772,
+                "cusp_degree": 18.588941842029328,
+                "zodiac": 8,
+                "house": 12,
+                "motion": "R"
+            }
+        }
+    }
+}

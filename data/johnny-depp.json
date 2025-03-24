@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Johnny Depp (Actor)",
+        "year": 1963,
+        "month": 6,
+        "day": 9,
+        "hour": 8,
+        "minute": 43,
+        "second": 0,
+        "latitude": 37.7742152,
+        "longitude": -87.1133304,
+        "location": "Owensboro, United States"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 107.09058607703622,
+            "ascendant": 4
+        },
+        "planets": {
+            "Sun": {
+                "degree": 54.699350753938646,
+                "cusp_degree": 24.699350753938646,
+                "motion_speed": 0.9558451136083604,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 260.38692616675456,
+                "cusp_degree": 20.386926166754563,
+                "motion_speed": 12.552287559720744,
+                "zodiac": 9,
+                "house": 6,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 31.93739949283878,
+                "cusp_degree": 1.9373994928387788,
+                "motion_speed": 0.7082183112706638,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 32.745936978855276,
+                "cusp_degree": 2.7459369788552763,
+                "motion_speed": 1.2129346714089646,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 129.8754157050187,
+                "cusp_degree": 9.875415705018696,
+                "motion_speed": 0.5154406756398782,
+                "zodiac": 5,
+                "house": 2,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 350.6352030989645,
+                "cusp_degree": 20.635203098964496,
+                "motion_speed": 0.1651457321848866,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 299.7379302638903,
+                "cusp_degree": 29.73793026389029,
+                "motion_speed": -0.010071573228476903,
+                "zodiac": 10,
+                "house": 7,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 87.29165939896004,
+                "cusp_degree": 27.291659398960036,
+                "motion_speed": -0.012890815002607282,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 88.8903175753617,
+                "cusp_degree": 28.890317575361706,
+                "motion_speed": -0.05299210610399711,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 268.8903175753617,
+                "motion_speed": -0.05299210610399711,
+                "cusp_degree": 28.890317575361678,
+                "zodiac": 9,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 267.29165939896006,
+                "motion_speed": -0.012890815002607282,
+                "cusp_degree": 27.291659398960064,
+                "zodiac": 9,
+                "house": 6,
+                "motion": "R"
+            }
+        }
+    }
+}

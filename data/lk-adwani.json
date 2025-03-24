@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "L. K. Adwani (Politician)",
+        "year": 1927,
+        "month": 11,
+        "day": 8,
+        "hour": 9,
+        "minute": 5,
+        "second": 0,
+        "latitude": 24.8546842,
+        "longitude": 67.0207055,
+        "location": "Karachi, Pakistan"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 239.0647892783461,
+            "ascendant": 8
+        },
+        "planets": {
+            "Sun": {
+                "degree": 201.93275796244748,
+                "cusp_degree": 21.932757962447482,
+                "motion_speed": 1.0036848719650664,
+                "zodiac": 7,
+                "house": 12,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 6.523752439682105,
+                "cusp_degree": 6.523752439682105,
+                "motion_speed": 15.242328808903716,
+                "zodiac": 1,
+                "house": 6,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 206.67028398410076,
+                "cusp_degree": 26.670283984100763,
+                "motion_speed": -1.26477667237541,
+                "zodiac": 7,
+                "house": 12,
+                "motion": "R"
+            },
+            "Venus": {
+                "degree": 155.92886087255812,
+                "cusp_degree": 5.9288608725581184,
+                "motion_speed": 0.8894495442416123,
+                "zodiac": 6,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 196.1146607316433,
+                "cusp_degree": 16.114660731643312,
+                "motion_speed": 0.6842117176133466,
+                "zodiac": 7,
+                "house": 12,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 330.9948740785647,
+                "cusp_degree": 0.9948740785646919,
+                "motion_speed": -0.03954338711386624,
+                "zodiac": 12,
+                "house": 5,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 224.39483696393805,
+                "cusp_degree": 14.394836963938047,
+                "motion_speed": 0.11251710456836492,
+                "zodiac": 8,
+                "house": 1,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 56.243791523886685,
+                "cusp_degree": 26.243791523886685,
+                "motion_speed": -0.08107658914628862,
+                "zodiac": 2,
+                "house": 7,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 57.65014308421958,
+                "cusp_degree": 27.65014308421958,
+                "motion_speed": -0.052992074164348334,
+                "zodiac": 2,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 237.65014308421956,
+                "motion_speed": -0.052992074164348334,
+                "cusp_degree": 27.650143084219565,
+                "zodiac": 8,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 236.24379152388667,
+                "motion_speed": -0.08107658914628862,
+                "cusp_degree": 26.24379152388667,
+                "zodiac": 8,
+                "house": 1,
+                "motion": "R"
+            }
+        }
+    }
+}

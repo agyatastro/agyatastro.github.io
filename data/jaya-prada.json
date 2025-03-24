@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Jaya Prada (Actor)",
+        "year": 1959,
+        "month": 3,
+        "day": 3,
+        "hour": 15,
+        "minute": 0,
+        "second": 0,
+        "latitude": 17.0050454,
+        "longitude": 81.7804732,
+        "location": "Rajahmundry, Andhra Pradesh"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 90.61769718399876,
+            "ascendant": 4
+        },
+        "planets": {
+            "Sun": {
+                "degree": 318.75423038158146,
+                "cusp_degree": 18.754230381581465,
+                "motion_speed": 1.0027632256818566,
+                "zodiac": 11,
+                "house": 8,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 245.00398172400097,
+                "cusp_degree": 5.003981724000965,
+                "motion_speed": 13.789476470936393,
+                "zodiac": 9,
+                "house": 6,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 333.141056094295,
+                "cusp_degree": 3.1410560942949814,
+                "motion_speed": 1.7404293185594861,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 345.2538866839749,
+                "cusp_degree": 15.253886683974883,
+                "motion_speed": 1.2308588653033188,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 46.43069960895455,
+                "cusp_degree": 16.430699608954548,
+                "motion_speed": 0.4975257170642597,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 218.3259582982779,
+                "cusp_degree": 8.325958298277897,
+                "motion_speed": 0.04803483770400566,
+                "zodiac": 8,
+                "house": 5,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 252.210180097179,
+                "cusp_degree": 12.210180097179006,
+                "motion_speed": 0.06825728364775975,
+                "zodiac": 9,
+                "house": 6,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 170.22764272209153,
+                "cusp_degree": 20.22764272209153,
+                "motion_speed": -0.030422344351055793,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 171.51695584986132,
+                "cusp_degree": 21.51695584986132,
+                "motion_speed": -0.052992043942160644,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 351.51695584986135,
+                "motion_speed": -0.052992043942160644,
+                "cusp_degree": 21.516955849861347,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 350.22764272209156,
+                "motion_speed": -0.030422344351055793,
+                "cusp_degree": 20.22764272209156,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "R"
+            }
+        }
+    }
+}

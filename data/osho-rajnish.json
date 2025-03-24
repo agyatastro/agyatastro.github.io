@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Osho Rajnish (Spiritual/Monk)",
+        "year": 1931,
+        "month": 12,
+        "day": 11,
+        "hour": 17,
+        "minute": 45,
+        "second": 0,
+        "latitude": 26.20730275,
+        "longitude": 78.28501750938239,
+        "location": "Udaipura"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 55.645815490245674,
+            "ascendant": 2
+        },
+        "planets": {
+            "Sun": {
+                "degree": 235.5753787136387,
+                "cusp_degree": 25.575378713638713,
+                "motion_speed": 1.0169116982405038,
+                "zodiac": 8,
+                "house": 7,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 262.41803290630287,
+                "cusp_degree": 22.41803290630287,
+                "motion_speed": 13.6227386573112,
+                "zodiac": 9,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 253.48341609780428,
+                "cusp_degree": 13.48341609780428,
+                "motion_speed": 0.06721138644138579,
+                "zodiac": 9,
+                "house": 8,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 259.2677215488097,
+                "cusp_degree": 19.267721548809675,
+                "motion_speed": 1.245936985647767,
+                "zodiac": 9,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 248.12668278093633,
+                "cusp_degree": 8.126682780936335,
+                "motion_speed": 0.7588022595027857,
+                "zodiac": 9,
+                "house": 8,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 119.72579511977882,
+                "cusp_degree": 29.725795119778823,
+                "motion_speed": -0.005922702258683012,
+                "zodiac": 4,
+                "house": 3,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 268.55575393424647,
+                "cusp_degree": 28.555753934246468,
+                "motion_speed": 0.10592615376194997,
+                "zodiac": 9,
+                "house": 8,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 339.07953869001716,
+                "cusp_degree": 9.07953869001716,
+                "motion_speed": -0.19006468859783524,
+                "zodiac": 12,
+                "house": 11,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 338.4639694369927,
+                "cusp_degree": 8.463969436992727,
+                "motion_speed": -0.05299193781338737,
+                "zodiac": 12,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 158.46396943699278,
+                "motion_speed": -0.05299193781338737,
+                "cusp_degree": 8.463969436992784,
+                "zodiac": 6,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 159.07953869001722,
+                "motion_speed": -0.19006468859783524,
+                "cusp_degree": 9.079538690017216,
+                "zodiac": 6,
+                "house": 5,
+                "motion": "R"
+            }
+        }
+    }
+}

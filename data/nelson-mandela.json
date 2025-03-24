@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Nelson Mandela (Activist)",
+        "year": 1918,
+        "month": 7,
+        "day": 18,
+        "hour": 14,
+        "minute": 54,
+        "second": 0,
+        "latitude": -33.9288301,
+        "longitude": 18.4172197,
+        "location": "Cape Town, South Africa"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 234.28314817173367,
+            "ascendant": 8
+        },
+        "planets": {
+            "Sun": {
+                "degree": 92.35173885620031,
+                "cusp_degree": 2.3517388562003134,
+                "motion_speed": 0.9540853414119321,
+                "zodiac": 4,
+                "house": 9,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 207.59963636400067,
+                "cusp_degree": 27.599636364000673,
+                "motion_speed": 12.26057800334775,
+                "zodiac": 7,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 113.41791157591311,
+                "cusp_degree": 23.41791157591311,
+                "motion_speed": 1.6109849301580095,
+                "zodiac": 4,
+                "house": 9,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 59.861606723226515,
+                "cusp_degree": 29.861606723226515,
+                "motion_speed": 1.1856488345286407,
+                "zodiac": 2,
+                "house": 7,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 169.85692409142953,
+                "cusp_degree": 19.856924091429534,
+                "motion_speed": 0.5494531677794304,
+                "zodiac": 6,
+                "house": 11,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 68.4443819579683,
+                "cusp_degree": 8.444381957968304,
+                "motion_speed": 0.21889565589799104,
+                "zodiac": 3,
+                "house": 8,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 112.30876967932956,
+                "cusp_degree": 22.308769679329558,
+                "motion_speed": 0.12313537279990938,
+                "zodiac": 4,
+                "house": 9,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 239.1143711351274,
+                "cusp_degree": 29.114371135127413,
+                "motion_speed": 0.027668544189013107,
+                "zodiac": 8,
+                "house": 1,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 237.80465082054025,
+                "cusp_degree": 27.804650820540246,
+                "motion_speed": -0.05299201692517248,
+                "zodiac": 8,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 57.804650820540246,
+                "motion_speed": -0.05299201692517248,
+                "cusp_degree": 27.804650820540246,
+                "zodiac": 2,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 59.114371135127385,
+                "motion_speed": 0.027668544189013107,
+                "cusp_degree": 29.114371135127385,
+                "zodiac": 2,
+                "house": 7,
+                "motion": "R"
+            }
+        }
+    }
+}

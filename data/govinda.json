@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Govinda (Actor)",
+        "year": 1963,
+        "month": 12,
+        "day": 21,
+        "hour": 21,
+        "minute": 0,
+        "second": 0,
+        "latitude": 19.4497996,
+        "longitude": 72.8120613,
+        "location": "Virar, Maharashtra"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 100.46478633486534,
+            "ascendant": 4
+        },
+        "planets": {
+            "Sun": {
+                "degree": 245.67835028792805,
+                "cusp_degree": 5.678350287928055,
+                "motion_speed": 1.0185057783263416,
+                "zodiac": 9,
+                "house": 6,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 308.61677803957,
+                "cusp_degree": 8.616778039570022,
+                "motion_speed": 12.973729683557039,
+                "zodiac": 11,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 265.52198218973643,
+                "cusp_degree": 25.521982189736434,
+                "motion_speed": 0.7281385125251735,
+                "zodiac": 9,
+                "house": 6,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 273.9770826785399,
+                "cusp_degree": 3.9770826785398867,
+                "motion_speed": 1.2399864300223453,
+                "zodiac": 10,
+                "house": 7,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 259.06801228680905,
+                "cusp_degree": 19.06801228680905,
+                "motion_speed": 0.7701023828163961,
+                "zodiac": 9,
+                "house": 6,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 346.64115878998575,
+                "cusp_degree": 16.641158789985752,
+                "motion_speed": 0.05535999530782627,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 296.0720054219918,
+                "cusp_degree": 26.072005421991776,
+                "motion_speed": 0.09080340129362734,
+                "zodiac": 10,
+                "house": 7,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 77.87369591352041,
+                "cusp_degree": 17.873695913520407,
+                "motion_speed": 0.017531138292817213,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 78.55565399455088,
+                "cusp_degree": 18.55565399455088,
+                "motion_speed": -0.052992006164201334,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 258.5556539945509,
+                "motion_speed": -0.052992006164201334,
+                "cusp_degree": 18.55565399455088,
+                "zodiac": 9,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 257.8736959135204,
+                "motion_speed": 0.017531138292817213,
+                "cusp_degree": 17.873695913520407,
+                "zodiac": 9,
+                "house": 6,
+                "motion": "R"
+            }
+        }
+    }
+}

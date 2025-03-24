@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Shri P V Narsimha Rao (Politician/Prime Minister)",
+        "year": 1921,
+        "month": 6,
+        "day": 28,
+        "hour": 12,
+        "minute": 10,
+        "second": 0,
+        "latitude": 18.4348122,
+        "longitude": 79.1328042,
+        "location": "Karimnagar, Telangana"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 156.46310977824166,
+            "ascendant": 6
+        },
+        "planets": {
+            "Sun": {
+                "degree": 73.22421367463426,
+                "cusp_degree": 13.224213674634257,
+                "motion_speed": 0.9534425607351502,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 339.91298390446224,
+                "cusp_degree": 9.912983904462237,
+                "motion_speed": 12.276402636922235,
+                "zodiac": 12,
+                "house": 7,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 87.69281842600891,
+                "cusp_degree": 27.692818426008913,
+                "motion_speed": -0.24029334145557285,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "R"
+            },
+            "Venus": {
+                "degree": 27.622570528134013,
+                "cusp_degree": 27.622570528134013,
+                "motion_speed": 0.9272779920229534,
+                "zodiac": 1,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 73.51499333301399,
+                "cusp_degree": 13.51499333301399,
+                "motion_speed": 0.6647484856925292,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 140.0941705552856,
+                "cusp_degree": 20.094170555285586,
+                "motion_speed": 0.1368173354843868,
+                "zodiac": 5,
+                "house": 12,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 146.43385063268414,
+                "cusp_degree": 26.43385063268414,
+                "motion_speed": 0.06181412227376458,
+                "zodiac": 5,
+                "house": 12,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 181.43756043924085,
+                "cusp_degree": 1.4375604392408547,
+                "motion_speed": -0.004656826245996702,
+                "zodiac": 7,
+                "house": 2,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 180.80006682524737,
+                "cusp_degree": 0.8000668252473702,
+                "motion_speed": -0.05299214653118073,
+                "zodiac": 7,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 0.8000668252473702,
+                "motion_speed": -0.05299214653118073,
+                "cusp_degree": 0.8000668252473702,
+                "zodiac": 1,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 1.4375604392408832,
+                "motion_speed": -0.004656826245996702,
+                "cusp_degree": 1.4375604392408832,
+                "zodiac": 1,
+                "house": 8,
+                "motion": "R"
+            }
+        }
+    }
+}

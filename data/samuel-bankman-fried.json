@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Samuel Bankman Fried (Businessman)",
+        "year": 1992,
+        "month": 3,
+        "day": 5,
+        "hour": 9,
+        "minute": 51,
+        "second": 0,
+        "latitude": 37.426540700000004,
+        "longitude": -122.17030545534064,
+        "location": "Stanford, United States"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 31.48697679180745,
+            "ascendant": 2
+        },
+        "planets": {
+            "Sun": {
+                "degree": 321.6589974126318,
+                "cusp_degree": 21.658997412631777,
+                "motion_speed": 1.001602642248152,
+                "zodiac": 11,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 335.0177427987941,
+                "cusp_degree": 5.017742798794075,
+                "motion_speed": 12.406626464983493,
+                "zodiac": 12,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 338.979739751493,
+                "cusp_degree": 8.979739751493014,
+                "motion_speed": 1.4161487200950598,
+                "zodiac": 12,
+                "house": 11,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 296.04891347550097,
+                "cusp_degree": 26.048913475500967,
+                "motion_speed": 1.2348988589063388,
+                "zodiac": 10,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 288.96003033291186,
+                "cusp_degree": 18.960030332911856,
+                "motion_speed": 0.7712653555553921,
+                "zodiac": 10,
+                "house": 9,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 135.18082161844814,
+                "cusp_degree": 15.180821618448135,
+                "motion_speed": -0.12980091632920765,
+                "zodiac": 5,
+                "house": 4,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 289.6277984406734,
+                "cusp_degree": 19.627798440673416,
+                "motion_speed": 0.10757400505254408,
+                "zodiac": 10,
+                "house": 9,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 253.5127598392843,
+                "cusp_degree": 13.512759839284314,
+                "motion_speed": -0.21594357197835456,
+                "zodiac": 9,
+                "house": 8,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 252.62594604535497,
+                "cusp_degree": 12.625946045354965,
+                "motion_speed": -0.052992020353490384,
+                "zodiac": 9,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 72.62594604535497,
+                "motion_speed": -0.052992020353490384,
+                "cusp_degree": 12.625946045354965,
+                "zodiac": 3,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 73.51275983928429,
+                "motion_speed": -0.21594357197835456,
+                "cusp_degree": 13.512759839284286,
+                "zodiac": 3,
+                "house": 2,
+                "motion": "R"
+            }
+        }
+    }
+}

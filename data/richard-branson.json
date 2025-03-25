@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Richard Branson (Businessman)",
+        "year": 1950,
+        "month": 7,
+        "day": 18,
+        "hour": 6,
+        "minute": 40,
+        "second": 0,
+        "latitude": 51.5074456,
+        "longitude": -0.1277653,
+        "location": "Blackheath, London"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 118.68654694151931,
+            "ascendant": 4
+        },
+        "planets": {
+            "Sun": {
+                "degree": 91.90859819940859,
+                "cusp_degree": 1.908598199408587,
+                "motion_speed": 0.9544369969332849,
+                "zodiac": 4,
+                "house": 1,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 128.82088158247282,
+                "cusp_degree": 8.820881582472822,
+                "motion_speed": 13.28734879289152,
+                "zodiac": 5,
+                "house": 2,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 100.02160528293516,
+                "cusp_degree": 10.021605282935155,
+                "motion_speed": 2.017644384482669,
+                "zodiac": 4,
+                "house": 1,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 61.49875461754323,
+                "cusp_degree": 1.4987546175432271,
+                "motion_speed": 1.1932129183121507,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 173.51941352580144,
+                "cusp_degree": 23.51941352580144,
+                "motion_speed": 0.5331934563333931,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 313.56459758106655,
+                "cusp_degree": 13.56459758106655,
+                "motion_speed": -0.06683642597070504,
+                "zodiac": 11,
+                "house": 8,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 142.6657577409856,
+                "cusp_degree": 22.66575774098561,
+                "motion_speed": 0.09375289893146599,
+                "zodiac": 5,
+                "house": 2,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 337.1950518568609,
+                "cusp_degree": 7.195051856860914,
+                "motion_speed": -0.07238190918324096,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 338.4473029657423,
+                "cusp_degree": 8.447302965742324,
+                "motion_speed": -0.052992052277528255,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 158.44730296574232,
+                "motion_speed": -0.052992052277528255,
+                "cusp_degree": 8.447302965742324,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 157.1950518568609,
+                "motion_speed": -0.07238190918324096,
+                "cusp_degree": 7.195051856860914,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "R"
+            }
+        }
+    }
+}

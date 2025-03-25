@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Selena Gomez (Singer)",
+        "year": 1992,
+        "month": 7,
+        "day": 22,
+        "hour": 7,
+        "minute": 19,
+        "second": 0,
+        "latitude": 32.7459645,
+        "longitude": -96.9977846,
+        "location": "Grand Prairie, United States"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 114.93154996531598,
+            "ascendant": 4
+        },
+        "planets": {
+            "Sun": {
+                "degree": 96.20288583729187,
+                "cusp_degree": 6.202885837291873,
+                "motion_speed": 0.9547732828517835,
+                "zodiac": 4,
+                "house": 1,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 1.8232875613192794,
+                "cusp_degree": 1.8232875613192794,
+                "motion_speed": 12.52674810729041,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 113.45849641699569,
+                "cusp_degree": 23.458496416995686,
+                "motion_speed": -0.206125816227757,
+                "zodiac": 4,
+                "house": 1,
+                "motion": "R"
+            },
+            "Venus": {
+                "degree": 106.90265931313445,
+                "cusp_degree": 16.90265931313445,
+                "motion_speed": 1.229994984507969,
+                "zodiac": 4,
+                "house": 1,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 33.3345497956857,
+                "cusp_degree": 3.334549795685703,
+                "motion_speed": 0.6887189625216722,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 139.60096560211502,
+                "cusp_degree": 19.600965602115025,
+                "motion_speed": 0.18283349264486823,
+                "zodiac": 5,
+                "house": 2,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 292.54071609988904,
+                "cusp_degree": 22.54071609988904,
+                "motion_speed": -0.07009038665871431,
+                "zodiac": 10,
+                "house": 7,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 246.51247352743826,
+                "cusp_degree": 6.51247352743826,
+                "motion_speed": -0.007741759534720231,
+                "zodiac": 9,
+                "house": 6,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 245.27013850082076,
+                "cusp_degree": 5.270138500820764,
+                "motion_speed": -0.05299202829810938,
+                "zodiac": 9,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 65.27013850082074,
+                "motion_speed": -0.05299202829810938,
+                "cusp_degree": 5.270138500820735,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 66.51247352743826,
+                "motion_speed": -0.007741759534720231,
+                "cusp_degree": 6.51247352743826,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "R"
+            }
+        }
+    }
+}

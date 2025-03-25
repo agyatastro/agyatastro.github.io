@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Queen Elizabeth II (Monarch)",
+        "year": 1926,
+        "month": 4,
+        "day": 21,
+        "hour": 2,
+        "minute": 0,
+        "second": 0,
+        "latitude": 51.5074456,
+        "longitude": -0.1277653,
+        "location": "Buckingham Palace, London"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 275.538295475639,
+            "ascendant": 10
+        },
+        "planets": {
+            "Sun": {
+                "degree": 7.397120880692808,
+                "cusp_degree": 7.397120880692808,
+                "motion_speed": 0.9755038032314953,
+                "zodiac": 1,
+                "house": 4,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 109.47101899613078,
+                "cusp_degree": 19.47101899613078,
+                "motion_speed": 11.813912479176754,
+                "zodiac": 4,
+                "house": 7,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 341.8472561544718,
+                "cusp_degree": 11.84725615447178,
+                "motion_speed": 0.5622822467067113,
+                "zodiac": 12,
+                "house": 3,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 321.14746857121514,
+                "cusp_degree": 21.147468571215143,
+                "motion_speed": 0.990578849784737,
+                "zodiac": 11,
+                "house": 2,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 298.05368963067224,
+                "cusp_degree": 28.05368963067224,
+                "motion_speed": 0.7231500855636463,
+                "zodiac": 10,
+                "house": 1,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 299.68883428066067,
+                "cusp_degree": 29.68883428066067,
+                "motion_speed": 0.15352094708054875,
+                "zodiac": 10,
+                "house": 1,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 211.62108448644395,
+                "cusp_degree": 1.621084486443948,
+                "motion_speed": -0.06469890597378646,
+                "zodiac": 8,
+                "house": 11,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 87.2891396916773,
+                "cusp_degree": 27.289139691677306,
+                "motion_speed": -0.018995139615519057,
+                "zodiac": 3,
+                "house": 6,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 87.64940211095204,
+                "cusp_degree": 27.64940211095204,
+                "motion_speed": -0.05299207568611088,
+                "zodiac": 3,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 267.64940211095205,
+                "motion_speed": -0.05299207568611088,
+                "cusp_degree": 27.649402110952053,
+                "zodiac": 9,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 267.2891396916773,
+                "motion_speed": -0.018995139615519057,
+                "cusp_degree": 27.289139691677292,
+                "zodiac": 9,
+                "house": 12,
+                "motion": "R"
+            }
+        }
+    }
+}

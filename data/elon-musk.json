@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Elon Musk (Businessman/Technocrat)",
+        "year": 1971,
+        "month": 6,
+        "day": 28,
+        "hour": 7,
+        "minute": 30,
+        "second": 0,
+        "latitude": -25.7459277,
+        "longitude": 28.1879101,
+        "location": "Pretoria, South Africa"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 82.02928725683898,
+            "ascendant": 3
+        },
+        "planets": {
+            "Sun": {
+                "degree": 72.43374258495287,
+                "cusp_degree": 12.433742584952867,
+                "motion_speed": 0.9536606793689517,
+                "zodiac": 3,
+                "house": 1,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 134.84721028240529,
+                "cusp_degree": 14.847210282405285,
+                "motion_speed": 12.002144263448612,
+                "zodiac": 5,
+                "house": 3,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 80.61593726450042,
+                "cusp_degree": 20.615937264500417,
+                "motion_speed": 2.0805941695587755,
+                "zodiac": 3,
+                "house": 1,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 55.941378003853536,
+                "cusp_degree": 25.941378003853536,
+                "motion_speed": 1.219065253577013,
+                "zodiac": 2,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 297.44433877538887,
+                "cusp_degree": 27.44433877538887,
+                "motion_speed": 0.1577001584207349,
+                "zodiac": 10,
+                "house": 8,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 214.18533593345288,
+                "cusp_degree": 4.185335933452876,
+                "motion_speed": -0.07698738858993441,
+                "zodiac": 8,
+                "house": 6,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 37.661085489755735,
+                "cusp_degree": 7.661085489755735,
+                "motion_speed": 0.11417197395032055,
+                "zodiac": 2,
+                "house": 12,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 291.6506763138086,
+                "cusp_degree": 21.650676313808617,
+                "motion_speed": 0.02666453088614353,
+                "zodiac": 10,
+                "house": 8,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 293.0604412151699,
+                "cusp_degree": 23.060441215169874,
+                "motion_speed": -0.052992048589810894,
+                "zodiac": 10,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 113.06044121516987,
+                "motion_speed": -0.052992048589810894,
+                "cusp_degree": 23.060441215169874,
+                "zodiac": 4,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 111.65067631380862,
+                "motion_speed": 0.02666453088614353,
+                "cusp_degree": 21.650676313808617,
+                "zodiac": 4,
+                "house": 2,
+                "motion": "R"
+            }
+        }
+    }
+}

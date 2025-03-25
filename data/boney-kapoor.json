@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Boney Kapoor (Producer/Director)",
+        "year": 1953,
+        "month": 11,
+        "day": 11,
+        "hour": 14,
+        "minute": 33,
+        "second": 0,
+        "latitude": 29.0018557,
+        "longitude": 77.76796714992041,
+        "location": "Meerut, Uttar Pradesh"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 319.6592389056759,
+            "ascendant": 11
+        },
+        "planets": {
+            "Sun": {
+                "degree": 205.45482416546358,
+                "cusp_degree": 25.454824165463577,
+                "motion_speed": 1.0059625410154935,
+                "zodiac": 7,
+                "house": 9,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 258.79133492608037,
+                "cusp_degree": 18.791334926080367,
+                "motion_speed": 12.986083518558583,
+                "zodiac": 9,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 213.1361963732701,
+                "cusp_degree": 3.13619637327011,
+                "motion_speed": -1.14480532233107,
+                "zodiac": 8,
+                "house": 10,
+                "motion": "R"
+            },
+            "Venus": {
+                "degree": 186.28693778457432,
+                "cusp_degree": 6.28693778457432,
+                "motion_speed": 1.250146470625416,
+                "zodiac": 7,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 162.84106130118784,
+                "cusp_degree": 12.841061301187835,
+                "motion_speed": 0.6188560711047953,
+                "zodiac": 6,
+                "house": 8,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 62.04144994862447,
+                "cusp_degree": 2.041449948624468,
+                "motion_speed": -0.08717734961357695,
+                "zodiac": 3,
+                "house": 5,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 189.15307630286344,
+                "cusp_degree": 9.15307630286344,
+                "motion_speed": 0.11797176907646299,
+                "zodiac": 7,
+                "house": 9,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 273.03243965634493,
+                "cusp_degree": 3.032439656344934,
+                "motion_speed": -0.03148202801761445,
+                "zodiac": 10,
+                "house": 12,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 274.21654957259557,
+                "cusp_degree": 4.216549572595568,
+                "motion_speed": -0.052992115330395426,
+                "zodiac": 10,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 94.21654957259557,
+                "motion_speed": -0.052992115330395426,
+                "cusp_degree": 4.216549572595568,
+                "zodiac": 4,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 93.03243965634493,
+                "motion_speed": -0.03148202801761445,
+                "cusp_degree": 3.032439656344934,
+                "zodiac": 4,
+                "house": 6,
+                "motion": "R"
+            }
+        }
+    }
+}

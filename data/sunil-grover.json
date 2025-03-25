@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Sunil Grover (Actor)",
+        "year": 1977,
+        "month": 8,
+        "day": 3,
+        "hour": 5,
+        "minute": 45,
+        "second": 0,
+        "latitude": 29.83275365,
+        "longitude": 74.63672922932832,
+        "location": "Dabwali, Punjab"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 99.8839189012533,
+            "ascendant": 4
+        },
+        "planets": {
+            "Sun": {
+                "degree": 106.99924960781544,
+                "cusp_degree": 16.999249607815443,
+                "motion_speed": 0.956909376326754,
+                "zodiac": 4,
+                "house": 1,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 332.631069066718,
+                "cusp_degree": 2.6310690667179983,
+                "motion_speed": 13.100932452897089,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 133.65960731195,
+                "cusp_degree": 13.659607311949998,
+                "motion_speed": 1.1944491549854699,
+                "zodiac": 5,
+                "house": 2,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 66.67011121079399,
+                "cusp_degree": 6.670111210793991,
+                "motion_speed": 1.13791942638345,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 47.66670317960451,
+                "cusp_degree": 17.66670317960451,
+                "motion_speed": 0.6730204387230165,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 63.23042254843806,
+                "cusp_degree": 3.2304225484380567,
+                "motion_speed": 0.1960096122876665,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 115.53803638004275,
+                "cusp_degree": 25.538036380042755,
+                "motion_speed": 0.1270368546610175,
+                "zodiac": 4,
+                "house": 1,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 173.93441894543685,
+                "cusp_degree": 23.934418945436846,
+                "motion_speed": -0.04964645719476646,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 175.0069146703875,
+                "cusp_degree": 25.006914670387488,
+                "motion_speed": -0.052992042793883185,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 355.00691467038746,
+                "motion_speed": -0.052992042793883185,
+                "cusp_degree": 25.00691467038746,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 353.93441894543685,
+                "motion_speed": -0.04964645719476646,
+                "cusp_degree": 23.934418945436846,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "R"
+            }
+        }
+    }
+}

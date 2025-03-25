@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "King Charles III (Monarch)",
+        "year": 1948,
+        "month": 11,
+        "day": 14,
+        "hour": 21,
+        "minute": 14,
+        "second": 0,
+        "latitude": 51.4893335,
+        "longitude": -0.14405508452768728,
+        "location": "London, United Kingdom"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 102.43234908984046,
+            "ascendant": 4
+        },
+        "planets": {
+            "Sun": {
+                "degree": 209.28335123244187,
+                "cusp_degree": 29.283351232441873,
+                "motion_speed": 1.007224381971594,
+                "zodiac": 7,
+                "house": 4,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 7.2998786730228975,
+                "cusp_degree": 7.2998786730228975,
+                "motion_speed": 12.425200691592883,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 193.8181585227792,
+                "cusp_degree": 13.818158522779214,
+                "motion_speed": 1.511749138871132,
+                "zodiac": 7,
+                "house": 4,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 173.24486791381918,
+                "cusp_degree": 23.244867913819178,
+                "motion_speed": 1.2139223482905062,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 237.8092519385813,
+                "cusp_degree": 27.809251938581298,
+                "motion_speed": 0.746485068532143,
+                "zodiac": 8,
+                "house": 5,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 246.74576356211819,
+                "cusp_degree": 6.745763562118185,
+                "motion_speed": 0.2047567968193491,
+                "zodiac": 9,
+                "house": 6,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 132.12755801842775,
+                "cusp_degree": 12.127558018427749,
+                "motion_speed": 0.05689139186051362,
+                "zodiac": 5,
+                "house": 2,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 11.820062854263487,
+                "cusp_degree": 11.820062854263487,
+                "motion_speed": 0.005293267189575784,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 10.793288517900564,
+                "cusp_degree": 10.793288517900564,
+                "motion_speed": -0.05299198767687875,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 190.79328851790058,
+                "motion_speed": -0.05299198767687875,
+                "cusp_degree": 10.793288517900578,
+                "zodiac": 7,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 191.82006285426348,
+                "motion_speed": 0.005293267189575784,
+                "cusp_degree": 11.820062854263483,
+                "zodiac": 7,
+                "house": 4,
+                "motion": "R"
+            }
+        }
+    }
+}

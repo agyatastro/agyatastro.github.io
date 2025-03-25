@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Bhagwant Mann (Politician/Comic)",
+        "year": 1973,
+        "month": 10,
+        "day": 17,
+        "hour": 13,
+        "minute": 50,
+        "second": 0,
+        "latitude": 30.135717,
+        "longitude": 75.85333259556887,
+        "location": "Sangrur, Punjab"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 272.4472632269904,
+            "ascendant": 10
+        },
+        "planets": {
+            "Sun": {
+                "degree": 180.30827884525547,
+                "cusp_degree": 0.30827884525547233,
+                "motion_speed": 0.9923346001727347,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 69.15996081016179,
+                "cusp_degree": 9.159960810161792,
+                "motion_speed": 14.227881389003333,
+                "zodiac": 3,
+                "house": 6,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 204.76036171060855,
+                "cusp_degree": 24.76036171060855,
+                "motion_speed": 1.055698208235851,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 225.50266774189666,
+                "cusp_degree": 15.502667741896659,
+                "motion_speed": 1.116426031786098,
+                "zodiac": 8,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 10.693842687158076,
+                "cusp_degree": 10.693842687158076,
+                "motion_speed": -0.32437360664207887,
+                "zodiac": 1,
+                "house": 4,
+                "motion": "R"
+            },
+            "Jupiter": {
+                "degree": 279.3684507910349,
+                "cusp_degree": 9.368450791034888,
+                "motion_speed": 0.06039020129599906,
+                "zodiac": 10,
+                "house": 1,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 71.25804284507042,
+                "cusp_degree": 11.25804284507042,
+                "motion_speed": -0.00023199183786055377,
+                "zodiac": 3,
+                "house": 6,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 247.46340249401973,
+                "cusp_degree": 7.463402494019732,
+                "motion_speed": 0.0020457080374812002,
+                "zodiac": 9,
+                "house": 12,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 248.4360288755836,
+                "cusp_degree": 8.436028875583588,
+                "motion_speed": -0.05299202979665444,
+                "zodiac": 9,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 68.43602887558359,
+                "motion_speed": -0.05299202979665444,
+                "cusp_degree": 8.436028875583588,
+                "zodiac": 3,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 67.46340249401976,
+                "motion_speed": 0.0020457080374812002,
+                "cusp_degree": 7.4634024940197605,
+                "zodiac": 3,
+                "house": 6,
+                "motion": "R"
+            }
+        }
+    }
+}

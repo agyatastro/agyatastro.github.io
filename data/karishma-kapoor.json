@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Karishma Kapoor (Actor)",
+        "year": 1975,
+        "month": 6,
+        "day": 25,
+        "hour": 11,
+        "minute": 59,
+        "second": 0,
+        "latitude": 19.054999,
+        "longitude": 72.8692035,
+        "location": "Mumbai, Maharashtra"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 144.30309964376474,
+            "ascendant": 5
+        },
+        "planets": {
+            "Sun": {
+                "degree": 69.56697161847501,
+                "cusp_degree": 9.566971618475009,
+                "motion_speed": 0.9534216404141119,
+                "zodiac": 3,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 267.9001678783347,
+                "cusp_degree": 27.900167878334685,
+                "motion_speed": 12.600782772350946,
+                "zodiac": 9,
+                "house": 5,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 51.76117536219198,
+                "cusp_degree": 21.761175362191977,
+                "motion_speed": 0.2046549606715223,
+                "zodiac": 2,
+                "house": 10,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 114.77474430727995,
+                "cusp_degree": 24.774744307279946,
+                "motion_speed": 0.9013642527648621,
+                "zodiac": 4,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 2.248656806337423,
+                "cusp_degree": 2.248656806337423,
+                "motion_speed": 0.7201840314918901,
+                "zodiac": 1,
+                "house": 9,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 357.2905997363694,
+                "cusp_degree": 27.290599736369415,
+                "motion_speed": 0.14386916173177763,
+                "zodiac": 12,
+                "house": 8,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 86.36575955725525,
+                "cusp_degree": 26.365759557255245,
+                "motion_speed": 0.12611313580786615,
+                "zodiac": 3,
+                "house": 11,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 217.09873886235934,
+                "cusp_degree": 7.09873886235934,
+                "motion_speed": -0.08655194929914424,
+                "zodiac": 8,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 215.79701875534937,
+                "cusp_degree": 5.79701875534937,
+                "motion_speed": -0.05299207786552507,
+                "zodiac": 8,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 35.79701875534937,
+                "motion_speed": -0.05299207786552507,
+                "cusp_degree": 5.79701875534937,
+                "zodiac": 2,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 37.09873886235937,
+                "motion_speed": -0.08655194929914424,
+                "cusp_degree": 7.098738862359369,
+                "zodiac": 2,
+                "house": 10,
+                "motion": "R"
+            }
+        }
+    }
+}

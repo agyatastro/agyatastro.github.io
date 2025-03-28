@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Silvio Berlusconi (Actor)",
+        "year": 1936,
+        "month": 9,
+        "day": 29,
+        "hour": 5,
+        "minute": 30,
+        "second": 0,
+        "latitude": 45.4641943,
+        "longitude": 9.1896346,
+        "location": "Milan, Italy"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 154.71956205116166,
+            "ascendant": 6
+        },
+        "planets": {
+            "Sun": {
+                "degree": 162.8748914622753,
+                "cusp_degree": 12.874891462275286,
+                "motion_speed": 0.9821892564917042,
+                "zodiac": 6,
+                "house": 1,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 319.2183000898726,
+                "cusp_degree": 19.218300089872628,
+                "motion_speed": 14.798863349415559,
+                "zodiac": 11,
+                "house": 6,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 166.7265825398734,
+                "cusp_degree": 16.72658253987339,
+                "motion_speed": -1.1184922219782436,
+                "zodiac": 6,
+                "house": 1,
+                "motion": "R"
+            },
+            "Venus": {
+                "degree": 187.53769060402007,
+                "cusp_degree": 7.537690604020071,
+                "motion_speed": 1.2297868371104468,
+                "zodiac": 7,
+                "house": 2,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 128.62822656200908,
+                "cusp_degree": 8.628226562009075,
+                "motion_speed": 0.6231294896660663,
+                "zodiac": 5,
+                "house": 12,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 235.04451230532763,
+                "cusp_degree": 25.04451230532763,
+                "motion_speed": 0.13367615828503635,
+                "zodiac": 8,
+                "house": 3,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 324.8599787503741,
+                "cusp_degree": 24.859978750374125,
+                "motion_speed": -0.07102318833056646,
+                "zodiac": 11,
+                "house": 6,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 245.29979892285948,
+                "cusp_degree": 5.29979892285948,
+                "motion_speed": -0.17032772927986556,
+                "zodiac": 9,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 245.53176874325004,
+                "cusp_degree": 5.531768743250041,
+                "motion_speed": -0.052992131841358675,
+                "zodiac": 9,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 65.53176874325004,
+                "motion_speed": -0.052992131841358675,
+                "cusp_degree": 5.531768743250041,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 65.29979892285951,
+                "motion_speed": -0.17032772927986556,
+                "cusp_degree": 5.299798922859509,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "R"
+            }
+        }
+    }
+}

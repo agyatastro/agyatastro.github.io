@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Henry Kissinger (Diplomat)",
+        "year": 1923,
+        "month": 5,
+        "day": 27,
+        "hour": 5,
+        "minute": 10,
+        "second": 0,
+        "latitude": 48.5915163,
+        "longitude": 12.0212216,
+        "location": "Furth, Germany"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 56.934983464432676,
+            "ascendant": 2
+        },
+        "planets": {
+            "Sun": {
+                "degree": 42.07798522621507,
+                "cusp_degree": 12.07798522621507,
+                "motion_speed": 0.9594353084773755,
+                "zodiac": 2,
+                "house": 1,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 179.60797292184944,
+                "cusp_degree": 29.607972921849438,
+                "motion_speed": 14.79228748743982,
+                "zodiac": 6,
+                "house": 5,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 45.020565745197736,
+                "cusp_degree": 15.020565745197736,
+                "motion_speed": -0.5434710652642952,
+                "zodiac": 2,
+                "house": 1,
+                "motion": "R"
+            },
+            "Venus": {
+                "degree": 13.902969248546219,
+                "cusp_degree": 13.902969248546219,
+                "motion_speed": 1.203725125744536,
+                "zodiac": 1,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 64.76828866925388,
+                "cusp_degree": 4.768288669253877,
+                "motion_speed": 0.6602251836571146,
+                "zodiac": 3,
+                "house": 2,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 198.6761617723753,
+                "cusp_degree": 18.67616177237531,
+                "motion_speed": -0.10813760637206339,
+                "zodiac": 7,
+                "house": 6,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 170.9238119444211,
+                "cusp_degree": 20.92381194442109,
+                "motion_speed": -0.033648112843623346,
+                "zodiac": 6,
+                "house": 5,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 144.54870724601417,
+                "cusp_degree": 24.548707246014175,
+                "motion_speed": -0.07810280772747935,
+                "zodiac": 5,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 143.8160063737957,
+                "cusp_degree": 23.816006373795688,
+                "motion_speed": -0.05299201219540926,
+                "zodiac": 5,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 323.8160063737957,
+                "motion_speed": -0.05299201219540926,
+                "cusp_degree": 23.816006373795688,
+                "zodiac": 11,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 324.54870724601415,
+                "motion_speed": -0.07810280772747935,
+                "cusp_degree": 24.548707246014146,
+                "zodiac": 11,
+                "house": 10,
+                "motion": "R"
+            }
+        }
+    }
+}

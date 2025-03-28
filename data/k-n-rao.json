@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "K.N.Rao (Astrologer)",
+        "year": 1931,
+        "month": 10,
+        "day": 12,
+        "hour": 7,
+        "minute": 55,
+        "second": 0,
+        "latitude": 16.17690185,
+        "longitude": 81.13860909741948,
+        "location": "Machilipatanam, Andhra Pradesh"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 196.4823984639504,
+            "ascendant": 7
+        },
+        "planets": {
+            "Sun": {
+                "degree": 174.8816673207253,
+                "cusp_degree": 24.881667320725313,
+                "motion_speed": 0.9898563273178594,
+                "zodiac": 6,
+                "house": 12,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 182.52794240138874,
+                "cusp_degree": 2.527942401388742,
+                "motion_speed": 15.147618102632881,
+                "zodiac": 7,
+                "house": 1,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 170.05315956773813,
+                "cusp_degree": 20.053159567738135,
+                "motion_speed": 1.7531168236097265,
+                "zodiac": 6,
+                "house": 12,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 183.8873378185193,
+                "cusp_degree": 3.8873378185193133,
+                "motion_speed": 1.2479927997407483,
+                "zodiac": 7,
+                "house": 1,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 204.02202074800232,
+                "cusp_degree": 24.02202074800232,
+                "motion_speed": 0.6987649800489449,
+                "zodiac": 7,
+                "house": 1,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 114.70994483376366,
+                "cusp_degree": 24.709944833763657,
+                "motion_speed": 0.15616218420671754,
+                "zodiac": 4,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 264.07997327171506,
+                "cusp_degree": 24.079973271715062,
+                "motion_speed": 0.03312102857746507,
+                "zodiac": 9,
+                "house": 3,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 342.5008574427089,
+                "cusp_degree": 12.500857442708877,
+                "motion_speed": -0.014168128354571884,
+                "zodiac": 12,
+                "house": 6,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 341.66520607224754,
+                "cusp_degree": 11.665206072247543,
+                "motion_speed": -0.05299207034337937,
+                "zodiac": 12,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 161.66520607224754,
+                "motion_speed": -0.05299207034337937,
+                "cusp_degree": 11.665206072247543,
+                "zodiac": 6,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 162.50085744270882,
+                "motion_speed": -0.014168128354571884,
+                "cusp_degree": 12.50085744270882,
+                "zodiac": 6,
+                "house": 12,
+                "motion": "R"
+            }
+        }
+    }
+}

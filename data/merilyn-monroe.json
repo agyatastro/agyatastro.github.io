@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Merilyn Monroe (Actor)",
+        "year": 1926,
+        "month": 6,
+        "day": 1,
+        "hour": 10,
+        "minute": 0,
+        "second": 0,
+        "latitude": 34.0536909,
+        "longitude": -118.242766,
+        "location": "Los Angeles, United States"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 114.99388278233681,
+            "ascendant": 4
+        },
+        "planets": {
+            "Sun": {
+                "degree": 47.63500315624211,
+                "cusp_degree": 17.635003156242107,
+                "motion_speed": 0.9578649509457461,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 296.5011882620818,
+                "cusp_degree": 26.501188262081826,
+                "motion_speed": 14.240782670090473,
+                "zodiac": 10,
+                "house": 7,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 43.98879803132346,
+                "cusp_degree": 13.988798031323462,
+                "motion_speed": 2.1790849469960842,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 5.943832373497446,
+                "cusp_degree": 5.943832373497446,
+                "motion_speed": 1.1311120192065867,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 327.9181673315999,
+                "cusp_degree": 27.918167331599875,
+                "motion_speed": 0.7042456982763378,
+                "zodiac": 11,
+                "house": 8,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 304.00179174999073,
+                "cusp_degree": 4.00179174999073,
+                "motion_speed": 0.04623775065515562,
+                "zodiac": 11,
+                "house": 8,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 208.61590299078378,
+                "cusp_degree": 28.61590299078378,
+                "motion_speed": -0.06865983741885212,
+                "zodiac": 7,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 84.07008308222807,
+                "cusp_degree": 24.070083082228066,
+                "motion_speed": 0.022533002986350973,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 85.44169307746246,
+                "cusp_degree": 25.44169307746246,
+                "motion_speed": -0.052992141808522915,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 265.44169307746245,
+                "motion_speed": -0.052992141808522915,
+                "cusp_degree": 25.441693077462446,
+                "zodiac": 9,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 264.07008308222805,
+                "motion_speed": 0.022533002986350973,
+                "cusp_degree": 24.070083082228052,
+                "zodiac": 9,
+                "house": 6,
+                "motion": "R"
+            }
+        }
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Saif Ali khan (Actor)",
+        "year": 1970,
+        "month": 8,
+        "day": 16,
+        "hour": 4,
+        "minute": 2,
+        "second": 0,
+        "latitude": 19.054999,
+        "longitude": 72.8692035,
+        "location": "Mumbai, Maharashtra"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 82.44431914079662,
+            "ascendant": 3
+        },
+        "planets": {
+            "Sun": {
+                "degree": 119.19762378351504,
+                "cusp_degree": 29.19762378351504,
+                "motion_speed": 0.9606335790414854,
+                "zodiac": 4,
+                "house": 2,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 281.9642741775789,
+                "cusp_degree": 11.964274177578886,
+                "motion_speed": 15.084986108895162,
+                "zodiac": 10,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 146.56559534936596,
+                "cusp_degree": 26.565595349365964,
+                "motion_speed": 0.9828223519922373,
+                "zodiac": 5,
+                "house": 3,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 164.54782362779116,
+                "cusp_degree": 14.54782362779116,
+                "motion_speed": 1.0505065631414892,
+                "zodiac": 6,
+                "house": 4,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 114.90606452720212,
+                "cusp_degree": 24.90606452720212,
+                "motion_speed": 0.6378779861335354,
+                "zodiac": 4,
+                "house": 2,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 186.5748392980801,
+                "cusp_degree": 6.574839298080093,
+                "motion_speed": 0.1378043529793007,
+                "zodiac": 7,
+                "house": 5,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 28.82909659530418,
+                "cusp_degree": 28.82909659530418,
+                "motion_speed": 0.034592836402601294,
+                "zodiac": 1,
+                "house": 11,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 309.35690397262414,
+                "cusp_degree": 9.356903972624139,
+                "motion_speed": -0.014366420507083704,
+                "zodiac": 11,
+                "house": 9,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 309.82244929388577,
+                "cusp_degree": 9.822449293885768,
+                "motion_speed": -0.05299208256571567,
+                "zodiac": 11,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 129.82244929388577,
+                "motion_speed": -0.05299208256571567,
+                "cusp_degree": 9.822449293885768,
+                "zodiac": 5,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 129.35690397262414,
+                "motion_speed": -0.014366420507083704,
+                "cusp_degree": 9.356903972624139,
+                "zodiac": 5,
+                "house": 3,
+                "motion": "R"
+            }
+        }
+    }
+}

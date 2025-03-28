@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Ram Jethmalani (Lawyer)",
+        "year": 1923,
+        "month": 9,
+        "day": 14,
+        "hour": 16,
+        "minute": 12,
+        "second": 0,
+        "latitude": 25.4075358,
+        "longitude": 68.36134563257718,
+        "location": "Hyderabad, Pakistan"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 293.77918470536525,
+            "ascendant": 10
+        },
+        "planets": {
+            "Sun": {
+                "degree": 147.83698441768212,
+                "cusp_degree": 27.836984417682118,
+                "motion_speed": 0.9744595156775723,
+                "zodiac": 5,
+                "house": 8,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 197.6102926888156,
+                "cusp_degree": 17.610292688815605,
+                "motion_speed": 14.674024096928386,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 170.83194510490642,
+                "cusp_degree": 20.831945104906424,
+                "motion_speed": 0.18275228428660914,
+                "zodiac": 6,
+                "house": 9,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 148.92556634423505,
+                "cusp_degree": 28.92556634423505,
+                "motion_speed": 1.2440759958478775,
+                "zodiac": 5,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 135.76551136812392,
+                "cusp_degree": 15.765511368123924,
+                "motion_speed": 0.6360217738185205,
+                "zodiac": 5,
+                "house": 8,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 202.65206501319545,
+                "cusp_degree": 22.652065013195454,
+                "motion_speed": 0.16712467689442892,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 176.35078582347228,
+                "cusp_degree": 26.35078582347228,
+                "motion_speed": 0.11201422507605052,
+                "zodiac": 6,
+                "house": 9,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 138.68958685382327,
+                "cusp_degree": 18.689586853823272,
+                "motion_speed": -0.017172870424872286,
+                "zodiac": 5,
+                "house": 8,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 137.97042735034265,
+                "cusp_degree": 17.970427350342646,
+                "motion_speed": -0.052992144356219205,
+                "zodiac": 5,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 317.9704273503427,
+                "motion_speed": -0.052992144356219205,
+                "cusp_degree": 17.970427350342675,
+                "zodiac": 11,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 318.68958685382324,
+                "motion_speed": -0.017172870424872286,
+                "cusp_degree": 18.689586853823243,
+                "zodiac": 11,
+                "house": 2,
+                "motion": "R"
+            }
+        }
+    }
+}

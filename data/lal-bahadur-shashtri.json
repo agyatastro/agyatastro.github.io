@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Shri Lal Bahadur Shashtri (Politician/Prime Minister)",
+        "year": 1904,
+        "month": 10,
+        "day": 9,
+        "hour": 11,
+        "minute": 35,
+        "second": 0,
+        "latitude": 25.3356491,
+        "longitude": 83.0076292,
+        "location": "Varanasi, Uttar Pradesh"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 242.0896223593894,
+            "ascendant": 9
+        },
+        "planets": {
+            "Sun": {
+                "degree": 172.97301635657305,
+                "cusp_degree": 22.973016356573055,
+                "motion_speed": 0.9888609734257656,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 173.14050485591636,
+                "cusp_degree": 23.14050485591636,
+                "motion_speed": 15.029516619137576,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 157.72802352122903,
+                "cusp_degree": 7.728023521229034,
+                "motion_speed": 1.5814566062681779,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 197.78125751861657,
+                "cusp_degree": 17.78125751861657,
+                "motion_speed": 1.2325461515938951,
+                "zodiac": 7,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 132.20492331304285,
+                "cusp_degree": 12.204923313042855,
+                "motion_speed": 0.6153516984733963,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 3.9326705038876026,
+                "cusp_degree": 3.9326705038876026,
+                "motion_speed": -0.13087167802482522,
+                "zodiac": 1,
+                "house": 5,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 291.9044119998688,
+                "cusp_degree": 21.904411999868785,
+                "motion_speed": -0.01692615053905905,
+                "zodiac": 10,
+                "house": 2,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 145.83955300479138,
+                "cusp_degree": 25.839553004791384,
+                "motion_speed": -0.04094074479315307,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 144.37109695796264,
+                "cusp_degree": 24.371096957962635,
+                "motion_speed": -0.0529920964416667,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 324.37109695796266,
+                "motion_speed": -0.0529920964416667,
+                "cusp_degree": 24.371096957962664,
+                "zodiac": 11,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 325.83955300479136,
+                "motion_speed": -0.04094074479315307,
+                "cusp_degree": 25.839553004791355,
+                "zodiac": 11,
+                "house": 3,
+                "motion": "R"
+            }
+        }
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Lata Mangeshkar (Singer)",
+        "year": 1929,
+        "month": 9,
+        "day": 28,
+        "hour": 23,
+        "minute": 51,
+        "second": 0,
+        "latitude": 22.7203616,
+        "longitude": 75.8681996,
+        "location": "Indore, Madhya Pradesh"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 69.73368574645703,
+            "ascendant": 3
+        },
+        "planets": {
+            "Sun": {
+                "degree": 162.2399712481309,
+                "cusp_degree": 12.2399712481309,
+                "motion_speed": 0.9824570391447823,
+                "zodiac": 6,
+                "house": 4,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 107.56006642282819,
+                "cusp_degree": 17.560066422828186,
+                "motion_speed": 14.30790544176305,
+                "zodiac": 4,
+                "house": 2,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 179.96733914618284,
+                "cusp_degree": 29.967339146182837,
+                "motion_speed": -0.3569625909911559,
+                "zodiac": 6,
+                "house": 4,
+                "motion": "R"
+            },
+            "Venus": {
+                "degree": 130.84799173170694,
+                "cusp_degree": 10.84799173170694,
+                "motion_speed": 1.2127189406723053,
+                "zodiac": 5,
+                "house": 3,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 181.888317613372,
+                "cusp_degree": 1.8883176133720099,
+                "motion_speed": 0.6707542630002035,
+                "zodiac": 7,
+                "house": 5,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 53.45863248502797,
+                "cusp_degree": 23.45863248502797,
+                "motion_speed": 0.022314264241648372,
+                "zodiac": 2,
+                "house": 12,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 241.77893515123992,
+                "cusp_degree": 1.7789351512399207,
+                "motion_speed": 0.0485532999005043,
+                "zodiac": 9,
+                "house": 7,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 19.93388928280866,
+                "cusp_degree": 19.93388928280866,
+                "motion_speed": -0.07171103305133807,
+                "zodiac": 1,
+                "house": 11,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 21.05613113707228,
+                "cusp_degree": 21.05613113707228,
+                "motion_speed": -0.052992138549633354,
+                "zodiac": 1,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 201.05613113707227,
+                "motion_speed": -0.052992138549633354,
+                "cusp_degree": 21.05613113707227,
+                "zodiac": 7,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 199.93388928280865,
+                "motion_speed": -0.07171103305133807,
+                "cusp_degree": 19.93388928280865,
+                "zodiac": 7,
+                "house": 5,
+                "motion": "R"
+            }
+        }
+    }
+}

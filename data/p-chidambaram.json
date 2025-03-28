@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "p. Chidambaram (Politician)",
+        "year": 1945,
+        "month": 9,
+        "day": 16,
+        "hour": 22,
+        "minute": 46,
+        "second": 0,
+        "latitude": 10.1752079,
+        "longitude": 78.7784482,
+        "location": "Kanadukathan, Tamilnadu"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 40.15061486024386,
+            "ascendant": 2
+        },
+        "planets": {
+            "Sun": {
+                "degree": 150.35334241318657,
+                "cusp_degree": 0.35334241318656723,
+                "motion_speed": 0.9754667945372919,
+                "zodiac": 6,
+                "house": 5,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 263.0327891130697,
+                "cusp_degree": 23.032789113069725,
+                "motion_speed": 12.855080723668664,
+                "zodiac": 9,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 137.13704412050882,
+                "cusp_degree": 17.13704412050882,
+                "motion_speed": 1.761459554644521,
+                "zodiac": 5,
+                "house": 4,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 117.29786727601494,
+                "cusp_degree": 27.29786727601494,
+                "motion_speed": 1.2006438307092153,
+                "zodiac": 4,
+                "house": 3,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 72.03507821052742,
+                "cusp_degree": 12.035078210527416,
+                "motion_speed": 0.5676132755961927,
+                "zodiac": 3,
+                "house": 2,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 161.59027878925914,
+                "cusp_degree": 11.590278789259145,
+                "motion_speed": 0.2138518028616672,
+                "zodiac": 6,
+                "house": 5,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 89.5315405075072,
+                "cusp_degree": 29.531540507507202,
+                "motion_speed": 0.08419963023228971,
+                "zodiac": 3,
+                "house": 2,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 72.7850292068026,
+                "cusp_degree": 12.785029206802605,
+                "motion_speed": -0.014982039580705025,
+                "zodiac": 3,
+                "house": 2,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 72.00876236230422,
+                "cusp_degree": 12.008762362304225,
+                "motion_speed": -0.052992090044829465,
+                "zodiac": 3,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 252.00876236230422,
+                "motion_speed": -0.052992090044829465,
+                "cusp_degree": 12.008762362304225,
+                "zodiac": 9,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 252.78502920680262,
+                "motion_speed": -0.014982039580705025,
+                "cusp_degree": 12.78502920680262,
+                "zodiac": 9,
+                "house": 8,
+                "motion": "R"
+            }
+        }
+    }
+}

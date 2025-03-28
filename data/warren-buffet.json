@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Warren Buffet (Investor)",
+        "year": 1930,
+        "month": 8,
+        "day": 30,
+        "hour": 14,
+        "minute": 50,
+        "second": 0,
+        "latitude": 41.2587459,
+        "longitude": -95.9383758,
+        "location": "Omaha, United States"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 238.4526037381329,
+            "ascendant": 8
+        },
+        "planets": {
+            "Sun": {
+                "degree": 133.84468521220833,
+                "cusp_degree": 13.844685212208333,
+                "motion_speed": 0.9672464226891805,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 222.24732319656664,
+                "cusp_degree": 12.24732319656664,
+                "motion_speed": 12.752328627450401,
+                "zodiac": 8,
+                "house": 1,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 160.4950216103453,
+                "cusp_degree": 10.495021610345304,
+                "motion_speed": 0.7090757285905203,
+                "zodiac": 6,
+                "house": 11,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 179.61352755115,
+                "cusp_degree": 29.613527551150014,
+                "motion_speed": 1.0434402554318791,
+                "zodiac": 6,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 68.60933200460221,
+                "cusp_degree": 8.609332004602209,
+                "motion_speed": 0.6250074193013391,
+                "zodiac": 3,
+                "house": 8,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 80.76068265780239,
+                "cusp_degree": 20.76068265780239,
+                "motion_speed": 0.1763297726399232,
+                "zodiac": 3,
+                "house": 8,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 252.45329858290705,
+                "cusp_degree": 12.453298582907053,
+                "motion_speed": -0.016318905348342964,
+                "zodiac": 9,
+                "house": 2,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 2.006575332182305,
+                "cusp_degree": 2.006575332182305,
+                "motion_speed": 0.002821732309626596,
+                "zodiac": 1,
+                "house": 6,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 3.244794382015162,
+                "cusp_degree": 3.244794382015162,
+                "motion_speed": -0.05299213768817525,
+                "zodiac": 1,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 183.24479438201516,
+                "motion_speed": -0.05299213768817525,
+                "cusp_degree": 3.244794382015158,
+                "zodiac": 7,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 182.0065753321823,
+                "motion_speed": 0.002821732309626596,
+                "cusp_degree": 2.006575332182308,
+                "zodiac": 7,
+                "house": 12,
+                "motion": "R"
+            }
+        }
+    }
+}

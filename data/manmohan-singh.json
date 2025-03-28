@@ -1,0 +1,110 @@
+{
+    "request": {
+        "name": "Shri Manmohan Singh (Politician/Economist)",
+        "year": 1932,
+        "month": 9,
+        "day": 26,
+        "hour": 14,
+        "minute": 0,
+        "second": 0,
+        "latitude": 33.639709154029575,
+        "longitude": 75.11297689184894,
+        "location": "Jhelum, Pakistan"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 251.73608634358555,
+            "ascendant": 9
+        },
+        "planets": {
+            "Sun": {
+                "degree": 160.0981766361881,
+                "cusp_degree": 10.0981766361881,
+                "motion_speed": 0.9813164567567344,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 108.91321090827495,
+                "cusp_degree": 18.913210908274948,
+                "motion_speed": 13.341446708249121,
+                "zodiac": 4,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 157.60223673903496,
+                "cusp_degree": 7.602236739034964,
+                "motion_speed": 1.8180284356745247,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 115.1040108106195,
+                "cusp_degree": 25.1040108106195,
+                "motion_speed": 1.0761741539814684,
+                "zodiac": 4,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 100.40629367910287,
+                "cusp_degree": 10.406293679102873,
+                "motion_speed": 0.5983805323611476,
+                "zodiac": 4,
+                "house": 8,
+                "motion": "D"
+            },
+            "Jupiter": {
+                "degree": 136.99792544473556,
+                "cusp_degree": 16.997925444735557,
+                "motion_speed": 0.20837607504184338,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 275.2309260666722,
+                "cusp_degree": 5.230926066672225,
+                "motion_speed": -0.01068891551155259,
+                "zodiac": 10,
+                "house": 2,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 324.1447950230101,
+                "cusp_degree": 24.14479502301009,
+                "motion_speed": 0.021587900206919655,
+                "zodiac": 11,
+                "house": 3,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 323.10454733541513,
+                "cusp_degree": 23.104547335415134,
+                "motion_speed": -0.05299206944169055,
+                "zodiac": 11,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 143.10454733541513,
+                "motion_speed": -0.05299206944169055,
+                "cusp_degree": 23.104547335415134,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 144.1447950230101,
+                "motion_speed": 0.021587900206919655,
+                "cusp_degree": 24.14479502301009,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "R"
+            }
+        }
+    }
+}

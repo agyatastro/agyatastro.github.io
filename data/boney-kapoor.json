@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": 29.0018557,
         "longitude": 77.76796714992041,
-        "location": "Meerut, Uttar Pradesh"
+        "location": "Meerut, Uttar Pradesh",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": 25.4930513,
         "longitude": 86.69822644137813,
-        "location": "Khagaria"
+        "location": "Khagaria",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

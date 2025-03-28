@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": 28.7931703,
         "longitude": 76.1391283,
-        "location": "Bhiwani, Haryana"
+        "location": "Bhiwani, Haryana",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

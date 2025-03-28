@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": 30.06523135,
         "longitude": 78.73157159495136,
-        "location": "Pauri, Garhwal, Uttarakhand"
+        "location": "Pauri, Garhwal, Uttarakhand",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

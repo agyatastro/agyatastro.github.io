@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": 19.054999,
         "longitude": 72.8692035,
-        "location": "Mumbai, Maharashtra"
+        "location": "Mumbai, Maharashtra",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

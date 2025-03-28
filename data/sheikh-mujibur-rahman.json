@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": 22.9053736,
         "longitude": 89.8990776,
-        "location": "Tungipara, Bangladesh"
+        "location": "Tungipara, Bangladesh",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

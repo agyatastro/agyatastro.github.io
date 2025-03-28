@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": 13.0836939,
         "longitude": 80.270186,
-        "location": "Chennai, Tamilnadu"
+        "location": "Chennai, Tamilnadu",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

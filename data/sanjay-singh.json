@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": 26.260473150000003,
         "longitude": 82.23805321467546,
-        "location": "Sultanpur, Uttar Pradesh"
+        "location": "Sultanpur, Uttar Pradesh",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

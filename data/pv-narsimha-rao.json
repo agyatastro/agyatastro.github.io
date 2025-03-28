@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": 18.4348122,
         "longitude": 79.1328042,
-        "location": "Karimnagar, Telangana"
+        "location": "Karimnagar, Telangana",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

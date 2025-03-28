@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": -33.9288301,
         "longitude": 18.4172197,
-        "location": "Cape Town, South Africa"
+        "location": "Cape Town, South Africa",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

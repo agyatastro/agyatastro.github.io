@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": 22.5726459,
         "longitude": 88.3638953,
-        "location": "Kolkata, West Bengal"
+        "location": "Kolkata, West Bengal",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

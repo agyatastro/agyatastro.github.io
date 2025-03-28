@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": 26.2967719,
         "longitude": 73.0351433,
-        "location": "Jodhpur, Rajasthan"
+        "location": "Jodhpur, Rajasthan",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

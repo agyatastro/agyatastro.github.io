@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": 12.3051828,
         "longitude": 76.6553609,
-        "location": "Mysore, Karnataka"
+        "location": "Mysore, Karnataka",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

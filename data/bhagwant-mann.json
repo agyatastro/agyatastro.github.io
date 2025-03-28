@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": 30.135717,
         "longitude": 75.85333259556887,
-        "location": "Sangrur, Punjab"
+        "location": "Sangrur, Punjab",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

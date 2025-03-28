@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": 21.1498134,
         "longitude": 79.0820556,
-        "location": "Nagpur, Maharashtra"
+        "location": "Nagpur, Maharashtra",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": 19.4497996,
         "longitude": 72.8120613,
-        "location": "Virar, Maharashtra"
+        "location": "Virar, Maharashtra",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

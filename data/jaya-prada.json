@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": 17.0050454,
         "longitude": 81.7804732,
-        "location": "Rajahmundry, Andhra Pradesh"
+        "location": "Rajahmundry, Andhra Pradesh",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

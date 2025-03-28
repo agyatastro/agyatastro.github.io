@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": 29.9856799,
         "longitude": 77.50406459058038,
-        "location": "Saharanpur, Uttar Pradesh"
+        "location": "Saharanpur, Uttar Pradesh",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

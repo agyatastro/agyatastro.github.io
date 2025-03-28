@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": 47.9102734,
         "longitude": 33.3917703,
-        "location": "Kryvyi Rih, Ukraine"
+        "location": "Kryvyi Rih, Ukraine",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

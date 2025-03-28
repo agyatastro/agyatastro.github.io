@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": 24.8546842,
         "longitude": 67.0207055,
-        "location": "Karachi, Pakistan"
+        "location": "Karachi, Pakistan",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

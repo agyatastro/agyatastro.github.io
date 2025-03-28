@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": 34.0123846,
         "longitude": 71.5787458,
-        "location": "Peshawar, Pakistan"
+        "location": "Peshawar, Pakistan",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

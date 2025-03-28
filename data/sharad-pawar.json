@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": 18.21985375,
         "longitude": 74.45340540036307,
-        "location": "Baramati, Maharashtra"
+        "location": "Baramati, Maharashtra",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

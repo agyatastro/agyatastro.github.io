@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": 14.4080591,
         "longitude": 78.19793209966258,
-        "location": "Pulivendla, Andhra Pradesh"
+        "location": "Pulivendla, Andhra Pradesh",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

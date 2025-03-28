@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": 51.5074456,
         "longitude": -0.1277653,
-        "location": "Buckingham Palace, London"
+        "location": "Buckingham Palace, London",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

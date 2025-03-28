@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": 45.4641943,
         "longitude": 9.1896346,
-        "location": "Milan, Italy"
+        "location": "Milan, Italy",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

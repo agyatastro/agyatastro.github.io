@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": 23.115004149999997,
         "longitude": 77.06653558236647,
-        "location": "Sehore, Madhya Pradesh"
+        "location": "Sehore, Madhya Pradesh",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

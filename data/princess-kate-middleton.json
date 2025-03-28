@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": 51.45149525,
         "longitude": -0.9836342499365378,
-        "location": "Reading, Britain"
+        "location": "Reading, Britain",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": 37.7742152,
         "longitude": -87.1133304,
-        "location": "Owensboro, United States"
+        "location": "Owensboro, United States",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

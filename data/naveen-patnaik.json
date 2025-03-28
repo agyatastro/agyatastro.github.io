@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": 20.4686,
         "longitude": 85.8792,
-        "location": "Cuttack, Odisa"
+        "location": "Cuttack, Odisa",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

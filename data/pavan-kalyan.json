@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": 16.2915189,
         "longitude": 80.4541588,
-        "location": "Guntur, Andhra Pradesh"
+        "location": "Guntur, Andhra Pradesh",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

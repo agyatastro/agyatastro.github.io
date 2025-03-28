@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": 40.7127281,
         "longitude": -74.0060152,
-        "location": "New York, United States"
+        "location": "New York, United States",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

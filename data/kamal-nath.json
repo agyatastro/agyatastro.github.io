@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": 26.4609135,
         "longitude": 80.3217588,
-        "location": "Kanpur, Uttar Pradesh"
+        "location": "Kanpur, Uttar Pradesh",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

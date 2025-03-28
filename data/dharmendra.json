@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": 30.9090157,
         "longitude": 75.851601,
-        "location": "Ludhiana, Punjab"
+        "location": "Ludhiana, Punjab",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": 20.9101099,
         "longitude": 70.365279,
-        "location": "Veraval, Gujrat"
+        "location": "Veraval, Gujrat",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

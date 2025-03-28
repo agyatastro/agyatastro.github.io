@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": 23.3700501,
         "longitude": 85.3250387,
-        "location": "Ranchi, Jharkhand"
+        "location": "Ranchi, Jharkhand",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

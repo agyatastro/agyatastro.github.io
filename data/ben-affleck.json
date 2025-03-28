@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": 41.9441774,
         "longitude": -94.1137041,
-        "location": "Berkley, United States"
+        "location": "Berkley, United States",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

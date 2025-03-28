@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": 23.7853622,
         "longitude": 72.6332132,
-        "location": "Vadnagar, Gujrat"
+        "location": "Vadnagar, Gujrat",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

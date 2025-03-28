@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": 26.20730275,
         "longitude": 78.28501750938239,
-        "location": "Udaipura"
+        "location": "Udaipura",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

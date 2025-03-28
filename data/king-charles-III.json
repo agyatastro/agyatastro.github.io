@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": 51.4893335,
         "longitude": -0.14405508452768728,
-        "location": "London, United Kingdom"
+        "location": "London, United Kingdom",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

@@ -1,0 +1,111 @@
+{
+    "request": {
+        "name": "Subramanian Swamy (Advocate/Politician)",
+        "year": 1939,
+        "month": 9,
+        "day": 15,
+        "hour": 5,
+        "minute": 0,
+        "second": 0,
+        "latitude": 13.0836939,
+        "longitude": 80.270186,
+        "location": "Chennai, Tamilnadu",
+        "agyat_rating": "AA"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 127.71106865825736,
+            "ascendant": 5
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 342.4360701641077,
+                "cusp_degree": 12.436070164107718,
+                "motion_speed": -0.12609176672549466,
+                "zodiac": 12,
+                "house": 8,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 148.20293150613406,
+                "cusp_degree": 28.202931506134064,
+                "motion_speed": 0.9747299192623675,
+                "zodiac": 5,
+                "house": 1,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 169.07368279030553,
+                "cusp_degree": 19.073682790305526,
+                "motion_speed": 14.763897061850695,
+                "zodiac": 6,
+                "house": 2,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 150.66061215630526,
+                "cusp_degree": 0.6606121563052625,
+                "motion_speed": 1.2440976592574624,
+                "zodiac": 6,
+                "house": 2,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 274.0552227387073,
+                "cusp_degree": 4.0552227387073,
+                "motion_speed": 0.2758354338992385,
+                "zodiac": 10,
+                "house": 6,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 141.4231709141077,
+                "cusp_degree": 21.423170914107686,
+                "motion_speed": 1.8967768937617093,
+                "zodiac": 5,
+                "house": 1,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 7.393792320606151,
+                "cusp_degree": 7.393792320606151,
+                "motion_speed": -0.05194868404343478,
+                "zodiac": 1,
+                "house": 9,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 186.75111330017214,
+                "cusp_degree": 6.751113300172136,
+                "motion_speed": -0.034459024832132576,
+                "zodiac": 7,
+                "house": 3,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 188.25957966023185,
+                "cusp_degree": 8.25957966023185,
+                "motion_speed": -0.052992062668316145,
+                "zodiac": 7,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 8.25957966023185,
+                "motion_speed": -0.052992062668316145,
+                "cusp_degree": 8.25957966023185,
+                "zodiac": 1,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 6.751113300172165,
+                "motion_speed": -0.034459024832132576,
+                "cusp_degree": 6.751113300172165,
+                "zodiac": 1,
+                "house": 9,
+                "motion": "R"
+            }
+        }
+    }
+}

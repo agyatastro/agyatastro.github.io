@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": 41.2587459,
         "longitude": -95.9383758,
-        "location": "Omaha, United States"
+        "location": "Omaha, United States",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

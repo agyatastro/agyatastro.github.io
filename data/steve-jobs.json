@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": 37.7792588,
         "longitude": -122.4193286,
-        "location": "San Francisco, United States"
+        "location": "San Francisco, United States",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": 42.3329021,
         "longitude": -71.1187421,
-        "location": "Brookline, United States"
+        "location": "Brookline, United States",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

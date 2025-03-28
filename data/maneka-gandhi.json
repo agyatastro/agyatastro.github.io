@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": 28.64308585,
         "longitude": 77.21926705734865,
-        "location": "New Delhi, Delhi"
+        "location": "New Delhi, Delhi",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

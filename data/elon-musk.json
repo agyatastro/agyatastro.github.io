@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": -25.7459277,
         "longitude": 28.1879101,
-        "location": "Pretoria, South Africa"
+        "location": "Pretoria, South Africa",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

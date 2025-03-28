@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": 45.7851934,
         "longitude": 11.576369,
-        "location": "Lusiana, Italy"
+        "location": "Lusiana, Italy",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

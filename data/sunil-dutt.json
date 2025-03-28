@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": 33.639709154029575,
         "longitude": 75.11297689184894,
-        "location": "Jhelum, Pakistan"
+        "location": "Jhelum, Pakistan",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

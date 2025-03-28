@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": 25.3356491,
         "longitude": 83.0076292,
-        "location": "Varanasi, Uttar Pradesh"
+        "location": "Varanasi, Uttar Pradesh",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

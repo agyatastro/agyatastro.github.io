@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": 29.83275365,
         "longitude": 74.63672922932832,
-        "location": "Dabwali, Punjab"
+        "location": "Dabwali, Punjab",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

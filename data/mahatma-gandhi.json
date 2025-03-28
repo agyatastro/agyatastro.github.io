@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": 21.6409,
         "longitude": 69.611,
-        "location": "Porbandar, Gujarat"
+        "location": "Porbandar, Gujarat",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

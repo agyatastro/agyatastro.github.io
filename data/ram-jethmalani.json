@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": 25.4075358,
         "longitude": 68.36134563257718,
-        "location": "Hyderabad, Pakistan"
+        "location": "Hyderabad, Pakistan",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

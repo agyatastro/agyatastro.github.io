@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": 45.5867,
         "longitude": 5.16286,
-        "location": "Roche, United Kingdom"
+        "location": "Roche, United Kingdom",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

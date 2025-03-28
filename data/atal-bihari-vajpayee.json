@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": 26.2037247,
         "longitude": 78.1573628,
-        "location": "Gwalior, Madhya Pradesh"
+        "location": "Gwalior, Madhya Pradesh",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

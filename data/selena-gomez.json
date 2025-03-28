@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": 32.7459645,
         "longitude": -96.9977846,
-        "location": "Grand Prairie, United States"
+        "location": "Grand Prairie, United States",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

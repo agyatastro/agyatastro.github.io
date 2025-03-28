@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": 10.1752079,
         "longitude": 78.7784482,
-        "location": "Kanadukathan, Tamilnadu"
+        "location": "Kanadukathan, Tamilnadu",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

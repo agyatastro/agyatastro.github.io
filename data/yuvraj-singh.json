@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": 30.7334421,
         "longitude": 76.7797143,
-        "location": "Chandigarh, Chandigarh"
+        "location": "Chandigarh, Chandigarh",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

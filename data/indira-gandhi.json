@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": 25.4381302,
         "longitude": 81.8338005,
-        "location": "Allahabad, Uttar Pradesh"
+        "location": "Allahabad, Uttar Pradesh",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": 27.5564798,
         "longitude": 68.2101509,
-        "location": "Larkana, Sindh, Pakistan"
+        "location": "Larkana, Sindh, Pakistan",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

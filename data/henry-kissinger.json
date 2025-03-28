@@ -9,7 +9,8 @@
         "second": 0,
         "latitude": 48.5915163,
         "longitude": 12.0212216,
-        "location": "Furth, Germany"
+        "location": "Furth, Germany",
+        "agyat_rating": "AA"
     },
     "response": {
         "ascendant": {

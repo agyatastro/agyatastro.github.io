@@ -1,0 +1,111 @@
+{
+    "request": {
+        "name": "Mulayam Singh Yadav (Politician)",
+        "year": 1939,
+        "month": 11,
+        "day": 21,
+        "hour": 21,
+        "minute": 50,
+        "second": 0,
+        "latitude": 26.715562900000002,
+        "longitude": 79.09170983360895,
+        "location": "Etawah, Uttar Pradesh",
+        "agyat_rating": "AA"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 94.10790756643172,
+            "ascendant": 4
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 335.86965799031395,
+                "cusp_degree": 5.869657990313954,
+                "motion_speed": -0.011201889824885831,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 215.42250062229675,
+                "cusp_degree": 5.422500622296752,
+                "motion_speed": 1.0098904186492448,
+                "zodiac": 8,
+                "house": 5,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 334.6660589899338,
+                "cusp_degree": 4.666058989933788,
+                "motion_speed": 11.966541152149958,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 235.089036105025,
+                "cusp_degree": 25.089036105025002,
+                "motion_speed": 1.2472633413881409,
+                "zodiac": 8,
+                "house": 5,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 308.2502027069733,
+                "cusp_degree": 8.250202706973312,
+                "motion_speed": 0.6363897644014832,
+                "zodiac": 11,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 230.09242202049077,
+                "cusp_degree": 20.092422020490773,
+                "motion_speed": -0.5433154798074363,
+                "zodiac": 8,
+                "house": 5,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 2.5533552290123187,
+                "cusp_degree": 2.5533552290123187,
+                "motion_speed": -0.059883653902804174,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 186.00820754471937,
+                "cusp_degree": 6.008207544719369,
+                "motion_speed": 0.031521443109530214,
+                "zodiac": 7,
+                "house": 4,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 184.67194291104994,
+                "cusp_degree": 4.671942911049939,
+                "motion_speed": -0.052992062602065536,
+                "zodiac": 7,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 4.671942911049939,
+                "motion_speed": -0.052992062602065536,
+                "cusp_degree": 4.671942911049939,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 6.008207544719369,
+                "motion_speed": 0.031521443109530214,
+                "cusp_degree": 6.008207544719369,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "R"
+            }
+        }
+    }
+}

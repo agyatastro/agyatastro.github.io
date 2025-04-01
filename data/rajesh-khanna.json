@@ -1,0 +1,111 @@
+{
+    "request": {
+        "name": "Rajesh Khanna (Actor)",
+        "year": 1942,
+        "month": 12,
+        "day": 29,
+        "hour": 17,
+        "minute": 45,
+        "second": 0,
+        "latitude": 31.6356659,
+        "longitude": 74.8787496,
+        "location": "Amritsar",
+        "agyat_rating": "AA"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 72.18050093407629,
+            "ascendant": 3
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 88.83096034435226,
+                "cusp_degree": 28.830960344352263,
+                "motion_speed": -0.12686346560922596,
+                "zodiac": 3,
+                "house": 1,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 254.08137807704645,
+                "cusp_degree": 14.081378077046452,
+                "motion_speed": 1.0190620642267927,
+                "zodiac": 9,
+                "house": 7,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 149.17338758598956,
+                "cusp_degree": 29.17338758598956,
+                "motion_speed": 12.44066864702241,
+                "zodiac": 5,
+                "house": 3,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 264.48024681947203,
+                "cusp_degree": 24.48024681947203,
+                "motion_speed": 1.256018256570232,
+                "zodiac": 9,
+                "house": 7,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 226.64771992196788,
+                "cusp_degree": 16.647719921967877,
+                "motion_speed": 0.708198105645068,
+                "zodiac": 8,
+                "house": 6,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 269.79783805773593,
+                "cusp_degree": 29.79783805773593,
+                "motion_speed": 1.525517185140363,
+                "zodiac": 9,
+                "house": 7,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 43.8698402391564,
+                "cusp_degree": 13.869840239156403,
+                "motion_speed": -0.06473421604293,
+                "zodiac": 2,
+                "house": 12,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 123.00736431279769,
+                "cusp_degree": 3.007364312797691,
+                "motion_speed": 0.02114299896550083,
+                "zodiac": 5,
+                "house": 3,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 124.58795241956491,
+                "cusp_degree": 4.587952419564914,
+                "motion_speed": -0.05299209268719804,
+                "zodiac": 5,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 304.5879524195649,
+                "motion_speed": -0.05299209268719804,
+                "cusp_degree": 4.5879524195648855,
+                "zodiac": 11,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 303.0073643127977,
+                "motion_speed": 0.02114299896550083,
+                "cusp_degree": 3.0073643127976766,
+                "zodiac": 11,
+                "house": 9,
+                "motion": "R"
+            }
+        }
+    }
+}

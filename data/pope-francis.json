@@ -1,0 +1,111 @@
+{
+    "request": {
+        "name": "Pope Francis",
+        "year": 1936,
+        "month": 12,
+        "day": 17,
+        "hour": 21,
+        "minute": 0,
+        "second": 0,
+        "latitude": -34.6083696,
+        "longitude": -58.4440583,
+        "location": "Buenos Aires, Argentina",
+        "agyat_rating": "AA"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 91.14245943933639,
+            "ascendant": 4
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 250.5664688221097,
+                "cusp_degree": 10.566468822109698,
+                "motion_speed": 0.22914658800519244,
+                "zodiac": 9,
+                "house": 6,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 242.96408765971998,
+                "cusp_degree": 2.9640876597199792,
+                "motion_speed": 1.0183567124295463,
+                "zodiac": 9,
+                "house": 6,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 290.06041402434033,
+                "cusp_degree": 20.060414024340332,
+                "motion_speed": 13.048991934202816,
+                "zodiac": 10,
+                "house": 7,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 284.6717799951294,
+                "cusp_degree": 14.671779995129384,
+                "motion_speed": 1.1879050241805582,
+                "zodiac": 10,
+                "house": 7,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 176.55275276764047,
+                "cusp_degree": 26.55275276764047,
+                "motion_speed": 0.5681775704360582,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 258.8877395564475,
+                "cusp_degree": 18.887739556447514,
+                "motion_speed": 1.4994898054147778,
+                "zodiac": 9,
+                "house": 6,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 323.52545419313685,
+                "cusp_degree": 23.525454193136852,
+                "motion_speed": 0.04964986867593707,
+                "zodiac": 11,
+                "house": 8,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 241.29832407686072,
+                "cusp_degree": 1.2983240768607232,
+                "motion_speed": -0.0034844268312976727,
+                "zodiac": 9,
+                "house": 6,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 241.30070505618687,
+                "cusp_degree": 1.300705056186871,
+                "motion_speed": -0.05299206531423745,
+                "zodiac": 9,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 61.30070505618687,
+                "motion_speed": -0.05299206531423745,
+                "cusp_degree": 1.300705056186871,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 61.298324076860695,
+                "motion_speed": -0.0034844268312976727,
+                "cusp_degree": 1.2983240768606947,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "R"
+            }
+        }
+    }
+}

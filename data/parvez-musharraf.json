@@ -1,0 +1,111 @@
+{
+    "request": {
+        "name": "Parvez Musarraf (Army Chief)",
+        "year": 1943,
+        "month": 8,
+        "day": 11,
+        "hour": 5,
+        "minute": 0,
+        "second": 0,
+        "latitude": 28.6273928,
+        "longitude": 77.1716954,
+        "location": "Delhi",
+        "agyat_rating": "AA"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 98.59788282625956,
+            "ascendant": 4
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 105.94187497990555,
+                "cusp_degree": 15.941874979905549,
+                "motion_speed": 0.21989449376280248,
+                "zodiac": 4,
+                "house": 1,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 114.3636091228073,
+                "cusp_degree": 24.363609122807304,
+                "motion_speed": 0.9591851864894079,
+                "zodiac": 4,
+                "house": 1,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 227.29582152101085,
+                "cusp_degree": 17.29582152101085,
+                "motion_speed": 13.985376205334687,
+                "zodiac": 8,
+                "house": 5,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 147.06499205301918,
+                "cusp_degree": 27.064992053019182,
+                "motion_speed": 0.17511447070297131,
+                "zodiac": 5,
+                "house": 2,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 29.262401621182967,
+                "cusp_degree": 29.262401621182967,
+                "motion_speed": 0.6110229139786909,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 135.86069896756277,
+                "cusp_degree": 15.860698967562769,
+                "motion_speed": 1.5424809667593462,
+                "zodiac": 5,
+                "house": 2,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 60.524698884859184,
+                "cusp_degree": 0.524698884859184,
+                "motion_speed": 0.09392637071082752,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 112.86230368501126,
+                "cusp_degree": 22.862303685011256,
+                "motion_speed": 0.0018956743920016937,
+                "zodiac": 4,
+                "house": 1,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 112.6928892101457,
+                "cusp_degree": 22.692889210145694,
+                "motion_speed": -0.05299202587135624,
+                "zodiac": 4,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 292.6928892101457,
+                "motion_speed": -0.05299202587135624,
+                "cusp_degree": 22.692889210145722,
+                "zodiac": 10,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 292.8623036850113,
+                "motion_speed": 0.0018956743920016937,
+                "cusp_degree": 22.862303685011284,
+                "zodiac": 10,
+                "house": 7,
+                "motion": "R"
+            }
+        }
+    }
+}

@@ -1,0 +1,111 @@
+{
+    "request": {
+        "name": "Raquel Welch (Actor)",
+        "year": 1940,
+        "month": 9,
+        "day": 5,
+        "hour": 13,
+        "minute": 54,
+        "second": 0,
+        "latitude": 41.8755616,
+        "longitude": -87.6244212,
+        "location": "Chicago, United States",
+        "agyat_rating": "AA"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 238.62195297647747,
+            "ascendant": 8
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 22.647389205769695,
+                "cusp_degree": 22.647389205769695,
+                "motion_speed": -0.004308970540641104,
+                "zodiac": 1,
+                "house": 6,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 140.03950106416517,
+                "cusp_degree": 20.039501064165165,
+                "motion_speed": 0.9704013786322746,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 190.91765725331885,
+                "cusp_degree": 10.91765725331885,
+                "motion_speed": 14.570349885347982,
+                "zodiac": 7,
+                "house": 12,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 94.14842432362916,
+                "cusp_degree": 4.148424323629158,
+                "motion_speed": 0.9679688183534333,
+                "zodiac": 4,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 137.89496816780652,
+                "cusp_degree": 17.894968167806525,
+                "motion_speed": 0.6379028286164534,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 141.26622317852292,
+                "cusp_degree": 21.26622317852292,
+                "motion_speed": 1.892358728081448,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 21.67210325082312,
+                "cusp_degree": 21.67210325082312,
+                "motion_speed": -0.016903620532217157,
+                "zodiac": 1,
+                "house": 6,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 168.22038601558035,
+                "cusp_degree": 18.220386015580345,
+                "motion_speed": 0.02251464379954585,
+                "zodiac": 6,
+                "house": 11,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 169.34884428669667,
+                "cusp_degree": 19.348844286696675,
+                "motion_speed": -0.052992094946173754,
+                "zodiac": 6,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 349.3488442866967,
+                "motion_speed": -0.052992094946173754,
+                "cusp_degree": 19.348844286696703,
+                "zodiac": 12,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 348.22038601558035,
+                "motion_speed": 0.02251464379954585,
+                "cusp_degree": 18.220386015580345,
+                "zodiac": 12,
+                "house": 5,
+                "motion": "R"
+            }
+        }
+    }
+}

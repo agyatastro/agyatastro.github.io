@@ -1,0 +1,111 @@
+{
+    "request": {
+        "name": "Ryan O'Neal (Actor)",
+        "year": 1941,
+        "month": 4,
+        "day": 20,
+        "hour": 9,
+        "minute": 34,
+        "second": 0,
+        "latitude": 34.0536909,
+        "longitude": -118.242766,
+        "location": "Los Angeles, Unites States",
+        "agyat_rating": "AA"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 75.09347564522112,
+            "ascendant": 3
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 28.581036022562444,
+                "cusp_degree": 28.581036022562444,
+                "motion_speed": 0.22862568177666281,
+                "zodiac": 1,
+                "house": 11,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 7.191337630524265,
+                "cusp_degree": 7.191337630524265,
+                "motion_speed": 0.9758345751051037,
+                "zodiac": 1,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 303.00605470197826,
+                "cusp_degree": 3.0060547019782575,
+                "motion_speed": 12.443234551598138,
+                "zodiac": 11,
+                "house": 9,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 7.5590295153534335,
+                "cusp_degree": 7.5590295153534335,
+                "motion_speed": 1.236374450967751,
+                "zodiac": 1,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 289.55579193971045,
+                "cusp_degree": 19.555791939710446,
+                "motion_speed": 0.6890987309846456,
+                "zodiac": 10,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 351.1853892825709,
+                "cusp_degree": 21.185389282570895,
+                "motion_speed": 1.802538312715869,
+                "zodiac": 12,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 22.64666313923877,
+                "cusp_degree": 22.64666313923877,
+                "motion_speed": 0.1256276358964479,
+                "zodiac": 1,
+                "house": 11,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 158.55174524681036,
+                "cusp_degree": 8.551745246810356,
+                "motion_speed": 0.0280019688171491,
+                "zodiac": 6,
+                "house": 4,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 157.32472290007493,
+                "cusp_degree": 7.324722900074931,
+                "motion_speed": -0.05299209428942205,
+                "zodiac": 6,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 337.3247229000749,
+                "motion_speed": -0.05299209428942205,
+                "cusp_degree": 7.324722900074903,
+                "zodiac": 12,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 338.55174524681036,
+                "motion_speed": 0.0280019688171491,
+                "cusp_degree": 8.551745246810356,
+                "zodiac": 12,
+                "house": 10,
+                "motion": "R"
+            }
+        }
+    }
+}

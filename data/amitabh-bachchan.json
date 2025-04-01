@@ -1,0 +1,111 @@
+{
+    "request": {
+        "name": "Amitabh Bachchan (Actor)",
+        "year": 1942,
+        "month": 10,
+        "day": 11,
+        "hour": 16,
+        "minute": 0,
+        "second": 0,
+        "latitude": 25.4381302,
+        "longitude": 81.8338005,
+        "location": "Allahabad",
+        "agyat_rating": "AA"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 313.9998116258755,
+            "ascendant": 11
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 90.5399095810177,
+                "cusp_degree": 0.5399095810176959,
+                "motion_speed": 0.09831515692583234,
+                "zodiac": 4,
+                "house": 6,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 174.40700400012955,
+                "cusp_degree": 24.407004000129547,
+                "motion_speed": 0.9894992796989762,
+                "zodiac": 6,
+                "house": 8,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 190.68513227013304,
+                "cusp_degree": 10.685132270133039,
+                "motion_speed": 14.160750157165165,
+                "zodiac": 7,
+                "house": 9,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 165.2219771611035,
+                "cusp_degree": 15.221977161103496,
+                "motion_speed": 1.2492946936967664,
+                "zodiac": 6,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 172.62060169968893,
+                "cusp_degree": 22.620601699688933,
+                "motion_speed": 0.6596830134447863,
+                "zodiac": 6,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 173.626433674216,
+                "cusp_degree": 23.626433674216003,
+                "motion_speed": -1.1825367130619089,
+                "zodiac": 6,
+                "house": 8,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 49.23057020983117,
+                "cusp_degree": 19.23057020983117,
+                "motion_speed": -0.029202757678467445,
+                "zodiac": 2,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 130.4165732076472,
+                "cusp_degree": 10.41657320764719,
+                "motion_speed": -0.12035716749351563,
+                "zodiac": 5,
+                "house": 7,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 128.7781898088889,
+                "cusp_degree": 8.778189808888897,
+                "motion_speed": -0.05299212598743668,
+                "zodiac": 5,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 308.7781898088889,
+                "motion_speed": -0.05299212598743668,
+                "cusp_degree": 8.778189808888897,
+                "zodiac": 11,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 310.41657320764716,
+                "motion_speed": -0.12035716749351563,
+                "cusp_degree": 10.416573207647161,
+                "zodiac": 11,
+                "house": 1,
+                "motion": "R"
+            }
+        }
+    }
+}

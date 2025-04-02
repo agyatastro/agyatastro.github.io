@@ -1,0 +1,111 @@
+{
+    "request": {
+        "name": "Rajiv Gandhi (Politician)",
+        "year": 1944,
+        "month": 8,
+        "day": 20,
+        "hour": 7,
+        "minute": 11,
+        "second": 0,
+        "latitude": 19.054999,
+        "longitude": 72.8692035,
+        "location": "Mumbai, Maharashtra",
+        "agyat_rating": "AA"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 129.39054781649645,
+            "ascendant": 5
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 132.20033009938481,
+                "cusp_degree": 12.200330099384814,
+                "motion_speed": 0.21594029712560153,
+                "zodiac": 5,
+                "house": 1,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 123.80943120325851,
+                "cusp_degree": 3.8094312032585123,
+                "motion_speed": 0.9631659780485176,
+                "zodiac": 5,
+                "house": 1,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 136.9692164824577,
+                "cusp_degree": 16.96921648245771,
+                "motion_speed": 11.859227213805118,
+                "zodiac": 5,
+                "house": 1,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 138.63795885392875,
+                "cusp_degree": 18.63795885392875,
+                "motion_speed": 1.23304332592356,
+                "zodiac": 5,
+                "house": 1,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 151.18916536023144,
+                "cusp_degree": 1.189165360231442,
+                "motion_speed": 0.6364211887657883,
+                "zodiac": 6,
+                "house": 2,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 148.5668260053728,
+                "cusp_degree": 28.566826005372803,
+                "motion_speed": 0.37227214608574727,
+                "zodiac": 5,
+                "house": 1,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 74.21821707113608,
+                "cusp_degree": 14.218217071136081,
+                "motion_speed": 0.09938881550367096,
+                "zodiac": 3,
+                "house": 11,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 94.40569133175933,
+                "cusp_degree": 4.4056913317593285,
+                "motion_speed": -0.07715420797711652,
+                "zodiac": 4,
+                "house": 12,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 92.81604332476418,
+                "cusp_degree": 2.8160433247641805,
+                "motion_speed": -0.05299205800365266,
+                "zodiac": 4,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 272.81604332476417,
+                "motion_speed": -0.05299205800365266,
+                "cusp_degree": 2.8160433247641663,
+                "zodiac": 10,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 274.40569133175933,
+                "motion_speed": -0.07715420797711652,
+                "cusp_degree": 4.4056913317593285,
+                "zodiac": 10,
+                "house": 6,
+                "motion": "R"
+            }
+        }
+    }
+}

@@ -1,0 +1,111 @@
+{
+    "request": {
+        "name": "Narayana Murthy (Technocrat/Businessman)",
+        "year": 1946,
+        "month": 8,
+        "day": 20,
+        "hour": 10,
+        "minute": 47,
+        "second": 0,
+        "latitude": 12.3051828,
+        "longitude": 76.6553609,
+        "location": "Mysore, Karnataka",
+        "agyat_rating": "AA"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 184.715712119778,
+            "ascendant": 7
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 180.2073279195014,
+                "cusp_degree": 0.2073279195014095,
+                "motion_speed": 0.16016444933784343,
+                "zodiac": 7,
+                "house": 1,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 123.4585141738777,
+                "cusp_degree": 3.4585141738777025,
+                "motion_speed": 0.962720637859371,
+                "zodiac": 5,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 35.44400809347351,
+                "cusp_degree": 5.4440080934735064,
+                "motion_speed": 14.106071283045937,
+                "zodiac": 2,
+                "house": 8,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 168.63558683942352,
+                "cusp_degree": 18.635586839423524,
+                "motion_speed": 1.064243356468093,
+                "zodiac": 6,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 163.61938098021622,
+                "cusp_degree": 13.61938098021622,
+                "motion_speed": 0.6371692879736246,
+                "zodiac": 6,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 104.99422097073186,
+                "cusp_degree": 14.99422097073186,
+                "motion_speed": 0.8778705491578083,
+                "zodiac": 4,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 99.0996592796317,
+                "cusp_degree": 9.099659279631695,
+                "motion_speed": 0.12183620689124096,
+                "zodiac": 4,
+                "house": 10,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 55.15914026660698,
+                "cusp_degree": 25.159140266606983,
+                "motion_speed": 0.0021040711816900644,
+                "zodiac": 2,
+                "house": 8,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 54.12388704352332,
+                "cusp_degree": 24.123887043523318,
+                "motion_speed": -0.05299205605116108,
+                "zodiac": 2,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 234.12388704352333,
+                "motion_speed": -0.05299205605116108,
+                "cusp_degree": 24.123887043523325,
+                "zodiac": 8,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 235.15914026660698,
+                "motion_speed": 0.0021040711816900644,
+                "cusp_degree": 25.159140266606983,
+                "zodiac": 8,
+                "house": 2,
+                "motion": "R"
+            }
+        }
+    }
+}

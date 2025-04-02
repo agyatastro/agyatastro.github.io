@@ -1,0 +1,111 @@
+{
+    "request": {
+        "name": "Donald Trump (Politician/Businessman)",
+        "year": 1946,
+        "month": 6,
+        "day": 14,
+        "hour": 10,
+        "minute": 45,
+        "second": 0,
+        "latitude": 40.7127281,
+        "longitude": -74.0060152,
+        "location": "New york City, United States",
+        "agyat_rating": "AA"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 136.06310645633081,
+            "ascendant": 5
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 174.34769981182188,
+                "cusp_degree": 24.347699811821883,
+                "motion_speed": -0.0003682471314041649,
+                "zodiac": 6,
+                "house": 2,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 59.855511555532054,
+                "cusp_degree": 29.855511555532054,
+                "motion_speed": 0.954744169192433,
+                "zodiac": 2,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 238.4904154161499,
+                "cusp_degree": 28.490415416149887,
+                "motion_speed": 11.86302816255317,
+                "zodiac": 8,
+                "house": 4,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 92.67299403262413,
+                "cusp_degree": 2.672994032624132,
+                "motion_speed": 1.189548817065058,
+                "zodiac": 4,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 123.68998084432576,
+                "cusp_degree": 3.68998084432576,
+                "motion_speed": 0.558123262660307,
+                "zodiac": 5,
+                "house": 1,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 75.81622551931015,
+                "cusp_degree": 15.816225519310152,
+                "motion_speed": 1.8668109509515802,
+                "zodiac": 3,
+                "house": 11,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 90.71511561020179,
+                "cusp_degree": 0.7151156102017922,
+                "motion_speed": 0.11729443446077524,
+                "zodiac": 4,
+                "house": 12,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 57.69937318458625,
+                "cusp_degree": 27.69937318458625,
+                "motion_speed": -0.00012581551568369457,
+                "zodiac": 2,
+                "house": 10,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 57.650545698597774,
+                "cusp_degree": 27.650545698597774,
+                "motion_speed": -0.05299202309763733,
+                "zodiac": 2,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 237.65054569859777,
+                "motion_speed": -0.05299202309763733,
+                "cusp_degree": 27.650545698597767,
+                "zodiac": 8,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 237.69937318458625,
+                "motion_speed": -0.00012581551568369457,
+                "cusp_degree": 27.69937318458625,
+                "zodiac": 8,
+                "house": 4,
+                "motion": "R"
+            }
+        }
+    }
+}

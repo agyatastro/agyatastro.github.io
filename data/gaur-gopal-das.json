@@ -1,0 +1,111 @@
+{
+    "request": {
+        "name": "Gaur Gopal Das (Monk/Spiritual)",
+        "year": 1973,
+        "month": 12,
+        "day": 24,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 19.2984759,
+        "longitude": 74.6850072,
+        "location": "Vambori",
+        "agyat_rating": "UU"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 322.7500883500802,
+            "ascendant": 11
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 289.2582287912453,
+                "cusp_degree": 19.2582287912453,
+                "motion_speed": 0.20912007471901034,
+                "zodiac": 10,
+                "house": 12,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 248.79442019507235,
+                "cusp_degree": 8.794420195072348,
+                "motion_speed": 1.019105712687409,
+                "zodiac": 9,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 244.74766505889798,
+                "cusp_degree": 4.747665058897979,
+                "motion_speed": 11.8347608869909,
+                "zodiac": 9,
+                "house": 11,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 285.9544484370631,
+                "cusp_degree": 15.954448437063093,
+                "motion_speed": 0.3670987772670059,
+                "zodiac": 10,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 6.47603211996199,
+                "cusp_degree": 6.47603211996199,
+                "motion_speed": 0.30287018730026244,
+                "zodiac": 1,
+                "house": 3,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 239.69062126398734,
+                "cusp_degree": 29.69062126398734,
+                "motion_speed": 1.5462370032667534,
+                "zodiac": 8,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 67.67940043303317,
+                "cusp_degree": 7.679400433033166,
+                "motion_speed": -0.08285086788703605,
+                "zodiac": 3,
+                "house": 5,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 245.1158089809861,
+                "cusp_degree": 5.115808980986088,
+                "motion_speed": 0.0001108476851494533,
+                "zodiac": 9,
+                "house": 11,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 244.8365910189463,
+                "cusp_degree": 4.836591018946308,
+                "motion_speed": -0.052992013054214596,
+                "zodiac": 9,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 64.83659101894631,
+                "motion_speed": -0.052992013054214596,
+                "cusp_degree": 4.836591018946308,
+                "zodiac": 3,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 65.11580898098612,
+                "motion_speed": 0.0001108476851494533,
+                "cusp_degree": 5.115808980986117,
+                "zodiac": 3,
+                "house": 5,
+                "motion": "R"
+            }
+        }
+    }
+}

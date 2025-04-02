@@ -1,0 +1,111 @@
+{
+    "request": {
+        "name": "Rekha Gupta (Politician)",
+        "year": 1974,
+        "month": 7,
+        "day": 19,
+        "hour": 8,
+        "minute": 0,
+        "second": 0,
+        "latitude": 29.3152073,
+        "longitude": 76.314082,
+        "location": "Nandgarh, Jind, Haryana",
+        "agyat_rating": "UU"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 117.24402883521557,
+            "ascendant": 4
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 324.1489535019758,
+                "cusp_degree": 24.148953501975825,
+                "motion_speed": -0.03706000799286031,
+                "zodiac": 11,
+                "house": 8,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 92.539567832335,
+                "cusp_degree": 2.5395678323349955,
+                "motion_speed": 0.9546328814315017,
+                "zodiac": 4,
+                "house": 1,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 86.6205110149733,
+                "cusp_degree": 26.620511014973303,
+                "motion_speed": 15.160341715071064,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 63.97232413326067,
+                "cusp_degree": 3.9723241332606705,
+                "motion_speed": 1.1989194507451497,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 121.18833983976775,
+                "cusp_degree": 1.1883398397677496,
+                "motion_speed": 0.6228232461989759,
+                "zodiac": 5,
+                "house": 2,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 73.08634648135099,
+                "cusp_degree": 13.086346481350986,
+                "motion_speed": 0.6321406832528663,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 77.22241201362776,
+                "cusp_degree": 17.22241201362776,
+                "motion_speed": 0.12720869838824564,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 235.48401309634764,
+                "cusp_degree": 25.48401309634764,
+                "motion_speed": -0.05700994662737171,
+                "zodiac": 8,
+                "house": 5,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 233.87607088937193,
+                "cusp_degree": 23.87607088937193,
+                "motion_speed": -0.05299202909611927,
+                "zodiac": 8,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 53.87607088937193,
+                "motion_speed": -0.05299202909611927,
+                "cusp_degree": 23.87607088937193,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 55.48401309634767,
+                "motion_speed": -0.05700994662737171,
+                "cusp_degree": 25.484013096347667,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "R"
+            }
+        }
+    }
+}

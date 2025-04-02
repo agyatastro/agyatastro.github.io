@@ -1,0 +1,111 @@
+{
+    "request": {
+        "name": "J Jayalalitha (Actor/Politician)",
+        "year": 1948,
+        "month": 2,
+        "day": 24,
+        "hour": 13,
+        "minute": 7,
+        "second": 0,
+        "latitude": 12.7007519,
+        "longitude": 76.66255674080558,
+        "location": "Malukote, Tamilnadu",
+        "agyat_rating": "AA"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 51.901629340476475,
+            "ascendant": 2
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 242.0018975671298,
+                "cusp_degree": 2.001897567129788,
+                "motion_speed": 0.1399873116591743,
+                "zodiac": 9,
+                "house": 8,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 311.47006189340027,
+                "cusp_degree": 11.47006189340027,
+                "motion_speed": 1.0057800836551476,
+                "zodiac": 11,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 125.51324773530689,
+                "cusp_degree": 5.513247735306891,
+                "motion_speed": 15.291554378261338,
+                "zodiac": 5,
+                "house": 4,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 351.7586031956059,
+                "cusp_degree": 21.758603195605872,
+                "motion_speed": 1.177675825467585,
+                "zodiac": 12,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 122.1916845155863,
+                "cusp_degree": 2.191684515586303,
+                "motion_speed": -0.38209038975944387,
+                "zodiac": 5,
+                "house": 4,
+                "motion": "R"
+            },
+            "Mercury": {
+                "degree": 302.75297920578504,
+                "cusp_degree": 2.7529792057850386,
+                "motion_speed": -0.9656594468555485,
+                "zodiac": 11,
+                "house": 10,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 114.90213882781667,
+                "cusp_degree": 24.90213882781667,
+                "motion_speed": -0.07620899462851959,
+                "zodiac": 4,
+                "house": 3,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 23.839252900443167,
+                "cusp_degree": 23.839252900443167,
+                "motion_speed": -0.18171086690579716,
+                "zodiac": 1,
+                "house": 12,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 24.814124191584945,
+                "cusp_degree": 24.814124191584945,
+                "motion_speed": -0.052992087701839566,
+                "zodiac": 1,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 204.81412419158494,
+                "motion_speed": -0.052992087701839566,
+                "cusp_degree": 24.814124191584938,
+                "zodiac": 7,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 203.83925290044317,
+                "motion_speed": -0.18171086690579716,
+                "cusp_degree": 23.83925290044317,
+                "zodiac": 7,
+                "house": 6,
+                "motion": "R"
+            }
+        }
+    }
+}

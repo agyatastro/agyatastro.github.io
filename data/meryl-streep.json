@@ -1,0 +1,111 @@
+{
+    "request": {
+        "name": "Meryl Streep (Actor)",
+        "year": 1949,
+        "month": 6,
+        "day": 22,
+        "hour": 8,
+        "minute": 5,
+        "second": 0,
+        "latitude": 41.1457902,
+        "longitude": -81.5333603,
+        "location": "Summit, United States",
+        "agyat_rating": "AA"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 105.29414596645728,
+            "ascendant": 4
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 277.377759251885,
+                "cusp_degree": 7.3777592518849815,
+                "motion_speed": -0.09522446577835937,
+                "zodiac": 10,
+                "house": 7,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 67.60507953808273,
+                "cusp_degree": 7.605079538082734,
+                "motion_speed": 0.9541640483514195,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 21.722873202838702,
+                "cusp_degree": 21.722873202838702,
+                "motion_speed": 12.226504672884225,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 85.31813838065072,
+                "cusp_degree": 25.318138380650723,
+                "motion_speed": 1.222112738487561,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 45.709757560588166,
+                "cusp_degree": 15.709757560588166,
+                "motion_speed": 0.7028668536514087,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 47.15685177183097,
+                "cusp_degree": 17.156851771830972,
+                "motion_speed": 0.5022312172026921,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 128.42263962938526,
+                "cusp_degree": 8.422639629385259,
+                "motion_speed": 0.08162044731938,
+                "zodiac": 5,
+                "house": 2,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 0.3203203052191074,
+                "cusp_degree": 0.3203203052191074,
+                "motion_speed": -0.05334033192083681,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 359.1531967593691,
+                "cusp_degree": 29.15319675936911,
+                "motion_speed": -0.05299211952765186,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 179.15319675936917,
+                "motion_speed": -0.05299211952765186,
+                "cusp_degree": 29.153196759369166,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 180.3203203052191,
+                "motion_speed": -0.05334033192083681,
+                "cusp_degree": 0.3203203052190986,
+                "zodiac": 7,
+                "house": 4,
+                "motion": "R"
+            }
+        }
+    }
+}

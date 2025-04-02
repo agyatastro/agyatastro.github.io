@@ -1,0 +1,111 @@
+{
+    "request": {
+        "name": "Jimmy Buffet (Singer/Song Writer/Author)",
+        "year": 1946,
+        "month": 12,
+        "day": 25,
+        "hour": 1,
+        "minute": 8,
+        "second": 0,
+        "latitude": 30.3646795,
+        "longitude": -88.5585995,
+        "location": "Pascagoula, United States",
+        "agyat_rating": "AA"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 173.796660094705,
+            "ascendant": 6
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 206.02823911136085,
+                "cusp_degree": 26.028239111360847,
+                "motion_speed": 0.18630721862123784,
+                "zodiac": 7,
+                "house": 2,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 249.77981050865995,
+                "cusp_degree": 9.77981050865995,
+                "motion_speed": 1.0192095556506315,
+                "zodiac": 9,
+                "house": 4,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 268.67784465169507,
+                "cusp_degree": 28.677844651695068,
+                "motion_speed": 11.908062208792112,
+                "zodiac": 9,
+                "house": 4,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 209.14325213604587,
+                "cusp_degree": 29.143252136045874,
+                "motion_speed": 0.5591258289295323,
+                "zodiac": 7,
+                "house": 2,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 252.8295518129241,
+                "cusp_degree": 12.829551812924109,
+                "motion_speed": 0.7611812057592022,
+                "zodiac": 9,
+                "house": 4,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 233.72289388103394,
+                "cusp_degree": 23.72289388103394,
+                "motion_speed": 1.4655604528194845,
+                "zodiac": 8,
+                "house": 3,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 104.70012929636444,
+                "cusp_degree": 14.700129296364437,
+                "motion_speed": -0.05924839185648017,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 48.580807476320224,
+                "cusp_degree": 18.580807476320224,
+                "motion_speed": -0.057020217986533214,
+                "zodiac": 2,
+                "house": 9,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 47.389294956024386,
+                "cusp_degree": 17.389294956024386,
+                "motion_speed": -0.052992088778662204,
+                "zodiac": 2,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 227.3892949560244,
+                "motion_speed": -0.052992088778662204,
+                "cusp_degree": 17.3892949560244,
+                "zodiac": 8,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 228.58080747632022,
+                "motion_speed": -0.057020217986533214,
+                "cusp_degree": 18.580807476320217,
+                "zodiac": 8,
+                "house": 3,
+                "motion": "R"
+            }
+        }
+    }
+}

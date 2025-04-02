@@ -1,0 +1,111 @@
+{
+    "request": {
+        "name": "Hema Malini (Actor/Dancer)",
+        "year": 1948,
+        "month": 10,
+        "day": 16,
+        "hour": 0,
+        "minute": 30,
+        "second": 0,
+        "latitude": 10.76316505,
+        "longitude": 78.71326006478583,
+        "location": "Thiruchirapalli, Kerala",
+        "agyat_rating": "AA"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 91.4498302271858,
+            "ascendant": 4
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 241.20362507719946,
+                "cusp_degree": 1.2036250771994617,
+                "motion_speed": 0.1594686873424703,
+                "zodiac": 9,
+                "house": 6,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 179.17248774426395,
+                "cusp_degree": 29.172487744263947,
+                "motion_speed": 0.9916146878449377,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 333.3820956693765,
+                "cusp_degree": 3.382095669376497,
+                "motion_speed": 11.951679506667354,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 137.4497959580931,
+                "cusp_degree": 17.44979595809309,
+                "motion_speed": 1.1565455120631434,
+                "zodiac": 5,
+                "house": 2,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 215.81718291192277,
+                "cusp_degree": 5.817182911922771,
+                "motion_speed": 0.7131038600084832,
+                "zodiac": 8,
+                "house": 5,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 188.34564019874702,
+                "cusp_degree": 8.34564019874702,
+                "motion_speed": -1.013182769177936,
+                "zodiac": 7,
+                "house": 4,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 129.76531221697405,
+                "cusp_degree": 9.765312216974053,
+                "motion_speed": 0.0972685448062542,
+                "zodiac": 5,
+                "house": 2,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 11.800573758877276,
+                "cusp_degree": 11.800573758877276,
+                "motion_speed": -0.029982621468765704,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 12.388847272902428,
+                "cusp_degree": 12.388847272902428,
+                "motion_speed": -0.05299205402176075,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 192.38884727290244,
+                "motion_speed": -0.05299205402176075,
+                "cusp_degree": 12.388847272902439,
+                "zodiac": 7,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 191.80057375887728,
+                "motion_speed": -0.029982621468765704,
+                "cusp_degree": 11.800573758877277,
+                "zodiac": 7,
+                "house": 4,
+                "motion": "R"
+            }
+        }
+    }
+}

@@ -1,0 +1,111 @@
+{
+    "request": {
+        "name": "Nitish Kumar (Politician)",
+        "year": 1951,
+        "month": 3,
+        "day": 1,
+        "hour": 13,
+        "minute": 20,
+        "second": 0,
+        "latitude": 25.4586233,
+        "longitude": 85.5369022,
+        "location": "Bakhtiyarpur, Bihar",
+        "agyat_rating": "AA"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 73.72929204611077,
+            "ascendant": 3
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 324.635467121536,
+                "cusp_degree": 24.63546712153601,
+                "motion_speed": 0.24125620946891446,
+                "zodiac": 11,
+                "house": 9,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 316.7271970413286,
+                "cusp_degree": 16.727197041328623,
+                "motion_speed": 1.0037790318497113,
+                "zodiac": 11,
+                "house": 9,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 231.3852591052484,
+                "cusp_degree": 21.385259105248394,
+                "motion_speed": 14.215668926312478,
+                "zodiac": 8,
+                "house": 6,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 342.1757772108452,
+                "cusp_degree": 12.175777210845183,
+                "motion_speed": 1.2333768907508307,
+                "zodiac": 12,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 336.3537269722861,
+                "cusp_degree": 6.353726972286097,
+                "motion_speed": 0.7735690194387633,
+                "zodiac": 12,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 308.16685070749077,
+                "cusp_degree": 8.166850707490767,
+                "motion_speed": 1.7592349743666418,
+                "zodiac": 11,
+                "house": 9,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 157.27825017298125,
+                "cusp_degree": 7.278250172981245,
+                "motion_speed": -0.07104774906911475,
+                "zodiac": 6,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 325.87603156918635,
+                "cusp_degree": 25.876031569186352,
+                "motion_speed": -0.002455318626506257,
+                "zodiac": 11,
+                "house": 9,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 326.46938677196016,
+                "cusp_degree": 26.46938677196016,
+                "motion_speed": -0.05299208480387574,
+                "zodiac": 11,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 146.46938677196016,
+                "motion_speed": -0.05299208480387574,
+                "cusp_degree": 26.46938677196016,
+                "zodiac": 5,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 145.87603156918635,
+                "motion_speed": -0.002455318626506257,
+                "cusp_degree": 25.876031569186352,
+                "zodiac": 5,
+                "house": 3,
+                "motion": "R"
+            }
+        }
+    }
+}

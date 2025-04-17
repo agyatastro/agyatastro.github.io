@@ -1,0 +1,111 @@
+{
+    "request": {
+        "name": "Kalvakuntla Chandrashekhar Rao/KCR (Politician)",
+        "year": 1954,
+        "month": 2,
+        "day": 17,
+        "hour": 10,
+        "minute": 30,
+        "second": 0,
+        "latitude": 18.005585099999998,
+        "longitude": 78.89611304969961,
+        "location": "Siddipet, Telangana",
+        "agyat_rating": "AA"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 7.703225460223123,
+            "ascendant": 1
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 53.26961745093725,
+                "cusp_degree": 23.269617450937247,
+                "motion_speed": 0.0227167566598339,
+                "zodiac": 2,
+                "house": 2,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 304.76587126223376,
+                "cusp_degree": 4.765871262233759,
+                "motion_speed": 1.008698775651262,
+                "zodiac": 11,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 117.80315490215104,
+                "cusp_degree": 27.803154902151036,
+                "motion_speed": 12.45588069804298,
+                "zodiac": 4,
+                "house": 4,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 309.1584828112528,
+                "cusp_degree": 9.158482811252782,
+                "motion_speed": 1.2519674381919816,
+                "zodiac": 11,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 220.8555567155325,
+                "cusp_degree": 10.855556715532487,
+                "motion_speed": 0.5459701787807819,
+                "zodiac": 8,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 322.0849339974786,
+                "cusp_degree": 22.084933997478572,
+                "motion_speed": 0.5197360607584507,
+                "zodiac": 11,
+                "house": 11,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 196.13175635297088,
+                "cusp_degree": 16.131756352970882,
+                "motion_speed": 0.00009722550480873356,
+                "zodiac": 7,
+                "house": 7,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 270.51655889685895,
+                "cusp_degree": 0.5165588968589532,
+                "motion_speed": -0.06176012446322077,
+                "zodiac": 10,
+                "house": 10,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 269.0322516617667,
+                "cusp_degree": 29.03225166176668,
+                "motion_speed": -0.052992115067694724,
+                "zodiac": 9,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 89.03225166176668,
+                "motion_speed": -0.052992115067694724,
+                "cusp_degree": 29.03225166176668,
+                "zodiac": 3,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 90.51655889685895,
+                "motion_speed": -0.06176012446322077,
+                "cusp_degree": 0.5165588968589532,
+                "zodiac": 4,
+                "house": 4,
+                "motion": "R"
+            }
+        }
+    }
+}

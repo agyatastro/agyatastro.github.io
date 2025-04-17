@@ -1,0 +1,111 @@
+{
+    "request": {
+        "name": "Shabana Azmi (Actor)",
+        "year": 1949,
+        "month": 9,
+        "day": 18,
+        "hour": 19,
+        "minute": 15,
+        "second": 0,
+        "latitude": 17.360589,
+        "longitude": 78.4740613,
+        "location": "Hyderabad, Telangana",
+        "agyat_rating": "AA"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 344.6854271448169,
+            "ascendant": 12
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 269.18330228927556,
+                "cusp_degree": 29.18330228927556,
+                "motion_speed": -0.000781920931720901,
+                "zodiac": 9,
+                "house": 10,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 152.12997871909894,
+                "cusp_degree": 2.1299787190989434,
+                "motion_speed": 0.9767728503784671,
+                "zodiac": 6,
+                "house": 7,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 98.16984703340637,
+                "cusp_degree": 8.16984703340637,
+                "motion_speed": 13.836864443262346,
+                "zodiac": 4,
+                "house": 5,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 191.3747008453067,
+                "cusp_degree": 11.374700845306705,
+                "motion_speed": 1.1772085627344262,
+                "zodiac": 7,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 103.94064303237992,
+                "cusp_degree": 13.940643032379924,
+                "motion_speed": 0.6188458825886808,
+                "zodiac": 4,
+                "house": 5,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 175.6159907711259,
+                "cusp_degree": 25.615990771125894,
+                "motion_speed": 0.26281746130089445,
+                "zodiac": 6,
+                "house": 7,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 138.44361168533572,
+                "cusp_degree": 18.443611685335725,
+                "motion_speed": 0.12389315562012189,
+                "zodiac": 5,
+                "house": 6,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 353.67628576881214,
+                "cusp_degree": 23.676285768812136,
+                "motion_speed": -0.043560408619115615,
+                "zodiac": 12,
+                "house": 1,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 354.48912259839904,
+                "cusp_degree": 24.489122598399035,
+                "motion_speed": -0.05299208618718248,
+                "zodiac": 12,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 174.48912259839904,
+                "motion_speed": -0.05299208618718248,
+                "cusp_degree": 24.489122598399035,
+                "zodiac": 6,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 173.67628576881214,
+                "motion_speed": -0.043560408619115615,
+                "cusp_degree": 23.676285768812136,
+                "zodiac": 6,
+                "house": 7,
+                "motion": "R"
+            }
+        }
+    }
+}

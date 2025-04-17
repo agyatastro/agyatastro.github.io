@@ -1,0 +1,111 @@
+{
+    "request": {
+        "name": "Benjamin Netanyahu (Politician)",
+        "year": 1949,
+        "month": 10,
+        "day": 21,
+        "hour": 11,
+        "minute": 30,
+        "second": 0,
+        "latitude": 32.0852997,
+        "longitude": 34.7818064,
+        "location": "Tel Aviv, Israel",
+        "agyat_rating": "AA"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 252.30154785135022,
+            "ascendant": 9
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 270.8602144002877,
+                "cusp_degree": 0.8602144002877026,
+                "motion_speed": 0.09998190660891391,
+                "zodiac": 10,
+                "house": 2,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 184.48472804130748,
+                "cusp_degree": 4.484728041307477,
+                "motion_speed": 0.9953124411045928,
+                "zodiac": 7,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 177.2428516723539,
+                "cusp_degree": 27.242851672353908,
+                "motion_speed": 15.209893970289684,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 229.323837113325,
+                "cusp_degree": 19.323837113325,
+                "motion_speed": 1.1286218801846648,
+                "zodiac": 8,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 123.6041939441008,
+                "cusp_degree": 3.6041939441007997,
+                "motion_speed": 0.5772774329803717,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 166.57087815747897,
+                "cusp_degree": 16.570878157478973,
+                "motion_speed": 1.2053316519999446,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 142.24280617789043,
+                "cusp_degree": 22.24280617789043,
+                "motion_speed": 0.10424387476436278,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 353.52957981349704,
+                "cusp_degree": 23.529579813497037,
+                "motion_speed": -0.0023915522380621628,
+                "zodiac": 12,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 352.74969500363693,
+                "cusp_degree": 22.74969500363693,
+                "motion_speed": -0.05299205297095804,
+                "zodiac": 12,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 172.74969500363693,
+                "motion_speed": -0.05299205297095804,
+                "cusp_degree": 22.74969500363693,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 173.5295798134971,
+                "motion_speed": -0.0023915522380621628,
+                "cusp_degree": 23.529579813497094,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "R"
+            }
+        }
+    }
+}

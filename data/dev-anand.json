@@ -1,0 +1,111 @@
+{
+    "request": {
+        "name": "Dev Anand (Actor/Figure)",
+        "year": 1923,
+        "month": 9,
+        "day": 26,
+        "hour": 9,
+        "minute": 30,
+        "second": 0,
+        "latitude": 21.930886,
+        "longitude": 88.366297,
+        "location": "Gurudaspur, Punjab",
+        "agyat_rating": "AA"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 208.6927681801889,
+            "ascendant": 7
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 204.70273519411114,
+                "cusp_degree": 24.702735194111142,
+                "motion_speed": 0.18399701946132824,
+                "zodiac": 7,
+                "house": 1,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 159.2328443480302,
+                "cusp_degree": 9.232844348030198,
+                "motion_speed": 0.9801524982015907,
+                "zodiac": 6,
+                "house": 12,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 351.4117105612264,
+                "cusp_degree": 21.411710561226414,
+                "motion_speed": 12.002934640821215,
+                "zodiac": 12,
+                "house": 6,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 163.4455789161667,
+                "cusp_degree": 13.44557891616671,
+                "motion_speed": 1.2460168066087982,
+                "zodiac": 6,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 143.18208030242167,
+                "cusp_degree": 23.182080302421667,
+                "motion_speed": 0.6360572035624819,
+                "zodiac": 5,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 165.54700957658767,
+                "cusp_degree": 15.54700957658767,
+                "motion_speed": -1.0466978086777263,
+                "zodiac": 6,
+                "house": 12,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 177.69215147335953,
+                "cusp_degree": 27.69215147335953,
+                "motion_speed": 0.11763747449617841,
+                "zodiac": 6,
+                "house": 12,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 138.67880567376667,
+                "cusp_degree": 18.678805673766675,
+                "motion_speed": -0.044504947269025576,
+                "zodiac": 5,
+                "house": 11,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 137.35242960820085,
+                "cusp_degree": 17.35242960820085,
+                "motion_speed": -0.05299201189603055,
+                "zodiac": 5,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 317.35242960820085,
+                "motion_speed": -0.05299201189603055,
+                "cusp_degree": 17.35242960820085,
+                "zodiac": 11,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 318.67880567376665,
+                "motion_speed": -0.044504947269025576,
+                "cusp_degree": 18.678805673766647,
+                "zodiac": 11,
+                "house": 5,
+                "motion": "R"
+            }
+        }
+    }
+}

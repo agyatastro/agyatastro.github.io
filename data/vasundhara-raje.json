@@ -1,0 +1,111 @@
+{
+    "request": {
+        "name": "Vasundhara Raje Scindia (Politician/Monarch)",
+        "year": 1953,
+        "month": 3,
+        "day": 8,
+        "hour": 16,
+        "minute": 45,
+        "second": 0,
+        "latitude": 19.054999,
+        "longitude": 72.8692035,
+        "location": "Mumbai, Maharashtra",
+        "agyat_rating": "AA"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 111.96473162359925,
+            "ascendant": 4
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 23.693743456868503,
+                "cusp_degree": 23.693743456868503,
+                "motion_speed": 0.1721056521999995,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 324.37048809620495,
+                "cusp_degree": 24.37048809620495,
+                "motion_speed": 0.999745000773719,
+                "zodiac": 11,
+                "house": 8,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 230.54146639357023,
+                "cusp_degree": 20.541466393570232,
+                "motion_speed": 13.09211667451213,
+                "zodiac": 8,
+                "house": 5,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 4.220473542294303,
+                "cusp_degree": 4.220473542294303,
+                "motion_speed": 0.49558473290073635,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 358.08722235146183,
+                "cusp_degree": 28.087222351461833,
+                "motion_speed": 0.7398256597198671,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 339.7502456131198,
+                "cusp_degree": 9.750245613119773,
+                "motion_speed": 0.10537525207089615,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 183.26125610608153,
+                "cusp_degree": 3.2612561060815324,
+                "motion_speed": -0.05068484462932921,
+                "zodiac": 7,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 288.53338094854837,
+                "cusp_degree": 18.53338094854837,
+                "motion_speed": -0.007739269973845455,
+                "zodiac": 10,
+                "house": 7,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 287.35370345378493,
+                "cusp_degree": 17.35370345378493,
+                "motion_speed": -0.05299208279694257,
+                "zodiac": 10,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 107.35370345378493,
+                "motion_speed": -0.05299208279694257,
+                "cusp_degree": 17.35370345378493,
+                "zodiac": 4,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 108.53338094854837,
+                "motion_speed": -0.007739269973845455,
+                "cusp_degree": 18.53338094854837,
+                "zodiac": 4,
+                "house": 1,
+                "motion": "R"
+            }
+        }
+    }
+}

@@ -1,0 +1,111 @@
+{
+    "request": {
+        "name": "Ahmed Patel (Politician/Advisor)",
+        "year": 1949,
+        "month": 8,
+        "day": 21,
+        "hour": 17,
+        "minute": 45,
+        "second": 0,
+        "latitude": 21.7080427,
+        "longitude": 72.9956936,
+        "location": "Bharuch, Gujrat",
+        "agyat_rating": "AA"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 276.84785816414234,
+            "ascendant": 10
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 270.43647948623936,
+                "cusp_degree": 0.4364794862393637,
+                "motion_speed": -0.08540316731504669,
+                "zodiac": 10,
+                "house": 1,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 124.92228623293563,
+                "cusp_degree": 4.922286232935633,
+                "motion_speed": 0.9635759939690717,
+                "zodiac": 5,
+                "house": 8,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 89.12927209564268,
+                "cusp_degree": 29.129272095642676,
+                "motion_speed": 13.861347024677157,
+                "zodiac": 3,
+                "house": 6,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 158.00870673895653,
+                "cusp_degree": 8.008706738956533,
+                "motion_speed": 1.1991686350126338,
+                "zodiac": 6,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 86.17384214505581,
+                "cusp_degree": 26.173842145055815,
+                "motion_speed": 0.6471564074615255,
+                "zodiac": 3,
+                "house": 6,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 146.77354435765207,
+                "cusp_degree": 26.77354435765207,
+                "motion_speed": 1.4961975558383214,
+                "zodiac": 5,
+                "house": 8,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 134.91984341504673,
+                "cusp_degree": 14.919843415046728,
+                "motion_speed": 0.12497028971196579,
+                "zodiac": 5,
+                "house": 8,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 354.7192980206749,
+                "cusp_degree": 24.7192980206749,
+                "motion_speed": -0.1259579872251689,
+                "zodiac": 12,
+                "house": 3,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 355.97621230575277,
+                "cusp_degree": 25.976212305752767,
+                "motion_speed": -0.05299211940340695,
+                "zodiac": 12,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 175.97621230575282,
+                "motion_speed": -0.05299211940340695,
+                "cusp_degree": 25.976212305752824,
+                "zodiac": 6,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 174.71929802067484,
+                "motion_speed": -0.1259579872251689,
+                "cusp_degree": 24.71929802067484,
+                "zodiac": 6,
+                "house": 9,
+                "motion": "R"
+            }
+        }
+    }
+}

@@ -1,0 +1,111 @@
+{
+    "request": {
+        "name": "Imran Khan (Politician)",
+        "year": 1952,
+        "month": 10,
+        "day": 5,
+        "hour": 11,
+        "minute": 50,
+        "second": 0,
+        "latitude": 31.5656822,
+        "longitude": 74.3141829,
+        "location": "Lahore, Pakistan",
+        "agyat_rating": "AU"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 249.94464760380325,
+            "ascendant": 9
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 26.71585047577874,
+                "cusp_degree": 26.71585047577874,
+                "motion_speed": -0.082068198421944,
+                "zodiac": 1,
+                "house": 5,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 168.79227778986905,
+                "cusp_degree": 18.792277789869047,
+                "motion_speed": 0.9855806743865287,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 12.869540102084162,
+                "cusp_degree": 12.869540102084162,
+                "motion_speed": 14.080690625940376,
+                "zodiac": 1,
+                "house": 5,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 196.09630453810848,
+                "cusp_degree": 16.096304538108484,
+                "motion_speed": 1.2265230147361499,
+                "zodiac": 7,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 241.94518274141925,
+                "cusp_degree": 1.945182741419245,
+                "motion_speed": 0.6981819250446996,
+                "zodiac": 9,
+                "house": 1,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 176.76136542021484,
+                "cusp_degree": 26.761365420214844,
+                "motion_speed": 1.6492740518080173,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 174.0169741086175,
+                "cusp_degree": 24.01697410861749,
+                "motion_speed": 0.12193610008460137,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 297.05554668001673,
+                "cusp_degree": 27.055546680016732,
+                "motion_speed": -0.1434084711212129,
+                "zodiac": 10,
+                "house": 2,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 295.5222084092647,
+                "cusp_degree": 25.522208409264692,
+                "motion_speed": -0.052992116363434615,
+                "zodiac": 10,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 115.52220840926469,
+                "motion_speed": -0.052992116363434615,
+                "cusp_degree": 25.522208409264692,
+                "zodiac": 4,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 117.05554668001673,
+                "motion_speed": -0.1434084711212129,
+                "cusp_degree": 27.055546680016732,
+                "zodiac": 4,
+                "house": 8,
+                "motion": "R"
+            }
+        }
+    }
+}

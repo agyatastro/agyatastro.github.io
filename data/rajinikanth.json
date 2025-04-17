@@ -1,0 +1,111 @@
+{
+    "request": {
+        "name": "Rajinikanth (Actor)",
+        "year": 1950,
+        "month": 12,
+        "day": 12,
+        "hour": 23,
+        "minute": 49,
+        "second": 0,
+        "latitude": 12.98815675,
+        "longitude": 77.62260003796,
+        "location": "Bengaluru, Karnartaka",
+        "agyat_rating": "AA"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 134.76564305865392,
+            "ascendant": 5
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 308.2908017943792,
+                "cusp_degree": 8.290801794379206,
+                "motion_speed": 0.14732121709792445,
+                "zodiac": 11,
+                "house": 7,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 236.97787700076938,
+                "cusp_degree": 26.977877000769382,
+                "motion_speed": 1.017092352540466,
+                "zodiac": 8,
+                "house": 4,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 283.64067914265013,
+                "cusp_degree": 13.640679142650129,
+                "motion_speed": 14.257910656238339,
+                "zodiac": 10,
+                "house": 6,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 244.00157532846183,
+                "cusp_degree": 4.001575328461826,
+                "motion_speed": 1.2570241222864933,
+                "zodiac": 9,
+                "house": 5,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 274.77845607983755,
+                "cusp_degree": 4.778456079837554,
+                "motion_speed": 0.7795080888372405,
+                "zodiac": 10,
+                "house": 6,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 257.08159605669783,
+                "cusp_degree": 17.081596056697833,
+                "motion_speed": 1.2037599251354527,
+                "zodiac": 9,
+                "house": 5,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 158.36747607224797,
+                "cusp_degree": 8.367476072247968,
+                "motion_speed": 0.05316065214760969,
+                "zodiac": 6,
+                "house": 2,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 330.7549673678744,
+                "cusp_degree": 0.7549673678744284,
+                "motion_speed": -0.10779333712975447,
+                "zodiac": 12,
+                "house": 8,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 330.63261225572523,
+                "cusp_degree": 0.6326122557252347,
+                "motion_speed": -0.05299205194147158,
+                "zodiac": 12,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 150.63261225572523,
+                "motion_speed": -0.05299205194147158,
+                "cusp_degree": 0.6326122557252347,
+                "zodiac": 6,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 150.75496736787443,
+                "motion_speed": -0.10779333712975447,
+                "cusp_degree": 0.7549673678744284,
+                "zodiac": 6,
+                "house": 2,
+                "motion": "R"
+            }
+        }
+    }
+}

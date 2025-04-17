@@ -1,0 +1,111 @@
+{
+    "request": {
+        "name": "Digvijaya Singh (Politician)",
+        "year": 1950,
+        "month": 9,
+        "day": 8,
+        "hour": 14,
+        "minute": 10,
+        "second": 0,
+        "latitude": 22.7203616,
+        "longitude": 75.8681996,
+        "location": "Indore, MAdhya Pradesh",
+        "agyat_rating": "AU"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 243.73228391073687,
+            "ascendant": 9
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 307.6331726444717,
+                "cusp_degree": 7.633172644471699,
+                "motion_speed": -0.12362333977595084,
+                "zodiac": 11,
+                "house": 3,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 141.94194373454607,
+                "cusp_degree": 21.941943734546072,
+                "motion_speed": 0.9713639091028643,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 94.54731065087876,
+                "cusp_degree": 4.547310650878757,
+                "motion_speed": 12.792314433989862,
+                "zodiac": 4,
+                "house": 8,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 124.70661421902474,
+                "cusp_degree": 4.706614219024743,
+                "motion_speed": 1.2333517194083374,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 204.96769161196673,
+                "cusp_degree": 24.96769161196673,
+                "motion_speed": 0.6626974491027241,
+                "zodiac": 7,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 158.2752471066574,
+                "cusp_degree": 8.275247106657389,
+                "motion_speed": -0.4575376730551048,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 148.54311425839123,
+                "cusp_degree": 28.543114258391228,
+                "motion_speed": 0.12436727064309756,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 335.2605904818291,
+                "cusp_degree": 5.2605904818291265,
+                "motion_speed": -0.030403910526410872,
+                "zodiac": 12,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 335.6881651659776,
+                "cusp_degree": 5.68816516597758,
+                "motion_speed": -0.05299208523105207,
+                "zodiac": 12,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 155.68816516597758,
+                "motion_speed": -0.05299208523105207,
+                "cusp_degree": 5.68816516597758,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 155.26059048182913,
+                "motion_speed": -0.030403910526410872,
+                "cusp_degree": 5.2605904818291265,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "R"
+            }
+        }
+    }
+}

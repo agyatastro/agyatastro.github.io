@@ -1,0 +1,111 @@
+{
+    "request": {
+        "name": "Anup Jalota (Singer)",
+        "year": 1953,
+        "month": 7,
+        "day": 29,
+        "hour": 18,
+        "minute": 0,
+        "second": 0,
+        "latitude": 29.3905295,
+        "longitude": 79.460869,
+        "location": "Nainital, Himachal Pradesh",
+        "agyat_rating": "AA"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 260.13915800952543,
+            "ascendant": 9
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 54.797986732361345,
+                "cusp_degree": 24.797986732361345,
+                "motion_speed": 0.1905954744896721,
+                "zodiac": 2,
+                "house": 6,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 102.84682609902595,
+                "cusp_degree": 12.846826099025947,
+                "motion_speed": 0.9558360162537901,
+                "zodiac": 4,
+                "house": 8,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 324.0466113606833,
+                "cusp_degree": 24.0466113606833,
+                "motion_speed": 14.755394319936375,
+                "zodiac": 11,
+                "house": 3,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 60.58260314703947,
+                "cusp_degree": 0.582603147039471,
+                "motion_speed": 1.1122222021436303,
+                "zodiac": 3,
+                "house": 7,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 96.59057297872639,
+                "cusp_degree": 6.590572978726385,
+                "motion_speed": 0.6468122340628478,
+                "zodiac": 4,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 96.2372272209456,
+                "cusp_degree": 6.237227220945599,
+                "motion_speed": -0.56112805403848,
+                "zodiac": 4,
+                "house": 8,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 178.37439004574293,
+                "cusp_degree": 28.374390045742928,
+                "motion_speed": 0.056362667864453146,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 280.0599336143105,
+                "cusp_degree": 10.059933614310523,
+                "motion_speed": -0.004782690848746311,
+                "zodiac": 10,
+                "house": 2,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 279.7730792201368,
+                "cusp_degree": 9.773079220136822,
+                "motion_speed": -0.05299208251177472,
+                "zodiac": 10,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 99.77307922013682,
+                "motion_speed": -0.05299208251177472,
+                "cusp_degree": 9.773079220136822,
+                "zodiac": 4,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 100.05993361431052,
+                "motion_speed": -0.004782690848746311,
+                "cusp_degree": 10.059933614310523,
+                "zodiac": 4,
+                "house": 8,
+                "motion": "R"
+            }
+        }
+    }
+}

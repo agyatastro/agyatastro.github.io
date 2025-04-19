@@ -1,0 +1,111 @@
+{
+    "request": {
+        "name": "Kumar Sanu (Singer)",
+        "year": 1957,
+        "month": 10,
+        "day": 20,
+        "hour": 10,
+        "minute": 20,
+        "second": 0,
+        "latitude": 22.5726459,
+        "longitude": 88.3638953,
+        "location": "Kolkata, West Bengal",
+        "agyat_rating": "AA"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 240.58271280521768,
+            "ascendant": 9
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 172.00763806591357,
+                "cusp_degree": 22.007638065913568,
+                "motion_speed": 0.21463284368653998,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 183.24711963869834,
+                "cusp_degree": 3.2471196386983365,
+                "motion_speed": 0.9945657814315564,
+                "zodiac": 7,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 141.48653147610375,
+                "cusp_degree": 21.48653147610375,
+                "motion_speed": 14.814435606842014,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 228.22912644815796,
+                "cusp_degree": 18.229126448157956,
+                "motion_speed": 1.1243516695433182,
+                "zodiac": 8,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 173.6825233299897,
+                "cusp_degree": 23.682523329989692,
+                "motion_speed": 0.6579591174541812,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 180.53235359973974,
+                "cusp_degree": 0.5323535997397357,
+                "motion_speed": 1.7001355213767175,
+                "zodiac": 7,
+                "house": 11,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 227.98758809850986,
+                "cusp_degree": 17.98758809850986,
+                "motion_speed": 0.09484268460626762,
+                "zodiac": 8,
+                "house": 12,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 197.30678879246275,
+                "cusp_degree": 17.306788792462754,
+                "motion_speed": -0.030040862866388365,
+                "zodiac": 7,
+                "house": 11,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 197.97027412306693,
+                "cusp_degree": 17.97027412306693,
+                "motion_speed": -0.05299204518460978,
+                "zodiac": 7,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 17.97027412306693,
+                "motion_speed": -0.05299204518460978,
+                "cusp_degree": 17.97027412306693,
+                "zodiac": 1,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 17.306788792462726,
+                "motion_speed": -0.030040862866388365,
+                "cusp_degree": 17.306788792462726,
+                "zodiac": 1,
+                "house": 5,
+                "motion": "R"
+            }
+        }
+    }
+}

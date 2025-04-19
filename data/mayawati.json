@@ -1,0 +1,111 @@
+{
+    "request": {
+        "name": "Mayawati (Politician)",
+        "year": 1956,
+        "month": 1,
+        "day": 15,
+        "hour": 19,
+        "minute": 50,
+        "second": 0,
+        "latitude": 28.6273928,
+        "longitude": 77.1716954,
+        "location": "Delhi, Delhi",
+        "agyat_rating": "AA"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 113.71630361613006,
+            "ascendant": 4
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 126.97864632200903,
+                "cusp_degree": 6.978646322009027,
+                "motion_speed": -0.08731837937055299,
+                "zodiac": 5,
+                "house": 2,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 271.1575694144396,
+                "cusp_degree": 1.1575694144395925,
+                "motion_speed": 1.018877211741592,
+                "zodiac": 10,
+                "house": 7,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 298.1749758804902,
+                "cusp_degree": 28.174975880490194,
+                "motion_speed": 12.178445685846569,
+                "zodiac": 10,
+                "house": 7,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 304.2767487628364,
+                "cusp_degree": 4.276748762836405,
+                "motion_speed": 1.227995470152263,
+                "zodiac": 11,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 217.72062663688078,
+                "cusp_degree": 7.72062663688078,
+                "motion_speed": 0.6549081809753223,
+                "zodiac": 8,
+                "house": 5,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 289.3412793825238,
+                "cusp_degree": 19.341279382523794,
+                "motion_speed": 0.5394999937013006,
+                "zodiac": 10,
+                "house": 7,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 216.99529234964052,
+                "cusp_degree": 6.995292349640522,
+                "motion_speed": 0.08526529974144109,
+                "zodiac": 8,
+                "house": 5,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 233.52824269724627,
+                "cusp_degree": 23.52824269724627,
+                "motion_speed": -0.12414093274863847,
+                "zodiac": 8,
+                "house": 5,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 232.07618087784024,
+                "cusp_degree": 22.076180877840244,
+                "motion_speed": -0.05299204694900767,
+                "zodiac": 8,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 52.076180877840216,
+                "motion_speed": -0.05299204694900767,
+                "cusp_degree": 22.076180877840216,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 53.52824269724624,
+                "motion_speed": -0.12414093274863847,
+                "cusp_degree": 23.52824269724624,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "R"
+            }
+        }
+    }
+}

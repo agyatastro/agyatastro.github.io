@@ -1,0 +1,111 @@
+{
+    "request": {
+        "name": "Sri Sri Ravishankar (Spiritual/Monk)",
+        "year": 1956,
+        "month": 5,
+        "day": 13,
+        "hour": 23,
+        "minute": 45,
+        "second": 0,
+        "latitude": 10.7860267,
+        "longitude": 79.1381497,
+        "location": "Tanjore",
+        "agyat_rating": "AA"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 279.30967723796914,
+            "ascendant": 10
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 119.26320239953637,
+                "cusp_degree": 29.263202399536368,
+                "motion_speed": 0.07659604420169182,
+                "zodiac": 4,
+                "house": 7,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 29.67174713062189,
+                "cusp_degree": 29.67174713062189,
+                "motion_speed": 0.9648702509318259,
+                "zodiac": 1,
+                "house": 4,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 73.16326490523235,
+                "cusp_degree": 13.163264905232353,
+                "motion_speed": 14.60941190916869,
+                "zodiac": 3,
+                "house": 6,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 70.25439746686807,
+                "cusp_degree": 10.25439746686807,
+                "motion_speed": 0.5612482252521755,
+                "zodiac": 3,
+                "house": 6,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 294.7287247602025,
+                "cusp_degree": 24.72872476020251,
+                "motion_speed": 0.6056407958334261,
+                "zodiac": 10,
+                "house": 1,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 45.600420468676774,
+                "cusp_degree": 15.600420468676774,
+                "motion_speed": 0.062284187628543534,
+                "zodiac": 2,
+                "house": 5,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 216.77860637099542,
+                "cusp_degree": 6.778606370995419,
+                "motion_speed": -0.0737941924850248,
+                "zodiac": 8,
+                "house": 11,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 224.91536314727855,
+                "cusp_degree": 14.915363147278555,
+                "motion_speed": 0.01751139895188724,
+                "zodiac": 8,
+                "house": 11,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 225.76147840649327,
+                "cusp_degree": 15.761478406493268,
+                "motion_speed": -0.05299204664252353,
+                "zodiac": 8,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 45.76147840649327,
+                "motion_speed": -0.05299204664252353,
+                "cusp_degree": 15.761478406493268,
+                "zodiac": 2,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 44.915363147278526,
+                "motion_speed": 0.01751139895188724,
+                "cusp_degree": 14.915363147278526,
+                "zodiac": 2,
+                "house": 5,
+                "motion": "R"
+            }
+        }
+    }
+}

@@ -1,0 +1,111 @@
+{
+    "request": {
+        "name": "Nitin Gadkari (Politician)",
+        "year": 1957,
+        "month": 5,
+        "day": 27,
+        "hour": 18,
+        "minute": 45,
+        "second": 0,
+        "latitude": 21.1498134,
+        "longitude": 79.0820556,
+        "location": "Nagpur, Maharashtra",
+        "agyat_rating": "AA"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 217.65652220842162,
+            "ascendant": 8
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 148.67869519855415,
+                "cusp_degree": 28.678695198554152,
+                "motion_speed": 0.025248644187913085,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 42.68764811104156,
+                "cusp_degree": 12.687648111041561,
+                "motion_speed": 0.9599050808108459,
+                "zodiac": 2,
+                "house": 7,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 18.60250067914098,
+                "cusp_degree": 18.60250067914098,
+                "motion_speed": 13.00172868667227,
+                "zodiac": 1,
+                "house": 6,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 54.0271653535824,
+                "cusp_degree": 24.027165353582397,
+                "motion_speed": 1.227404273435745,
+                "zodiac": 2,
+                "house": 7,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 81.09011182404576,
+                "cusp_degree": 21.090111824045763,
+                "motion_speed": 0.6265698159150291,
+                "zodiac": 3,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 19.403831031505202,
+                "cusp_degree": 19.403831031505202,
+                "motion_speed": 0.6161119068948306,
+                "zodiac": 1,
+                "house": 6,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 228.14537464276063,
+                "cusp_degree": 18.14537464276063,
+                "motion_speed": -0.07367854996167775,
+                "zodiac": 8,
+                "house": 1,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 206.4182209227329,
+                "cusp_degree": 26.4182209227329,
+                "motion_speed": 0.007524039912368577,
+                "zodiac": 7,
+                "house": 12,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 205.6885299463231,
+                "cusp_degree": 25.688529946323087,
+                "motion_speed": -0.05299207877126722,
+                "zodiac": 7,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 25.688529946323115,
+                "motion_speed": -0.05299207877126722,
+                "cusp_degree": 25.688529946323115,
+                "zodiac": 1,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 26.41822092273287,
+                "motion_speed": 0.007524039912368577,
+                "cusp_degree": 26.41822092273287,
+                "zodiac": 1,
+                "house": 6,
+                "motion": "R"
+            }
+        }
+    }
+}

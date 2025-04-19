@@ -1,0 +1,111 @@
+{
+    "request": {
+        "name": "Mukesh Ambani (Businessman)",
+        "year": 1957,
+        "month": 4,
+        "day": 19,
+        "hour": 19,
+        "minute": 59,
+        "second": 0,
+        "latitude": 12.789585,
+        "longitude": 45.028504,
+        "location": "Aden, Yemen",
+        "agyat_rating": "AA"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 210.39831781985563,
+            "ascendant": 8
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 149.85643770375327,
+                "cusp_degree": 29.856437703753272,
+                "motion_speed": -0.08477220649149275,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 6.092848431912746,
+                "cusp_degree": 6.092848431912746,
+                "motion_speed": 0.9761000990864535,
+                "zodiac": 1,
+                "house": 6,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 250.77756038139665,
+                "cusp_degree": 10.777560381396654,
+                "motion_speed": 12.478130321875765,
+                "zodiac": 9,
+                "house": 2,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 7.426308761376245,
+                "cusp_degree": 7.426308761376245,
+                "motion_speed": 1.2364318573365192,
+                "zodiac": 1,
+                "house": 6,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 57.35506727689448,
+                "cusp_degree": 27.35506727689448,
+                "motion_speed": 0.6281696959864513,
+                "zodiac": 2,
+                "house": 7,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 24.6986956360465,
+                "cusp_degree": 24.6986956360465,
+                "motion_speed": 0.5426285149272292,
+                "zodiac": 1,
+                "house": 6,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 230.4692495397486,
+                "cusp_degree": 20.469249539748603,
+                "motion_speed": -0.04170201060147363,
+                "zodiac": 8,
+                "house": 1,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 206.5299907679491,
+                "cusp_degree": 26.5299907679491,
+                "motion_speed": 0.02402375512594051,
+                "zodiac": 7,
+                "house": 12,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 207.6933959844881,
+                "cusp_degree": 27.69339598448809,
+                "motion_speed": -0.052992112001702556,
+                "zodiac": 7,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 27.69339598448812,
+                "motion_speed": -0.052992112001702556,
+                "cusp_degree": 27.69339598448812,
+                "zodiac": 1,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 26.52999076794913,
+                "motion_speed": 0.02402375512594051,
+                "cusp_degree": 26.52999076794913,
+                "zodiac": 1,
+                "house": 6,
+                "motion": "R"
+            }
+        }
+    }
+}

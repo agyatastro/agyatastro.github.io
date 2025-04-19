@@ -1,0 +1,111 @@
+{
+    "request": {
+        "name": "Harshad Mehta (Investor)",
+        "year": 1954,
+        "month": 7,
+        "day": 29,
+        "hour": 10,
+        "minute": 20,
+        "second": 0,
+        "latitude": 19.054999,
+        "longitude": 72.8692035,
+        "location": "Mumbai, Maharashtra",
+        "agyat_rating": "AA"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 153.0211517278485,
+            "ascendant": 6
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 81.52664078239219,
+                "cusp_degree": 21.526640782392192,
+                "motion_speed": 0.2186725045794958,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 102.29641353061155,
+                "cusp_degree": 12.296413530611545,
+                "motion_speed": 0.9564133504539918,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 92.99299268445846,
+                "cusp_degree": 2.992992684458457,
+                "motion_speed": 13.5428270128865,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 144.76460238844518,
+                "cusp_degree": 24.764602388445184,
+                "motion_speed": 1.121337990842342,
+                "zodiac": 5,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 242.36330139314265,
+                "cusp_degree": 2.363301393142649,
+                "motion_speed": -0.006482511610884059,
+                "zodiac": 9,
+                "house": 4,
+                "motion": "R"
+            },
+            "Mercury": {
+                "degree": 82.71663993527467,
+                "cusp_degree": 22.71663993527467,
+                "motion_speed": 1.114477406350549,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 189.82882009584827,
+                "cusp_degree": 9.828820095848272,
+                "motion_speed": 0.0362982165159255,
+                "zodiac": 7,
+                "house": 2,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 261.5203241078516,
+                "cusp_degree": 21.520324107851593,
+                "motion_speed": -0.014376255686972617,
+                "zodiac": 9,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 260.4479064973562,
+                "cusp_degree": 20.4479064973562,
+                "motion_speed": -0.052992081508308135,
+                "zodiac": 9,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 80.4479064973562,
+                "motion_speed": -0.052992081508308135,
+                "cusp_degree": 20.4479064973562,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 81.5203241078516,
+                "motion_speed": -0.014376255686972617,
+                "cusp_degree": 21.520324107851593,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "R"
+            }
+        }
+    }
+}

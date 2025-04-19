@@ -1,0 +1,111 @@
+{
+    "request": {
+        "name": "Shashi Tharoor (Diplomat/Politician)",
+        "year": 1956,
+        "month": 3,
+        "day": 9,
+        "hour": 18,
+        "minute": 50,
+        "second": 0,
+        "latitude": 51.4893335,
+        "longitude": -0.1440551,
+        "location": "London, Britain",
+        "agyat_rating": "AA"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 156.86914928143307,
+            "ascendant": 6
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 120.48293381062294,
+                "cusp_degree": 0.4829338106229386,
+                "motion_speed": -0.10878169885335882,
+                "zodiac": 5,
+                "house": 12,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 325.9369184475241,
+                "cusp_degree": 25.93691844752408,
+                "motion_speed": 0.9993053365249307,
+                "zodiac": 11,
+                "house": 6,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 293.67870041755833,
+                "cusp_degree": 23.678700417558332,
+                "motion_speed": 12.259923767009479,
+                "zodiac": 10,
+                "house": 5,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 8.904856756940802,
+                "cusp_degree": 8.904856756940802,
+                "motion_speed": 1.1380541794124308,
+                "zodiac": 1,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 253.2699121866936,
+                "cusp_degree": 13.269912186693603,
+                "motion_speed": 0.6545455314803577,
+                "zodiac": 9,
+                "house": 4,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 304.24957725824794,
+                "cusp_degree": 4.249577258247939,
+                "motion_speed": 1.4984783067362653,
+                "zodiac": 11,
+                "house": 6,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 219.55928432663202,
+                "cusp_degree": 9.559284326632024,
+                "motion_speed": 0.004026193025138627,
+                "zodiac": 8,
+                "house": 3,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 228.98369132670527,
+                "cusp_degree": 18.98369132670527,
+                "motion_speed": -0.18480494465147834,
+                "zodiac": 8,
+                "house": 3,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 229.20379073112215,
+                "cusp_degree": 19.203790731122155,
+                "motion_speed": -0.05299211307497243,
+                "zodiac": 8,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 49.203790731122126,
+                "motion_speed": -0.05299211307497243,
+                "cusp_degree": 19.203790731122126,
+                "zodiac": 2,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 48.9836913267053,
+                "motion_speed": -0.18480494465147834,
+                "cusp_degree": 18.983691326705298,
+                "zodiac": 2,
+                "house": 9,
+                "motion": "R"
+            }
+        }
+    }
+}

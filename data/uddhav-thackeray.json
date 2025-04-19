@@ -1,0 +1,111 @@
+{
+    "request": {
+        "name": "Uddhav Thackeray (Politician)",
+        "year": 1960,
+        "month": 7,
+        "day": 27,
+        "hour": 10,
+        "minute": 14,
+        "second": 0,
+        "latitude": 19.054999,
+        "longitude": 72.8692035,
+        "location": "Mumbai, Maharashtra",
+        "agyat_rating": "AU"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 150.1669505677964,
+            "ascendant": 6
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 241.38905027020624,
+                "cusp_degree": 1.3890502702062406,
+                "motion_speed": -0.07315372365336298,
+                "zodiac": 9,
+                "house": 4,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 100.8246397355473,
+                "cusp_degree": 10.824639735547294,
+                "motion_speed": 0.9558809240298914,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 138.88251266600724,
+                "cusp_degree": 18.882512666007244,
+                "motion_speed": 12.35535345829481,
+                "zodiac": 5,
+                "house": 12,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 110.34827621995913,
+                "cusp_degree": 20.348276219959132,
+                "motion_speed": 1.2315084894523305,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 32.6664302434459,
+                "cusp_degree": 2.6664302434459017,
+                "motion_speed": 0.6763588138363842,
+                "zodiac": 2,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 86.67201393660785,
+                "cusp_degree": 26.672013936607854,
+                "motion_speed": -0.05730271925075773,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 260.4018463598781,
+                "cusp_degree": 20.401846359878107,
+                "motion_speed": -0.06655383186536692,
+                "zodiac": 9,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 142.7319849018577,
+                "cusp_degree": 22.731984901857686,
+                "motion_speed": -0.007979055581455197,
+                "zodiac": 5,
+                "house": 12,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 144.39553028083986,
+                "cusp_degree": 24.395530280839864,
+                "motion_speed": -0.05299207567570242,
+                "zodiac": 5,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 324.39553028083986,
+                "motion_speed": -0.05299207567570242,
+                "cusp_degree": 24.395530280839864,
+                "zodiac": 11,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 322.7319849018577,
+                "motion_speed": -0.007979055581455197,
+                "cusp_degree": 22.731984901857686,
+                "zodiac": 11,
+                "house": 6,
+                "motion": "R"
+            }
+        }
+    }
+}

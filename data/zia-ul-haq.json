@@ -1,0 +1,112 @@
+{
+    "request": {
+        "name": "Zia Ul Haq (Army/Dictator)",
+        "year": 1924,
+        "month": 8,
+        "day": 11,
+        "hour": 12,
+        "minute": 30,
+        "second": 0,
+        "latitude": 31.2922311,
+        "longitude": 75.5678878,
+        "location": "Jalanhar, Punjab",
+        "agyat_rating": "AU",
+        "about": "<p>Muhammad Zia-ul-Haq (12 August 1924 – 17 August 1988) was a Pakistani military officer and statesman who served as the sixth president of Pakistan from 1978 until his death in an airplane crash in 1988. He also served as the second chief of the army staff of the Pakistan Army from 1976 until his death. The country's longest-serving de facto head of state and chief of the army staff, Zia's political ideology is known as Ziaism.</p><p>Zia was born in Jalandhar and trained at the Indian Military Academy in Dehradun. He served in the British Indian Army in the Second World War, and following the partition of India in 1947, joined the Pakistan Army and stationed in the Frontier Force Regiment. During Black September, he played a prominent role in defending the Jordanian Armed Forces against the Palestine Liberation Organization. In 1976, Zia was elevated to the rank of General and was appointed as chief of the army staff, succeeding Tikka Khan, by Prime Minister Zulfikar Ali Bhutto. In July 1977, Zia organized Operation Fair Play, during which he overthrew Bhutto, declared martial law and suspended the constitution. The coup was the second in Pakistan's history of military coups.</p><p>Zia remained de facto leader for over a year, assuming the presidency in September 1978. He directed Islamization in Pakistan, escalated the country's atomic bomb project and instituted industrialization and deregulation, which significantly improved Pakistan's economy. In 1979, following the Soviet invasion of Afghanistan, Zia adopted an anti-Soviet stance and aided the Afghan mujahidin. He bolstered ties with China and the United States and emphasized Pakistan's role in the Islamic world. Zia held non-partisan elections in 1985 and appointed Muhammad Junejo prime minister, though he accumulated more presidential powers through the Eighth Amendment in the Constitution of Pakistan. He dismissed Junejo's government on charges of economic stagflation and announced general elections in November 1988. In August 1988, while travelling from Bahawalpur to Islamabad, Zia died in an aircraft crash near the Sutlej River. He was buried at the Faisal Mosque in Islamabad.</p><p>Zia dominated Pakistan's politics for over a decade and his proxy war against the Soviet Union is credited with stopping an expected Soviet invasion of Pakistan. He is praised by right-wing conservatives for his desecularization efforts and opposition to Western culture. Zia's detractors criticize his authoritarianism, his press censorship, his purported religious intolerance and his weakening of democracy in Pakistan. Zia is also cited for promoting the political career of Nawaz Sharif, who was thrice elected prime minister and current leader of PML-N.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 195.11590644014535,
+            "ascendant": 7
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 227.27970296870646,
+                "cusp_degree": 17.27970296870646,
+                "motion_speed": 0.012890870463454131,
+                "zodiac": 8,
+                "house": 2,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 115.4918989766821,
+                "cusp_degree": 25.491898976682094,
+                "motion_speed": 0.959396683020434,
+                "zodiac": 4,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 247.37250693693835,
+                "cusp_degree": 7.3725069369383505,
+                "motion_speed": 14.55816694315015,
+                "zodiac": 9,
+                "house": 3,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 74.31993007926353,
+                "cusp_degree": 14.319930079263528,
+                "motion_speed": 0.57588932277927,
+                "zodiac": 3,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 310.5091059597095,
+                "cusp_degree": 10.509105959709473,
+                "motion_speed": -0.20937419992462747,
+                "zodiac": 11,
+                "house": 5,
+                "motion": "R"
+            },
+            "Mercury": {
+                "degree": 142.53432469904945,
+                "cusp_degree": 22.53432469904945,
+                "motion_speed": 1.1250674736281512,
+                "zodiac": 5,
+                "house": 11,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 184.30791812996077,
+                "cusp_degree": 4.307918129960768,
+                "motion_speed": 0.06647979523527076,
+                "zodiac": 7,
+                "house": 1,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 120.19172864896862,
+                "cusp_degree": 0.19172864896862052,
+                "motion_speed": -0.008332812603854217,
+                "zodiac": 5,
+                "house": 11,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 120.38833830217553,
+                "cusp_degree": 0.38833830217552645,
+                "motion_speed": -0.052992143491208385,
+                "zodiac": 5,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 300.3883383021755,
+                "motion_speed": -0.052992143491208385,
+                "cusp_degree": 0.38833830217549803,
+                "zodiac": 11,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 300.1917286489686,
+                "motion_speed": -0.008332812603854217,
+                "cusp_degree": 0.1917286489685921,
+                "zodiac": 11,
+                "house": 5,
+                "motion": "R"
+            }
+        }
+    }
+}

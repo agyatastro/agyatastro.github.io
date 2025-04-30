@@ -26,6 +26,14 @@
     </url>
     <url>
         
+        <loc>https://agyat.one/cancellations/</loc>
+    
+        
+        <lastmod>2025-04-28T08:50:22.530Z</lastmod>
+    
+    </url>
+    <url>
+        
         <loc>https://agyat.one/blog/</loc>
     
         
@@ -38,14 +46,6 @@
     
         
         <lastmod>2025-04-28T08:44:52.065Z</lastmod>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/cancellations/</loc>
-    
-        
-        <lastmod>2025-04-28T08:50:22.530Z</lastmod>
     
     </url>
     <url>
@@ -82,18 +82,18 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/terms-and-conditions/</loc>
-    
-        
-        <lastmod>2025-04-28T08:47:10.116Z</lastmod>
-    
-    </url>
-    <url>
-        
         <loc>https://agyat.one/services/</loc>
     
         
         <lastmod>2025-04-28T08:46:41.395Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/terms-and-conditions/</loc>
+    
+        
+        <lastmod>2025-04-28T08:47:10.116Z</lastmod>
     
     </url>
     <url>
@@ -114,10 +114,10 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/blog/moon-eclipse-march-2025-and-its-effect/</loc>
+        <loc>https://agyat.one/blog/mahashivaratri-and-connection-with-moon-remedies/</loc>
     
         
-        <lastmod>2025-04-28T08:43:47.928Z</lastmod>
+        <lastmod>2025-04-28T08:43:37.749Z</lastmod>
     
     </url>
     <url>
@@ -130,10 +130,10 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/blog/mahashivaratri-and-connection-with-moon-remedies/</loc>
+        <loc>https://agyat.one/blog/moon-eclipse-march-2025-and-its-effect/</loc>
     
         
-        <lastmod>2025-04-28T08:43:37.749Z</lastmod>
+        <lastmod>2025-04-28T08:43:47.928Z</lastmod>
     
     </url>
     <url>
@@ -162,10 +162,18 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/m/aarati/</loc>
+        <loc>https://agyat.one/plugins/qrcodejs/index-svg.html</loc>
     
         
-        <lastmod>2025-04-28T10:03:54.854Z</lastmod>
+        <lastmod>2015-11-25T10:43:20.000Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/plugins/qrcodejs/</loc>
+    
+        
+        <lastmod>2015-11-25T10:43:20.000Z</lastmod>
     
     </url>
     <url>
@@ -174,6 +182,14 @@
     
         
         <lastmod>2025-04-27T13:30:55.344Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/m/aarati/</loc>
+    
+        
+        <lastmod>2025-04-28T10:03:54.854Z</lastmod>
     
     </url>
     <url>
@@ -206,6 +222,14 @@
     
         
         <lastmod>2025-04-27T13:30:55.346Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/</loc>
+    
+        
+        <lastmod>2025-04-28T16:13:01.129Z</lastmod>
     
     </url>
     <url>
@@ -250,14 +274,6 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/m/suktam/</loc>
-    
-        
-        <lastmod>2025-04-27T13:30:55.350Z</lastmod>
-    
-    </url>
-    <url>
-        
         <loc>https://agyat.one/m/strotram/</loc>
     
         
@@ -274,26 +290,10 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/</loc>
+        <loc>https://agyat.one/m/suktam/</loc>
     
         
-        <lastmod>2025-04-28T16:13:01.129Z</lastmod>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/plugins/qrcodejs/index-svg.html</loc>
-    
-        
-        <lastmod>2015-11-25T10:43:20.000Z</lastmod>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/plugins/qrcodejs/</loc>
-    
-        
-        <lastmod>2015-11-25T10:43:20.000Z</lastmod>
+        <lastmod>2025-04-27T13:30:55.350Z</lastmod>
     
     </url>
     <url>
@@ -301,7 +301,15 @@
         <loc>https://agyat.one/services/consultation-one-area/</loc>
     
         
-        <lastmod>2025-04-30T12:14:15.774Z</lastmod>
+        <lastmod>2025-04-30T12:32:08.382Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/services/premium-consultation/</loc>
+    
+        
+        <lastmod>2025-04-30T12:32:24.575Z</lastmod>
     
     </url>
     <url>
@@ -309,7 +317,7 @@
         <loc>https://agyat.one/services/quick-consult/</loc>
     
         
-        <lastmod>2025-04-30T12:14:04.021Z</lastmod>
+        <lastmod>2025-04-30T12:32:38.355Z</lastmod>
     
     </url>
     <url>
@@ -322,14 +330,6 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/services/premium-consultation/</loc>
-    
-        
-        <lastmod>2025-04-30T12:14:11.568Z</lastmod>
-    
-    </url>
-    <url>
-        
         <loc>https://agyat.one/blog/predictions/shri-ashok-gahlotji/</loc>
     
         
@@ -338,18 +338,50 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/m/aarati/ambe-gauri/</loc>
+        <loc>https://agyat.one/m/ashtakam/kaal_bhairava/</loc>
     
         
-        <lastmod>2025-04-27T13:30:55.339Z</lastmod>
+        <lastmod>2025-04-03T15:32:53.078Z</lastmod>
     
     </url>
     <url>
         
-        <loc>https://agyat.one/m/aarati/kunjbihari/</loc>
+        <loc>https://agyat.one/m/ashtakam/maha_kaal_bhairava/</loc>
     
         
-        <lastmod>2025-04-27T13:30:55.342Z</lastmod>
+        <lastmod>2025-04-03T15:32:53.079Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/m/ashtakam/shri_kaalika/</loc>
+    
+        
+        <lastmod>2025-04-03T15:32:53.079Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/m/ashtakam/shri_shankara/</loc>
+    
+        
+        <lastmod>2025-04-03T15:32:53.080Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/m/ashtakam/sri_mahalaxmi/</loc>
+    
+        
+        <lastmod>2025-04-03T15:32:53.081Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/m/aarati/ambe-gauri/</loc>
+    
+        
+        <lastmod>2025-04-27T13:30:55.339Z</lastmod>
     
     </url>
     <url>
@@ -378,7 +410,7 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/m/aarati/lakshmi/</loc>
+        <loc>https://agyat.one/m/aarati/kunjbihari/</loc>
     
         
         <lastmod>2025-04-27T13:30:55.342Z</lastmod>
@@ -386,18 +418,10 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/m/aarati/shiv-omkara/</loc>
+        <loc>https://agyat.one/m/aarati/lakshmi/</loc>
     
         
-        <lastmod>2025-04-27T13:30:55.343Z</lastmod>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/m/aarati/tulasi-mata/</loc>
-    
-        
-        <lastmod>2025-04-27T13:30:55.343Z</lastmod>
+        <lastmod>2025-04-27T13:30:55.342Z</lastmod>
     
     </url>
     <url>
@@ -418,26 +442,18 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/m/ashtakam/kaal_bhairava/</loc>
+        <loc>https://agyat.one/m/aarati/shiv-omkara/</loc>
     
         
-        <lastmod>2025-04-03T15:32:53.078Z</lastmod>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/m/ashtakam/maha_kaal_bhairava/</loc>
-    
-        
-        <lastmod>2025-04-03T15:32:53.079Z</lastmod>
+        <lastmod>2025-04-27T13:30:55.343Z</lastmod>
     
     </url>
     <url>
         
-        <loc>https://agyat.one/m/ashtakam/sri_mahalaxmi/</loc>
+        <loc>https://agyat.one/m/aarati/tulasi-mata/</loc>
     
         
-        <lastmod>2025-04-03T15:32:53.081Z</lastmod>
+        <lastmod>2025-04-27T13:30:55.343Z</lastmod>
     
     </url>
     <url>
@@ -446,22 +462,6 @@
     
         
         <lastmod>2025-04-03T15:32:53.082Z</lastmod>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/m/ashtakam/shri_kaalika/</loc>
-    
-        
-        <lastmod>2025-04-03T15:32:53.079Z</lastmod>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/m/ashtakam/shri_shankara/</loc>
-    
-        
-        <lastmod>2025-04-03T15:32:53.080Z</lastmod>
     
     </url>
     <url>
@@ -482,6 +482,14 @@
     </url>
     <url>
         
+        <loc>https://agyat.one/m/atharvasheersham/shri_ganapati/</loc>
+    
+        
+        <lastmod>2025-04-03T15:32:53.084Z</lastmod>
+    
+    </url>
+    <url>
+        
         <loc>https://agyat.one/m/baan/sri_bajarang/</loc>
     
         
@@ -498,218 +506,10 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/m/atharvasheersham/shri_ganapati/</loc>
-    
-        
-        <lastmod>2025-04-03T15:32:53.084Z</lastmod>
-    
-    </url>
-    <url>
-        
         <loc>https://agyat.one/m/chalisa/sri_hanuman/</loc>
     
         
         <lastmod>2025-04-03T15:32:53.086Z</lastmod>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/m/kavacham/sri_narayan/</loc>
-    
-        
-        <lastmod>2025-04-03T15:32:53.087Z</lastmod>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/m/mantra/dus_mahavidhya/</loc>
-    
-        
-        <lastmod>2025-04-03T15:32:53.089Z</lastmod>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/m/kavacham/sri_durga/</loc>
-    
-        
-        <lastmod>2025-04-03T15:32:53.087Z</lastmod>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/m/mantra/nav_durga/</loc>
-    
-        
-        <lastmod>2025-04-03T15:32:53.089Z</lastmod>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/m/mantra/dus_disha/</loc>
-    
-        
-        <lastmod>2025-04-03T15:32:53.088Z</lastmod>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/m/mantra/nav_graha/</loc>
-    
-        
-        <lastmod>2025-04-03T15:32:53.090Z</lastmod>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/m/poojan-paddatti/panchopachaar/</loc>
-    
-        
-        <lastmod>2025-04-03T15:32:53.092Z</lastmod>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/m/sahasranamam/durga/</loc>
-    
-        
-        <lastmod>2025-04-03T15:32:53.093Z</lastmod>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/m/poojan-paddatti/shodashopachaar/</loc>
-    
-        
-        <lastmod>2025-04-03T15:32:53.092Z</lastmod>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/m/mantra/shodash_matrika/</loc>
-    
-        
-        <lastmod>2025-04-03T15:32:53.091Z</lastmod>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/m/sahasranamam/kamala/</loc>
-    
-        
-        <lastmod>2025-04-27T13:30:55.349Z</lastmod>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/m/sahasranamam/hanuman/</loc>
-    
-        
-        <lastmod>2025-04-03T15:32:53.094Z</lastmod>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/m/sahasranamam/ram/</loc>
-    
-        
-        <lastmod>2025-04-27T13:30:55.349Z</lastmod>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/m/sahasranamam/mahalaxmi/</loc>
-    
-        
-        <lastmod>2025-04-03T15:32:53.095Z</lastmod>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/m/sahasranamam/shri_vishnu/</loc>
-    
-        
-        <lastmod>2025-04-03T15:32:53.096Z</lastmod>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/m/sahasranamam/sri_lakshmi_narsimha/</loc>
-    
-        
-        <lastmod>2025-04-03T15:32:53.097Z</lastmod>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/m/strotram/aditya_hridayam/</loc>
-    
-        
-        <lastmod>2025-04-03T15:32:53.099Z</lastmod>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/m/suktam/vishnu/</loc>
-    
-        
-        <lastmod>2025-04-03T15:32:53.104Z</lastmod>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/m/suktam/sri/</loc>
-    
-        
-        <lastmod>2025-04-03T15:32:53.104Z</lastmod>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/m/strotram/mahishasur_mardini/</loc>
-    
-        
-        <lastmod>2025-04-03T15:32:53.101Z</lastmod>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/m/strotram/gajendra_moksha/</loc>
-    
-        
-        <lastmod>2025-04-03T15:32:53.100Z</lastmod>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/m/strotram/shri_narsimha/</loc>
-    
-        
-        <lastmod>2025-04-03T15:32:53.102Z</lastmod>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/m/strotram/sri_kanak_dhara/</loc>
-    
-        
-        <lastmod>2025-04-03T15:32:53.103Z</lastmod>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/m/strotram/siddha_kunjika/</loc>
-    
-        
-        <lastmod>2025-04-03T15:32:53.102Z</lastmod>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/aditya-vikram-birla/</loc>
-    
-        
-        <lastmod>2025-04-28T16:13:01.130Z</lastmod>
     
     </url>
     <url>
@@ -722,10 +522,10 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/ahmed-patel/</loc>
+        <loc>https://agyat.one/kundli/bank/aditya-vikram-birla/</loc>
     
         
-        <lastmod>2025-04-28T16:13:01.129Z</lastmod>
+        <lastmod>2025-04-28T16:13:01.130Z</lastmod>
     
     </url>
     <url>
@@ -734,6 +534,14 @@
     
         
         <lastmod>2025-04-28T16:13:01.130Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/ahmed-patel/</loc>
+    
+        
+        <lastmod>2025-04-28T16:13:01.129Z</lastmod>
     
     </url>
     <url>
@@ -762,7 +570,7 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/amrinder-singh/</loc>
+        <loc>https://agyat.one/kundli/bank/amitabh-bachchan/</loc>
     
         
         <lastmod>2025-04-28T16:13:01.129Z</lastmod>
@@ -778,23 +586,7 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/arvind-kejariwal/</loc>
-    
-        
-        <lastmod>2025-04-28T16:13:01.129Z</lastmod>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/amitabh-bachchan/</loc>
-    
-        
-        <lastmod>2025-04-28T16:13:01.129Z</lastmod>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/ashok-gahlot/</loc>
+        <loc>https://agyat.one/kundli/bank/amrinder-singh/</loc>
     
         
         <lastmod>2025-04-28T16:13:01.129Z</lastmod>
@@ -810,6 +602,22 @@
     </url>
     <url>
         
+        <loc>https://agyat.one/kundli/bank/arvind-kejariwal/</loc>
+    
+        
+        <lastmod>2025-04-28T16:13:01.129Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/ashok-gahlot/</loc>
+    
+        
+        <lastmod>2025-04-28T16:13:01.129Z</lastmod>
+    
+    </url>
+    <url>
+        
         <loc>https://agyat.one/kundli/bank/asif-ali-zardari/</loc>
     
         
@@ -818,7 +626,7 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/atlee/</loc>
+        <loc>https://agyat.one/kundli/bank/atal-bihari-vajpayee/</loc>
     
         
         <lastmod>2025-04-28T16:13:01.129Z</lastmod>
@@ -826,7 +634,15 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/atal-bihari-vajpayee/</loc>
+        <loc>https://agyat.one/kundli/bank/ayub-khan/</loc>
+    
+        
+        <lastmod>2025-04-28T16:13:01.129Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/atlee/</loc>
     
         
         <lastmod>2025-04-28T16:13:01.129Z</lastmod>
@@ -850,10 +666,10 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/ayub-khan/</loc>
+        <loc>https://agyat.one/kundli/bank/benjamin-netanyahu/</loc>
     
         
-        <lastmod>2025-04-28T16:13:01.129Z</lastmod>
+        <lastmod>2025-04-30T09:35:10.543Z</lastmod>
     
     </url>
     <url>
@@ -866,6 +682,14 @@
     </url>
     <url>
         
+        <loc>https://agyat.one/kundli/bank/boney-kapoor/</loc>
+    
+        
+        <lastmod>2025-04-28T16:13:01.143Z</lastmod>
+    
+    </url>
+    <url>
+        
         <loc>https://agyat.one/kundli/bank/bill-gates/</loc>
     
         
@@ -874,23 +698,7 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/benjamin-netanyahu/</loc>
-    
-        
-        <lastmod>2025-04-30T09:35:10.543Z</lastmod>
-    
-    </url>
-    <url>
-        
         <loc>https://agyat.one/kundli/bank/dev-anand/</loc>
-    
-        
-        <lastmod>2025-04-28T16:13:01.143Z</lastmod>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/boney-kapoor/</loc>
     
         
         <lastmod>2025-04-28T16:13:01.143Z</lastmod>
@@ -906,7 +714,7 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/digvijaya-singh/</loc>
+        <loc>https://agyat.one/kundli/bank/dhirubhai-ambani/</loc>
     
         
         <lastmod>2025-04-28T16:13:01.143Z</lastmod>
@@ -914,15 +722,7 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/donald-trump/</loc>
-    
-        
-        <lastmod>2025-04-30T09:37:00.604Z</lastmod>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/dhirubhai-ambani/</loc>
+        <loc>https://agyat.one/kundli/bank/digvijaya-singh/</loc>
     
         
         <lastmod>2025-04-28T16:13:01.143Z</lastmod>
@@ -934,6 +734,14 @@
     
         
         <lastmod>2025-04-28T16:13:01.143Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/donald-trump/</loc>
+    
+        
+        <lastmod>2025-04-30T09:37:00.604Z</lastmod>
     
     </url>
     <url>
@@ -954,7 +762,7 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/hema-malini/</loc>
+        <loc>https://agyat.one/kundli/bank/harshad-mehta/</loc>
     
         
         <lastmod>2025-04-28T16:13:01.143Z</lastmod>
@@ -962,7 +770,7 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/henry-kissinger/</loc>
+        <loc>https://agyat.one/kundli/bank/hema-malini/</loc>
     
         
         <lastmod>2025-04-28T16:13:01.143Z</lastmod>
@@ -978,7 +786,7 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/harshad-mehta/</loc>
+        <loc>https://agyat.one/kundli/bank/henry-kissinger/</loc>
     
         
         <lastmod>2025-04-28T16:13:01.143Z</lastmod>
@@ -1018,14 +826,6 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/jennifer-lopez/</loc>
-    
-        
-        <lastmod>2025-04-28T16:13:01.144Z</lastmod>
-    
-    </url>
-    <url>
-        
         <loc>https://agyat.one/kundli/bank/jimmy-buffet/</loc>
     
         
@@ -1034,15 +834,15 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/john-f-kennedy/</loc>
+        <loc>https://agyat.one/kundli/bank/jennifer-lopez/</loc>
     
         
-        <lastmod>2025-04-28T16:13:01.154Z</lastmod>
+        <lastmod>2025-04-28T16:13:01.144Z</lastmod>
     
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/johnny-depp/</loc>
+        <loc>https://agyat.one/kundli/bank/john-f-kennedy/</loc>
     
         
         <lastmod>2025-04-28T16:13:01.154Z</lastmod>
@@ -1058,10 +858,10 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/k-n-rao/</loc>
+        <loc>https://agyat.one/kundli/bank/johnny-depp/</loc>
     
         
-        <lastmod>2025-04-28T16:13:01.155Z</lastmod>
+        <lastmod>2025-04-28T16:13:01.154Z</lastmod>
     
     </url>
     <url>
@@ -1070,6 +870,14 @@
     
         
         <lastmod>2025-04-28T16:13:01.156Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/k-n-rao/</loc>
+    
+        
+        <lastmod>2025-04-28T16:13:01.155Z</lastmod>
     
     </url>
     <url>
@@ -1090,7 +898,7 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/kcr/</loc>
+        <loc>https://agyat.one/kundli/bank/king-charles-III/</loc>
     
         
         <lastmod>2025-04-28T16:13:01.155Z</lastmod>
@@ -1098,7 +906,7 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/king-charles-III/</loc>
+        <loc>https://agyat.one/kundli/bank/kcr/</loc>
     
         
         <lastmod>2025-04-28T16:13:01.155Z</lastmod>
@@ -1114,7 +922,7 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/kumar-sanu/</loc>
+        <loc>https://agyat.one/kundli/bank/lal-bahadur-shashtri/</loc>
     
         
         <lastmod>2025-04-28T16:13:01.155Z</lastmod>
@@ -1122,7 +930,7 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/lal-bahadur-shashtri/</loc>
+        <loc>https://agyat.one/kundli/bank/kumar-sanu/</loc>
     
         
         <lastmod>2025-04-28T16:13:01.155Z</lastmod>
@@ -1194,14 +1002,6 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/mayawati/</loc>
-    
-        
-        <lastmod>2025-04-28T16:13:01.167Z</lastmod>
-    
-    </url>
-    <url>
-        
         <loc>https://agyat.one/kundli/bank/merilyn-monroe/</loc>
     
         
@@ -1210,7 +1010,7 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/meryl-streep/</loc>
+        <loc>https://agyat.one/kundli/bank/mayawati/</loc>
     
         
         <lastmod>2025-04-28T16:13:01.167Z</lastmod>
@@ -1226,14 +1026,6 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/mulayam-singh-yadav/</loc>
-    
-        
-        <lastmod>2025-04-28T16:13:01.167Z</lastmod>
-    
-    </url>
-    <url>
-        
         <loc>https://agyat.one/kundli/bank/mukesh-ambani/</loc>
     
         
@@ -1242,7 +1034,7 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/narayana-murthy/</loc>
+        <loc>https://agyat.one/kundli/bank/meryl-streep/</loc>
     
         
         <lastmod>2025-04-28T16:13:01.167Z</lastmod>
@@ -1258,10 +1050,34 @@
     </url>
     <url>
         
+        <loc>https://agyat.one/kundli/bank/narayana-murthy/</loc>
+    
+        
+        <lastmod>2025-04-28T16:13:01.167Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/mulayam-singh-yadav/</loc>
+    
+        
+        <lastmod>2025-04-28T16:13:01.167Z</lastmod>
+    
+    </url>
+    <url>
+        
         <loc>https://agyat.one/kundli/bank/narendra-modi/</loc>
     
         
         <lastmod>2025-04-30T09:38:33.860Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/naveen-patnaik/</loc>
+    
+        
+        <lastmod>2025-04-28T16:13:01.167Z</lastmod>
     
     </url>
     <url>
@@ -1290,23 +1106,7 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/naveen-patnaik/</loc>
-    
-        
-        <lastmod>2025-04-28T16:13:01.167Z</lastmod>
-    
-    </url>
-    <url>
-        
         <loc>https://agyat.one/kundli/bank/omar-abdullah/</loc>
-    
-        
-        <lastmod>2025-04-28T16:13:01.167Z</lastmod>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/p-chidambaram/</loc>
     
         
         <lastmod>2025-04-28T16:13:01.167Z</lastmod>
@@ -1322,14 +1122,6 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/parvez-musharraf/</loc>
-    
-        
-        <lastmod>2025-04-28T16:13:01.168Z</lastmod>
-    
-    </url>
-    <url>
-        
         <loc>https://agyat.one/kundli/bank/paris-hilton/</loc>
     
         
@@ -1338,10 +1130,10 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/pope-francis/</loc>
+        <loc>https://agyat.one/kundli/bank/parvez-musharraf/</loc>
     
         
-        <lastmod>2025-04-30T09:39:23.833Z</lastmod>
+        <lastmod>2025-04-28T16:13:01.168Z</lastmod>
     
     </url>
     <url>
@@ -1354,23 +1146,23 @@
     </url>
     <url>
         
+        <loc>https://agyat.one/kundli/bank/p-chidambaram/</loc>
+    
+        
+        <lastmod>2025-04-28T16:13:01.167Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/pope-francis/</loc>
+    
+        
+        <lastmod>2025-04-30T09:39:23.833Z</lastmod>
+    
+    </url>
+    <url>
+        
         <loc>https://agyat.one/kundli/bank/pv-narsimha-rao/</loc>
-    
-        
-        <lastmod>2025-04-28T16:13:01.181Z</lastmod>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/princess-kate-middleton/</loc>
-    
-        
-        <lastmod>2025-04-28T16:13:01.181Z</lastmod>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/rahul-gandhi/</loc>
     
         
         <lastmod>2025-04-28T16:13:01.181Z</lastmod>
@@ -1386,10 +1178,26 @@
     </url>
     <url>
         
+        <loc>https://agyat.one/kundli/bank/princess-kate-middleton/</loc>
+    
+        
+        <lastmod>2025-04-28T16:13:01.181Z</lastmod>
+    
+    </url>
+    <url>
+        
         <loc>https://agyat.one/kundli/bank/raaj-kumar/</loc>
     
         
         <lastmod>2025-04-28T16:13:01.182Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/rahul-gandhi/</loc>
+    
+        
+        <lastmod>2025-04-28T16:13:01.181Z</lastmod>
     
     </url>
     <url>
@@ -1418,6 +1226,14 @@
     </url>
     <url>
         
+        <loc>https://agyat.one/kundli/bank/rajiv-gandhi/</loc>
+    
+        
+        <lastmod>2025-04-28T16:13:01.182Z</lastmod>
+    
+    </url>
+    <url>
+        
         <loc>https://agyat.one/kundli/bank/ram-jethmalani/</loc>
     
         
@@ -1434,7 +1250,23 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/rajiv-gandhi/</loc>
+        <loc>https://agyat.one/kundli/bank/raquel-welch/</loc>
+    
+        
+        <lastmod>2025-04-28T16:13:01.181Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/rekha-gupta/</loc>
+    
+        
+        <lastmod>2025-04-30T09:40:20.930Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/ravichandran-ashwin/</loc>
     
         
         <lastmod>2025-04-28T16:13:01.182Z</lastmod>
@@ -1450,39 +1282,7 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/raquel-welch/</loc>
-    
-        
-        <lastmod>2025-04-28T16:13:01.181Z</lastmod>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/ravichandran-ashwin/</loc>
-    
-        
-        <lastmod>2025-04-28T16:13:01.182Z</lastmod>
-    
-    </url>
-    <url>
-        
         <loc>https://agyat.one/kundli/bank/richard-branson/</loc>
-    
-        
-        <lastmod>2025-04-28T16:13:01.182Z</lastmod>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/rekha-gupta/</loc>
-    
-        
-        <lastmod>2025-04-30T09:40:20.930Z</lastmod>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/ryan-o-neal/</loc>
     
         
         <lastmod>2025-04-28T16:13:01.182Z</lastmod>
@@ -1498,10 +1298,10 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/sadguru-jaggi-vasudev/</loc>
+        <loc>https://agyat.one/kundli/bank/ryan-o-neal/</loc>
     
         
-        <lastmod>2025-04-28T16:13:01.203Z</lastmod>
+        <lastmod>2025-04-28T16:13:01.182Z</lastmod>
     
     </url>
     <url>
@@ -1518,6 +1318,14 @@
     
         
         <lastmod>2025-04-28T16:13:01.184Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/sadguru-jaggi-vasudev/</loc>
+    
+        
+        <lastmod>2025-04-28T16:13:01.203Z</lastmod>
     
     </url>
     <url>
@@ -1546,23 +1354,7 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/selena-gomez/</loc>
-    
-        
-        <lastmod>2025-04-28T16:13:01.204Z</lastmod>
-    
-    </url>
-    <url>
-        
         <loc>https://agyat.one/kundli/bank/sanjay-gandhi/</loc>
-    
-        
-        <lastmod>2025-04-28T16:13:01.205Z</lastmod>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/sant-aasaram/</loc>
     
         
         <lastmod>2025-04-28T16:13:01.205Z</lastmod>
@@ -1578,7 +1370,15 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/sharad-pawar/</loc>
+        <loc>https://agyat.one/kundli/bank/sant-aasaram/</loc>
+    
+        
+        <lastmod>2025-04-28T16:13:01.205Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/selena-gomez/</loc>
     
         
         <lastmod>2025-04-28T16:13:01.204Z</lastmod>
@@ -1594,7 +1394,7 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/sheikh-mujibur-rahman/</loc>
+        <loc>https://agyat.one/kundli/bank/sharad-pawar/</loc>
     
         
         <lastmod>2025-04-28T16:13:01.204Z</lastmod>
@@ -1602,7 +1402,7 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/sheila-dixit/</loc>
+        <loc>https://agyat.one/kundli/bank/sheikh-mujibur-rahman/</loc>
     
         
         <lastmod>2025-04-28T16:13:01.204Z</lastmod>
@@ -1618,15 +1418,15 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/shivraj-singh-chauhan/</loc>
+        <loc>https://agyat.one/kundli/bank/sheila-dixit/</loc>
     
         
-        <lastmod>2025-04-28T16:13:01.205Z</lastmod>
+        <lastmod>2025-04-28T16:13:01.204Z</lastmod>
     
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/sonia-gandhi/</loc>
+        <loc>https://agyat.one/kundli/bank/shivraj-singh-chauhan/</loc>
     
         
         <lastmod>2025-04-28T16:13:01.205Z</lastmod>
@@ -1642,10 +1442,34 @@
     </url>
     <url>
         
+        <loc>https://agyat.one/kundli/bank/sonia-gandhi/</loc>
+    
+        
+        <lastmod>2025-04-28T16:13:01.205Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/sri-sri-ravishankar/</loc>
+    
+        
+        <lastmod>2025-04-28T16:13:01.205Z</lastmod>
+    
+    </url>
+    <url>
+        
         <loc>https://agyat.one/kundli/bank/steve-jobs/</loc>
     
         
         <lastmod>2025-04-28T16:13:01.206Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/sunil-grover/</loc>
+    
+        
+        <lastmod>2025-04-28T16:13:01.217Z</lastmod>
     
     </url>
     <url>
@@ -1662,22 +1486,6 @@
     
         
         <lastmod>2025-04-28T16:13:01.207Z</lastmod>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/sri-sri-ravishankar/</loc>
-    
-        
-        <lastmod>2025-04-28T16:13:01.205Z</lastmod>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/sunil-grover/</loc>
-    
-        
-        <lastmod>2025-04-28T16:13:01.217Z</lastmod>
     
     </url>
     <url>
@@ -1706,7 +1514,7 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/virat-kohli/</loc>
+        <loc>https://agyat.one/kundli/bank/varun-dhawan/</loc>
     
         
         <lastmod>2025-04-28T16:13:01.218Z</lastmod>
@@ -1715,14 +1523,6 @@
     <url>
         
         <loc>https://agyat.one/kundli/bank/vasundhara-raje/</loc>
-    
-        
-        <lastmod>2025-04-28T16:13:01.218Z</lastmod>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/varun-dhawan/</loc>
     
         
         <lastmod>2025-04-28T16:13:01.218Z</lastmod>
@@ -1746,6 +1546,14 @@
     </url>
     <url>
         
+        <loc>https://agyat.one/kundli/bank/virat-kohli/</loc>
+    
+        
+        <lastmod>2025-04-28T16:13:01.218Z</lastmod>
+    
+    </url>
+    <url>
+        
         <loc>https://agyat.one/kundli/bank/warren-buffet/</loc>
     
         
@@ -1754,7 +1562,7 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/ys-jagan-mohan/</loc>
+        <loc>https://agyat.one/kundli/bank/yogi-adityanath/</loc>
     
         
         <lastmod>2025-04-28T16:13:01.218Z</lastmod>
@@ -1762,7 +1570,7 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/yogi-adityanath/</loc>
+        <loc>https://agyat.one/kundli/bank/ys-jagan-mohan/</loc>
     
         
         <lastmod>2025-04-28T16:13:01.218Z</lastmod>
@@ -1802,6 +1610,14 @@
     </url>
     <url>
         
+        <loc>https://agyat.one/kundli/bank/zelensky-volodymyr/</loc>
+    
+        
+        <lastmod>2025-04-28T16:13:01.218Z</lastmod>
+    
+    </url>
+    <url>
+        
         <loc>https://agyat.one/kundli/bank/zulfikar-ali-bhutto/</loc>
     
         
@@ -1810,10 +1626,194 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/zelensky-volodymyr/</loc>
+        <loc>https://agyat.one/m/kavacham/sri_durga/</loc>
     
         
-        <lastmod>2025-04-28T16:13:01.218Z</lastmod>
+        <lastmod>2025-04-03T15:32:53.087Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/m/kavacham/sri_narayan/</loc>
+    
+        
+        <lastmod>2025-04-03T15:32:53.087Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/m/mantra/dus_disha/</loc>
+    
+        
+        <lastmod>2025-04-03T15:32:53.088Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/m/mantra/dus_mahavidhya/</loc>
+    
+        
+        <lastmod>2025-04-03T15:32:53.089Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/m/mantra/nav_durga/</loc>
+    
+        
+        <lastmod>2025-04-03T15:32:53.089Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/m/mantra/nav_graha/</loc>
+    
+        
+        <lastmod>2025-04-03T15:32:53.090Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/m/mantra/shodash_matrika/</loc>
+    
+        
+        <lastmod>2025-04-03T15:32:53.091Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/m/poojan-paddatti/panchopachaar/</loc>
+    
+        
+        <lastmod>2025-04-03T15:32:53.092Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/m/poojan-paddatti/shodashopachaar/</loc>
+    
+        
+        <lastmod>2025-04-03T15:32:53.092Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/m/sahasranamam/durga/</loc>
+    
+        
+        <lastmod>2025-04-03T15:32:53.093Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/m/sahasranamam/hanuman/</loc>
+    
+        
+        <lastmod>2025-04-03T15:32:53.094Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/m/sahasranamam/kamala/</loc>
+    
+        
+        <lastmod>2025-04-27T13:30:55.349Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/m/sahasranamam/mahalaxmi/</loc>
+    
+        
+        <lastmod>2025-04-03T15:32:53.095Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/m/sahasranamam/ram/</loc>
+    
+        
+        <lastmod>2025-04-27T13:30:55.349Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/m/sahasranamam/shri_vishnu/</loc>
+    
+        
+        <lastmod>2025-04-03T15:32:53.096Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/m/sahasranamam/sri_lakshmi_narsimha/</loc>
+    
+        
+        <lastmod>2025-04-03T15:32:53.097Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/m/strotram/aditya_hridayam/</loc>
+    
+        
+        <lastmod>2025-04-03T15:32:53.099Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/m/strotram/gajendra_moksha/</loc>
+    
+        
+        <lastmod>2025-04-03T15:32:53.100Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/m/strotram/mahishasur_mardini/</loc>
+    
+        
+        <lastmod>2025-04-03T15:32:53.101Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/m/strotram/shri_narsimha/</loc>
+    
+        
+        <lastmod>2025-04-03T15:32:53.102Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/m/strotram/siddha_kunjika/</loc>
+    
+        
+        <lastmod>2025-04-03T15:32:53.102Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/m/strotram/sri_kanak_dhara/</loc>
+    
+        
+        <lastmod>2025-04-03T15:32:53.103Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/m/suktam/sri/</loc>
+    
+        
+        <lastmod>2025-04-03T15:32:53.104Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/m/suktam/vishnu/</loc>
+    
+        
+        <lastmod>2025-04-03T15:32:53.104Z</lastmod>
     
     </url>
     <url>

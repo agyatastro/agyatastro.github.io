@@ -1,0 +1,112 @@
+{
+    "request": {
+        "name": "Bilawal Bhutto Zardari (Politician/Businessman)",
+        "year": 1988,
+        "month": 9,
+        "day": 21,
+        "hour": 21,
+        "minute": 30,
+        "second": 0,
+        "latitude": 24.8546842,
+        "longitude": 67.0207055,
+        "location": "Karachi, Pakistan",
+        "agyat_rating": "AX",
+        "about": "<p>Bilawal Bhutto Zardari (born 21 September 1988) is a Pakistani politician who served as the 37th Minister of Foreign Affairs, in office from 27 April 2022 to 10 August 2023. He became the chairman of Pakistan People's Party in 2007 following his mother's assassination.</p><p>Bilawal belongs to the Bhutto family, a prominent political family of Pakistan and is the son of former Prime Minister Benazir Bhutto and President Asif Ali Zardari, and the grandson of former President Zulfikar Ali Bhutto. Bilawal was a member of the National Assembly of Pakistan from 13 August 2018 till 10 August 2023. He was re-elected as a Member of the National Assembly of Pakistan in the 2024 Pakistani general election from newly formed constituency NA-194 Larkana-I, taking oath in February 2024.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 42.13340991397965,
+            "ascendant": 2
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 42.41529137887724,
+                "cusp_degree": 12.415291378877242,
+                "motion_speed": 0.009553704536012191,
+                "zodiac": 2,
+                "house": 1,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 155.22171298265303,
+                "cusp_degree": 5.221712982653031,
+                "motion_speed": 0.9779205315024265,
+                "zodiac": 6,
+                "house": 5,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 278.2878474582185,
+                "cusp_degree": 8.287847458218494,
+                "motion_speed": 14.345361992270924,
+                "zodiac": 10,
+                "house": 9,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 111.74663454598354,
+                "cusp_degree": 21.74663454598354,
+                "motion_speed": 1.1126810877831983,
+                "zodiac": 4,
+                "house": 3,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 343.4147509480749,
+                "cusp_degree": 13.414750948074925,
+                "motion_speed": -0.28699308638100085,
+                "zodiac": 12,
+                "house": 11,
+                "motion": "R"
+            },
+            "Mercury": {
+                "degree": 180.83302548811892,
+                "cusp_degree": 0.8330254881189205,
+                "motion_speed": 0.6464595659248232,
+                "zodiac": 7,
+                "house": 6,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 242.63179741926598,
+                "cusp_degree": 2.631797419265979,
+                "motion_speed": 0.035907497944733385,
+                "zodiac": 9,
+                "house": 8,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 320.3359446625801,
+                "cusp_degree": 20.33594466258012,
+                "motion_speed": 0.018807549947399062,
+                "zodiac": 11,
+                "house": 10,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 319.4503961629969,
+                "cusp_degree": 19.450396162996924,
+                "motion_speed": -0.05299204853131594,
+                "zodiac": 11,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 139.45039616299692,
+                "motion_speed": -0.05299204853131594,
+                "cusp_degree": 19.450396162996924,
+                "zodiac": 5,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 140.33594466258012,
+                "motion_speed": 0.018807549947399062,
+                "cusp_degree": 20.33594466258012,
+                "zodiac": 5,
+                "house": 4,
+                "motion": "R"
+            }
+        }
+    }
+}

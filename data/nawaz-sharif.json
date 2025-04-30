@@ -1,0 +1,112 @@
+{
+    "request": {
+        "name": "Nawaz Sharif (Politician/Businessman)",
+        "year": 1949,
+        "month": 12,
+        "day": 25,
+        "hour": 13,
+        "minute": 50,
+        "second": 0,
+        "latitude": 31.5656822,
+        "longitude": 74.3141829,
+        "location": "Lahore, Pakistan",
+        "agyat_rating": "AA",
+        "about": "<p>Mian Muhammad Nawaz Sharif (born 25 December 1949) is a Pakistani politician and businessman who is current Patron-In-Chief Of Lahore Heritage Revival Authority since 16 March 2025, previously served as the 12th prime minister of Pakistan for three non-consecutive terms, first serving from 1990 to 1993, then from 1997 to 1999 and later from 2013 to 2017. He is the longest-serving prime minister of Pakistan, having served a total of more than 9 years across three tenures. Each term has ended in his ousting.</p><p>Born into the upper-middle-class Sharif family in Lahore, Nawaz is the son of Muhammad Sharif, the founder of Ittefaq and Sharif groups. Nawaz studied business at Government College and law at the University of Punjab. Nawaz entered into politics in 1981, when he was appointed by President Zia as the minister of finance for the province of Punjab. Backed by a loose coalition of conservatives, Nawaz was elected as the chief minister of Punjab in 1985 and re-elected after the end of martial law in 1988.</p><p>In 1990, Nawaz was appointed as the head of the conservative Islami Jamhoori Ittehad, founded by Hamid Gul, and became the 12th prime minister of Pakistan with the help of General Mirza Aslam Beg and Asad Durrani. After being ousted in 1993, when President Ghulam Ishaq Khan dissolved the National Assembly, Nawaz served as the leader of the opposition to the government of Benazir Bhutto from 1993 to 1996. He returned to the premiership after the Pakistan Muslim League (N) (PML-N) was elected in 1997, and served until his removal in 1999 by military takeover and was tried in a plane hijacking case.</p><p>After being imprisoned and later exiled for more than a decade, he returned to politics in 2011 and led his party to victory for the third time in 2013. In 2017, Nawaz was again removed from office by the Supreme Court of Pakistan following the Panama Papers case. In 2018, the Pakistani Supreme Court disqualified Nawaz from holding public office, and he was also sentenced to ten years in prison by an accountability court. In 2019, he moved to London for medical treatment on bail. He was also declared an absconder by a Pakistani court, however, the Islamabad High Court later granted him protective bail in the Avenfield and Al-Aziza cases. In 2023, after four years of exile, he returned to Pakistan and was subsequently acquitted in the Avenfield and Al-Azizia Steel Mills cases by the IHC."
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 29.578596793048593,
+            "ascendant": 1
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 281.87783941905747,
+                "cusp_degree": 11.877839419057466,
+                "motion_speed": 0.21942546210104774,
+                "zodiac": 10,
+                "house": 10,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 250.1116744744677,
+                "cusp_degree": 10.11167447446769,
+                "motion_speed": 1.019073679923836,
+                "zodiac": 9,
+                "house": 9,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 319.3330524758851,
+                "cusp_degree": 19.333052475885097,
+                "motion_speed": 12.301042835086783,
+                "zodiac": 11,
+                "house": 11,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 290.83030925619994,
+                "cusp_degree": 20.83030925619994,
+                "motion_speed": 0.5432862134636796,
+                "zodiac": 10,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 156.50945929333182,
+                "cusp_degree": 6.509459293331815,
+                "motion_speed": 0.40132003213124345,
+                "zodiac": 6,
+                "house": 6,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 267.84637069035847,
+                "cusp_degree": 27.84637069035847,
+                "motion_speed": 1.4223522722883248,
+                "zodiac": 9,
+                "house": 9,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 146.26196073856997,
+                "cusp_degree": 26.261960738569968,
+                "motion_speed": 0.008769492458407236,
+                "zodiac": 5,
+                "house": 5,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 349.6746346939669,
+                "cusp_degree": 19.67463469396688,
+                "motion_speed": -0.04397502399111349,
+                "zodiac": 12,
+                "house": 12,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 349.30473265999035,
+                "cusp_degree": 19.30473265999035,
+                "motion_speed": -0.05299201972160826,
+                "zodiac": 12,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 169.30473265999035,
+                "motion_speed": -0.05299201972160826,
+                "cusp_degree": 19.30473265999035,
+                "zodiac": 6,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 169.67463469396694,
+                "motion_speed": -0.04397502399111349,
+                "cusp_degree": 19.674634693966937,
+                "zodiac": 6,
+                "house": 6,
+                "motion": "R"
+            }
+        }
+    }
+}

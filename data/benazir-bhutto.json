@@ -1,0 +1,112 @@
+{
+    "request": {
+        "name": "Benazir Bhutto (Politician/Businessman)",
+        "year": 1953,
+        "month": 6,
+        "day": 21,
+        "hour": 20,
+        "minute": 20,
+        "second": 0,
+        "latitude": 24.8546842,
+        "longitude": 67.0207055,
+        "location": "Karachi, Pakistan",
+        "agyat_rating": "AA",
+        "about": "<p>Benazir Bhutto (21 June 1953 – 27 December 2007) was a Pakistani politician who served as the 11th prime minister of Pakistan from 1988 to 1990, and again from 1993 to 1996. She was also the first woman elected to head a democratic government in a Muslim-majority country. Ideologically a liberal and a secularist, she chaired or co-chaired the Pakistan People's Party (PPP) from the early 1980s until her assassination in 2007.</p><p>Of mixed Sindhi, Persian, and Kurdish parentage, Bhutto was born in Karachi to a politically important, wealthy aristocratic family. She studied at Harvard University and the University of Oxford, where she was President of the Oxford Union. Her father, the PPP leader Zulfikar Bhutto, was elected prime minister on a socialist platform in 1973. She returned to Pakistan in 1977, shortly before her father was ousted in a military coup and executed. Bhutto and her mother, Nusrat Bhutto, took control of the PPP and led the country's Movement for the Restoration of Democracy (MRD). Bhutto was repeatedly imprisoned by Muhammad Zia-ul-Haq's military government and self-exiled to Great Britain in 1984. She returned in 1986 and—influenced by Thatcherite economics—transformed the PPP's platform from a socialist to a liberal one, before leading it to victory in the 1988 election. As prime minister, her attempts at reform were stifled by conservative and Islamist forces within Pakistan, including President Ghulam Ishaq Khan and the Pakistani military. Her administration, having been accused of corruption and nepotism, was dismissed by Khan in 1990. Intelligence services rigged that year's election to ensure a victory for the conservative Islamic Democratic Alliance (IJI), at which point Bhutto became the Leader of the Opposition.</p><p>After the IJI government of Prime Minister Nawaz Sharif was also dismissed on corruption charges, Bhutto once again led the PPP to victory in the 1993 elections. In her second term, she oversaw economic privatisation and attempts to advance women's rights. Her government was beset with instability, including the assassination of her brother Murtaza, a failed 1995 coup d'état, and a bribery scandal involving her and her husband Asif Ali Zardari; in response, President Farooq Leghari dismissed her government. The PPP lost the 1997 election, and in 1998 she went into self-exile once more, living between Dubai and London for the next decade. A widening corruption inquiry culminated in a 2003 conviction in a Swiss court. Following the United States–brokered negotiations with Pakistani President Pervez Musharraf, she returned to Pakistan in 2007 to run in the 2008 elections. Her platform emphasised civilian oversight of the military and opposition to growing Islamist violence. After a political rally in Rawalpindi, she was assassinated in December 2007. The Salafi jihadist militant group al-Qaeda claimed responsibility, although involvement of the Pakistani Taliban and rogue elements of the intelligence services were also hypothesised. She was buried at her family mausoleum in Garhi Khuda Bakhsh.</p><p>Opinions on Bhutto were deeply divided. Pakistan's Islamist groups and conservative forces often accused her of being politically inexperienced, corrupt, and opposed her secularist, modernising agenda. In the early years of her career, however, she was nevertheless domestically popular and also attracted support from the international community, being seen as a champion of democracy. Posthumously, she came to be regarded as an icon for women's rights due to her political success in a male-dominated society.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 269.1287450064109,
+            "ascendant": 9
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 46.804222936926706,
+                "cusp_degree": 16.804222936926706,
+                "motion_speed": 0.22663912070103695,
+                "zodiac": 2,
+                "house": 6,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 66.74436176213058,
+                "cusp_degree": 6.7443617621305805,
+                "motion_speed": 0.9539340163390024,
+                "zodiac": 3,
+                "house": 7,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 180.62006811197472,
+                "cusp_degree": 0.6200681119747173,
+                "motion_speed": 12.195785701849655,
+                "zodiac": 7,
+                "house": 11,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 21.054658179889913,
+                "cusp_degree": 21.054658179889913,
+                "motion_speed": 0.9491702240363193,
+                "zodiac": 1,
+                "house": 5,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 71.79285099299051,
+                "cusp_degree": 11.792850992990509,
+                "motion_speed": 0.6646803949312197,
+                "zodiac": 3,
+                "house": 7,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 91.30014468558622,
+                "cusp_degree": 1.3001446855862184,
+                "motion_speed": 1.2612326315867546,
+                "zodiac": 4,
+                "house": 8,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 177.34412979440336,
+                "cusp_degree": 27.344129794403358,
+                "motion_speed": -0.0034814107410494066,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 280.5902831359823,
+                "cusp_degree": 10.590283135982304,
+                "motion_speed": -0.05058624355701686,
+                "zodiac": 10,
+                "house": 2,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 281.7784973916088,
+                "cusp_degree": 11.778497391608823,
+                "motion_speed": -0.05299204941268974,
+                "zodiac": 10,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 101.77849739160882,
+                "motion_speed": -0.05299204941268974,
+                "cusp_degree": 11.778497391608823,
+                "zodiac": 4,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 100.5902831359823,
+                "motion_speed": -0.05058624355701686,
+                "cusp_degree": 10.590283135982304,
+                "zodiac": 4,
+                "house": 8,
+                "motion": "R"
+            }
+        }
+    }
+}

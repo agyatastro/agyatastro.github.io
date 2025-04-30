@@ -1,0 +1,112 @@
+{
+    "request": {
+        "name": "Shehbaz sharif (Politician/Businessman)",
+        "year": 1951,
+        "month": 9,
+        "day": 23,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 31.5656822,
+        "longitude": 74.3141829,
+        "location": "Lahore, Pakistan",
+        "agyat_rating": "AX",
+        "about": "<p>Mian Muhammad Shehbaz Sharif (born 23 September 1951) is a Pakistani politician and businessman who has served as the 20th prime minister of Pakistan since March 2024, having previously been in the role between April 2022 to August 2023. He has also served as the president of the Pakistan Muslim League (N) (PML-N) and chief minister of Punjab three times, making him the longest-serving person in the role.</p><p>Shehbaz was elected to the Provincial Assembly of the Punjab in 1988 and to the National Assembly of Pakistan in 1990. He was again elected to the Punjab Assembly in 1993 and named leader of the opposition. He was elected as chief minister of Pakistan's most populous province, Punjab, for the first time on 20 February 1997. After the 1999 Pakistani coup d'état, Shehbaz, along with his family, spent years of self-exile in Saudi Arabia, returning to Pakistan in 2007. Shehbaz was appointed chief minister for a second term after the PML-N's victory in Punjab province in the 2008 Pakistani general election. He was elected as chief minister of Punjab for the third time in the 2013 general election and served his term until his party's defeat in the 2018 general election. During his tenure as chief minister, Shehbaz undertook development initiatives including transportation in Lahore. Shehbaz was nominated as the president of the Pakistan Muslim League-N after his brother, Nawaz Sharif, was disqualified from holding office in the wake of the Panama Papers case. He was nominated as the leader of the opposition after the 2018 election, and elected prime minister in 2022 after the no-confidence motion against Imran Khan was passed in the National Assembly. After the PML(N) won a minority in the 2024 general election, Sharif became prime minister with a coalition government.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 240.78527741034932,
+            "ascendant": 9
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 347.27142106080976,
+                "cusp_degree": 17.271421060809757,
+                "motion_speed": -0.12967358349042127,
+                "zodiac": 12,
+                "house": 4,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 156.28226728716368,
+                "cusp_degree": 6.282267287163677,
+                "motion_speed": 0.9788012626783951,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 67.79183038018351,
+                "cusp_degree": 7.791830380183512,
+                "motion_speed": 11.878894788933541,
+                "zodiac": 3,
+                "house": 7,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 128.97880472234675,
+                "cusp_degree": 8.978804722346752,
+                "motion_speed": -0.06924467511862178,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "R"
+            },
+            "Mars": {
+                "degree": 119.56205437140709,
+                "cusp_degree": 29.562054371407086,
+                "motion_speed": 0.6235860154679382,
+                "zodiac": 4,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 140.68654473747762,
+                "cusp_degree": 20.686544737477618,
+                "motion_speed": 1.5844364278771301,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 161.53328839483817,
+                "cusp_degree": 11.533288394838166,
+                "motion_speed": 0.12322744587084848,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 316.49525050722065,
+                "cusp_degree": 16.495250507220646,
+                "motion_speed": 0.0018555250145626402,
+                "zodiac": 11,
+                "house": 3,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 315.55283857596663,
+                "cusp_degree": 15.552838575966632,
+                "motion_speed": -0.052992084285579784,
+                "zodiac": 11,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 135.55283857596663,
+                "motion_speed": -0.052992084285579784,
+                "cusp_degree": 15.552838575966632,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 136.49525050722065,
+                "motion_speed": 0.0018555250145626402,
+                "cusp_degree": 16.495250507220646,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "R"
+            }
+        }
+    }
+}

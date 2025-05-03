@@ -1,0 +1,112 @@
+{
+    "request": {
+        "name": "Gautam Adani (Businessman)",
+        "year": 1962,
+        "month": 6,
+        "day": 24,
+        "hour": 5,
+        "minute": 15,
+        "second": 0,
+        "latitude": 23.0215374,
+        "longitude": 72.5800568,
+        "location": "Ahmedabad, Gujrat",
+        "agyat_rating": "AA",
+        "about": "<p>Gautam Shantilal Adani (Gujarati: [ɡəʊt̪əm ʃãn̪t̪ilal əd̪aɳiː]) (born 24 June 1962) is an Indian billionaire businessman who is the founder and chairman of the Adani Group, a multinational conglomerate involved in port development and operations in India. As of 24 April 2025, Adani is ranked as the third richest person in Asia and 24th in the world, with a net worth of $64.3 billion. In 2022, Time magazine included him in the 100 most influential people in the world.</p><p>As a teenager, Adani moved to Mumbai in 1978 to work as a diamond sorter for Mahendra Brothers. In 1981, Adani managed his elder brother's plastic unit in Ahmedabad which was his gateway to global trading through polyvinyl chloride (PVC) imports and establishing the Adani Group in 1988.</p><p>Adani has been described as being close to India's Prime Minister Narendra Modi and to his ruling Bharatiya Janata Party government which has led to allegations of cronyism. In January 2023, the American short selling activist firm Hindenburg Research accused Adani of stock manipulation and fraud. In January 2024, the Supreme Court resolved the Adani Group stocks dispute arising from Hindenburg Research's allegations and dismissed requests for an SIT or CBI investigation. As of October 2023, Adani's fortune is estimated at $54.2 billion and ranked 23rd on the Forbes Real Time Billionaires list.</p><p>On 20 November 2024, a five-count criminal indicment by the U.S. Attorney's Office in Brooklyn, New York charged Adani and executives for five criminal counts of bribery. Adani is alleged to have paid over $250 million in bribes to Indian government officials to secure contracts in Andhra Pradesh, Chhattisgarh, Odisha, Jammu and Kashmir, and Tamil Nadu.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 52.97249477286587,
+            "ascendant": 2
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 319.24626948146897,
+                "cusp_degree": 19.24626948146897,
+                "motion_speed": 0.02709426865120236,
+                "zodiac": 11,
+                "house": 10,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 68.65675817094753,
+                "cusp_degree": 8.656758170947526,
+                "motion_speed": 0.953761594345414,
+                "zodiac": 3,
+                "house": 2,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 325.2279789699854,
+                "cusp_degree": 25.227978969985372,
+                "motion_speed": 14.199622995936954,
+                "zodiac": 11,
+                "house": 10,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 104.62084628735744,
+                "cusp_degree": 14.620846287357438,
+                "motion_speed": 1.174935892903528,
+                "zodiac": 4,
+                "house": 3,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 25.811587953111694,
+                "cusp_degree": 25.811587953111694,
+                "motion_speed": 0.7235498586454028,
+                "zodiac": 1,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 49.34866761520716,
+                "cusp_degree": 19.348667615207162,
+                "motion_speed": 0.361996844998956,
+                "zodiac": 2,
+                "house": 1,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 287.2207010543715,
+                "cusp_degree": 17.22070105437149,
+                "motion_speed": -0.04917582890770804,
+                "zodiac": 10,
+                "house": 9,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 106.16491142542506,
+                "cusp_degree": 16.16491142542506,
+                "motion_speed": 0.017483764004778884,
+                "zodiac": 4,
+                "house": 3,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 107.47107490336217,
+                "cusp_degree": 17.471074903362165,
+                "motion_speed": -0.0529921070021332,
+                "zodiac": 4,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 287.47107490336214,
+                "motion_speed": -0.0529921070021332,
+                "cusp_degree": 17.471074903362137,
+                "zodiac": 10,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 286.1649114254251,
+                "motion_speed": 0.017483764004778884,
+                "cusp_degree": 16.16491142542509,
+                "zodiac": 10,
+                "house": 9,
+                "motion": "R"
+            }
+        }
+    }
+}

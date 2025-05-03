@@ -1,0 +1,112 @@
+{
+    "request": {
+        "name": "Neeraj Chopra (Sportsman)",
+        "year": 1997,
+        "month": 12,
+        "day": 24,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 29.3912753,
+        "longitude": 76.9771675,
+        "location": "Panipat, Haryana",
+        "agyat_rating": "AX",
+        "about": "<p>Subedar Major Neeraj Chopra PVSM VSM (born 24 December 1997) is an Indian track and field athlete. Considered as the greatest Indian javelin thrower, he's a double medalist at the Olympics, World Championships, and the Asian Games. He has won the Diamond League once. Chopra won the gold medal at the 2020 Olympics, becoming the first Asian javelin throw athlete to do so. He became the first Asian to win a gold in javelin at the World Championships after his win in 2023. Chopra has won gold medals in every major tournament. He has a podium finish streak in 24 consecutive competitions, dating back to 2020. Since his performance at the 2016 World U20 Championship, he continues to hold the junior javelin throw world record.</p><p>Chopra is the first athletics gold medalist for India. As of 2024, he is one of only two Indians to have won an individual Olympic gold medal, the youngest-ever Indian Olympic gold medalist in an individual event and the only individual to have won gold on his Olympic debut. He is one of the five individual multiple medalists for India at the Olympics after his silver medal at the 2024 Olympics. He was the first Indian to win at the World U-20 Championships, where he achieved a world U20 record throw of 86.48 m in 2016, becoming the first Indian athlete to set a world record in athletics.</p><p>Chopra's silver medal at the 2022 edition made him the second Indian athlete to win a medal at the World Championships. He has also won gold at the 2018 Commonwealth Games and is a multiple Asian Games gold medalist. He won gold at the 2018 and 2022 Asian Games, while also serving as the flag-bearer in the former edition.</p><p>Since June 2021, he has shown consistent results, finishing as a winner or runner-up in 24 consecutive competitions, finishing first overall in qualifying rounds at two back-to-back Olympic Games, and first and second overall in qualifying rounds at two back-to-back World Championships.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 324.3955356132943,
+            "ascendant": 11
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 296.84909668854675,
+                "cusp_degree": 26.84909668854675,
+                "motion_speed": 0.19729473153380797,
+                "zodiac": 10,
+                "house": 12,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 248.634974750844,
+                "cusp_degree": 8.634974750844009,
+                "motion_speed": 1.0188584527425781,
+                "zodiac": 9,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 184.1677076271516,
+                "cusp_degree": 4.1677076271516,
+                "motion_speed": 12.051301610947611,
+                "zodiac": 7,
+                "house": 9,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 279.97156410093936,
+                "cusp_degree": 9.97156410093936,
+                "motion_speed": 0.10463141879741177,
+                "zodiac": 10,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 280.85396836263095,
+                "cusp_degree": 10.853968362630951,
+                "motion_speed": 0.7841643065634973,
+                "zodiac": 10,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 234.10948936904524,
+                "cusp_degree": 24.109489369045235,
+                "motion_speed": -0.5561413287938608,
+                "zodiac": 8,
+                "house": 10,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 349.7625358716817,
+                "cusp_degree": 19.762535871681678,
+                "motion_speed": 0.01426940668443555,
+                "zodiac": 12,
+                "house": 2,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 139.7210080175012,
+                "cusp_degree": 19.72100801750119,
+                "motion_speed": -0.07251757940863739,
+                "zodiac": 5,
+                "house": 7,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 140.30848077332126,
+                "cusp_degree": 20.308480773321264,
+                "motion_speed": -0.052992020963606355,
+                "zodiac": 5,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 320.30848077332126,
+                "motion_speed": -0.052992020963606355,
+                "cusp_degree": 20.308480773321264,
+                "zodiac": 11,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 319.72100801750116,
+                "motion_speed": -0.07251757940863739,
+                "cusp_degree": 19.721008017501163,
+                "zodiac": 11,
+                "house": 1,
+                "motion": "R"
+            }
+        }
+    }
+}

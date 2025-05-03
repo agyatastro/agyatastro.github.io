@@ -1,0 +1,112 @@
+{
+    "request": {
+        "name": "Salman Khan (Actor)",
+        "year": 1965,
+        "month": 12,
+        "day": 27,
+        "hour": 14,
+        "minute": 30,
+        "second": 0,
+        "latitude": 22.7203616,
+        "longitude": 75.8681996,
+        "location": "Indore, MadhyaPradesh",
+        "agyat_rating": "AA",
+        "about": "<p>Abdul Rashid Salim Salman Khan (pronounced [səlˈmɑːn xɑːn, -kʰɑːn̪]; born 27 December 1965) is an Indian actor, film producer, and television personality who predominantly works in Hindi films. In a career spanning over three decades, his awards include two National Film Awards as a film producer, and two Filmfare Awards as an actor. He has been cited in the media as one of the most popular and commercially successful actors of Indian cinema. Forbes included him in listings of the highest-paid celebrities in the world, in 2015 and 2018, with him being the highest-ranked Indian in the latter year. He has starred in the annual highest-grossing Hindi films of 10 individual years, the highest for any actor.</p><p>Khan began his acting career with a supporting role in Biwi Ho To Aisi (1988), followed by his breakthrough with a leading role in Sooraj Barjatya's romantic drama Maine Pyar Kiya (1989), for which he was awarded the Filmfare Award for Best Male Debut. He established himself with several commercially successful films, including Lawrence D'Souza's romantic drama Saajan (1991), Barjatya's family dramas Hum Aapke Hain Koun..! (1994) and Hum Saath-Saath Hain (1999), the action film Karan Arjun (1995) and the comedy Biwi No.1 (1999). After a period of fluctuations through the 2000s, Khan resurrected his screen image with the action film Wanted (2009), and achieved greater stardom the following decade by starring in the top-grossing action films Dabangg (2010), Ready (2011), Bodyguard (2011), Ek Tha Tiger (2012), Dabangg 2 (2012), Kick (2014), and Tiger Zinda Hai (2017), and the dramas Bajrangi Bhaijaan (2015) and Sultan (2016). This was followed by a series of poorly-received films, with the exception of Bharat (2019) and the sequel Tiger 3 (2023).</p><p>In addition to his acting career, Khan is a television presenter and promotes humanitarian causes through his charity, Being Human Foundation. He has been hosting the reality show Bigg Boss since 2010. Khan's off-screen life is marred by controversy and legal troubles. In 2015, he was convicted of culpable homicide for a negligent driving case in which he ran over five people with his car, killing one, but his conviction was set aside on appeal. On 5 April 2018, Khan was convicted in a blackbuck poaching case and sentenced to five years imprisonment. On 7 April 2018, he was out on bail while an appeal was ongoing</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 16.218134110712185,
+            "ascendant": 1
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 61.65529153788997,
+                "cusp_degree": 1.6552915378899726,
+                "motion_speed": -0.1317184776352852,
+                "zodiac": 3,
+                "house": 3,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 252.0132529320772,
+                "cusp_degree": 12.013252932077194,
+                "motion_speed": 1.0192520007694974,
+                "zodiac": 9,
+                "house": 9,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 301.36019364727116,
+                "cusp_degree": 1.36019364727116,
+                "motion_speed": 11.846445070757024,
+                "zodiac": 11,
+                "house": 11,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 288.77050621533954,
+                "cusp_degree": 18.770506215339537,
+                "motion_speed": 0.34687996802090615,
+                "zodiac": 10,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 279.857762645566,
+                "cusp_degree": 9.857762645566027,
+                "motion_speed": 0.7850034250623105,
+                "zodiac": 10,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 230.97571018928866,
+                "cusp_degree": 20.975710189288662,
+                "motion_speed": 1.250907264992764,
+                "zodiac": 8,
+                "house": 8,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 318.7063052067441,
+                "cusp_degree": 18.706305206744105,
+                "motion_speed": 0.07112056876279667,
+                "zodiac": 11,
+                "house": 11,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 40.854172043739524,
+                "cusp_degree": 10.854172043739524,
+                "motion_speed": -0.08625815333174332,
+                "zodiac": 2,
+                "house": 2,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 39.514845605717895,
+                "cusp_degree": 9.514845605717895,
+                "motion_speed": -0.052992004322994765,
+                "zodiac": 2,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 219.51484560571788,
+                "motion_speed": -0.052992004322994765,
+                "cusp_degree": 9.51484560571788,
+                "zodiac": 8,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 220.85417204373954,
+                "motion_speed": -0.08625815333174332,
+                "cusp_degree": 10.854172043739538,
+                "zodiac": 8,
+                "house": 8,
+                "motion": "R"
+            }
+        }
+    }
+}

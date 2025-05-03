@@ -1,0 +1,112 @@
+{
+    "request": {
+        "name": "Bhupesh Baghel (Politician)",
+        "year": 1961,
+        "month": 8,
+        "day": 23,
+        "hour": 9,
+        "minute": 27,
+        "second": 0,
+        "latitude": 21.1982964,
+        "longitude": 81.4007922,
+        "location": "Durg, Chhatishgarh",
+        "agyat_rating": "AU",
+        "about": "Bhupesh Baghel (born 23 August 1960), popularly known as Kaka, is an Indian politician who served as the 3rd Chief Minister of Chhattisgarh from 2018 to 2023. He has been the president of Chhattisgarh Pradesh Congress from 2014 to 2019. He has represented the Patan constituency in the Chhattisgarh Legislative Assembly since 2013 and from 2003 to 2008. He was the cabinet minister of Transportation in undivided Madhya Pradesh in Digvijaya Singh government from 1999 to 2003. Baghel was the first Minister for Revenue, Public Health Engineering and Relief Work in Chhattisgarh."
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 171.79469689019143,
+            "ascendant": 6
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 275.548714238551,
+                "cusp_degree": 5.5487142385509856,
+                "motion_speed": -0.09358732225502851,
+                "zodiac": 10,
+                "house": 5,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 126.45086839206043,
+                "cusp_degree": 6.450868392060428,
+                "motion_speed": 0.9635790158036646,
+                "zodiac": 5,
+                "house": 12,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 264.4240933229048,
+                "cusp_degree": 24.42409332290481,
+                "motion_speed": 14.68824174052596,
+                "zodiac": 9,
+                "house": 4,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 89.11521206356987,
+                "cusp_degree": 29.11521206356987,
+                "motion_speed": 1.1680518186266573,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 160.5792714088138,
+                "cusp_degree": 10.57927140881381,
+                "motion_speed": 0.6395458037530104,
+                "zodiac": 6,
+                "house": 1,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 134.80386310140634,
+                "cusp_degree": 14.803863101406336,
+                "motion_speed": 1.8501789450730692,
+                "zodiac": 5,
+                "house": 12,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 270.9085212723156,
+                "cusp_degree": 0.9085212723156246,
+                "motion_speed": -0.052652797307786194,
+                "zodiac": 10,
+                "house": 5,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 123.88832423011439,
+                "cusp_degree": 3.8883242301143923,
+                "motion_speed": 0.004076420810817143,
+                "zodiac": 5,
+                "house": 12,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 123.6243762830208,
+                "cusp_degree": 3.624376283020794,
+                "motion_speed": -0.05299207472667742,
+                "zodiac": 5,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 303.6243762830208,
+                "motion_speed": -0.05299207472667742,
+                "cusp_degree": 3.6243762830208084,
+                "zodiac": 11,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 303.8883242301144,
+                "motion_speed": 0.004076420810817143,
+                "cusp_degree": 3.8883242301143923,
+                "zodiac": 11,
+                "house": 6,
+                "motion": "R"
+            }
+        }
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "request": {
+        "name": "Brad Pitt (Actor)",
+        "year": 1963,
+        "month": 12,
+        "day": 18,
+        "hour": 6,
+        "minute": 31,
+        "second": 0,
+        "latitude": 39.0273676,
+        "longitude": -95.7627535,
+        "location": "Shawnee, United States",
+        "agyat_rating": "AA",
+        "about": "<p>William Bradley Pitt (born December 18, 1963) is an American actor and film producer. He is the recipient of various accolades, including two Academy Awards, two British Academy Film Awards, two Golden Globe Awards, and a Primetime Emmy Award. One of the most influential celebrities, Pitt appeared on Forbes' annual Celebrity 100 list from 2006 to 2008, and the Time 100 list in 2007. His films as a leading actor have grossed over $6.9 billion worldwide.</p><p>Pitt first gained recognition as a cowboy hitchhiker in the Ridley Scott road film Thelma & Louise (1991). Pitt emerged as a star taking on leading man roles in films such as the drama A River Runs Through It (1992), the western Legends of the Fall (1994), the horror film Interview with the Vampire (1994), the crime thriller Seven (1995), and the cult film Fight Club (1999). Pitt found greater commercial success starring in Steven Soderbergh's heist film Ocean's Eleven (2001), and reprised his role in its sequels. He cemented his leading man status starring in blockbusters such as the historical epic Troy (2004), the romantic crime film Mr. & Mrs. Smith (2005), the horror film World War Z (2013), and the action film Bullet Train (2022).</p><p>Pitt won the Academy Award for Best Supporting Actor for playing a stuntman in Quentin Tarantino's Once Upon a Time in Hollywood (2019). He was Oscar-nominated for his roles in the science fiction drama 12 Monkeys (1995), the fantasy romance The Curious Case of Benjamin Button (2008) and the sports drama Moneyball (2011). He also starred in acclaimed films such as Babel (2006), The Assassination of Jesse James by the Coward Robert Ford (2007), Burn After Reading (2008), Inglourious Basterds (2009), The Tree of Life (2011), and The Big Short (2015).</p><p>In 2001, Pitt co-founded the production company Plan B Entertainment. As a producer he won the Academy Award for Best Picture for 12 Years a Slave (2013) and was nominated for Moneyball (2011) and The Big Short (2015). Pitt was named People's Sexiest Man Alive in 1995 and 2000.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 225.70247477753608,
+            "ascendant": 8
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 346.48485083912806,
+                "cusp_degree": 16.484850839128057,
+                "motion_speed": 0.044988395541343575,
+                "zodiac": 12,
+                "house": 5,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 242.506963520767,
+                "cusp_degree": 2.5069635207669876,
+                "motion_speed": 1.0181979015377354,
+                "zodiac": 9,
+                "house": 2,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 269.4110350626676,
+                "cusp_degree": 29.411035062667622,
+                "motion_speed": 12.269607952771318,
+                "zodiac": 9,
+                "house": 2,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 270.1138743051395,
+                "cusp_degree": 0.11387430513951813,
+                "motion_speed": 1.2410240243442063,
+                "zodiac": 10,
+                "house": 3,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 256.67311746953897,
+                "cusp_degree": 16.673117469538965,
+                "motion_speed": 0.7679308548820108,
+                "zodiac": 9,
+                "house": 2,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 262.7542662005481,
+                "cusp_degree": 22.754266200548102,
+                "motion_speed": 1.0286262430800843,
+                "zodiac": 9,
+                "house": 2,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 295.79450754994366,
+                "cusp_degree": 25.79450754994366,
+                "motion_speed": 0.08738052203213659,
+                "zodiac": 10,
+                "house": 3,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 77.81461483166609,
+                "cusp_degree": 17.81461483166609,
+                "motion_speed": 0.011835401200401713,
+                "zodiac": 3,
+                "house": 8,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 78.72068066957827,
+                "cusp_degree": 18.72068066957827,
+                "motion_speed": -0.05299200627193362,
+                "zodiac": 3,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 258.72068066957826,
+                "motion_speed": -0.05299200627193362,
+                "cusp_degree": 18.720680669578257,
+                "zodiac": 9,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 257.81461483166606,
+                "motion_speed": 0.011835401200401713,
+                "cusp_degree": 17.814614831666063,
+                "zodiac": 9,
+                "house": 2,
+                "motion": "R"
+            }
+        }
+    }
+}

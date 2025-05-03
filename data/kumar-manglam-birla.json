@@ -1,0 +1,112 @@
+{
+    "request": {
+        "name": "Kumar Mangalam Birla (Businessman)",
+        "year": 1967,
+        "month": 6,
+        "day": 14,
+        "hour": 8,
+        "minute": 45,
+        "second": 0,
+        "latitude": 22.5726459,
+        "longitude": 88.3638953,
+        "location": "Kolkata, West Bengal",
+        "agyat_rating": "AA",
+        "about": "<p>Kumar Mangalam Birla (born 14 June 1967) is an Indian billionaire businessman. He is the chairman of the Aditya Birla Group, one of the largest conglomerates in India. He is the chancellor of the Birla Institute of Technology & Science, Pilani and former chairman of Indian Institute of Management Ahmedabad. In 2023, Birla received the Padma Bhushan, the third highest civilian honour in India.</p><p>As of December 2024, Forbes estimated his net worth at US$23.1 billion.</p><p>Born to Aditya Vikram Birla, the eldest of two children, he took over as chairman of the Aditya Birla Group in 1995, at the age of 28, following the death of his father. During Birla's tenure as chairman, the group's annual turnover increased from US$2 billion in 1995 to US$66 billion as of March 2024, with operations in 40 countries.<p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 105.22901882482776,
+            "ascendant": 4
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 100.43092855025373,
+                "cusp_degree": 10.430928550253725,
+                "motion_speed": 0.1900673217807527,
+                "zodiac": 4,
+                "house": 1,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 58.98392394843499,
+                "cusp_degree": 28.98392394843499,
+                "motion_speed": 0.9554155672395125,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 131.48111483351158,
+                "cusp_degree": 11.481114833511583,
+                "motion_speed": 13.838239616617505,
+                "zodiac": 5,
+                "house": 2,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 104.18701881071979,
+                "cusp_degree": 14.187018810719792,
+                "motion_speed": 1.0020038872006938,
+                "zodiac": 4,
+                "house": 1,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 173.69942395885434,
+                "cusp_degree": 23.69942395885434,
+                "motion_speed": 0.21681512063754185,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 83.13543288122433,
+                "cusp_degree": 23.135432881224332,
+                "motion_speed": 0.8621221917571147,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 347.671933980306,
+                "cusp_degree": 17.671933980305994,
+                "motion_speed": 0.06537923422227782,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 12.434981499903987,
+                "cusp_degree": 12.434981499903987,
+                "motion_speed": -0.038310846470225327,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 11.229788976046528,
+                "cusp_degree": 11.229788976046528,
+                "motion_speed": -0.052992035999693134,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 191.22978897604654,
+                "motion_speed": -0.052992035999693134,
+                "cusp_degree": 11.229788976046535,
+                "zodiac": 7,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 192.43498149990398,
+                "motion_speed": -0.038310846470225327,
+                "cusp_degree": 12.434981499903984,
+                "zodiac": 7,
+                "house": 4,
+                "motion": "R"
+            }
+        }
+    }
+}

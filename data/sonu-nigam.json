@@ -1,0 +1,112 @@
+{
+    "request": {
+        "name": "Sonu Nigam (Singar)",
+        "year": 1973,
+        "month": 7,
+        "day": 30,
+        "hour": 7,
+        "minute": 30,
+        "second": 0,
+        "latitude": 28.4031478,
+        "longitude": 77.3105561,
+        "location": "Faridabad, Uttar Pradesh",
+        "agyat_rating": "AA",
+        "about": "<p>Sonu Nigam (born 30 July 1973) is an Indian playback singer, music director, dubbing artist and actor. He is known as one of the most versatile singers with one of the widest vocal ranges in the history of Indian music. His songs vary from romantic to breakup, classical to devotional, Party to patriotic, ghazals to qawwali and rock to pop. Nigam is considered one of the greatest and most successful singers of all time in the history of Indian music industry.</p><p>Nigam sings predominantly in Hindi and Kannada language films. He has recorded over 6,000 songs in more than 32 languages throughout his career. He has released a number of non-film albums and acted in some Hindi films. Nigam has been awarded one National Film Award, two Filmfare Awards and two Filmfare Awards South and four IIFA Award for the Best Playback singer. He was ranked top artist on the Billboard Uncharted charts twice in September and October 2013. Nigam was honoured with the Padma Shri, India's fourth-highest civilian award in 2022</p>.<p>Nigam is known as the \"Modern Rafi\", a title given to him after his musical idol Mohammad Rafi. Apart from Hindi and Kannada, he has sung in Bengali, Marathi, Telugu, Tamil, Odia, English, Assamese, Malayalam, Gujarati, Bhojpuri, Nepali, Tulu, Maithili, and Manipuri. Overall, he has sung in more than 32 languages. Nigam has released pop albums in Hindi, Kannada, Odia, Chhattisgarhi and Punjabi, as well as Hindu and Islamic devotional albums. He has released several Buddhist albums. Nigam has performed in countries in North America, Europe, the Middle East, Africa, Asia and Australia.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 120.90305100727419,
+            "ascendant": 5
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 283.7717348115358,
+                "cusp_degree": 13.771734811535794,
+                "motion_speed": -0.12999742927698038,
+                "zodiac": 10,
+                "house": 6,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 103.2652713616885,
+                "cusp_degree": 13.265271361688505,
+                "motion_speed": 0.9565912357490147,
+                "zodiac": 4,
+                "house": 12,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 107.09650080308217,
+                "cusp_degree": 17.096500803082165,
+                "motion_speed": 14.757869442822203,
+                "zodiac": 4,
+                "house": 12,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 132.51574756349444,
+                "cusp_degree": 12.515747563494443,
+                "motion_speed": 1.2065065732113667,
+                "zodiac": 5,
+                "house": 1,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 0.011158289291763778,
+                "cusp_degree": 0.011158289291763778,
+                "motion_speed": 0.520424473951946,
+                "zodiac": 1,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 89.40204064053385,
+                "cusp_degree": 29.402040640533855,
+                "motion_speed": -0.08409730181219596,
+                "zodiac": 3,
+                "house": 11,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 66.18686665089281,
+                "cusp_degree": 6.18686665089281,
+                "motion_speed": 0.11291587640888703,
+                "zodiac": 3,
+                "house": 11,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 253.9802752416319,
+                "cusp_degree": 13.980275241631887,
+                "motion_speed": -0.05054943316260163,
+                "zodiac": 9,
+                "house": 5,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 252.63635690994602,
+                "cusp_degree": 12.636356909946016,
+                "motion_speed": -0.052992063236599794,
+                "zodiac": 9,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 72.63635690994602,
+                "motion_speed": -0.052992063236599794,
+                "cusp_degree": 12.636356909946016,
+                "zodiac": 3,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 73.98027524163189,
+                "motion_speed": -0.05054943316260163,
+                "cusp_degree": 13.980275241631887,
+                "zodiac": 3,
+                "house": 11,
+                "motion": "R"
+            }
+        }
+    }
+}

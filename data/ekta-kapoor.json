@@ -1,0 +1,112 @@
+{
+    "request": {
+        "name": "Ekta Kapoor (Producer/Director)",
+        "year": 1975,
+        "month": 6,
+        "day": 7,
+        "hour": 9,
+        "minute": 45,
+        "second": 0,
+        "latitude": 19.054999,
+        "longitude": 72.8692035,
+        "location": "Mumbai, Maharashtra",
+        "agyat_rating": "AA",
+        "about": "<p>Ekta Kapoor (born 7 June 1975) is an Indian film and television producer and director who works in Hindi cinema and soap operas. She is the joint managing director and creative head of Balaji Telefilms Limited, which was founded in 1994. In 2001, Balaji Motion Pictures was launched as a subsidiary company of Balaji Telefilms Limited, which is a film production and distribution company. In April 2017, she launched ALTBalaji, a video on demand platform.</p><p>In 2017, Kapoor also launched her biography, Kingdom of the Soap Queen: The Story of Balaji Telefilms.</p><p>Kapoor was honored with the Padma Shri in 2020 for her work in the field of arts.</p><p>She is also honored with the 2023 International Emmy Directorate Award at the 51st International Emmy Awards.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 97.45349553843639,
+            "ascendant": 4
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 354.35738907083754,
+                "cusp_degree": 24.35738907083754,
+                "motion_speed": 0.17901316696534464,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 52.28702293866808,
+                "cusp_degree": 22.28702293866808,
+                "motion_speed": 0.9571509762983239,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 20.38073306493022,
+                "cusp_degree": 20.38073306493022,
+                "motion_speed": 12.713988581996682,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 97.2102750397629,
+                "cusp_degree": 7.210275039762905,
+                "motion_speed": 1.0275203542333011,
+                "zodiac": 4,
+                "house": 1,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 349.03345444061665,
+                "cusp_degree": 19.03345444061665,
+                "motion_speed": 0.7398740973763412,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 57.67861955613461,
+                "cusp_degree": 27.678619556134613,
+                "motion_speed": -0.5030974289606882,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 84.15804734180941,
+                "cusp_degree": 24.158047341809407,
+                "motion_speed": 0.11693495229110601,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 217.41777444286416,
+                "cusp_degree": 7.417774442864157,
+                "motion_speed": 0.014049930699248193,
+                "zodiac": 8,
+                "house": 5,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 216.75577846682432,
+                "cusp_degree": 6.755778466824324,
+                "motion_speed": -0.052992044838645225,
+                "zodiac": 8,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 36.755778466824324,
+                "motion_speed": -0.052992044838645225,
+                "cusp_degree": 6.755778466824324,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 37.41777444286413,
+                "motion_speed": 0.014049930699248193,
+                "cusp_degree": 7.417774442864129,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "R"
+            }
+        }
+    }
+}

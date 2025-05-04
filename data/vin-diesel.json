@@ -1,0 +1,112 @@
+{
+    "request": {
+        "name": "Vin Diesel (Actor/Writer/Director/Producer)",
+        "year": 1967,
+        "month": 7,
+        "day": 18,
+        "hour": 14,
+        "minute": 45,
+        "second": 0,
+        "latitude": 37.6090291,
+        "longitude": -121.899142,
+        "location": "Alameda, United States",
+        "agyat_rating": "AC (Corrected)",
+        "about": "<p>Mark Sinclair (born July 18, 1967), known professionally as Vin Diesel, is an American actor and film producer. One of the world's highest-grossing actors, he is best known for portraying Dominic \"Dom\" Toretto in the Fast & Furious franchise.</p><p>Born in California, Diesel attended Hunter College in New York City, where studies in creative writing led him to begin screenwriting. He wrote, directed, produced, and starred in the short drama film Multi-Facial (1995) and his debut feature Strays (1997). He came to prominence in the late 1990s and first became known for appearing in Steven Spielberg's Saving Private Ryan in 1998. He followed up with commercially successful films such as Boiler Room (2000) and The Pacifier (2005). He gained stardom as a leading action star headlining numerous franchises, including Fast & Furious, XXX, and The Chronicles of Riddick.</p><p>His voice acting work includes The Iron Giant (1999), the video games The Chronicles of Riddick: Escape from Butcher Bay (2004) and The Chronicles of Riddick: Assault on Dark Athena (2009), and the voices of Groot I and Groot II in the Marvel Cinematic Universe (MCU); he portrayed the characters in six superhero films, beginning with Guardians of the Galaxy (2014). Diesel has reprised his role as Groot for the Disney+ animated shorts series I Am Groot (2022–2023), the television special The Guardians of the Galaxy Holiday Special (2022), and the animated film Ralph Breaks the Internet (2018).</p><p>He founded the production company One Race Films, where he has also served as a producer or executive producer for his star vehicles. Diesel also founded the record label Racetrack Records and video game developer Tigon Studios, providing his voice and motion capture for all of Tigon's releases.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 208.18672911838942,
+            "ascendant": 7
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 107.57193823744197,
+                "cusp_degree": 17.57193823744197,
+                "motion_speed": 0.21583424846382662,
+                "zodiac": 4,
+                "house": 10,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 92.20028910310711,
+                "cusp_degree": 2.20028910310711,
+                "motion_speed": 0.9539000692038051,
+                "zodiac": 4,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 238.31837830418132,
+                "cusp_degree": 28.318378304181323,
+                "motion_speed": 13.899787151519039,
+                "zodiac": 8,
+                "house": 2,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 133.57133333288044,
+                "cusp_degree": 13.571333332880442,
+                "motion_speed": 0.6061604523658537,
+                "zodiac": 5,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 186.1209094312507,
+                "cusp_degree": 6.120909431250709,
+                "motion_speed": 0.46932290873155036,
+                "zodiac": 7,
+                "house": 1,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 78.9636264176132,
+                "cusp_degree": 18.9636264176132,
+                "motion_speed": -0.13903819241021256,
+                "zodiac": 3,
+                "house": 9,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 349.02779758293764,
+                "cusp_degree": 19.027797582937637,
+                "motion_speed": 0.010562227342079903,
+                "zodiac": 12,
+                "house": 6,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 9.988956792255513,
+                "cusp_degree": 9.988956792255513,
+                "motion_speed": -0.12234688956411989,
+                "zodiac": 1,
+                "house": 7,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 9.384414598141133,
+                "cusp_degree": 9.384414598141133,
+                "motion_speed": -0.052992068918840646,
+                "zodiac": 1,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 189.38441459814112,
+                "motion_speed": -0.052992068918840646,
+                "cusp_degree": 9.38441459814112,
+                "zodiac": 7,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 189.98895679225552,
+                "motion_speed": -0.12234688956411989,
+                "cusp_degree": 9.988956792255522,
+                "zodiac": 7,
+                "house": 1,
+                "motion": "R"
+            }
+        }
+    }
+}

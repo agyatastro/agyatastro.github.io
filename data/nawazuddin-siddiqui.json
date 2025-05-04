@@ -1,0 +1,112 @@
+{
+    "request": {
+        "name": "Nawazuddin Siddiqui (Actor)",
+        "year": 1974,
+        "month": 5,
+        "day": 19,
+        "hour": 14,
+        "minute": 0,
+        "second": 0,
+        "latitude": 29.4811507,
+        "longitude": 77.2901344,
+        "location": "Shamli, Uttar Pradesh",
+        "agyat_rating": "AX",
+        "about": "<p>Nawazuddin Siddiqui ([nəˈwaːzʊdːiːn sɪdːiːqi:]; born 19 May 1974) is an Indian actor known for his work in Hindi cinema. He is the recipient of various accolades, including a National Film Award, an IIFA Award, and two Filmfare Awards, as well as a nomination for an International Emmy. After studying acting at the National School of Drama, Siddiqui had minor roles in films such as Sarfarosh (1999), Shool (1999), and Munna Bhai M.B.B.S (2003).</p><p>Siddiqui first gained recognition for his role in Anurag Kashyap's Black Friday (2004) and the 2012 Gangs of Wasseypur duology. Further success came for his supporting roles in The Lunchbox (2013), for which he won a Filmfare Award for Best Supporting Actor; Kick (2014); and Bajrangi Bhaijaan (2015). He went on to gain critical acclaim for his roles in Raman Raghav 2.0 (2016), Raees (2017), Mom (2017), and Manto (2018).</p><p>He has also starred in two Emmy-nominated series, Sacred Games (2018–2019) and the British McMafia (2018).</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 144.12048618215667,
+            "ascendant": 5
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 320.69710347537807,
+                "cusp_degree": 20.69710347537807,
+                "motion_speed": 0.13984789837859135,
+                "zodiac": 11,
+                "house": 7,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 34.47188710633829,
+                "cusp_degree": 4.4718871063382934,
+                "motion_speed": 0.9630213294076625,
+                "zodiac": 2,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 1.9776197769197161,
+                "cusp_degree": 1.9776197769197161,
+                "motion_speed": 13.428387775383245,
+                "zodiac": 1,
+                "house": 9,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 352.78166049578266,
+                "cusp_degree": 22.78166049578266,
+                "motion_speed": 1.1375620632076577,
+                "zodiac": 12,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 83.90811738700059,
+                "cusp_degree": 23.908117387000587,
+                "motion_speed": 0.6052457452433717,
+                "zodiac": 3,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 50.6609912138837,
+                "cusp_degree": 20.660991213883698,
+                "motion_speed": 1.8383255744860805,
+                "zodiac": 2,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 69.55129396333658,
+                "cusp_degree": 9.551293963336576,
+                "motion_speed": 0.11462875208362215,
+                "zodiac": 3,
+                "house": 11,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 236.02487948984995,
+                "cusp_degree": 26.02487948984995,
+                "motion_speed": -0.05275553923605135,
+                "zodiac": 8,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 237.09533726100057,
+                "cusp_degree": 27.095337261000566,
+                "motion_speed": -0.05299202929967476,
+                "zodiac": 8,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 57.095337261000566,
+                "motion_speed": -0.05299202929967476,
+                "cusp_degree": 27.095337261000566,
+                "zodiac": 2,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 56.02487948984992,
+                "motion_speed": -0.05275553923605135,
+                "cusp_degree": 26.024879489849923,
+                "zodiac": 2,
+                "house": 10,
+                "motion": "R"
+            }
+        }
+    }
+}

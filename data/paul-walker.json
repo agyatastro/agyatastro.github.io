@@ -1,0 +1,112 @@
+{
+    "request": {
+        "name": "Paul Walker (Actor)",
+        "year": 1973,
+        "month": 8,
+        "day": 12,
+        "hour": 5,
+        "minute": 59,
+        "second": 0,
+        "latitude": 34.1469416,
+        "longitude": -118.2478471,
+        "location": "Glendale, United States",
+        "agyat_rating": "AA",
+        "about": "<p>Paul William Walker IV (September 12, 1973 – November 30, 2013) was an American actor. He was best known for his role as Brian O'Conner in the Fast & Furious franchise.</p><p>Paul Walker began his career as a child actor in the 1980s, gaining recognition in the 1990s after appearing in the television soap opera The Young and the Restless; he received praise for his performances in the teen comedy She's All That and the comedy-drama Varsity Blues (both 1999), and rose to international fame by starring in The Fast and the Furious (2001).</p><p>He also starred in the commercially successful road thriller Joy Ride (2001), becoming an action star. He followed this with the box-office disappointments Into the Blue (2005) and Running Scared (2006), although he earned praise for his performance in the survival drama Eight Below and for his portrayal of Hank Hansen in Flags of Our Fathers (both 2006). Outside of these, Walker largely appeared in low-budget action films, but starred in the commercially successful heist film Takers (2010).</p><p>Walker died in a single-vehicle collision on November 30, 2013, as a passenger in a speeding car. His father and daughter filed separate wrongful death lawsuits against Porsche, which resulted in settlements. At the time of his death, Walker had not completed filming Furious 7 (2015); it was released after rewrites and stand-ins, including his brothers Cody and Caleb, were used to complete the film while the song \"See You Again\" by Wiz Khalifa and Charlie Puth was commissioned as a tribute.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 123.71622154572356,
+            "ascendant": 5
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 282.0501993781321,
+                "cusp_degree": 12.050199378132106,
+                "motion_speed": -0.12203335792250601,
+                "zodiac": 10,
+                "house": 6,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 116.2079398475042,
+                "cusp_degree": 26.207939847504207,
+                "motion_speed": 0.9595921471544764,
+                "zodiac": 4,
+                "house": 12,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 279.03569397481755,
+                "cusp_degree": 9.035693974817548,
+                "motion_speed": 12.135775896743857,
+                "zodiac": 10,
+                "house": 6,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 148.76527490390006,
+                "cusp_degree": 28.765274903900064,
+                "motion_speed": 1.1985326585257523,
+                "zodiac": 5,
+                "house": 1,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 6.487248028596662,
+                "cusp_degree": 6.487248028596662,
+                "motion_speed": 0.4342668528306266,
+                "zodiac": 1,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 97.85154851980788,
+                "cusp_degree": 7.851548519807878,
+                "motion_speed": 1.3132405747084357,
+                "zodiac": 4,
+                "house": 12,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 67.63318246667534,
+                "cusp_degree": 7.633182466675336,
+                "motion_speed": 0.10067485247636829,
+                "zodiac": 3,
+                "house": 11,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 253.6192592203339,
+                "cusp_degree": 13.619259220333902,
+                "motion_speed": -0.06374438944899616,
+                "zodiac": 9,
+                "house": 5,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 251.92041236585285,
+                "cusp_degree": 11.920412365852854,
+                "motion_speed": -0.05299204658998317,
+                "zodiac": 9,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 71.92041236585283,
+                "motion_speed": -0.05299204658998317,
+                "cusp_degree": 11.920412365852826,
+                "zodiac": 3,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 73.6192592203339,
+                "motion_speed": -0.06374438944899616,
+                "cusp_degree": 13.619259220333902,
+                "zodiac": 3,
+                "house": 11,
+                "motion": "R"
+            }
+        }
+    }
+}

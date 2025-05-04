@@ -1,0 +1,112 @@
+{
+    "request": {
+        "name": "Jeremy Renner (Actor)",
+        "year": 1971,
+        "month": 1,
+        "day": 7,
+        "hour": 0,
+        "minute": 6,
+        "second": 0,
+        "latitude": 37.6393419,
+        "longitude": -120.9968892,
+        "location": "Modesto, United States",
+        "agyat_rating": "AA",
+        "about": "<p>Jeremy Lee Renner (born January 7, 1971) is an American actor. He began his career by appearing in independent films such as Dahmer (2002) and Neo Ned (2005), then supporting roles in bigger films, such as S.W.A.T. (2003) and 28 Weeks Later (2007). Renner gained Academy Award nominations for Best Actor for his performance as a soldier in The Hurt Locker (2009) and for Best Supporting Actor for playing a hot-headed robber in The Town (2010).</p><p>Renner has played Clint Barton / Hawkeye in the Marvel Cinematic Universe, including in The Avengers (2012) and in the Disney+ miniseries Hawkeye (2021). He also appeared in the action films Mission: Impossible – Ghost Protocol (2011), The Bourne Legacy (2012), Hansel & Gretel: Witch Hunters (2013) and Mission: Impossible – Rogue Nation (2015); and the dramas American Hustle (2013), Arrival (2016), and Wind River (2017). Since 2021, he has starred in the Paramount+ crime thriller series Mayor of Kingstown.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 168.9159960603126,
+            "ascendant": 6
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 215.30455104855702,
+                "cusp_degree": 5.304551048557016,
+                "motion_speed": 0.18142786012920506,
+                "zodiac": 8,
+                "house": 3,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 262.9141156781403,
+                "cusp_degree": 22.91411567814032,
+                "motion_speed": 1.0189877030887045,
+                "zodiac": 9,
+                "house": 4,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 32.56872201570373,
+                "cusp_degree": 2.5687220157037274,
+                "motion_speed": 13.390787069153854,
+                "zodiac": 2,
+                "house": 9,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 216.80706034541157,
+                "cusp_degree": 6.807060345411571,
+                "motion_speed": 0.9005533346766686,
+                "zodiac": 8,
+                "house": 3,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 206.61289420469504,
+                "cusp_degree": 26.61289420469504,
+                "motion_speed": 0.6324215588221538,
+                "zodiac": 7,
+                "house": 2,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 244.41168614113218,
+                "cusp_degree": 4.411686141132179,
+                "motion_speed": -0.1305899084920219,
+                "zodiac": 9,
+                "house": 4,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 22.33993862426603,
+                "cusp_degree": 22.33993862426603,
+                "motion_speed": -0.01903249887983458,
+                "zodiac": 1,
+                "house": 8,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 300.83438865509686,
+                "cusp_degree": 0.8343886550968591,
+                "motion_speed": -0.0895918478774867,
+                "zodiac": 11,
+                "house": 6,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 302.16985812387435,
+                "cusp_degree": 2.1698581238743486,
+                "motion_speed": -0.05299208216455922,
+                "zodiac": 11,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 122.16985812387435,
+                "motion_speed": -0.05299208216455922,
+                "cusp_degree": 2.1698581238743486,
+                "zodiac": 5,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 120.83438865509686,
+                "motion_speed": -0.0895918478774867,
+                "cusp_degree": 0.8343886550968591,
+                "zodiac": 5,
+                "house": 12,
+                "motion": "R"
+            }
+        }
+    }
+}

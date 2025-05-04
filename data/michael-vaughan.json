@@ -1,0 +1,112 @@
+{
+    "request": {
+        "name": "Michael Vaughan (Sportsman/Cricketer)",
+        "year": 1974,
+        "month": 10,
+        "day": 29,
+        "hour": 10,
+        "minute": 52,
+        "second": 0,
+        "latitude": 50.2056124,
+        "longitude": 4.1016247,
+        "location": "Eccles, United Kingdom",
+        "agyat_rating": "AA",
+        "about": "<p>Michael Paul Vaughan OBE (born 29 October 1974) is an English cricket commentator and former cricketer who played all forms of the game. He served as England captain for the test team from 2003 to 2008, the one-day international team from 2003 to 2007, and was the first Twenty20 England captain from 2005 to 2007. He represented Yorkshire in the domestic arena.</p><p>Vaughan was a right-handed opening batter, who forged a successful England partnership with Marcus Trescothick, though he often batted in the middle order for England. He was ranked one of the best batters in the world following the 2002/03 Ashes, in which he scored 633 runs, including three centuries.</p><p>Vaughan captained England in 51 Tests, winning 26 (a then-national record) and losing 11; England won all seven home Tests of the 2004 summer under Vaughan, and the pinnacle of his captaincy career came with a 2–1 victory in the 2005 Ashes, England's first Ashes victory in 18 years (since 1986/87). However, a recurring knee injury, his decision to move down the batting order to accommodate other opening batsmen (Andrew Strauss and Alastair Cook) and the pressures of captaincy took their toll on Vaughan's batting during the latter part of his career: in Tests, he averaged 50.95 when not captain, and 36.02 as captain. Vaughan announced his retirement from first-class cricket on 30 June 2009.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 238.6322327815247,
+            "ascendant": 8
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 314.52107595389083,
+                "cusp_degree": 14.52107595389083,
+                "motion_speed": -0.01724135150867625,
+                "zodiac": 11,
+                "house": 4,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 192.12257921846603,
+                "cusp_degree": 12.12257921846603,
+                "motion_speed": 0.9985610883080537,
+                "zodiac": 7,
+                "house": 12,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 352.96762695640723,
+                "cusp_degree": 22.96762695640723,
+                "motion_speed": 12.712382426310564,
+                "zodiac": 12,
+                "house": 5,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 190.06921387423805,
+                "cusp_degree": 10.069213874238045,
+                "motion_speed": 1.253599387004262,
+                "zodiac": 7,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 187.26632063827682,
+                "cusp_degree": 7.266320638276824,
+                "motion_speed": 0.6737436607095182,
+                "zodiac": 7,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 183.80380922117845,
+                "cusp_degree": 3.8038092211784544,
+                "motion_speed": -0.9312951054589387,
+                "zodiac": 7,
+                "house": 12,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 85.39423943276738,
+                "cusp_degree": 25.394239432767378,
+                "motion_speed": 0.0040258471427197465,
+                "zodiac": 3,
+                "house": 8,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 227.15592928257624,
+                "cusp_degree": 17.15592928257624,
+                "motion_speed": -0.10240093999845301,
+                "zodiac": 8,
+                "house": 1,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 228.45189412139192,
+                "cusp_degree": 18.451894121391916,
+                "motion_speed": -0.05299206198224153,
+                "zodiac": 8,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 48.45189412139189,
+                "motion_speed": -0.05299206198224153,
+                "cusp_degree": 18.451894121391888,
+                "zodiac": 2,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 47.15592928257627,
+                "motion_speed": -0.10240093999845301,
+                "cusp_degree": 17.155929282576267,
+                "zodiac": 2,
+                "house": 7,
+                "motion": "R"
+            }
+        }
+    }
+}

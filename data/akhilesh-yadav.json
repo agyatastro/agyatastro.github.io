@@ -1,0 +1,112 @@
+{
+    "request": {
+        "name": "Akhilesh Yadav (Politician)",
+        "year": 1972,
+        "month": 10,
+        "day": 24,
+        "hour": 5,
+        "minute": 26,
+        "second": 0,
+        "latitude": 26.7155629,
+        "longitude": 79.0917098,
+        "location": "Etawah, Uttar Pradesh",
+        "agyat_rating": "AA",
+        "about": "<p>Akhilesh Yadav (pronunciationⓘ; born 1 July 1973) is an Indian politician and national president of the Samajwadi Party who served as the 20th Chief Minister of Uttar Pradesh. Having assumed the chief minister's office on 15 March 2012 at the age of 38, he is the youngest person to have held the office till date. He is the incumbent Member of Parliament for Kannauj in the 18th Lok Sabha. He is the parliamentary party leader of Samajwadi Party in 18th Lok Sabha. Earlier, he was an elected as the Member of Legislative Assembly for Karhal in the 18th Vidhan Sabha, before resigning and has also been the Leader of Opposition in the Uttar Pradesh Legislative Assembly from March 2022 to June 2024.</p><p>His first significant success in politics was being elected as the Member of the 13th Lok Sabha in the year 2000 ( by-poll) for the Kannauj constituency. He is the son of Mulayam Singh Yadav, a veteran Indian politician and the founder of Samajwadi Party who served as Minister of Defence, Government of India and served three terms as the Chief Minister of Uttar Pradesh.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 169.91557909883934,
+            "ascendant": 6
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 250.1377609795216,
+                "cusp_degree": 10.137760979521602,
+                "motion_speed": 0.1591706050179552,
+                "zodiac": 9,
+                "house": 4,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 187.17722141156113,
+                "cusp_degree": 7.177221411561135,
+                "motion_speed": 0.9959701412790695,
+                "zodiac": 7,
+                "house": 2,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 27.391958165485452,
+                "cusp_degree": 27.391958165485452,
+                "motion_speed": 15.181557822075261,
+                "zodiac": 1,
+                "house": 8,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 148.25490933631315,
+                "cusp_degree": 28.254909336313148,
+                "motion_speed": 1.1874166828268724,
+                "zodiac": 5,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 171.4440314109823,
+                "cusp_degree": 21.44403141098229,
+                "motion_speed": 0.6524583135715782,
+                "zodiac": 6,
+                "house": 1,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 207.67985283946575,
+                "cusp_degree": 27.679852839465752,
+                "motion_speed": 1.3596551309692104,
+                "zodiac": 7,
+                "house": 2,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 56.70307067281116,
+                "cusp_degree": 26.703070672811158,
+                "motion_speed": -0.038187690958727656,
+                "zodiac": 2,
+                "house": 9,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 266.83313430754305,
+                "cusp_degree": 26.833134307543048,
+                "motion_speed": -0.1544993945179152,
+                "zodiac": 9,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 267.42569948511886,
+                "cusp_degree": 27.425699485118855,
+                "motion_speed": -0.05299203080252283,
+                "zodiac": 9,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 87.42569948511886,
+                "motion_speed": -0.05299203080252283,
+                "cusp_degree": 27.425699485118855,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 86.83313430754305,
+                "motion_speed": -0.1544993945179152,
+                "cusp_degree": 26.833134307543048,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "R"
+            }
+        }
+    }
+}

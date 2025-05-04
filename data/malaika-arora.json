@@ -1,0 +1,112 @@
+{
+    "request": {
+        "name": "Malaika Arora (Actor/Dancer/Model)",
+        "year": 1973,
+        "month": 10,
+        "day": 23,
+        "hour": 8,
+        "minute": 53,
+        "second": 0,
+        "latitude": 19.1943294,
+        "longitude": 72.9701779,
+        "location": "Thane, Maharashtra",
+        "agyat_rating": "AA",
+        "about": "Malaika Arora (born 23 October 1973) is an Indian actress, dancer, model, VJ and television personality who appears in Hindi-language films. She made her debut as a film producer in 2008 with her former husband Arbaaz Khan, founding the company Arbaaz Khan Productions, which created the Dabangg film series. As an actress, she has starred in films like Kaante (2002) and EMI (2008). She also performed in the songs Chaiyya Chaiyya (1998), Gur Naalo Ishq Mitha (1998), Maahi Ve (2002), Kaal Dhamaal (2005) and Munni Badnaam Hui (2010)."
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 211.5101071180663,
+            "ascendant": 8
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 279.76958359419496,
+                "cusp_degree": 9.769583594194955,
+                "motion_speed": 0.07797406929731981,
+                "zodiac": 10,
+                "house": 3,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 186.06890378008495,
+                "cusp_degree": 6.068903780084952,
+                "motion_speed": 0.9960093460111363,
+                "zodiac": 7,
+                "house": 12,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 149.5525541810101,
+                "cusp_degree": 29.552554181010095,
+                "motion_speed": 13.444662803120872,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 231.9279603156262,
+                "cusp_degree": 21.927960315626194,
+                "motion_speed": 1.1009686599151114,
+                "zodiac": 8,
+                "house": 1,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 8.760718135685055,
+                "cusp_degree": 8.760718135685055,
+                "motion_speed": -0.3380349165783923,
+                "zodiac": 1,
+                "house": 6,
+                "motion": "R"
+            },
+            "Mercury": {
+                "degree": 210.06735220798583,
+                "cusp_degree": 0.06735220798583441,
+                "motion_speed": 0.7469391413417357,
+                "zodiac": 8,
+                "house": 1,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 71.22531437767935,
+                "cusp_degree": 11.225314377679354,
+                "motion_speed": -0.011064737808261881,
+                "zodiac": 3,
+                "house": 8,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 247.1691232139033,
+                "cusp_degree": 7.169123213903305,
+                "motion_speed": -0.15403490456682048,
+                "zodiac": 9,
+                "house": 2,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 248.12897909575815,
+                "cusp_degree": 8.128979095758154,
+                "motion_speed": -0.05299202980260896,
+                "zodiac": 9,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 68.12897909575815,
+                "motion_speed": -0.05299202980260896,
+                "cusp_degree": 8.128979095758154,
+                "zodiac": 3,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 67.16912321390328,
+                "motion_speed": -0.15403490456682048,
+                "cusp_degree": 7.169123213903276,
+                "zodiac": 3,
+                "house": 8,
+                "motion": "R"
+            }
+        }
+    }
+}

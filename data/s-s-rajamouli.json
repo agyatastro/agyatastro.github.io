@@ -1,0 +1,112 @@
+{
+    "request": {
+        "name": "S. S. Rajamouli (Director/Writer)",
+        "year": 1973,
+        "month": 10,
+        "day": 10,
+        "hour": 6,
+        "minute": 30,
+        "second": 0,
+        "latitude": 16.0547194,
+        "longitude": 76.9003647,
+        "location": "Raichur, Andhra Pradesh",
+        "agyat_rating": "AA",
+        "about": "<p>Koduri Srisaila Sri Rajamouli (/ˈrɑːdʒəmaʊlɪ/ RAH-juh-mow-li; born 10 October 1973) is an Indian filmmaker who works in Telugu cinema. Known for his epic, action and fantasy genre films, he is the highest grossing Indian director of all time, as well as the highest-paid director in Indian cinema. Rajamouli is a recipient of various national and international honours including a New York Film Critics Circle award, a Critics' Choice Movie Award, two Saturn Awards, four National Film Awards, and five Filmfare Awards. In 2016, the Government of India honoured him with the Padma Shri, for his contributions in the field of art. In 2023, he was included on the Time's list of the 100 most influential people in the world.</p><p>Rajamouli has been described by film trade analyst Komal Nahta as \"the biggest Indian film director ever\" and by SOAS professor Rachel Dwyer as \"India's most significant director today\". He has directed twelve feature films, all of which have been box office successes. Three of his films—Baahubali: The Beginning (2015), Baahubali 2: The Conclusion (2017), and RRR (2022)—rank among the top 15 highest grossing-films in India. Each of these films was the most expensive Indian production at the time of its release. Baahubali 2 became the first Indian film to gross over ₹1,000 crore and held the record as the highest-grossing Indian film. It also sold over 100 million tickets, the highest for any film in India since Sholay (1975).</p><p>The 2009 fantasy action film, Magadheera was the highest-grossing Telugu film ever at the time of its release. Eega (2012) won nine awards at the Toronto After Dark Film Festival, including the Most Original Film. Baahubali films have received six Saturn Award nominations with Baahubali 2 winning the Best International Film. RRR received various international accolades including an Academy Award and a Golden Globe Award for the song \"Naatu Naatu\", and a Critics' Choice Movie Award for Best Foreign Language Film.</p><p>Rajamouli's films are typically characterized by their epic grandeur, stylized action sequences, unbridled heroism and larger-than-life characters with historical and mythological references. His films have been noted for their integration of CGI with practical effects. With his Baahubali films, he has pioneered the pan-Indian film movement. He is also credited for expanding the market of Telugu cinema and South Indian cinema into North India and international markets"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 170.82936816681962,
+            "ascendant": 6
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 279.01049464907953,
+                "cusp_degree": 9.010494649079533,
+                "motion_speed": 0.03747058113241511,
+                "zodiac": 10,
+                "house": 5,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 173.07561470840898,
+                "cusp_degree": 23.075614708408978,
+                "motion_speed": 0.9880003068381695,
+                "zodiac": 6,
+                "house": 1,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 326.5754942848153,
+                "cusp_degree": 26.575494284815306,
+                "motion_speed": 13.21656887127512,
+                "zodiac": 11,
+                "house": 6,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 217.2844016201337,
+                "cusp_degree": 7.284401620133707,
+                "motion_speed": 1.1331629461050516,
+                "zodiac": 8,
+                "house": 3,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 12.888126368427153,
+                "cusp_degree": 12.888126368427153,
+                "motion_speed": -0.27039997677742483,
+                "zodiac": 1,
+                "house": 8,
+                "motion": "R"
+            },
+            "Mercury": {
+                "degree": 196.17625209728985,
+                "cusp_degree": 16.176252097289847,
+                "motion_speed": 1.27392154371959,
+                "zodiac": 7,
+                "house": 2,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 71.2101747180581,
+                "cusp_degree": 11.210174718058099,
+                "motion_speed": 0.013303275452873915,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 248.36208927961525,
+                "cusp_degree": 8.362089279615248,
+                "motion_speed": -0.1868572619196191,
+                "zodiac": 9,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 248.82313801979626,
+                "cusp_degree": 8.82313801979626,
+                "motion_speed": -0.05299206297620085,
+                "zodiac": 9,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 68.82313801979626,
+                "motion_speed": -0.05299206297620085,
+                "cusp_degree": 8.82313801979626,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 68.36208927961525,
+                "motion_speed": -0.1868572619196191,
+                "cusp_degree": 8.362089279615248,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "R"
+            }
+        }
+    }
+}

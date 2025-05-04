@@ -1,0 +1,112 @@
+{
+    "request": {
+        "name": "Sourav Ganguly (Sportsman)",
+        "year": 1972,
+        "month": 7,
+        "day": 8,
+        "hour": 1,
+        "minute": 0,
+        "second": 0,
+        "latitude": 22.5726459,
+        "longitude": 88.3638953,
+        "location": "Kolkata, West Bengal",
+        "agyat_rating": "AA",
+        "about": "<p>Sourav Chandidas Ganguly (/sʃuːrəv ɡɛnɡuːlj/ ⓘ; natively spelled as Gangopadhyay; born 8 July 1972), also known as Dada (meaning \"elder brother\" in Bengali), is an Indian cricket commentator and former cricketer. He is popularly called the Maharaja of Indian Cricket. He was captain of the Indian national cricket team and is regarded as one of India's most successful cricket captains. As captain, he led Indian national team to win the 2002 ICC Champions Trophy and reach the final of the 2003 Cricket World Cup, the 2000 ICC Champions Trophy and the 2004 Asia Cup.</p><p>Ganguly scored 11363 runs in his ODI career which stands at ninth position in the world for most runs scored in ODI matches. He was the third batsman to cross the 10,000 runs in One day cricket, after Sachin Tendulkar and Inzamam Ul Haq. He holds the record for highest score in an innings (183) by an Indian batsman in the ODI Cricket World Cup. In 2002, the Wisden Cricketers' Almanack ranked him the sixth greatest ODI batsman of all time. He announced his retirement from international cricket in 2008 and from all forms of cricket in 2012.</p><p>Ganguly was awarded the fourth highest Indian civilian award, Padma Shri in 2004. He was elected as president of the Board of Control for Cricket in India in 2019. He is also a part of the Supreme Court of India appointed probe panel for the IPL Spot fixing and betting scandal's investigations.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 16.354476767697772,
+            "ascendant": 1
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 248.3440449310832,
+                "cusp_degree": 8.344044931083204,
+                "motion_speed": -0.12105583523126846,
+                "zodiac": 9,
+                "house": 9,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 82.25414775235744,
+                "cusp_degree": 22.25414775235744,
+                "motion_speed": 0.9536341168413337,
+                "zodiac": 3,
+                "house": 3,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 41.42298243535423,
+                "cusp_degree": 11.422982435354228,
+                "motion_speed": 14.608374557797188,
+                "zodiac": 2,
+                "house": 2,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 54.78072237936295,
+                "cusp_degree": 24.78072237936295,
+                "motion_speed": -0.054977543695039856,
+                "zodiac": 2,
+                "house": 2,
+                "motion": "R"
+            },
+            "Mars": {
+                "degree": 102.29942649240348,
+                "cusp_degree": 12.299426492403484,
+                "motion_speed": 0.6330142310607335,
+                "zodiac": 4,
+                "house": 4,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 108.40061919801644,
+                "cusp_degree": 18.400619198016443,
+                "motion_speed": 1.107821868973069,
+                "zodiac": 4,
+                "house": 4,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 51.195972238640536,
+                "cusp_degree": 21.195972238640536,
+                "motion_speed": 0.11781254669804168,
+                "zodiac": 2,
+                "house": 2,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 272.5583906134318,
+                "cusp_degree": 2.5583906134318113,
+                "motion_speed": -0.020098452484536757,
+                "zodiac": 10,
+                "house": 10,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 273.15862875368475,
+                "cusp_degree": 3.158628753684752,
+                "motion_speed": -0.0529920642305591,
+                "zodiac": 10,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 93.15862875368475,
+                "motion_speed": -0.0529920642305591,
+                "cusp_degree": 3.158628753684752,
+                "zodiac": 4,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 92.55839061343181,
+                "motion_speed": -0.020098452484536757,
+                "cusp_degree": 2.5583906134318113,
+                "zodiac": 4,
+                "house": 4,
+                "motion": "R"
+            }
+        }
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "request": {
+        "name": "K. T. Rama Rao (Politician)",
+        "year": 1975,
+        "month": 7,
+        "day": 24,
+        "hour": 5,
+        "minute": 10,
+        "second": 0,
+        "latitude": 18.0055851,
+        "longitude": 78.896113,
+        "location": "Siddipet, Telangana",
+        "agyat_rating": "AA",
+        "about": "<p>Kalvakuntla Taraka Rama Rao (born 24 July 1976), commonly known as KTR, is an Indian politician and Member of Legislative Assembly (MLA) of Telangana Legislative Assembly. He is a former Minister for Municipal Administration and Urban Development, Industries and Commerce, and Information Technology, Electronics and Communications of Telangana. He represents Sircilla assembly constituency in the Telangana Legislative Assembly, he is also the working president of the Bharat Rashtra Samithi.</p><p>He is the son of K. Chandrashekar Rao, former Chief Minister of Telangana and the founder of Telangana Rashtra Samithi (now Bharat Rashtra Samiti). Rama Rao has been awarded Most Inspirational Icon of the Year 2015 by CNN-IBN and Ritz Magazine. Rao visited Mahabububad for mega dharna on 25 November 2024.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 82.28448015252864,
+            "ascendant": 3
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 0.40909166880513,
+                "cusp_degree": 0.40909166880513,
+                "motion_speed": 0.06954102654979097,
+                "zodiac": 1,
+                "house": 11,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 96.95448848853894,
+                "cusp_degree": 6.954488488538942,
+                "motion_speed": 0.9545159772537481,
+                "zodiac": 4,
+                "house": 2,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 285.40143382312453,
+                "cusp_degree": 15.401433823124535,
+                "motion_speed": 12.26910497161404,
+                "zodiac": 10,
+                "house": 8,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 135.1421464447746,
+                "cusp_degree": 15.142146444774596,
+                "motion_speed": 0.4340096427507917,
+                "zodiac": 5,
+                "house": 3,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 22.305452478752134,
+                "cusp_degree": 22.305452478752134,
+                "motion_speed": 0.6728392951262837,
+                "zodiac": 1,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 87.36116105845815,
+                "cusp_degree": 27.36116105845815,
+                "motion_speed": 2.0505656611317447,
+                "zodiac": 3,
+                "house": 1,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 90.06510559191514,
+                "cusp_degree": 0.06510559191514176,
+                "motion_speed": 0.12908622358678468,
+                "zodiac": 4,
+                "house": 2,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 215.52748044650778,
+                "cusp_degree": 5.527480446507781,
+                "motion_speed": -0.1838561610541065,
+                "zodiac": 8,
+                "house": 6,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 214.27527268838594,
+                "cusp_degree": 4.2752726883859395,
+                "motion_speed": -0.05299204474282205,
+                "zodiac": 8,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 34.27527268838594,
+                "motion_speed": -0.05299204474282205,
+                "cusp_degree": 4.2752726883859395,
+                "zodiac": 2,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 35.52748044650775,
+                "motion_speed": -0.1838561610541065,
+                "cusp_degree": 5.527480446507752,
+                "zodiac": 2,
+                "house": 12,
+                "motion": "R"
+            }
+        }
+    }
+}

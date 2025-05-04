@@ -1,0 +1,112 @@
+{
+    "request": {
+        "name": "Mahesh Babu (Actor)",
+        "year": 1975,
+        "month": 8,
+        "day": 9,
+        "hour": 2,
+        "minute": 50,
+        "second": 0,
+        "latitude": 13.0836939,
+        "longitude": 80.270186,
+        "location": "Chennai, Tamilnadu",
+        "agyat_rating": "AC",
+        "about": "<p>Ghattamaneni Mahesh Babu (born 9 August 1975) is an Indian actor and film producer who works in Telugu cinema. He is one of the highest-paid actors in Indian cinema and has featured in Forbes India's Celebrity 100 list since 2012. Referred to in the media as \"Superstar\", he has appeared in more than 25 films. He is a recipient of several accolades including, nine Nandi Awards, five Filmfare Telugu Awards, four SIIMA Awards, three CineMAA Awards, and one IIFA Utsavam Award. He also owns the production house G. Mahesh Babu Entertainment.</p><p>The younger son of veteran Telugu actor Krishna, Mahesh Babu made his debut as a child artist in a cameo role in a Telugu film called Needa (1979), at the age of four. He went on to act as a child artist in the films Sankharavam (1987), Bazaar Rowdy, Mugguru Kodukulu (both 1988) and Gudachari 117 (1989). He played a dual role in the film Koduku Diddina Kapuram (1989). Babu then appeared in Balachandrudu and Anna Thammudu (both 1990). He made his debut as a lead actor with Rajakumarudu (1999) which won him the Nandi Award for Best Male Debut. Mahesh achieved his breakthrough with the supernatural drama Murari (2001) and the action film Okkadu (2003), winning his first Filmfare Award for Best Actor – Telugu for his performance in the latter. He went on to star in other commercially successful films such as Athadu (2005), Pokiri (2006), Dookudu (2011), Businessman (2012), Seethamma Vakitlo Sirimalle Chettu (2013), Srimanthudu (2015), Bharat Ane Nenu (2018), Maharshi (2019), Sarileru Neekevvaru (2020), and Sarkaru Vaari Paata (2022), some of which rank among the highest-grossing Telugu films of all time. His performances in Pokiri, Dookudu, Seethamma Vakitlo Sirimalle Chettu, and Srimanthudu earned him high acclaim and four more Filmfare Awards for Best Actor - Telugu.</p><p>Mahesh Babu is also a humanitarian and philanthropist. He established \"Mahesh Babu Foundation\", which focuses on supporting children in need by funding life-saving congenital heart surgeries. He is also associated with Rainbow Hospitals as their goodwill ambassador. He entered into the film exhibition business in partnership with Asian Group in 2018, with the inauguration of the seven-screen multiplex, AMB cinemas at Gachibowli. He is married to actress Namrata Shirodkar.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 63.93969618917725,
+            "ascendant": 3
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 1.1248778979392997,
+                "cusp_degree": 1.1248778979392997,
+                "motion_speed": 0.019556287133890782,
+                "zodiac": 1,
+                "house": 11,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 112.16706264352258,
+                "cusp_degree": 22.167062643522584,
+                "motion_speed": 0.958952892719261,
+                "zodiac": 4,
+                "house": 2,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 131.55738453304673,
+                "cusp_degree": 11.55738453304673,
+                "motion_speed": 15.092872340741646,
+                "zodiac": 5,
+                "house": 3,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 138.05604222593476,
+                "cusp_degree": 18.05604222593476,
+                "motion_speed": -0.10339480280655974,
+                "zodiac": 5,
+                "house": 3,
+                "motion": "R"
+            },
+            "Mars": {
+                "degree": 32.72338640773438,
+                "cusp_degree": 2.723386407734381,
+                "motion_speed": 0.6352790783585337,
+                "zodiac": 2,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 120.08225871596112,
+                "cusp_degree": 0.08225871596111745,
+                "motion_speed": 1.9317392258986927,
+                "zodiac": 5,
+                "house": 3,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 92.08864712901152,
+                "cusp_degree": 2.0886471290115196,
+                "motion_speed": 0.1246410684470994,
+                "zodiac": 4,
+                "house": 2,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 213.95470667544927,
+                "cusp_degree": 3.9547066754492732,
+                "motion_speed": -0.17025695387866477,
+                "zodiac": 8,
+                "house": 6,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 213.4325520851372,
+                "cusp_degree": 3.432552085137189,
+                "motion_speed": -0.052992061179928635,
+                "zodiac": 8,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 33.43255208513722,
+                "motion_speed": -0.052992061179928635,
+                "cusp_degree": 3.4325520851372175,
+                "zodiac": 2,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 33.9547066754493,
+                "motion_speed": -0.17025695387866477,
+                "cusp_degree": 3.9547066754493017,
+                "zodiac": 2,
+                "house": 12,
+                "motion": "R"
+            }
+        }
+    }
+}

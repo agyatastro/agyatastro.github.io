@@ -1,0 +1,112 @@
+{
+    "request": {
+        "name": "Angelina Jolie (Actor)",
+        "year": 1975,
+        "month": 6,
+        "day": 4,
+        "hour": 9,
+        "minute": 9,
+        "second": 0,
+        "latitude": 34.0536909,
+        "longitude": -118.242766,
+        "location": "Los Angeles, Unites States",
+        "agyat_rating": "AA",
+        "about": "<p>Angelina Jolie (/dʒoʊˈliː/ joh-LEE; born Angelina Jolie Voight, /ˈvɔɪt/; June 4, 1975) is an American-Cambodian actress, filmmaker, and humanitarian. The recipient of numerous accolades, including two Academy Awards, a Tony Award and three Golden Globe Awards, she has been named Hollywood's highest-paid actress multiple times.</p><p>Jolie made her screen debut as a child alongside her father, Jon Voight, in Lookin' to Get Out (1982). Her film career began in earnest a decade later with the low-budget production Cyborg 2 (1993), followed by her first leading role in Hackers (1995). After starring in the television films George Wallace (1997) and Gia (1998), Jolie won the Academy Award for Best Supporting Actress for the 1999 drama Girl, Interrupted. Her portrayal of the titular heroine in Lara Croft: Tomb Raider (2001) established her as a leading lady. Jolie's success continued with roles in the action films Mr. & Mrs. Smith (2005), Wanted (2008), and Salt (2010), as well as in the fantasy film Maleficent (2014) and its 2019 sequel. She also had voice roles in the animated films Shark Tale (2004) and Kung Fu Panda franchise (2008–2016), and gained praise for her dramatic performances in A Mighty Heart (2007), Changeling (2008), which earned her a nomination for the Academy Award for Best Actress, and Maria (2024).</p><p>As a filmmaker, Jolie directed and wrote the war dramas In the Land of Blood and Honey (2011), Unbroken (2014), First They Killed My Father (2017) and Without Blood (2024). She also produced the musical The Outsiders (2024), winning the Tony Award for Best Musical.</p><p>Jolie is known for her humanitarian efforts. The causes she promotes include conservation, education, and women's rights. She has been noted for her advocacy on behalf of refugees as a Special Envoy for the United Nations High Commissioner for Refugees. She has undertaken field missions to refugee camps and war zones worldwide. In addition to receiving a Jean Hersholt Humanitarian Award among other honors, Jolie was made an honorary Dame Commander of the Order of St Michael and St George. As a public figure, Jolie has been cited as one of the most powerful and influential people in the American entertainment industry. She has been cited as the world's most beautiful woman by various publications. Her personal life, including her relationships and health, has been the subject of widespread attention. Jolie is divorced from actors Jonny Lee Miller, Billy Bob Thornton, and Brad Pitt. She has six children with Pitt.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 106.48795203438908,
+            "ascendant": 4
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 353.9135113013307,
+                "cusp_degree": 23.913511301330686,
+                "motion_speed": 0.18310159027355097,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 49.94006890874196,
+                "cusp_degree": 19.940068908741956,
+                "motion_speed": 0.9576439302887694,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 350.018448965934,
+                "cusp_degree": 20.018448965934,
+                "motion_speed": 12.10726842180259,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 94.67650731590821,
+                "cusp_degree": 4.676507315908211,
+                "motion_speed": 1.0395508139925929,
+                "zodiac": 4,
+                "house": 1,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 347.21707713077933,
+                "cusp_degree": 17.21707713077933,
+                "motion_speed": 0.7420128479123537,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 58.79501821893692,
+                "cusp_degree": 28.795018218936917,
+                "motion_speed": -0.40004293500435173,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 83.87347804163792,
+                "cusp_degree": 23.873478041637924,
+                "motion_speed": 0.11521674519718174,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 217.3719798505581,
+                "cusp_degree": 7.371979850558091,
+                "motion_speed": 0.018500198623405555,
+                "zodiac": 8,
+                "house": 5,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 216.88568256007875,
+                "cusp_degree": 6.885682560078749,
+                "motion_speed": -0.05299204483864526,
+                "zodiac": 8,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 36.88568256007875,
+                "motion_speed": -0.05299204483864526,
+                "cusp_degree": 6.885682560078749,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 37.37197985055809,
+                "motion_speed": 0.018500198623405555,
+                "cusp_degree": 7.371979850558091,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "R"
+            }
+        }
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "request": {
+        "name": "Hemant Soren (Politician)",
+        "year": 1975,
+        "month": 8,
+        "day": 10,
+        "hour": 16,
+        "minute": 0,
+        "second": 0,
+        "latitude": 23.693479,
+        "longitude": 85.5215989,
+        "location": "Ramgarh, Jharkhand",
+        "agyat_rating": "AA",
+        "about": "<p>Hemant Soren (born 10 August 1975) is an Indian politician who is serving as the current Chief Minister of Jharkhand since 4 July 2024. He previously held the office from 2019 to 2024 and from 2013 to 2014. He is also the president of the Jharkhand Mukti Morcha, a regional party. Soren has represented the Barhait constituency in the Jharkhand Legislative Assembly since 2014 and previously represented Dumka twice — from 2019 to 2020 and from 2009 to 2014. He also served as the Deputy Chief Minister of Jharkhand from 2010 to 2013, Leader of the Opposition in the Jharkhand Legislative Assembly from 2014 to 2019, and a member of the Rajya Sabha from Jharkhand from 2009 to 2010.</p><p>Notably, Soren was arrested by the Enforcement Directorate on 31 January 2024 in connection with a land scam case. He contends that the arrest was an act of political vendetta by the central government, a stance shared by opposition parties. He secured bail and was released from jail on 28 June 2024.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 250.88804105373146,
+            "ascendant": 9
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 1.151215005665083,
+                "cusp_degree": 1.151215005665083,
+                "motion_speed": 0.014455212648030851,
+                "zodiac": 1,
+                "house": 5,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 113.65241954866036,
+                "cusp_degree": 23.65241954866036,
+                "motion_speed": 0.9593501745860571,
+                "zodiac": 4,
+                "house": 8,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 154.79878920001718,
+                "cusp_degree": 4.798789200017183,
+                "motion_speed": 14.864232946601845,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 137.84835206628435,
+                "cusp_degree": 17.84835206628435,
+                "motion_speed": -0.1649019402841352,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "R"
+            },
+            "Mars": {
+                "degree": 33.70384337684359,
+                "cusp_degree": 3.7038433768435866,
+                "motion_speed": 0.6309460695245224,
+                "zodiac": 2,
+                "house": 6,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 123.0442204156328,
+                "cusp_degree": 3.044220415632793,
+                "motion_speed": 1.893467256246797,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 92.28113914735343,
+                "cusp_degree": 2.2811391473534286,
+                "motion_speed": 0.12395060763526816,
+                "zodiac": 4,
+                "house": 8,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 213.72558855864693,
+                "cusp_degree": 3.7255885586469333,
+                "motion_speed": -0.1198988772596748,
+                "zodiac": 8,
+                "house": 12,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 213.35048802643374,
+                "cusp_degree": 3.3504880264337373,
+                "motion_speed": -0.05299202810215995,
+                "zodiac": 8,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 33.35048802643371,
+                "motion_speed": -0.05299202810215995,
+                "cusp_degree": 3.350488026433709,
+                "zodiac": 2,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 33.725588558646905,
+                "motion_speed": -0.1198988772596748,
+                "cusp_degree": 3.725588558646905,
+                "zodiac": 2,
+                "house": 6,
+                "motion": "R"
+            }
+        }
+    }
+}

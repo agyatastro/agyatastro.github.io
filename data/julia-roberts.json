@@ -1,0 +1,112 @@
+{
+    "request": {
+        "name": "Julia Roberts (Actor)",
+        "year": 1967,
+        "month": 10,
+        "day": 28,
+        "hour": 0,
+        "minute": 16,
+        "second": 0,
+        "latitude": 33.7489924,
+        "longitude": -84.3902644,
+        "location": "Smyrna, Georgia, U.S.A.",
+        "agyat_rating": "AA",
+        "about": "<p>Julia Fiona Roberts (born October 28, 1967) is an American actress. Known for her leading roles across various genres, she has received multiple accolades, including an Academy Award, a British Academy Film Award, and three Golden Globe Awards. She became known for portraying charming and relatable characters in romantic comedies and blockbusters, before expanding into dramas, thrillers, and independent films. The films in which she has starred have collectively grossed over $3.9 billion worldwide, making her one of Hollywood's most bankable stars, while the media nicknamed her \"America's Sweetheart\" in recognition of her widespread popularity and on- and off-screen charisma.</p><p>After early breakthroughs in Mystic Pizza (1988) and Steel Magnolias (1989), Roberts solidified her status as a leading lady when she starred in the top-grossing romantic comedy Pretty Woman (1990). She went on to star in several commercially successful films throughout the 1990s, including the romantic comedies My Best Friend's Wedding (1997), Notting Hill (1999), and Runaway Bride (1999). Roberts won the Academy Award for Best Actress for her portrayal of the title role in the biographical drama Erin Brockovich (2000). In the following decades, she continued her film success with roles in Ocean's Eleven (2001), Ocean's Twelve (2004), Charlie Wilson's War (2007), Valentine's Day (2010), Eat Pray Love (2010), August: Osage County (2013), Wonder (2017), Ticket to Paradise (2022), and Leave the World Behind (2023). Roberts also earned a Primetime Emmy Award nomination for her role in the HBO television film The Normal Heart (2014), made her first regular television appearance in the first season of the Amazon Prime Video psychological thriller series Homecoming (2018), and portrayed Martha Mitchell in the Starz political limited series Gaslit (2022).</p><p>In addition to acting, Roberts runs the production company Red Om Films, through which she has served as an executive producer for various projects she has starred in, as well as for the first four films of the American Girl franchise (2004–2008). She has acted as the global ambassador for Lancôme since 2009. She was the world's highest-paid actress throughout the majority of the 1990s and the first half of the 2000s. She received a then-unprecedented fees of $20 million and $25 million for her roles in Erin Brockovich (2000) and Mona Lisa Smile (2003), respectively. As of 2020, Roberts's net worth was estimated to be $250 million. People magazine has named her the most beautiful woman in the world a record five times.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 106.21162377113383,
+            "ascendant": 4
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 127.9699256072282,
+                "cusp_degree": 7.969925607228205,
+                "motion_speed": 0.1488533453282081,
+                "zodiac": 5,
+                "house": 2,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 190.68676590425423,
+                "cusp_degree": 10.68676590425423,
+                "motion_speed": 0.9984219034848573,
+                "zodiac": 7,
+                "house": 4,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 121.92456676763594,
+                "cusp_degree": 1.9245667676359375,
+                "motion_speed": 13.748416573531731,
+                "zodiac": 5,
+                "house": 2,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 144.69399706712983,
+                "cusp_degree": 24.69399706712983,
+                "motion_speed": 0.8939278998354582,
+                "zodiac": 5,
+                "house": 2,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 250.36758522071395,
+                "cusp_degree": 10.367585220713949,
+                "motion_speed": 0.7396092059744019,
+                "zodiac": 9,
+                "house": 6,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 200.43352394084906,
+                "cusp_degree": 20.433523940849057,
+                "motion_speed": -1.0039439196737137,
+                "zodiac": 7,
+                "house": 4,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 343.7369292616988,
+                "cusp_degree": 13.736929261698776,
+                "motion_speed": -0.06528341540720599,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 4.506580387267573,
+                "cusp_degree": 4.506580387267573,
+                "motion_speed": 0.007447901956302656,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 4.017718827074097,
+                "cusp_degree": 4.017718827074097,
+                "motion_speed": -0.05299213493362047,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 184.0177188270741,
+                "motion_speed": -0.05299213493362047,
+                "cusp_degree": 4.0177188270741055,
+                "zodiac": 7,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 184.50658038726758,
+                "motion_speed": 0.007447901956302656,
+                "cusp_degree": 4.506580387267576,
+                "zodiac": 7,
+                "house": 4,
+                "motion": "R"
+            }
+        }
+    }
+}

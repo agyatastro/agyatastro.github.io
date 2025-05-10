@@ -1,6 +1,7 @@
 {
     "request": {
-        "name": "Virat Kohli (Sportsman)",
+        "name": "Virat Kohli",
+        "title": "Sportsperson",
         "year": 1988,
         "month": 11,
         "day": 5,

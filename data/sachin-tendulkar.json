@@ -1,6 +1,7 @@
 {
     "request": {
-        "name": "Sachin Tendulkar (Sportsman)",
+        "name": "Sachin Tendulkar",
+        "title": "Sportsperson",
         "year": 1973,
         "month": 4,
         "day": 24,

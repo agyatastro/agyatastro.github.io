@@ -1,6 +1,7 @@
 {
     "request": {
-        "name": "King Charles III (Monarch)",
+        "name": "King Charles III ",
+        "title": "Monarch",
         "year": 1948,
         "month": 11,
         "day": 14,

@@ -1,6 +1,7 @@
 {
     "request": {
-        "name": "Yogi Adityanath (Politician/Monk)",
+        "name": "Yogi Adityanath",
+        "title": "Politician/Monk",
         "year": 1972,
         "month": 6,
         "day": 5,
@@ -11,7 +12,7 @@
         "longitude": 78.73157159495136,
         "location": "Pauri, Garhwal, Uttarakhand",
         "agyat_rating": "AA",
-        "about": "Yogi Adityanath (born Ajay Mohan Singh Bisht; 5 June 1972) is an Indian Hindu monk and politician, belonging to the Bharatiya Janata Party who has been serving as the 21st Chief Minister of Uttar Pradesh since 19 March 2017. He is the longest serving chief minister of Uttar Pradesh, being in office for 8 years, and the only UP chief minister to have two consecutive terms.\n Previously, Adityanath served as a member of India's parliament for almost two decades, from 1998 until 2017. At the age of 26, he became one of the youngest Indian parliamentarians in 1998 and went on to win the next five consecutive terms from Gorakhpur (Lok Sabha Constituency). In 2017, he moved from central to the UP state politics and was elected as the Chief Minister of Uttar Pradesh. Initially, in 2017, he became a member of the UP legislative council. Subsequently, in 2022, he became a member of the state legislative assembly, having won the election from Gorakhpur Urban (assembly constituency).\n Adityanath is also the mahant (head priest) of the Gorakhnath Math, a Hindu monastery in Gorakhpur, a position he has held since September 2014 following the death of Mahant Avaidyanath, his spiritual Guru. He founded Hindu Yuva Vahini, a now defunct Hindu nationalist organisation. He has an image of a Hindutva nationalist and a social conservative. Adityanath was placed 5th in 2023 and 6th in 2024 on the list of India's most Powerful Personalities, conducted by The Indian Express."
+        "about": "<p>Yogi Adityanath (born Ajay Mohan Singh Bisht; 5 June 1972) is an Indian Hindu monk and politician, belonging to the Bharatiya Janata Party who has been serving as the 21st Chief Minister of Uttar Pradesh since 19 March 2017. He is the longest serving chief minister of Uttar Pradesh, being in office for 8 years, and the only UP chief minister to have two consecutive terms.</p><p> Previously, Adityanath served as a member of India's parliament for almost two decades, from 1998 until 2017. At the age of 26, he became one of the youngest Indian parliamentarians in 1998 and went on to win the next five consecutive terms from Gorakhpur (Lok Sabha Constituency). In 2017, he moved from central to the UP state politics and was elected as the Chief Minister of Uttar Pradesh. Initially, in 2017, he became a member of the UP legislative council. Subsequently, in 2022, he became a member of the state legislative assembly, having won the election from Gorakhpur Urban (assembly constituency).</p><p> Adityanath is also the mahant (head priest) of the Gorakhnath Math, a Hindu monastery in Gorakhpur, a position he has held since September 2014 following the death of Mahant Avaidyanath, his spiritual Guru. He founded Hindu Yuva Vahini, a now defunct Hindu nationalist organisation. He has an image of a Hindutva nationalist and a social conservative. Adityanath was placed 5th in 2023 and 6th in 2024 on the list of India's most Powerful Personalities, conducted by The Indian Express.</p>"
     },
     "response": {
         "ascendant": {

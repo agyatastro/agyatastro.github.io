@@ -1,6 +1,7 @@
 {
     "request": {
-        "name": "Queen Elizabeth II (Monarch)",
+        "name": "Queen Elizabeth II",
+        "title": "Monarch",
         "year": 1926,
         "month": 4,
         "day": 21,

@@ -1,6 +1,7 @@
 {
     "request": {
-        "name": "Gaur Gopal Das (Monk/Spiritual)",
+        "name": "Gaur Gopal Das ",
+        "title": "Monk/Spiritual",
         "year": 1973,
         "month": 12,
         "day": 24,
@@ -11,7 +12,7 @@
         "longitude": 74.6850072,
         "location": "Vambori",
         "agyat_rating": "UU",
-        "about": "Gaur Gopal Das (IAST: Gaura-Gopāla dāsa; born 24 December 1973) is an Indian monk, motivational speaker, and former electrical engineer. He is a member of the International Society for Krishna Consciousness (ISKCON).\n Gaur Gopal Das was born in Vambori town in Ahmadnagar District, Maharashtra, India. He has a diploma in electrical engineering from Cusrow Wadia Institute of Technology, Pune and a degree from College of Engineering, Pune.[2]"
+        "about": "<p>Gaur Gopal Das (IAST: Gaura-Gopāla dāsa; born 24 December 1973) is an Indian monk, motivational speaker, and former electrical engineer. He is a member of the International Society for Krishna Consciousness (ISKCON).</p><p> Gaur Gopal Das was born in Vambori town in Ahmadnagar District, Maharashtra, India. He has a diploma in electrical engineering from Cusrow Wadia Institute of Technology, Pune and a degree from College of Engineering, Pune.</p>"
     },
     "response": {
         "ascendant": {

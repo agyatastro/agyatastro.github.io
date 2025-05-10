@@ -1,6 +1,7 @@
 {
     "request": {
-        "name": "Digvijaya Singh (Politician)",
+        "name": "Digvijaya Singh ",
+        "title": "Politician",
         "year": 1950,
         "month": 9,
         "day": 8,
@@ -11,7 +12,7 @@
         "longitude": 75.8681996,
         "location": "Indore, MAdhya Pradesh",
         "agyat_rating": "AU",
-        "about": "Digvijaya Singh (born 28 February 1947) is an Indian politician and a Member of Parliament in the Rajya Sabha since 2014. He is a senior leader of the Indian National Congress and Ex-General Secretary of the Indian National Congress party's All India Congress Committee. Previously, he had served as the 14th and 15th Chief Minister of Madhya Pradesh, a central Indian state, in two terms from 1993 to 1998 and from 1998 to 2003. Prior to that he was a minister in Chief Minister Arjun Singh's cabinet between 1980 and 1984. In 2019 Indian general election he was defeated by Pragya Singh Thakur for Bhopal Lok Sabha seat.\nSingh was appointed as a member of Empowered Action Group of Leaders and Experts (EAGLE) which was constituted by Indian National Congress on 2 February 2025 to monitor the conduct of free and fair elections by the Election Commission of India."
+        "about": "<p>Digvijaya Singh (born 28 February 1947) is an Indian politician and a Member of Parliament in the Rajya Sabha since 2014. He is a senior leader of the Indian National Congress and Ex-General Secretary of the Indian National Congress party's All India Congress Committee. Previously, he had served as the 14th and 15th Chief Minister of Madhya Pradesh, a central Indian state, in two terms from 1993 to 1998 and from 1998 to 2003. Prior to that he was a minister in Chief Minister Arjun Singh's cabinet between 1980 and 1984. In 2019 Indian general election he was defeated by Pragya Singh Thakur for Bhopal Lok Sabha seat.</p><p>Singh was appointed as a member of Empowered Action Group of Leaders and Experts (EAGLE) which was constituted by Indian National Congress on 2 February 2025 to monitor the conduct of free and fair elections by the Election Commission of India.</p>"
     },
     "response": {
         "ascendant": {

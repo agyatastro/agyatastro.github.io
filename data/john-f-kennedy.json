@@ -1,6 +1,7 @@
 {
     "request": {
         "name": "John F Kennedy",
+        "title": "Politician",
         "year": 1917,
         "month": 5,
         "day": 29,

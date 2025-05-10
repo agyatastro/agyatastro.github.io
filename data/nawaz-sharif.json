@@ -1,6 +1,7 @@
 {
     "request": {
-        "name": "Nawaz Sharif (Politician/Businessman)",
+        "name": "Nawaz Sharif",
+        "title": "Politician/Businessman",
         "year": 1949,
         "month": 12,
         "day": 25,

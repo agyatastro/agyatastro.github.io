@@ -1,6 +1,7 @@
 {
     "request": {
         "name": "Ajit Pawar",
+        "title": "Politician",
         "year": 1959,
         "month": 7,
         "day": 22,
@@ -12,7 +13,7 @@
         "location": "Ahmadnagar, Maharashtra",
         "advanced": "Ajit Pawar, Politician, Figure, Ju:1, Sa:3, Mo:5, Ra:12, MaVe:11, Ke:6, SS:11, SuMe:10",
         "agyat_rating": "AA",
-        "about": "Ajit Anantrao Pawar (Marathi pronunciation: [əd͡ʒit̪ pəʋaːɾ]; born 22 July 1959) is an Indian politician serving as the Deputy Chief Minister of Maharashtra along with Eknath Shinde under Devendra Fadnavis since 5 December 2024. He is the longest serving Deputy Chief Minister of Maharashtra non-consecutively. He has served this position for 6 terms within various governments. He has worked as deputy chief minister within the cabinets of Prithviraj Chavan, Devendra Fadnavis, Uddhav Thackeray and Eknath Shinde.\nHe served as the Leader of the Opposition in the Maharashtra Legislative Assembly from 2022 to 2023 and represented Baramati Lok Sabha constituency in 1991. He served as deputy chief minister many times."
+        "about": "<p>Ajit Anantrao Pawar (Marathi pronunciation: [əd͡ʒit̪ pəʋaːɾ]; born 22 July 1959) is an Indian politician serving as the Deputy Chief Minister of Maharashtra along with Eknath Shinde under Devendra Fadnavis since 5 December 2024. He is the longest serving Deputy Chief Minister of Maharashtra non-consecutively. He has served this position for 6 terms within various governments. He has worked as deputy chief minister within the cabinets of Prithviraj Chavan, Devendra Fadnavis, Uddhav Thackeray and Eknath Shinde.</p><p>He served as the Leader of the Opposition in the Maharashtra Legislative Assembly from 2022 to 2023 and represented Baramati Lok Sabha constituency in 1991. He served as deputy chief minister many times.</p>"
     },
     "response": {
         "ascendant": {

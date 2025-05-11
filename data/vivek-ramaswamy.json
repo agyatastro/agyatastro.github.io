@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Vivek Ramaswamy",
+        "title": "Entrepreneur/Politician",
+        "year": 1985,
+        "month": 8,
+        "day": 9,
+        "hour": 18,
+        "minute": 51,
+        "second": 0,
+        "latitude": 39.12711,
+        "longitude": -84.51439,
+        "location": "Cincinnati, United States",
+        "agyat_rating": "AU",
+        "about": "<p>Vivek Ganapathy Ramaswamy (born August 9, 1985) is an American entrepreneur and politician. He founded Roivant Sciences, a biotech pharmaceutical company in 2014 and was its CEO till 2021. Ramaswamy declared his candidacy for the Republican presidential primaries in 2023. He finished fourth in the Iowa caucuses in January 2024 and withdrew his bid, thereupon endorsing Donald Trump for the 2024 presidential election. In February 2025, Ramaswamy launched his 2026 Ohio gubernatorial campaign and received an endorsement from President Trump.</p><p>Ramaswamy was born in Cincinnati, Ohio to Indian immigrant parents. He graduated from Harvard University with a bachelor's degree in biology and later earned a degree from Yale Law School. Ramaswamy worked as an investment partner at a hedge fund before founding Roivant Sciences. He also co-founded an investment firm, Strive Asset Management.</p><p>Ramaswamy has stated that he sees the United States in the middle of a national identity crisis precipitated by what he calls \"new secular religions like COVID-ism, climate-ism, and gender ideology\". He is also a critic of environmental, social, and corporate governance initiatives. In April 2025, Forbes estimated Ramaswamy's net worth to be $1.1 billion; his wealth comes from biotech and financial businesses.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 277.9372335762332,
+            "ascendant": 10
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 287.6647837294485,
+                "cusp_degree": 17.664783729448516,
+                "motion_speed": -0.12884187592323335,
+                "zodiac": 10,
+                "house": 1,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 113.65310995742904,
+                "cusp_degree": 23.653109957429038,
+                "motion_speed": 0.9592015389205972,
+                "zodiac": 4,
+                "house": 7,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 36.98184815094313,
+                "cusp_degree": 6.981848150943129,
+                "motion_speed": 11.94689121879237,
+                "zodiac": 2,
+                "house": 5,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 75.08609570453085,
+                "cusp_degree": 15.086095704530848,
+                "motion_speed": 1.1556996994723174,
+                "zodiac": 3,
+                "house": 6,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 106.53375809494692,
+                "cusp_degree": 16.53375809494692,
+                "motion_speed": 0.6415012680361197,
+                "zodiac": 4,
+                "house": 7,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 115.29523637508751,
+                "cusp_degree": 25.295236375087512,
+                "motion_speed": -0.806916552217172,
+                "zodiac": 4,
+                "house": 7,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 208.00067847931916,
+                "cusp_degree": 28.000678479319163,
+                "motion_speed": 0.024417601109136967,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 19.793095454116745,
+                "cusp_degree": 19.793095454116745,
+                "motion_speed": -0.015859562578638756,
+                "zodiac": 1,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 19.793408698328157,
+                "cusp_degree": 19.793408698328157,
+                "motion_speed": -0.052992018402400004,
+                "zodiac": 1,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 199.79340869832816,
+                "motion_speed": -0.052992018402400004,
+                "cusp_degree": 19.793408698328165,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 199.79309545411675,
+                "motion_speed": -0.015859562578638756,
+                "cusp_degree": 19.793095454116752,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "R"
+            }
+        }
+    }
+}

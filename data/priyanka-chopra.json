@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Priyanka Chopra",
+        "title": "Actor",
+        "year": 1982,
+        "month": 7,
+        "day": 18,
+        "hour": 0,
+        "minute": 30,
+        "second": 0,
+        "latitude": 22.80278,
+        "longitude": 86.18545,
+        "location": "Jamshedpur, Jharkhand",
+        "agyat_rating": "AA",
+        "about": "<p>Priyanka Chopra Jonas (pronounced [pɾɪˈjəŋka ˈtʃoːpɽa]; born 18 July 1982) is an Indian actress and producer. The winner of the Miss World 2000 pageant, Chopra is one of India's highest-paid actresses and has received numerous accolades, including two National Film Awards and five Filmfare Awards. In 2016, the Government of India honoured her with the Padma Shri, and Time named her one of the 100 most influential people in the world. In the next two years, Forbes listed her among the World's 100 Most Powerful Women, and in 2022, she was named in the BBC 100 Women list.</p><p>Chopra accepted offers to join the Indian film industry following her pageant wins. Her acting debut came in the Tamil film Thamizhan (2002), followed by her first Bollywood feature in The Hero: Love Story of a Spy (2003). She played the leading lady in the box-office hits Andaaz (2003) and Mujhse Shaadi Karogi (2004) and had her breakout role in the 2004 romantic thriller Aitraaz. Chopra established herself with starring roles in the top-grossing productions Krrish and Don (both 2006), and later reprised her role in their sequels. For playing a troubled model in the drama Fashion (2008), Chopra won a National Film Award and a Filmfare Award for Best Actress. Chopra gained further praise for portraying a range of characters in the films Kaminey (2009), 7 Khoon Maaf (2011), Barfi! (2012), Mary Kom (2014), Dil Dhadakne Do (2015), and Bajirao Mastani (2015).</p><p>From 2015 to 2018, Chopra starred as Alex Parrish in the ABC thriller series Quantico, becoming the first South Asian to headline an American network drama series. Founding the production company Purple Pebble Pictures in 2015, she produced several films under it, including the Marathi films Ventilator (2016) and Paani (2019), and the self-starring Hindi biopic The Sky Is Pink (2019). Chopra has also appeared in Hollywood films, such as Baywatch (2017), Isn't It Romantic (2019), The White Tiger (2021), and The Matrix Resurrections (2021), and starred in the action thriller series Citadel (2023–present).</p><p>Chopra ventured into music by releasing three singles and into writing with her memoir Unfinished (2021), which reached The New York Times Best Seller list. Her other ventures include tech investments, a haircare brand, a restaurant, and a homeware line. She promotes social causes such as environment and women's rights and is vocal about gender equality, the gender pay gap, and feminism. She has worked with UNICEF since 2006 and was appointed as the national and global UNICEF Goodwill Ambassador for child rights in 2010 and 2016, respectively. Her namesake foundation for health and education works towards providing support to underprivileged Indian children. Chopra has walked the Met Gala red carpet in Manhattan five times as of 2025. Despite maintaining privacy, Chopra's off-screen life, including her marriage to American singer and actor Nick Jonas, is the subject of substantial media coverage.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 16.03783765633091,
+            "ascendant": 1
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 187.41848167539854,
+                "cusp_degree": 7.418481675398539,
+                "motion_speed": 0.05816137119738398,
+                "zodiac": 7,
+                "house": 7,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 91.2340288137386,
+                "cusp_degree": 1.234028813738604,
+                "motion_speed": 0.9543648869239768,
+                "zodiac": 4,
+                "house": 4,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 48.93368444338958,
+                "cusp_degree": 18.93368444338958,
+                "motion_speed": 14.755390834918648,
+                "zodiac": 2,
+                "house": 2,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 62.90364582244586,
+                "cusp_degree": 2.90364582244586,
+                "motion_speed": 1.199460629564353,
+                "zodiac": 3,
+                "house": 3,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 177.3335320986255,
+                "cusp_degree": 27.33353209862551,
+                "motion_speed": 0.5113501586229021,
+                "zodiac": 6,
+                "house": 6,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 82.42623952725154,
+                "cusp_degree": 22.42623952725154,
+                "motion_speed": 2.0806879087580286,
+                "zodiac": 3,
+                "house": 3,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 172.59518588770143,
+                "cusp_degree": 22.595185887701433,
+                "motion_speed": 0.04722524440247898,
+                "zodiac": 6,
+                "house": 6,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 79.72843022016635,
+                "cusp_degree": 19.728430220166345,
+                "motion_speed": 0.014272398903503127,
+                "zodiac": 3,
+                "house": 3,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 79.10289683272455,
+                "cusp_degree": 19.102896832724554,
+                "motion_speed": -0.05299205447991028,
+                "zodiac": 3,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 259.1028968327246,
+                "motion_speed": -0.05299205447991028,
+                "cusp_degree": 19.102896832724582,
+                "zodiac": 9,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 259.72843022016633,
+                "motion_speed": 0.014272398903503127,
+                "cusp_degree": 19.72843022016633,
+                "zodiac": 9,
+                "house": 9,
+                "motion": "R"
+            }
+        }
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Alia Bhatt",
+        "title": "Actor",
+        "year": 1993,
+        "month": 3,
+        "day": 15,
+        "hour": 4,
+        "minute": 10,
+        "second": 0,
+        "latitude": 51.50853,
+        "longitude": -0.12574,
+        "location": "London, United Kingdom",
+        "agyat_rating": "AA",
+        "about": "<p>Alia Bhatt (/ˈɑːliə ˈbʌt/; born 15 March 1993) is a British actress of Indian descent who predominantly works in Hindi films. Known for her portrayals of women in challenging circumstances, she has received several accolades, including a National Film Award and six Filmfare Awards. She is one of India's highest-paid actresses. Time awarded her with the Time100 Impact Award in 2022 and named her one of the 100 most influential people in the world in 2024.</p><p>Born into the Bhatt family, she is a daughter of filmmaker Mahesh Bhatt and actress Soni Razdan. After making her acting debut as a child in the 1999 thriller film Sangharsh, she played her first leading role in Karan Johar's teen film Student of the Year (2012). She won the Filmfare Critics Award for Best Actress for playing a kidnapping victim in the road drama Highway (2014) and went on to establish herself with starring roles in several romantic films produced by Johar's studio Dharma Productions.</p><p>Bhatt won Filmfare Awards for Best Actress for playing a victim of drug abuse in the crime drama Udta Punjab (2016), an undercover spy in the thriller Raazi (2018), a possessive girlfriend in the musical drama Gully Boy (2019), and the title role of a prostitute in the biopic Gangubai Kathiawadi (2022). The last of these also earned her the National Film Award for Best Actress. She expanded to film production with the black comedy Darlings (2022) and had her biggest commercial success in the fantasy film Brahmāstra: Part One – Shiva (2022) and the romantic comedy Rocky Aur Rani Kii Prem Kahaani (2023). The last of these earned her a record-tying fifth Best Actress award at Filmfare.</p><p>In addition to acting, Bhatt supports various charities and is an investor and prominent brand endorser. She founded an ecological initiative, CoExist, in 2017, a production company, Eternal Sunshine Productions, in 2019, and a sustainable clothing brand, Ed-a-Mamma, in 2022. Bhatt has sung eight of her film songs, including the single \"Samjhawan Unplugged\" in 2014. She is married to actor Ranbir Kapoor, with whom she has a daughter.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 270.7460943887939,
+            "ascendant": 10
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 167.95307734745637,
+                "cusp_degree": 17.95307734745637,
+                "motion_speed": -0.1181430332368762,
+                "zodiac": 6,
+                "house": 9,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 330.82361244544217,
+                "cusp_degree": 0.8236124454421656,
+                "motion_speed": 0.9962950274298646,
+                "zodiac": 12,
+                "house": 3,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 240.78615882524977,
+                "cusp_degree": 0.7861588252497711,
+                "motion_speed": 12.812652170561236,
+                "zodiac": 9,
+                "house": 12,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 355.9627535439501,
+                "cusp_degree": 25.9627535439501,
+                "motion_speed": -0.1558331618431015,
+                "zodiac": 12,
+                "house": 3,
+                "motion": "R"
+            },
+            "Mars": {
+                "degree": 79.09202508848534,
+                "cusp_degree": 19.092025088485343,
+                "motion_speed": 0.2744905900879532,
+                "zodiac": 3,
+                "house": 6,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 319.30563080832377,
+                "cusp_degree": 19.30563080832377,
+                "motion_speed": -0.7412264365969988,
+                "zodiac": 11,
+                "house": 2,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 301.085920193665,
+                "cusp_degree": 1.0859201936650038,
+                "motion_speed": 0.11005787109729337,
+                "zodiac": 11,
+                "house": 2,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 232.32851168754863,
+                "cusp_degree": 22.328511687548627,
+                "motion_speed": 0.00007979551616028467,
+                "zodiac": 8,
+                "house": 11,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 232.7838207742135,
+                "cusp_degree": 22.783820774213495,
+                "motion_speed": -0.052992035943349725,
+                "zodiac": 8,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 52.783820774213495,
+                "motion_speed": -0.052992035943349725,
+                "cusp_degree": 22.783820774213495,
+                "zodiac": 2,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 52.3285116875486,
+                "motion_speed": 0.00007979551616028467,
+                "cusp_degree": 22.3285116875486,
+                "zodiac": 2,
+                "house": 5,
+                "motion": "R"
+            }
+        }
+    }
+}

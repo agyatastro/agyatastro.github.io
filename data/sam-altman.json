@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Sam Altman",
+        "title": "Entrepreneur/Technocrat",
+        "year": 1985,
+        "month": 4,
+        "day": 22,
+        "hour": 5,
+        "minute": 0,
+        "second": 0,
+        "latitude": 41.85003,
+        "longitude": -87.65005,
+        "location": "Sam Altman",
+        "agyat_rating": "AU",
+        "about": "<p>Samuel Harris Altman (born April 22, 1985) is an American technology entrepreneur and investor best known as the chief executive officer of OpenAI since 2019 (he was briefly dismissed and reinstated in November 2023). He is considered one of the leading figures of the AI boom.</p><p>Altman dropped out of Stanford University after two years and founded Loopt, a mobile social networking service, raising more than $30 million in venture capital. In 2011, Altman joined Y Combinator, a startup accelerator, and was its president from 2014 to 2019. He has served as chairman of clean energy companies Helion Energy and Oklo (until April 2025). Altman's net worth was estimated at $1.5 billion as of May 2025</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 3.64738147872794,
+            "ascendant": 1
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 290.47229483842193,
+                "cusp_degree": 20.47229483842193,
+                "motion_speed": 0.12467929105073734,
+                "zodiac": 10,
+                "house": 10,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 8.606329121077211,
+                "cusp_degree": 8.606329121077211,
+                "motion_speed": 0.9752809898707502,
+                "zodiac": 1,
+                "house": 1,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 32.805069604034976,
+                "cusp_degree": 2.8050696040349763,
+                "motion_speed": 11.902141664883052,
+                "zodiac": 2,
+                "house": 2,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 342.4830125558194,
+                "cusp_degree": 12.483012555819414,
+                "motion_speed": -0.10187095966728969,
+                "zodiac": 12,
+                "house": 12,
+                "motion": "R"
+            },
+            "Mars": {
+                "degree": 33.6107161874814,
+                "cusp_degree": 3.610716187481401,
+                "motion_speed": 0.6987091856265555,
+                "zodiac": 2,
+                "house": 2,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 344.20512637038,
+                "cusp_degree": 14.205126370380015,
+                "motion_speed": 0.4204629327964551,
+                "zodiac": 12,
+                "house": 12,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 212.84732625967516,
+                "cusp_degree": 2.8473262596751567,
+                "motion_speed": -0.06464611872841514,
+                "zodiac": 8,
+                "house": 8,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 24.5067703056579,
+                "cusp_degree": 24.5067703056579,
+                "motion_speed": 0.008721432416822784,
+                "zodiac": 1,
+                "house": 1,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 25.59809644317295,
+                "cusp_degree": 25.59809644317295,
+                "motion_speed": -0.052992026996665303,
+                "zodiac": 1,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 205.59809644317295,
+                "motion_speed": -0.052992026996665303,
+                "cusp_degree": 25.59809644317295,
+                "zodiac": 7,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 204.5067703056579,
+                "motion_speed": 0.008721432416822784,
+                "cusp_degree": 24.50677030565791,
+                "zodiac": 7,
+                "house": 7,
+                "motion": "R"
+            }
+        }
+    }
+}

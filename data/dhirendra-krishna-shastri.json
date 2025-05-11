@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Dhirendra Krishna Shastri",
+        "title": "Spiritual Guru/Katha Vachak",
+        "year": 1996,
+        "month": 7,
+        "day": 4,
+        "hour": 7,
+        "minute": 45,
+        "second": 0,
+        "latitude": 24.9177,
+        "longitude": 79.58871,
+        "location": "Chhatarpur, Madhya Pradesh",
+        "agyat_rating": "AU",
+        "about": "Dhirendra Krishna Shastri (born 4 July 1996 as Dhirendra Krishna Garg) also known as Bageshwar Dham Sarkar, is an Indian self-styled godman. He is the leader of Bageshwar Dham, a religious Hindu site in Madhya Pradesh, India. Shastri has been accused of tricking people using mentalism."
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 102.98544101141705,
+            "ascendant": 4
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 259.0066309694732,
+                "cusp_degree": 19.00663096947318,
+                "motion_speed": -0.12832009607937733,
+                "zodiac": 9,
+                "house": 6,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 78.56473848464624,
+                "cusp_degree": 18.56473848464624,
+                "motion_speed": 0.9529967246991655,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 299.9040228518544,
+                "cusp_degree": 29.904022851854393,
+                "motion_speed": 14.831740807490666,
+                "zodiac": 10,
+                "house": 7,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 48.02801616087864,
+                "cusp_degree": 18.028016160878643,
+                "motion_speed": 0.06858234447879942,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 51.33378479862754,
+                "cusp_degree": 21.33378479862754,
+                "motion_speed": 0.6951174081909238,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 69.84544284455427,
+                "cusp_degree": 9.84544284455427,
+                "motion_speed": 2.099535470249938,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 343.405405325452,
+                "cusp_degree": 13.405405325452023,
+                "motion_speed": 0.02492567646109303,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 168.66480520862504,
+                "cusp_degree": 18.66480520862504,
+                "motion_speed": -0.1052475953800921,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 168.82756935044733,
+                "cusp_degree": 18.827569350447334,
+                "motion_speed": -0.052992022364676684,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 348.82756935044733,
+                "motion_speed": -0.052992022364676684,
+                "cusp_degree": 18.827569350447334,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 348.664805208625,
+                "motion_speed": -0.1052475953800921,
+                "cusp_degree": 18.664805208625012,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "R"
+            }
+        }
+    }
+}

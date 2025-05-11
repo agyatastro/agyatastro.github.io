@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "William, Prince of Wales",
+        "title": "Prince Monarch",
+        "year": 1982,
+        "month": 6,
+        "day": 21,
+        "hour": 21,
+        "minute": 3,
+        "second": 0,
+        "latitude": 42.98339,
+        "longitude": -81.23304,
+        "location": "London, United Kingdom",
+        "agyat_rating": "AA",
+        "about": "<p>William, Prince of Wales (William Arthur Philip Louis; born 21 June 1982), is the heir apparent to the British throne. He is the elder son of King Charles III and Diana, Princess of Wales.</p><p>William was born during the reign of his paternal grandmother, Queen Elizabeth II. He was educated at Wetherby School, Ludgrove School and Eton College. He earned a Master of Arts degree in geography at the University of St Andrews where he met his future wife, Catherine Middleton. They have three children: George, Charlotte and Louis. After university, William trained at the Royal Military Academy Sandhurst prior to serving with the Blues and Royals regiment. In 2008 he graduated from the Royal Air Force College Cranwell, joining the RAF Search and Rescue Force in early 2009. He served as a full-time pilot with the East Anglian Air Ambulance for two years, starting in July 2015.</p><p>William performs official duties and engagements on behalf of the monarch. He is patron of multiple charitable and military organisations, including the Tusk Trust, Centrepoint, The Passage, Wales Air Ambulance and London's Air Ambulance Charity. He undertakes projects through the Royal Foundation, with his charity work revolving around mental health, conservation, homelessness, and emergency workers. In 2020 William launched the Earthshot Prize, a £50 million initiative to incentivise environmental solutions over the next decade.</p><p>William was made Duke of Cambridge immediately before his wedding in April 2011. He became Duke of Cornwall and Duke of Rothesay upon his father's accession to the throne on 8 September 2022. The following day he was made Prince of Wales.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 266.9316731437996,
+            "ascendant": 9
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 186.87707132840777,
+                "cusp_degree": 6.877071328407766,
+                "motion_speed": -0.01716416272695826,
+                "zodiac": 7,
+                "house": 11,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 66.74962568038657,
+                "cusp_degree": 6.749625680386572,
+                "motion_speed": 0.9544817737236905,
+                "zodiac": 3,
+                "house": 7,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 75.35035743306479,
+                "cusp_degree": 15.350357433064787,
+                "motion_speed": 15.164618252640063,
+                "zodiac": 3,
+                "house": 7,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 32.36573615690802,
+                "cusp_degree": 2.365736156908021,
+                "motion_speed": 1.179294121163791,
+                "zodiac": 2,
+                "house": 6,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 165.69868869810279,
+                "cusp_degree": 15.698688698102785,
+                "motion_speed": 0.3850844754545648,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 45.52088817325221,
+                "cusp_degree": 15.52088817325221,
+                "motion_speed": 0.6150240936281597,
+                "zodiac": 2,
+                "house": 6,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 171.90107152774885,
+                "cusp_degree": 21.901071527748854,
+                "motion_speed": 0.006060854271725261,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 79.7221854225218,
+                "cusp_degree": 19.722185422521804,
+                "motion_speed": -0.003107322939731172,
+                "zodiac": 3,
+                "house": 7,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 80.46361441828054,
+                "cusp_degree": 20.463614418280542,
+                "motion_speed": -0.052992021509873886,
+                "zodiac": 3,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 260.46361441828054,
+                "motion_speed": -0.052992021509873886,
+                "cusp_degree": 20.463614418280542,
+                "zodiac": 9,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 259.7221854225218,
+                "motion_speed": -0.003107322939731172,
+                "cusp_degree": 19.722185422521818,
+                "zodiac": 9,
+                "house": 1,
+                "motion": "R"
+            }
+        }
+    }
+}

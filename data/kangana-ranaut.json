@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Kangana Ranaut",
+        "title": "Actor",
+        "year": 1987,
+        "month": 3,
+        "day": 23,
+        "hour": 7,
+        "minute": 0,
+        "second": 0,
+        "latitude": 31.71194,
+        "longitude": 76.93273,
+        "location": "Mandi, Himachal Pradesh",
+        "agyat_rating": "AA",
+        "about": "<p>Kangna Amardeep Ranaut (pronounced [kəŋɡənaː raːɳoːʈʰ]; born 23 March 1986) is an Indian actress, filmmaker, and politician serving as a Member of Parliament, Lok Sabha from Mandi since June 2024. Known for her portrayals of strong-willed, unconventional women in female-led Hindi films, she is the recipient of several awards, including four National Film Awards and four Filmfare Awards, and has featured six times in Forbes India's Celebrity 100 list. In 2020, the Government of India honoured her with the Padma Shri, the country's fourth-highest civilian award.</p><p>At the age of sixteen, Ranaut briefly took up modelling before being trained under theatre director Arvind Gaur. She made her film debut in the 2006 thriller Gangster, for which she was awarded the Filmfare Award for Best Female Debut, and received praise for portraying emotionally intense characters in the dramas Woh Lamhe... (2006), Life in a... Metro (2007) and Fashion (2008). For the last of these, she won the National Film Award for Best Supporting Actress. She appeared in the commercially successful films Raaz: The Mystery Continues (2009) and Once Upon a Time in Mumbaai (2010) but was criticised for being typecast in neurotic roles. A comic role in Tanu Weds Manu (2011) was well-received, though this was followed by a series of brief, glamorous roles.</p><p>Ranaut's career prospects improved in 2013 when she played a mutant in the superhero film Krrish 3, one of the highest-grossing Indian films. She won two consecutive National Film Awards for Best Actress for playing an abandoned bride in the comedy-drama Queen (2014) and a dual role in the comedy sequel Tanu Weds Manu Returns (2015), which was the biggest-earning female-led Hindi film at the time. This was followed by several commercial failures and a decline in stardom, with the sole exception of her co-directorial epic action Manikarnika: The Queen of Jhansi (2019). Her portrayal of the titular warrior in it and her part as a sportswoman in Panga (2020) jointly earned her a fourth National Film Award. In Ranaut's second directorial, the poorly-received biographical drama Emergency (2025), she portrayed Indira Gandhi.</p><p>In 2020, Ranaut launched her own production company, Manikarnika Films, under which she works as a director and a producer. She is known to be outspoken in interviews and on social media, addressing private and public matters. The opinions she has voiced, aligning with right-wing ideologies and supporting the Bharatiya Janata Party (BJP), along with frequent clashes in her personal and professional relationships, have sparked controversy.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 342.13934085063795,
+            "ascendant": 12
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 341.1853952483171,
+                "cusp_degree": 11.185395248317093,
+                "motion_speed": 0.24203451389869957,
+                "zodiac": 12,
+                "house": 1,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 338.195027397943,
+                "cusp_degree": 8.195027397943022,
+                "motion_speed": 0.9923673516389446,
+                "zodiac": 12,
+                "house": 1,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 253.02418858610332,
+                "cusp_degree": 13.024188586103321,
+                "motion_speed": 14.223370553898166,
+                "zodiac": 9,
+                "house": 10,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 299.6043357264398,
+                "cusp_degree": 29.604335726439786,
+                "motion_speed": 1.190437824200084,
+                "zodiac": 10,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 27.129377373513698,
+                "cusp_degree": 27.129377373513698,
+                "motion_speed": 0.6766669188258275,
+                "zodiac": 1,
+                "house": 2,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 310.7538275948989,
+                "cusp_degree": 10.753827594898894,
+                "motion_speed": 0.8023951117253132,
+                "zodiac": 11,
+                "house": 12,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 237.4296384553803,
+                "cusp_degree": 27.429638455380314,
+                "motion_speed": 0.013658562760520456,
+                "zodiac": 8,
+                "house": 9,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 347.87957686949915,
+                "cusp_degree": 17.879576869499147,
+                "motion_speed": -0.002979713401186963,
+                "zodiac": 12,
+                "house": 1,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 348.52516950047334,
+                "cusp_degree": 18.52516950047334,
+                "motion_speed": -0.05299204173927741,
+                "zodiac": 12,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 168.52516950047334,
+                "motion_speed": -0.05299204173927741,
+                "cusp_degree": 18.52516950047334,
+                "zodiac": 6,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 167.87957686949915,
+                "motion_speed": -0.002979713401186963,
+                "cusp_degree": 17.879576869499147,
+                "zodiac": 6,
+                "house": 7,
+                "motion": "R"
+            }
+        }
+    }
+}

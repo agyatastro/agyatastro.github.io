@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Hardik Patel",
+        "title": "Activist/Politician",
+        "year": 1993,
+        "month": 7,
+        "day": 20,
+        "hour": 10,
+        "minute": 5,
+        "second": 0,
+        "latitude": 23.02579,
+        "longitude": 72.58727,
+        "location": "Ahmedabad",
+        "agyat_rating": "AX",
+        "about": "<p>Hardik Patel (born 20 July 1993) is an Indian politician and social activist. He rose to prominence in July 2015, where he led the Patidar reservation agitation that sought Other Backward Class (OBC) status for the Patidar caste.</p><p>He joined the Indian National Congress (INC) in 2020. He served as the Working President of the Gujarat Pradesh Congress Committee, the state unit of INC in Gujarat. He left the party and eventually joined the Bharatiya Janata Party in 2022.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 141.345835542098,
+            "ascendant": 5
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 164.33552039115122,
+                "cusp_degree": 14.33552039115122,
+                "motion_speed": 0.12807071814334733,
+                "zodiac": 6,
+                "house": 2,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 93.69619123684934,
+                "cusp_degree": 3.6961912368493444,
+                "motion_speed": 0.9548212450480542,
+                "zodiac": 4,
+                "house": 12,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 103.06785351307394,
+                "cusp_degree": 13.067853513073942,
+                "motion_speed": 14.420416969258028,
+                "zodiac": 4,
+                "house": 12,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 51.78732344423583,
+                "cusp_degree": 21.78732344423583,
+                "motion_speed": 1.1173033438524262,
+                "zodiac": 2,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 142.10582417699624,
+                "cusp_degree": 22.105824176996236,
+                "motion_speed": 0.6059272001890957,
+                "zodiac": 5,
+                "house": 1,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 85.80108650261269,
+                "cusp_degree": 25.80108650261269,
+                "motion_speed": -0.4683018653322078,
+                "zodiac": 3,
+                "house": 11,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 305.3235746584227,
+                "cusp_degree": 5.323574658422672,
+                "motion_speed": -0.05801225112814453,
+                "zodiac": 11,
+                "house": 7,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 227.55388187316092,
+                "cusp_degree": 17.55388187316092,
+                "motion_speed": -0.11346037347132899,
+                "zodiac": 8,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 226.05379738794417,
+                "cusp_degree": 16.053797387944172,
+                "motion_speed": -0.05299202734312987,
+                "zodiac": 8,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 46.0537973879442,
+                "motion_speed": -0.05299202734312987,
+                "cusp_degree": 16.0537973879442,
+                "zodiac": 2,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 47.55388187316089,
+                "motion_speed": -0.11346037347132899,
+                "cusp_degree": 17.55388187316089,
+                "zodiac": 2,
+                "house": 10,
+                "motion": "R"
+            }
+        }
+    }
+}

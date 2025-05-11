@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Sophie Turner",
+        "title": "Actor",
+        "year": 1996,
+        "month": 2,
+        "day": 21,
+        "hour": 8,
+        "minute": 10,
+        "second": 0,
+        "latitude": 52.25,
+        "longitude": -0.88333,
+        "location": "Northampton, United Kingdom",
+        "agyat_rating": "AA",
+        "about": "<p>Sophie Belinda Turner (born 21 February 1996) is an English actress. She made her acting debut as Sansa Stark in the HBO epic fantasy television series Game of Thrones (2011–2019), for which she received an Emmy Award nomination for Outstanding Supporting Actress in a Drama Series in 2019.</p><p>Turner appeared in the 2013 British drama television film The Thirteenth Tale and made her feature film debut in the psychological thriller Another Me (2013). She appeared in the action comedy Barely Lethal (2015) and portrayed a young Jean Grey / Phoenix in the X-Men film series (2016–2019).</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 342.7856050281343,
+            "ascendant": 12
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 256.4254857185312,
+                "cusp_degree": 16.425485718531206,
+                "motion_speed": 0.18139711282729234,
+                "zodiac": 9,
+                "house": 10,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 308.1778739223326,
+                "cusp_degree": 8.177873922332594,
+                "motion_speed": 1.008093672711303,
+                "zodiac": 11,
+                "house": 12,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 339.825128654107,
+                "cusp_degree": 9.825128654107004,
+                "motion_speed": 13.925655239299028,
+                "zodiac": 12,
+                "house": 1,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 350.5411602718556,
+                "cusp_degree": 20.541160271855574,
+                "motion_speed": 1.1587428022715354,
+                "zodiac": 12,
+                "house": 1,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 310.81980081893465,
+                "cusp_degree": 10.819800818934652,
+                "motion_speed": 0.7903880633346896,
+                "zodiac": 11,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 283.87268102796844,
+                "cusp_degree": 13.87268102796844,
+                "motion_speed": 1.3166955030847856,
+                "zodiac": 10,
+                "house": 11,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 330.56091580366495,
+                "cusp_degree": 0.5609158036649546,
+                "motion_speed": 0.11794438476616427,
+                "zodiac": 12,
+                "house": 1,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 174.14516073827212,
+                "cusp_degree": 24.145160738272125,
+                "motion_speed": -0.03288200798284965,
+                "zodiac": 6,
+                "house": 7,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 175.91455240804953,
+                "cusp_degree": 25.91455240804953,
+                "motion_speed": -0.05299202078116701,
+                "zodiac": 6,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 355.91455240804953,
+                "motion_speed": -0.05299202078116701,
+                "cusp_degree": 25.91455240804953,
+                "zodiac": 12,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 354.1451607382721,
+                "motion_speed": -0.03288200798284965,
+                "cusp_degree": 24.145160738272125,
+                "zodiac": 12,
+                "house": 1,
+                "motion": "R"
+            }
+        }
+    }
+}

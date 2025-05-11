@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Rakhi Sawant",
+        "title": "Actor/Model/Dancer",
+        "year": 1976,
+        "month": 11,
+        "day": 25,
+        "hour": 11,
+        "minute": 7,
+        "second": 0,
+        "latitude": 24.86852,
+        "longitude": 92.59606,
+        "location": "Badarpur",
+        "agyat_rating": "AU",
+        "about": "<p>Rakhi Sawant (born Neeru Bheda; 25 November 1978) is an Indian media personality, actress and dancer, who has performed item numbers predominantly in Hindi films. Her notable film appearances have been in Chura Liyaa Hai Tumne (2003), Masti (2004), Main Hoon Na (2004), Krazzy 4 (2008), and Dil Bole Hadippa! (2008).</p><p>Sawant was a contestant on the first season of the reality television series Bigg Boss 1 (2006) and a challenger and finalist in Bigg Boss 14 (2020). Sawant has established herself as a sex symbol and has gained attention in the media for her controversial statements and lifestyle.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 291.81691826083977,
+            "ascendant": 10
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 31.655330353686686,
+                "cusp_degree": 1.6553303536866864,
+                "motion_speed": -0.13379944016070178,
+                "zodiac": 2,
+                "house": 5,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 219.5352310183615,
+                "cusp_degree": 9.535231018361486,
+                "motion_speed": 1.0119346269547242,
+                "zodiac": 8,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 268.7781669803722,
+                "cusp_degree": 28.77816698037219,
+                "motion_speed": 14.052972688445534,
+                "zodiac": 9,
+                "house": 12,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 259.42246380617786,
+                "cusp_degree": 19.42246380617786,
+                "motion_speed": 1.1985362215766453,
+                "zodiac": 9,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 219.48714408944957,
+                "cusp_degree": 9.487144089449572,
+                "motion_speed": 0.7174330682206783,
+                "zodiac": 8,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 229.5148879132298,
+                "cusp_degree": 19.514887913229813,
+                "motion_speed": 1.5364546957261733,
+                "zodiac": 8,
+                "house": 11,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 113.33527100065218,
+                "cusp_degree": 23.335271000652185,
+                "motion_speed": 0.004795995233726266,
+                "zodiac": 4,
+                "house": 7,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 189.66205006042324,
+                "cusp_degree": 9.66205006042324,
+                "motion_speed": -0.06899690763397212,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 188.2960367003844,
+                "cusp_degree": 8.296036700384406,
+                "motion_speed": -0.05299204343757492,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 8.296036700384434,
+                "motion_speed": -0.05299204343757492,
+                "cusp_degree": 8.296036700384434,
+                "zodiac": 1,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 9.662050060423212,
+                "motion_speed": -0.06899690763397212,
+                "cusp_degree": 9.662050060423212,
+                "zodiac": 1,
+                "house": 4,
+                "motion": "R"
+            }
+        }
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Brittany Spears",
+        "title": "Singer",
+        "year": 1981,
+        "month": 12,
+        "day": 2,
+        "hour": 1,
+        "minute": 30,
+        "second": 0,
+        "latitude": 31.24379,
+        "longitude": -90.45315,
+        "location": "McComb, United States",
+        "agyat_rating": "AA",
+        "about": "<p>Britney Jean Spears (born December 2, 1981) is an American singer. Often referred to as the \"Princess of Pop\", she has sold over 150 million records worldwide, making her one of the world's best-selling music artists. An influential figure in popular music, Spears became the best-selling teenage artist of all time, credited with the revival of teen pop during the late 1990s and early 2000s.</p><p>Spears began her professional career in 1992 as a cast member of The All-New Mickey Mouse Club and signed with Jive Records five years later. Her first two studio albums, ...Baby One More Time (1999) and Oops!... I Did It Again (2000), are among the best-selling albums of all time. She adopted a more mature and provocative style for her albums Britney (2001) and In the Zone (2003). Spears was the executive producer of her fifth studio album, Blackout (2007), often referred to as her best work. She returned to the top of the U.S. Billboard 200 chart with the albums Circus (2008) and Femme Fatale (2011), and began a concert residency, Britney: Piece of Me (2013–2017), to promote her next two albums, Britney Jean (2013) and Glory (2016). Spears' catalog of high-charting singles includes \"...Baby One More Time\", \"Oops!... I Did It Again\", \"I'm a Slave 4 U\", \"Toxic\", \"Gimme More\", \"Womanizer\", \"3\", \"Hold It Against Me\", and \"Scream & Shout\".</p><p>Spears' life, including her high-profile relationships and personal struggles during the 2000s, received widespread media coverage. In 2008, she suffered a mental breakdown and was involuntarily placed in a conservatorship. In 2019, her legal battle over her conservatorship led to the establishment of the #FreeBritney movement and a release of Samantha Stark's documentary Framing Britney Spears (2021). The conservatorship was terminated in 2021, following her public testimony in which she accused her management team and family of abuse. Spears' 2023 memoir, The Woman in Me, reached number one on The New York Times Best Seller list in its first week of release. Her other ventures include starring in the film Crossroads (2002) and launching numerous products, with her 2005 fragrance Fantasy with Elizabeth Arden, Inc. generating over $1.5 billion in sales.</p><p>In the United States, Spears is the fourth best-selling female album artist of the Nielsen SoundScan era, as well as the best-selling female album artist of the 2000s. Her accolades include a Grammy Award, 15 Guinness World Records, six MTV Video Music Awards, seven Billboard Music Awards (including the Millennium Award), the Michael Jackson Video Vanguard Award and a star on the Hollywood Walk of Fame. Billboard ranked her sixth on their list of the Greatest Pop Stars of the 21st Century. \"...Baby One More Time\" was named the greatest debut single of all time by Rolling Stone in 2020. Forbes listed Spears as the world's highest-paid female musician in 2001 and 2012. By 2012, she had topped Yahoo!'s list of most searched celebrities seven times in twelve years. Time named Spears one of the 100 most influential people in the world in 2021, placing first in the reader poll.</p><p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 157.3189465524489,
+            "ascendant": 6
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 187.41144673961,
+                "cusp_degree": 7.41144673961,
+                "motion_speed": 0.19119271921810954,
+                "zodiac": 7,
+                "house": 2,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 226.43244651277587,
+                "cusp_degree": 16.43244651277587,
+                "motion_speed": 1.0141732451526415,
+                "zodiac": 8,
+                "house": 3,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 288.7158392268918,
+                "cusp_degree": 18.715839226891774,
+                "motion_speed": 12.319351362453347,
+                "zodiac": 10,
+                "house": 5,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 271.5076156395163,
+                "cusp_degree": 1.5076156395163025,
+                "motion_speed": 0.7980149716536169,
+                "zodiac": 10,
+                "house": 5,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 149.67838991558585,
+                "cusp_degree": 29.678389915585853,
+                "motion_speed": 0.5090513958975668,
+                "zodiac": 5,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 221.81317518684847,
+                "cusp_degree": 11.813175186848468,
+                "motion_speed": 1.572616292443331,
+                "zodiac": 8,
+                "house": 3,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 175.67122228860524,
+                "cusp_degree": 25.671222288605236,
+                "motion_speed": 0.09202365536531999,
+                "zodiac": 6,
+                "house": 1,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 89.56054679414775,
+                "cusp_degree": 29.560546794147754,
+                "motion_speed": 0.025754544916808002,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 91.15696464319389,
+                "cusp_degree": 1.1569646431938878,
+                "motion_speed": -0.05299203859662676,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 271.1569646431939,
+                "motion_speed": -0.05299203859662676,
+                "cusp_degree": 1.1569646431938736,
+                "zodiac": 10,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 269.56054679414774,
+                "motion_speed": 0.025754544916808002,
+                "cusp_degree": 29.56054679414774,
+                "zodiac": 9,
+                "house": 4,
+                "motion": "R"
+            }
+        }
+    }
+}

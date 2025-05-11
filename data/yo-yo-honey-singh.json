@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Yo Yo Honey Singh",
+        "title": "Singer/Music Producer",
+        "year": 1983,
+        "month": 3,
+        "day": 15,
+        "hour": 14,
+        "minute": 0,
+        "second": 0,
+        "latitude": 31.53723,
+        "longitude": 75.91269,
+        "location": "Hoshiarpur, Punjab",
+        "agyat_rating": "AU",
+        "about": "<p>Hirdesh \"Honey\" Singh (born 15 March 1983), known professionally as Yo Yo Honey Singh, is an Indian singer and music producer. He commenced his career as a hip-hop music producer in 2003 with his underground album titled Desi By Nature, subsequently working as a session and recording artist within the underground music scene until the release of his debut studio album, International Villager.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 88.87129867512961,
+            "ascendant": 3
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 227.05683963483943,
+                "cusp_degree": 17.056839634839434,
+                "motion_speed": 0.03917808521555259,
+                "zodiac": 8,
+                "house": 6,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 330.55593132511666,
+                "cusp_degree": 0.55593132511666,
+                "motion_speed": 0.9968495621415475,
+                "zodiac": 12,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 337.502444626511,
+                "cusp_degree": 7.502444626511021,
+                "motion_speed": 12.6291299659657,
+                "zodiac": 12,
+                "house": 10,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 1.436101396696978,
+                "cusp_degree": 1.436101396696978,
+                "motion_speed": 1.2168106957210085,
+                "zodiac": 1,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 350.4143061755772,
+                "cusp_degree": 20.414306175577224,
+                "motion_speed": 0.7597219384926951,
+                "zodiac": 12,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 320.3891827686395,
+                "cusp_degree": 20.3891827686395,
+                "motion_speed": 1.7963575179387825,
+                "zodiac": 11,
+                "house": 9,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 190.0215144010171,
+                "cusp_degree": 10.0215144010171,
+                "motion_speed": -0.04959071080271303,
+                "zodiac": 7,
+                "house": 5,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 66.55685642322625,
+                "cusp_degree": 6.55685642322625,
+                "motion_speed": -0.23280468800079676,
+                "zodiac": 3,
+                "house": 1,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 66.35500152719273,
+                "cusp_degree": 6.3550015271927265,
+                "motion_speed": -0.0529920207524953,
+                "zodiac": 3,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 246.3550015271927,
+                "motion_speed": -0.0529920207524953,
+                "cusp_degree": 6.355001527192712,
+                "zodiac": 9,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 246.55685642322624,
+                "motion_speed": -0.23280468800079676,
+                "cusp_degree": 6.556856423226236,
+                "zodiac": 9,
+                "house": 7,
+                "motion": "R"
+            }
+        }
+    }
+}

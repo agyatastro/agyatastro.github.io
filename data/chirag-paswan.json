@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Chirag Paswan",
+        "title": "Actor/Politician",
+        "year": 1982,
+        "month": 10,
+        "day": 31,
+        "hour": 12,
+        "minute": 15,
+        "second": 0,
+        "latitude": 26.35367,
+        "longitude": 86.07169,
+        "location": "Madhubani, Bihar",
+        "agyat_rating": "AA",
+        "about": "Chirag Paswan (born 31 October 1982) is an Indian politician and former actor who is serving as the 19th Minister of Food Processing Industries since June 2024, the 1st president of the Lok Janshakti Party (Ram Vilas) since 2021, 2nd president of the Lok Janshakti Party from 2019 to 2021 and a Member of Parliament, Lok Sabha from the Hajipur Lok Sabha constituency since 2024. He is the son of late Member of Parliament and Union Minister, Ram Vilas Paswan."
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 274.62178443356396,
+            "ascendant": 10
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 204.32665899368797,
+                "cusp_degree": 24.32665899368797,
+                "motion_speed": 0.21851594686286674,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 193.8887506794013,
+                "cusp_degree": 13.888750679401312,
+                "motion_speed": 0.9995676082022423,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 357.2711779560377,
+                "cusp_degree": 27.271177956037718,
+                "motion_speed": 13.845614789237722,
+                "zodiac": 12,
+                "house": 3,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 192.92039771892246,
+                "cusp_degree": 12.920397718922459,
+                "motion_speed": 1.2538569264766266,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 245.87015049187127,
+                "cusp_degree": 5.8701504918712715,
+                "motion_speed": 0.7438355981092356,
+                "zodiac": 9,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 181.8121976098411,
+                "cusp_degree": 1.8121976098410926,
+                "motion_speed": 1.6380969071361136,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 183.05636960074352,
+                "cusp_degree": 3.0563696007435226,
+                "motion_speed": 0.12021058355711427,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 72.3790919843505,
+                "cusp_degree": 12.379091984350495,
+                "motion_speed": -0.16905884014406913,
+                "zodiac": 3,
+                "house": 6,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 73.51278961960013,
+                "cusp_degree": 13.512789619600127,
+                "motion_speed": -0.05299203774937952,
+                "zodiac": 3,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 253.51278961960014,
+                "motion_speed": -0.05299203774937952,
+                "cusp_degree": 13.512789619600142,
+                "zodiac": 9,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 252.3790919843505,
+                "motion_speed": -0.16905884014406913,
+                "cusp_degree": 12.37909198435051,
+                "zodiac": 9,
+                "house": 12,
+                "motion": "R"
+            }
+        }
+    }
+}

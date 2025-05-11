@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Kajol",
+        "title": "Actor",
+        "year": 1975,
+        "month": 10,
+        "day": 7,
+        "hour": 19,
+        "minute": 8,
+        "second": 0,
+        "latitude": 28.65195,
+        "longitude": 77.23149,
+        "location": "Delhi",
+        "agyat_rating": "AA",
+        "about": "<p>Kajol Devgan (née Mukherjee) (Bengali pronunciation: [kad͡ʒol]; born 5 August 1974), known mononymously as Kajol, is an Indian actress. Described in the media as one of the most successful actresses of Hindi cinema, she is the recipient of numerous accolades, such as six Filmfare Awards, which include a record-tying five Best Actress wins. In 2011, she was honoured with the Padma Shri by the Government of India.</p><p>The daughter of Tanuja and Shomu Mukherjee, Kajol made her acting debut with Bekhudi (1992) while still in school. She subsequently quit her studies, and had commercial successes in Baazigar (1993), and Yeh Dillagi (1994). Starring roles in the top-grossing romances Dilwale Dulhania Le Jayenge (1995) and Kuch Kuch Hota Hai (1998) established her as a leading star in the 1990s and earned her two Filmfare Awards for Best Actress. She also gained critical appreciation for playing a psychopathic killer in Gupt: The Hidden Truth (1997) and an avenger in Dushman (1998).</p><p>After starring in the family drama Kabhi Khushi Kabhie Gham... (2001), which won her a third Filmfare Award, Kajol took a sabbatical from full-time acting and worked infrequently over the next decades. She won two more Best Actress awards at Filmfare for starring in the romantic thriller Fanaa (2006) and the drama My Name Is Khan (2010). Her highest-grossing releases came with the comedy Dilwale (2015) and the period film Tanhaji (2020). She has since starred in the streaming projects Tribhanga (2021), The Trial (2023) and Do Patti (2024).</p><p>In addition to acting in films, Kajol is a social activist and noted for her work with widows and children. She has featured as a talent judge for the reality show Rock-N-Roll Family in 2008, and holds a managerial position at Devgn Entertainment and Software Ltd. Kajol has been married to the actor and filmmaker Ajay Devgn since 1999, with whom she has two children.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 6.737762133489454,
+            "ascendant": 1
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 356.9480616556282,
+                "cusp_degree": 26.94806165562818,
+                "motion_speed": -0.13340052254956286,
+                "zodiac": 12,
+                "house": 12,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 170.12952432203707,
+                "cusp_degree": 20.12952432203707,
+                "motion_speed": 0.9869958623263548,
+                "zodiac": 6,
+                "house": 6,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 203.75315182062604,
+                "cusp_degree": 23.753151820626044,
+                "motion_speed": 14.51432507823881,
+                "zodiac": 7,
+                "house": 7,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 128.35618342795604,
+                "cusp_degree": 8.35618342795604,
+                "motion_speed": 0.6015346714333827,
+                "zodiac": 5,
+                "house": 5,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 63.55763513690993,
+                "cusp_degree": 3.55763513690993,
+                "motion_speed": 0.3420978445544501,
+                "zodiac": 3,
+                "house": 3,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 174.2724651612423,
+                "cusp_degree": 24.27246516124231,
+                "motion_speed": -1.1518403656995972,
+                "zodiac": 6,
+                "house": 6,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 98.12598764113127,
+                "cusp_degree": 8.125987641131275,
+                "motion_speed": 0.06684569724307772,
+                "zodiac": 4,
+                "house": 4,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 208.76266924980675,
+                "cusp_degree": 28.76266924980675,
+                "motion_speed": -0.009164509631121122,
+                "zodiac": 7,
+                "house": 7,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 210.27003142593705,
+                "cusp_degree": 0.27003142593704865,
+                "motion_speed": -0.05299204454522108,
+                "zodiac": 8,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 30.270031425937077,
+                "motion_speed": -0.05299204454522108,
+                "cusp_degree": 0.2700314259370771,
+                "zodiac": 2,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 28.762669249806777,
+                "motion_speed": -0.009164509631121122,
+                "cusp_degree": 28.762669249806777,
+                "zodiac": 1,
+                "house": 1,
+                "motion": "R"
+            }
+        }
+    }
+}

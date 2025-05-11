@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Katrina Kaif",
+        "title": "Actor",
+        "year": 1983,
+        "month": 7,
+        "day": 16,
+        "hour": 6,
+        "minute": 40,
+        "second": 0,
+        "latitude": 22.27832,
+        "longitude": 114.17469,
+        "location": "Hong Kong",
+        "agyat_rating": "AA",
+        "about": "<p>Katrina Kaif (pronounced [kəˈʈriːna kɛːf]; born Katrina Rosemary Turcotte, 16 July 1983) is a British actress who works in Hindi-language films. One of the highest-paid actresses in India, she has received accolades, including four Screen Awards and four Zee Cine Awards, in addition to three Filmfare nominations. Though reception to her acting has varied, she is noted for her action film roles and her dancing ability.</p><p>Born in British Hong Kong, Kaif lived in several countries before she moved to London for three years. She received her first modelling assignment as a teenager and later pursued a career as a fashion model. At a fashion show in London, Indian filmmaker Kaizad Gustad cast her in Boom (2003), a critical and commercial failure. While Kaif established a successful modelling career in India, she initially had difficulty finding film roles due to her poor command of Hindi. After appearing in the Telugu film Malliswari (2004), Kaif earned commercial success in Bollywood with the romantic comedies Maine Pyaar Kyun Kiya? (2005) and Namastey London (2007). Further success followed with a series of box-office hits, but she was criticised for her acting, repetitive roles, and inclination to male-dominated films.</p><p>Kaif's performances in the thriller New York (2009) and the romantic comedy Mere Brother Ki Dulhan (2011) were better received, earning her nominations for the Filmfare Award for Best Actress. Her career progressed with roles in Ajab Prem Ki Ghazab Kahani (2009), Raajneeti (2010), and Zindagi Na Milegi Dobara (2011), and she found major commercial success in the action thrillers Ek Tha Tiger (2012), Dhoom 3 (2013), and Bang Bang! (2014), which were among the highest-grossing Indian films of that decade. Following a brief setback, the action films Tiger Zinda Hai (2017), Sooryavanshi (2021) and Tiger 3 (2023) and the drama Bharat (2019) emerged as box-office hits. Kaif's portrayal of an alcoholic actress in the romantic drama Zero (2018) earned her the Zee Cine Award for Best Supporting Actress.</p><p>In the media, Kaif frequently features in listings of India's most popular and attractive celebrities. A regular brand endorser, she launched her cosmetic line Kay Beauty in 2019. She participates in stage shows and is involved with her mother's charity Relief Projects India, which works to help underprivileged children. Kaif is married to actor Vicky Kaushal.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 105.02135086004243,
+            "ascendant": 4
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 217.71572091272466,
+                "cusp_degree": 7.715720912724663,
+                "motion_speed": -0.0402904551914125,
+                "zodiac": 8,
+                "house": 5,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 89.26082783698675,
+                "cusp_degree": 29.26082783698675,
+                "motion_speed": 0.9539396956496496,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 164.51616366681694,
+                "cusp_degree": 14.516163666816936,
+                "motion_speed": 13.93386813691417,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 129.9800690099845,
+                "cusp_degree": 9.980069009984504,
+                "motion_speed": 0.5705828257729635,
+                "zodiac": 5,
+                "house": 2,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 77.54326692887517,
+                "cusp_degree": 17.54326692887517,
+                "motion_speed": 0.6640403161533583,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 96.55821991346566,
+                "cusp_degree": 6.558219913465663,
+                "motion_speed": 2.044816276453563,
+                "zodiac": 4,
+                "house": 1,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 184.27209532223233,
+                "cusp_degree": 4.272095322232332,
+                "motion_speed": 0.023716467427917897,
+                "zodiac": 7,
+                "house": 4,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 61.15592435127673,
+                "cusp_degree": 1.155924351276731,
+                "motion_speed": -0.02318003236304074,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 59.85700104882605,
+                "cusp_degree": 29.85700104882605,
+                "motion_speed": -0.05299203704884436,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 239.85700104882605,
+                "motion_speed": -0.05299203704884436,
+                "cusp_degree": 29.85700104882605,
+                "zodiac": 8,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 241.15592435127672,
+                "motion_speed": -0.02318003236304074,
+                "cusp_degree": 1.1559243512767239,
+                "zodiac": 9,
+                "house": 6,
+                "motion": "R"
+            }
+        }
+    }
+}

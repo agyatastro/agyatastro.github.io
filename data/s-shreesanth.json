@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "S. Shreesanth",
+        "title": "Sportsperson/Cricket",
+        "year": 1983,
+        "month": 2,
+        "day": 6,
+        "hour": 23,
+        "minute": 55,
+        "second": 0,
+        "latitude": 10.0683,
+        "longitude": 76.59542,
+        "location": "Kothamangalam",
+        "agyat_rating": "AA",
+        "about": "<p>Shanthakumaran Nair Sreesanth (born 6 February 1983) is an Indian former cricketer and film actor who played all formats of the game for his country. He is a right-arm fast-medium-pace bowler and a right-handed tail-ender batsman. In first class cricket, he played for Kerala. In the Indian Premier League (IPL) he played for the Rajasthan Royals. He became the first Kerala Ranji player to play Twenty20 cricket for India. Sreesanth was initially banned for life after spot-fixing in the 2013 IPL, however, the ban was reduced to seven years in August 2019. In 2018, he participated in the popular reality show, Bigg Boss and became the runner up. In 2020 he was selected for the Kerala cricket team and resumed his career in national cricket. In March 2022, Sreesanth announced his retirement from domestic cricket. Sreesanth was a member of the Indian team that won both the 2007 T20 World Cup and the 2011 Cricket World Cup, where in the 2007 final, he took the winning catch.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 189.94322528797585,
+            "ascendant": 7
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 223.75883455414913,
+                "cusp_degree": 13.758834554149132,
+                "motion_speed": 0.13563356052115702,
+                "zodiac": 8,
+                "house": 2,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 293.76510717370076,
+                "cusp_degree": 23.765107173700756,
+                "motion_speed": 1.0134006783613512,
+                "zodiac": 10,
+                "house": 4,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 225.78095828341793,
+                "cusp_degree": 15.780958283417931,
+                "motion_speed": 12.053060203498962,
+                "zodiac": 8,
+                "house": 2,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 316.3729960229561,
+                "cusp_degree": 16.3729960229561,
+                "motion_speed": 1.243580250140174,
+                "zodiac": 11,
+                "house": 5,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 322.20709513321617,
+                "cusp_degree": 22.20709513321617,
+                "motion_speed": 0.7802508538569398,
+                "zodiac": 11,
+                "house": 5,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 268.16482575182897,
+                "cusp_degree": 28.16482575182897,
+                "motion_speed": 0.9060066808512689,
+                "zodiac": 9,
+                "house": 3,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 190.7915129907072,
+                "cusp_degree": 10.79151299070719,
+                "motion_speed": 0.010065850151591692,
+                "zodiac": 7,
+                "house": 1,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 69.85686168070217,
+                "cusp_degree": 9.856861680702167,
+                "motion_speed": 0.026712714365637606,
+                "zodiac": 3,
+                "house": 9,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 68.2938106342042,
+                "cusp_degree": 8.293810634204206,
+                "motion_speed": -0.052992053982930616,
+                "zodiac": 3,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 248.2938106342042,
+                "motion_speed": -0.052992053982930616,
+                "cusp_degree": 8.293810634204192,
+                "zodiac": 9,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 249.85686168070217,
+                "motion_speed": 0.026712714365637606,
+                "cusp_degree": 9.856861680702167,
+                "zodiac": 9,
+                "house": 3,
+                "motion": "R"
+            }
+        }
+    }
+}

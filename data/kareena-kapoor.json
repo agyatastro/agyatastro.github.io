@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Kareena Kapoor",
+        "title": "Actor",
+        "year": 1980,
+        "month": 9,
+        "day": 21,
+        "hour": 14,
+        "minute": 17,
+        "second": 0,
+        "latitude": 19.07283,
+        "longitude": 72.88261,
+        "location": "Mumbai, Maharashtra",
+        "agyat_rating": "AA",
+        "about": "<p>Kareena Kapoor Khan (pronounced [kəˈriːna kəˈpuːr xɑːn]; née Kapoor; born 21 September 1980) is an Indian actress. A prolific leading lady of Hindi cinema since 2000, she is noted for her roles in a range of film genres—from romantic comedies to crime dramas. Kapoor is the recipient of several awards, including six Filmfare Awards, and as of 2024, is one of Hindi cinema's highest-paid actresses.</p><p>Born into the Kapoor family, she is the daughter of actors Babita and Randhir Kapoor, and the younger sister of actress Karisma Kapoor. After making her acting debut in 2000 in Refugee, Kapoor established herself the following year with several roles, including in the top-grossing drama Kabhi Khushi Kabhie Gham.... This was followed by a series of commercial failures and negative reviews for her repetitive roles. An against-type performance as a sex worker in the 2004 drama Chameli marked a turning point in her career. She earned critical recognition for her portrayal of a riot victim in the 2004 drama Dev and a character based on Desdemona in the 2006 crime film Omkara. Her performance as a loquacious woman in the romantic comedy Jab We Met (2007) earned her the Filmfare Award for Best Actress.</p><p>Further praise came for her dramatic performances in Kurbaan (2009), Talaash: The Answer Lies Within, Heroine (both 2012), Udta Punjab (2016) and Laal Singh Chaddha (2022). Her highest-grossing releases include the comedy-dramas 3 Idiots (2009) and Bajrangi Bhaijaan (2015), the action films Bodyguard (2011) and Singham Returns (2014), and the comedies Golmaal 3 (2010) and Good Newwz (2019). She has also starred in the female-led comedies Veere Di Wedding (2018) and Crew (2024).</p><p>Kapoor Khan is married to actor Saif Ali Khan, with whom she has two sons. Her off-screen life is the subject of widespread coverage in India. She is known for being outspoken and assertive and is recognised for her fashion style. Beside film acting, Kapoor participates in stage shows, hosts a radio show and has contributed as a co-writer to two autobiographical memoirs and two books of nutrition guides. She has started her own line of clothing and cosmetics for women, and has worked with UNICEF since 2014 to advocate for the education of girls and an increase in quality based education in India.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 256.5283021242646,
+            "ascendant": 9
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 148.88954363729414,
+                "cusp_degree": 28.88954363729414,
+                "motion_speed": 0.2159427979226922,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 154.9183956881039,
+                "cusp_degree": 4.918395688103914,
+                "motion_speed": 0.9777855710863036,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 291.41243756778215,
+                "cusp_degree": 21.41243756778215,
+                "motion_speed": 14.14599559990019,
+                "zodiac": 10,
+                "house": 2,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 111.0676217375909,
+                "cusp_degree": 21.067621737590898,
+                "motion_speed": 1.1044584353202933,
+                "zodiac": 4,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 201.8222045577875,
+                "cusp_degree": 21.8222045577875,
+                "motion_speed": 0.683459805938845,
+                "zodiac": 7,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 174.21131269380894,
+                "cusp_degree": 24.211312693808935,
+                "motion_speed": 1.4808157561570021,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 156.4031167686457,
+                "cusp_degree": 6.4031167686457025,
+                "motion_speed": 0.12406237316769175,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 116.0899325221616,
+                "cusp_degree": 26.089932522161604,
+                "motion_speed": 0.00753491792758818,
+                "zodiac": 4,
+                "house": 8,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 114.31216411674785,
+                "cusp_degree": 24.31216411674785,
+                "motion_speed": -0.05299203974325271,
+                "zodiac": 4,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 294.31216411674785,
+                "motion_speed": -0.05299203974325271,
+                "cusp_degree": 24.31216411674785,
+                "zodiac": 10,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 296.0899325221616,
+                "motion_speed": 0.00753491792758818,
+                "cusp_degree": 26.089932522161575,
+                "zodiac": 10,
+                "house": 2,
+                "motion": "R"
+            }
+        }
+    }
+}

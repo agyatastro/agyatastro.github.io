@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Dhanush",
+        "title": "Actor",
+        "year": 1983,
+        "month": 7,
+        "day": 28,
+        "hour": 10,
+        "minute": 30,
+        "second": 0,
+        "latitude": 10.01115,
+        "longitude": 77.47772,
+        "location": "Teni",
+        "agyat_rating": "AA",
+        "about": "<p>Venkatesh Prabhu Kasthuri Raja (born 28 July 1983), known professionally as Dhanush, is an Indian actor, filmmaker, lyricist and playback singer who primarily works in Tamil cinema. Having starred in 50 films over his career, his accolades include four National Film Awards (two as actor and two as producer), fourteen SIIMA Awards, eight Filmfare Awards South and a Filmfare Award. One of the highest paid actors in Indian cinema, he has been included in the Forbes India Celebrity 100 list six times.</p><p>Dhanush's first film was Thulluvadho Ilamai, a 2002 coming-of-age film directed by his father, Kasthuri Raja. He achieved further success in Polladhavan (2007) and Yaaradi Nee Mohini (2008), both of which were critically acclaimed and commercially successful. His role as a rooster fight jockey in Aadukalam (2010) won him the National Film Award for Best Actor and the Filmfare Award for Best Actor – Tamil. He continued success with films, including Maryan (2013), Velaiilla Pattadhari (2014), Anegan (2015), Maari (2015), Kodi (2016), Vada Chennai (2018), Asuran (2019), Thiruchitrambalam (2022), Vaathi (2023) and Raayan (2024), the lattermost of which emerged as his highest-grossing release.</p><p>In 2011, Dhanush's popular bilingual song \"Why This Kolaveri Di\" from the romantic psychological thriller film 3 (2012) became the first Indian music video to cross 100 million views on YouTube. He made his Hindi film debut with Aanand L. Rai's Raanjhanaa (2013). His performance as an obsessive one-sided lover in the film won him the Filmfare Award for Best Male Debut in addition to a nomination for the Filmfare Award for Best Actor. Dhanush produces films through his production company, Wunderbar Films, and made his directorial debut with Pa Paandi (2017). His song \"Rowdy Baby\" from Maari 2 became one of the most-viewed Indian songs of all time. It is the first South Indian video song to reach one billion views on YouTube. Dhanush won his second National Film Award for Best Actor for Asuran (2019)</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 158.63908771974982,
+            "ascendant": 6
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 217.44786371392314,
+                "cusp_degree": 7.447863713923141,
+                "motion_speed": -0.003364225943210078,
+                "zodiac": 8,
+                "house": 3,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 100.93494082099565,
+                "cusp_degree": 10.93494082099565,
+                "motion_speed": 0.9553475510053783,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 316.01386435655706,
+                "cusp_degree": 16.013864356557065,
+                "motion_speed": 11.919913210994775,
+                "zodiac": 11,
+                "house": 6,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 135.0663551665565,
+                "cusp_degree": 15.066355166556491,
+                "motion_speed": 0.23757873330316842,
+                "zodiac": 5,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 85.61714367195627,
+                "cusp_degree": 25.61714367195627,
+                "motion_speed": 0.656302933273065,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 119.4554453693479,
+                "cusp_degree": 29.4554453693479,
+                "motion_speed": 1.6938229568417682,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 184.68039632956925,
+                "cusp_degree": 4.680396329569248,
+                "motion_speed": 0.042823487515687236,
+                "zodiac": 7,
+                "house": 2,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 60.748911892695446,
+                "cusp_degree": 0.7489118926954461,
+                "motion_speed": -0.11885732383673313,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 59.20880548497856,
+                "cusp_degree": 29.208805484978562,
+                "motion_speed": -0.052992020509960026,
+                "zodiac": 2,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 239.20880548497857,
+                "motion_speed": -0.052992020509960026,
+                "cusp_degree": 29.20880548497857,
+                "zodiac": 8,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 240.74891189269545,
+                "motion_speed": -0.11885732383673313,
+                "cusp_degree": 0.7489118926954461,
+                "zodiac": 9,
+                "house": 4,
+                "motion": "R"
+            }
+        }
+    }
+}

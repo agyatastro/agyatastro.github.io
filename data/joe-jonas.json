@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Joe Jonas",
+        "title": "Singer/Song Writer/Actor",
+        "year": 1989,
+        "month": 8,
+        "day": 15,
+        "hour": 9,
+        "minute": 58,
+        "second": 0,
+        "latitude": 32.8795,
+        "longitude": -111.75735,
+        "location": "Casa Grande",
+        "agyat_rating": "AA",
+        "about": "<p>Joseph Adam Jonas (born August 15, 1989) is an American singer, songwriter, and actor. He rose to fame as a member of the pop rock band the Jonas Brothers, alongside his brothers Kevin and Nick. The group released their debut studio album It's About Time through the Columbia label in 2006. After signing with Hollywood Records, the group released their self-titled second studio album in 2007, which became their breakthrough record. The band became prominent figures on the Disney Channel during this time, gaining a large following through the network: they appeared in the widely successful musical television film Camp Rock (2008) and its sequel Camp Rock 2: The Final Jam (2010) as well as two of their own series, Jonas Brothers: Living the Dream (2008–2010) and Jonas (2009–2010).</p><p>The band's third studio album, A Little Bit Longer (2008), saw continued commercial success for the group; the album's lead single \"Burnin' Up\" hit the top five on the Billboard Hot 100 chart. Their fourth studio album, while still successful on the Billboard 200 chart, saw a decline in record sales. After the group confirmed a hiatus, Joe released his debut solo studio album, Fastlife (2011), which saw moderate commercial success. After the Jonas Brothers officially parted ways due to creative differences, Jonas formed the funk-pop band DNCE in 2015, serving as the lead vocalist. The group saw the significant commercial success of their debut single \"Cake by the Ocean\", which peaked at number 9 on the Billboard Hot 100 chart in the United States.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 176.7217697629529,
+            "ascendant": 6
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 69.35563851036899,
+                "cusp_degree": 9.35563851036899,
+                "motion_speed": 0.1847375500100289,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 119.13657576863784,
+                "cusp_degree": 29.13657576863784,
+                "motion_speed": 0.9606164985815057,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 280.60691835559084,
+                "cusp_degree": 10.606918355590835,
+                "motion_speed": 13.94327506899784,
+                "zodiac": 10,
+                "house": 5,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 153.47952290239706,
+                "cusp_degree": 3.479522902397065,
+                "motion_speed": 1.192260210603299,
+                "zodiac": 6,
+                "house": 1,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 133.9693612853916,
+                "cusp_degree": 13.969361285391614,
+                "motion_speed": 0.6334767047285752,
+                "zodiac": 5,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 142.99216868400248,
+                "cusp_degree": 22.99216868400248,
+                "motion_speed": 1.419421057800758,
+                "zodiac": 5,
+                "house": 12,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 254.14615550657518,
+                "cusp_degree": 14.146155506575184,
+                "motion_speed": -0.04084684589072304,
+                "zodiac": 9,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 302.09594094152726,
+                "cusp_degree": 2.0959409415272603,
+                "motion_speed": -0.003600635256045313,
+                "zodiac": 11,
+                "house": 6,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 302.0681293388934,
+                "cusp_degree": 2.0681293388934137,
+                "motion_speed": -0.052992039389182115,
+                "zodiac": 11,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 122.06812933889341,
+                "motion_speed": -0.052992039389182115,
+                "cusp_degree": 2.0681293388934137,
+                "zodiac": 5,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 122.09594094152726,
+                "motion_speed": -0.003600635256045313,
+                "cusp_degree": 2.0959409415272603,
+                "zodiac": 5,
+                "house": 12,
+                "motion": "R"
+            }
+        }
+    }
+}

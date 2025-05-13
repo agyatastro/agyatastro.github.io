@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "KL Rahul",
+        "title": "Sportsperson/Cricket",
+        "year": 1992,
+        "month": 4,
+        "day": 18,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 12.91723,
+        "longitude": 74.85603,
+        "location": "Mangalore",
+        "agyat_rating": "AX",
+        "about": "<p>Kannaur Lokesh Rahul (Kannada: [kaɳːuːɾ loːkeːʃ ɾaːhul]; born 18 April 1992) is an Indian cricketer who plays for the national team. He is a right-handed wicket-keeper batter. He plays for Delhi Capitals in the Indian Premier League and for Karnataka in domestic cricket.</p><p>Rahul made his international debut in 2014 against Australia in the Boxing Day Test in Melbourne. Two years after his Test debut, Rahul made his One-Day International debut in 2016 against Zimbabwe, where he scored his first century by hitting a six on the last ball to reach 100* (115) from 94 (114), which was also the only six of the entire match. Rahul is the first and only Indian cricketer to score an ODI century on his debut. On the same tour, he made his T20I debut.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 83.64885552851032,
+            "ascendant": 3
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 131.12077905716,
+                "cusp_degree": 11.120779057160007,
+                "motion_speed": -0.03855390035450705,
+                "zodiac": 5,
+                "house": 3,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 4.7076758264080185,
+                "cusp_degree": 4.7076758264080185,
+                "motion_speed": 0.9767377904094119,
+                "zodiac": 1,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 198.21820478951884,
+                "cusp_degree": 18.218204789518836,
+                "motion_speed": 13.548597170872725,
+                "zodiac": 7,
+                "house": 5,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 349.7471981740297,
+                "cusp_degree": 19.747198174029677,
+                "motion_speed": 1.2319327848125055,
+                "zodiac": 12,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 322.645857560943,
+                "cusp_degree": 22.645857560943,
+                "motion_speed": 0.7731933374155142,
+                "zodiac": 11,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 338.2557850153604,
+                "cusp_degree": 8.255785015360402,
+                "motion_speed": 0.6865762885984231,
+                "zodiac": 12,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 293.4371931386155,
+                "cusp_degree": 23.4371931386155,
+                "motion_speed": 0.06245238286352807,
+                "zodiac": 10,
+                "house": 8,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 248.92267976164354,
+                "cusp_degree": 8.922679761643536,
+                "motion_speed": -0.14324108800039337,
+                "zodiac": 9,
+                "house": 7,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 250.3199108742479,
+                "cusp_degree": 10.31991087424791,
+                "motion_speed": -0.052992028603442654,
+                "zodiac": 9,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 70.31991087424791,
+                "motion_speed": -0.052992028603442654,
+                "cusp_degree": 10.31991087424791,
+                "zodiac": 3,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 68.92267976164351,
+                "motion_speed": -0.14324108800039337,
+                "cusp_degree": 8.922679761643508,
+                "zodiac": 3,
+                "house": 1,
+                "motion": "R"
+            }
+        }
+    }
+}

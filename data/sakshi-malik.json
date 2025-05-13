@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Sakshi Malik",
+        "title": "Sportsperson/Freestyle Wrestler",
+        "year": 1992,
+        "month": 9,
+        "day": 3,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 28.89447,
+        "longitude": 76.58917,
+        "location": "Rohtak, Haryana",
+        "agyat_rating": "AX",
+        "about": "<p>Sakshi Malik Kadian (born 3 September 1992) is a former Indian freestyle wrestler. At the 2016 Summer Olympics, she won the bronze medal in the 58 kg category, becoming the first Indian female wrestler to win a medal at the Olympics. In 2017, the Government of India honoured her with the Padma Shri, the country's fourth-highest civilian award and in 2024, she became the first Indian wrestler to feature in Time magazine's list of the 100 most influential people in the world. She is a part of the JSW Sports Excellence Program, along with fellow female wrestlers Vinesh Phogat, Babita Kumari and Geeta Phogat.</p><p>Malik had previously won the silver medal at the 2014 Commonwealth Games in Glasgow, and the bronze medal at the 2015 Asian Wrestling Championships in Doha. She was one of the leaders of the 2023 Indian wrestlers' protest against BJP MP Brij Bhushan Sharan Singh. In December 2023, she announced her retirement from wrestling after the election of a close aide of Brij Bhushan Sharan Singh as WFI chief.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 209.20426778483954,
+            "ascendant": 7
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 148.21434739381695,
+                "cusp_degree": 28.21434739381695,
+                "motion_speed": 0.21420657347251573,
+                "zodiac": 5,
+                "house": 11,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 137.23326231419088,
+                "cusp_degree": 17.23326231419088,
+                "motion_speed": 0.9688413320777233,
+                "zodiac": 5,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 219.10435717503347,
+                "cusp_degree": 9.10435717503347,
+                "motion_speed": 12.921745104318552,
+                "zodiac": 8,
+                "house": 2,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 159.41200438085127,
+                "cusp_degree": 9.412004380851272,
+                "motion_speed": 1.227732713924072,
+                "zodiac": 6,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 60.980129761085756,
+                "cusp_degree": 0.980129761085756,
+                "motion_speed": 0.5976593659557172,
+                "zodiac": 3,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 126.0901578509371,
+                "cusp_degree": 6.0901578509371035,
+                "motion_speed": 1.88511445260363,
+                "zodiac": 5,
+                "house": 11,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 289.48830846231715,
+                "cusp_degree": 19.48830846231715,
+                "motion_speed": -0.061494290652765564,
+                "zodiac": 10,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 243.918524972317,
+                "cusp_degree": 3.9185249723169875,
+                "motion_speed": -0.012419152790970299,
+                "zodiac": 9,
+                "house": 3,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 243.00701197118477,
+                "cusp_degree": 3.0070119711847667,
+                "motion_speed": -0.052992019958288464,
+                "zodiac": 9,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 63.00701197118474,
+                "motion_speed": -0.052992019958288464,
+                "cusp_degree": 3.0070119711847383,
+                "zodiac": 3,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 63.91852497231696,
+                "motion_speed": -0.012419152790970299,
+                "cusp_degree": 3.918524972316959,
+                "zodiac": 3,
+                "house": 9,
+                "motion": "R"
+            }
+        }
+    }
+}

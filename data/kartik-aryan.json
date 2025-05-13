@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Kartik Aaryan",
+        "title": "Actor",
+        "year": 1990,
+        "month": 11,
+        "day": 22,
+        "hour": 2,
+        "minute": 30,
+        "second": 0,
+        "latitude": 26.22983,
+        "longitude": 78.17337,
+        "location": "Gwalior",
+        "agyat_rating": "AA",
+        "about": "<p>Kartik Aaryan (né Tiwari; born 22 November 1990) is an Indian actor known for his work in Hindi cinema. While pursuing a degree in engineering, he made his acting debut with Luv Ranjan's buddy film Pyaar Ka Punchnama (2011). He went on to star in the romances Akaash Vani (2013) and Kaanchi (2014), but these failed to propel his career forward.</p><p>Aaryan had commercial successes in Ranjan's comedies Pyaar Ka Punchnama 2 (2015) and Sonu Ke Titu Ki Sweety (2018), his breakthrough film, as well as the romantic comedies Luka Chuppi and Pati Patni Aur Woh (both 2019). He also played against type in the thrillers Dhamaka (2021) and Freddy (2022), and the romantic drama Satyaprem Ki Katha (2023), and gained praise for portraying Murlikant Petkar in the biopic Chandu Champion (2024). His highest-grossing releases came with the comedy horror films Bhool Bhulaiyaa 2 (2022) and Bhool Bhulaiyaa 3 (2024). The former also earned him a nomination for the Filmfare Award for Best Actor and the latter won him the IIFA Award for Best Actor.</p><p>In addition to his acting career, Aaryan endorses several brands and products, and has co-hosted award ceremonies. He appeared in Forbes India's Celebrity 100 list of 2019.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 154.6921550037661,
+            "ascendant": 6
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 109.74876633411505,
+                "cusp_degree": 19.748766334115047,
+                "motion_speed": 0.027154954109100335,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 215.5444695750364,
+                "cusp_degree": 5.544469575036402,
+                "motion_speed": 1.0102206650624066,
+                "zodiac": 8,
+                "house": 3,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 264.0724850828672,
+                "cusp_degree": 24.072485082867217,
+                "motion_speed": 11.888721609280399,
+                "zodiac": 9,
+                "house": 4,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 220.59208166112467,
+                "cusp_degree": 10.592081661124666,
+                "motion_speed": 1.255844396384803,
+                "zodiac": 8,
+                "house": 3,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 43.87252125425916,
+                "cusp_degree": 13.872521254259162,
+                "motion_speed": -0.3741164784911771,
+                "zodiac": 2,
+                "house": 9,
+                "motion": "R"
+            },
+            "Mercury": {
+                "degree": 232.401431491352,
+                "cusp_degree": 22.401431491352014,
+                "motion_speed": 1.4455638421497081,
+                "zodiac": 8,
+                "house": 3,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 267.74876114183826,
+                "cusp_degree": 27.74876114183826,
+                "motion_speed": 0.08721990794845252,
+                "zodiac": 9,
+                "house": 4,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 275.9669996267479,
+                "cusp_degree": 5.966999626747906,
+                "motion_speed": -0.030270376555424267,
+                "zodiac": 10,
+                "house": 5,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 277.5257940147888,
+                "cusp_degree": 7.525794014788801,
+                "motion_speed": -0.052992013408785205,
+                "zodiac": 10,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 97.5257940147888,
+                "motion_speed": -0.052992013408785205,
+                "cusp_degree": 7.525794014788801,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 95.9669996267479,
+                "motion_speed": -0.030270376555424267,
+                "cusp_degree": 5.966999626747906,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "R"
+            }
+        }
+    }
+}

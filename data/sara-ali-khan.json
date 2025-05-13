@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Sara Ali Khan",
+        "title": "Actor",
+        "year": 1995,
+        "month": 8,
+        "day": 12,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 19.07283,
+        "longitude": 72.88261,
+        "location": "Mumbai, Maharashtra",
+        "agyat_rating": "XX",
+        "about": "<p>Sara Ali Khan Pataudi (pronounced [saːɾa əˈli xaːn]; born 12 August 1995) is an Indian actress who works in Hindi films. Born into the Pataudi family, she is the daughter of actors Amrita Singh and Saif Ali Khan. After graduating with a degree in history and political science from Columbia University, Khan began her acting career in 2018 with the romantic drama Kedarnath and the action comedy Simmba. Both films were commercially successful, and the former earned her the Filmfare Award for Best Female Debut.</p><p>Khan appeared in Forbes India's Celebrity 100 list of 2019. Alongside several poorly received films, she starred in the drama Atrangi Re (2021) and had a commercial success in the romantic comedy Zara Hatke Zara Bachke (2023).</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 189.13684989796027,
+            "ascendant": 7
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 221.87169967529283,
+                "cusp_degree": 11.871699675292831,
+                "motion_speed": 0.02904390938893276,
+                "zodiac": 8,
+                "house": 2,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 115.28609965878918,
+                "cusp_degree": 25.286099658789183,
+                "motion_speed": 0.9591782246902267,
+                "zodiac": 4,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 315.2854816917616,
+                "cusp_degree": 15.285481691761618,
+                "motion_speed": 14.062564236444834,
+                "zodiac": 11,
+                "house": 5,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 112.87735673724909,
+                "cusp_degree": 22.877356737249087,
+                "motion_speed": 1.2348914102535888,
+                "zodiac": 4,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 169.47376105906895,
+                "cusp_degree": 19.47376105906895,
+                "motion_speed": 0.6236623768843288,
+                "zodiac": 6,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 130.20170925724312,
+                "cusp_degree": 10.201709257243124,
+                "motion_speed": 1.7520309275871022,
+                "zodiac": 5,
+                "house": 11,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 329.86959618417234,
+                "cusp_degree": 29.869596184172337,
+                "motion_speed": -0.05578255620179669,
+                "zodiac": 11,
+                "house": 5,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 185.19918879129375,
+                "cusp_degree": 5.19918879129375,
+                "motion_speed": -0.13385048614932535,
+                "zodiac": 7,
+                "house": 1,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 186.14657502347242,
+                "cusp_degree": 6.146575023472423,
+                "motion_speed": -0.052992033593254405,
+                "zodiac": 7,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 6.146575023472451,
+                "motion_speed": -0.052992033593254405,
+                "cusp_degree": 6.146575023472451,
+                "zodiac": 1,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 5.19918879129375,
+                "motion_speed": -0.13385048614932535,
+                "cusp_degree": 5.19918879129375,
+                "zodiac": 1,
+                "house": 7,
+                "motion": "R"
+            }
+        }
+    }
+}

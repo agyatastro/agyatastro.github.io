@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Gigi Hadid",
+        "title": "Model/Actor",
+        "year": 1995,
+        "month": 4,
+        "day": 23,
+        "hour": 6,
+        "minute": 26,
+        "second": 0,
+        "latitude": 34.05223,
+        "longitude": -118.24368,
+        "location": "Los Angeles",
+        "agyat_rating": "AA",
+        "about": "<p>Jelena Noura \"Gigi\" Hadid (/ˈdʒiːdʒi həˈdiːd/ JEE-jee hə-DEED; born April 23, 1995) is an American fashion model and television personality. In 2016, she was named International Model of the Year by the British Fashion Council. Throughout her career, Hadid has made at least 50 appearances in international Vogue. Models.com ranks her as one of the \"New Supers.\" Since 2017, Hadid has been one of the highest-paid models in the world, earning $20 million.</p><p>Born in Los Angeles, she began her career as a child model for Baby Guess. She signed to IMG Models in 2013 and made her New York Fashion Week debut the next year. Hadid has appeared in numerous high fashion campaigns and editorials, and is a spokesmodel for Maybelline.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 29.692943945508336,
+            "ascendant": 1
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 230.84045019410135,
+                "cusp_degree": 20.84045019410135,
+                "motion_speed": -0.0664684240074474,
+                "zodiac": 8,
+                "house": 8,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 9.172078682613291,
+                "cusp_degree": 9.172078682613291,
+                "motion_speed": 0.974813046498698,
+                "zodiac": 1,
+                "house": 1,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 297.6160269346591,
+                "cusp_degree": 27.61602693465909,
+                "motion_speed": 13.38853920627717,
+                "zodiac": 10,
+                "house": 10,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 337.9268415293965,
+                "cusp_degree": 7.926841529396484,
+                "motion_speed": 1.207281483390752,
+                "zodiac": 12,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 114.07231597979158,
+                "cusp_degree": 24.072315979791583,
+                "motion_speed": 0.28709607713497576,
+                "zodiac": 4,
+                "house": 4,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 19.364990879412158,
+                "cusp_degree": 19.364990879412158,
+                "motion_speed": 2.0493812776348985,
+                "zodiac": 1,
+                "house": 1,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 326.8301326497454,
+                "cusp_degree": 26.830132649745394,
+                "motion_speed": 0.10143382625891736,
+                "zodiac": 11,
+                "house": 11,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 191.81648563148102,
+                "cusp_degree": 11.816485631481015,
+                "motion_speed": -0.0029727446463701113,
+                "zodiac": 7,
+                "house": 7,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 192.01058344907986,
+                "cusp_degree": 12.01058344907986,
+                "motion_speed": -0.05299202982747766,
+                "zodiac": 7,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 12.010583449079832,
+                "motion_speed": -0.05299202982747766,
+                "cusp_degree": 12.010583449079832,
+                "zodiac": 1,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 11.816485631480987,
+                "motion_speed": -0.0029727446463701113,
+                "cusp_degree": 11.816485631480987,
+                "zodiac": 1,
+                "house": 1,
+                "motion": "R"
+            }
+        }
+    }
+}

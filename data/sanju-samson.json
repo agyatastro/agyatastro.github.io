@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Sanju Samson",
+        "title": "Sportsperson/Cricket",
+        "year": 1994,
+        "month": 11,
+        "day": 11,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 10.8155,
+        "longitude": 78.69651,
+        "location": "Tiruchirappalli",
+        "agyat_rating": "AX",
+        "about": "<p>Sanju Viswanath Samson (/ˌsʌndʒu sæmsən/ ⓘ; born 11 November 1994) is an Indian international cricketer, who is a member of the white-ball formats of Indian national team. A right-handed wicket-keeper-batter, he captains Rajasthan Royals in the Indian Premier League and Kerala in domestic. He made his international debut in 2015 in a T20 international against Zimbabwe, though didn't feature in any of the matches. He is the only player to score three centuries in T20 internationals in a calendar year (2024). He is the first Indian wicket keeper to score a century in a T20 international. He is also the first Indian to score two consecutive centuries in T20 Internationals.</p><p>He was the vice-captain of the Indian U-19 team for the 2014 Under-19 Cricket World Cup. He made his One Day International debut in 2021 against Sri Lanka.</p><p>Samson started his cricketing career in Delhi and later moved to Kerala. After making an impact in junior cricket, he made his first-class debut for Kerala in 2011. He made his Premier League debut in 2013 for Rajasthan Royals and won the Emerging Player of the Year. He scored an unbeaten 212 in the 2019–20 Vijay Hazare Trophy, the sixth time an Indian scored a double-century in List A cricket, which is also the second-fastest double-century in the format. Sanju scored his debut ODI century in the 3rd ODI in the three-match series against South Africa on 21 December 2023.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 280.94165114029425,
+            "ascendant": 10
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 209.99408490152638,
+                "cusp_degree": 29.994084901526378,
+                "motion_speed": 0.22089574460007494,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 204.83433624063719,
+                "cusp_degree": 24.834336240637185,
+                "motion_speed": 1.0053533858314034,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 306.7825795344973,
+                "cusp_degree": 6.782579534497302,
+                "motion_speed": 12.824675116180243,
+                "zodiac": 11,
+                "house": 2,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 191.82750645597895,
+                "cusp_degree": 11.827506455978948,
+                "motion_speed": -0.48105985501585885,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "R"
+            },
+            "Mars": {
+                "degree": 115.35126162366046,
+                "cusp_degree": 25.351261623660463,
+                "motion_speed": 0.4387231075031596,
+                "zodiac": 4,
+                "house": 7,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 187.1903336813654,
+                "cusp_degree": 7.190333681365388,
+                "motion_speed": 1.3693455355740716,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 311.8940574753111,
+                "cusp_degree": 11.894057475311115,
+                "motion_speed": 0.0032889956597108244,
+                "zodiac": 11,
+                "house": 2,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 201.01344224659647,
+                "cusp_degree": 21.01344224659647,
+                "motion_speed": 0.003146154383719975,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 200.6663880937014,
+                "cusp_degree": 20.666388093701414,
+                "motion_speed": -0.05299202197868184,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 20.666388093701414,
+                "motion_speed": -0.05299202197868184,
+                "cusp_degree": 20.666388093701414,
+                "zodiac": 1,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 21.01344224659647,
+                "motion_speed": 0.003146154383719975,
+                "cusp_degree": 21.01344224659647,
+                "zodiac": 1,
+                "house": 4,
+                "motion": "R"
+            }
+        }
+    }
+}

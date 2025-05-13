@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Sidhu Moose Wala",
+        "title": "Singer/Rapper",
+        "year": 1993,
+        "month": 6,
+        "day": 11,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 29.98844,
+        "longitude": 75.40167,
+        "location": "Mansa",
+        "agyat_rating": "AX",
+        "about": "<p>Shubhdeep Singh Sidhu (11 June 1993 – 29 May 2022), known professionally as Sidhu Moose Wala, was an Indian singer and rapper. He worked predominantly in Punjabi-language music and cinema. Moose Wala is considered to be one of the most influential and successful Punjabi rappers of all time  and to many, among the greatest singers of India in this generation.</p><p>In 2020, Moose Wala was named by The Guardian among 50 up and coming artists. He also became the first Punjabi and Indian singer to perform at Wireless Festival and won four awards at the Brit Asia TV Music Awards.</p><p>Moose Wala rose to mainstream popularity with his track \"So High\". In 2018, he released his debut album PBX 1, which peaked at number 66 on the Billboard Canadian Albums chart. His singles \"47\" and \"Mera Na\" were ranked on the UK Singles Chart.</p><p>Born in Moosa, Punjab, Moose Wala began his career in 2016 as a songwriter for the song \"License\" by Ninja, and as lead artist in 2017 with Gurlez Akhtar for a duet song, \"G Wagon\". Following his debut, he collaborated with Brown Boyz for various tracks. Moose Wala's tracks peaked on the UK Asian Music chart. His song \"Bambiha Bole\" was among the top five on the Global YouTube music chart. In 2021, he released Moosetape, tracks from which charted globally including on the Billboard Global 200, Billboard Global Excl. US, Canadian Hot 100, UK Asian, and New Zealand Hot charts. He has the most number-one singles on the Billboard India Songs chart. It became the first Indian album to have more than 1 billion streams on Spotify.</p><p>In 2021, Moose Wala joined the Indian National Congress (INC) political party and unsuccessfully contested the 2022 Punjab Legislative Assembly election for Mansa.</p><p>He was shot dead by unidentified assailants on 29 May 2022; a Canada-based gangster named Goldy Brar and a member of the Lawrence Bishnoi gang, claimed responsibility for the killing, which the police said was the culmination of an inter-gang rivalry. On 23 June 2022, his first posthumous single, \"SYL\", was released.</p><p>Moose Wala's lyrics and themes promoting gun culture and violence were often seen as controversial in India. Subsequently, he had faced legal challenges for his support of gun culture and his inflammatory lyrics.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 136.23806613915542,
+            "ascendant": 5
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 161.14275104982832,
+                "cusp_degree": 11.14275104982832,
+                "motion_speed": 0.030171524993866303,
+                "zodiac": 6,
+                "house": 2,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 56.56418981467066,
+                "cusp_degree": 26.564189814670662,
+                "motion_speed": 0.9557407011986119,
+                "zodiac": 2,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 315.8414259147126,
+                "cusp_degree": 15.841425914712602,
+                "motion_speed": 11.968141414999657,
+                "zodiac": 11,
+                "house": 7,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 10.801119674824058,
+                "cusp_degree": 10.801119674824058,
+                "motion_speed": 0.9624008830440266,
+                "zodiac": 1,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 119.37360264347886,
+                "cusp_degree": 29.37360264347886,
+                "motion_speed": 0.5600757851972392,
+                "zodiac": 4,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 80.09363496073023,
+                "cusp_degree": 20.093634960730228,
+                "motion_speed": 1.3043646842886267,
+                "zodiac": 3,
+                "house": 11,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 306.5569137930767,
+                "cusp_degree": 6.556913793076717,
+                "motion_speed": -0.001720526105476714,
+                "zodiac": 11,
+                "house": 7,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 228.36065815830386,
+                "cusp_degree": 18.360658158303863,
+                "motion_speed": -0.006209503214161199,
+                "zodiac": 8,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 228.11625417585716,
+                "cusp_degree": 18.116254175857165,
+                "motion_speed": -0.052992031521972155,
+                "zodiac": 8,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 48.11625417585719,
+                "motion_speed": -0.052992031521972155,
+                "cusp_degree": 18.116254175857193,
+                "zodiac": 2,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 48.36065815830386,
+                "motion_speed": -0.006209503214161199,
+                "cusp_degree": 18.360658158303863,
+                "zodiac": 2,
+                "house": 10,
+                "motion": "R"
+            }
+        }
+    }
+}

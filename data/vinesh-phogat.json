@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Vinesh Phogat",
+        "title": "Sportsperson",
+        "year": 1994,
+        "month": 8,
+        "day": 25,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 28.59166,
+        "longitude": 76.27161,
+        "location": "Charkhi Dadri",
+        "agyat_rating": "XX",
+        "about": "<p>Vinesh Phogat (pronounced [ʋɪˈneːʃ ˈpʰoːɡɑːʈ]; born 25 August 1994) is an Indian politician and former wrestler, who is a current member of the Legislative Assembly (MLA) in Haryana. She won the 2024 assembly election from Julana constituency representing the Indian National Congress. Previously as a wrestler, she was a former Asian Champion and multiple-gold medalist of Commonwealth Games, with her wins in 2014, 2018, and 2022.</p><p>In her wrestling career, Phogat achieved a milestone when she won the gold medal in the 2018 Asian Games and became the first Indian woman wrestler to win a gold medal at both the Commonwealth and Asian Games. She has also won two bronze medals at the World Wrestling Championships. She is a three-time Olympian, having competed in three different weight classes: 48 kg in 2016, 53 kg in 2020, and 50 kg in 2024. In the 2024 Summer Olympics, she became the first Indian female wrestler to reach an Olympic final. However, she was disqualified after exceeding the stipulated weight by 100 grams (3.5 oz) on the second day of her event. After her disqualification, she announced her retirement.</p><p>In 2023, she was part of the 2023 Indian wrestlers' protest against then president of Wrestling Federation of India and BJP MP Brij Bhushan Sharan Singh, who was accused of sexual harassment by several female wrestlers. In 2024, she supported the farmer's protest at Shambhu border, and was honoured by the farmer union leaders. She is also the first one to win Khap Panchayat Gold Medal.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 201.06731146712787,
+            "ascendant": 7
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 195.03307936045448,
+                "cusp_degree": 15.03307936045448,
+                "motion_speed": 0.13957136812459586,
+                "zodiac": 7,
+                "house": 1,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 128.03726722677166,
+                "cusp_degree": 8.037267226771661,
+                "motion_speed": 0.9642793472612182,
+                "zodiac": 5,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 354.18364859833423,
+                "cusp_degree": 24.18364859833423,
+                "motion_speed": 12.07740419556968,
+                "zodiac": 12,
+                "house": 6,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 174.04609679852655,
+                "cusp_degree": 24.04609679852655,
+                "motion_speed": 0.9585225812326753,
+                "zodiac": 6,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 71.69686702253207,
+                "cusp_degree": 11.696867022532075,
+                "motion_speed": 0.6423815727497589,
+                "zodiac": 3,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 139.6294749796307,
+                "cusp_degree": 19.629474979630686,
+                "motion_speed": 1.7747756803757013,
+                "zodiac": 5,
+                "house": 11,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 315.7889232572649,
+                "cusp_degree": 15.788923257264912,
+                "motion_speed": -0.07512908242625703,
+                "zodiac": 11,
+                "house": 5,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 203.95865545416686,
+                "cusp_degree": 23.95865545416686,
+                "motion_speed": -0.07778478995207286,
+                "zodiac": 7,
+                "house": 1,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 204.7997655604637,
+                "cusp_degree": 24.799765560463698,
+                "motion_speed": -0.05299202212539391,
+                "zodiac": 7,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 24.799765560463698,
+                "motion_speed": -0.05299202212539391,
+                "cusp_degree": 24.799765560463698,
+                "zodiac": 1,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 23.958655454166887,
+                "motion_speed": -0.07778478995207286,
+                "cusp_degree": 23.958655454166887,
+                "zodiac": 1,
+                "house": 7,
+                "motion": "R"
+            }
+        }
+    }
+}

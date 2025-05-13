@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Amanda Bynes",
+        "title": "Actor",
+        "year": 1986,
+        "month": 4,
+        "day": 3,
+        "hour": 8,
+        "minute": 6,
+        "second": 0,
+        "latitude": 34.17056,
+        "longitude": -118.83759,
+        "location": "Thousand Oaks",
+        "agyat_rating": "AA",
+        "about": "<p>Amanda Laura Bynes (born April 3, 1986) is an American actress. Bynes began her career as a Child actor, appearing on the Nickelodeon sketch comedy series All That (1996–2000) and its spin-off series The Amanda Show (1999–2002). During her mid-teens, she played Holly Tyler on The WB sitcom What I Like About You (2002–2006) and starred in the teen comedy films Big Fat Liar (2002) and What a Girl Wants (2003). As an adult, she appeared in the films She's the Man (2006), Hairspray (2007), and Easy A (2010).</p><p>Bynes is heralded for her acting work in the 1990s and 2000s, winning a Critics' Choice Award and six Kids' Choice Awards among other accolades. In her personal life, she has struggled with mental health and other issues, and was in a conservatorship from August 2013 to March 2022.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 35.69131324666813,
+            "ascendant": 2
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 316.12487018253677,
+                "cusp_degree": 16.124870182536768,
+                "motion_speed": 0.2195276652757033,
+                "zodiac": 11,
+                "house": 10,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 349.93722275885796,
+                "cusp_degree": 19.937222758857956,
+                "motion_speed": 0.985661985081315,
+                "zodiac": 12,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 283.5861195817916,
+                "cusp_degree": 13.586119581791593,
+                "motion_speed": 13.509133263213263,
+                "zodiac": 10,
+                "house": 9,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 7.965658241621406,
+                "cusp_degree": 7.965658241621406,
+                "motion_speed": 1.2330747031860254,
+                "zodiac": 1,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 249.5758178982795,
+                "cusp_degree": 9.575817898279496,
+                "motion_speed": 0.48776555755670137,
+                "zodiac": 9,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 325.0961083190959,
+                "cusp_degree": 25.09610831909589,
+                "motion_speed": 0.37461599351418906,
+                "zodiac": 11,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 225.84832501094584,
+                "cusp_degree": 15.848325010945842,
+                "motion_speed": -0.025035716063724813,
+                "zodiac": 8,
+                "house": 7,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 6.421853580908526,
+                "cusp_degree": 6.421853580908526,
+                "motion_speed": -0.024383971006491378,
+                "zodiac": 1,
+                "house": 12,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 7.251520874290319,
+                "cusp_degree": 7.251520874290319,
+                "motion_speed": -0.0529920094578671,
+                "zodiac": 1,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 187.25152087429032,
+                "motion_speed": -0.0529920094578671,
+                "cusp_degree": 7.251520874290321,
+                "zodiac": 7,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 186.42185358090853,
+                "motion_speed": -0.024383971006491378,
+                "cusp_degree": 6.421853580908532,
+                "zodiac": 7,
+                "house": 6,
+                "motion": "R"
+            }
+        }
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Brian Lara",
+        "title": "Sportsperson",
+        "year": 1969,
+        "month": 5,
+        "day": 2,
+        "hour": 11,
+        "minute": 50,
+        "second": 0,
+        "latitude": 10.716667,
+        "longitude": -61.466667,
+        "location": "Santa Cruz",
+        "agyat_rating": "AA",
+        "about": "<p>Brian Charles Lara, TC, OCC (born 2 May 1969) is a Trinidadian former international cricketer, widely acknowledged as one of the greatest batsmen of all time. He holds several cricketing records, including the record for the highest individual score in first-class cricket, with 501 not out for Warwickshire against Durham at Edgbaston in 1994, and the record for the highest individual score in an international Test innings, after scoring 400 not out at Antigua during the 4th test against England in 2004.</p><p>Lara also held, for 18 years, the record of scoring the highest number of runs in a single over of a Test match when he scored 28 runs off an over of Robin Peterson of South Africa in 2003, until his record was overtaken by Jasprit Bumrah in 2022. As captain, Lara led the West Indies team to win the 2004 ICC Champions Trophy, the first time the team won any major ICC trophy since winning the 1979 Cricket World Cup.</p><p>Lara topped the Test batting rankings on several occasions, and his match-winning performance of 153 not out against Australia in Bridgetown, Barbados in 1999 was rated by Wisden the second-best batting performance in the history of Test cricket, next only to the 270 runs scored by Sir Donald Bradman in The Ashes Test match of 1937. Muttiah Muralitharan has hailed Lara as his toughest opponent among all batsmen in the world.</p><p>Lara was awarded the Wisden Leading Cricketer in the World awards in 1994 and 1995 and is also one of only three cricketers to receive the BBC Overseas Sports Personality of the Year, the other two being Sir Garfield Sobers and Shane Warne. Brian Lara was appointed honorary member of the Order of Australia on 27 November 2009, and in September 2012 he was inducted to the ICC's Hall of Fame as a 2012–13 season inductee. In 2013, Lara received Honorary Life Membership of the MCC becoming the 31st West Indian to receive the honor.</p><p>Brian Lara is popularly nicknamed as \"The Prince of Port of Spain\" or simply \"The Prince\"</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 109.97649354010308,
+            "ascendant": 4
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 153.31896604691556,
+                "cusp_degree": 3.3189660469155626,
+                "motion_speed": -0.06146156393660632,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 18.641678155308202,
+                "cusp_degree": 18.641678155308202,
+                "motion_speed": 0.9693368631069873,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 204.8876906989392,
+                "cusp_degree": 24.887690698939195,
+                "motion_speed": 14.62708353210462,
+                "zodiac": 7,
+                "house": 4,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 347.2256177261602,
+                "cusp_degree": 17.22561772616018,
+                "motion_speed": 0.11028600514960257,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 233.16496937426703,
+                "cusp_degree": 23.16496937426703,
+                "motion_speed": -0.06438365555347521,
+                "zodiac": 8,
+                "house": 5,
+                "motion": "R"
+            },
+            "Mercury": {
+                "degree": 39.21505569098744,
+                "cusp_degree": 9.215055690987441,
+                "motion_speed": 1.221049447256049,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 6.916986369571481,
+                "cusp_degree": 6.916986369571481,
+                "motion_speed": 0.12555441122757863,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 336.1645422785346,
+                "cusp_degree": 6.164542278534611,
+                "motion_speed": -0.09771278313729981,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 334.74174865876927,
+                "cusp_degree": 4.741748658769268,
+                "motion_speed": -0.0529920340956886,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 154.7417486587692,
+                "motion_speed": -0.0529920340956886,
+                "cusp_degree": 4.741748658769211,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 156.16454227853455,
+                "motion_speed": -0.09771278313729981,
+                "cusp_degree": 6.1645422785345545,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "R"
+            }
+        }
+    }
+}

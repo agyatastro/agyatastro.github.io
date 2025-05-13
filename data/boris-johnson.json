@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Boris Johnson",
+        "title": "Politician/Writer",
+        "year": 1964,
+        "month": 6,
+        "day": 19,
+        "hour": 14,
+        "minute": 0,
+        "second": 0,
+        "latitude": 40.71427,
+        "longitude": -74.00597,
+        "location": "New York City",
+        "agyat_rating": "AA",
+        "about": "<p>Alexander Boris de Pfeffel Johnson (born 19 June 1964) is a British politician and writer who served as Prime Minister of the United Kingdom and Leader of the Conservative Party from 2019 to 2022. He was previously Foreign Secretary from 2016 to 2018 and Mayor of London from 2008 to 2016. He was Member of Parliament (MP) for Henley from 2001 to 2008 and for Uxbridge and South Ruislip from 2015 to 2023.</p><p>In his youth Johnson attended Eton College and Balliol College, Oxford, and he was elected president of the Oxford Union in 1986. In 1989 he began writing for The Daily Telegraph, and from 1999 to 2005 he was the editor of The Spectator. He became a member of the Shadow Cabinet of Michael Howard in 2001 before being dismissed over a claim that he had lied about an extramarital affair. After Howard resigned, Johnson became a member of David Cameron's Shadow Cabinet. He was elected mayor of London in 2008 and resigned from the House of Commons to focus his attention on the mayoralty. He was re-elected mayor in 2012, but did not run for re-election in 2016. At the 2015 general election he was elected MP for Uxbridge and South Ruislip. Johnson was a prominent figure in the Brexit campaign in the 2016 EU membership referendum. After the referendum, Prime Minister Theresa May appointed him foreign secretary. He resigned from the position in 2018 in protest at both the Chequers Agreement and May's approach to Brexit.</p><p>Johnson succeeded May as prime minister. He re-opened Brexit negotiations with the EU and in early September he prorogued Parliament; the Supreme Court later ruled the prorogation to have been unlawful. After agreeing to a revised Brexit withdrawal agreement but failing to win parliamentary support, Johnson called a snap general election to be held in December 2019, in which he won a landslide victory. During Johnson's premiership, the government responded to the COVID-19 pandemic by introducing various emergency powers to mitigate its impact and approved a nationwide vaccination programme. He also responded to the Russian invasion of Ukraine by imposing sanctions on Russia and authorising foreign aid and weapons shipments to Ukraine.[1] In the Partygate scandal, it was found that numerous parties had been held at 10 Downing Street during national COVID-19 lockdowns, and COVID-19 social distancing laws were breached by 83 individuals, including Johnson, who in April 2022 was issued with a fixed penalty notice. The publishing of the Sue Gray report in May 2022 and a widespread sense of dissatisfaction led in June 2022 to a vote of confidence in his leadership amongst Conservative MPs, which he won. In July 2022, revelations over his appointment of Chris Pincher as deputy chief whip of the party while knowing of allegations of sexual misconduct against him led to a mass resignation of members of his government and to Johnson announcing his resignation as prime minister. He was succeeded as prime minister by Liz Truss, his foreign secretary. He remained in the House of Commons as a backbencher until June 2023, when he received the draft of the Commons Privileges Committee investigation into his conduct that unanimously found that he had lied to the Commons on numerous occasions. Johnson resigned his position as MP the same day.</p><p>Johnson is a controversial figure in British politics. His supporters have praised him for being humorous, witty and entertaining, with an appeal that reaches beyond traditional Conservative Party voters, viewing him as an electoral asset to the party. Conversely, his critics have accused him of lying, elitism, cronyism and bigotry. During his premiership, his supporters praised him for \"getting Brexit done\", overseeing the UK's COVID-19 vaccination programme, which was amongst the fastest in the world, and being one of the first world leaders to offer humanitarian support to Ukraine following the Russian invasion of the country. His tenure also encompassed several controversies and scandals, and is viewed as the most scandalous premiership of modern times by historians and biographers alike.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 178.93909236126694,
+            "ascendant": 6
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 22.39539851457647,
+                "cusp_degree": 22.39539851457647,
+                "motion_speed": 0.20481577735965442,
+                "zodiac": 1,
+                "house": 8,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 65.13348837785561,
+                "cusp_degree": 5.133488377855613,
+                "motion_speed": 0.9540644027134558,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 187.71829772703273,
+                "cusp_degree": 7.718297727032734,
+                "motion_speed": 12.117954516022527,
+                "zodiac": 7,
+                "house": 2,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 65.37900934759791,
+                "cusp_degree": 5.379009347597915,
+                "motion_speed": -0.627749258154391,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "R"
+            },
+            "Mars": {
+                "degree": 38.28611316022897,
+                "cusp_degree": 8.286113160228972,
+                "motion_speed": 0.7123370670478747,
+                "zodiac": 2,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 56.047956045965414,
+                "cusp_degree": 26.047956045965414,
+                "motion_speed": 2.096639267477601,
+                "zodiac": 2,
+                "house": 9,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 311.6654594367152,
+                "cusp_degree": 11.665459436715196,
+                "motion_speed": -0.007650415398064029,
+                "zodiac": 11,
+                "house": 6,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 68.73174898244163,
+                "cusp_degree": 8.73174898244163,
+                "motion_speed": -0.006749654599437875,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 68.95564465695328,
+                "cusp_degree": 8.955644656953282,
+                "motion_speed": -0.05299203884676809,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 248.95564465695327,
+                "motion_speed": -0.05299203884676809,
+                "cusp_degree": 8.955644656953268,
+                "zodiac": 9,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 248.73174898244162,
+                "motion_speed": -0.006749654599437875,
+                "cusp_degree": 8.731748982441616,
+                "zodiac": 9,
+                "house": 4,
+                "motion": "R"
+            }
+        }
+    }
+}

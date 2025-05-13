@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Ayesha Takia",
+        "title": "Actor",
+        "year": 1986,
+        "month": 4,
+        "day": 10,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 19.07283,
+        "longitude": 72.88261,
+        "location": "Mumbai",
+        "agyat_rating": "AX",
+        "about": "<p>Ayesha Azmi (née Takia; born 10 April 1986) is an Indian former actress who worked predominantly in Hindi films. She began her career working in advertisements and music videos, and made her film debut in 2004 with the action thriller Taarzan: The Wonder Car for which she won the Filmfare Best Debut Award.</p><p>Takia subsequently played the leading lady in such films as Super (2005) Socha Na Tha (2005), Salaam-e-Ishq (2007), and Wanted (2009). She also received praise for playing the lead role in the drama Dor (2006), which won her the Screen Award for Best Actress (Critics). This was followed by a series of poorly received films after which she quit acting.</p><p>In addition to acting, Takia supports wildlife protection, and has participated in social initiatives and animal welfare causes. She has been featured as a talent anchor on the musical-reality show Sur Kshetra (2012). She is married to Farhan Azmi, with whom she has a son born in 2013.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 76.90282626459316,
+            "ascendant": 3
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 317.5495978689681,
+                "cusp_degree": 17.54959786896808,
+                "motion_speed": 0.21274869186622128,
+                "zodiac": 11,
+                "house": 9,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 356.4204300469315,
+                "cusp_degree": 26.42043004693147,
+                "motion_speed": 0.9821644714307721,
+                "zodiac": 12,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 7.613428657019502,
+                "cusp_degree": 7.613428657019502,
+                "motion_speed": 12.095114261440706,
+                "zodiac": 1,
+                "house": 11,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 16.079229242107765,
+                "cusp_degree": 16.079229242107765,
+                "motion_speed": 1.2296497856667166,
+                "zodiac": 1,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 252.71650362057073,
+                "cusp_degree": 12.716503620570734,
+                "motion_speed": 0.46494076643553944,
+                "zodiac": 9,
+                "house": 7,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 329.0999132385042,
+                "cusp_degree": 29.0999132385042,
+                "motion_speed": 0.81514931103276,
+                "zodiac": 11,
+                "house": 9,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 225.6497478522108,
+                "cusp_degree": 15.649747852210794,
+                "motion_speed": -0.03512921786341054,
+                "zodiac": 8,
+                "house": 6,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 6.267809864038138,
+                "cusp_degree": 6.267809864038138,
+                "motion_speed": 0.0009456049362663621,
+                "zodiac": 1,
+                "house": 11,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 6.902362304021673,
+                "cusp_degree": 6.902362304021673,
+                "motion_speed": -0.0529920343934158,
+                "zodiac": 1,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 186.90236230402166,
+                "motion_speed": -0.0529920343934158,
+                "cusp_degree": 6.902362304021665,
+                "zodiac": 7,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 186.26780986403813,
+                "motion_speed": 0.0009456049362663621,
+                "cusp_degree": 6.267809864038128,
+                "zodiac": 7,
+                "house": 5,
+                "motion": "R"
+            }
+        }
+    }
+}

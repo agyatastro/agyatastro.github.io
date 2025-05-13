@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Azim Premji",
+        "title": "Businessperson",
+        "year": 1945,
+        "month": 7,
+        "day": 24,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 19.07283,
+        "longitude": 72.88261,
+        "location": "Mumbai",
+        "agyat_rating": "AX",
+        "about": "<p>Azim Hashim Premji (born 24 July 1945) is an Indian businessman and philanthropist, who was the chairman of Wipro Limited. Premji remains a non-executive member of the board and founder chairman. He is informally known as the Czar of the Indian IT Industry. He was responsible for guiding Wipro through four decades of diversification and growth, to finally emerge as one of the global leaders in the software industry. In 2010, he was voted among the 20 most powerful men in the world by Asiaweek. He has twice been listed among the 100 most influential people by Time magazine, once in 2004 and more recently in 2011. For years, he has been regularly listed one among The 500 Most Influential Muslims. He also serves as the Chancellor of Azim Premji University, Bangalore. Premji was awarded Padma Vibhushan, India's second highest civilian award, by the Government of India.</p><p>According to the Forbes and Bloomberg Billionaires Index, Premji's net worth is estimated at $14.3 billion and $35.9 billion, respectively, as of December 2024. In 2013, he agreed to give away at least half of his wealth by signing the Giving Pledge. Premji started with a $2.2 billion donation to the Azim Premji Foundation, focused on education in India. He topped the EdelGive Hurun India Philanthropy List for 2020. In 2019, he dropped from the 2nd position in the Forbes India Rich list to 17th position after giving away a huge amount to charity.</p><p>In December 2024, Premji was ranked 19th on the Forbes list of India’s 100 richest tycoons, with a net worth of $32.2 billion</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 172.36627719125144,
+            "ascendant": 6
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 150.96688280943528,
+                "cusp_degree": 0.9668828094352762,
+                "motion_speed": 0.16576298114513682,
+                "zodiac": 6,
+                "house": 1,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 97.87708577442055,
+                "cusp_degree": 7.87708577442055,
+                "motion_speed": 0.9547484176159751,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 267.34112404314465,
+                "cusp_degree": 27.341124043144646,
+                "motion_speed": 13.277924230968718,
+                "zodiac": 9,
+                "house": 4,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 54.50535436259828,
+                "cusp_degree": 24.505354362598283,
+                "motion_speed": 1.090669346639774,
+                "zodiac": 2,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 37.51318636049347,
+                "cusp_degree": 7.513186360493471,
+                "motion_speed": 0.6865889765843246,
+                "zodiac": 2,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 124.8644181974837,
+                "cusp_degree": 4.864418197483701,
+                "motion_speed": 0.9272528025659519,
+                "zodiac": 5,
+                "house": 12,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 83.52958129195147,
+                "cusp_degree": 23.529581291951473,
+                "motion_speed": 0.1272165475873846,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 76.05751981383332,
+                "cusp_degree": 16.057519813833323,
+                "motion_speed": -0.01491927277782498,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 74.8940899088449,
+                "cusp_degree": 14.894089908844904,
+                "motion_speed": -0.05299202396620083,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 254.8940899088449,
+                "motion_speed": -0.05299202396620083,
+                "cusp_degree": 14.894089908844904,
+                "zodiac": 9,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 256.0575198138333,
+                "motion_speed": -0.01491927277782498,
+                "cusp_degree": 16.057519813833323,
+                "zodiac": 9,
+                "house": 4,
+                "motion": "R"
+            }
+        }
+    }
+}

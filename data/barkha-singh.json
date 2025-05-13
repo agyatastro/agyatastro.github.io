@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Barkha Singh",
+        "title": "Actor/Model",
+        "year": 1992,
+        "month": 8,
+        "day": 3,
+        "hour": 14,
+        "minute": 20,
+        "second": 0,
+        "latitude": 28.01762,
+        "longitude": 73.31495,
+        "location": "Bikaner",
+        "agyat_rating": "AA",
+        "about": "<p>Barkha Singh (born 3 August 1992) is an Indian actress who mainly works in Hindi films and web shows. She began her career as a child artist and worked in films such as Mujhse Dosti Karoge! (2002) and Samay: When Time Strikes (2003). She then worked in television shows including Bhagyalaxmi (2015) and Girls on Top (2016).</p><p>Singh is best known for her portrayals in the web shows Engineering Girls and Please Find Attached and the films, 36 Farmhouse and Maja Ma (2022).</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 210.6149008834469,
+            "ascendant": 8
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 141.8366261569412,
+                "cusp_degree": 21.836626156941207,
+                "motion_speed": 0.19540702895739384,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 107.4900720144347,
+                "cusp_degree": 17.490072014434702,
+                "motion_speed": 0.9574638518907751,
+                "zodiac": 4,
+                "house": 9,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 170.72384046591472,
+                "cusp_degree": 20.72384046591472,
+                "motion_speed": 14.15005762401374,
+                "zodiac": 6,
+                "house": 11,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 121.42510168271662,
+                "cusp_degree": 1.4251016827166154,
+                "motion_speed": 1.230305541998437,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 41.34547677250373,
+                "cusp_degree": 11.34547677250373,
+                "motion_speed": 0.6679225563938918,
+                "zodiac": 2,
+                "house": 7,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 106.65381991340055,
+                "cusp_degree": 16.653819913400554,
+                "motion_speed": -0.7469370711802384,
+                "zodiac": 4,
+                "house": 9,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 291.6813848048208,
+                "cusp_degree": 21.681384804820823,
+                "motion_speed": -0.0746038043997898,
+                "zodiac": 10,
+                "house": 3,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 246.1311346424548,
+                "cusp_degree": 6.1311346424548105,
+                "motion_speed": -0.05681809845052613,
+                "zodiac": 9,
+                "house": 2,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 244.6446126180426,
+                "cusp_degree": 4.644612618042601,
+                "motion_speed": -0.052992028196331656,
+                "zodiac": 9,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 64.64461261804263,
+                "motion_speed": -0.052992028196331656,
+                "cusp_degree": 4.644612618042629,
+                "zodiac": 3,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 66.13113464245481,
+                "motion_speed": -0.05681809845052613,
+                "cusp_degree": 6.1311346424548105,
+                "zodiac": 3,
+                "house": 8,
+                "motion": "R"
+            }
+        }
+    }
+}

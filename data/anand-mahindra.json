@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Anand Mahindra",
+        "title": "Businessperson",
+        "year": 1955,
+        "month": 5,
+        "day": 1,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 19.07283,
+        "longitude": 72.88261,
+        "location": "Mumbai, Maharashtra",
+        "agyat_rating": "AX",
+        "about": "<p>Anand Gopal Mahindra (born 1 May 1955) is an Indian billionaire businessman, and the chairman of Mahindra Group, a Mumbai-based business conglomerate. The group operates in aerospace, agribusiness, aftermarket, automotive, components, construction equipment, defence, energy, farm equipment, finance and insurance, industrial equipment, information technology, leisure and hospitality, logistics, real estate and retail. Mahindra is the grandson of Jagdish Chandra Mahindra, co-founder of Mahindra & Mahindra.</p><p>As of 2023, his net worth according to Forbes was estimated to be $2.1 billion. He is an alumnus of Harvard University and Harvard Business School. In 1996, he established Nanhi Kali, a non-government organisation that supports education for underprivileged girls in India.</p><p>He is included by Fortune Magazine among the 'World's 50 Greatest Leaders', and was in the magazine's 2011 listing of Asia's 25 most powerful businesspeople. Anand was noted by Forbes (India) as their 'Entrepreneur of the Year' for 2013. He was given the Padma Bhushan Award, the third highest civilian award in India, in January 2020.</p><p>As per Forbes list of India’s 100 richest tycoons, dated 9 October 2024, Anand Mahindra is ranked 80th with a net worth of $3.97 Billion</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 95.22680966745409,
+            "ascendant": 4
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 89.71696970136853,
+                "cusp_degree": 29.716969701368527,
+                "motion_speed": 0.12693323900117937,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 16.869157536863895,
+                "cusp_degree": 16.869157536863895,
+                "motion_speed": 0.9704890657489723,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 132.2617251913209,
+                "cusp_degree": 12.261725191320892,
+                "motion_speed": 12.926786065523036,
+                "zodiac": 5,
+                "house": 2,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 344.7100811064944,
+                "cusp_degree": 14.710081106494385,
+                "motion_speed": 1.2013256682570157,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 50.39284840267307,
+                "cusp_degree": 20.392848402673067,
+                "motion_speed": 0.6664634426053935,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 26.196528865466615,
+                "cusp_degree": 26.196528865466615,
+                "motion_speed": 2.08415778908517,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 205.2388043524084,
+                "cusp_degree": 25.23880435240841,
+                "motion_speed": -0.07403265383123993,
+                "zodiac": 7,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 244.3553009492294,
+                "cusp_degree": 4.355300949229388,
+                "motion_speed": -0.06453119881979842,
+                "zodiac": 9,
+                "house": 6,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 245.8184190770788,
+                "cusp_degree": 5.818419077078801,
+                "motion_speed": -0.052992047638884675,
+                "zodiac": 9,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 65.81841907707883,
+                "motion_speed": -0.052992047638884675,
+                "cusp_degree": 5.818419077078829,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 64.35530094922939,
+                "motion_speed": -0.06453119881979842,
+                "cusp_degree": 4.355300949229388,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "R"
+            }
+        }
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Ramalinga Raju",
+        "title": "Businessperson",
+        "year": 1954,
+        "month": 9,
+        "day": 16,
+        "hour": 11,
+        "minute": 19,
+        "second": 0,
+        "latitude": 16.54078,
+        "longitude": 81.52322,
+        "location": "Bhimavaram",
+        "agyat_rating": "AA",
+        "about": "Byrraju Ramalinga Raju (born 16 September 1954) is an Indian businessman. He is the founder of Satyam Computer Services and served as its chairman and CEO from 1987 until 2009. Raju stepped down following his admission to embezzlement from the company to the tune of ₹7,136 crores (approximately US$1.5 billion), including ₹5040 crores (approximately US$1 billion) of non-existent cash and bank balances. In 2015, he was convicted of corporate fraud, which led to the collapse of Satyam Computers. Another tech firm called Brane Enterprises with family links to Raju, where he plays an active role as a mentor, is under the scanner for sudden layoff and unpaid wages to over 2500 employees."
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 220.09815641860052,
+            "ascendant": 8
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 91.12706015140787,
+                "cusp_degree": 1.1270601514078749,
+                "motion_speed": 0.1633271665516533,
+                "zodiac": 4,
+                "house": 9,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 149.58564478323999,
+                "cusp_degree": 29.585644783239985,
+                "motion_speed": 0.9748491935425547,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 16.456224021457345,
+                "cusp_degree": 16.456224021457345,
+                "motion_speed": 14.73884319714893,
+                "zodiac": 1,
+                "house": 6,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 195.31865902082342,
+                "cusp_degree": 15.318659020823418,
+                "motion_speed": 0.8836984641618385,
+                "zodiac": 7,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 256.23555828817416,
+                "cusp_degree": 16.23555828817416,
+                "motion_speed": 0.49909523046363347,
+                "zodiac": 9,
+                "house": 2,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 169.1123658163875,
+                "cusp_degree": 19.112365816387495,
+                "motion_speed": 1.491377750676462,
+                "zodiac": 6,
+                "house": 11,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 193.24620205723153,
+                "cusp_degree": 13.246202057231528,
+                "motion_speed": 0.09751542097394278,
+                "zodiac": 7,
+                "house": 12,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 258.67607705283683,
+                "cusp_degree": 18.67607705283683,
+                "motion_speed": -0.11101042243087114,
+                "zodiac": 9,
+                "house": 2,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 257.84912453326336,
+                "cusp_degree": 17.849124533263364,
+                "motion_speed": -0.05299211450561537,
+                "zodiac": 9,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 77.84912453326336,
+                "motion_speed": -0.05299211450561537,
+                "cusp_degree": 17.849124533263364,
+                "zodiac": 3,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 78.67607705283683,
+                "motion_speed": -0.11101042243087114,
+                "cusp_degree": 18.67607705283683,
+                "zodiac": 3,
+                "house": 8,
+                "motion": "R"
+            }
+        }
+    }
+}

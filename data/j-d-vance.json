@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "j. D. Vance",
+        "title": "Politician, Lawyer, Author",
+        "year": 1984,
+        "month": 8,
+        "day": 2,
+        "hour": 8,
+        "minute": 11,
+        "second": 0,
+        "latitude": 38.24535,
+        "longitude": -85.53885,
+        "location": "Middletown",
+        "agyat_rating": "AA",
+        "about": "<p>American politician, lawyer, author and U.S. Marine Corps veteran who has been serving as the junior United States senator from Ohio since 2023. A member of the Republican Party, he is the party's nominee for vice president in the 2024 United States presidential election.</p><p>After graduating from Middletown High School, Vance served from 2003 to 2007 as a combat correspondent, with six months in Iraq. He then attended Ohio State University, graduating in 2009. He graduated from Yale Law School in 2013. His 2016 bestselling memoir Hillbilly Elegy got significant press attention during the 2016 election and became a feature film in 2020.</p><p>In 2021, Vance entered electoral politics as a Republican candidate in the 2022 United States Senate election in Ohio, which he won defeating the Democratic nominee Tim Ryan. Initially opposed to Donald Trump's candidacy in the 2016 election, Vance has since become a strong Trump supporter. In July 2024, Trump nominated Vance as his running mate at the Republican National Convention. He is the first Marine veteran to be nominated for vice president.</p><p>Vance has been called a neoreactionary, national conservative, and a right-wing populist. He has cited Curtis Yarvin, Rod Dreher, and Patrick Deneen as influences on his ideological views and describes himself as a member of the postliberal right. On social issues, he has promoted strongly conservative policies, opposing abortion, same-sex marriage and gun control and is in favor of banning pornography and transgender healthcare for minors. Vance differs from mainstream Republican views on market interventions, taxes, the minimum wage, unionization, tariffs, and antitrust policy, while opposing American military aid to Ukraine.</p><p>James Donald Bowman was born to Beverly Carol (née Vance; born 1961) and Donald Ray Bowman (1959–2023). He is of Scots-Irish descent. His parents divorced when he was a toddler. Shortly afterward, Bowman was adopted by his mother's third husband, Bob Hamel, and had his name changed to James David Hamel.</p><p>Around 2011, Vance met his wife, Usha Chilukuri, while both were graduate students at Yale Law School, and described her as \"my Yale spirit guide\". In 2014, Vance married Chilukuri in Kentucky, in an interfaith marriage ceremony; she is a Hindu and he a Christian. The Vance couple went on to have three children: two boys, Ewan and Vivek, and the youngest one, daughter Mirabel.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 143.80605182655785,
+            "ascendant": 5
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 250.63805881628608,
+                "cusp_degree": 10.638058816286076,
+                "motion_speed": -0.08121236732081254,
+                "zodiac": 9,
+                "house": 5,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 106.79799221173268,
+                "cusp_degree": 16.797992211732677,
+                "motion_speed": 0.9571718225499929,
+                "zodiac": 4,
+                "house": 12,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 176.81602737123808,
+                "cusp_degree": 26.81602737123808,
+                "motion_speed": 14.291337341009351,
+                "zodiac": 6,
+                "house": 2,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 119.91445489833693,
+                "cusp_degree": 29.914454898336928,
+                "motion_speed": 1.2306696385781648,
+                "zodiac": 4,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 208.93469964756787,
+                "cusp_degree": 28.934699647567868,
+                "motion_speed": 0.44192410159511364,
+                "zodiac": 7,
+                "house": 3,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 133.9495517414289,
+                "cusp_degree": 13.949551741428905,
+                "motion_speed": 0.8677524762485894,
+                "zodiac": 5,
+                "house": 1,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 196.39764548292004,
+                "cusp_degree": 16.39764548292004,
+                "motion_speed": 0.03274930682561855,
+                "zodiac": 7,
+                "house": 3,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 40.53059092893799,
+                "cusp_degree": 10.53059092893799,
+                "motion_speed": -0.042134847633508006,
+                "zodiac": 2,
+                "house": 10,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 39.52826522927725,
+                "cusp_degree": 9.528265229277253,
+                "motion_speed": -0.05299201945915726,
+                "zodiac": 2,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 219.52826522927725,
+                "motion_speed": -0.05299201945915726,
+                "cusp_degree": 9.528265229277253,
+                "zodiac": 8,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 220.53059092893798,
+                "motion_speed": -0.042134847633508006,
+                "cusp_degree": 10.530590928937983,
+                "zodiac": 8,
+                "house": 4,
+                "motion": "R"
+            }
+        }
+    }
+}

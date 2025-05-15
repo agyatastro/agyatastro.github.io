@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Dadasaheb Phalke",
+        "title": "Director, Producer, Screenwriter",
+        "year": 1871,
+        "month": 3,
+        "day": 19,
+        "hour": 20,
+        "minute": 34,
+        "second": 0,
+        "latitude": 19.93268,
+        "longitude": 73.52907,
+        "location": "Trimbak",
+        "agyat_rating": "AA",
+        "about": "<p>Dhundiraj Govind Phalke (Pronunciation: [d̪ʱuɳɖiɾaːd͡ʒ pʰaːɭke]), popularly known as Dadasaheb Phalke (30 April 1870 – 16 February 1944), was an Indian producer-director-screenwriter, known as \"the Father of Indian cinema\".</p><p>His debut film, Raja Harishchandra, was the first Indian movie released in 1913, and is now known as India's first full-length mythological feature film. He made 94 feature-length films and 27 short films in his career, spanning 19 years until 1937, including his most noted works: Mohini Bhasmasur (1913), Satyavan Savitri (1914), Lanka Dahan (1917), Shri Krishna Janma (1918) and Kaliya Mardan (1919). In his honour, the Dadasaheb Phalke Award was instituted as highest honorary award under the National Film Awards by the Government of India.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 177.16793984326458,
+            "ascendant": 6
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 56.557434752066285,
+                "cusp_degree": 26.557434752066285,
+                "motion_speed": 0.11294257516656336,
+                "zodiac": 2,
+                "house": 9,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 336.51275280656137,
+                "cusp_degree": 6.512752806561366,
+                "motion_speed": 0.9933259364141825,
+                "zodiac": 12,
+                "house": 7,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 317.95867989065647,
+                "cusp_degree": 17.95867989065647,
+                "motion_speed": 13.083048420288454,
+                "zodiac": 11,
+                "house": 6,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 0.6228002108814168,
+                "cusp_degree": 0.6228002108814168,
+                "motion_speed": 1.2293634263219075,
+                "zodiac": 1,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 157.27823309179323,
+                "cusp_degree": 7.278233091793226,
+                "motion_speed": -0.3904967709691987,
+                "zodiac": 6,
+                "house": 1,
+                "motion": "R"
+            },
+            "Mercury": {
+                "degree": 328.01177808967793,
+                "cusp_degree": 28.011778089677932,
+                "motion_speed": 1.856946239437199,
+                "zodiac": 11,
+                "house": 6,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 257.0798372152122,
+                "cusp_degree": 17.079837215212194,
+                "motion_speed": 0.048974672505892776,
+                "zodiac": 9,
+                "house": 4,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 74.30297479028155,
+                "cusp_degree": 14.302974790281553,
+                "motion_speed": -0.19054616096856938,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 73.87566645378192,
+                "cusp_degree": 13.875666453781918,
+                "motion_speed": -0.05299214519661195,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 253.87566645378192,
+                "motion_speed": -0.05299214519661195,
+                "cusp_degree": 13.875666453781918,
+                "zodiac": 9,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 254.30297479028155,
+                "motion_speed": -0.19054616096856938,
+                "cusp_degree": 14.302974790281553,
+                "zodiac": 9,
+                "house": 4,
+                "motion": "R"
+            }
+        }
+    }
+}

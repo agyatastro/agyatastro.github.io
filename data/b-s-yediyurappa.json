@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "B S Yediyurappa",
+        "title": "Politician",
+        "year": 1943,
+        "month": 2,
+        "day": 27,
+        "hour": 2,
+        "minute": 35,
+        "second": 0,
+        "latitude": 12.5223,
+        "longitude": 76.89746,
+        "location": "Bookanakere",
+        "agyat_rating": "AU",
+        "about": "<p>Bookanakere Siddalingappa Yediyurappa // ⓘ (born 27 February 1943), often referred to by his initials BSY, is an Indian politician. He has been serving as a member of the Bharatiya Janata Party (BJP) National Parliamentary Board committee since 17 August 2022, which is considered the highest office of authority in the party. He served as the 13th Chief Minister of Karnataka, and he was a Member of the Karnataka Legislative Assembly between 1983 - 2022. He is a member of the Bharatiya Janata Party. He is the only politician in Karnataka to have served as the Chief Minister four times and as the Leader of the Opposition in the Karnataka Legislative Assembly three times. He is the longest serving BJP Chief Minister of Karnataka. He is a former MLA from Shikaripura constituency in Shimoga district, from which he has been elected eight times.</p><p>In 2008, Yediyurappa became the chief minister after leading the BJP to victory in the Karnataka Assembly elections, a first for the BJP in a South Indian state. In 2011, he resigned after being indicted over a corruption case and was acquitted in 2016. Due to alleged ill-treatment targeted towards Yediyurappa by the BJP High Command, he left the BJP and formed his own party, the Karnataka Janata Paksha. In 2014, he merged his party with the BJP and was subsequently elected to the 16th Lok Sabha from the Shivamogga constituency, which he quit after being elected to the Karnataka Legislative Assembly in the May 2018 state elections. On 17 May 2018, he was sworn in as the Chief Minister for the third time. However, he was unable to get majority support in the Assembly and resigned just two days after taking office, after which H. D. Kumaraswamy took oath as the Chief Minister. After the government of Kumaraswamy lost its majority in July 2019 with the resignation of 17 MLAs, Yediyurappa took oath as the Chief Minister and proved his majority. In the December by-elections, BJP won 12 out of 15 seats and gained a majority of 117 seats under his leadership, cementing his win.</p><p>After days of speculation, Yediyurappa resigned as Chief Minister on 26 July 2021, on the second anniversary of his fourth term. He was succeeded by his protégé, Basavaraj Bommai, on 28 July 2021</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 244.92319927860188,
+            "ascendant": 9
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 82.39891961679096,
+                "cusp_degree": 22.398919616790963,
+                "motion_speed": -0.04327657660939583,
+                "zodiac": 3,
+                "house": 7,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 314.3204459057741,
+                "cusp_degree": 14.32044590577408,
+                "motion_speed": 1.0047743629595989,
+                "zodiac": 11,
+                "house": 3,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 212.78626086669323,
+                "cusp_degree": 2.786260866693226,
+                "motion_speed": 13.657493054867878,
+                "zodiac": 8,
+                "house": 12,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 338.6205270643019,
+                "cusp_degree": 8.620527064301882,
+                "motion_speed": 1.2358509380352085,
+                "zodiac": 12,
+                "house": 4,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 269.7449326417102,
+                "cusp_degree": 29.744932641710193,
+                "motion_speed": 0.742107924417982,
+                "zodiac": 9,
+                "house": 1,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 289.2372641676959,
+                "cusp_degree": 19.237264167695912,
+                "motion_speed": 1.2926999063988145,
+                "zodiac": 10,
+                "house": 2,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 42.921330878480035,
+                "cusp_degree": 12.921330878480035,
+                "motion_speed": 0.03800312759881564,
+                "zodiac": 2,
+                "house": 6,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 121.84037983192421,
+                "cusp_degree": 1.84037983192421,
+                "motion_speed": -0.009527998750055649,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 121.44191638375595,
+                "cusp_degree": 1.4419163837559523,
+                "motion_speed": -0.05299205943784828,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 301.44191638375594,
+                "motion_speed": -0.05299205943784828,
+                "cusp_degree": 1.4419163837559381,
+                "zodiac": 11,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 301.8403798319242,
+                "motion_speed": -0.009527998750055649,
+                "cusp_degree": 1.8403798319242242,
+                "zodiac": 11,
+                "house": 3,
+                "motion": "R"
+            }
+        }
+    }
+}

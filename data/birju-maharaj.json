@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Birju Maharaj",
+        "title": "Dancer, Singer",
+        "year": 1938,
+        "month": 2,
+        "day": 4,
+        "hour": 2,
+        "minute": 35,
+        "second": 0,
+        "latitude": 25.36379,
+        "longitude": 82.18655,
+        "location": "Handia",
+        "agyat_rating": "AA",
+        "about": "<p>Pandit Birju Maharaj (born Brijmohan Nath Mishra; 4 February 1938 – 17 January 2022) was an Indian dancer, composer, singer, and exponent of the Lucknow \"Kalka-Bindadin\" Gharana of Kathak dance in India. He was a descendant of the Maharaj family of Kathak dancers, which includes his two uncles, Shambhu Maharaj and Lachhu Maharaj, and his father and guru, Acchan Maharaj. He also practised Hindustani classical music and was a vocalist. After working along with his uncle, Shambhu Maharaj at Bhartiya Kala Kendra, later the Kathak Kendra, New Delhi, he remained head of the latter, for several years, until his retirement in 1998 when he opened his own dance school, Kalashram, also in Delhi.</p><p>Birju Maharaj was a recipient of the Padma Vibhushan, India's second highest civilian honor, in 1986.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 224.1989808973676,
+            "ascendant": 8
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 287.58614561635017,
+                "cusp_degree": 17.586145616350166,
+                "motion_speed": 0.23737246359064001,
+                "zodiac": 10,
+                "house": 3,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 291.38831882478974,
+                "cusp_degree": 21.388318824789735,
+                "motion_speed": 1.0143636043012898,
+                "zodiac": 10,
+                "house": 3,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 329.8313818072805,
+                "cusp_degree": 29.83138180728048,
+                "motion_speed": 12.988831345593798,
+                "zodiac": 11,
+                "house": 4,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 291.31439726175813,
+                "cusp_degree": 21.31439726175813,
+                "motion_speed": 1.255235501891718,
+                "zodiac": 10,
+                "house": 3,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 340.23627104744776,
+                "cusp_degree": 10.236271047447758,
+                "motion_speed": 0.7452581343326891,
+                "zodiac": 12,
+                "house": 5,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 270.24818625554576,
+                "cusp_degree": 0.24818625554576101,
+                "motion_speed": 1.4018169666473006,
+                "zodiac": 10,
+                "house": 3,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 338.7589208957176,
+                "cusp_degree": 8.758920895717608,
+                "motion_speed": 0.09784186105034692,
+                "zodiac": 12,
+                "house": 5,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 220.02743316048924,
+                "cusp_degree": 10.027433160489238,
+                "motion_speed": -0.16410541714032095,
+                "zodiac": 8,
+                "house": 1,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 219.42425317442266,
+                "cusp_degree": 9.42425317442266,
+                "motion_speed": -0.052992031105204555,
+                "zodiac": 8,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 39.42425317442269,
+                "motion_speed": -0.052992031105204555,
+                "cusp_degree": 9.424253174422688,
+                "zodiac": 2,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 40.02743316048924,
+                "motion_speed": -0.16410541714032095,
+                "cusp_degree": 10.027433160489238,
+                "zodiac": 2,
+                "house": 7,
+                "motion": "R"
+            }
+        }
+    }
+}

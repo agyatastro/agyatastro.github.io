@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Deepika Padukone",
+        "title": "Actor",
+        "year": 1986,
+        "month": 1,
+        "day": 5,
+        "hour": 2,
+        "minute": 39,
+        "second": 0,
+        "latitude": 55.67594,
+        "longitude": 12.56553,
+        "location": "Copenhagen, Denmark",
+        "agyat_rating": "AU",
+        "about": "<p>Deepika Padukone (pronounced [d̪iːpɪkaː pəɖʊkoːɳeː]; born 5 January 1986) is an Indian actress who works predominantly in Hindi films. She is India's highest-paid actress, as of 2023, and her accolades include three Filmfare Awards. Time named her one of the 100 most influential people in the world in 2018 and awarded her the Time100 Impact Award in 2022. She is the only Indian to appear more than once on Time's list of 100 most influential people in world.</p><p>Padukone, the daughter of the badminton player Prakash Padukone, was born in Copenhagen and raised in Bangalore. As a teenager, she played badminton in national level championships but left her career in the sport to become a fashion model. She soon received offers for film roles and made her acting debut in 2006 as the title character of the Kannada film Aishwarya. Padukone then played a dual role opposite Shah Rukh Khan in her first Bollywood release, the romance Om Shanti Om (2007), which won her the Filmfare Award for Best Female Debut. Padukone received praise for her starring role in the romance Love Aaj Kal (2009), but this was followed by a brief setback.</p><p>The romantic comedy Cocktail (2012) marked a turning point in her career, and she gained further success with starring roles in the romantic comedies Yeh Jawaani Hai Deewani and Chennai Express (both 2013), the heist comedy Happy New Year (2014), Sanjay Leela Bhansali's period dramas Bajirao Mastani (2015) and Padmaavat (2018), and the Hollywood action film XXX: Return of Xander Cage (2017). She also received critical acclaim for playing a character based on Juliet in Bhansali's Goliyon Ki Raasleela Ram-Leela (2013) and a headstrong daughter in Piku (2015), winning two Filmfare Awards for Best Actress. Following a short hiatus and producing two films under her own company Ka Productions, Padukone took on roles in top-grossing action films, including Pathaan (2023) and Kalki 2898 AD (2024).</p><p>Padukone is the founder of The Live Love Laugh Foundation, which creates awareness on mental health in India, for which she received the World Economic Forum's Crystal Award in 2018. She also participates in stage shows, has designed her own line of clothing for women, and is a prominent celebrity endorser for brands and products. Padukone has walked the Met Gala red carpet in Manhattan thrice: in 2017, 2018, and 2019. Her other ventures include startup investments and a self-care brand. Padukone is married to her frequent co-star Ranveer Singh, with whom she has a daughter.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 191.9119691282985,
+            "ascendant": 7
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 295.4732430983162,
+                "cusp_degree": 25.473243098316175,
+                "motion_speed": 0.21764820749233135,
+                "zodiac": 10,
+                "house": 4,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 260.7596375369783,
+                "cusp_degree": 20.75963753697829,
+                "motion_speed": 1.019367006293672,
+                "zodiac": 9,
+                "house": 3,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 186.95805809023648,
+                "cusp_degree": 6.958058090236477,
+                "motion_speed": 14.143722527784512,
+                "zodiac": 7,
+                "house": 1,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 257.27226850050334,
+                "cusp_degree": 17.272268500503344,
+                "motion_speed": 1.2583294831703848,
+                "zodiac": 9,
+                "house": 3,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 199.3978766041641,
+                "cusp_degree": 19.39787660416411,
+                "motion_speed": 0.6092967930466991,
+                "zodiac": 7,
+                "house": 1,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 245.1718089002988,
+                "cusp_degree": 5.1718089002987995,
+                "motion_speed": 1.4799884930611504,
+                "zodiac": 9,
+                "house": 3,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 221.92055871706347,
+                "cusp_degree": 11.920558717063471,
+                "motion_speed": 0.10134901152643377,
+                "zodiac": 8,
+                "house": 2,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 13.02884512846747,
+                "cusp_degree": 13.02884512846747,
+                "motion_speed": 0.005898358182667852,
+                "zodiac": 1,
+                "house": 7,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 11.946209576526389,
+                "cusp_degree": 11.946209576526389,
+                "motion_speed": -0.0529920428918579,
+                "zodiac": 1,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 191.9462095765264,
+                "motion_speed": -0.0529920428918579,
+                "cusp_degree": 11.9462095765264,
+                "zodiac": 7,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 193.02884512846748,
+                "motion_speed": 0.005898358182667852,
+                "cusp_degree": 13.02884512846748,
+                "zodiac": 7,
+                "house": 1,
+                "motion": "R"
+            }
+        }
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Donald Trump Jr.",
+        "title": "Businessperson",
+        "year": 1977,
+        "month": 12,
+        "day": 31,
+        "hour": 17,
+        "minute": 20,
+        "second": 0,
+        "latitude": 40.78343,
+        "longitude": -73.96625,
+        "location": "Manhattan, New York City",
+        "agyat_rating": "AA",
+        "about": "<p>Donald John Trump Jr. (born December 31, 1977), often nicknamed Don Jr., is an American businessman and political activist. He is the eldest child of U.S. president Donald Trump and his first wife Ivana.</p><p>Trump serves as a trustee and executive vice president of the Trump Organization, running the company alongside his younger brother Eric. During their father's first presidency, the brothers continued to engage in deals and investments in foreign countries and collect payments at their U.S. properties from foreign governments, despite pledging not to do so. He also served as a boardroom judge on the reality TV show featuring his father, The Apprentice. In addition, he authored Triggered in 2019 and Liberal Privilege in 2020.</p><p>Trump was active in his father's 2016 presidential campaign. He had a meeting with a Russian lawyer who promised damaging information about the campaign of Hillary Clinton in the 2016 presidential election. Trump campaigned for several Republicans during the 2018 midterm elections. He has promoted several conspiracy theories.</p><p>Trump was also active in his father's 2020 presidential campaign, often being on the campaign trail and being featured in the news for making unfounded claims. During the election he called for \"total war\" as the results were counted and promoted the stolen election conspiracy theory. Following his father's defeat, he engaged in attempts to overturn the results. He spoke at the rally that led to the storming of the Capitol, where he threatened Trump's opponents that \"we're coming for you.\" In January 2021, Attorney General for the District of Columbia Karl Racine said that he is looking at whether to charge Donald Trump Jr. with inciting the violent attack on the U.S. Capitol in the criminal investigation into the attack. CNN reported in April 2022 that two days after the election, Trump Jr. sent a text message to White House Chief of Staff Mark Meadows outlining paths to subvert the Electoral College process and ensure his father a second term.</p><p>At the 2024 Republican National Convention, he led the introductions of JD Vance, who had been selected as Donald Trump's running mate."
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 85.7643176591444,
+            "ascendant": 3
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 66.32571748612668,
+                "cusp_degree": 6.325717486126678,
+                "motion_speed": -0.13160941195871462,
+                "zodiac": 3,
+                "house": 1,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 256.58868475782464,
+                "cusp_degree": 16.588684757824637,
+                "motion_speed": 1.0190817356232924,
+                "zodiac": 9,
+                "house": 7,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 147.79547929291516,
+                "cusp_degree": 27.79547929291516,
+                "motion_speed": 12.687486152907034,
+                "zodiac": 5,
+                "house": 3,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 251.4891012172237,
+                "cusp_degree": 11.489101217223691,
+                "motion_speed": 1.2582885958343812,
+                "zodiac": 9,
+                "house": 7,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 105.51993966638373,
+                "cusp_degree": 15.519939666383735,
+                "motion_speed": -0.25840464312587413,
+                "zodiac": 4,
+                "house": 2,
+                "motion": "R"
+            },
+            "Mercury": {
+                "degree": 237.59116128153212,
+                "cusp_degree": 27.591161281532123,
+                "motion_speed": 0.001552410147454795,
+                "zodiac": 8,
+                "house": 6,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 126.61445789045125,
+                "cusp_degree": 6.6144578904512485,
+                "motion_speed": -0.03689357499816094,
+                "zodiac": 5,
+                "house": 3,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 166.7962237406363,
+                "cusp_degree": 16.796223740636293,
+                "motion_speed": -0.02539403390406539,
+                "zodiac": 6,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 167.00862054068568,
+                "cusp_degree": 17.008620540685683,
+                "motion_speed": -0.05299204228499441,
+                "zodiac": 6,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 347.0086205406857,
+                "motion_speed": -0.05299204228499441,
+                "cusp_degree": 17.008620540685683,
+                "zodiac": 12,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 346.79622374063626,
+                "motion_speed": -0.02539403390406539,
+                "cusp_degree": 16.796223740636265,
+                "zodiac": 12,
+                "house": 10,
+                "motion": "R"
+            }
+        }
+    }
+}

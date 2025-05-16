@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Ghanshyam Das Birla",
+        "title": "Businessperson, Politician",
+        "year": 1894,
+        "month": 4,
+        "day": 14,
+        "hour": 3,
+        "minute": 41,
+        "second": 0,
+        "latitude": 28.36725,
+        "longitude": 75.60352,
+        "location": "Pilani",
+        "agyat_rating": "AA",
+        "about": "<p>Ghanshyam Das Birla was born on 10 April 1894 at Pilani town in Jhunjhunu district, in the region known as Rajputana, as a member of the Marwari Rajasthani community. His father was Raja Baldevdas Birla. In 1884, Baldeo Das Birla went to Bombay in search of new avenues of trade. He established his firm Shiv Narian Baldeo Das in Bombay in 1884 and Baldeo Das Jugal Kishore in 1897 in Calcutta. The firms started business in silver, cotton, grain and other commodities. He was succeeded by 4 sons, Jugal Kishore, Rameshwar Das, Ghanshyam Das and Braj Mohan. Ghanshyam Das was the most successful of the four brothers.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 302.72849235773015,
+            "ascendant": 11
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 39.90151211940634,
+                "cusp_degree": 9.901512119406341,
+                "motion_speed": 0.207353072531802,
+                "zodiac": 2,
+                "house": 4,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 1.555055286201857,
+                "cusp_degree": 1.555055286201857,
+                "motion_speed": 0.9786801026714492,
+                "zodiac": 1,
+                "house": 3,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 103.22301496294503,
+                "cusp_degree": 13.22301496294503,
+                "motion_speed": 14.1028869354146,
+                "zodiac": 4,
+                "house": 6,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 316.15735033853576,
+                "cusp_degree": 16.157350338535764,
+                "motion_speed": 0.8547047121290294,
+                "zodiac": 11,
+                "house": 1,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 289.2613251543833,
+                "cusp_degree": 19.261325154383314,
+                "motion_speed": 0.7064719994263817,
+                "zodiac": 10,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 334.15141664033985,
+                "cusp_degree": 4.151416640339846,
+                "motion_speed": 1.111173903484426,
+                "zodiac": 12,
+                "house": 2,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 179.2878037436218,
+                "cusp_degree": 29.287803743621794,
+                "motion_speed": -0.07697230325703337,
+                "zodiac": 6,
+                "house": 8,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 347.85706988320345,
+                "cusp_degree": 17.85706988320345,
+                "motion_speed": 0.008844812958744903,
+                "zodiac": 12,
+                "house": 2,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 347.34832261407826,
+                "cusp_degree": 17.348322614078256,
+                "motion_speed": -0.05299212307196018,
+                "zodiac": 12,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 167.34832261407826,
+                "motion_speed": -0.05299212307196018,
+                "cusp_degree": 17.348322614078256,
+                "zodiac": 6,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 167.8570698832034,
+                "motion_speed": 0.008844812958744903,
+                "cusp_degree": 17.857069883203394,
+                "zodiac": 6,
+                "house": 8,
+                "motion": "R"
+            }
+        }
+    }
+}

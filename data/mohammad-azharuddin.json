@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Mohammad Azharuddin",
+        "title": "Sportsperson Cricket",
+        "year": 1963,
+        "month": 2,
+        "day": 8,
+        "hour": 22,
+        "minute": 25,
+        "second": 0,
+        "latitude": 17.38405,
+        "longitude": 78.45636,
+        "location": "Hyderabad, India",
+        "agyat_rating": "AA",
+        "about": "<p>Mohammad Azharuddin (born 8 February 1963) is an Indian politician and a former cricketer who also served as the Indian national cricket team's captain. He was a right-handed middle order batter and an occasional medium fast bowler. He played 99 Test matches and 334 One Day Internationals for India. As a captain, he led the team to wins in the 1990-91 and 1995 Asia Cups and reached the semi-finals of the 1996 Cricket World Cup. He was considered as one of the best ODI batsmen in the world and one of the greatest of his era. He captained India in three Cricket World Cups, the most by any Indian captain, all during the 1990s. He was also a part of the Indian squad which won the 1985 World Championship of Cricket.</p><p>His cricketing career came to an abrupt end in 2000 after he was banned by the Board of Control for Cricket in India for life due to his alleged involvement in a match fixing scandal. In 2012, the Andhra Pradesh High Court lifted the life ban after appeal. In September 2019, he was elected as the president of Hyderabad Cricket Association.</p><p>In 2009, Azharuddin joined Indian National Congress and was elected as a member of parliament for Moradabad. He was appointed as the President of Telangana Pradesh Congress Committee in 2018.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 170.7008935092473,
+            "ascendant": 6
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 323.65214337522764,
+                "cusp_degree": 23.652143375227638,
+                "motion_speed": 0.22834496991990522,
+                "zodiac": 11,
+                "house": 6,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 295.8583831425581,
+                "cusp_degree": 25.858383142558125,
+                "motion_speed": 1.0122568741756437,
+                "zodiac": 10,
+                "house": 5,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 116.67538999706538,
+                "cusp_degree": 26.67538999706538,
+                "motion_speed": 12.661081797239607,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 249.7508990941724,
+                "cusp_degree": 9.75089909417241,
+                "motion_speed": 1.0963581608765216,
+                "zodiac": 9,
+                "house": 4,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 109.94856644257874,
+                "cusp_degree": 19.948566442578738,
+                "motion_speed": -0.39171282882131175,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "R"
+            },
+            "Mercury": {
+                "degree": 270.43395070926925,
+                "cusp_degree": 0.4339507092692543,
+                "motion_speed": 0.7341673277234101,
+                "zodiac": 10,
+                "house": 5,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 291.1115731900495,
+                "cusp_degree": 21.111573190049512,
+                "motion_speed": 0.1195355148619064,
+                "zodiac": 10,
+                "house": 5,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 96.32432564857245,
+                "cusp_degree": 6.324325648572454,
+                "motion_speed": -0.02775504302162229,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 95.29799173270274,
+                "cusp_degree": 5.297991732702741,
+                "motion_speed": -0.052992007068292,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 275.2979917327027,
+                "motion_speed": -0.052992007068292,
+                "cusp_degree": 5.297991732702712,
+                "zodiac": 10,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 276.3243256485724,
+                "motion_speed": -0.02775504302162229,
+                "cusp_degree": 6.324325648572426,
+                "zodiac": 10,
+                "house": 5,
+                "motion": "R"
+            }
+        }
+    }
+}

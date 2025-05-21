@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Harbhajan Singh",
+        "title": "Sportsperson Cricket",
+        "year": 1980,
+        "month": 7,
+        "day": 3,
+        "hour": 17,
+        "minute": 0,
+        "second": 0,
+        "latitude": 31.32556,
+        "longitude": 75.57917,
+        "location": "Jalandhar",
+        "agyat_rating": "AA",
+        "about": "<p>Harbhajan Singh (born 3 July 1980), also known by his nickname Bhajji, is a former Indian cricketer. He later became a politician, serving as a Member of Parliament in Rajya Sabha. He is also a film actor, a television celebrity and a cricket commentator.</p><p>Harbhajan played for India from 1998 to 2016 as an off spin bowler. In domestic cricket, he played for Punjab cricket team; and in the Indian Premier League for Mumbai Indians, Chennai Super Kings, and Kolkata Knight Riders. Considered one of the best Indian spin bowlers of his era, he was in the Indian teams that won the 2007 T20 World Cup and the 2011 Cricket World Cup, and also their team that were joint-winners with Sri Lanka of the 2002 ICC Champions Trophy . He was also a lower-order batter, having two centuries in tests with a top score of 115 on his records.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 219.31470037718168,
+            "ascendant": 8
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 132.85882316853576,
+                "cusp_degree": 12.858823168535764,
+                "motion_speed": 0.16318618903907367,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 78.07073218002441,
+                "cusp_degree": 18.070732180024407,
+                "motion_speed": 0.9531571673923714,
+                "zodiac": 3,
+                "house": 8,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 323.6465573217373,
+                "cusp_degree": 23.646557321737305,
+                "motion_speed": 14.142506584064266,
+                "zodiac": 11,
+                "house": 4,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 52.70455166776787,
+                "cusp_degree": 22.704551667767873,
+                "motion_speed": -0.13573090886482617,
+                "zodiac": 2,
+                "house": 7,
+                "motion": "R"
+            },
+            "Mars": {
+                "degree": 152.42557466187273,
+                "cusp_degree": 2.42557466187273,
+                "motion_speed": 0.5389264029327622,
+                "zodiac": 6,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 90.60446220170074,
+                "cusp_degree": 0.6044622017007413,
+                "motion_speed": -0.3632828145168016,
+                "zodiac": 4,
+                "house": 9,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 148.06787600082586,
+                "cusp_degree": 28.067876000825862,
+                "motion_speed": 0.0667164844310726,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 117.18769412923993,
+                "cusp_degree": 27.18769412923993,
+                "motion_speed": 0.022786407067419235,
+                "zodiac": 4,
+                "house": 9,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 118.54552831792174,
+                "cusp_degree": 28.545528317921736,
+                "motion_speed": -0.052992006869039536,
+                "zodiac": 4,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 298.5455283179217,
+                "motion_speed": -0.052992006869039536,
+                "cusp_degree": 28.545528317921708,
+                "zodiac": 10,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 297.18769412923996,
+                "motion_speed": 0.022786407067419235,
+                "cusp_degree": 27.187694129239958,
+                "zodiac": 10,
+                "house": 3,
+                "motion": "R"
+            }
+        }
+    }
+}

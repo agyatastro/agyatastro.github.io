@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Anil Kumble",
+        "title": "Sportsperson Cricket",
+        "year": 1970,
+        "month": 10,
+        "day": 17,
+        "hour": 9,
+        "minute": 40,
+        "second": 0,
+        "latitude": 12.97194,
+        "longitude": 77.59369,
+        "location": "Bengaluru",
+        "agyat_rating": "AA",
+        "about": "<p>Anil Kumble (pronunciationⓘ; born 17 October 1970) is a former Indian cricketer, captain, coach and commentator who played Test and One Day International cricket for his national team over an international career of 18 years. A right-arm leg spin bowler, regarded as one of the greatest bowlers in cricket history, he took 619 wickets in Test cricket and was the third-highest wicket taker of all time at the time of his retirement in 2008.</p><p>Born in Bangalore, Mysore State (now Karnataka), Kumble developed an early interest in cricket as he grew up watching players like B. S. Chandrasekhar before becoming a full-fledged cricketer. He made his first-class debut at the age of 19 while representing Karnataka. Soon he was picked up for the Austral-Asia Cup in 1990 before making his Test debut against England later that year. Since then, he played 132 Test matches and was responsible for many of India's victories. In 1999, while playing against Pakistan, Kumble dismissed all ten batsmen in a Test match innings, joining England's Jim Laker as the second player to achieve the feat. He became a part of the regular ODI team during the early 1990s and had some of the best performances during this time. The year 1996 proved to very successful for him as he was selected for the World Cup and emerged as the most successful bowler of the tournament, taking 15 wickets in seven matches at an average of 18.73.</p><p>Unlike his contemporaries, Kumble was not a big turner of the ball, but relied primarily on pace, bounce, and accuracy. He was nicknamed \"Jumbo\", as his deliveries, for a spinner, were \"as fast as a jumbo jet\". He was selected as the Cricketer of the Year in 1993 Indian Cricket, and one of the Wisden Cricketers of the Year three years later. He was a member of the Indian team that was one of the joint-winners of the 2002 ICC Champions Trophy, where the title was shared with Sri Lanka.</p><p>Kumble was awarded the Padma Shri, India's fourth-highest civilian honour in 2005. After having played for 18 years, he announced his retirement from international cricket in November 2008. In October 2012, he was appointed the chairman of the International Cricket Council (ICC)'s cricket committee.</p><p>Between 2012 and 2015, Kumble held positions as a chief mentor for the teams Royal Challengers Bangalore and Mumbai Indians in the Indian Premier League. In February 2015, he became the fourth Indian cricketer to be inducted into ICC Hall of Fame. He also served as the head coach of the Indian cricket team between 2016 and 2017. From 2020 to 2022, he served as the head coach and the director of cricket operations of the IPL team Punjab Kings.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 222.9878649842064,
+            "ascendant": 8
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 197.9801390189866,
+                "cusp_degree": 17.98013901898659,
+                "motion_speed": 0.2138082875960037,
+                "zodiac": 7,
+                "house": 12,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 179.91013609242447,
+                "cusp_degree": 29.910136092424466,
+                "motion_speed": 0.9919704098389243,
+                "zodiac": 6,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 30.818057825294794,
+                "cusp_degree": 0.8180578252947939,
+                "motion_speed": 13.948507357862782,
+                "zodiac": 2,
+                "house": 7,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 211.5274578027203,
+                "cusp_degree": 1.5274578027203063,
+                "motion_speed": 0.1331924156539666,
+                "zodiac": 8,
+                "house": 1,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 154.4556423714901,
+                "cusp_degree": 4.455642371490086,
+                "motion_speed": 0.6345840174693514,
+                "zodiac": 6,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 172.73956103453085,
+                "cusp_degree": 22.73956103453085,
+                "motion_speed": 1.7328947849106457,
+                "zodiac": 6,
+                "house": 11,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 27.647037082529334,
+                "cusp_degree": 27.647037082529334,
+                "motion_speed": -0.0666914969753327,
+                "zodiac": 1,
+                "house": 6,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 308.0307313759108,
+                "cusp_degree": 8.030731375910818,
+                "motion_speed": -0.14090556296626353,
+                "zodiac": 11,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 306.5244792184895,
+                "cusp_degree": 6.524479218489489,
+                "motion_speed": -0.05299204934718945,
+                "zodiac": 11,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 126.52447921848949,
+                "motion_speed": -0.05299204934718945,
+                "cusp_degree": 6.524479218489489,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 128.03073137591082,
+                "motion_speed": -0.14090556296626353,
+                "cusp_degree": 8.030731375910818,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "R"
+            }
+        }
+    }
+}

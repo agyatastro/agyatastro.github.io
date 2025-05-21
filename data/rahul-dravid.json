@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Rahul Dravid",
+        "title": "Sportsperson Cricket",
+        "year": 1973,
+        "month": 1,
+        "day": 11,
+        "hour": 11,
+        "minute": 10,
+        "second": 0,
+        "latitude": 22.71792,
+        "longitude": 75.8333,
+        "location": "Indore",
+        "agyat_rating": "AA",
+        "about": "<p>Rahul Dravid (/ˌrɑːhʊl drəvɪd/ ⓘ; born 11 January 1973) is a former cricket player, ex-captain and ex-coach of the Indian national cricket team. Known for his outstanding batting technique, Dravid scored 24,177 runs in international cricket and is widely regarded as one of the greatest batsmen in the history of cricket. He is colloquially known as Mr. Dependable and often referred to as The Wall. He won the 2002 ICC Champions Trophy as a member of the Indian team and guided the Indian team to victory in the 2024 ICC Men's T20 World Cup as the head coach.</p><p>Prior to his appointment to the senior men's national team, Dravid was the Head of Cricket at the National Cricket Academy (NCA), and the head coach of the India Under-19 and India A teams. Under his tutelage, the Under-19 team finished as runners-up at the 2016 U-19 Cricket World Cup and won the 2018 U-19 Cricket World Cup. Under his coaching, Indian cricket team finished as runners-up at the 2023 Cricket World Cup and 2023 ICC World Test Championship final and were semifinalist at the 2022 ICC Men's T20 World Cup.</p><p>Born in a Marathi family and raised in Bangalore, he started playing cricket at the age of 12 and later represented Karnataka at the under-15, under-17 and under-19 levels. Dravid was named one of the best five cricketers of the year by Wisden Cricketers' Almanack in 2000 and received the Player of the Year and the Test Player of the Year awards at the inaugural ICC awards ceremony in 2004. In December 2011, he became the first non-Australian cricketer to deliver the Bradman Oration in Canberra.</p><p>As of January 2022, Dravid is the fourth-highest run scorer in Test cricket, after Sachin Tendulkar, Ricky Ponting and Jacques Kallis. In 2004, upon scoring a century against Bangladesh in Chittagong, he became the first player to score a century in all the ten Test-playing countries (now 12). As of October 2012, he holds the record for the most catches taken by a player (non-wicket-keeper) in Test cricket, at 210. Dravid holds a unique record of never getting out for a golden duck in the 286 Test innings that he has played during his career. He has faced 31,258 balls, which is the largest number of balls faced by any player in test cricket. He has also spent 44,152 minutes at the crease, which is the highest time spent on the crease by any player in test cricket. Dravid and Tendulkar hold the highest scoring partnership in Test cricket history, having scored 6,920 runs combined while batting together for India.</p><p>In August 2011, after receiving a surprise recall during the ODI series against England, Dravid declared his retirement from ODIs as well as Twenty20 International (T20I), and in March 2012, he announced his retirement from international and first-class cricket. He appeared at the 2012 Indian Premier League as captain of the Rajasthan Royals.</p><p>Rahul Dravid, along with Glenn McGrath, were honoured during the seventh annual Bradman Awards function in Sydney on 1 November 2012. Dravid has also been awarded the Padma Shri (2004) and the Padma Bhushan (2013), India's fourth and third highest civilian awards respectively.</p><p>In 2014, Rahul Dravid joined the GoSports Foundation as a member of their board of advisors. In collaboration with GoSports Foundation, he is mentoring India's future Olympians and Paralympians as part of the Rahul Dravid Athlete Mentorship Program. Indian badmintonist Prannoy Kumar, para-swimmer Sharath Gayakwad and golfer S. Chikkarangappa were part of the initial group of athletes that were mentored by Rahul Dravid. In July 2018, Dravid became the fifth Indian cricketer to be inducted into the ICC Hall of Fame.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 330.9812087623585,
+            "ascendant": 12
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 266.71734865216297,
+                "cusp_degree": 26.71734865216297,
+                "motion_speed": 0.23394014708561595,
+                "zodiac": 9,
+                "house": 10,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 267.3714258394688,
+                "cusp_degree": 27.371425839468827,
+                "motion_speed": 1.019049295181926,
+                "zodiac": 9,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 344.5791568484184,
+                "cusp_degree": 14.579156848418393,
+                "motion_speed": 13.583202634432565,
+                "zodiac": 12,
+                "house": 1,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 245.78812204161,
+                "cusp_degree": 5.788122041609995,
+                "motion_speed": 1.250481883403638,
+                "zodiac": 9,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 224.39136572406616,
+                "cusp_degree": 14.391365724066162,
+                "motion_speed": 0.6843579290827462,
+                "zodiac": 8,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 256.6079613203035,
+                "cusp_degree": 16.607961320303502,
+                "motion_speed": 1.5514045414047537,
+                "zodiac": 9,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 51.15774803399506,
+                "cusp_degree": 21.157748033995063,
+                "motion_speed": -0.057823662351847306,
+                "zodiac": 2,
+                "house": 3,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 263.27700588001215,
+                "cusp_degree": 23.277005880012155,
+                "motion_speed": -0.0035258919358374216,
+                "zodiac": 9,
+                "house": 10,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 263.22666903129226,
+                "cusp_degree": 23.22666903129226,
+                "motion_speed": -0.052992047194695115,
+                "zodiac": 9,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 83.22666903129226,
+                "motion_speed": -0.052992047194695115,
+                "cusp_degree": 23.22666903129226,
+                "zodiac": 3,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 83.27700588001215,
+                "motion_speed": -0.0035258919358374216,
+                "cusp_degree": 23.277005880012155,
+                "zodiac": 3,
+                "house": 4,
+                "motion": "R"
+            }
+        }
+    }
+}

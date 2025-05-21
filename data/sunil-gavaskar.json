@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Sunil Gavaskar",
+        "title": "Sportsperson Cricket",
+        "year": 1949,
+        "month": 7,
+        "day": 10,
+        "hour": 20,
+        "minute": 42,
+        "second": 0,
+        "latitude": 19.07283,
+        "longitude": 72.88261,
+        "location": "Mumbai",
+        "agyat_rating": "AA",
+        "about": "<p>Sunil Manohar \"Sunny\" Gavaskar (Marathi pronunciation: [suniːl ɡaːʋəskəɾ]; born 10 July 1949), is a former captain of the Indian national cricket team who represented India and Mumbai from 1971 to 1987. Gavaskar is acknowledged as one of the greatest opening batsmen of all time.</p><p>Gavaskar was widely admired for his technique against fast bowling, with a particularly high average of 65.45 against the West Indies, who possessed a four-pronged fast bowling attack, widely regarded as the most vicious in Test history. However, most of Gavaskar's centuries against West Indies were against the team when their four-pronged attack were not playing together. His captaincy of the Indian team, was considered as one of the first attacking ones, with Indian team winning the 1984 Asia Cup, and the World Championship of Cricket in 1985. At the same time, there were multiple exchanges of captaincy between Gavaskar and Kapil Dev, with one coming just six months before Kapil led India to victory at the 1983 Cricket World Cup. He is also a former Sheriff of Mumbai.</p><p>Gavaskar is a recipient of the Indian sports honour of the Arjuna Award and the civilian honour of the Padma Bhushan. He was inducted into the ICC Cricket Hall of Fame in 2009. In 2012, he was awarded the C. K. Nayudu Lifetime Achievement Award, the highest honour BCCI can bestow on a former player. Gavaskar is also known as Sunny by his fans and fellow cricket commentators.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 281.0454035699018,
+            "ascendant": 10
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 275.3521319775874,
+                "cusp_degree": 5.352131977587419,
+                "motion_speed": -0.1246599168563274,
+                "zodiac": 10,
+                "house": 1,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 84.83972203238406,
+                "cusp_degree": 24.83972203238406,
+                "motion_speed": 0.9530900924252003,
+                "zodiac": 3,
+                "house": 6,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 268.4894943681117,
+                "cusp_degree": 28.489494368111707,
+                "motion_speed": 13.18292883117825,
+                "zodiac": 9,
+                "house": 12,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 107.36738615716364,
+                "cusp_degree": 17.367386157163637,
+                "motion_speed": 1.2171582074510008,
+                "zodiac": 4,
+                "house": 7,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 58.25982327181217,
+                "cusp_degree": 28.259823271812166,
+                "motion_speed": 0.6858135959440831,
+                "zodiac": 2,
+                "house": 5,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 67.66378525498602,
+                "cusp_degree": 7.663785254986024,
+                "motion_speed": 1.713069286193375,
+                "zodiac": 3,
+                "house": 6,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 130.0824766423081,
+                "cusp_degree": 10.082476642308109,
+                "motion_speed": 0.10106659027244572,
+                "zodiac": 5,
+                "house": 8,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 358.35367137307156,
+                "cusp_degree": 28.353671373071563,
+                "motion_speed": -0.20859489367390602,
+                "zodiac": 12,
+                "house": 3,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 358.19536525697254,
+                "cusp_degree": 28.195365256972536,
+                "motion_speed": -0.052992086409652445,
+                "zodiac": 12,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 178.19536525697254,
+                "motion_speed": -0.052992086409652445,
+                "cusp_degree": 28.195365256972536,
+                "zodiac": 6,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 178.35367137307162,
+                "motion_speed": -0.20859489367390602,
+                "cusp_degree": 28.35367137307162,
+                "zodiac": 6,
+                "house": 9,
+                "motion": "R"
+            }
+        }
+    }
+}

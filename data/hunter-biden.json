@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Hunter Biden",
+        "title": "Lawyer/Investment Advisor",
+        "year": 1970,
+        "month": 2,
+        "day": 4,
+        "hour": 13,
+        "minute": 46,
+        "second": 0,
+        "latitude": 39.74595,
+        "longitude": -75.54659,
+        "location": "Wilmington, United States",
+        "agyat_rating": "AA",
+        "about": "<p>Robert Hunter Biden (born February 4, 1970) is an American attorney and businessman. He is the second son of former president Joe Biden and his first wife, Neilia Hunter Biden. Hunter Biden was a founding board member of BHR Partners, a Chinese investment company, in 2013, and later served on the board of Burisma Holdings, one of the largest private natural gas producers in Ukraine, from 2014 until his term expired in April 2019. He has worked as a lobbyist and legal representative for lobbying firms, a hedge fund principal, and a venture capital and private equity fund investor.</p><p>Since early 2019, Hunter and his father have been the targets of false allegations that Joe pressured Ukraine to fire a prosecutor to protect Hunter, which intensified after the New York Post published an article in October 2020 about a laptop computer that had belonged to Hunter Biden. Biden was convicted of three federal firearms-related felony charges in June 2024 after he had admitted to illegally owning a gun while a drug user. His tax affairs have been under federal criminal investigation since late 2018, and in September 2024, he pleaded guilty to all of the tax charges.</p><p>In December 2024, Biden's father pardoned him for all federal offenses committed between 2014 and 2024, including any potential offenses not yet discovered.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 67.2656432236532,
+            "ascendant": 3
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 192.17147100093734,
+                "cusp_degree": 12.171471000937345,
+                "motion_speed": 0.046909443839708596,
+                "zodiac": 7,
+                "house": 5,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 292.1060995719706,
+                "cusp_degree": 22.106099571970617,
+                "motion_speed": 1.0141520933961161,
+                "zodiac": 10,
+                "house": 8,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 270.4710203174263,
+                "cusp_degree": 0.47102031742628014,
+                "motion_speed": 15.168937871486504,
+                "zodiac": 10,
+                "house": 8,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 294.7321350034357,
+                "cusp_degree": 24.7321350034357,
+                "motion_speed": 1.254971983215324,
+                "zodiac": 10,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 344.5798865288346,
+                "cusp_degree": 14.579886528834606,
+                "motion_speed": 0.734487882992654,
+                "zodiac": 12,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 266.6233690372118,
+                "cusp_degree": 26.623369037211774,
+                "motion_speed": 0.9599005784335504,
+                "zodiac": 9,
+                "house": 7,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 9.547215395969591,
+                "cusp_degree": 9.547215395969591,
+                "motion_speed": 0.057065287248878105,
+                "zodiac": 1,
+                "house": 11,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 318.56599938883005,
+                "cusp_degree": 18.56599938883005,
+                "motion_speed": -0.062095127337156227,
+                "zodiac": 11,
+                "house": 9,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 320.0045141324855,
+                "cusp_degree": 20.004514132485497,
+                "motion_speed": -0.052992049889103436,
+                "zodiac": 11,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 140.0045141324855,
+                "motion_speed": -0.052992049889103436,
+                "cusp_degree": 20.004514132485497,
+                "zodiac": 5,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 138.56599938883005,
+                "motion_speed": -0.062095127337156227,
+                "cusp_degree": 18.56599938883005,
+                "zodiac": 5,
+                "house": 3,
+                "motion": "R"
+            }
+        }
+    }
+}

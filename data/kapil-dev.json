@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Kapil Dev",
+        "title": "Sportsperson Cricketer",
+        "year": 1959,
+        "month": 1,
+        "day": 6,
+        "hour": 2,
+        "minute": 30,
+        "second": 0,
+        "latitude": 30.73629,
+        "longitude": 76.7884,
+        "location": "Chandigarh",
+        "agyat_rating": "AA",
+        "about": "<p>Kapildev Ramlal Nikhanj (pronunciation: [kəpil deːʋ] born 6 January 1959) is an Indian former cricket team captain. He is regarded as one of the greatest all-rounders in the history of cricket, he was a fast-medium bowler and a hard-hitting middle-order batsman. Dev is the only player in the history of cricket to have taken more than 400 wickets (434 wickets) and scored more than 5,000 runs in Test cricket.</p><p>Dev captained the Indian cricket team that won the 1983 Cricket World Cup, becoming the first Indian captain to win the Cricket World Cup. He is still the youngest captain (at the age of 24) to win the World Cup for any team. He retired in 1994, as the first player to take 200 ODI wickets, and holding the world record for the highest number of wickets taken in Test cricket, a record subsequently broken by Courtney Walsh in 2000. Kapil Dev held the record for the highest individual score (175*) scored by a batsman batting at number 5 or lower in ODIs until 2023, when it was superseded by Glenn Maxwell. He was also a part of the Indian squad which won the 1985 World Championship of Cricket.</p><p>After retiring, he coached the Indian national team between September 1999 and September 2000.</p><p>In 1982, Dev was awarded the Padma Shri, and in 1991 the Padma Bhushan. In 2002, he was named by Wisden as the Indian Cricketer of the Century. On 11 March 2010, Dev was inducted into the ICC Cricket Hall of Fame. In 2013, he received the C. K. Nayudu Lifetime Achievement Award, the highest honour conferred by BCCI on a former player.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 191.82945150134142,
+            "ascendant": 7
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 211.5625945602234,
+                "cusp_degree": 1.5625945602234026,
+                "motion_speed": 0.1768411471231032,
+                "zodiac": 8,
+                "house": 2,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 261.4866554600107,
+                "cusp_degree": 21.486655460010695,
+                "motion_speed": 1.0195145397869785,
+                "zodiac": 9,
+                "house": 3,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 216.53345407673442,
+                "cusp_degree": 6.533454076734415,
+                "motion_speed": 14.436164776122839,
+                "zodiac": 8,
+                "house": 2,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 274.8500089151178,
+                "cusp_degree": 4.850008915117826,
+                "motion_speed": 1.2547753895415306,
+                "zodiac": 10,
+                "house": 4,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 24.961170804160442,
+                "cusp_degree": 24.961170804160442,
+                "motion_speed": 0.1920622659895344,
+                "zodiac": 1,
+                "house": 7,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 240.22888339249425,
+                "cusp_degree": 0.2288833924942537,
+                "motion_speed": 1.2880610141936792,
+                "zodiac": 9,
+                "house": 3,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 246.7479190509641,
+                "cusp_degree": 6.7479190509641,
+                "motion_speed": 0.11555616877284841,
+                "zodiac": 9,
+                "house": 3,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 174.91114931007783,
+                "cusp_degree": 24.911149310077832,
+                "motion_speed": -0.09984333049517542,
+                "zodiac": 6,
+                "house": 12,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 174.5120907047254,
+                "cusp_degree": 24.51209070472541,
+                "motion_speed": -0.05299201096616969,
+                "zodiac": 6,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 354.51209070472544,
+                "motion_speed": -0.05299201096616969,
+                "cusp_degree": 24.512090704725438,
+                "zodiac": 12,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 354.9111493100778,
+                "motion_speed": -0.09984333049517542,
+                "cusp_degree": 24.911149310077803,
+                "zodiac": 12,
+                "house": 6,
+                "motion": "R"
+            }
+        }
+    }
+}

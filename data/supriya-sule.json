@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Supriya Sule",
+        "title": "Politician",
+        "year": 1969,
+        "month": 6,
+        "day": 30,
+        "hour": 11,
+        "minute": 0,
+        "second": 0,
+        "latitude": 18.51957,
+        "longitude": 73.85535,
+        "location": "Pune",
+        "agyat_rating": "AA",
+        "about": "<p>Supriya Sadanand Sule (née Pawar; born 30 June 1969) is an Indian politician from the Nationalist Congress Party (Sharadchandra Pawar) and currently a Member of Parliament, Lok Sabha representing Baramati since 2009, leader of Nationalist Congress Party (SP) in Lok Sabha since 2014 and the Working National President of Nationalist Congress Party since 2023. She is awarded with Sansad Ratna awards in 2025 for her excellence performance in parliamentary duties.</p><p>Previously, she served as the Member of Parliament, Rajya Sabha from Maharashtra from 2006 to 2009. In 2011, she launched a state-wide campaign against female foeticide. Recently, she has been honored with Mumbai Women of the Decade Achievers Award by All Ladies League for social service.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 136.5394397456421,
+            "ascendant": 5
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 154.72041877203677,
+                "cusp_degree": 4.720418772036766,
+                "motion_speed": 0.10355235494995359,
+                "zodiac": 6,
+                "house": 2,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 74.80104488221912,
+                "cusp_degree": 14.801044882219117,
+                "motion_speed": 0.9530091718040035,
+                "zodiac": 3,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 260.234633977586,
+                "cusp_degree": 20.234633977585986,
+                "motion_speed": 15.330185415423239,
+                "zodiac": 9,
+                "house": 5,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 29.582912592790755,
+                "cusp_degree": 29.582912592790755,
+                "motion_speed": 1.026708696757537,
+                "zodiac": 1,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 218.71565682754692,
+                "cusp_degree": 8.715656827546923,
+                "motion_speed": -0.11125396635608327,
+                "zodiac": 8,
+                "house": 4,
+                "motion": "R"
+            },
+            "Mercury": {
+                "degree": 53.867052622829746,
+                "cusp_degree": 23.867052622829746,
+                "motion_speed": 1.363705068008818,
+                "zodiac": 2,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 13.266779539246691,
+                "cusp_degree": 13.266779539246691,
+                "motion_speed": 0.08162901770590385,
+                "zodiac": 1,
+                "house": 9,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 330.84782173915863,
+                "cusp_degree": 0.8478217391586327,
+                "motion_speed": -0.16411826839327895,
+                "zodiac": 12,
+                "house": 8,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 331.6397636906148,
+                "cusp_degree": 1.6397636906148136,
+                "motion_speed": -0.05299205048190633,
+                "zodiac": 12,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 151.6397636906148,
+                "motion_speed": -0.05299205048190633,
+                "cusp_degree": 1.6397636906148136,
+                "zodiac": 6,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 150.84782173915863,
+                "motion_speed": -0.16411826839327895,
+                "cusp_degree": 0.8478217391586327,
+                "zodiac": 6,
+                "house": 2,
+                "motion": "R"
+            }
+        }
+    }
+}

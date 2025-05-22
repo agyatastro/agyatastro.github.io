@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "D K Shivakumar",
+        "title": "Politician, Businessperson",
+        "year": 1961,
+        "month": 5,
+        "day": 15,
+        "hour": 14,
+        "minute": 54,
+        "second": 0,
+        "latitude": 12.54654,
+        "longitude": 77.42005,
+        "location": "Kankanhalli",
+        "agyat_rating": "AA",
+        "about": "<p>Doddalahalli Kempegowda Shivakumar (born 15 May 1962) is an Indian politician and businessman who is the 9th and Current Deputy Chief Minister of Karnataka. He also holds the ministry of Water resources, Bengaluru Development and Town Planning, and Bengaluru Urban District In-charge since 20 May 2023 as a member of the Indian National Congress. He is also the President of the Karnataka PCC since 2020 and was the Working President from 2008 to 2010. He was the cabinet minister in the Government of Karnataka from 2014 to 2019. He represented the Kanakapura constituency in the Karnataka Legislative Assembly since 2008 and from Sathanur Assembly constituency from 1989 to 2020</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 152.37443290183296,
+            "ascendant": 6
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 283.6680273587127,
+                "cusp_degree": 13.66802735871272,
+                "motion_speed": 0.03275648445586998,
+                "zodiac": 10,
+                "house": 5,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 30.972503788554725,
+                "cusp_degree": 0.9725037885547252,
+                "motion_speed": 0.964402997732878,
+                "zodiac": 2,
+                "house": 9,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 39.09756457160865,
+                "cusp_degree": 9.09756457160865,
+                "motion_speed": 12.969498179252334,
+                "zodiac": 2,
+                "house": 9,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 352.5303345784351,
+                "cusp_degree": 22.530334578435088,
+                "motion_speed": 0.4409460687466224,
+                "zodiac": 12,
+                "house": 7,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 101.57305038249734,
+                "cusp_degree": 11.573050382497343,
+                "motion_speed": 0.5324504997715271,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 46.00527758939575,
+                "cusp_degree": 16.005277589395753,
+                "motion_speed": 1.8935661299982771,
+                "zodiac": 2,
+                "house": 9,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 276.5138472446258,
+                "cusp_degree": 6.513847244625822,
+                "motion_speed": -0.009291147829532685,
+                "zodiac": 10,
+                "house": 5,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 129.1668575063673,
+                "cusp_degree": 9.166857506367307,
+                "motion_speed": -0.21405700482815423,
+                "zodiac": 5,
+                "house": 12,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 128.9115476299003,
+                "cusp_degree": 8.911547629900298,
+                "motion_speed": -0.05299207497516726,
+                "zodiac": 5,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 308.91154762990027,
+                "motion_speed": -0.05299207497516726,
+                "cusp_degree": 8.91154762990027,
+                "zodiac": 11,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 309.1668575063673,
+                "motion_speed": -0.21405700482815423,
+                "cusp_degree": 9.166857506367307,
+                "zodiac": 11,
+                "house": 6,
+                "motion": "R"
+            }
+        }
+    }
+}

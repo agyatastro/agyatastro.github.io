@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Bhupinder Singh Hooda",
+        "title": "Politician",
+        "year": 1947,
+        "month": 9,
+        "day": 15,
+        "hour": 4,
+        "minute": 30,
+        "second": 0,
+        "latitude": 28.89447,
+        "longitude": 76.58917,
+        "location": "Rohtak, Haryana",
+        "agyat_rating": "AA",
+        "about": "<p>Bhupinder Singh Hooda (born 15 September 1947) is an Indian National Congress politician, who has served as the Chief Minister of Haryana from 2005 to 2014. He was the Leader of the Opposition in Haryana Legislative Assembly from 2019 to 2024.</p><p>When he began a second term in October 2009 after leading the Congress to an election victory, it was the first time since 1972 that a Haryana electorate returned a ruling party back to power. Hooda is also a Member of the Bar Council of Punjab and Haryana. In 2010, Indian Prime Minister Manmohan Singh constituted the Working Group on Agriculture Production under Hooda's chairmanship to recommend strategies and action plan for increasing agricultural production and productivity, including long-term policies to ensure sustained agricultural growth.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 121.15928694362859,
+            "ascendant": 5
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 209.6774528276448,
+                "cusp_degree": 29.6774528276448,
+                "motion_speed": 0.1543920092346038,
+                "zodiac": 7,
+                "house": 3,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 148.13158817925384,
+                "cusp_degree": 28.13158817925384,
+                "motion_speed": 0.9747193106972314,
+                "zodiac": 5,
+                "house": 1,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 149.90606821765456,
+                "cusp_degree": 29.906068217654564,
+                "motion_speed": 14.447314304707804,
+                "zodiac": 5,
+                "house": 1,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 151.20568607061625,
+                "cusp_degree": 1.2056860706162524,
+                "motion_speed": 1.2439788040425925,
+                "zodiac": 6,
+                "house": 2,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 87.25143033993986,
+                "cusp_degree": 27.25143033993986,
+                "motion_speed": 0.6106351148297277,
+                "zodiac": 3,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 161.98259706032934,
+                "cusp_degree": 11.98259706032934,
+                "motion_speed": 1.6343491919717443,
+                "zodiac": 6,
+                "house": 2,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 114.28887885071246,
+                "cusp_degree": 24.288878850712464,
+                "motion_speed": 0.11414513412090835,
+                "zodiac": 4,
+                "house": 12,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 32.40027278069056,
+                "cusp_degree": 2.400272780690557,
+                "motion_speed": -0.15914332072379908,
+                "zodiac": 2,
+                "house": 10,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 33.41786393114824,
+                "cusp_degree": 3.41786393114824,
+                "motion_speed": -0.0529921212647789,
+                "zodiac": 2,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 213.41786393114825,
+                "motion_speed": -0.0529921212647789,
+                "cusp_degree": 3.417863931148247,
+                "zodiac": 8,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 212.40027278069056,
+                "motion_speed": -0.15914332072379908,
+                "cusp_degree": 2.400272780690557,
+                "zodiac": 8,
+                "house": 4,
+                "motion": "R"
+            }
+        }
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Mark Carney",
+        "title": "Politician, Economist",
+        "year": 1965,
+        "month": 3,
+        "day": 16,
+        "hour": 7,
+        "minute": 56,
+        "second": 0,
+        "latitude": 60.00439,
+        "longitude": -111.88871,
+        "location": "Fort Smith",
+        "agyat_rating": "AA",
+        "about": "<p>Mark Joseph Carney (born March 16, 1965) is a Canadian politician and economist who has served as the 24th and current prime minister of Canada since 2025. He has served as Leader of the Liberal Party and Member of Parliament (MP) for Nepean since 2025.</p><p>Carney was born in Fort Smith, Northwest Territories, and raised in Edmonton, Alberta. He graduated with a bachelor's degree in economics from Harvard University in 1987 before studying at the University of Oxford, where he earned a master's degree in economics in 1993 and a doctorate in economics in 1995. He then held a number of roles at the investment bank Goldman Sachs, before joining the Bank of Canada as a deputy governor in 2003. In 2004, he was named as a senior associate deputy minister for the Department of Finance Canada. Carney served as the eighth Governor of the Bank of Canada from 2008 to 2013, where he was responsible for Canadian monetary policy during the global financial crisis. During this time, he was also appointed as the second Chair of the Financial Stability Board, a position he held for two terms from 2011 to 2018. Following his term as Governor of the Bank of Canada, he was appointed as the 120th Governor of the Bank of England, serving from 2013 to 2020, where he led the British central bank's response to Brexit and the early phase of the COVID pandemic.</p><p>After leaving central banking, Carney held a number of roles in the private and public sectors, including being chair of Bloomberg L.P. and chair and head of impact investing at Brookfield Asset Management. In December 2019, United Nations Secretary-General António Guterres appointed Carney to be his Special Envoy on Climate Action and Finance. Carney also worked as one of several informal advisors to Canadian Prime Minister Justin Trudeau during the COVID pandemic and was appointed chair of the Liberal Party's economic growth task force by Trudeau in September 2024. In 2023, Carney became co-chair of the World Bank's private sector investment lab.</p><p>In January 2025, after Justin Trudeau resigned his leadership, Carney announced his intention to seek the leadership of the Liberal Party of Canada, and went on to win a landslide victory in March. Shortly after winning the leadership, Carney was appointed Prime Minister and advised the Governor General to dissolve Parliament and trigger a federal election. He led the Liberal Party to a minority government, overturning earlier poor opinion polling to win the party's fourth consecutive mandate since 2015, while also winning a seat in Parliament for the first time.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 47.689082820430954,
+            "ascendant": 2
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 29.173456717145616,
+                "cusp_degree": 29.173456717145616,
+                "motion_speed": 0.17670043261553395,
+                "zodiac": 1,
+                "house": 12,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 332.4689091965201,
+                "cusp_degree": 2.4689091965200873,
+                "motion_speed": 0.9949646382724714,
+                "zodiac": 12,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 141.45331576386704,
+                "cusp_degree": 21.45331576386704,
+                "motion_speed": 14.383826816355452,
+                "zodiac": 5,
+                "house": 4,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 325.728085693502,
+                "cusp_degree": 25.72808569350201,
+                "motion_speed": 1.2448903628321244,
+                "zodiac": 11,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 142.58324851891058,
+                "cusp_degree": 22.58324851891058,
+                "motion_speed": -0.37946530873290085,
+                "zodiac": 5,
+                "house": 4,
+                "motion": "R"
+            },
+            "Mercury": {
+                "degree": 349.63084218835905,
+                "cusp_degree": 19.630842188359054,
+                "motion_speed": 1.488889115733003,
+                "zodiac": 12,
+                "house": 11,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 316.4326024557866,
+                "cusp_degree": 16.432602455786594,
+                "motion_speed": 0.11888647078628821,
+                "zodiac": 11,
+                "house": 10,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 54.23009066144521,
+                "cusp_degree": 24.23009066144521,
+                "motion_speed": -0.19865283648118837,
+                "zodiac": 2,
+                "house": 1,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 54.65537264085147,
+                "cusp_degree": 24.655372640851468,
+                "motion_speed": -0.052992005017575394,
+                "zodiac": 2,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 234.65537264085145,
+                "motion_speed": -0.052992005017575394,
+                "cusp_degree": 24.655372640851454,
+                "zodiac": 8,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 234.23009066144522,
+                "motion_speed": -0.19865283648118837,
+                "cusp_degree": 24.230090661445217,
+                "zodiac": 8,
+                "house": 7,
+                "motion": "R"
+            }
+        }
+    }
+}

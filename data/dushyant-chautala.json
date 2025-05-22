@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Dushyant Chautala",
+        "title": "Politician",
+        "year": 1988,
+        "month": 4,
+        "day": 3,
+        "hour": 17,
+        "minute": 35,
+        "second": 0,
+        "latitude": 29.15394,
+        "longitude": 75.72294,
+        "location": "Hisar, Haryana",
+        "agyat_rating": "AC",
+        "about": "<p>Dushyant Singh Chautala (born 3 April 1988) is an Indian politician who served as the 6th Deputy Chief Minister of Haryana from 2019 to 2024. He represented the Uchana Kalan constituency in Haryana Legislative Assembly from 2019 until 2024 and was sworn-in as Deputy Chief Minister of Haryana upon making an alliance with Bharatiya Janata Party after the 2019 Haryana Legislative Assembly election.</p><p>He is the co-founder and president of the Jannayak Janta Party or JJP, a party which was split from the Indian National Lok Dal. He founded the party on 9 December 2018.</p><p>He has also served as a Member of Parliament in the 16th Lok Sabha representing the Hisar constituency from the Indian National Lok Dal from 2014 to 2019. In 2019, he lost his seat under the JJP to the Bharatiya Janata Party. He has also been the President of Table Tennis Federation of India since 2017 and Executive Member of Indian Olympic Association since 2019.The JJP suffered a drubbing by the hands of the saffron tsunami in the state of Haryana in 2024 Assembly elections , where the BJP stormed back to power for the third consecutive time in the state. The party managed to garner just 0.9% of the votes and Dushyant Chautala lost his deposit, finishing fifth.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 150.5840772249916,
+            "ascendant": 6
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 12.016707928590101,
+                "cusp_degree": 12.016707928590101,
+                "motion_speed": 0.2309519765976293,
+                "zodiac": 1,
+                "house": 8,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 350.2423725373314,
+                "cusp_degree": 20.24237253733139,
+                "motion_speed": 0.9850287645220427,
+                "zodiac": 12,
+                "house": 7,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 182.79483292794055,
+                "cusp_degree": 2.794832927940547,
+                "motion_speed": 12.52676048076362,
+                "zodiac": 7,
+                "house": 2,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 36.08582454299422,
+                "cusp_degree": 6.085824542994217,
+                "motion_speed": 0.9803807874104152,
+                "zodiac": 2,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 274.00582199266364,
+                "cusp_degree": 4.005821992663641,
+                "motion_speed": 0.6733995109676144,
+                "zodiac": 10,
+                "house": 5,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 333.7977871658586,
+                "cusp_degree": 3.797787165858608,
+                "motion_speed": 1.7358883377651948,
+                "zodiac": 12,
+                "house": 7,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 248.81240692682354,
+                "cusp_degree": 8.812406926823542,
+                "motion_speed": 0.01251451643460115,
+                "zodiac": 9,
+                "house": 4,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 329.3684960858454,
+                "cusp_degree": 29.36849608584538,
+                "motion_speed": -0.04437143798919261,
+                "zodiac": 11,
+                "house": 6,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 328.5238082329952,
+                "cusp_degree": 28.52380823299518,
+                "motion_speed": -0.05299202420643373,
+                "zodiac": 11,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 148.52380823299518,
+                "motion_speed": -0.05299202420643373,
+                "cusp_degree": 28.52380823299518,
+                "zodiac": 5,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 149.36849608584538,
+                "motion_speed": -0.04437143798919261,
+                "cusp_degree": 29.36849608584538,
+                "zodiac": 5,
+                "house": 12,
+                "motion": "R"
+            }
+        }
+    }
+}

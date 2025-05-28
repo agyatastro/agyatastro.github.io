@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Mani Shankar Aiyar",
+        "title": "Politician",
+        "year": 1941,
+        "month": 4,
+        "day": 9,
+        "hour": 23,
+        "minute": 54,
+        "second": 0,
+        "latitude": 31.558,
+        "longitude": 74.35071,
+        "location": "Lahore",
+        "agyat_rating": "AA",
+        "about": "<p>Mani Shankar Aiyar (born 10 April 1941) is an Indian politician and former career civil servant diplomat. He is a member of the Indian National Congress Party.</p>He represented the Mayiladuthurai constituency of Tamil Nadu in the 10th Lok Sabha, 13th Lok Sabha, and 14th Lok Sabha. He was a nominated member of parliament from Rajya Sabha.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 254.6035583037218,
+            "ascendant": 9
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 26.123152176204737,
+                "cusp_degree": 26.123152176204737,
+                "motion_speed": 0.22125917766307043,
+                "zodiac": 1,
+                "house": 5,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 356.50955269016316,
+                "cusp_degree": 26.50955269016316,
+                "motion_speed": 0.9812894800636622,
+                "zodiac": 12,
+                "house": 4,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 147.42302659430453,
+                "cusp_degree": 27.42302659430453,
+                "motion_speed": 14.691684095385071,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 354.0484517194298,
+                "cusp_degree": 24.048451719429806,
+                "motion_speed": 1.2388134656697183,
+                "zodiac": 12,
+                "house": 4,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 282.02150241268936,
+                "cusp_degree": 12.021502412689358,
+                "motion_speed": 0.6907071168581916,
+                "zodiac": 10,
+                "house": 2,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 333.1169281578278,
+                "cusp_degree": 3.116928157827772,
+                "motion_speed": 1.5078666635691973,
+                "zodiac": 12,
+                "house": 4,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 21.299321376722187,
+                "cusp_degree": 21.299321376722187,
+                "motion_speed": 0.12086236650151241,
+                "zodiac": 1,
+                "house": 5,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 158.76153821604248,
+                "cusp_degree": 8.761538216042482,
+                "motion_speed": 0.010292855740828407,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 157.9032564577501,
+                "cusp_degree": 7.903256457750103,
+                "motion_speed": -0.05299209433320549,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 337.9032564577501,
+                "motion_speed": -0.05299209433320549,
+                "cusp_degree": 7.903256457750103,
+                "zodiac": 12,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 338.7615382160425,
+                "motion_speed": 0.010292855740828407,
+                "cusp_degree": 8.761538216042482,
+                "zodiac": 12,
+                "house": 4,
+                "motion": "R"
+            }
+        }
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Muhammad Yunus",
+        "title": "Economist, Entrepreneur, Activist, Nobel Peace Prize",
+        "year": 1940,
+        "month": 6,
+        "day": 28,
+        "hour": 9,
+        "minute": 30,
+        "second": 0,
+        "latitude": 22.50515,
+        "longitude": 91.81339,
+        "location": "Hathazari",
+        "agyat_rating": "AU",
+        "about": "<p>Muhammad Yunus (born 28 June 1940) is a Bangladeshi economist, entrepreneur, and civil society leader who has been serving as the Chief Adviser of the interim government of Bangladesh since 8 August 2024. Yunus pioneered the modern concept of microcredit and microfinance, for which he was awarded the Nobel Peace Prize in 2006 as the first Bangladeshi. He is the founder of Grameen Bank.</p><p>Born in Hathazari, Chittagong, Yunus passed his matriculation and intermediate examinations from Chittagong Collegiate School and Chittagong College, respectively. He completed his BA from University of Dhaka and joined as a lecturer in Chittagong College. He obtained his PhD in economics from Vanderbilt University in the United States.</p><p>After the devastating famine of 1974, Yunus started to work on poverty elevation in Bangladesh. He began experimenting with microfinance in the late 1970s. In 1983, the Grameen Bank was established. The success of the Grameen microfinance model inspired similar efforts in about 100 developing countries and even in developed countries including the United States. Yunus was awarded the Nobel Peace Prize in 2006 for founding the Grameen Bank and pioneering the concepts of microcredit and microfinance. Yunus has received several other national and international honors, including the United States Presidential Medal of Freedom in 2009 and the Congressional Gold Medal in 2010.</p><p>In 2012, Yunus became Chancellor of Glasgow Caledonian University in Scotland, a position he held until 2018. Previously, he was a professor of economics at Chittagong University in Bangladesh. He published several books related to his finance work. He is a founding board member of Grameen America and Grameen Foundation, which supports microcredit. Yunus also served in the board of directors of the United Nations Foundation, a public charity to support UN causes, from 1998 to 2021. In 2022, he partnered with Global Esports Federation as part of the Esports for Development (E4D) movement to support the development of esports.</p><p>Following the overthrow of Sheikh Hasina, President Mohammed Shahabuddin gave Yunus a mandate to form an interim government, acceding to calls from student leaders for his appointment. His government has appointed a Constitutional Reform Commission to draft revisions to the Constitution of Bangladesh and has pledged to hold the next general election by June 2026. His name was listed in The 500 Most Influential Muslims in 2024. In 2025, he was named one of Time Magazine's 100 Most Influential People in the World.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 129.44233361266137,
+            "ascendant": 5
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 15.844116653130552,
+                "cusp_degree": 15.844116653130552,
+                "motion_speed": 0.1786482940718717,
+                "zodiac": 1,
+                "house": 9,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 73.24466271687379,
+                "cusp_degree": 13.24466271687379,
+                "motion_speed": 0.9534459431966454,
+                "zodiac": 3,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 347.4336037961552,
+                "cusp_degree": 17.433603796155182,
+                "motion_speed": 11.820870818125115,
+                "zodiac": 12,
+                "house": 8,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 71.25361041449816,
+                "cusp_degree": 11.253610414498155,
+                "motion_speed": -0.6232882266920775,
+                "zodiac": 3,
+                "house": 11,
+                "motion": "R"
+            },
+            "Mars": {
+                "degree": 93.60183861541586,
+                "cusp_degree": 3.6018386154158577,
+                "motion_speed": 0.6369851015514891,
+                "zodiac": 4,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 98.19714925219263,
+                "cusp_degree": 8.19714925219263,
+                "motion_speed": 0.7489721393060276,
+                "zodiac": 4,
+                "house": 12,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 18.791006818810434,
+                "cusp_degree": 18.791006818810434,
+                "motion_speed": 0.09152006308449183,
+                "zodiac": 1,
+                "house": 9,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 173.46940240767518,
+                "cusp_degree": 23.469402407675176,
+                "motion_speed": 0.0017402630224411081,
+                "zodiac": 6,
+                "house": 2,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 173.04125075007497,
+                "cusp_degree": 23.041250750074965,
+                "motion_speed": -0.05299212819552353,
+                "zodiac": 6,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 353.04125075007494,
+                "motion_speed": -0.05299212819552353,
+                "cusp_degree": 23.041250750074937,
+                "zodiac": 12,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 353.46940240767515,
+                "motion_speed": 0.0017402630224411081,
+                "cusp_degree": 23.469402407675148,
+                "zodiac": 12,
+                "house": 8,
+                "motion": "R"
+            }
+        }
+    }
+}

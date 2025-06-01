@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "V. K. Singh",
+        "title": "Politician, Army Chief",
+        "year": 1951,
+        "month": 5,
+        "day": 10,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 18.51957,
+        "longitude": 73.85535,
+        "location": "Pune",
+        "agyat_rating": "AX",
+        "about": "<p>General Vijay Kumar Singh PVSM, AVSM, YSM, ADC (born 10 May 1951) is the current governor of Mizoram, a former member of Parliament, and a former four-star general in the Indian Army. He is former minister of state in the Ministry of Road Transport and Highways and ministry of civil aviation in the Second Modi ministry. He previously served as Minister of State for External Affairs, Minister of State (Independent Charge) for Development of the North-Eastern Region and Minister of State for Statistics and Programme Implementation in the First Modi ministry.</p><p>During his military career, Singh served as the 24th chief of the Army Staff (COAS) from 2010 to 2012. Singh took the Government of India to court in a dispute over his date of birth and subsequent retirement, becoming the first serving Indian Chief of the Army Staff to take legal action against the Indian government.</p><p>After his retirement from the military, Singh joined the Bharatiya Janata Party (BJP) in 2014 and was elected as Member of Parliament to the Lok Sabha for the Ghaziabad constituency of Uttar Pradesh in that year's general election. He was re-elected to the same seat in 2019.</p><p>Singh has written an autobiography called Courage and Conviction.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 103.83332955463362,
+            "ascendant": 4
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 340.83539582703776,
+                "cusp_degree": 10.835395827037757,
+                "motion_speed": 0.20478013940878748,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 25.610630216439443,
+                "cusp_degree": 25.610630216439443,
+                "motion_speed": 0.9667071839092344,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 71.71366138496407,
+                "cusp_degree": 11.71366138496407,
+                "motion_speed": 11.845964233922553,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 65.88923456265223,
+                "cusp_degree": 5.889234562652234,
+                "motion_speed": 1.1444529611678604,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 28.68126912762596,
+                "cusp_degree": 28.68126912762596,
+                "motion_speed": 0.7195362305180676,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 5.289795908331825,
+                "cusp_degree": 5.289795908331825,
+                "motion_speed": 0.13752454991556537,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 152.66190364375316,
+                "cusp_degree": 2.6619036437531634,
+                "motion_speed": -0.03155572729714281,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 323.588899741391,
+                "cusp_degree": 23.588899741391003,
+                "motion_speed": -0.139471685825369,
+                "zodiac": 11,
+                "house": 8,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 322.76288661688125,
+                "cusp_degree": 22.762886616881246,
+                "motion_speed": -0.052992018371426815,
+                "zodiac": 11,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 142.76288661688125,
+                "motion_speed": -0.052992018371426815,
+                "cusp_degree": 22.762886616881246,
+                "zodiac": 5,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 143.588899741391,
+                "motion_speed": -0.139471685825369,
+                "cusp_degree": 23.588899741391003,
+                "zodiac": 5,
+                "house": 2,
+                "motion": "R"
+            }
+        }
+    }
+}

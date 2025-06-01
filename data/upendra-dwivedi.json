@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Upendra Dwivedi",
+        "title": "Army Chief",
+        "year": 1964,
+        "month": 7,
+        "day": 1,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 24.53256,
+        "longitude": 81.29234,
+        "location": "Rewa, Madhya Pradesh",
+        "agyat_rating": "AX",
+        "about": "General Upendra Dwivedi, PVSM AVSM (born 1 July 1964) is a serving four-star general officer of the Indian Army. He is the current and 30th Chief of the Army Staff.[5][6] He took over as the 30th COAS succeeding General Manoj Pande on 30 June 2024.[7] He was previously serving as the 46th Vice Chief of Army Staff.[8] Earlier he was tenanting the appointment of General Officer Commanding-in-Chief Northern Command,[9] prior to that he served as the Deputy Chief of the Army Staff (Information Systems and Coordination)[10] and as the General Officer Commanding IX Corps."
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 158.93216509041375,
+            "ascendant": 6
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 24.658662945018243,
+                "cusp_degree": 24.658662945018243,
+                "motion_speed": 0.18947691508734724,
+                "zodiac": 1,
+                "house": 8,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 76.06528303291836,
+                "cusp_degree": 16.06528303291836,
+                "motion_speed": 0.9532314404272422,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 326.40912633665266,
+                "cusp_degree": 26.409126336652662,
+                "motion_speed": 12.978536300841547,
+                "zodiac": 11,
+                "house": 6,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 59.07759642368607,
+                "cusp_degree": 29.077596423686067,
+                "motion_speed": -0.4001129724020827,
+                "zodiac": 2,
+                "house": 9,
+                "motion": "R"
+            },
+            "Mars": {
+                "degree": 46.38952481462102,
+                "cusp_degree": 16.38952481462102,
+                "motion_speed": 0.7012112722857536,
+                "zodiac": 2,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 80.84031352674032,
+                "cusp_degree": 20.840313526740317,
+                "motion_speed": 2.1323128522717547,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 311.4722411530179,
+                "cusp_degree": 11.472241153017876,
+                "motion_speed": -0.025906050453690505,
+                "zodiac": 11,
+                "house": 6,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 68.67222312985969,
+                "cusp_degree": 8.672223129859688,
+                "motion_speed": -0.00908553035242881,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 68.34803931010701,
+                "cusp_degree": 8.348039310107012,
+                "motion_speed": -0.05299207192453677,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 248.34803931010703,
+                "motion_speed": -0.05299207192453677,
+                "cusp_degree": 8.348039310107026,
+                "zodiac": 9,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 248.67222312985967,
+                "motion_speed": -0.00908553035242881,
+                "cusp_degree": 8.672223129859674,
+                "zodiac": 9,
+                "house": 4,
+                "motion": "R"
+            }
+        }
+    }
+}

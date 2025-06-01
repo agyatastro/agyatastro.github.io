@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Bikram Singh",
+        "title": "Army Chief",
+        "year": 1952,
+        "month": 7,
+        "day": 19,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 31.62234,
+        "longitude": 74.87534,
+        "location": "Amritsar",
+        "agyat_rating": "AX",
+        "about": "<p>General Bikram Singh, PVSM, UYSM, AVSM, SM, VSM, ADC (born 19 July 1952) is a retired Indian army officer who served as the 24th Chief of Army Staff (COAS) of the Indian Army. Previously the General Officer Commanding-in-Chief of the army's Eastern Command, he succeeded General V. K. Singh as COAS on May 31, 2012. He retired on 31 July 2014. He is the second Sikh to be COAS, the first having been General J. J. Singh. He was also the Chairman of the Chiefs of Staff Committee (CoSC) of the Indian armed forces.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 168.60351424524757,
+            "ascendant": 6
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 23.5928872519805,
+                "cusp_degree": 23.5928872519805,
+                "motion_speed": 0.14845761829031134,
+                "zodiac": 1,
+                "house": 8,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 93.30118294509873,
+                "cusp_degree": 3.3011829450987307,
+                "motion_speed": 0.9545768287222137,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 63.29031862450646,
+                "cusp_degree": 3.2903186245064617,
+                "motion_speed": 12.14569813254757,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 100.02081125432463,
+                "cusp_degree": 10.020811254324627,
+                "motion_speed": 1.2310566555894973,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 196.641349343131,
+                "cusp_degree": 16.641349343130997,
+                "motion_speed": 0.3994758400484298,
+                "zodiac": 7,
+                "house": 2,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 119.6437770140849,
+                "cusp_degree": 29.643777014084904,
+                "motion_speed": 0.7660898821044251,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 166.2159104793372,
+                "cusp_degree": 16.215910479337197,
+                "motion_speed": 0.061119531740288134,
+                "zodiac": 6,
+                "house": 1,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 298.50558480230126,
+                "cusp_degree": 28.505584802301257,
+                "motion_speed": -0.0695469876818423,
+                "zodiac": 10,
+                "house": 5,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 299.65834897812056,
+                "cusp_degree": 29.658348978120557,
+                "motion_speed": -0.05299201725082075,
+                "zodiac": 10,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 119.65834897812056,
+                "motion_speed": -0.05299201725082075,
+                "cusp_degree": 29.658348978120557,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 118.50558480230126,
+                "motion_speed": -0.0695469876818423,
+                "cusp_degree": 28.505584802301257,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "R"
+            }
+        }
+    }
+}

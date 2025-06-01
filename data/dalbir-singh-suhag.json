@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Dalbir Singh Suhag",
+        "title": "Army Chief",
+        "year": 1954,
+        "month": 12,
+        "day": 28,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 28.6063,
+        "longitude": 76.6565,
+        "location": "Jhajjar, Haryana",
+        "agyat_rating": "AX",
+        "about": "<p>General Dalbir Singh Suhag, PVSM, UYSM, AVSM, VSM, ADC (born 28 December 1954) is the former Indian High Commissioner to Seychelles and a former Chief of Army Staff of the Indian Army. He was the 25th Chief of the Army Staff (COAS) of the Indian Army, serving from 31 July 2014 to 31 December 2016, and Vice Chief of the Army Staff prior to that.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 329.2369474946239,
+            "ascendant": 11
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 94.0703616024493,
+                "cusp_degree": 4.070361602449296,
+                "motion_speed": -0.11793403009129907,
+                "zodiac": 4,
+                "house": 6,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 252.74301168137433,
+                "cusp_degree": 12.743011681374327,
+                "motion_speed": 1.0194018876128814,
+                "zodiac": 9,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 286.3158176830479,
+                "cusp_degree": 16.315817683047896,
+                "motion_speed": 12.726820978008325,
+                "zodiac": 10,
+                "house": 12,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 209.93268503899546,
+                "cusp_degree": 29.93268503899546,
+                "motion_speed": 0.6782913763170128,
+                "zodiac": 7,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 323.8867921928381,
+                "cusp_degree": 23.886792192838072,
+                "motion_speed": 0.7184688822332274,
+                "zodiac": 11,
+                "house": 1,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 254.33355013034657,
+                "cusp_degree": 14.333550130346566,
+                "motion_speed": 1.6038255368206569,
+                "zodiac": 9,
+                "house": 11,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 204.7663148132999,
+                "cusp_degree": 24.766314813299914,
+                "motion_speed": 0.09306441165892831,
+                "zodiac": 7,
+                "house": 9,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 252.2949302192207,
+                "cusp_degree": 12.294930219220703,
+                "motion_speed": -0.0008693646542851475,
+                "zodiac": 9,
+                "house": 11,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 252.3894339389813,
+                "cusp_degree": 12.389433938981313,
+                "motion_speed": -0.05299198173183714,
+                "zodiac": 9,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 72.38943393898131,
+                "motion_speed": -0.05299198173183714,
+                "cusp_degree": 12.389433938981313,
+                "zodiac": 3,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 72.2949302192207,
+                "motion_speed": -0.0008693646542851475,
+                "cusp_degree": 12.294930219220703,
+                "zodiac": 3,
+                "house": 5,
+                "motion": "R"
+            }
+        }
+    }
+}

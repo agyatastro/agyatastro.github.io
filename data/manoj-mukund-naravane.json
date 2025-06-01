@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Manoj Mukund Naravane",
+        "title": "Army Chief",
+        "year": 1960,
+        "month": 4,
+        "day": 22,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 18.51957,
+        "longitude": 73.85535,
+        "location": "Pune",
+        "agyat_rating": "AX",
+        "about": "General Manoj Mukund Naravane PVSM AVSM VSM SM ADC (born 22 April 1960) is a retired Indian Army General who served as the 28th Chief of the Army Staff (COAS), as well as the temporary Chairman of the Chiefs of Staff Committee from 15 December 2021 until his superannuation on 30 April 2022. He took over as COAS from General Bipin Rawat on 31 December 2019. Prior to his appointment as the COAS, the general officer served as the 40th Vice Chief of Army Staff of the Indian Army, General Officer Commanding-in-Chief (GOC-in-C) of Eastern Command and General Officer Commanding-in-Chief of Army Training Command. He also served as General Officer Commanding II Corps and also as General Officer Commanding Delhi Area. After retirement from his defence service, he has also published two books."
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 88.62594202997457,
+            "ascendant": 3
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 250.3072358400663,
+                "cusp_degree": 10.307235840066312,
+                "motion_speed": -0.006499715536281598,
+                "zodiac": 9,
+                "house": 7,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 8.81312497661035,
+                "cusp_degree": 8.81312497661035,
+                "motion_speed": 0.9750678809075315,
+                "zodiac": 1,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 325.67066328081796,
+                "cusp_degree": 25.670663280817962,
+                "motion_speed": 13.155765857326978,
+                "zodiac": 11,
+                "house": 9,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 352.4666165586154,
+                "cusp_degree": 22.466616558615385,
+                "motion_speed": 1.230037010806623,
+                "zodiac": 12,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 322.1004160859429,
+                "cusp_degree": 22.100416085942925,
+                "motion_speed": 0.7694703645293147,
+                "zodiac": 11,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 345.47331271521153,
+                "cusp_degree": 15.473312715211534,
+                "motion_speed": 1.520723352274873,
+                "zodiac": 12,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 265.1040536293862,
+                "cusp_degree": 25.104053629386215,
+                "motion_speed": 0.008736990348794911,
+                "zodiac": 9,
+                "house": 7,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 150.94201904938728,
+                "cusp_degree": 0.9420190493872838,
+                "motion_speed": 0.008994982078007164,
+                "zodiac": 6,
+                "house": 4,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 149.4788663473694,
+                "cusp_degree": 29.478866347369404,
+                "motion_speed": -0.052992042846423566,
+                "zodiac": 5,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 329.4788663473694,
+                "motion_speed": -0.052992042846423566,
+                "cusp_degree": 29.478866347369376,
+                "zodiac": 11,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 330.9420190493873,
+                "motion_speed": 0.008994982078007164,
+                "cusp_degree": 0.9420190493872838,
+                "zodiac": 12,
+                "house": 10,
+                "motion": "R"
+            }
+        }
+    }
+}

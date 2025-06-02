@@ -1,0 +1,114 @@
+{
+    "request": {
+        "name": "Arvind Singh Mewar",
+        "title": "Monarch Family, Businessperson",
+        "year": 1944,
+        "month": 12,
+        "day": 13,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 24.58584,
+        "longitude": 73.71346,
+        "location": "Udaipur",
+        "agyat_rating": "AX",
+        "about": "Arvind Singh Mewar (Hindi: अरविन्द सिंह मेवाड़; Hindi pronunciation: [ʌɾʋɪndᵊ sɪɳɣʰ meʋäːɽ]; 13 December 1944 – 16 March 2025) was an Indian businessman who was a member of the house of Mewar and chairman of HRH Group of Hotels. He was the 76th custodian of the House of Mewar on behalf of Sri Eklingji.",
+        "related": ["lakshyaraj-singh-mewar"]
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 306.86554514257364,
+            "ascendant": 11
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 153.02525402617383,
+                "cusp_degree": 3.025254026173826,
+                "motion_speed": 0.08992003385189141,
+                "zodiac": 6,
+                "house": 8,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 238.04418366202734,
+                "cusp_degree": 28.044183662027336,
+                "motion_speed": 1.0174259290411438,
+                "zodiac": 8,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 210.23928964512544,
+                "cusp_degree": 0.2392896451254387,
+                "motion_speed": 12.54115824761587,
+                "zodiac": 8,
+                "house": 10,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 279.3669263196382,
+                "cusp_degree": 9.366926319638196,
+                "motion_speed": 1.1906919327704708,
+                "zodiac": 10,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 229.5739469794262,
+                "cusp_degree": 19.57394697942621,
+                "motion_speed": 0.7271992568792804,
+                "zodiac": 8,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 255.86126401267686,
+                "cusp_degree": 15.861264012676855,
+                "motion_speed": 0.07321920060315079,
+                "zodiac": 9,
+                "house": 11,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 75.50583564462856,
+                "cusp_degree": 15.505835644628561,
+                "motion_speed": -0.07670101117171027,
+                "zodiac": 3,
+                "house": 5,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 85.55666548016555,
+                "cusp_degree": 25.55666548016555,
+                "motion_speed": -0.08217532439964263,
+                "zodiac": 3,
+                "house": 5,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 86.7113205121866,
+                "cusp_degree": 26.711320512186603,
+                "motion_speed": -0.05299205770072125,
+                "zodiac": 3,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 266.7113205121866,
+                "motion_speed": -0.05299205770072125,
+                "cusp_degree": 26.711320512186603,
+                "zodiac": 9,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 265.5566654801655,
+                "motion_speed": -0.08217532439964263,
+                "cusp_degree": 25.55666548016552,
+                "zodiac": 9,
+                "house": 11,
+                "motion": "R"
+            }
+        }
+    }
+}

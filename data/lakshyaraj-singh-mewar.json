@@ -1,0 +1,114 @@
+{
+    "request": {
+        "name": "Lakshyaraj Singh Mewar",
+        "title": "Monarch Family, Businessperson",
+        "year": 1985,
+        "month": 1,
+        "day": 28,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 24.58584,
+        "longitude": 73.71346,
+        "location": "Udaipur",
+        "agyat_rating": "AX",
+        "about": "Lakshyaraj Singh Mewar (born 28 January 1985) is an Indian businessman, and the 77th custodian of the House of Mewar.",
+        "related": ["arvind-singh-mewar"]
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 7.067008560196022,
+            "ascendant": 1
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 274.18362510916535,
+                "cusp_degree": 4.183625109165348,
+                "motion_speed": 0.23275157466197174,
+                "zodiac": 10,
+                "house": 10,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 284.62772849434634,
+                "cusp_degree": 14.627728494346343,
+                "motion_speed": 1.0161029656315022,
+                "zodiac": 10,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 4.99874715863218,
+                "cusp_degree": 4.99874715863218,
+                "motion_speed": 11.808908018041903,
+                "zodiac": 1,
+                "house": 1,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 331.5283693764678,
+                "cusp_degree": 1.528369376467822,
+                "motion_speed": 0.9702564788899375,
+                "zodiac": 12,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 332.2293121033754,
+                "cusp_degree": 2.2293121033753778,
+                "motion_speed": 0.756077488037156,
+                "zodiac": 12,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 270.0084070587365,
+                "cusp_degree": 0.008407058736509043,
+                "motion_speed": 1.5377301314499794,
+                "zodiac": 10,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 213.2576170250646,
+                "cusp_degree": 3.2576170250646044,
+                "motion_speed": 0.062051629135071305,
+                "zodiac": 8,
+                "house": 8,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 30.545274293075636,
+                "cusp_degree": 0.5452742930756358,
+                "motion_speed": -0.017802137121958425,
+                "zodiac": 2,
+                "house": 2,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 30.059877930595654,
+                "cusp_degree": 0.05987793059565405,
+                "motion_speed": -0.0529920355459963,
+                "zodiac": 2,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 210.05987793059566,
+                "motion_speed": -0.0529920355459963,
+                "cusp_degree": 0.059877930595661155,
+                "zodiac": 8,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 210.54527429307564,
+                "motion_speed": -0.017802137121958425,
+                "cusp_degree": 0.5452742930756358,
+                "zodiac": 8,
+                "house": 8,
+                "motion": "R"
+            }
+        }
+    }
+}

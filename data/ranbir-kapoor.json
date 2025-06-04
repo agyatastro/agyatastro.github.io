@@ -1,0 +1,114 @@
+{
+    "request": {
+        "name": "Ranbir Kapoor",
+        "title": "Actor",
+        "year": 1982,
+        "month": 9,
+        "day": 28,
+        "hour": 22,
+        "minute": 0,
+        "second": 0,
+        "latitude": 19.07283,
+        "longitude": 72.88261,
+        "location": "Mumbai",
+        "agyat_rating": "AA",
+        "about": "<p>Ranbir Kapoor (pronounced [ɾəɳˈbiːɾ kəˈpuːɾ]; born 28 September 1982) is an Indian actor known for his work in Hindi-language films. He is one of the highest-paid actors of Hindi cinema and has featured in Forbes India's Celebrity 100 list since 2012. Kapoor is the recipient of several awards, including seven Filmfare Awards.</p><p>The son of actors Rishi Kapoor and Neetu Singh, and the grandson of actor-director Raj Kapoor, Kapoor pursued filmmaking and method acting at the School of Visual Arts and the Lee Strasberg Theatre and Film Institute, respectively. He subsequently assisted Sanjay Leela Bhansali on the film Black (2005) and made his acting debut with Bhansali's tragic romance Saawariya (2007), a critical and commercial failure. He rose to prominence with the coming-of-age film Wake Up Sid, the romantic comedy Ajab Prem Ki Ghazab Kahani (both 2009), and the political drama Raajneeti (2010).</p><p>Kapoor's performances as a troubled musician in Rockstar (2011) and a cheerful deaf-and-mute man in Barfi! (2012) earned him two consecutive Filmfare Awards for Best Actor. The romantic comedy Yeh Jawaani Hai Deewani (2013) further established him as a star. This was followed by a series of commercial failures, with Ae Dil Hai Mushkil (2016) and Sanju (2018) being the exceptions. His portrayal of Sanjay Dutt in the latter won him another Filmfare Award. Following a hiatus, he had further commercial success in the fantasy film Brahmāstra: Part One – Shiva (2022) and the action drama Animal (2023), with the latter emerging as his highest-grossing release and winning him a fourth Best Actor award at Filmfare.</p><p>In addition to his acting career, Kapoor supports charities and causes. He is also a co-owner of the Indian Super League football team Mumbai City FC. He is married to the actress Alia Bhatt, with whom he has a daughter.</p>",
+        "related": ["kapoor-family", "bhatt-family"]
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 37.87530429366666,
+            "ascendant": 2
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 197.4966880785752,
+                "cusp_degree": 17.496688078575204,
+                "motion_speed": 0.19668877956981012,
+                "zodiac": 7,
+                "house": 6,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 161.59088534633207,
+                "cusp_degree": 11.590885346332072,
+                "motion_speed": 0.9815340389069473,
+                "zodiac": 6,
+                "house": 5,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 289.8345089591344,
+                "cusp_degree": 19.834508959134382,
+                "motion_speed": 12.171499639565074,
+                "zodiac": 10,
+                "house": 9,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 152.16236350788145,
+                "cusp_degree": 2.1623635078814516,
+                "motion_speed": 1.2453529078118197,
+                "zodiac": 6,
+                "house": 5,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 222.33547494433043,
+                "cusp_degree": 12.335474944330429,
+                "motion_speed": 0.6974769673002921,
+                "zodiac": 8,
+                "house": 7,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 169.0229911219093,
+                "cusp_degree": 19.022991121909314,
+                "motion_speed": -1.0223608845865955,
+                "zodiac": 6,
+                "house": 5,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 179.1225571205557,
+                "cusp_degree": 29.12255712055571,
+                "motion_speed": 0.11788464804701462,
+                "zodiac": 6,
+                "house": 5,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 75.86365846609581,
+                "cusp_degree": 15.863658466095814,
+                "motion_speed": -0.0819825065581126,
+                "zodiac": 3,
+                "house": 2,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 75.23999860998488,
+                "cusp_degree": 15.23999860998488,
+                "motion_speed": -0.05299202120454064,
+                "zodiac": 3,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 255.23999860998487,
+                "motion_speed": -0.05299202120454064,
+                "cusp_degree": 15.239998609984866,
+                "zodiac": 9,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 255.8636584660958,
+                "motion_speed": -0.0819825065581126,
+                "cusp_degree": 15.863658466095814,
+                "zodiac": 9,
+                "house": 8,
+                "motion": "R"
+            }
+        }
+    }
+}

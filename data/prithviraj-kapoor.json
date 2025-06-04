@@ -1,0 +1,114 @@
+{
+    "request": {
+        "name": "Prithviraj Kapoor",
+        "title": "Actor",
+        "year": 1906,
+        "month": 11,
+        "day": 3,
+        "hour": 9,
+        "minute": 25,
+        "second": 0,
+        "latitude": 34.008,
+        "longitude": 71.57849,
+        "location": "Peshawar, Pakistan",
+        "agyat_rating": "AA",
+        "about": "<p>Prithviraj Kapoor (born Prithvinath Kapoor; 3 November 1906 – 29 May 1972) was an Indian actor who is also considered to be one of the founding figures of Hindi cinema. He was associated with IPTA as one of its founding members and established the Prithvi Theatres in 1944 as a travelling theatre company based in Bombay.</p><p>He was the patriarch of the Kapoor family of Hindi films, four generations of which, beginning with him, have played active roles in the Hindi film industry, with the youngest generation still active in Bollywood. His father, Basheshwarnath Kapoor, also played a short role in his movie Awara. The Government of India honoured him with the Padma Bhushan in 1969 and the Dadasaheb Phalke Award in 1971 for his contributions towards Indian cinema.</p>",
+        "related": ["kapoor-family"]
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 238.83077888378182,
+            "ascendant": 8
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 78.4872237740557,
+                "cusp_degree": 18.487223774055707,
+                "motion_speed": -0.01398224476246576,
+                "zodiac": 3,
+                "house": 8,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 197.31532365048707,
+                "cusp_degree": 17.315323650487073,
+                "motion_speed": 1.001499141636339,
+                "zodiac": 7,
+                "house": 12,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 39.446272766135756,
+                "cusp_degree": 9.446272766135756,
+                "motion_speed": 11.912686420490287,
+                "zodiac": 2,
+                "house": 7,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 231.4002769594535,
+                "cusp_degree": 21.400276959453493,
+                "motion_speed": 0.23971205807534166,
+                "zodiac": 8,
+                "house": 1,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 159.9632518602065,
+                "cusp_degree": 9.963251860206498,
+                "motion_speed": 0.6250636607002078,
+                "zodiac": 6,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 219.2161920512185,
+                "cusp_degree": 9.216192051218513,
+                "motion_speed": 1.2531272182988213,
+                "zodiac": 8,
+                "house": 1,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 315.83002484660176,
+                "cusp_degree": 15.83002484660176,
+                "motion_speed": -0.01647760835572944,
+                "zodiac": 11,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 104.05327463147977,
+                "cusp_degree": 14.053274631479766,
+                "motion_speed": -0.20852603010645748,
+                "zodiac": 4,
+                "house": 9,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 104.36370990843824,
+                "cusp_degree": 14.363709908438238,
+                "motion_speed": -0.05299216070625951,
+                "zodiac": 4,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 284.36370990843824,
+                "motion_speed": -0.05299216070625951,
+                "cusp_degree": 14.363709908438238,
+                "zodiac": 10,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 284.0532746314798,
+                "motion_speed": -0.20852603010645748,
+                "cusp_degree": 14.05327463147978,
+                "zodiac": 10,
+                "house": 3,
+                "motion": "R"
+            }
+        }
+    }
+}

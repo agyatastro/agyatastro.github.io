@@ -1,0 +1,114 @@
+{
+    "request": {
+        "name": "Shashi Kapoor",
+        "title": "Actor, Producer",
+        "year": 1938,
+        "month": 3,
+        "day": 18,
+        "hour": 3,
+        "minute": 6,
+        "second": 0,
+        "latitude": 22.56263,
+        "longitude": 88.36304,
+        "location": "Kolkata",
+        "agyat_rating": "AA",
+        "about": "<p>Shashi Kapoor (pronounced [ʃəʃi kəpuːɾ]; born Balbir Raj Kapoor; 18 March 1938 – 4 December 2017) was an Indian actor and producer known primarily for his work in Hindi films. Kapoor is considered as one of the greatest and most successful actors in the history of Indian cinema, and is a recipient of several accolades, including four National Film Awards and two Filmfare Awards. The Government of India honoured him with the Padma Bhushan in 2011, and the Dadasaheb Phalke Award in 2014, for his contribution to Indian cinema.</p><p>Born into the Kapoor family, he was the third and the youngest son of Prithviraj Kapoor. He began his career as a child actor in 1948 with his brother Raj Kapoor's maiden directorial Aag, and had his first role as an adult in 1961 with Yash Chopra's political drama Dharmputra. He established himself in 1965 with two blockbusters - Waqt and Jab Jab Phool Khile. This was followed by a period of lukewarm success, with Kanyadaan, Sharmeelee and Aa Gale Lag Jaa being the major exceptions. He made a notable comeback in 1974 with Chor Machaye Shor. With its success, Kapoor became the top five to six saleable stars of the time and starred in top–grossing Hindi films since the early-1970s to 1980s, such as Roti Kapada Aur Makaan, Deewaar, Chori Mera Kaam, Kabhi Kabhie, Fakira, Trishul, Suhaag, Kranti and Namak Halaal. He received critical acclaim for his portrayal of a reckless chieftain in Junoon, a businessman in Kalyug, a strict father in Vijeta and an upright journalist in New Delhi Times for which he won National Film Award for Best Actor. The last film to feature him was the much delayed Ghar Bazar which released in 1998.</p>",
+        "related": ["kapoor-family"]
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 277.57783698386686,
+            "ascendant": 10
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 297.2041119992011,
+                "cusp_degree": 27.204111999201075,
+                "motion_speed": 0.21384298326868115,
+                "zodiac": 10,
+                "house": 1,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 333.62817169291446,
+                "cusp_degree": 3.6281716929144636,
+                "motion_speed": 0.9943617587480553,
+                "zodiac": 12,
+                "house": 3,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 174.25528733265702,
+                "cusp_degree": 24.25528733265702,
+                "motion_speed": 13.097062247991477,
+                "zodiac": 6,
+                "house": 9,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 343.8384936393277,
+                "cusp_degree": 13.83849363932768,
+                "motion_speed": 1.2430150144280065,
+                "zodiac": 12,
+                "house": 3,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 11.003786021388754,
+                "cusp_degree": 11.003786021388754,
+                "motion_speed": 0.7177876071223607,
+                "zodiac": 1,
+                "house": 4,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 342.70595072181254,
+                "cusp_degree": 12.705950721812542,
+                "motion_speed": 1.969369735306732,
+                "zodiac": 12,
+                "house": 3,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 343.53884052652364,
+                "cusp_degree": 13.538840526523643,
+                "motion_speed": 0.12391579628092599,
+                "zodiac": 12,
+                "house": 3,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 215.68214588237072,
+                "cusp_degree": 5.682145882370719,
+                "motion_speed": -0.1228907367051256,
+                "zodiac": 8,
+                "house": 11,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 217.19744539060244,
+                "cusp_degree": 7.197445390602439,
+                "motion_speed": -0.05299206419718409,
+                "zodiac": 8,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 37.19744539060241,
+                "motion_speed": -0.05299206419718409,
+                "cusp_degree": 7.197445390602411,
+                "zodiac": 2,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 35.68214588237072,
+                "motion_speed": -0.1228907367051256,
+                "cusp_degree": 5.682145882370719,
+                "zodiac": 2,
+                "house": 5,
+                "motion": "R"
+            }
+        }
+    }
+}

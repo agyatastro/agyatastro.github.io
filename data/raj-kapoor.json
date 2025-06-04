@@ -1,0 +1,114 @@
+{
+    "request": {
+        "name": "Raj Kapoor",
+        "title": "Actor, Director, Producer, Editor",
+        "year": 1924,
+        "month": 12,
+        "day": 14,
+        "hour": 22,
+        "minute": 0,
+        "second": 0,
+        "latitude": 34.008,
+        "longitude": 71.57849,
+        "location": "Peshawar, Pakistan",
+        "agyat_rating": "AA",
+        "about": "<p>Raj Kapoor (pronounced [raːdʒ kəˈpuːɾ]; born as Shrishti Nath Kapoor; 14 December 1924 – 2 June 1988; also known as Ranbir Raj Kapoor) was an Indian actor, film director and producer, who worked in Hindi cinema. He is considered one of the greatest and most influential actors and filmmakers in the history of Indian cinema, and has been referred to as The Greatest Showman of Indian Cinema and as the Charlie Chaplin of Indian Cinema.</p><p>Born in Peshawar as the eldest son of Prithviraj Kapoor of the Kapoor family, Raj Kapoor starred in and produced many films for which he received multiple accolades, including three National Film Awards and 11 Filmfare Awards in India. He was inspired by Charlie Chaplin and played characters based on The Tramp in films, such as Awaara (1951), Shree 420 (1955) and Mera Naam Joker (1970). His performance in Awaara was ranked as one of the \"Top-Ten Greatest Performances of All Time in World Cinema\" by Time magazine in 2005. His films Awaara (1951) and Boot Polish (1954) competed for the Palme d'Or prize at the Cannes Film Festival in 1951 and 1955's editions respectively.</p><p>His films were global commercial successes in parts of Asia, the Middle East, the Caribbean, Africa, and the Soviet bloc. The Government of India honoured him with the Padma Bhushan in 1971 for his contributions to the arts. India's highest award in cinema, the Dadasaheb Phalke Award, was bestowed to him in 1988 by the Government of India.</p>",
+        "related": ["kapoor-family"]
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 130.15717636509544,
+            "ascendant": 5
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 246.3856543365628,
+                "cusp_degree": 6.385654336562794,
+                "motion_speed": 0.22830724825726376,
+                "zodiac": 9,
+                "house": 5,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 239.67629940662664,
+                "cusp_degree": 29.67629940662664,
+                "motion_speed": 1.017256702612907,
+                "zodiac": 8,
+                "house": 4,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 96.86297170773278,
+                "cusp_degree": 6.8629717077327825,
+                "motion_speed": 11.86598173655583,
+                "zodiac": 4,
+                "house": 12,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 208.4005516635242,
+                "cusp_degree": 28.400551663524197,
+                "motion_speed": 1.236488522239788,
+                "zodiac": 7,
+                "house": 3,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 334.3860467314571,
+                "cusp_degree": 4.3860467314571,
+                "motion_speed": 0.5886741733253144,
+                "zodiac": 12,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 259.3263795927007,
+                "cusp_degree": 19.326379592700675,
+                "motion_speed": 0.5241954378065735,
+                "zodiac": 9,
+                "house": 5,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 197.68304960362812,
+                "cusp_degree": 17.68304960362812,
+                "motion_speed": 0.09982622339468483,
+                "zodiac": 7,
+                "house": 3,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 111.9959699724509,
+                "cusp_degree": 21.995969972450894,
+                "motion_speed": -0.04225404757723334,
+                "zodiac": 4,
+                "house": 12,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 113.740223692039,
+                "cusp_degree": 23.740223692038995,
+                "motion_speed": -0.05299214314094081,
+                "zodiac": 4,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 293.74022369203897,
+                "motion_speed": -0.05299214314094081,
+                "cusp_degree": 23.740223692038967,
+                "zodiac": 10,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 291.9959699724509,
+                "motion_speed": -0.04225404757723334,
+                "cusp_degree": 21.995969972450894,
+                "zodiac": 10,
+                "house": 6,
+                "motion": "R"
+            }
+        }
+    }
+}

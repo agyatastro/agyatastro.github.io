@@ -1,0 +1,114 @@
+{
+    "request": {
+        "name": "Jugal Kishore Birla",
+        "title": "Industrialist, Businessperson, Philanthropist",
+        "year": 1883,
+        "month": 5,
+        "day": 23,
+        "hour": 9,
+        "minute": 57,
+        "second": 0,
+        "latitude": 28.36725,
+        "longitude": 75.60352,
+        "location": "Pilani",
+        "agyat_rating": "AA",
+        "about": "<p>Jugal Kishore Birla (23 May 1883– 24 June 1967) was a scion of the Birla family and the eldest son of Baldeo Das Birla. He was a noted industrialist, philanthropist and vocal supporter of Hindu philosophy.</p><p>He started his business career at an early age, joining his father in Calcutta and soon came to be known as reputed trader and speculator in opium, silver, spice and other trades from which the Birlas later diversified into trading of jute and other items like cotton during and after the First World War, by which time his younger brother Ghanshyam Das Birla had also joined the business. The family firm, which was until 1918 run as Baldeodas Jugalkishore, was made into a limited company known as Birla Brothers Limited.</p><p>At one point, Ghanshyam Das Birla suffered heavy losses and decided to sell the mill to the Andrew Yule group. Jugal Kishore stood by him and told him not to worry about money but to run the mill as efficiently as he could, which led to a revival of Birla Jute, now the flagship company of M.P Birla Group.</p><p>Although Birla started his business life in Calcutta, he later moved to Delhi and lived in Birla House until his death. Lakshmi Niwas Birla, the eldest son of G D Birla, was adopted by him.</p>",
+        "related": ["birla-family"]
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 94.58529364958777,
+            "ascendant": 4
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 71.38399319794102,
+                "cusp_degree": 11.383993197941024,
+                "motion_speed": 0.20863021900364898,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 39.42601074538638,
+                "cusp_degree": 9.426010745386378,
+                "motion_speed": 0.9603067709242302,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 231.1757774299057,
+                "cusp_degree": 21.175777429905708,
+                "motion_speed": 12.397321675936677,
+                "zodiac": 8,
+                "house": 5,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 7.801135680944391,
+                "cusp_degree": 7.801135680944391,
+                "motion_speed": 1.1953195636322287,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 2.492071079956069,
+                "cusp_degree": 2.492071079956069,
+                "motion_speed": 0.7527152187741372,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 58.48222575439606,
+                "cusp_degree": 28.48222575439606,
+                "motion_speed": 0.3094555793871685,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 37.5889198514431,
+                "cusp_degree": 7.5889198514431015,
+                "motion_speed": 0.12931060264785837,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 199.05910768944287,
+                "cusp_degree": 19.059107689442868,
+                "motion_speed": -0.0407730180065118,
+                "zodiac": 7,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 198.19012340815425,
+                "cusp_degree": 18.19012340815425,
+                "motion_speed": -0.052992133499426095,
+                "zodiac": 7,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 18.19012340815425,
+                "motion_speed": -0.052992133499426095,
+                "cusp_degree": 18.19012340815425,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 19.05910768944284,
+                "motion_speed": -0.0407730180065118,
+                "cusp_degree": 19.05910768944284,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "R"
+            }
+        }
+    }
+}

@@ -1,0 +1,114 @@
+{
+    "request": {
+        "name": "Rahul Bajaj",
+        "title": "Businessperson, Industrialist",
+        "year": 1938,
+        "month": 6,
+        "day": 10,
+        "hour": 4,
+        "minute": 46,
+        "second": 0,
+        "latitude": 22.56263,
+        "longitude": 88.36304,
+        "location": "Kolkata",
+        "agyat_rating": "AA",
+        "about": "Rahul Bajaj (10 June 1938 – 12 February 2022) was an Indian billionaire businessman and politician. He was the chairman emeritus of the Indian conglomerate Bajaj Group. He was awarded the third-highest civilian award in India, the Padma Bhushan, in 2001",
+        "related": ["bajaj-family"]
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 47.641201548018294,
+            "ascendant": 2
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 309.03263158761473,
+                "cusp_degree": 9.03263158761473,
+                "motion_speed": 0.03707016071629438,
+                "zodiac": 11,
+                "house": 10,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 55.41655319065758,
+                "cusp_degree": 25.41655319065758,
+                "motion_speed": 0.9556773997764535,
+                "zodiac": 2,
+                "house": 1,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 201.82348840562548,
+                "cusp_degree": 21.823488405625483,
+                "motion_speed": 12.210084110305779,
+                "zodiac": 7,
+                "house": 6,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 86.5833975149698,
+                "cusp_degree": 26.583397514969803,
+                "motion_speed": 1.1957111649284,
+                "zodiac": 3,
+                "house": 2,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 68.91833730419512,
+                "cusp_degree": 8.91833730419512,
+                "motion_speed": 0.6627781740095854,
+                "zodiac": 3,
+                "house": 2,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 40.610221390789555,
+                "cusp_degree": 10.610221390789555,
+                "motion_speed": 1.9078632496118342,
+                "zodiac": 2,
+                "house": 1,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 352.92427046502104,
+                "cusp_degree": 22.92427046502104,
+                "motion_speed": 0.07882662822814561,
+                "zodiac": 12,
+                "house": 11,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 213.86856074280672,
+                "cusp_degree": 3.8685607428067215,
+                "motion_speed": 0.014503104053993908,
+                "zodiac": 8,
+                "house": 7,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 212.74243143007774,
+                "cusp_degree": 2.742431430077744,
+                "motion_speed": -0.05299206388004183,
+                "zodiac": 8,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 32.74243143007777,
+                "motion_speed": -0.05299206388004183,
+                "cusp_degree": 2.7424314300777723,
+                "zodiac": 2,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 33.86856074280672,
+                "motion_speed": 0.014503104053993908,
+                "cusp_degree": 3.8685607428067215,
+                "zodiac": 2,
+                "house": 1,
+                "motion": "R"
+            }
+        }
+    }
+}

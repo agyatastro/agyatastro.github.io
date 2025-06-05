@@ -1,0 +1,114 @@
+{
+    "request": {
+        "name": "Jamnalal Bajaj",
+        "title": "Businessperson, Politician",
+        "year": 1889,
+        "month": 11,
+        "day": 4,
+        "hour": 8,
+        "minute": 29,
+        "second": 0,
+        "latitude": 27.61206,
+        "longitude": 75.13996,
+        "location": "Sikar, Rajasthan",
+        "agyat_rating": "AA",
+        "about": "Jamnalal Kaniram Bajaj (4 November 1889 – 11 February 1942) was an Indian businessman and politician. He founded the Bajaj Group of companies in the 1920s, and the group now has 24 companies, including six that are listed on the bourses. He was also a close and beloved associate of Mahatma Gandhi, who is known to have often declared that Jamnalal was his fifth son.",
+        "related": ["bajaj-family"]
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 216.63401038107537,
+            "ascendant": 8
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 253.1774612492385,
+                "cusp_degree": 13.17746124923849,
+                "motion_speed": 0.17973143827688004,
+                "zodiac": 9,
+                "house": 2,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 199.58240317047554,
+                "cusp_degree": 19.582403170475544,
+                "motion_speed": 1.0028006835592496,
+                "zodiac": 7,
+                "house": 12,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 337.08479277916,
+                "cusp_degree": 7.084792779160011,
+                "motion_speed": 13.309504571622117,
+                "zodiac": 12,
+                "house": 5,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 174.13526481462313,
+                "cusp_degree": 24.135264814623127,
+                "motion_speed": 1.2408679249402363,
+                "zodiac": 6,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 153.5386863379206,
+                "cusp_degree": 3.538686337920609,
+                "motion_speed": 0.6088820926108591,
+                "zodiac": 6,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 181.49395179448948,
+                "cusp_degree": 1.493951794489476,
+                "motion_speed": 1.2804591585912017,
+                "zodiac": 7,
+                "house": 12,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 130.14100988572457,
+                "cusp_degree": 10.141009885724571,
+                "motion_speed": 0.06954251132850572,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 72.17465007808464,
+                "cusp_degree": 12.174650078084639,
+                "motion_speed": -0.1307917422843077,
+                "zodiac": 3,
+                "house": 8,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 73.29093359622937,
+                "cusp_degree": 13.290933596229365,
+                "motion_speed": -0.05299213561143941,
+                "zodiac": 3,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 253.29093359622937,
+                "motion_speed": -0.05299213561143941,
+                "cusp_degree": 13.290933596229365,
+                "zodiac": 9,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 252.17465007808465,
+                "motion_speed": -0.1307917422843077,
+                "cusp_degree": 12.174650078084653,
+                "zodiac": 9,
+                "house": 2,
+                "motion": "R"
+            }
+        }
+    }
+}

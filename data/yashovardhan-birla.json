@@ -1,0 +1,114 @@
+{
+    "request": {
+        "name": "Yashovardhan Birla",
+        "title": "Businessperson, Industrialist",
+        "year": 1967,
+        "month": 9,
+        "day": 29,
+        "hour": 21,
+        "minute": 0,
+        "second": 0,
+        "latitude": 19.07283,
+        "longitude": 72.88261,
+        "location": "Mumbai",
+        "agyat_rating": "AU",
+        "about": "Yashovardhan Birla, also known as Yash Birla, holds the position of chairperson within the Yash Birla Group. Renowned for his astute business acumen and robust educational foundation, he has established himself as a prominent figure in the corporate realm. Recognized as one of India’s leading industrialists and business magnates.",
+        "related": ["birla-family"]
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 22.457262770241854,
+            "ascendant": 1
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 123.04625792005133,
+                "cusp_degree": 3.046257920051332,
+                "motion_speed": 0.19195548011283076,
+                "zodiac": 5,
+                "house": 5,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 162.3773445590558,
+                "cusp_degree": 12.377344559055814,
+                "motion_speed": 0.982472134720709,
+                "zodiac": 6,
+                "house": 6,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 105.28666090230368,
+                "cusp_degree": 15.28666090230368,
+                "motion_speed": 13.657165007027944,
+                "zodiac": 4,
+                "house": 4,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 125.82185653165001,
+                "cusp_degree": 5.821856531650013,
+                "motion_speed": 0.331640083235283,
+                "zodiac": 5,
+                "house": 5,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 229.81164512901213,
+                "cusp_degree": 19.811645129012135,
+                "motion_speed": 0.6953536046544776,
+                "zodiac": 8,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 186.02913402577383,
+                "cusp_degree": 6.029134025773828,
+                "motion_speed": 1.2834791416222997,
+                "zodiac": 7,
+                "house": 7,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 345.8697065191963,
+                "cusp_degree": 15.869706519196313,
+                "motion_speed": -0.07838032048197745,
+                "zodiac": 12,
+                "house": 12,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 4.713235219518537,
+                "cusp_degree": 4.713235219518537,
+                "motion_speed": -0.04318280385386399,
+                "zodiac": 1,
+                "house": 1,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 5.532592114766238,
+                "cusp_degree": 5.532592114766238,
+                "motion_speed": -0.052992035643471005,
+                "zodiac": 1,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 185.53259211476623,
+                "motion_speed": -0.052992035643471005,
+                "cusp_degree": 5.532592114766231,
+                "zodiac": 7,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 184.71323521951854,
+                "motion_speed": -0.04318280385386399,
+                "cusp_degree": 4.713235219518538,
+                "zodiac": 7,
+                "house": 7,
+                "motion": "R"
+            }
+        }
+    }
+}

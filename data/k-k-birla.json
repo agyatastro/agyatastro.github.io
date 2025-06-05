@@ -1,0 +1,114 @@
+{
+    "request": {
+        "name": "K K Birla",
+        "title": "Businessperson, Industrialist, Politician",
+        "year": 1918,
+        "month": 11,
+        "day": 11,
+        "hour": 6,
+        "minute": 0,
+        "second": 0,
+        "latitude": 28.65195,
+        "longitude": 77.23149,
+        "location": "Delhi",
+        "agyat_rating": "AA",
+        "about": "<p>Born at Pilani in the northwestern Indian state Rajasthan on 11 November 1918, Krishna Kumar Birla was the second son of Ghanshyam Das Birla. He had one older brother, Lakshmi Niwas Birla, who was the son of Ghanshyam Das Birla by his deceased first wife, Durga Devi Birla. Krishna Kumar was the elder of the two sons born to Ghanshyam Das Birla's second wife, Mahadevi Birla, the other son being Basant Kumar Birla, father of Aditya Vikram Birla. Krishna Kumar also had three sisters, all of whom were born to Mahadevi Birla.</p><p>Birla's birthday coincided with the Hindu festival of Gopashtami, which is associated with the Hindu god Krishna and thus led to the selection of his name.</p><p>Krishna Kumar's father, Ghanshyam Das Birla, was the founder of the Birla Group and he was one of India's richest businessmen. He was also a staunch follower of Mahatma Gandhi and a major financier of Gandhi's Congress Party in the years preceding and immediately following the Independence of India in 1947.[1] Krishna Kumar joined Congress Party in 1984 as a life member. He was elected as a Rajya Sabha member in the same year, under the leadership of Indira Gandhi. He was a Member of Parliament for three terms from 1984 to 2002, and served on several committees of Parliament. He was appointed twice, in 1980 and 2004, as a member of the National Integration Council chaired by the prime minister.</p><p>Birla was one of the industrialists who supported economic reforms in India in 1991.</p><p>Birla was a Hindi Prabhakar (Honours in Hindi) and in 1997 was conferred the degree of Doctor of Letters (Honoris Causa) by Pondicherry University. In 1991, Birla established the K.K. Birla Foundation to promote Hindi literature.</p><p>He was the chairman of one of the Hindustan Times. He was on the central board of the State Bank of India and ICICI. He headed the Federation of Indian Chambers of Commerce and Industries (FICCI), the Indian Sugar Mills Association and many Sports Federations. Birla was the group chairman of the Zuari-Chambal group of companies. He was also the Chairman of Zuari-Chambal-Paradeep.</p><p>He liked playing bridge. He was president of the Bridge Federation of India for a number of years and also headed the Indian Lawn Tennis Association</p>",
+        "related": ["birla-family"]
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 190.82976293790222,
+            "ascendant": 7
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 83.00786141031496,
+                "cusp_degree": 23.00786141031496,
+                "motion_speed": -0.024900777361016237,
+                "zodiac": 3,
+                "house": 9,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 205.06977200568667,
+                "cusp_degree": 25.069772005686673,
+                "motion_speed": 1.0056139306733434,
+                "zodiac": 7,
+                "house": 1,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 286.44758966991526,
+                "cusp_degree": 16.44758966991526,
+                "motion_speed": 13.310646107852785,
+                "zodiac": 10,
+                "house": 4,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 201.83252404912417,
+                "cusp_degree": 21.832524049124174,
+                "motion_speed": 1.2559419823579383,
+                "zodiac": 7,
+                "house": 1,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 246.9547567987509,
+                "cusp_degree": 6.954756798750907,
+                "motion_speed": 0.7536725049853976,
+                "zodiac": 9,
+                "house": 3,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 220.36010131305244,
+                "cusp_degree": 10.36010131305244,
+                "motion_speed": 1.4737829776155553,
+                "zodiac": 8,
+                "house": 2,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 124.75499505283034,
+                "cusp_degree": 4.754995052830338,
+                "motion_speed": 0.05189525512425593,
+                "zodiac": 5,
+                "house": 11,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 230.54187746937401,
+                "cusp_degree": 20.541877469374015,
+                "motion_speed": 0.011990255869646981,
+                "zodiac": 8,
+                "house": 2,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 231.68607554837533,
+                "cusp_degree": 21.686075548375328,
+                "motion_speed": -0.052992082832220004,
+                "zodiac": 8,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 51.68607554837536,
+                "motion_speed": -0.052992082832220004,
+                "cusp_degree": 21.686075548375356,
+                "zodiac": 2,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 50.541877469374015,
+                "motion_speed": 0.011990255869646981,
+                "cusp_degree": 20.541877469374015,
+                "zodiac": 2,
+                "house": 8,
+                "motion": "R"
+            }
+        }
+    }
+}

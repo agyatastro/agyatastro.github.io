@@ -1,0 +1,114 @@
+{
+    "request": {
+        "name": "Jamshedji Nusserwanji Tata",
+        "title": "Businessperson, Industrialist, Philanthropist",
+        "year": 1839,
+        "month": 3,
+        "day": 3,
+        "hour": 15,
+        "minute": 45,
+        "second": 0,
+        "latitude": 20.94237,
+        "longitude": 72.92467,
+        "location": "Navsari",
+        "agyat_rating": "AA",
+        "about": "<p>Jamsetji Nusserwanji Tata (3 March 1839 – 19 May 1904) was an Indian industrialist and philanthropist who founded the Tata Group, India's largest conglomerate. He established the city of Jamshedpur.</p><p>Born into a Zoroastrian Parsi family in Navsari, his family came from Persia (Iran), finding refuge in India. Despite coming from a family of priests, Tata broke tradition to become the first businessman in his family, establishing an export trading firm in Mumbai. He graduated from Elphinstone College in Mumbai as a \"Green Scholar.\"</p><p>After working in his father's export-trading firm and recognizing opportunities in the cotton industry during a business trip to China, Tata founded a trading company in 1868. He later ventured into the textile industry and established Empress Mill in Nagpur, afterwards purchasing a bankrupt oil mill in Mumbai and converting it into a cotton mill. Tata's innovative strategies and commitment to industrial development in India led him to establish key institutions and companies, including the Taj Mahal Hotel in Mumbai, which was India's first hotel with electricity, and made significant contributions towards the establishment of the Indian Institute of Science, Tata Steel, and Tata Power. He was so influential in the world of industry that Jawaharlal Nehru referred to Tata as a One-Man Planning Commission.</p><p>Tata was a philanthropist, particularly in the fields of education and healthcare. His donations and foundations laid the groundwork for modern Indian industry and philanthropy. Tata's legacy includes the city of Jamshedpur, named in his honour, and a lasting influence on India's industrial and social landscape. He married Hirabai Daboo, and their sons, Dorabji Tata and Ratanji Tata, continued his legacy within the Tata Group. Tata's contributions were recognized posthumously, including being ranked first in the \"Hurun Philanthropists of the Century\" (2021) by total donations of $102.4 billion (in 2021 prices) with the start of his key endowments back in 1892</p>",
+        "related": ["tata-family"]
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 96.04703605855468,
+            "ascendant": 4
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 175.836946067871,
+                "cusp_degree": 25.836946067870997,
+                "motion_speed": -0.08508441287153737,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 320.56223917534436,
+                "cusp_degree": 20.56223917534436,
+                "motion_speed": 1.001277682583343,
+                "zodiac": 11,
+                "house": 8,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 174.04220569188283,
+                "cusp_degree": 24.042205691882828,
+                "motion_speed": 11.823742744409975,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 338.4294731299695,
+                "cusp_degree": 8.429473129969494,
+                "motion_speed": 1.2415008897467283,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 152.7842680670188,
+                "cusp_degree": 2.784268067018786,
+                "motion_speed": -0.35705974291421877,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "R"
+            },
+            "Mercury": {
+                "degree": 311.7567639120083,
+                "cusp_degree": 11.756763912008296,
+                "motion_speed": 1.7740564625838635,
+                "zodiac": 11,
+                "house": 8,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 228.47941022492657,
+                "cusp_degree": 18.479410224926568,
+                "motion_speed": 0.028360834502677568,
+                "zodiac": 8,
+                "house": 5,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 333.30431751576697,
+                "cusp_degree": 3.304317515766968,
+                "motion_speed": 0.01637287450227764,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 334.1064245061031,
+                "cusp_degree": 4.10642450610311,
+                "motion_speed": -0.052992159508245304,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 154.10642450610317,
+                "motion_speed": -0.052992159508245304,
+                "cusp_degree": 4.106424506103167,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 153.30431751576702,
+                "motion_speed": 0.01637287450227764,
+                "cusp_degree": 3.304317515767025,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "R"
+            }
+        }
+    }
+}

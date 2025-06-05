@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Lakshmi Nivas Mittal",
+        "title": "Businessperson, Industrialist",
+        "year": 1950,
+        "month": 6,
+        "day": 15,
+        "hour": 10,
+        "minute": 50,
+        "second": 0,
+        "latitude": 28.6353435,
+        "longitude": 75.3820239,
+        "location": "Sadulpur",
+        "agyat_rating": "AC",
+        "about": "<p>Lakshmi Niwas Mittal (Hindi: [ˈləkʃmi nɪˈʋaːs ˈmɪtːəl] ⓘ; born 15 June 1950 in Sadulpur, Rajasthan, India) is an Indian steel magnate, based in the United Kingdom. He is the executive chairman of ArcelorMittal, the world's second largest steelmaking company, as well as chairman of stainless steel manufacturer Aperam. Mittal owns 38% of ArcelorMittal and holds a 3% stake in EFL Championship side Queens Park Rangers.</p><p>In 2005, Forbes ranked Mittal as the third-richest person in the world, making him the first Indian citizen to be ranked in the top ten in the publication's annual list of the world's richest people. He was ranked the sixth-richest person in the world by Forbes in 2011, but dropped to 82nd place in March 2015, and only to 130th by October 2024. He is also the \"57th-most powerful person\" of the 72 individuals named in Forbes' \"Most Powerful People\" list for 2015. His daughter Vanisha Mittal's wedding (in 2005) was the second-most expensive in recorded history.</p><p>Mittal has been a member of the board of directors of Goldman Sachs since 2008. He sits on the World Steel Association's executive committee, and is a member of the Global CEO Council of the Chinese People's Association for Friendship with Foreign Countries, the World Economic Forum's International Business Council, and the European Round Table of Industrialists. He is also a member of the board of trustees of the Cleveland Clinic.</p><p>In 2005, The Sunday Times named him \"Business Person of 2006\", the Financial Times named him \"Person of the Year\", and Time magazine named him \"International Newsmaker of the Year 2006\". In 2007, Time magazine included him in their \"Time 100\" list</p><p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 124.19057364491363,
+            "ascendant": 5
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 314.06455456542193,
+                "cusp_degree": 14.064554565421929,
+                "motion_speed": 0.037603473131047865,
+                "zodiac": 11,
+                "house": 7,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 60.364806068116216,
+                "cusp_degree": 0.3648060681162164,
+                "motion_speed": 0.9553551381287043,
+                "zodiac": 3,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 55.277171954911104,
+                "cusp_degree": 25.277171954911104,
+                "motion_speed": 12.102692200829145,
+                "zodiac": 2,
+                "house": 10,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 22.53525205368669,
+                "cusp_degree": 22.53525205368669,
+                "motion_speed": 1.1619198024372075,
+                "zodiac": 1,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 158.09572805972016,
+                "cusp_degree": 8.095728059720159,
+                "motion_speed": 0.38584573031740815,
+                "zodiac": 6,
+                "house": 2,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 37.56738414298795,
+                "cusp_degree": 7.567384142987947,
+                "motion_speed": 1.2355472766800975,
+                "zodiac": 2,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 140.22360966493468,
+                "cusp_degree": 20.223609664934685,
+                "motion_speed": 0.05123337519471218,
+                "zodiac": 5,
+                "house": 1,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 340.81536857612684,
+                "cusp_degree": 10.815368576126843,
+                "motion_speed": -0.2179454142129925,
+                "zodiac": 12,
+                "house": 8,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 340.19985028176313,
+                "cusp_degree": 10.199850281763133,
+                "motion_speed": -0.05299211857507415,
+                "zodiac": 12,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 160.19985028176313,
+                "motion_speed": -0.05299211857507415,
+                "cusp_degree": 10.199850281763133,
+                "zodiac": 6,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 160.81536857612684,
+                "motion_speed": -0.2179454142129925,
+                "cusp_degree": 10.815368576126843,
+                "zodiac": 6,
+                "house": 2,
+                "motion": "R"
+            }
+        }
+    }
+}

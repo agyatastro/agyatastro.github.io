@@ -1,0 +1,114 @@
+{
+    "request": {
+        "name": "J.R.D. Tata",
+        "title": "Businessperson, Industrialist, Philanthropist",
+        "year": 1904,
+        "month": 7,
+        "day": 29,
+        "hour": 13,
+        "minute": 29,
+        "second": 0,
+        "latitude": 48.85341,
+        "longitude": 2.3488,
+        "location": "Paris, France",
+        "agyat_rating": "AA",
+        "about": "<p>Jehangir Ratanji Dadabhoy Tata (29 July 1904 – 29 November 1993) was a French born Indian industrialist, philanthropist, aviator and former chairman of Tata Group.</p><p>Born into the Tata family of India, he was the son of noted businessman Ratanji Dadabhoy Tata and his wife Suzanne Brière. He is best known for being the founder of several industries under the Tata Group, including Tata Consultancy Services, Tata Motors, Titan Industries, Tata Salt, Voltas and Air India. In 1982, he was awarded the French Legion of Honour and in 1955 and 1992, he received two of India's highest civilian awards: the Padma Vibhushan and the Bharat Ratna. These honours were bestowed on him for his contributions to Indian industry.</p>",
+        "related": ["tata-family"]
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 200.29951195954706,
+            "ascendant": 7
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 6.925680146896389,
+                "cusp_degree": 6.925680146896389,
+                "motion_speed": 0.06919298327170349,
+                "zodiac": 1,
+                "house": 7,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 103.42670439971808,
+                "cusp_degree": 13.426704399718076,
+                "motion_speed": 0.9558447442340537,
+                "zodiac": 4,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 307.1652295402505,
+                "cusp_degree": 7.165229540250493,
+                "motion_speed": 11.860607983775122,
+                "zodiac": 11,
+                "house": 5,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 109.30015773714128,
+                "cusp_degree": 19.300157737141276,
+                "motion_speed": 1.2326836426310068,
+                "zodiac": 4,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 86.6932975659801,
+                "cusp_degree": 26.693297565980103,
+                "motion_speed": 0.654840500054147,
+                "zodiac": 3,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 122.61127420328872,
+                "cusp_degree": 2.6112742032887155,
+                "motion_speed": 1.6622828685461544,
+                "zodiac": 5,
+                "house": 11,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 296.03495393653037,
+                "cusp_degree": 26.03495393653037,
+                "motion_speed": -0.07197605525142631,
+                "zodiac": 10,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 146.5474996166185,
+                "cusp_degree": 26.547499616618495,
+                "motion_speed": -0.0485365523038198,
+                "zodiac": 5,
+                "house": 11,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 148.16967145869762,
+                "cusp_degree": 28.16967145869762,
+                "motion_speed": -0.052992096558806184,
+                "zodiac": 5,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 328.1696714586976,
+                "motion_speed": -0.052992096558806184,
+                "cusp_degree": 28.16967145869762,
+                "zodiac": 11,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 326.5474996166185,
+                "motion_speed": -0.0485365523038198,
+                "cusp_degree": 26.547499616618495,
+                "zodiac": 11,
+                "house": 5,
+                "motion": "R"
+            }
+        }
+    }
+}

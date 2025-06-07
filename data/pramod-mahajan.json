@@ -1,0 +1,114 @@
+{
+    "request": {
+        "name": "Pramod Mahajan",
+        "title": "Politician",
+        "year": 1948,
+        "month": 10,
+        "day": 30,
+        "hour": 22,
+        "minute": 32,
+        "second": 0,
+        "latitude": 17.38405,
+        "longitude": 78.45636,
+        "location": "Hyderabad",
+        "agyat_rating": "AA",
+        "about": "</p><p>Pramod Venkatesh Mahajan (30 October 1949 – 3 May 2006) was an Indian politician from Maharashtra. A second-generation leader of the Bharatiya Janata Party (BJP), he belonged to a group of relatively young \"technocratic\" leaders. At the time of his death, he was in a power struggle for the leadership of the BJP, given the imminent retirement of its aging top brass.</p><p>He was a member of the Rajya Sabha and a General Secretary of his party. He contested only two Lok Sabha elections from Mumbai – North East constituency. He won in 1996 but lost in 1998. As Prime Minister Atal Bihari Vajpayee's telecommunications minister between 2001 and 2003, he played a major role in India's cellular revolution. He was widely seen as a successful Parliamentary Affairs minister due to his good relations with members of political parties across the ideological spectrum.</p><p>On 22 April 2006, he was shot by his brother Pravin Mahajan over a family dispute. He succumbed to his injury 13 days later. Pravin was sentenced to lifetime imprisonment by the court in 2007.</p>",
+        "dod": "22/04/2006"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 80.45832384866881,
+            "ascendant": 3
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 243.778436926839,
+                "cusp_degree": 3.7784369268389923,
+                "motion_speed": 0.18485522734820894,
+                "zodiac": 9,
+                "house": 7,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 194.0306756072524,
+                "cusp_degree": 14.030675607252391,
+                "motion_speed": 1.0005054624341043,
+                "zodiac": 7,
+                "house": 5,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 172.98510801956758,
+                "cusp_degree": 22.985108019567576,
+                "motion_speed": 14.630307169380002,
+                "zodiac": 6,
+                "house": 4,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 154.97141284501188,
+                "cusp_degree": 4.9714128450118835,
+                "motion_speed": 1.1905462559219975,
+                "zodiac": 6,
+                "house": 4,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 226.58610505489114,
+                "cusp_degree": 16.586105054891135,
+                "motion_speed": 0.7306262304441111,
+                "zodiac": 8,
+                "house": 6,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 176.89573960566946,
+                "cusp_degree": 26.895739605669462,
+                "motion_speed": 0.312553546992341,
+                "zodiac": 6,
+                "house": 4,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 131.08812732317156,
+                "cusp_degree": 11.088127323171562,
+                "motion_speed": 0.07935406817000822,
+                "zodiac": 5,
+                "house": 3,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 11.799159526111817,
+                "cusp_degree": 11.799159526111817,
+                "motion_speed": 0.0024028268831798,
+                "zodiac": 1,
+                "house": 11,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 11.598308753889244,
+                "cusp_degree": 11.598308753889244,
+                "motion_speed": -0.05299208705574602,
+                "zodiac": 1,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 191.59830875388926,
+                "motion_speed": -0.05299208705574602,
+                "cusp_degree": 11.598308753889256,
+                "zodiac": 7,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 191.79915952611182,
+                "motion_speed": 0.0024028268831798,
+                "cusp_degree": 11.799159526111822,
+                "zodiac": 7,
+                "house": 5,
+                "motion": "R"
+            }
+        }
+    }
+}

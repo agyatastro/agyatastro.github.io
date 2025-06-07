@@ -1,0 +1,114 @@
+{
+    "request": {
+        "name": "Vilasrao Deshmukh",
+        "title": "Politician",
+        "year": 1945,
+        "month": 5,
+        "day": 25,
+        "hour": 6,
+        "minute": 0,
+        "second": 0,
+        "latitude": 18.39721,
+        "longitude": 76.56784,
+        "location": "Latur, Maharashtra",
+        "agyat_rating": "AA",
+        "about": "<p>Vilasrao Dagadojirao Deshmukh (26 May 1945 – 14 August 2012) was an Indian politician who served as the 14th Chief Minister of Maharashtra, first term from 18 October 1999 to 16 January 2003 and second term, from 1 November 2004 to 5 December 2008. He also served in the Union cabinet as the Minister of Science and Technology and Minister of Earth Sciences.</p><p>Vilasrao Deshmukh was a Member of Parliament in Rajya Sabha, India. He had previously held the posts of Minister of Rural Development and Minister of Panchayati Raj, Government of India and Minister of Heavy Industries and Public Enterprises, Government of India. He was a member of Rajya Sabha representing Maharashtra. Vilasrao Deshmukh was two-time Chief Minister of Maharashtra, from 1999 to 2003 and from 2004 to 2008. He was a member of the Indian National Congress and originally belonged to Latur district in the Marathwada region of Maharashtra.</p><p>Critically ill with kidney and liver failures, Deshmukh died on 14 August 2012 due to multiple organ failure at Global Hospitals, Chennai. One of his sons Riteish Deshmukh is a well-known Bollywood actor.</p>",
+        "dod": "14/08/2012"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 36.74768650661011,
+            "ascendant": 2
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 144.594909290653,
+                "cusp_degree": 24.594909290652993,
+                "motion_speed": 0.03073402429241512,
+                "zodiac": 5,
+                "house": 4,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 40.331500950354936,
+                "cusp_degree": 10.331500950354936,
+                "motion_speed": 0.9600479960285396,
+                "zodiac": 2,
+                "house": 1,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 197.25558232720456,
+                "cusp_degree": 17.255582327204564,
+                "motion_speed": 11.985040012412032,
+                "zodiac": 7,
+                "house": 6,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 359.6471290745562,
+                "cusp_degree": 29.647129074556176,
+                "motion_speed": 0.5573678122515984,
+                "zodiac": 12,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 353.8170477430917,
+                "cusp_degree": 23.817047743091678,
+                "motion_speed": 0.7556332318259528,
+                "zodiac": 12,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 18.52992458872233,
+                "cusp_degree": 18.52992458872233,
+                "motion_speed": 1.5582572444498164,
+                "zodiac": 1,
+                "house": 12,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 75.94768044154229,
+                "cusp_degree": 15.947680441542289,
+                "motion_speed": 0.11385792819750587,
+                "zodiac": 3,
+                "house": 2,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 76.54612891203197,
+                "cusp_degree": 16.546128912031975,
+                "motion_speed": -0.10879786058688204,
+                "zodiac": 3,
+                "house": 2,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 78.08686183765492,
+                "cusp_degree": 18.086861837654922,
+                "motion_speed": -0.05299205726643945,
+                "zodiac": 3,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 258.0868618376549,
+                "motion_speed": -0.05299205726643945,
+                "cusp_degree": 18.086861837654908,
+                "zodiac": 9,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 256.546128912032,
+                "motion_speed": -0.10879786058688204,
+                "cusp_degree": 16.546128912031975,
+                "zodiac": 9,
+                "house": 8,
+                "motion": "R"
+            }
+        }
+    }
+}

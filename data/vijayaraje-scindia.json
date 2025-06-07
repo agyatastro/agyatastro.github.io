@@ -1,0 +1,115 @@
+{
+    "request": {
+        "name": "Vijayaraje Scindia",
+        "title": "Rajmata, Monarch, Politician",
+        "year": 1919,
+        "month": 10,
+        "day": 12,
+        "hour": 23,
+        "minute": 0,
+        "second": 0,
+        "latitude": 14.16498,
+        "longitude": 75.02901,
+        "location": "Sagar, Madhya Pradesh",
+        "agyat_rating": "AA",
+        "about": "<p>Vijaya Raje Scindia (born Lekha Divyeshwari Devi; 12 October 1919 – 25 January 2001), known popularly as the Rajmata Scindia, was an Indian politician and consort of the last ruling Maharaja of Gwalior, Jiwajirao Scindia, in British Raj. In later life, she was elected repeatedly to both houses of the Indian parliament. She was one of the founding members of the Bharatiya Janata Party.[6] William Dalrymple wrote in his 1998 book The Age of Kali that she had been called \"a madwoman and a saint; a dangerous reactionary and a national saviour; a stubborn and self-righteous old lunatic and a brave and resilient visionary.\"</p>",
+        "related": ["scindia-family"],
+        "dod": "25/01/2001"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 65.7660154686533,
+            "ascendant": 3
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 111.12468849642815,
+                "cusp_degree": 21.12468849642815,
+                "motion_speed": 0.14689688366544726,
+                "zodiac": 4,
+                "house": 2,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 175.57823725422253,
+                "cusp_degree": 25.57823725422253,
+                "motion_speed": 0.9895869812967438,
+                "zodiac": 6,
+                "house": 4,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 39.18640918063853,
+                "cusp_degree": 9.186409180638528,
+                "motion_speed": 14.718752810517682,
+                "zodiac": 2,
+                "house": 12,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 139.6588065715071,
+                "cusp_degree": 19.658806571507114,
+                "motion_speed": 0.30114483132837017,
+                "zodiac": 5,
+                "house": 3,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 128.81069814494555,
+                "cusp_degree": 8.810698144945547,
+                "motion_speed": 0.606853662976106,
+                "zodiac": 5,
+                "house": 3,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 186.31740312951112,
+                "cusp_degree": 6.317403129511121,
+                "motion_speed": 1.5850414739726617,
+                "zodiac": 7,
+                "house": 5,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 134.6885909127763,
+                "cusp_degree": 14.688590912776306,
+                "motion_speed": 0.10623489311047875,
+                "zodiac": 5,
+                "house": 3,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 212.53402113935422,
+                "cusp_degree": 2.5340211393542234,
+                "motion_speed": 0.00999788206929611,
+                "zodiac": 8,
+                "house": 6,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 213.8961889689891,
+                "cusp_degree": 3.896188968989094,
+                "motion_speed": -0.05299208191276761,
+                "zodiac": 8,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 33.89618896898912,
+                "motion_speed": -0.05299208191276761,
+                "cusp_degree": 3.8961889689891223,
+                "zodiac": 2,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 32.534021139354195,
+                "motion_speed": 0.00999788206929611,
+                "cusp_degree": 2.534021139354195,
+                "zodiac": 2,
+                "house": 12,
+                "motion": "R"
+            }
+        }
+    }
+}

@@ -1,0 +1,114 @@
+{
+    "request": {
+        "name": "Bhanwarlal Meghwal",
+        "title": "Politician",
+        "year": 1948,
+        "month": 11,
+        "day": 19,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 27.7,
+        "longitude": 74.46667,
+        "location": "Sujangarh (Baghsara)",
+        "agyat_rating": "AX",
+        "about": "<p>Bhanwarlal Meghwal (19 November 1948 – 16 November 2020) was an Indian politician from the Indian National Congress.</p><p>He served as the Cabinet Minister of Social Justice and Empowerment in Government of Rajasthan. He also served as the Education Minister in the Government of Rajasthan.</p><p>He was a Member of Rajasthan Legislative Assembly constituency Sujangarh Churu, Rajasthan, serving on 5 different occasions.</p><p>Meghwal died on 16 November 2020 after a long illness and brain haemorrhage at the age of 72.</p>",
+        "dod": "16/11/2020"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 278.20424641774304,
+            "ascendant": 10
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 247.65081727949342,
+                "cusp_degree": 7.650817279493424,
+                "motion_speed": 0.2094079296533579,
+                "zodiac": 9,
+                "house": 12,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 213.6888080115513,
+                "cusp_degree": 3.688808011551288,
+                "motion_speed": 1.0091384541423063,
+                "zodiac": 8,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 64.00700571206572,
+                "cusp_degree": 4.00700571206572,
+                "motion_speed": 13.50894841118011,
+                "zodiac": 3,
+                "house": 6,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 178.56169612949714,
+                "cusp_degree": 28.561696129497136,
+                "motion_speed": 1.219463849916112,
+                "zodiac": 6,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 241.0804596322359,
+                "cusp_degree": 1.0804596322358861,
+                "motion_speed": 0.7507076119785654,
+                "zodiac": 9,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 200.54719151951574,
+                "cusp_degree": 20.547191519515735,
+                "motion_speed": 1.5598941166906224,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 132.36077760125605,
+                "cusp_degree": 12.360777601256046,
+                "motion_speed": 0.04980628712706397,
+                "zodiac": 5,
+                "house": 8,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 11.692812412250454,
+                "cusp_degree": 11.692812412250454,
+                "motion_speed": -0.05706674027363585,
+                "zodiac": 1,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 10.561725149788504,
+                "cusp_degree": 10.561725149788504,
+                "motion_speed": -0.05299208701551527,
+                "zodiac": 1,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 190.56172514978851,
+                "motion_speed": -0.05299208701551527,
+                "cusp_degree": 10.561725149788515,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 191.69281241225045,
+                "motion_speed": -0.05706674027363585,
+                "cusp_degree": 11.692812412250447,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "R"
+            }
+        }
+    }
+}

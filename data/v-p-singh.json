@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "V. P. Singh",
+        "title": "Politician, Prime Minister",
+        "year": 1931,
+        "month": 6,
+        "day": 25,
+        "hour": 7,
+        "minute": 15,
+        "second": 0,
+        "latitude": 25.44478,
+        "longitude": 81.84322,
+        "location": "Prayagraj",
+        "agyat_rating": "AC",
+        "about": "<p>Vishwanath Pratap Singh (25 June 1931 – 27 November 2008) was an Indian politician who served as the prime minister of India from 1989 to 1990 and the Raja Bahadur of Manda.</p><p>He was educated at Allahabad University and Fergusson College in Pune.[4] In 1969, he joined the Indian National Congress party and was elected as a member of the Uttar Pradesh Legislative Assembly.</p><p>In the Rajiv Gandhi ministry, Singh was given various cabinet posts, including Minister of Finance and Minister of Defence. Singh was also the Leader of the Rajya Sabha from 1984 to 1987. During his tenure as Minister of Defence, the Bofors scandal came to light, and Singh resigned from the ministry. In 1988, he formed the Janata Dal party by merging various factions of the Janata Party. In the 1989 elections, the National Front, with the support of the Bharatiya Janata Party (BJP), formed the government and Singh became the prime minister.</p><p>During his tenure as prime minister, he implemented the Mandal Commission report for India's backward castes, which led to major protests against the act. He also created the Sixty-second Amendment and enacted the Scheduled Caste and Scheduled Tribe Act in 1989. In 1990 the exodus of Kashmiri Hindus happened from the valley of Kashmir. Following his opposition to the Ram Rath Yatra, the BJP withdrew its support for the National Front, and his government lost the vote of no-confidence. Singh resigned on 7 November 1990. His prime ministerial tenure lasted for 343 days.</p><p>Singh was the prime ministerial candidate for the National Front in the 1991 elections, but was defeated. He spoke out against the Babri Masjid demolition in 1992. He turned down prime ministership after the 1996 Indian general election even through he was the first choice and relinquished the prime ministership to H. D. Deve Gowda.[6][7] After 1996, Singh retired from political posts, but continued to remain a public figure and political critic. He was diagnosed with multiple myeloma in 1998, and ceased public appearances until the cancer went into remission in 2003. He died from complications of multiple myeloma and kidney failure in 2008. He was cremated with full state honours.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 90.65427690476409,
+            "ascendant": 4
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 92.23102659450538,
+                "cusp_degree": 2.23102659450538,
+                "motion_speed": 0.21384559992291718,
+                "zodiac": 4,
+                "house": 1,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 69.64062232172807,
+                "cusp_degree": 9.640622321728074,
+                "motion_speed": 0.9535669307484246,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 186.4018536641089,
+                "cusp_degree": 6.401853664108899,
+                "motion_speed": 13.994128208780664,
+                "zodiac": 7,
+                "house": 4,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 49.34435229661913,
+                "cusp_degree": 19.344352296619128,
+                "motion_speed": 1.2141189750326513,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 134.98108555351882,
+                "cusp_degree": 14.981085553518824,
+                "motion_speed": 0.559010855373026,
+                "zodiac": 5,
+                "house": 2,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 63.809242160490136,
+                "cusp_degree": 3.809242160490136,
+                "motion_speed": 2.1575371968884864,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 268.3760336879555,
+                "cusp_degree": 28.3760336879555,
+                "motion_speed": -0.06785316512570116,
+                "zodiac": 9,
+                "house": 6,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 347.9501807803261,
+                "cusp_degree": 17.950180780326093,
+                "motion_speed": -0.027962125297232483,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 347.44279950129305,
+                "cusp_degree": 17.442799501293052,
+                "motion_speed": -0.05299200444343725,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 167.44279950129305,
+                "motion_speed": -0.05299200444343725,
+                "cusp_degree": 17.442799501293052,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 167.95018078032604,
+                "motion_speed": -0.027962125297232483,
+                "cusp_degree": 17.950180780326036,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "R"
+            }
+        }
+    }
+}

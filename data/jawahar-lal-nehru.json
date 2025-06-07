@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Jawahar Lal Nehru",
+        "title": "Politician, Freedom Fighter, Prime Minister",
+        "year": 1889,
+        "month": 11,
+        "day": 14,
+        "hour": 23,
+        "minute": 30,
+        "second": 0,
+        "latitude": 25.44478,
+        "longitude": 81.84322,
+        "location": "Allahabad (Prayagraj)",
+        "agyat_rating": "AA",
+        "about": "<p>Jawaharlal Nehru (14 November 1889 – 27 May 1964) was an Indian anti-colonial nationalist, secular humanist, social democrat, and statesman who was a central figure in India during the middle of the 20th century. Nehru was a principal leader of the Indian nationalist movement in the 1930s and 1940s. Upon India's independence in 1947, he served as the country's first prime minister for 16 years. Nehru promoted parliamentary democracy, secularism, and science and technology during the 1950s, powerfully influencing India's arc as a modern nation. In international affairs, he steered India clear of the two blocs of the Cold War. A well-regarded author, he wrote books such as Letters from a Father to His Daughter (1929), An Autobiography (1936) and The Discovery of India (1946), that have been read around the world.</p><p>The son of Motilal Nehru, a prominent lawyer and Indian nationalist, Jawaharlal Nehru was educated in England—at Harrow School and Trinity College, Cambridge, and trained in the law at the Inner Temple. He became a barrister, returned to India, enrolled at the Allahabad High Court and gradually became interested in national politics, which eventually became a full-time occupation. He joined the Indian National Congress, rose to become the leader of a progressive faction during the 1920s, and eventually of the Congress, receiving the support of Mahatma Gandhi, who was to designate Nehru as his political heir. As Congress president in 1929, Nehru called for complete independence from the British Raj.</p><p>Nehru and the Congress dominated Indian politics during the 1930s. Nehru promoted the idea of the secular nation-state in the 1937 provincial elections, allowing the Congress to sweep the elections and form governments in several provinces. In September 1939, the Congress ministries resigned to protest Viceroy Lord Linlithgow's decision to join the war without consulting them. After the All India Congress Committee's Quit India Resolution of 8 August 1942, senior Congress leaders were imprisoned, and for a time, the organisation was suppressed. Nehru, who had reluctantly heeded Gandhi's call for immediate independence, and had desired instead to support the Allied war effort during World War II, came out of a lengthy prison term to a much altered political landscape. Under Muhammad Ali Jinnah, the Muslim League had come to dominate Muslim politics in the interim. In the 1946 provincial elections, Congress won the elections, but the League won all the seats reserved for Muslims, which the British interpreted as a clear mandate for Pakistan in some form. Nehru became the interim prime minister of India in September 1946 and the League joined his government with some hesitancy in October 1946.</p><p>Upon India's independence on 15 August 1947, Nehru gave a critically acclaimed speech, \"Tryst with Destiny\"; he was sworn in as the Dominion of India's prime minister and raised the Indian flag at the Red Fort in Delhi. On 26 January 1950, when India became a republic within the Commonwealth of Nations, Nehru became the Republic of India's first prime minister. He embarked on an ambitious economic, social, and political reform programme. Nehru promoted a pluralistic multi-party democracy. In foreign affairs, he led the establishment the Non-Aligned Movement, a group of nations that did not seek membership in the two main ideological blocs of the Cold War. Under Nehru's leadership, the Congress dominated national and state-level politics and won elections in 1951, 1957 and 1962. He died in office from a heart attack in 1964. His birthday is celebrated as Children's Day in India</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 113.24177923886242,
+            "ascendant": 4
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 255.17410698907375,
+                "cusp_degree": 15.17410698907375,
+                "motion_speed": 0.1956375430302267,
+                "zodiac": 9,
+                "house": 6,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 210.2649374667887,
+                "cusp_degree": 0.26493746678869456,
+                "motion_speed": 1.0080277232522168,
+                "zodiac": 8,
+                "house": 5,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 107.88910721495476,
+                "cusp_degree": 17.889107214954763,
+                "motion_speed": 11.911507387394964,
+                "zodiac": 4,
+                "house": 1,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 187.35541329447918,
+                "cusp_degree": 7.3554132944791775,
+                "motion_speed": 1.2472596809821384,
+                "zodiac": 7,
+                "house": 4,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 159.98017725998105,
+                "cusp_degree": 9.980177259981048,
+                "motion_speed": 0.6034802891218173,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 197.13908171792397,
+                "cusp_degree": 17.139081717923972,
+                "motion_speed": 1.5691510716806332,
+                "zodiac": 7,
+                "house": 4,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 130.79424134071334,
+                "cusp_degree": 10.794241340713342,
+                "motion_speed": 0.053110812364643586,
+                "zodiac": 5,
+                "house": 2,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 71.44441931713742,
+                "cusp_degree": 11.444419317137417,
+                "motion_speed": 0.021304946847459896,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 72.72785555296946,
+                "cusp_degree": 12.727855552969459,
+                "motion_speed": -0.05299212726566391,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 252.72785555296946,
+                "motion_speed": -0.05299212726566391,
+                "cusp_degree": 12.727855552969459,
+                "zodiac": 9,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 251.44441931713743,
+                "motion_speed": 0.021304946847459896,
+                "cusp_degree": 11.44441931713743,
+                "zodiac": 9,
+                "house": 6,
+                "motion": "R"
+            }
+        }
+    }
+}

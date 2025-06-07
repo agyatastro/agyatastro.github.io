@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Morarji Desai",
+        "title": "Politician, Prime Minister",
+        "year": 1896,
+        "month": 2,
+        "day": 29,
+        "hour": 13,
+        "minute": 38,
+        "second": 0,
+        "latitude": 20.61013,
+        "longitude": 72.93428,
+        "location": "Valsad (Bhadeli)",
+        "agyat_rating": "AA",
+        "about": "<p>Morarji Ranchhodji Desai (29 February 1896 – 10 April 1995) was an Indian politician and independence activist who served as the prime minister of India between 1977 and 1979 leading the government formed by the Janata Party. During his long career in politics, he held many important posts in government such as the chief minister of Bombay State, the home minister, the finance minister, and the deputy prime minister.</p><p>Following the death of Prime Minister Lal Bahadur Shastri, Desai was a strong contender for the position of Prime Minister, only to be defeated by Indira Gandhi in 1966. He was appointed as Minister of Finance and Deputy Prime Minister in Indira Gandhi's cabinet, until 1969. When Indian National Congress split in 1969 he became a part of the INC (O). After the controversial emergency was lifted in 1977, the political parties of the opposition fought together against the INC (I), under the umbrella of the Janata Party, and won the 1977 election. Desai was elected prime minister, and became the first non-Congress prime minister of India. Desai was the second and the last prime minister to have been born in the nineteenth century.</p><p>On the international scene, Desai holds international fame for his peace activism and created efforts to initiate peace between India and rival Pakistan. After India's first nuclear test in 1974, Desai helped restore friendly relations with China and Pakistan, and vowed to avoid armed conflict such as the Indo-Pakistani war of 1971. He was honoured with the highest civilian award of Pakistan, the Nishan-e-Pakistan on 19 May 1990.</p><p>He is the oldest person to hold the office of prime minister in the history of Indian politics, at the age of 81. He subsequently retired from all political posts, but continued to campaign for the Janata Party in 1980. He was conferred with India's highest civilian honour, the Bharat Ratna. He died at the age of 99 in 1995.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 64.99456041045673,
+            "ascendant": 3
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 97.65237232535769,
+                "cusp_degree": 7.652372325357689,
+                "motion_speed": -0.07670322099029386,
+                "zodiac": 4,
+                "house": 2,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 317.85418620945467,
+                "cusp_degree": 17.854186209454667,
+                "motion_speed": 1.0026550174066011,
+                "zodiac": 11,
+                "house": 9,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 144.8747232752044,
+                "cusp_degree": 24.87472327520439,
+                "motion_speed": 15.185529776061852,
+                "zodiac": 5,
+                "house": 3,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 284.5522275163518,
+                "cusp_degree": 14.55222751635182,
+                "motion_speed": 1.219488053937124,
+                "zodiac": 10,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 275.23099441461596,
+                "cusp_degree": 5.230994414615964,
+                "motion_speed": 0.7502899503159622,
+                "zodiac": 10,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 291.26752150772023,
+                "cusp_degree": 21.267521507720232,
+                "motion_speed": 0.7093194875625624,
+                "zodiac": 10,
+                "house": 8,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 206.69228212074273,
+                "cusp_degree": 26.692282120742732,
+                "motion_speed": -0.004151832994833186,
+                "zodiac": 7,
+                "house": 5,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 311.26727953005536,
+                "cusp_degree": 11.267279530055362,
+                "motion_speed": -0.005258570321251082,
+                "zodiac": 11,
+                "house": 9,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 310.9737638705038,
+                "cusp_degree": 10.973763870503774,
+                "motion_speed": -0.05299211712882009,
+                "zodiac": 11,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 130.97376387050377,
+                "motion_speed": -0.05299211712882009,
+                "cusp_degree": 10.973763870503774,
+                "zodiac": 5,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 131.26727953005536,
+                "motion_speed": -0.005258570321251082,
+                "cusp_degree": 11.267279530055362,
+                "zodiac": 5,
+                "house": 3,
+                "motion": "R"
+            }
+        }
+    }
+}

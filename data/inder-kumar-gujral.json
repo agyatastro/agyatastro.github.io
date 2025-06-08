@@ -1,0 +1,114 @@
+{
+    "request": {
+        "name": "Inder Kumar Gujral",
+        "title": "Politician, Prime Minister",
+        "year": 1919,
+        "month": 12,
+        "day": 4,
+        "hour": 23,
+        "minute": 0,
+        "second": 0,
+        "latitude": 32.93448,
+        "longitude": 73.73102,
+        "location": "Jhelum, Pakistan",
+        "agyat_rating": "AA",
+        "about": "<p>Inder Kumar Gujral (4 December 1919 – 30 November 2012) was an Indian diplomat, politician, and anti-colonial independence activist, who served as prime minister of India from April 1997 to March 1998.</p><p>Born in Punjab, he was influenced by nationalistic ideas as a student, and joined the All India Students Federation and the Communist Party of India. He was imprisoned for taking part in the Quit India movement. After independence, he joined the Indian National Congress party in 1964, and became a Member of Parliament in the Rajya Sabha.</p><p>He was the Minister of Information and Broadcasting during the emergency. In 1976, he was appointed as the Ambassador of India to the Soviet Union. In 1996, he became the Minister of External Affairs in the Deve Gowda ministry, and developed the Gujral doctrine during this period. He was appointed the prime minister of India in 1997. His tenure lasted for less than a year.</p><p>He retired from all political positions in 1998. He died in 2012 at the age of 92, following hospitalization due to a lung infection.</p>",
+        "dod": "30/11/2012"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 135.4947376200557,
+            "ascendant": 5
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 115.39957514112993,
+                "cusp_degree": 25.39957514112993,
+                "motion_speed": 0.0019939857492574185,
+                "zodiac": 4,
+                "house": 12,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 228.8283180171322,
+                "cusp_degree": 18.828318017132204,
+                "motion_speed": 1.014478811426761,
+                "zodiac": 8,
+                "house": 4,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 11.545820147743692,
+                "cusp_degree": 11.545820147743692,
+                "motion_speed": 14.786620457577639,
+                "zodiac": 1,
+                "house": 9,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 182.49729436641104,
+                "cusp_degree": 2.4972943664110403,
+                "motion_speed": 1.0780099499409788,
+                "zodiac": 7,
+                "house": 3,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 159.60300327609815,
+                "cusp_degree": 9.60300327609815,
+                "motion_speed": 0.546412657353899,
+                "zodiac": 6,
+                "house": 2,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 224.5621557405564,
+                "cusp_degree": 14.562155740556392,
+                "motion_speed": -1.3023507491626545,
+                "zodiac": 8,
+                "house": 4,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 138.61998863068953,
+                "cusp_degree": 18.619988630689534,
+                "motion_speed": 0.03389573467074402,
+                "zodiac": 5,
+                "house": 1,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 212.06220294784683,
+                "cusp_degree": 2.062202947846828,
+                "motion_speed": 0.01650626675775783,
+                "zodiac": 8,
+                "house": 4,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 211.08448017011085,
+                "cusp_degree": 1.0844801701108508,
+                "motion_speed": -0.052992081737633825,
+                "zodiac": 8,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 31.08448017011085,
+                "motion_speed": -0.052992081737633825,
+                "cusp_degree": 1.0844801701108508,
+                "zodiac": 2,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 32.0622029478468,
+                "motion_speed": 0.01650626675775783,
+                "cusp_degree": 2.0622029478467994,
+                "zodiac": 2,
+                "house": 10,
+                "motion": "R"
+            }
+        }
+    }
+}

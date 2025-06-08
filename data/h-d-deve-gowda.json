@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "H. D. Deve Gowda",
+        "title": "Politician, Prime Minister",
+        "year": 1933,
+        "month": 5,
+        "day": 18,
+        "hour": 11,
+        "minute": 0,
+        "second": 0,
+        "latitude": 13.00715,
+        "longitude": 76.0962,
+        "location": "Hassan",
+        "agyat_rating": "AA",
+        "about": "<p>Haradanahalli Doddegowda Deve Gowda (born 18 May 1933) is an Indian politician who served as the prime minister of India from 1996 to 1997. He previously served as the chief minister of Karnataka from 1994 to 1996 and as a Member of Parliament (MP) in the Lok Sabha. A member of the Janata Dal (Secular), he has been serving as the party's president since 1999 and has been an MP in the Rajya Sabha representing Karnataka since 2020.</p><p>Born in a family of farmers, Deve Gowda joined the Indian National Congress (INC) in 1953 and remained a member until 1962. He became president of the state unit of the Janata Dal in 1994 and was considered to be a driving force in the party's victory in Karnataka. He served as the chief minister of Karnataka from 1994 to 1996. In the 1996 general elections, no party won enough seats to form a government and Deve Gowda was elected to serve as prime minister as head of the United Front coalition. His premiership lasted for less than a year and he left office in April 1997. After his prime ministerial tenure, he was re-elected to the Lok Sabha as a Member of Parliament until his defeat in 2019. Deve Gowda was elected to the Rajya Sabha in 2020.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 98.04411214672784,
+            "ascendant": 4
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 140.45300199714197,
+                "cusp_degree": 20.453001997141968,
+                "motion_speed": 0.023323176754741666,
+                "zodiac": 5,
+                "house": 2,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 33.87087734090428,
+                "cusp_degree": 3.870877340904279,
+                "motion_speed": 0.9628653385973444,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 324.1219708255085,
+                "cusp_degree": 24.121970825508527,
+                "motion_speed": 12.755763779443326,
+                "zodiac": 11,
+                "house": 8,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 40.88236029896127,
+                "cusp_degree": 10.882360298961267,
+                "motion_speed": 1.2299253985948824,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 134.6323536430023,
+                "cusp_degree": 14.63235364300229,
+                "motion_speed": 0.333583481647803,
+                "zodiac": 5,
+                "house": 2,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 21.68228765316076,
+                "cusp_degree": 21.68228765316076,
+                "motion_speed": 1.9792501638039572,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 293.3864546338812,
+                "cusp_degree": 23.386454633881215,
+                "motion_speed": 0.014527325622716306,
+                "zodiac": 10,
+                "house": 7,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 311.1698014954601,
+                "cusp_degree": 11.169801495460092,
+                "motion_speed": -0.01694308740747009,
+                "zodiac": 11,
+                "house": 8,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 310.7110107704601,
+                "cusp_degree": 10.71101077046012,
+                "motion_speed": -0.05299206878138612,
+                "zodiac": 11,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 130.71101077046012,
+                "motion_speed": -0.05299206878138612,
+                "cusp_degree": 10.71101077046012,
+                "zodiac": 5,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 131.1698014954601,
+                "motion_speed": -0.01694308740747009,
+                "cusp_degree": 11.169801495460092,
+                "zodiac": 5,
+                "house": 2,
+                "motion": "R"
+            }
+        }
+    }
+}

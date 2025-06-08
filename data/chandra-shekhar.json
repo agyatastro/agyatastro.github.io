@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Chandra Shekhar",
+        "title": "Politician, Prime Minister, Astrologer Father",
+        "year": 1927,
+        "month": 4,
+        "day": 17,
+        "hour": 11,
+        "minute": 0,
+        "second": 0,
+        "latitude": 25.42139,
+        "longitude": 86.31445,
+        "location": "Ibrahimpatti (Ballia)",
+        "agyat_rating": "AA",
+        "about": "<p>Chandra Shekhar (17 April 1927 – 8 July 2007), also known as Jananayak, was an Indian politician and the prime minister of India, between 10 November 1990 and 21 June 1991. He headed a minority government of a breakaway faction of the Janata Dal with outside support from the Indian National Congress. He was the first Indian Prime Minister who had never held any prior government office.</p><p>His government was formed with the fewest party MPs in the Lok Sabha. His government could not pass the budget at a crucial time when Moody's had downgraded India, after Shekhar's government was unable to pass the budget, global credit-rating agencies further downgraded India from investment grade, making it impossible to even get short-term loans, and in no position to give any commitment to reform, the World Bank and IMF stopped their assistance. Shekhar had to authorise mortgaging of gold to avoid default of payment, and this action came in for particular criticism, as it was done secretly in the midst of the election. The 1991 Indian economic crisis and the assassination of Rajiv Gandhi plunged his government into crisis. Granting the permission for US military planes to refuel in Indian airports during the Gulf War improved the Prime Minister's image with the West</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 84.46952729266492,
+            "ascendant": 3
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 327.9573232451672,
+                "cusp_degree": 27.957323245167174,
+                "motion_speed": 0.2182316508625038,
+                "zodiac": 11,
+                "house": 9,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 3.3631274540730973,
+                "cusp_degree": 3.3631274540730973,
+                "motion_speed": 0.9774860286302477,
+                "zodiac": 1,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 184.06651833629,
+                "cusp_degree": 4.066518336289988,
+                "motion_speed": 11.96655483474724,
+                "zodiac": 7,
+                "house": 5,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 37.64547911533244,
+                "cusp_degree": 7.645479115332442,
+                "motion_speed": 1.1921408451785103,
+                "zodiac": 2,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 67.25194366975697,
+                "cusp_degree": 7.251943669756969,
+                "motion_speed": 0.5822260113910575,
+                "zodiac": 3,
+                "house": 1,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 336.77721184253096,
+                "cusp_degree": 6.77721184253096,
+                "motion_speed": 1.2692183199514815,
+                "zodiac": 12,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 224.09761729229595,
+                "cusp_degree": 14.09761729229595,
+                "motion_speed": -0.04669090936790203,
+                "zodiac": 8,
+                "house": 6,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 67.08963443164397,
+                "cusp_degree": 7.089634431643972,
+                "motion_speed": -0.19132661505139145,
+                "zodiac": 3,
+                "house": 1,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 68.51240085200963,
+                "cusp_degree": 8.512400852009634,
+                "motion_speed": -0.05299220714283293,
+                "zodiac": 3,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 248.51240085200965,
+                "motion_speed": -0.05299220714283293,
+                "cusp_degree": 8.512400852009648,
+                "zodiac": 9,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 247.08963443164396,
+                "motion_speed": -0.19132661505139145,
+                "cusp_degree": 7.089634431643958,
+                "zodiac": 9,
+                "house": 7,
+                "motion": "R"
+            }
+        }
+    }
+}

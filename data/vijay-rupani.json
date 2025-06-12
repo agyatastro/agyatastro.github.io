@@ -1,0 +1,114 @@
+{
+    "request": {
+        "name": "Vijay Rupani",
+        "title": "Politician, Chief Minister",
+        "year": 1956,
+        "month": 8,
+        "day": 2,
+        "hour": 18,
+        "minute": 30,
+        "second": 0,
+        "latitude": 16.80528,
+        "longitude": 96.15611,
+        "location": "Yangon, Myanmar",
+        "agyat_rating": "AA",
+        "about": "Vijaybhai Ramniklalbhai Rupani (2 August 1956 – 12 June 2025) was an Indian politician who served as the 16th Chief Minister of Gujarat from 2016 to 2021 for two terms. He was a member of the Gujarat Legislative Assembly, representing Rajkot West. He was a member of Bharatiya Janata Party.",
+        "dod": "12/06/2025"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 287.4010966090591,
+            "ascendant": 10
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 131.76103431261282,
+                "cusp_degree": 11.761034312612821,
+                "motion_speed": 0.20583389270035318,
+                "zodiac": 5,
+                "house": 8,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 106.89057155098449,
+                "cusp_degree": 16.89057155098449,
+                "motion_speed": 0.9573521440629901,
+                "zodiac": 4,
+                "house": 7,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 51.3324508119674,
+                "cusp_degree": 21.332450811967398,
+                "motion_speed": 14.322065413376567,
+                "zodiac": 2,
+                "house": 5,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 65.58884281682057,
+                "cusp_degree": 5.5888428168205735,
+                "motion_speed": 0.5871742641115356,
+                "zodiac": 3,
+                "house": 6,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 329.9453874855387,
+                "cusp_degree": 29.945387485538674,
+                "motion_speed": 0.11084149155578027,
+                "zodiac": 11,
+                "house": 2,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 120.92819366299827,
+                "cusp_degree": 0.9281936629982681,
+                "motion_speed": 1.8109671028946772,
+                "zodiac": 5,
+                "house": 8,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 212.9164909515508,
+                "cusp_degree": 2.9164909515507986,
+                "motion_speed": 0.004391187731468134,
+                "zodiac": 8,
+                "house": 11,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 222.79912940025554,
+                "cusp_degree": 12.799129400255538,
+                "motion_speed": -0.014706212290748094,
+                "zodiac": 8,
+                "house": 11,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 221.48189163335175,
+                "cusp_degree": 11.48189163335175,
+                "motion_speed": -0.05299211269628315,
+                "zodiac": 8,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 41.48189163335178,
+                "motion_speed": -0.05299211269628315,
+                "cusp_degree": 11.481891633351779,
+                "zodiac": 2,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 42.79912940025554,
+                "motion_speed": -0.014706212290748094,
+                "cusp_degree": 12.799129400255538,
+                "zodiac": 2,
+                "house": 5,
+                "motion": "R"
+            }
+        }
+    }
+}

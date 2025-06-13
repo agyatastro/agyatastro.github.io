@@ -1,0 +1,115 @@
+{
+    "request": {
+        "name": "Sanjay Kapur",
+        "title": "Businessperson",
+        "year": 1971,
+        "month": 10,
+        "day": 15,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 28.62137,
+        "longitude": 77.2148,
+        "location": "New Delhi",
+        "agyat_rating": "XX",
+        "about": "Sanjay Kapur was the Chairman of Sona Comstar, a global supplier of automotive technology, including components for electric and conventional vehicles. He was also the President of the Automotive Component Manufacturers Association (ACMA). He was the son of Dr. Surinder Kapur, founder of the Sona Group. Former husband of Bollywood actor Karisma Kapoor",
+        "related": ["kapoor-family"],
+        "dod": "12/06/2025"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 245.2322260928418,
+            "ascendant": 9
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 222.0090057790966,
+                "cusp_degree": 12.009005779096611,
+                "motion_speed": 0.18947972222132714,
+                "zodiac": 8,
+                "house": 12,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 177.76453382327253,
+                "cusp_degree": 27.76453382327253,
+                "motion_speed": 0.9912991349946152,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 133.44872191407092,
+                "cusp_degree": 13.448721914070916,
+                "motion_speed": 11.940272365389461,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 190.65691786760598,
+                "cusp_degree": 10.656917867605983,
+                "motion_speed": 1.2461197372365298,
+                "zodiac": 7,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 296.1459719778322,
+                "cusp_degree": 26.145971977832176,
+                "motion_speed": 0.3943325333726665,
+                "zodiac": 10,
+                "house": 2,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 182.45223374519634,
+                "cusp_degree": 2.452233745196338,
+                "motion_speed": 1.6551972041658503,
+                "zodiac": 7,
+                "house": 11,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 42.45315491464846,
+                "cusp_degree": 12.453154914648458,
+                "motion_speed": -0.04552448807803865,
+                "zodiac": 2,
+                "house": 6,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 288.75867675801777,
+                "cusp_degree": 18.75867675801777,
+                "motion_speed": -0.06886565467526985,
+                "zodiac": 10,
+                "house": 2,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 287.28321587021867,
+                "cusp_degree": 17.28321587021867,
+                "motion_speed": -0.052992064925139734,
+                "zodiac": 10,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 107.28321587021867,
+                "motion_speed": -0.052992064925139734,
+                "cusp_degree": 17.28321587021867,
+                "zodiac": 4,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 108.75867675801777,
+                "motion_speed": -0.06886565467526985,
+                "cusp_degree": 18.75867675801777,
+                "zodiac": 4,
+                "house": 8,
+                "motion": "R"
+            }
+        }
+    }
+}

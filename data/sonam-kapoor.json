@@ -1,0 +1,114 @@
+{
+    "request": {
+        "name": "Sonam Kapoor",
+        "title": "Actor",
+        "year": 1985,
+        "month": 6,
+        "day": 9,
+        "hour": 21,
+        "minute": 0,
+        "second": 0,
+        "latitude": 19.07283,
+        "longitude": 72.88261,
+        "location": "Mumbai",
+        "agyat_rating": "AU",
+        "about": "<p>Sonam Kapoor Ahuja (pronounced [soːnəm kəˈpuːr]; born 9 June 1985) is an Indian actress who works in Hindi films. She has received several awards, including a National Film Award and a Filmfare Award. Kapoor appeared in Forbes India's Celebrity 100 list from 2012 to 2016.</p><p>Kapoor, the daughter of actor Anil Kapoor, began her career as an assistant director on filmmaker Sanjay Leela Bhansali's 2005 film Black. She made her acting debut in Bhansali's romantic drama Saawariya (2007), a box office flop, and had her first commercial success with the romantic comedy I Hate Luv Storys (2010). This was followed by a series of commercial failures and repetitive roles, which garnered her negative reviews. The 2013 box office hit Raanjhanaa marked a turning point in Kapoor's career, garnering her praise and Best Actress nominations at several award ceremonies.</p><p>Kapoor had her biggest commercial successes with supporting roles in the biopics Bhaag Milkha Bhaag (2013) and Sanju (2018), and a leading role in the romance Prem Ratan Dhan Payo (2015); the last two rank among the highest-grossing Bollywood films. Her acclaimed portrayal of Neerja Bhanot in the 2016 biographical thriller Neerja won her the National Film Award – Special Mention and a Filmfare Award for Best Actress (Critics), and she followed it with a starring role in the 2018 female buddy film Veere Di Wedding, both of which rank among the highest-grossing female-led Hindi films. This was followed by two poorly received female-led films and a hiatus.</p><p>Kapoor supports the raising awareness of breast cancer and LGBT rights. Known in the media for her outspoken personality, Kapoor is often a subject of social media trolling. She is married to the businessman Anand Ahuja, with whom she has a son.</p>",
+        "related": ["anil-kapoor-family"]
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 254.8744219735285,
+            "ascendant": 9
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 293.278387688763,
+                "cusp_degree": 23.27838768876302,
+                "motion_speed": -0.015050526156092432,
+                "zodiac": 10,
+                "house": 2,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 55.061145801959086,
+                "cusp_degree": 25.061145801959086,
+                "motion_speed": 0.9560403392321729,
+                "zodiac": 2,
+                "house": 6,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 316.96080843804225,
+                "cusp_degree": 16.96080843804225,
+                "motion_speed": 12.371149644260413,
+                "zodiac": 11,
+                "house": 3,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 9.34894059096723,
+                "cusp_degree": 9.34894059096723,
+                "motion_speed": 0.9330143977409886,
+                "zodiac": 1,
+                "house": 5,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 66.47373305160149,
+                "cusp_degree": 6.473733051601485,
+                "motion_speed": 0.6670461357286062,
+                "zodiac": 3,
+                "house": 7,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 57.59775447760189,
+                "cusp_degree": 27.59775447760189,
+                "motion_speed": 2.1935079110208875,
+                "zodiac": 2,
+                "house": 6,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 209.41403233230903,
+                "cusp_degree": 29.414032332309034,
+                "motion_speed": -0.06350604282247307,
+                "zodiac": 7,
+                "house": 11,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 24.130685485513155,
+                "cusp_degree": 24.130685485513155,
+                "motion_speed": -0.015189406763076164,
+                "zodiac": 1,
+                "house": 5,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 23.045058343541307,
+                "cusp_degree": 23.045058343541307,
+                "motion_speed": -0.052992035087996416,
+                "zodiac": 1,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 203.0450583435413,
+                "motion_speed": -0.052992035087996416,
+                "cusp_degree": 23.045058343541314,
+                "zodiac": 7,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 204.13068548551314,
+                "motion_speed": -0.015189406763076164,
+                "cusp_degree": 24.13068548551314,
+                "zodiac": 7,
+                "house": 11,
+                "motion": "R"
+            }
+        }
+    }
+}

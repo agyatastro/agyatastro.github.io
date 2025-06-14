@@ -1,0 +1,114 @@
+{
+    "request": {
+        "name": "Anil Kapoor",
+        "title": "Actor",
+        "year": 1959,
+        "month": 12,
+        "day": 24,
+        "hour": 11,
+        "minute": 10,
+        "second": 0,
+        "latitude": 19.07283,
+        "longitude": 72.88261,
+        "location": "Mumbai",
+        "agyat_rating": "AC",
+        "about": "<p>Anil Kapoor (born 24 December 1956) is an Indian actor and producer who works primarily in Hindi films, in addition to Indian television and international films. In a career spanning over 40 years as an actor and since 2005 as a producer, Kapoor has appeared in more than 100 films. He has received several accolades, including two National Film Awards and seven Filmfare Awards.</p><p>Born to film producer Surinder Kapoor, he made his Bollywood debut with a small role in the romance Hamare Tumhare (1979) before starring in the Telugu film Vamsa Vruksham (1980) and Kannada film Pallavi Anupallavi (1983). His first two successes were Woh 7 Din (1984) and Meri Jung (1985), which made him a star. He went onto establish himself as an actor with highly successful ventures, throughout the 1980s and 1990s, such as Saaheb (1985), Karma (1986), Mr. India (1987), Tezaab (1988), Ram Lakhan (1989), Rakhwala (1989), Kishen Kanhaiya (1990), Beta (1992), Laadla (1994), Judaai (1997), Virasat (1997), Deewana Mastana (1997), Biwi No.1 (1999), Hum Aapke Dil Mein Rehte Hain (1999) and Taal (1999). After the leading role in hit Hamara Dil Aapke Paas Hai (2000), he had a series of flops and made a comeback with the multi-starrers No Entry (2005) and Welcome (2007), both of which were superhits. This was followed by supporting roles in Race (2008), Race 2 (2013), Shootout at Wadala (2013), Welcome Back (2015), Total Dhamaal (2019) and Animal (2023).</p><p>Kapoor's first international film role was in Danny Boyle's acclaimed drama Slumdog Millionaire (2008). He has since starred in the eighth season of the action series 24 in 2010 and played a brief role in Mission: Impossible – Ghost Protocol (2011). In Indian television, he has starred in the remakes 24 (2013–2016) and The Night Manager (2023).</p>",
+        "related": ["anil-kapoor-family"]
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 304.47692263655847,
+            "ascendant": 11
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 233.7240378803341,
+                "cusp_degree": 23.724037880334095,
+                "motion_speed": 0.22229284797403773,
+                "zodiac": 8,
+                "house": 10,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 248.34568231122404,
+                "cusp_degree": 8.345682311224039,
+                "motion_speed": 1.0188998197893586,
+                "zodiac": 9,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 171.75708715690953,
+                "cusp_degree": 21.757087156909535,
+                "motion_speed": 13.709024813920374,
+                "zodiac": 6,
+                "house": 8,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 205.85171721646694,
+                "cusp_degree": 25.851717216466938,
+                "motion_speed": 1.1786296758225043,
+                "zodiac": 7,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 231.35532084451927,
+                "cusp_degree": 21.35532084451927,
+                "motion_speed": 0.7237587462530854,
+                "zodiac": 8,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 230.3225332873852,
+                "cusp_degree": 20.3225332873852,
+                "motion_speed": 1.4135845347118858,
+                "zodiac": 8,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 255.24022841470295,
+                "cusp_degree": 15.240228414702955,
+                "motion_speed": 0.11755532559682512,
+                "zodiac": 9,
+                "house": 11,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 155.78431403373443,
+                "cusp_degree": 5.784314033734432,
+                "motion_speed": -0.014179383499178185,
+                "zodiac": 6,
+                "house": 8,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 155.839752475643,
+                "cusp_degree": 5.839752475642996,
+                "motion_speed": -0.05299201006803358,
+                "zodiac": 6,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 335.83975247564297,
+                "motion_speed": -0.05299201006803358,
+                "cusp_degree": 5.8397524756429675,
+                "zodiac": 12,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 335.7843140337344,
+                "motion_speed": -0.014179383499178185,
+                "cusp_degree": 5.784314033734404,
+                "zodiac": 12,
+                "house": 2,
+                "motion": "R"
+            }
+        }
+    }
+}

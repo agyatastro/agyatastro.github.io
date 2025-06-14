@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Tusshar Kapoor",
+        "title": "Actor, Producer",
+        "year": 1976,
+        "month": 11,
+        "day": 20,
+        "hour": 15,
+        "minute": 20,
+        "second": 0,
+        "latitude": 19.07283,
+        "longitude": 72.88261,
+        "location": "Mumbai",
+        "agyat_rating": "AA",
+        "about": "<p>Tusshar Kapoor (born 20 November 1976) is an Indian actor and producer working in Hindi films.</p><p>Tusshar Kapoor is the son of actors Jeetendra and Shobha Kapoor. His elder sister, Ekta Kapoor is a television and film producer. He attended the Bombay Scottish School where he was in the same class as Abhishek Bachchan. He then studied at the University of Michigan in Ann Arbor for his BBA degree at the Stephen M. Ross School of Business.</p><p>Like his father, Tusshar Kapoor is a follower of Nichiren Buddhism. Kapoor is unmarried and opted for IVF to became a single parent to Laksshya Kapoor through surrogacy in June 2016.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 342.04137713375695,
+            "ascendant": 12
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 32.30784226552185,
+                "cusp_degree": 2.307842265521849,
+                "motion_speed": -0.13627641384155478,
+                "zodiac": 2,
+                "house": 3,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 214.65737429329818,
+                "cusp_degree": 4.657374293298176,
+                "motion_speed": 1.010155939161136,
+                "zodiac": 8,
+                "house": 9,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 197.10909730823843,
+                "cusp_degree": 17.109097308238432,
+                "motion_speed": 15.14281244443094,
+                "zodiac": 7,
+                "house": 8,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 253.63001063318063,
+                "cusp_degree": 13.630010633180632,
+                "motion_speed": 1.2026486140931076,
+                "zodiac": 9,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 216.0344715917148,
+                "cusp_degree": 6.034471591714805,
+                "motion_speed": 0.7136502555105684,
+                "zodiac": 8,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 222.06961663323247,
+                "cusp_degree": 12.06961663323247,
+                "motion_speed": 1.5504632810255004,
+                "zodiac": 8,
+                "house": 9,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 113.29019078353396,
+                "cusp_degree": 23.29019078353396,
+                "motion_speed": 0.01388742132734784,
+                "zodiac": 4,
+                "house": 5,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 189.92209963774238,
+                "cusp_degree": 9.922099637742377,
+                "motion_speed": -0.010002183968658323,
+                "zodiac": 7,
+                "house": 8,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 188.55168647864343,
+                "cusp_degree": 8.551686478643433,
+                "motion_speed": -0.052992026853756244,
+                "zodiac": 7,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 8.551686478643433,
+                "motion_speed": -0.052992026853756244,
+                "cusp_degree": 8.551686478643433,
+                "zodiac": 1,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 9.922099637742349,
+                "motion_speed": -0.010002183968658323,
+                "cusp_degree": 9.922099637742349,
+                "zodiac": 1,
+                "house": 2,
+                "motion": "R"
+            }
+        }
+    }
+}

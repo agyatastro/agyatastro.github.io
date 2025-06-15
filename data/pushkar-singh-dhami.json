@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Pushkar Singh Dhami",
+        "title": "Politician",
+        "year": 1975,
+        "month": 9,
+        "day": 16,
+        "hour": 13,
+        "minute": 30,
+        "second": 0,
+        "latitude": 29.58349,
+        "longitude": 80.20947,
+        "location": "Pithoragarh, Uttarakhand",
+        "agyat_rating": "AA",
+        "about": "Pushkar Singh Dhami (born 16 September 1975) is an Indian politician and a member of the Bharatiya Janata Party, serving as the 10th and the current Chief Minister of Uttarakhand since 2021. He represents the Champawat Assembly constituency in the Uttarakhand Legislative Assembly since 2022 and previously from Khatima from 2012 to 2022. He lost his seat in 2022 elections, but was re-elected as Chief Minister by BJP MLAs. He is the only Chief Minister of the state to assume a second consecutive term as CM, since its creation"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 241.97281764408888,
+            "ascendant": 9
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 359.4889897980264,
+                "cusp_degree": 29.48898979802641,
+                "motion_speed": -0.09952989933635234,
+                "zodiac": 12,
+                "house": 4,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 149.30502517311803,
+                "cusp_degree": 29.305025173118025,
+                "motion_speed": 0.9746604517220258,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 283.4722611482046,
+                "cusp_degree": 13.472261148204609,
+                "motion_speed": 12.139030177661578,
+                "zodiac": 10,
+                "house": 2,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 121.96755837502499,
+                "cusp_degree": 1.9675583750249928,
+                "motion_speed": -0.06980830081305851,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "R"
+            },
+            "Mars": {
+                "degree": 54.63167954193377,
+                "cusp_degree": 24.63167954193377,
+                "motion_speed": 0.48699124258941034,
+                "zodiac": 2,
+                "house": 6,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 175.8021424466482,
+                "cusp_degree": 25.80214244664819,
+                "motion_speed": 0.8474403679963707,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 96.39438326429574,
+                "cusp_degree": 6.39438326429574,
+                "motion_speed": 0.09483936602449565,
+                "zodiac": 4,
+                "house": 8,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 210.45289665605483,
+                "cusp_degree": 0.45289665605483265,
+                "motion_speed": -0.13746573934464737,
+                "zodiac": 8,
+                "house": 12,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 211.3953026290217,
+                "cusp_degree": 1.3953026290216997,
+                "motion_speed": -0.05299201151238673,
+                "zodiac": 8,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 31.39530262902167,
+                "motion_speed": -0.05299201151238673,
+                "cusp_degree": 1.3953026290216712,
+                "zodiac": 2,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 30.452896656054804,
+                "motion_speed": -0.13746573934464737,
+                "cusp_degree": 0.4528966560548042,
+                "zodiac": 2,
+                "house": 6,
+                "motion": "R"
+            }
+        }
+    }
+}

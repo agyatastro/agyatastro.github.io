@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Kamala Harris",
+        "title": "Politician, Vice President, Attorney",
+        "year": 1964,
+        "month": 10,
+        "day": 20,
+        "hour": 21,
+        "minute": 28,
+        "second": 0,
+        "latitude": 37.80437,
+        "longitude": -122.2708,
+        "location": "Oakland",
+        "agyat_rating": "AA",
+        "about": "<p>Kamala Devi Harris (/ˈkɑːmələ ˈdeɪvi/ KAH-mə-lə DAY-vee; born October 20, 1964) is an American politician and attorney who served as the 49th vice president of the United States from 2021 to 2025 under President Joe Biden. She is the first female, first African American, and first Asian American U.S. vice president, and the highest-ranking female and Asian American official in U.S. history. Harris represented California in the U.S. senate from 2017 to 2021 and was the attorney general of California from 2011 to 2017. A member of the Democratic Party, she was the party's nominee in the 2024 presidential election.</p><p>Born in Oakland, California, Harris graduated from Howard University and the University of California, Hastings College of the Law. She began her law career in the office of the district attorney of Alameda County. Harris was recruited to the San Francisco District Attorney's Office and later to the office of the city attorney of San Francisco. She was elected district attorney of San Francisco in 2003 and attorney general of California in 2010, and reelected as attorney general in 2014.</p><p>Harris was the junior U.S. senator from California from 2017 to 2021 after winning the 2016 Senate election. She was the second Black woman and first South Asian American U.S. senator. As a senator, Harris advocated for stricter gun control laws, the DREAM Act, federal legalization of cannabis, and reforms to healthcare and taxation. She gained a national profile while asking pointed questions of officials from the first presidency of Republican president Donald Trump during Senate hearings, including his second U.S. Supreme Court nominee, Brett Kavanaugh.</p><p>Harris sought the 2020 Democratic presidential nomination in 2019, but withdrew from the race before the primaries. Biden selected her as his running mate; their ticket defeated the incumbent president and vice president, Trump and Mike Pence, in the 2020 presidential election. When her vice presidency began, Harris presided over an evenly split U.S. Senate. She cast 33 tie-breaking votes, more than any other vice president, including votes to pass the American Rescue Plan Act of 2021 and the Inflation Reduction Act.</p><p>In July 2024, after Biden withdrew his candidacy from the 2024 presidential election, Harris launched her own presidential campaign with his endorsement. She later became the nominee and selected Minnesota governor Tim Walz as her running mate. She ultimately lost the election to the Republican nominees, former president Trump and Ohio senator JD Vance.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 73.34938826743675,
+            "ascendant": 3
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 30.640443151003307,
+                "cusp_degree": 0.6404431510033071,
+                "motion_speed": -0.10985778188645336,
+                "zodiac": 2,
+                "house": 12,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 184.4841957060761,
+                "cusp_degree": 4.484195706076093,
+                "motion_speed": 0.9944966055648694,
+                "zodiac": 7,
+                "house": 5,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 4.822204217164087,
+                "cusp_degree": 4.822204217164087,
+                "motion_speed": 14.31199275415206,
+                "zodiac": 1,
+                "house": 11,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 144.578559506456,
+                "cusp_degree": 24.578559506456003,
+                "motion_speed": 1.1781556115606755,
+                "zodiac": 5,
+                "house": 3,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 117.95519070752803,
+                "cusp_degree": 27.955190707528033,
+                "motion_speed": 0.5620554256389017,
+                "zodiac": 4,
+                "house": 2,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 188.1590878812367,
+                "cusp_degree": 8.159087881236701,
+                "motion_speed": 1.639547732474933,
+                "zodiac": 7,
+                "house": 5,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 305.09854868572233,
+                "cusp_degree": 5.098548685722335,
+                "motion_speed": -0.019761872704881157,
+                "zodiac": 11,
+                "house": 9,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 61.14443581157456,
+                "cusp_degree": 1.14443581157456,
+                "motion_speed": -0.14288707339322174,
+                "zodiac": 3,
+                "house": 1,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 62.414622780249914,
+                "cusp_degree": 2.414622780249914,
+                "motion_speed": -0.0529920053618884,
+                "zodiac": 3,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 242.4146227802499,
+                "motion_speed": -0.0529920053618884,
+                "cusp_degree": 2.414622780249914,
+                "zodiac": 9,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 241.14443581157457,
+                "motion_speed": -0.14288707339322174,
+                "cusp_degree": 1.1444358115745672,
+                "zodiac": 9,
+                "house": 7,
+                "motion": "R"
+            }
+        }
+    }
+}

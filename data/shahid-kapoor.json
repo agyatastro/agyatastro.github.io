@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Shahid Kapoor",
+        "title": "Actor",
+        "year": 1981,
+        "month": 2,
+        "day": 25,
+        "hour": 16,
+        "minute": 30,
+        "second": 0,
+        "latitude": 19.07283,
+        "longitude": 72.88261,
+        "location": "Mumbai",
+        "agyat_rating": "AU",
+        "about": "<p>Shahid Kapoor (pronounced [ʃaːɦɪd̪ kəˈpuːr]; born 25 February 1981) is an Indian actor who appears in Hindi films. Initially recognised for portraying romantic roles, he has since taken on parts in action films and thrillers, and is the recipient of several awards, including three Filmfare Awards.</p><p>The son of actors Pankaj Kapur and Neelima Azeem, Kapoor trained as a dancer at Shiamak Davar's academy. He appeared as a background dancer in a few films of the 1990s, and featured in music videos and television commercials. He made his film debut in 2003 with a leading role in the romantic comedy Ishq Vishk, a sleeper hit for which he won the Filmfare Award for Best Male Debut. He followed it with roles in several commercial failures before starring in Sooraj Barjatya's top-grossing family drama Vivah (2006).</p><p>Kapoor earned praise for playing a troubled businessman in Imtiaz Ali's romantic comedy Jab We Met (2007) and twin brothers in Vishal Bhardwaj's action film Kaminey (2009). Further acclaim came for portraying the Hamlet character in Bhardwaj's tragedy Haider (2014) and a drug abusing singer in the crime drama Udta Punjab (2016). For the former, he won the Filmfare Award for Best Actor and for the latter, he won the Filmfare Critics Award for Best Actor. Kapoor's highest-grossing releases came with the period drama Padmaavat (2018) and the romantic drama Kabir Singh (2019). He has since starred in the crime drama series Farzi (2023) and the romantic comedy Teri Baaton Mein Aisa Uljha Jiya (2024).</p><p>In addition to acting, Kapoor supports charities, hosts award ceremonies, and has featured as a talent judge on the dance reality show Jhalak Dikhhla Jaa Reloaded (2015). He is married to Mira Rajput, with whom he has two children.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 98.77599740379401,
+            "ascendant": 4
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 165.25954171034587,
+                "cusp_degree": 15.259541710345871,
+                "motion_speed": -0.09284092871039767,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 313.1529240931621,
+                "cusp_degree": 13.152924093162085,
+                "motion_speed": 1.0052678494935343,
+                "zodiac": 11,
+                "house": 8,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 205.5754045220702,
+                "cusp_degree": 25.575404522070187,
+                "motion_speed": 11.87381557323089,
+                "zodiac": 7,
+                "house": 4,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 302.90251026151026,
+                "cusp_degree": 2.9025102615102583,
+                "motion_speed": 1.2491020639613646,
+                "zodiac": 11,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 321.0066103669085,
+                "cusp_degree": 21.00661036690849,
+                "motion_speed": 0.7869846453720876,
+                "zodiac": 11,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 297.6173338796906,
+                "cusp_degree": 27.61733387969059,
+                "motion_speed": -0.5701977568179377,
+                "zodiac": 10,
+                "house": 7,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 164.98744195348075,
+                "cusp_degree": 14.987441953480754,
+                "motion_speed": -0.05992035980221732,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 106.96779947709186,
+                "cusp_degree": 16.96779947709186,
+                "motion_speed": -0.033409294464426656,
+                "zodiac": 4,
+                "house": 1,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 105.98752066313999,
+                "cusp_degree": 15.987520663139989,
+                "motion_speed": -0.052992072368976066,
+                "zodiac": 4,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 285.98752066314,
+                "motion_speed": -0.052992072368976066,
+                "cusp_degree": 15.987520663140003,
+                "zodiac": 10,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 286.96779947709183,
+                "motion_speed": -0.033409294464426656,
+                "cusp_degree": 16.96779947709183,
+                "zodiac": 10,
+                "house": 7,
+                "motion": "R"
+            }
+        }
+    }
+}

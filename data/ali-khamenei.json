@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Ali Khamenei",
+        "title": "Supreme Leader of Iran, Politician",
+        "year": 1939,
+        "month": 4,
+        "day": 19,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 36.29807,
+        "longitude": 59.60567,
+        "location": "Mashhad, IRAN",
+        "agyat_rating": "AX",
+        "about": "<p>Ali Hosseini Khamenei (Persian: علی حسینی خامنه‌ای; born 19 April 1939) is an Iranian cleric and politician who has served as the second supreme leader of Iran since 1989. He previously served as the third president from 1981 to 1989. Khamenei's tenure as Supreme Leader, spanning over 35 years, makes him the longest-serving head of state in the Middle East and the second-longest-serving Iranian leader of the 20th and 21st centuries, after Shah Mohammad Reza Pahlavi. A Grand Ayatollah and marja, he is often associated with leading the Axis of Resistance, a term used to describe a coalition of Iran-aligned groups in the Middle East.</p><p>According to his official website, Khamenei was arrested six times before being exiled for three years during the reign of Mohammad Reza Pahlavi. In June 1981, after the Iranian revolution and the overthrow of the shah, he was the target of an attempted assassination that paralysed his right arm. Khamenei was one of Iran's leaders during the Iran–Iraq War in the 1980s, and developed close ties with the Iranian Revolutionary Guards, which he controls, and whose commanders are elected and dismissed by him. The Revolutionary Guards have been deployed to suppress opposition to the Islamic Republic of Iran. Khamenei served as the third president of Iran from 1981 to 1989, while becoming a close ally of the first supreme leader, Ruhollah Khomeini. Shortly before his death, Khomeini had a disagreement with his deputy – Hussein Ali Montazeri – and there was quandary for choosing a successor when Khomeini died. The Assembly of Experts elected Khamenei as the next supreme leader on 4 June 1989, at age 50. According to Akbar Hashemi Rafsanjani, Khamenei was the man Khomeini had endorsed as his successor. Khamenei has been head of the servants of Astan Quds Razavi since 14 April 1979.</p><p>As supreme leader, Khamenei is the most powerful political authority in the Islamic Republic of Iran. He is the head of state of Iran, the commander-in-chief of its armed forces, and can issue decrees and make the final decisions on the main policies of the government in economy, the environment, foreign policy, and national planning in Iran. As supreme leader, Khamenei has either direct or indirect control over the executive, legislative, and judicial branches of government, as well as the military and media. All candidates for the Assembly of Experts, the presidency and the Majlis (Parliament) are vetted by the Guardian Council, whose members are selected directly or indirectly by the Supreme Leader of Iran. There have also been instances when the Guardian Council reversed its ban on particular people after being ordered to do so by Khamenei.</p><p>There have been major protests during Khamenei's reign, including the 1994 Qazvin protests, the 1999 student protests, the 2009 presidential election protests, the 2011–2012 protests, the 2017–2018 protests, the 2018–2019 general strikes and protests, the 2019–2020 protests, the 2021–2022 protests, and the Mahsa Amini protests. Journalists, bloggers, and others have been imprisoned in Iran for insulting Khamenei, often in conjunction with blasphemy charges. Their sentences have included lashing and jail time; some have died in custody. Regarding the nuclear program of Iran, Khamenei issued a fatwa in 2003 forbidding the production, stockpiling and use of all kinds of weapons of mass destruction.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 111.76652233823549,
+            "ascendant": 4
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 332.3318208864994,
+                "cusp_degree": 2.331820886499372,
+                "motion_speed": 0.221638861700645,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 5.386874747865543,
+                "cusp_degree": 5.386874747865543,
+                "motion_speed": 0.9771087878433176,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 1.4018499860525855,
+                "cusp_degree": 1.4018499860525855,
+                "motion_speed": 12.875616826350983,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 329.5289492813185,
+                "cusp_degree": 29.52894928131849,
+                "motion_speed": 1.1927944436545859,
+                "zodiac": 11,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 262.35860933587077,
+                "cusp_degree": 22.358609335870767,
+                "motion_speed": 0.49073779541644325,
+                "zodiac": 9,
+                "house": 6,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 342.85008036347693,
+                "cusp_degree": 12.850080363476934,
+                "motion_speed": 0.20023656089383396,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 358.95462345039465,
+                "cusp_degree": 28.95462345039465,
+                "motion_speed": 0.1260013022431129,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 195.37439403614601,
+                "cusp_degree": 15.374394036146015,
+                "motion_speed": -0.009375057320100374,
+                "zodiac": 7,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 196.13453250439215,
+                "cusp_degree": 16.134532504392155,
+                "motion_speed": -0.05299212937057118,
+                "zodiac": 7,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 16.134532504392155,
+                "motion_speed": -0.05299212937057118,
+                "cusp_degree": 16.134532504392155,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 15.374394036145986,
+                "motion_speed": -0.009375057320100374,
+                "cusp_degree": 15.374394036145986,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "R"
+            }
+        }
+    }
+}

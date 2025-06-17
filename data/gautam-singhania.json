@@ -1,0 +1,114 @@
+{
+    "request": {
+        "name": "Gautam Singhania",
+        "title": "Businessperson",
+        "year": 1965,
+        "month": 9,
+        "day": 9,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 19.07283,
+        "longitude": 72.88261,
+        "location": "Mumbai",
+        "agyat_rating": "AX",
+        "about": "Gautam Hari Singhania (born 9 September 1965) is an Indian billionaire industrialist. He is the chairman and managing director of the Raymond Group, the world's largest producer of suiting fabric.",
+        "related": ["raymond-family"]
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 214.63219870075716,
+            "ascendant": 8
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 65.37088031695319,
+                "cusp_degree": 5.3708803169531905,
+                "motion_speed": 0.1202400135287251,
+                "zodiac": 3,
+                "house": 8,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 142.97484907355985,
+                "cusp_degree": 22.974849073559852,
+                "motion_speed": 0.9712931522735235,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 303.7095959367629,
+                "cusp_degree": 3.7095959367629234,
+                "motion_speed": 12.023319372756408,
+                "zodiac": 11,
+                "house": 4,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 181.24398082093705,
+                "cusp_degree": 1.243980820937054,
+                "motion_speed": 1.179776378088012,
+                "zodiac": 7,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 199.45013204707783,
+                "cusp_degree": 19.45013204707783,
+                "motion_speed": 0.6664957580451678,
+                "zodiac": 7,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 127.49386113554556,
+                "cusp_degree": 7.493861135545558,
+                "motion_speed": 1.6307761061760067,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 320.24902463027524,
+                "cusp_degree": 20.249024630275244,
+                "motion_speed": -0.07642137743097893,
+                "zodiac": 11,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 45.256102244037436,
+                "cusp_degree": 15.256102244037436,
+                "motion_speed": -0.21648503116284917,
+                "zodiac": 2,
+                "house": 7,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 45.29649871943838,
+                "cusp_degree": 15.296498719438382,
+                "motion_speed": -0.052992037694187616,
+                "zodiac": 2,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 225.29649871943838,
+                "motion_speed": -0.052992037694187616,
+                "cusp_degree": 15.296498719438375,
+                "zodiac": 8,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 225.25610224403744,
+                "motion_speed": -0.21648503116284917,
+                "cusp_degree": 15.256102244037436,
+                "zodiac": 8,
+                "house": 1,
+                "motion": "R"
+            }
+        }
+    }
+}

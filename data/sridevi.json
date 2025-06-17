@@ -1,0 +1,115 @@
+{
+    "request": {
+        "name": "Sridevi",
+        "title": "Actor",
+        "year": 1963,
+        "month": 8,
+        "day": 13,
+        "hour": 5,
+        "minute": 13,
+        "second": 0,
+        "latitude": 13.08784,
+        "longitude": 80.27847,
+        "location": "Chennai",
+        "agyat_rating": "AA",
+        "about": "<p>Sridevi Kapoor (née Shree Amma Yanger Ayyapan; 13 August 1963 – 24 February 2018), known mononymously as Sridevi, was an Indian actress who worked in Telugu, Tamil, Hindi, Malayalam, and Kannada language films.[6][7] She is regarded as one of the greatest stars of Indian cinema.[8][9][10][11] Cited as the \"first female superstar\" of Indian cinema,[6][7] she was the recipient of various accolades, including a National Film Award, five Filmfare Awards (a Filmfare Lifetime Achievement Award, two Filmfare Awards and two Filmfare Awards South), two Tamil Nadu State Film Awards, a Kerala State Film Award, and a Nandi Award.[12] Sridevi's career spanned over 50 years in a wide range of genres. She was known for her reticent and introverted off-screen personality, but headstrong and outspoken on-screen persona, often playing strong-willed women.[13][14] In 2013, Sridevi was honoured with the Padma Shri, the country's fourth highest civilian honour.</p><p>Sridevi made her debut as a child in the 1967 Tamil film Kandhan Karunai at the age of four,[15] and began playing lead roles as a child in M. A. Thirumugam's 1969 mythological Tamil film Thunaivan. Her first role as an on-screen adult came in 1976 at age 13, in the Tamil film Moondru Mudichu. She soon established herself as a leading female star of South Indian Cinema, with roles in such films as 16 Vayathinile (1977), Sigappu Rojakkal (1978), Padaharella Vayasu (1978), Varumayin Niram Sivappu (1980), Meendum Kokila (1981), Premabhishekam (1981), Vazhvey Maayam (1982), Moondram Pirai (1982), Aakhari Poratam (1988), Jagadeka Veerudu Athiloka Sundari (1990) and Kshana Kshanam (1991).</p><p>Sridevi's first starring role in Hindi cinema came with the drama film Solva Sawan (1979), and she received wider recognition for the action film Himmatwala (1983). She emerged a leading Hindi film star with several successes, including Mawaali (1983), Justice Chaudhury (1983), Tohfa (1984), Maqsad (1984), Masterji (1985), Karma (1986), Mr. India (1987), Waqt Ki Awaz (1988) and Chandni (1989). She received praise for her performances in Sadma (1983), Nagina (1986), ChaalBaaz (1989), Lamhe (1991), Khuda Gawah (1992), Gumrah (1993), Laadla (1994), and Judaai (1997). Following a hiatus, she played the title role in the television sitcom Malini Iyer (2004–2005). Sridevi returned to film acting with the comedy-drama English Vinglish (2012) and had her 300th and final film role in the crime thriller Mom (2017). She earned acclaim for both performances, and for the latter was posthumously awarded the National Film Award for Best Actress.</p><p>On 24 February 2018, she was found dead in her guest room at the Jumeirah Emirates Towers Hotel in Dubai, United Arab Emirates, with the cause cited as accidental drowning.[16] News of her death featured prominently in Indian and international media. She was married to film producer Boney Kapoor, with whom she had two daughters, actresses Janhvi and Khushi Kapoor.</p>",
+        "related": ["anil-kapoor-family"],
+        "dod": "24/02/2018"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 100.14487482724195,
+            "ascendant": 4
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 356.1196683973339,
+                "cusp_degree": 26.119668397333896,
+                "motion_speed": -0.011062438305262288,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 116.16754228500946,
+                "cusp_degree": 26.16754228500946,
+                "motion_speed": 0.9599278134572549,
+                "zodiac": 4,
+                "house": 1,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 35.525712776766575,
+                "cusp_degree": 5.525712776766575,
+                "motion_speed": 14.14417538960255,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 111.48008256660445,
+                "cusp_degree": 21.48008256660445,
+                "motion_speed": 1.2346827630405353,
+                "zodiac": 4,
+                "house": 1,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 166.98728524990605,
+                "cusp_degree": 16.98728524990605,
+                "motion_speed": 0.6266996272330897,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 141.0381670371865,
+                "cusp_degree": 21.038167037186497,
+                "motion_speed": 1.364299518134987,
+                "zodiac": 5,
+                "house": 2,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 296.43417347012917,
+                "cusp_degree": 26.434173470129167,
+                "motion_speed": -0.07497584683141709,
+                "zodiac": 10,
+                "house": 7,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 86.78458025231639,
+                "cusp_degree": 26.78458025231639,
+                "motion_speed": 0.012262233524425173,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 85.47944839322949,
+                "cusp_degree": 25.47944839322949,
+                "motion_speed": -0.052992039699969865,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 265.4794483932295,
+                "motion_speed": -0.052992039699969865,
+                "cusp_degree": 25.479448393229518,
+                "zodiac": 9,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 266.7845802523164,
+                "motion_speed": 0.012262233524425173,
+                "cusp_degree": 26.784580252316402,
+                "zodiac": 9,
+                "house": 6,
+                "motion": "R"
+            }
+        }
+    }
+}

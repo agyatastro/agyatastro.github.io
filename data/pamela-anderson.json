@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Pamela Anderson",
+        "title": "Actor",
+        "year": 1967,
+        "month": 7,
+        "day": 1,
+        "hour": 4,
+        "minute": 8,
+        "second": 0,
+        "latitude": 48.99016,
+        "longitude": -123.81699,
+        "location": "Ladysmith, Canada",
+        "agyat_rating": "AA",
+        "about": "<p>Pamela Denise Anderson (born July 1, 1967)[2][3][4] is a Canadian-American actress, model and media personality. She rose to prominence after being selected as the February 1990 Playboy Playmate of the Month. She went on to make regular appearances on the magazine's cover and held the record for the most Playboy covers by any individual.[5] Anderson began her acting career on the ABC sitcom Home Improvement (1991–1993, 1997), before receiving international recognition for starring as \"C.J.\" Parker in the drama series Baywatch (1992–1997), which further cemented her status as a sex symbol.</p><p>In 1995, personal home videos of Anderson with her then-husband Tommy Lee were stolen and sold as a sex tape, which resulted in a legal fight and made her the subject of controversy.[7] Anderson starred as Vallery Irons in the syndicated series V.I.P. (1998–2002) and as Skyler Dayton in the Fox sitcom Stacked (2005–2006). Her film credits include Barb Wire (1996), Scary Movie 3 (2003), Borat (2006), Baywatch (2017), and City Hunter (2018). She starred in her own reality series Pam: Girl on the Loose (2008) and appeared as a contestant on the Dancing with the Stars franchise (2010–2012, 2018).</p><p>Anderson saw a career resurgence in the 2020s after her 2022 Broadway debut portraying Roxie Hart in the long-running musical Chicago, the 2023 Netflix documentary Pamela, a Love Story (which coincided with the release of her autobiography, Love, Pamela), and the 2024 indie-drama film The Last Showgirl, the latter of which earned her nominations for the Golden Globe Award and the Screen Actors Guild Award for Best Actress.</p><p>Anderson has publicly supported various charitable causes (particularly animal rights and PETA),[9] and endorses plant-based cooking. She serves as the host for Flavour Network's plant-based cooking show, Pamela's Cooking with Love (2025–present).[10] In addition, her plant-based cookbook I Love You: Recipes from the Heart was nominated for a 2025 James Beard Award.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 75.47243135925642,
+            "ascendant": 3
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 103.88522756317995,
+                "cusp_degree": 13.885227563179953,
+                "motion_speed": 0.20609430837252615,
+                "zodiac": 4,
+                "house": 2,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 75.57730552876778,
+                "cusp_degree": 15.57730552876778,
+                "motion_speed": 0.9535322784684445,
+                "zodiac": 3,
+                "house": 1,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 4.446535401532301,
+                "cusp_degree": 4.446535401532301,
+                "motion_speed": 11.824818261415894,
+                "zodiac": 1,
+                "house": 11,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 120.51683536256485,
+                "cusp_degree": 0.5168353625648479,
+                "motion_speed": 0.8630135779828824,
+                "zodiac": 5,
+                "house": 3,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 178.81453877925819,
+                "cusp_degree": 28.814538779258186,
+                "motion_speed": 0.3630230125894012,
+                "zodiac": 6,
+                "house": 4,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 87.57490206505723,
+                "cusp_degree": 27.57490206505723,
+                "motion_speed": -0.37348469952960683,
+                "zodiac": 3,
+                "house": 1,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 348.5891458387006,
+                "cusp_degree": 18.589145838700574,
+                "motion_speed": 0.039490839842096975,
+                "zodiac": 12,
+                "house": 10,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 11.457109384213183,
+                "cusp_degree": 11.457109384213183,
+                "motion_speed": 0.008309420615678752,
+                "zodiac": 1,
+                "house": 11,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 10.308021787454983,
+                "cusp_degree": 10.308021787454983,
+                "motion_speed": -0.052992069020618406,
+                "zodiac": 1,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 190.30802178745498,
+                "motion_speed": -0.052992069020618406,
+                "cusp_degree": 10.308021787454976,
+                "zodiac": 7,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 191.4571093842132,
+                "motion_speed": 0.008309420615678752,
+                "cusp_degree": 11.457109384213197,
+                "zodiac": 7,
+                "house": 5,
+                "motion": "R"
+            }
+        }
+    }
+}

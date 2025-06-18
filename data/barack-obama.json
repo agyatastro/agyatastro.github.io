@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Barack Obama",
+        "title": "Politician, President",
+        "year": 1961,
+        "month": 8,
+        "day": 4,
+        "hour": 19,
+        "minute": 24,
+        "second": 0,
+        "latitude": 21.30694,
+        "longitude": -157.85833,
+        "location": "Honolulu",
+        "agyat_rating": "AA",
+        "about": "<p>Barack Hussein Obama II (born August 4, 1961) is an American politician who was the 44th president of the United States from 2009 to 2017. A member of the Democratic Party, he was the first African American president in American history. Obama previously served as a U.S. senator representing Illinois from 2005 to 2008 and as an Illinois state senator from 1997 to 2004.</p><p>Born in Honolulu, Hawaii, Obama graduated from Columbia University in 1983 with a Bachelor of Arts degree in political science and later worked as a community organizer in Chicago. In 1988, Obama enrolled in Harvard Law School, where he was the first black president of the Harvard Law Review. He became a civil rights attorney and an academic, teaching constitutional law at the University of Chicago Law School from 1992 to 2004. In 1996, Obama was elected to represent the 13th district in the Illinois Senate, a position he held until 2004, when he successfully ran for the U.S. Senate. In the 2008 presidential election, after a close primary campaign against Hillary Clinton, he was nominated by the Democratic Party for president. Obama selected Joe Biden as his running mate and defeated Republican nominee John McCain and his running mate Sarah Palin.</p><p>Obama was awarded the 2009 Nobel Peace Prize for efforts in international diplomacy, a decision which drew both criticism and praise. During his first term, his administration responded to the 2008 financial crisis with measures including the American Recovery and Reinvestment Act of 2009, a major stimulus package to guide the economy in recovering from the Great Recession; a partial extension of the Bush tax cuts; legislation to reform health care; and the Dodd–Frank Wall Street Reform and Consumer Protection Act, a major financial regulation reform bill. Obama also appointed Supreme Court justices Sonia Sotomayor and Elena Kagan, the former being the first Hispanic American on the Supreme Court. He oversaw the end of the Iraq War and ordered Operation Neptune Spear, the raid that killed Osama bin Laden, who was responsible for the September 11 attacks. Obama downplayed Bush's counterinsurgency model, expanding air strikes and making extensive use of special forces, while encouraging greater reliance on host-government militaries. He also ordered the 2011 military intervention in Libya to implement United Nations Security Council Resolution 1973, contributing to the overthrow of Muammar Gaddafi.</p><p>Obama defeated Republican opponent Mitt Romney and his running mate Paul Ryan in the 2012 presidential election. In his second term, Obama advocated for gun control in the wake of the Sandy Hook Elementary School shooting, took steps to combat climate change, signing the Paris Agreement, a major international climate agreement, and an executive order to limit carbon emissions. Obama also presided over the implementation of the Affordable Care Act and other legislation passed in his first term. He initiated sanctions against Russia following the invasion in Ukraine and again after Russian interference in the 2016 U.S. elections, ordered military intervention in Iraq in response to gains made by ISIL following the 2011 withdrawal from Iraq, negotiated the Joint Comprehensive Plan of Action (a nuclear agreement with Iran), and normalized relations with Cuba. The number of American soldiers in Afghanistan decreased during Obama's second term, though U.S. soldiers remained in the country throughout the remainder of his presidency. Obama promoted inclusion for LGBT Americans, becoming the first sitting U.S. president to publicly support same-sex marriage.</p><p>Obama left office in 2017 with high approval ratings both within the United States and among foreign advisories. He continues to reside in Washington D.C. and remains politically active, campaigning for candidates in various American elections, including in Biden's successful presidential bid in the 2020 presidential election. Outside of politics, Obama has published three books: Dreams from My Father (1995), The Audacity of Hope (2006), and A Promised Land (2020). His presidential library began construction in the South Side of Chicago in 2021. Historians and political scientists rank Obama among the upper tier in historical rankings of U.S. presidents.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 304.17041146577174,
+            "ascendant": 11
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 277.53754843043174,
+                "cusp_degree": 7.537548430431741,
+                "motion_speed": -0.12439121555455877,
+                "zodiac": 10,
+                "house": 12,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 109.25056855878923,
+                "cusp_degree": 19.250568558789226,
+                "motion_speed": 0.9578960134774646,
+                "zodiac": 4,
+                "house": 6,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 40.31695650238992,
+                "cusp_degree": 10.316956502389921,
+                "motion_speed": 12.673754153026959,
+                "zodiac": 2,
+                "house": 4,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 68.49586378020011,
+                "cusp_degree": 8.49586378020011,
+                "motion_speed": 1.1339324066119139,
+                "zodiac": 3,
+                "house": 5,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 149.27191664739814,
+                "cusp_degree": 29.271916647398143,
+                "motion_speed": 0.6234285330899437,
+                "zodiac": 5,
+                "house": 7,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 99.05720661097082,
+                "cusp_degree": 9.057206610970823,
+                "motion_speed": 2.005246059104365,
+                "zodiac": 4,
+                "house": 6,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 272.0108887437196,
+                "cusp_degree": 2.0108887437195904,
+                "motion_speed": -0.0688247508485418,
+                "zodiac": 10,
+                "house": 12,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 123.98623166080901,
+                "cusp_degree": 3.986231660809011,
+                "motion_speed": -0.019950361662412174,
+                "zodiac": 5,
+                "house": 7,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 124.57304436880159,
+                "cusp_degree": 4.57304436880159,
+                "motion_speed": -0.05299204164890875,
+                "zodiac": 5,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 304.57304436880156,
+                "motion_speed": -0.05299204164890875,
+                "cusp_degree": 4.573044368801561,
+                "zodiac": 11,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 303.98623166080904,
+                "motion_speed": -0.019950361662412174,
+                "cusp_degree": 3.9862316608090396,
+                "zodiac": 11,
+                "house": 1,
+                "motion": "R"
+            }
+        }
+    }
+}

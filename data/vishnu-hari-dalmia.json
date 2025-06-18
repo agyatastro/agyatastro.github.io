@@ -1,0 +1,114 @@
+{
+    "request": {
+        "name": "Vishnu Hari Dalmia",
+        "title": "Businessperson",
+        "year": 1928,
+        "month": 1,
+        "day": 17,
+        "hour": 9,
+        "minute": 45,
+        "second": 0,
+        "latitude": 28.12559,
+        "longitude": 75.39797,
+        "location": "Chirawa",
+        "agyat_rating": "AA",
+        "about": "<p>Vishnu Hari Dalmia (6 May 1924 – 16 January 2019) was a noted Indian industrialist and a prominent member of Vishwa Hindu Parishad.</p><p>He was born into an Agarwal family and scion of Dalmia Group of industries and the eldest son of Jaidayal Dalmia. He was one of the senior members of Vishwa Hindu Parishad, served as various posts in organization as president, international president and was on the advisory board of VHP. He also played important role in Ram Janmabhoomi movement and was one of the co-accused in Babri Masjid demolition case. Dalmia Bros is managed by Vishnu Hari Dalmia's sons, Sanjay Dalmia and Anurag Dalmia, Dalmia Bharat Group that is managed by Gautam Dalmia and Puneet Dalmia, Orissa Cement, Renaissance Group and their subsidiaries.</p>",
+        "related": ["dalmia-family"]
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 307.8350349724141,
+            "ascendant": 11
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 336.1146828965694,
+                "cusp_degree": 6.114682896569377,
+                "motion_speed": 0.16817861547084956,
+                "zodiac": 12,
+                "house": 2,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 272.948785215401,
+                "cusp_degree": 2.948785215401017,
+                "motion_speed": 1.018457086342793,
+                "zodiac": 10,
+                "house": 12,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 207.58759054843833,
+                "cusp_degree": 27.587590548438328,
+                "motion_speed": 11.886342680842077,
+                "zodiac": 7,
+                "house": 9,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 232.8167834743683,
+                "cusp_degree": 22.816783474368293,
+                "motion_speed": 1.1997381495856214,
+                "zodiac": 8,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 245.73972757620913,
+                "cusp_degree": 5.739727576209134,
+                "motion_speed": 0.7336464873904213,
+                "zodiac": 9,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 278.15868187621504,
+                "cusp_degree": 8.158681876215041,
+                "motion_speed": 1.6918073603157913,
+                "zodiac": 10,
+                "house": 12,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 232.3542770145505,
+                "cusp_degree": 22.35427701455049,
+                "motion_speed": 0.09935425647787985,
+                "zodiac": 8,
+                "house": 10,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 55.31938184200108,
+                "cusp_degree": 25.31938184200108,
+                "motion_speed": 0.030495449864956628,
+                "zodiac": 2,
+                "house": 4,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 53.94233851994058,
+                "cusp_degree": 23.942338519940577,
+                "motion_speed": -0.05299200773900486,
+                "zodiac": 2,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 233.94233851994056,
+                "motion_speed": -0.05299200773900486,
+                "cusp_degree": 23.942338519940563,
+                "zodiac": 8,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 235.31938184200106,
+                "motion_speed": 0.030495449864956628,
+                "cusp_degree": 25.319381842001064,
+                "zodiac": 8,
+                "house": 10,
+                "motion": "R"
+            }
+        }
+    }
+}

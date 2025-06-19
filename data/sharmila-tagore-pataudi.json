@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Sharmila Tagore Pataudi",
+        "title": "Actor",
+        "year": 1944,
+        "month": 12,
+        "day": 8,
+        "hour": 23,
+        "minute": 45,
+        "second": 0,
+        "latitude": 26.46523,
+        "longitude": 80.34975,
+        "location": "Kanpur",
+        "agyat_rating": "AA",
+        "about": "<p>Sharmila Tagore (Bengali: [ʃɔɾˈmila ˈʈʰakuɾ]; born 8 December 1944) also known by her married name Begum Ayesha Sultana, is an Indian actress whose illustrious career spanned over six decades across Hindi and Bengali films. Widely recognized as one of the greatest actresses of Indian cinema, she is known for her ability to portray emotionally rich, layered and complex female characters across a wide range of genres. In the 1960s and 1970s, her unique fashion sense and modern style made her a trendsetter, significantly influencing contemporary Indian fashion. Tagore is a recipient of two National Film Awards, three Filmfare Awards. In recognition of her contributions to cinema, She was honoured with (Commander of Order of Arts and Letters) by Government of France in 1999 and Padma Bhushan, India's third highest civilian award, in 2013.</p><p>Born into the prominent Tagore family, one of the leading families of Calcutta and a key influence during the Bengali Renaissance, Tagore made her acting debut at age 14 with Satyajit Ray's acclaimed Bengali epic drama The World of Apu (1959). She went on to collaborate with Ray on numerous other films, including Devi (1960), Nayak (1966), Aranyer Din Ratri (1970), and Seemabaddha (1971), her other Bengali films over the time included Barnali (1963), Shes Anko (1963), Nirjan Saikate (1965), Amanush (1975), Anand Ashram (1977), and Kalankini Kankabati (1981);thus establishing herself as one of the most acclaimed actresses of Bengali cinema.</p><p>Tagore's career further expanded when she ventured into Hindi films with Shakti Samanta's romance Kashmir Ki Kali (1964). She established herself as one of the leading actresses of Hindi cinema with films like Waqt (1965), Anupama (1966), Devar (1966), An Evening in Paris (1967), Aamne Saamne (1967), Satyakam (1969), Aradhana (1969), Safar (1970), Amar Prem (1972), Daag (1973), Aa Gale Lag Jaa (1973), Avishkaar (1974), Chupke Chupke (1975), Mausam (1975), and Namkeen (1982). She won the Filmfare Award for Best Actress for Aradhana and the National Film Award for Best Actress for Mausam. This was followed by intermittent film appearances in the subsequent decades, including in Sunny(1984), Swati(1986), New Delhi Times (1986), Mira Nair's Mississippi Masala (1991) and Goutam Ghose's Abar Aranye (2002), which won her the National Film Award for Best Supporting Actress, Shubho Mahurat (2003), and in the Hindi films Aashik Awara (1993), Mann (1999), Viruddh (2005), Eklavya (2007) and Break Ke Baad (2010). Following a hiatus of 13 years, she made her film comeback with the drama Gulmohar (2023) followed by a critically acclaimed performance in Puratawn (2025).</p><p>Apart from acting, Tagore has also served as the chairperson of the Central Board of Film Certification from October 2004 to March 2011. In December 2005, she was chosen as a UNICEF Goodwill Ambassador. She was married to cricketer and the Nawab of Pataudi, Mansoor Ali Khan Pataudi, with whom she had three children—actors Saif and Soha, and jewellery designer Saba.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 135.32587054342665,
+            "ascendant": 5
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 152.59286522911316,
+                "cusp_degree": 2.5928652291131584,
+                "motion_speed": 0.1017018631744743,
+                "zodiac": 6,
+                "house": 2,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 233.45800206802716,
+                "cusp_degree": 23.458002068027156,
+                "motion_speed": 1.0161113428544353,
+                "zodiac": 8,
+                "house": 4,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 155.63212189833396,
+                "cusp_degree": 5.632121898333963,
+                "motion_speed": 11.853731496396906,
+                "zodiac": 6,
+                "house": 2,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 273.9840697241293,
+                "cusp_degree": 3.984069724129313,
+                "motion_speed": 1.1960338342323824,
+                "zodiac": 10,
+                "house": 6,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 226.30228891556285,
+                "cusp_degree": 16.302288915562855,
+                "motion_speed": 0.7234925827327187,
+                "zodiac": 8,
+                "house": 4,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 253.99205256810865,
+                "cusp_degree": 13.992052568108647,
+                "motion_speed": 0.7069536909010139,
+                "zodiac": 9,
+                "house": 5,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 75.8434703270244,
+                "cusp_degree": 15.843470327024406,
+                "motion_speed": -0.0728673456281683,
+                "zodiac": 3,
+                "house": 11,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 85.86435878833758,
+                "cusp_degree": 25.864358788337583,
+                "motion_speed": -0.027146609398050938,
+                "zodiac": 3,
+                "house": 11,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 86.95033680935846,
+                "cusp_degree": 26.95033680935846,
+                "motion_speed": -0.05299205770072122,
+                "zodiac": 3,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 266.9503368093585,
+                "motion_speed": -0.05299205770072122,
+                "cusp_degree": 26.950336809358475,
+                "zodiac": 9,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 265.8643587883376,
+                "motion_speed": -0.027146609398050938,
+                "cusp_degree": 25.864358788337597,
+                "zodiac": 9,
+                "house": 5,
+                "motion": "R"
+            }
+        }
+    }
+}

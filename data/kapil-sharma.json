@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Kapil Sharma",
+        "title": "Comic",
+        "year": 1981,
+        "month": 4,
+        "day": 2,
+        "hour": 9,
+        "minute": 45,
+        "second": 0,
+        "latitude": 31.62234,
+        "longitude": 74.87534,
+        "location": "Amritsar",
+        "agyat_rating": "AA",
+        "about": "<p>Kapil Sharma (born Kapil Punj; 2 April 1981) is an Indian stand-up comedian, television host, actor, dubbing artist, producer and singer. Sharma is the host on the stand-up comedy and talk show The Great Indian Kapil Show and The Kapil Sharma Show and has received five Indian Television Academy Awards.</p><p>Sharma won the stand-up comedy reality show, The Great Indian Laughter Challenge season 3 in 2007. He has hosted and produced television comedy shows such as Comedy Nights with Kapil and Family Time with Kapil. He has won seasons of the comedy show Comedy Circus along with various partners and in 2011 participated in the singing reality show Star Ya Rockstar, where he finished as the second runner-up.</p><p>Sharma made his film debut with Kis Kisko Pyaar Karoon (2015), which was a success. He went onto appear in Firangi (2017), and Zwigato (2023). Sharma lent his voice for the Hindi dub of The Angry Birds Movie 2 (2019). Kapil Sharma also does live stand-up comedy-stage shows</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 45.89402979518372,
+            "ascendant": 2
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 161.0066973990538,
+                "cusp_degree": 11.006697399053792,
+                "motion_speed": -0.1272849107411343,
+                "zodiac": 6,
+                "house": 5,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 348.7306710470758,
+                "cusp_degree": 18.730671047075816,
+                "motion_speed": 0.9864620387098963,
+                "zodiac": 12,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 311.8137886720847,
+                "cusp_degree": 11.813788672084684,
+                "motion_speed": 14.191957376287775,
+                "zodiac": 11,
+                "house": 10,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 347.3932216434611,
+                "cusp_degree": 17.393221643461118,
+                "motion_speed": 1.2415112690871388,
+                "zodiac": 12,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 348.8246224650688,
+                "cusp_degree": 18.824622465068785,
+                "motion_speed": 0.7685067060837883,
+                "zodiac": 12,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 326.3554158625464,
+                "cusp_degree": 26.35541586254641,
+                "motion_speed": 1.5390414980080003,
+                "zodiac": 11,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 162.37949546327368,
+                "cusp_degree": 12.379495463273685,
+                "motion_speed": -0.07751724436657435,
+                "zodiac": 6,
+                "house": 5,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 105.30222840110679,
+                "cusp_degree": 15.302228401106788,
+                "motion_speed": -0.06584061325585584,
+                "zodiac": 4,
+                "house": 3,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 104.0947115248395,
+                "cusp_degree": 14.094711524839497,
+                "motion_speed": -0.052992039246273034,
+                "zodiac": 4,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 284.0947115248395,
+                "motion_speed": -0.052992039246273034,
+                "cusp_degree": 14.09471152483951,
+                "zodiac": 10,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 285.3022284011068,
+                "motion_speed": -0.06584061325585584,
+                "cusp_degree": 15.302228401106788,
+                "zodiac": 10,
+                "house": 9,
+                "motion": "R"
+            }
+        }
+    }
+}

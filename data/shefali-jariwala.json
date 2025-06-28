@@ -1,0 +1,115 @@
+{
+    "request": {
+        "name": "Shefali Jariwala",
+        "title": "Actor",
+        "year": 1982,
+        "month": 11,
+        "day": 24,
+        "hour": 14,
+        "minute": 0,
+        "second": 0,
+        "latitude": 23.02579,
+        "longitude": 72.58727,
+        "location": "Ahmedabad",
+        "agyat_rating": "UX",
+        "about": "Shefali Jariwala (15 December 1982 – 27 June 2025) was an Indian actress and model who appeared in several Hindi music videos, reality shows and films. She is known for the music video Kaanta Laga. She participated in the dance reality shows Nach Baliye 5 and Nach Baliye 7 along with Parag Tyagi. In 2019, she participated in Bigg Boss 13. In 2018, she played the female lead in ALT Balaji's web series Baby Come Naa opposite Shreyas Talpade.",
+        "dod": "27/06/2025",
+        "feature": false
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 319.8206453648754,
+            "ascendant": 11
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 209.63085207653455,
+                "cusp_degree": 29.630852076534552,
+                "motion_speed": 0.21996348266760118,
+                "zodiac": 7,
+                "house": 9,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 218.10287985876133,
+                "cusp_degree": 8.102879858761327,
+                "motion_speed": 1.0110469119192014,
+                "zodiac": 8,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 313.74362031083956,
+                "cusp_degree": 13.74362031083956,
+                "motion_speed": 12.329466648383903,
+                "zodiac": 11,
+                "house": 1,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 223.13939580604347,
+                "cusp_degree": 13.139395806043467,
+                "motion_speed": 1.2560194122852473,
+                "zodiac": 8,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 264.08040291035536,
+                "cusp_degree": 24.08040291035536,
+                "motion_speed": 0.767557683939895,
+                "zodiac": 9,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 220.69358274531876,
+                "cusp_degree": 10.693582745318764,
+                "motion_speed": 1.5698923594750502,
+                "zodiac": 8,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 185.8400108691001,
+                "cusp_degree": 5.840010869100098,
+                "motion_speed": 0.10911980007446814,
+                "zodiac": 7,
+                "house": 9,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 71.13810123329213,
+                "cusp_degree": 11.138101233292133,
+                "motion_speed": -0.011848334505437834,
+                "zodiac": 3,
+                "house": 5,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 72.23711688955926,
+                "cusp_degree": 12.23711688955926,
+                "motion_speed": -0.05299203759671289,
+                "zodiac": 3,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 252.23711688955927,
+                "motion_speed": -0.05299203759671289,
+                "cusp_degree": 12.237116889559275,
+                "zodiac": 9,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 251.13810123329213,
+                "motion_speed": -0.011848334505437834,
+                "cusp_degree": 11.138101233292133,
+                "zodiac": 9,
+                "house": 11,
+                "motion": "R"
+            }
+        }
+    }
+}

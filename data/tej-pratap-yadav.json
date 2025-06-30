@@ -1,0 +1,114 @@
+{
+    "request": {
+        "name": "Tej Pratap Yadav",
+        "title": "Politician",
+        "year": 1986,
+        "month": 4,
+        "day": 9,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 25.59408,
+        "longitude": 85.13563,
+        "location": "Patna",
+        "agyat_rating": "AX",
+        "about": "<p>Tej Pratap Yadav (born 16 April 1988) is an Indian politician. He was cabinet minister of Environment, Forest and Climate Change in the Government of Bihar. He is the elder son of former Chief Ministers of Bihar, Lalu Prasad Yadav and Rabri Devi.He married Aishwarya Rai, the daughter of Chandrika Rai and granddaughter of Bihar's former Chief Minister, Daroga Prasad Rai. He has been accused by his wife of beating her, using drugs, and cross-dressing. One of his grievances against his wife, according to the Times of India report, is that \"she has not been able to adjust to his way of life.\"</p><p>On May 24, 2025, he publicly revealed his 12-year relationship with Anushka Yadav via Facebook. Yadav claimed that his account had been compromised, and the post was later removed. However, despite his 2018 marriage to Aishwarya Rai, which is still pending in the family court, it is thought that he has been with Anushka for the past 12 years and that the two are already married, based on a number of widely circulated photos and other sources.</p><p>In a post on X the next day, his father, Lalu Yadav, declared that he was expelled from his family and the party.</p>",
+        "related": ["lalu-yadav-family"]
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 89.63891760425112,
+            "ascendant": 3
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 317.33629666706946,
+                "cusp_degree": 17.336296667069462,
+                "motion_speed": 0.2138494922922488,
+                "zodiac": 11,
+                "house": 9,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 355.437980354595,
+                "cusp_degree": 25.437980354595027,
+                "motion_speed": 0.982732626135257,
+                "zodiac": 12,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 355.4362992759288,
+                "cusp_degree": 25.436299275928775,
+                "motion_speed": 12.263590471012115,
+                "zodiac": 12,
+                "house": 10,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 14.849303038611225,
+                "cusp_degree": 14.849303038611225,
+                "motion_speed": 1.2302031245384606,
+                "zodiac": 1,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 252.24970559874416,
+                "cusp_degree": 12.249705598744157,
+                "motion_speed": 0.468641834180051,
+                "zodiac": 9,
+                "house": 7,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 328.31319124828076,
+                "cusp_degree": 28.31319124828076,
+                "motion_speed": 0.757791902050323,
+                "zodiac": 11,
+                "house": 9,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 225.68413539713166,
+                "cusp_degree": 15.684135397131655,
+                "motion_speed": -0.033642738062629324,
+                "zodiac": 8,
+                "house": 6,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 6.271397664055884,
+                "cusp_degree": 6.271397664055884,
+                "motion_speed": -0.008395942150016659,
+                "zodiac": 1,
+                "house": 11,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 6.9553543298591975,
+                "cusp_degree": 6.9553543298591975,
+                "motion_speed": -0.052992034342526924,
+                "zodiac": 1,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 186.9553543298592,
+                "motion_speed": -0.052992034342526924,
+                "cusp_degree": 6.955354329859205,
+                "zodiac": 7,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 186.27139766405588,
+                "motion_speed": -0.008395942150016659,
+                "cusp_degree": 6.271397664055883,
+                "zodiac": 7,
+                "house": 5,
+                "motion": "R"
+            }
+        }
+    }
+}

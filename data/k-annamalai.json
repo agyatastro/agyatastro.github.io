@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "K Annamalai",
+        "title": "Bureaucrat, Politician",
+        "year": 1984,
+        "month": 6,
+        "day": 4,
+        "hour": 13,
+        "minute": 27,
+        "second": 0,
+        "latitude": 10.95771,
+        "longitude": 78.08095,
+        "location": "Karur, Tamilnadu",
+        "agyat_rating": "AC",
+        "about": "Annamalai Kuppusamy ( born 4 June 1984) is an Indian politician and former police officer. He is the state unit president of the Bharatiya Janata Party in Tamil Nadu."
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 151.0710084672358,
+            "ascendant": 6
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 257.4429368927494,
+                "cusp_degree": 17.4429368927494,
+                "motion_speed": -0.10000066343335566,
+                "zodiac": 9,
+                "house": 4,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 50.22562271573228,
+                "cusp_degree": 20.22562271573228,
+                "motion_speed": 0.957483142425389,
+                "zodiac": 2,
+                "house": 9,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 108.77616294229229,
+                "cusp_degree": 18.776162942292288,
+                "motion_speed": 14.066775850001415,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 47.05935483134509,
+                "cusp_degree": 17.05935483134509,
+                "motion_speed": 1.228338151467576,
+                "zodiac": 2,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 199.687938551099,
+                "cusp_degree": 19.687938551098995,
+                "motion_speed": -0.20883319212183357,
+                "zodiac": 7,
+                "house": 2,
+                "motion": "R"
+            },
+            "Mercury": {
+                "degree": 30.558829323773438,
+                "cusp_degree": 0.5588293237734376,
+                "motion_speed": 1.6685038836579584,
+                "zodiac": 2,
+                "house": 9,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 197.23688913398274,
+                "cusp_degree": 17.236889133982743,
+                "motion_speed": -0.05678128670750941,
+                "zodiac": 7,
+                "house": 2,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 42.92907905509724,
+                "cusp_degree": 12.92907905509724,
+                "motion_speed": -0.012055590114713003,
+                "zodiac": 2,
+                "house": 9,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 42.66877887908607,
+                "cusp_degree": 12.66877887908607,
+                "motion_speed": -0.052992052683638054,
+                "zodiac": 2,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 222.66877887908606,
+                "motion_speed": -0.052992052683638054,
+                "cusp_degree": 12.668778879086062,
+                "zodiac": 8,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 222.92907905509725,
+                "motion_speed": -0.012055590114713003,
+                "cusp_degree": 12.929079055097247,
+                "zodiac": 8,
+                "house": 3,
+                "motion": "R"
+            }
+        }
+    }
+}

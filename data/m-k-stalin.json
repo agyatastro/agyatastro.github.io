@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "M K Stalin",
+        "title": "Politician",
+        "year": 1953,
+        "month": 3,
+        "day": 1,
+        "hour": 23,
+        "minute": 50,
+        "second": 0,
+        "latitude": 13.08784,
+        "longitude": 80.27847,
+        "location": "Chennai",
+        "agyat_rating": "AA",
+        "about": "<p>Muthuvel Karunanidhi Stalin (born 1 March 1953) is an Indian politician and former actor serving as the 8th and current chief minister of Tamil Nadu since 2021. He is the third son of the former Chief Minister M. Karunanidhi, his son Udhayanidhi serving as deputy chief minister of state under him.</p><p>Stalin has been the president of the Dravida Munnetra Kazhagam (DMK) party since 28 August 2018, after serving as Acting President of party from January 2017 to August 2018. He served as the 45th Mayor of Chennai from 1996 to 2002 and the 1st Deputy Chief Minister of Tamil Nadu from 2009 to 2011. In 2022, Stalin was 24th onThe Indian Express list of India's Most Powerful Personalities</p"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 213.30466387791216,
+            "ascendant": 8
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 22.582164442057316,
+                "cusp_degree": 22.582164442057316,
+                "motion_speed": 0.15925348850737767,
+                "zodiac": 1,
+                "house": 6,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 317.65714330646415,
+                "cusp_degree": 17.65714330646415,
+                "motion_speed": 1.0028324548574,
+                "zodiac": 11,
+                "house": 4,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 148.02449564279107,
+                "cusp_degree": 28.024495642791067,
+                "motion_speed": 11.852163769101436,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 0.35257617878503317,
+                "cusp_degree": 0.35257617878503317,
+                "motion_speed": 0.6518114711930527,
+                "zodiac": 1,
+                "house": 6,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 353.1110074590134,
+                "cusp_degree": 23.111007459013422,
+                "motion_speed": 0.7445530567235111,
+                "zodiac": 12,
+                "house": 5,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 335.7491927580526,
+                "cusp_degree": 5.749192758052573,
+                "motion_speed": 1.0521345528728852,
+                "zodiac": 12,
+                "house": 5,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 183.5698078606025,
+                "cusp_degree": 3.569807860602509,
+                "motion_speed": -0.041191508860337095,
+                "zodiac": 7,
+                "house": 12,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 289.00564683462864,
+                "cusp_degree": 19.005646834628635,
+                "motion_speed": -0.07461773097272406,
+                "zodiac": 10,
+                "house": 3,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 287.70900784145226,
+                "cusp_degree": 17.709007841452262,
+                "motion_speed": -0.05299208289872033,
+                "zodiac": 10,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 107.70900784145226,
+                "motion_speed": -0.05299208289872033,
+                "cusp_degree": 17.709007841452262,
+                "zodiac": 4,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 109.00564683462864,
+                "motion_speed": -0.07461773097272406,
+                "cusp_degree": 19.005646834628635,
+                "zodiac": 4,
+                "house": 9,
+                "motion": "R"
+            }
+        }
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Tejasvi Surya",
+        "title": "Politician",
+        "year": 1990,
+        "month": 11,
+        "day": 16,
+        "hour": 16,
+        "minute": 26,
+        "second": 0,
+        "latitude": 12.97194,
+        "longitude": 77.59369,
+        "location": "Bengaluru",
+        "agyat_rating": "AC",
+        "about": "Lakya Suryanarayana Tejasvi Surya (Kannada pronunciation: [t̪eːdʒɐsʋi suːɾja]; born 16 November 1990) is an Indian politician, RSS swayamsevak and lawyer serving as the Member of Parliament in the 17th Lok Sabha from the Bharatiya Janata Party, representing the Bangalore South constituency. He is also the president of the Bharatiya Janata Yuva Morcha since 26 September 2020."
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 1.7502860823568938,
+            "ascendant": 1
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 109.55464239489234,
+                "cusp_degree": 19.55464239489234,
+                "motion_speed": 0.04440460604846847,
+                "zodiac": 4,
+                "house": 4,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 210.07526547472858,
+                "cusp_degree": 0.0752654747285817,
+                "motion_speed": 1.0080464272860377,
+                "zodiac": 8,
+                "house": 8,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 199.7997761262938,
+                "cusp_degree": 19.799776126293807,
+                "motion_speed": 12.007806556826873,
+                "zodiac": 7,
+                "house": 7,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 213.78651710755477,
+                "cusp_degree": 3.786517107554772,
+                "motion_speed": 1.2556415254328985,
+                "zodiac": 8,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 45.83427173542933,
+                "cusp_degree": 15.834271735429333,
+                "motion_speed": -0.3457360578185241,
+                "zodiac": 2,
+                "house": 2,
+                "motion": "R"
+            },
+            "Mercury": {
+                "degree": 224.44395533903844,
+                "cusp_degree": 14.443955339038439,
+                "motion_speed": 1.487960612283673,
+                "zodiac": 8,
+                "house": 8,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 267.29246393605746,
+                "cusp_degree": 27.29246393605746,
+                "motion_speed": 0.08108495980843544,
+                "zodiac": 9,
+                "house": 9,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 276.73912304585525,
+                "cusp_degree": 6.739123045855251,
+                "motion_speed": -0.22202600471893771,
+                "zodiac": 10,
+                "house": 10,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 277.81298133592435,
+                "cusp_degree": 7.8129813359243485,
+                "motion_speed": -0.05299202989678068,
+                "zodiac": 10,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 97.81298133592435,
+                "motion_speed": -0.05299202989678068,
+                "cusp_degree": 7.8129813359243485,
+                "zodiac": 4,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 96.73912304585525,
+                "motion_speed": -0.22202600471893771,
+                "cusp_degree": 6.739123045855251,
+                "zodiac": 4,
+                "house": 4,
+                "motion": "R"
+            }
+        }
+    }
+}

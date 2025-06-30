@@ -1,0 +1,114 @@
+{
+    "request": {
+        "name": "T. Raja Singh",
+        "title": "Politician",
+        "year": 1977,
+        "month": 4,
+        "day": 15,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 17.38405,
+        "longitude": 78.45636,
+        "location": "Hyderabad",
+        "agyat_rating": "AX",
+        "about": "<p>Thakur Raja Singh (born 15 April 1977), also known as Raja Singh, is an Indian politician from the state of Telangana. He served as the MLA of the Telangana Legislative Assembly representing the Goshamahal Assembly constituency in Hyderabad from 2014 to 2025.</p><p>Singh had served as the party whip for the Bharatiya Janata Party in the state of Telangana. He was suspended from the party on 23 August 2022 for his remarks on Muhammad, during the 2022 Muhammad remarks controversy, but his suspension was revoked on 22 October 2023 to allow him to contest the 2023 Telangana Legislative Assembly election. He has 105 criminal cases registered against him, of which 18 were related to communal offences.</p><p>He resigned from the BJP in June 2025, citing dissatisfaction with the party’s leadership decisions in the state.</p>",
+        "advanced": "detention, legal-troubles"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 85.83904158564987,
+            "ascendant": 3
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 38.80870669348268,
+                "cusp_degree": 8.808706693482677,
+                "motion_speed": 0.20912467096890147,
+                "zodiac": 2,
+                "house": 12,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 1.6171114151397747,
+                "cusp_degree": 1.6171114151397747,
+                "motion_speed": 0.979114744254492,
+                "zodiac": 1,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 325.6992832337395,
+                "cusp_degree": 25.699283233739493,
+                "motion_speed": 12.54417520445269,
+                "zodiac": 11,
+                "house": 9,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 347.63522455287057,
+                "cusp_degree": 17.635224552870568,
+                "motion_speed": -0.4694465569222657,
+                "zodiac": 12,
+                "house": 10,
+                "motion": "R"
+            },
+            "Mars": {
+                "degree": 326.84897361843684,
+                "cusp_degree": 26.848973618436844,
+                "motion_speed": 0.77717134008188,
+                "zodiac": 11,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 19.781160286441096,
+                "cusp_degree": 19.781160286441096,
+                "motion_speed": 0.4974402226186706,
+                "zodiac": 1,
+                "house": 11,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 106.4246115523573,
+                "cusp_degree": 16.424611552357305,
+                "motion_speed": 0.007265976473538564,
+                "zodiac": 4,
+                "house": 2,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 180.80534583052005,
+                "cusp_degree": 0.8053458305200536,
+                "motion_speed": 0.0015486425272463393,
+                "zodiac": 7,
+                "house": 5,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 180.82220913447492,
+                "cusp_degree": 0.8222091344749174,
+                "motion_speed": -0.05299204293464072,
+                "zodiac": 7,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 0.8222091344749174,
+                "motion_speed": -0.05299204293464072,
+                "cusp_degree": 0.8222091344749174,
+                "zodiac": 1,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 0.805345830520082,
+                "motion_speed": 0.0015486425272463393,
+                "cusp_degree": 0.805345830520082,
+                "zodiac": 1,
+                "house": 11,
+                "motion": "R"
+            }
+        }
+    }
+}

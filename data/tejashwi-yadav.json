@@ -1,0 +1,114 @@
+{
+    "request": {
+        "name": "Tejashwi Yadav",
+        "title": "Politician, Deputy Chief Minister",
+        "year": 1989,
+        "month": 11,
+        "day": 9,
+        "hour": 12,
+        "minute": 30,
+        "second": 0,
+        "latitude": 26.46734,
+        "longitude": 84.44041,
+        "location": "Gopalgunj",
+        "agyat_rating": "AA",
+        "about": "<p>Tejashwi Prasad Yadav (born 9 November 1989) is an Indian politician and former professional cricketer who served for two terms as the deputy chief minister of Bihar. He is the son of former chief ministers of Bihar Lalu Prasad Yadav and Rabri Devi.</p><p>On 9 December 2021, Yadav married his long-time friend Rajshree Yadav (Rachel Godinho). She is from Rewari, Haryana, and has been living in Delhi since childhood. She and Yadav studied together at DPS school in RK Puram, New Delhi.</p>",
+        "related": ["lalu-yadav-family"]
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 287.1352050267628,
+            "ascendant": 10
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 76.94613742738001,
+                "cusp_degree": 16.94613742738001,
+                "motion_speed": -0.03768891808757536,
+                "zodiac": 3,
+                "house": 6,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 203.12575918022216,
+                "cusp_degree": 23.12575918022216,
+                "motion_speed": 1.004319394002456,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 327.50435891460825,
+                "cusp_degree": 27.504358914608247,
+                "motion_speed": 14.398221467773755,
+                "zodiac": 11,
+                "house": 2,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 250.17868750955017,
+                "cusp_degree": 10.178687509550173,
+                "motion_speed": 0.9998218681363119,
+                "zodiac": 9,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 189.66840463124507,
+                "cusp_degree": 9.668404631245068,
+                "motion_speed": 0.6721615769036681,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 202.21342819589876,
+                "cusp_degree": 22.213428195898757,
+                "motion_speed": 1.612389071082222,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 256.2764407540165,
+                "cusp_degree": 16.276440754016505,
+                "motion_speed": 0.0857292889525115,
+                "zodiac": 9,
+                "house": 12,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 298.0308945763202,
+                "cusp_degree": 28.03089457632018,
+                "motion_speed": -0.057578050317771495,
+                "zodiac": 10,
+                "house": 1,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 297.5346985770384,
+                "cusp_degree": 27.534698577038398,
+                "motion_speed": -0.05299204749242231,
+                "zodiac": 10,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 117.5346985770384,
+                "motion_speed": -0.05299204749242231,
+                "cusp_degree": 27.534698577038398,
+                "zodiac": 4,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 118.03089457632018,
+                "motion_speed": -0.057578050317771495,
+                "cusp_degree": 28.03089457632018,
+                "zodiac": 4,
+                "house": 7,
+                "motion": "R"
+            }
+        }
+    }
+}

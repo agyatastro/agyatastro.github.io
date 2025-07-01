@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Aniruddhacharya",
+        "title": "Spiritual, Katha Vachak",
+        "year": 1989,
+        "month": 9,
+        "day": 27,
+        "hour": 21,
+        "minute": 12,
+        "second": 0,
+        "latitude": 23.16697,
+        "longitude": 79.95006,
+        "location": "Jabalpur",
+        "agyat_rating": "AU",
+        "about": "Aniruddhacharya (born 27 September 1989), born Aniruddh Ram Tiwari, is an Indian spiritual teacher and religious orator. He is known for delivering discourses based on Hindu scriptures, particularly the Bhagavata Purana. He is the founder of the Gauri Gopal Ashram in Vrindavan, Uttar Pradesh, which operates charitable services including elder care, food distribution, and animal welfare. His public engagements and online presence have contributed to his popularity."
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 33.645303594123384,
+            "ascendant": 2
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 75.58825483418453,
+                "cusp_degree": 15.588254834184525,
+                "motion_speed": 0.09670917419009024,
+                "zodiac": 3,
+                "house": 2,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 160.77655435278885,
+                "cusp_degree": 10.77655435278885,
+                "motion_speed": 0.9816070766933888,
+                "zodiac": 6,
+                "house": 5,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 135.80561954522275,
+                "cusp_degree": 15.805619545222754,
+                "motion_speed": 12.10478470999432,
+                "zodiac": 5,
+                "house": 4,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 203.7670735288058,
+                "cusp_degree": 23.76707352880581,
+                "motion_speed": 1.1450326470496444,
+                "zodiac": 7,
+                "house": 6,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 161.49014594617543,
+                "cusp_degree": 11.490145946175431,
+                "motion_speed": 0.6503118507700308,
+                "zodiac": 6,
+                "house": 5,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 155.3041375012039,
+                "cusp_degree": 5.304137501203911,
+                "motion_speed": -0.9431603408276503,
+                "zodiac": 6,
+                "house": 5,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 253.80225599049086,
+                "cusp_degree": 13.802255990490863,
+                "motion_speed": 0.026568984822832105,
+                "zodiac": 9,
+                "house": 8,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 301.69294958294364,
+                "cusp_degree": 1.6929495829436405,
+                "motion_speed": -0.03348261273746908,
+                "zodiac": 11,
+                "house": 10,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 299.79414595370537,
+                "cusp_degree": 29.794145953705367,
+                "motion_speed": -0.052992022754474566,
+                "zodiac": 10,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 119.79414595370537,
+                "motion_speed": -0.052992022754474566,
+                "cusp_degree": 29.794145953705367,
+                "zodiac": 4,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 121.69294958294364,
+                "motion_speed": -0.03348261273746908,
+                "cusp_degree": 1.6929495829436405,
+                "zodiac": 5,
+                "house": 4,
+                "motion": "R"
+            }
+        }
+    }
+}

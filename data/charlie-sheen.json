@@ -1,0 +1,114 @@
+{
+    "request": {
+        "name": "Charlie Sheen",
+        "title": "Actor",
+        "year": 1965,
+        "month": 9,
+        "day": 3,
+        "hour": 22,
+        "minute": 48,
+        "second": 0,
+        "latitude": 40.71427,
+        "longitude": -74.00597,
+        "location": "New York City",
+        "agyat_rating": "AA",
+        "about": "<p>Carlos Irwin Estévez (born September 3, 1965), known professionally as Charlie Sheen, is an American actor. He is known as a leading man in film and television. Sheen has received numerous accolades including a Golden Globe Award as well as nominations for four Primetime Emmy Awards and three Screen Actors Guild Awards. In 1994, he received a star on the Hollywood Walk of Fame.</p><p>Charlie Sheen followed in the footsteps of his father Martin Sheen in becoming an actor. He starred in many successful films such as Red Dawn (1984), Platoon (1986), Wall Street (1987), Eight Men Out (1988), Young Guns (1988), The Rookie (1990), The Three Musketeers (1993), and The Arrival (1996). In the 2000s, when Sheen replaced Michael J. Fox as the star of ABC's Spin City, his portrayal of Charlie Crawford earned him a Golden Globe Award for Best Actor. He then starred as Charlie Harper on the CBS sitcom Two and a Half Men (2003–11), for which he received many Golden Globe and Primetime Emmy nominations. As Dr. Charles \"Charlie\" Goodson on the FX series Anger Management (2012–14). In 2010, Sheen was the highest-paid actor on television, earning US$1.8 million per episode of Two and a Half Men.</p><p>In March 2011, Sheen was terminated from his Two and a Half Men contract by CBS and Warner Bros. following public substance-abuse problems, marital difficulties and comments made towards the series' creator, Chuck Lorre. In 2015, Sheen publicly revealed that he was HIV positive, which led to an increase in HIV prevention and testing which was dubbed the \"Charlie Sheen effect\". Post-Two and a Half Men, he starred in the films Machete Kills (2013) and 9/11 (2017), and had a recurring role on Lorre's Max series Bookie (2023–2024).</p>",
+        "advanced": "riches-to-rags, bankrupt"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 54.18415197332648,
+            "ascendant": 2
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 64.72701711108915,
+                "cusp_degree": 4.727017111089154,
+                "motion_speed": 0.13217083677926092,
+                "zodiac": 3,
+                "house": 2,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 138.02774093798533,
+                "cusp_degree": 18.027740937985328,
+                "motion_speed": 0.9690741110570125,
+                "zodiac": 5,
+                "house": 4,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 243.07515459391115,
+                "cusp_degree": 3.075154593911151,
+                "motion_speed": 12.011169860860212,
+                "zodiac": 9,
+                "house": 8,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 175.21538802604783,
+                "cusp_degree": 25.215388026047833,
+                "motion_speed": 1.1846334873583693,
+                "zodiac": 6,
+                "house": 5,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 196.07279474883543,
+                "cusp_degree": 16.072794748835435,
+                "motion_speed": 0.6580762619671,
+                "zodiac": 7,
+                "house": 6,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 120.16369941141997,
+                "cusp_degree": 0.16369941141996946,
+                "motion_speed": 1.206186051110846,
+                "zodiac": 5,
+                "house": 4,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 320.6392421493947,
+                "cusp_degree": 20.639242149394704,
+                "motion_speed": -0.07645632559256657,
+                "zodiac": 11,
+                "house": 10,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 45.86458938099942,
+                "cusp_degree": 15.86458938099942,
+                "motion_speed": -0.018236626513042097,
+                "zodiac": 2,
+                "house": 1,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 45.56672135893831,
+                "cusp_degree": 15.56672135893831,
+                "motion_speed": -0.052992004571484584,
+                "zodiac": 2,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 225.5667213589383,
+                "motion_speed": -0.052992004571484584,
+                "cusp_degree": 15.56672135893831,
+                "zodiac": 8,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 225.8645893809994,
+                "motion_speed": -0.018236626513042097,
+                "cusp_degree": 15.864589380999405,
+                "zodiac": 8,
+                "house": 7,
+                "motion": "R"
+            }
+        }
+    }
+}

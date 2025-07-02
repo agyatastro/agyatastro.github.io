@@ -1,0 +1,114 @@
+{
+    "request": {
+        "name": "Mohammed bin Salman al saud",
+        "title": "Monarch, Crown Prince of Saudi Arabia",
+        "year": 1985,
+        "month": 8,
+        "day": 31,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 24.68773,
+        "longitude": 46.72185,
+        "location": "Riyadh, Saudi Arabia",
+        "agyat_rating": "AX",
+        "about": "<p>Mohammed bin Salman Al Saud (Arabic: محمد بن سلمان آل سعود, romanized: Muḥammad bin Salmān Āl Su‘ūd; born 31 August 1985), also known as MBS or MbS, is the de facto ruler of the Kingdom of Saudi Arabia, formally serving as Crown Prince and Prime Minister. He is the heir apparent to the Saudi throne, the seventh son of King Salman of Saudi Arabia, and the grandson of the nation's founder, Ibn Saud.</p><p>Mohammed is the first child of King Salman bin Abdulaziz and his third wife, Fahda bint Falah Al Hithlain. After obtaining a law degree from King Saud University, he became an advisor to his father in 2009. He was appointed deputy crown prince and defense minister after his father became king in 2015, then promoted to crown prince in 2017. Mohammed succeeded his father as prime minister in 2022.</p><p>Since his appointment as crown prince in 2017, Mohammed has introduced a series of social and economic reforms; these include curtailing the influence of the Wahhabi religious establishment by restricting the powers of the religious police and improving women's rights, removing the ban on female drivers in 2018, and weakening the male-guardianship system in 2019. However, he also continues to repress women's rights activists. His Saudi Vision 2030 program aims to reduce the Saudi economy's reliance on oil through investment in other sectors such as technology and tourism. Despite these attempts at greater economic diversification, the Saudi economy remains heavily reliant on oil.</p><p>Under Mohammed, Saudi Arabia has pursued an \"aggressive\" foreign policy aimed at increasing the country's regional and international influence and attracting greater foreign investment. The Kingdom has coordinated energy policy with Russia, strengthened its relations with China, and expanded diplomatic and commercial relations with emerging economies and regional powers in Africa, South America, and Asia. Mohammed was the architect of the Saudi-led intervention in Yemen and was involved in the escalation of the Qatar diplomatic crisis, as well as a 2018 diplomatic dispute with Canada.</p><p>Mohammed leads an authoritarian government. Those regarded as political dissidents are systematically repressed through methods including imprisonment and torture; citizens face arrest for social media posts that mildly criticise government policies. Between 2017 and 2019, he led the purge of competing Saudi political and economic elites, alleging that they were involved in corruption and seizing up to US$800 billion in assets and cash and cementing control over Saudi politics. A 2021 report by the United States Central Intelligence Agency (CIA) found that Mohammed had ordered the assassination of journalist Jamal Khashoggi.</p>",
+        "related": ["al-saud-royal-family"]
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 218.21062955162617,
+            "ascendant": 8
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 285.17334060372275,
+                "cusp_degree": 15.17334060372275,
+                "motion_speed": -0.09785013238069042,
+                "zodiac": 10,
+                "house": 3,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 134.24182046481414,
+                "cusp_degree": 14.24182046481414,
+                "motion_speed": 0.9669579026251433,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 325.61342145062605,
+                "cusp_degree": 25.61342145062605,
+                "motion_speed": 12.488694797183525,
+                "zodiac": 11,
+                "house": 4,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 100.166742377181,
+                "cusp_degree": 10.166742377180995,
+                "motion_speed": 1.1892392961754272,
+                "zodiac": 4,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 120.18885684031757,
+                "cusp_degree": 0.18885684031756966,
+                "motion_speed": 0.636069268744827,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 116.43719524888259,
+                "cusp_degree": 26.43719524888259,
+                "motion_speed": 1.2718186607512656,
+                "zodiac": 4,
+                "house": 9,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 208.87543178448038,
+                "cusp_degree": 28.875431784480384,
+                "motion_speed": 0.05664857626886488,
+                "zodiac": 7,
+                "house": 12,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 17.44908720620582,
+                "cusp_degree": 17.44908720620582,
+                "motion_speed": -0.1553856027230564,
+                "zodiac": 1,
+                "house": 6,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 18.660483327790583,
+                "cusp_degree": 18.660483327790583,
+                "motion_speed": -0.05299201835151111,
+                "zodiac": 1,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 198.6604833277906,
+                "motion_speed": -0.05299201835151111,
+                "cusp_degree": 18.660483327790587,
+                "zodiac": 7,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 197.44908720620583,
+                "motion_speed": -0.1553856027230564,
+                "cusp_degree": 17.44908720620583,
+                "zodiac": 7,
+                "house": 12,
+                "motion": "R"
+            }
+        }
+    }
+}

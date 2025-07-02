@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Siddaramaiah",
+        "title": "Politician, Chief Minister",
+        "year": 1948,
+        "month": 8,
+        "day": 12,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 12.29791,
+        "longitude": 76.63925,
+        "location": "Mysore",
+        "agyat_rating": "AX",
+        "about": "<p>Siddaramaiah (born 3 August 1947), also referred to by his nickname Siddu, is an Indian politician who is serving as the 22nd  chief minister of Karnataka from 20 May 2023. He also held that position previously from 2013 to 2018, being only the second person in the history of Karnataka state to hold that office for a full five-year term after D. Devaraj Urs.</p><p>He belongs to the Indian National Congress and is presently the leader of the Congress Legislative Party. He represented the Varuna Assembly constituency from 2023, previously from 2008 to 2018, Badami Assembly constituency from 2018 to 2023, and Chamundeshwari Assembly constituency from 2004 to 2007, 1994 to 1999, and from 1983 to 1989 in the Karnataka Legislative Assembly. He served as the deputy chief minister of Karnataka from 1996 to 1999 and from 2004 to 2005 while he was a member of the Janata Dal and Janata Dal (Secular).</p><p>He also served as the leader of the opposition in the Karnataka Legislative Assembly on two occasions, from 2019 to 2023 and from 2009 to 2013. Siddaramaiah was a member of various Janata Parivar factions for several years.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 195.16760787090817,
+            "ascendant": 7
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 235.98568543450915,
+                "cusp_degree": 25.98568543450915,
+                "motion_speed": -0.011814569647441975,
+                "zodiac": 8,
+                "house": 2,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 116.28802431167003,
+                "cusp_degree": 26.28802431167003,
+                "motion_speed": 0.9599381574802138,
+                "zodiac": 4,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 211.6056531740486,
+                "cusp_degree": 1.605653174048598,
+                "motion_speed": 13.087556999869758,
+                "zodiac": 8,
+                "house": 2,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 72.73517359638792,
+                "cusp_degree": 12.735173596387924,
+                "motion_speed": 0.7219344205948794,
+                "zodiac": 3,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 172.54581687568668,
+                "cusp_degree": 22.545816875686683,
+                "motion_speed": 0.6244509975007893,
+                "zodiac": 6,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 116.74409304011542,
+                "cusp_degree": 26.744093040115416,
+                "motion_speed": 2.028494365412899,
+                "zodiac": 4,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 122.11749531019935,
+                "cusp_degree": 2.1174953101993452,
+                "motion_speed": 0.12698964222263473,
+                "zodiac": 5,
+                "house": 11,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 15.490102963546818,
+                "cusp_degree": 15.490102963546818,
+                "motion_speed": -0.005490828774412051,
+                "zodiac": 1,
+                "house": 7,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 15.807939253728573,
+                "cusp_degree": 15.807939253728573,
+                "motion_speed": -0.05299212035243191,
+                "zodiac": 1,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 195.80793925372856,
+                "motion_speed": -0.05299212035243191,
+                "cusp_degree": 15.807939253728563,
+                "zodiac": 7,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 195.4901029635468,
+                "motion_speed": -0.005490828774412051,
+                "cusp_degree": 15.490102963546803,
+                "zodiac": 7,
+                "house": 1,
+                "motion": "R"
+            }
+        }
+    }
+}

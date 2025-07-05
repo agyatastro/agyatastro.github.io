@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Revanth Reddy",
+        "title": "Politician, Chief Minister",
+        "year": 1969,
+        "month": 11,
+        "day": 8,
+        "hour": 11,
+        "minute": 48,
+        "second": 0,
+        "latitude": 16.74385,
+        "longitude": 77.98597,
+        "location": "Mahbubnagar",
+        "agyat_rating": "AC",
+        "about": "<p>Anumula Revanth Reddy (born 8 November 1969) is an Indian politician who is serving as the second and current Chief Minister of Telangana since 7 December 2023. As a member of the Indian National Congress, he is the current Member of the Legislative Assembly for Kodangal.</p><p>He previously represented Malkajgiri as a Member of Parliament. Appointed president of the Telangana Pradesh Congress Committee in July 2021, he led his party to victory in the 2023 Telangana Legislative Assembly election, defeating the incumbent Bharat Rashtra Samithi.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 272.09769627746874,
+            "ascendant": 10
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 179.26257443945187,
+                "cusp_degree": 29.262574439451868,
+                "motion_speed": 0.2082531650960718,
+                "zodiac": 6,
+                "house": 9,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 202.22222642308148,
+                "cusp_degree": 22.22222642308148,
+                "motion_speed": 1.0045884237181444,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 180.680630773712,
+                "cusp_degree": 0.6806307737120108,
+                "motion_speed": 13.533682409884738,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 183.50300707295514,
+                "cusp_degree": 3.5030070729551426,
+                "motion_speed": 1.2500918017027765,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 279.0528458078749,
+                "cusp_degree": 9.052845807874917,
+                "motion_speed": 0.7212712732811031,
+                "zodiac": 10,
+                "house": 1,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 197.34124246203208,
+                "cusp_degree": 17.341242462032085,
+                "motion_speed": 1.632070317088098,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 11.216148861153485,
+                "cusp_degree": 11.216148861153485,
+                "motion_speed": -0.07831424686028396,
+                "zodiac": 1,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 326.30570272628563,
+                "cusp_degree": 26.30570272628563,
+                "motion_speed": -0.09679478640643638,
+                "zodiac": 11,
+                "house": 2,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 324.69603957104636,
+                "cusp_degree": 24.696039571046356,
+                "motion_speed": -0.052992066772300825,
+                "zodiac": 11,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 144.69603957104636,
+                "motion_speed": -0.052992066772300825,
+                "cusp_degree": 24.696039571046356,
+                "zodiac": 5,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 146.30570272628563,
+                "motion_speed": -0.09679478640643638,
+                "cusp_degree": 26.30570272628563,
+                "zodiac": 5,
+                "house": 8,
+                "motion": "R"
+            }
+        }
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "K. C. Venugopal",
+        "title": "Politician, Advisor",
+        "year": 1963,
+        "month": 2,
+        "day": 4,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 11.86752,
+        "longitude": 75.35763,
+        "location": "Payyanur, Kannur, Kerala",
+        "agyat_rating": "AX",
+        "about": "<p>K. C. Venugopal (born 4 February 1963) is an Indian politician who is a Member of Parliament, Lok Sabha elected from Alappuzha Lok Sabha constituency and former member of parliament in Upper House and is a member of the Indian National Congress. He has been appointed a General Secretary of AICC and in charge of Karnataka on 29 April 2017. Later, he was given additional charge of the general secretary of the organization. He was the Minister of State for Civil Aviation & Ministry of Power in the UPA Government.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 12.831256520316884,
+            "ascendant": 1
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 322.647814753229,
+                "cusp_degree": 22.647814753229,
+                "motion_speed": 0.22458976572877065,
+                "zodiac": 11,
+                "house": 11,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 291.36643574184274,
+                "cusp_degree": 21.366435741842736,
+                "motion_speed": 1.0138923075665305,
+                "zodiac": 10,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 58.465519175316366,
+                "cusp_degree": 28.465519175316366,
+                "motion_speed": 13.5859669888472,
+                "zodiac": 2,
+                "house": 2,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 244.92802582743278,
+                "cusp_degree": 4.928025827432776,
+                "motion_speed": 1.0786474009602725,
+                "zodiac": 9,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 111.70987615525429,
+                "cusp_degree": 21.709876155254292,
+                "motion_speed": -0.4003269403660051,
+                "zodiac": 4,
+                "house": 4,
+                "motion": "R"
+            },
+            "Mercury": {
+                "degree": 267.94725025585814,
+                "cusp_degree": 27.947250255858137,
+                "motion_speed": 0.36340249340658776,
+                "zodiac": 9,
+                "house": 9,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 290.5808012994933,
+                "cusp_degree": 20.580801299493316,
+                "motion_speed": 0.11979657112005408,
+                "zodiac": 10,
+                "house": 10,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 96.30334919091598,
+                "cusp_degree": 6.303349190915981,
+                "motion_speed": 0.021521980416372367,
+                "zodiac": 4,
+                "house": 4,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 95.53295994726784,
+                "cusp_degree": 5.532959947267841,
+                "motion_speed": -0.05299207327471824,
+                "zodiac": 4,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 275.53295994726784,
+                "motion_speed": -0.05299207327471824,
+                "cusp_degree": 5.532959947267841,
+                "zodiac": 10,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 276.303349190916,
+                "motion_speed": 0.021521980416372367,
+                "cusp_degree": 6.303349190915981,
+                "zodiac": 10,
+                "house": 10,
+                "motion": "R"
+            }
+        }
+    }
+}

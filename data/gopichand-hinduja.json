@@ -1,0 +1,114 @@
+{
+    "request": {
+        "name": "Gopichand Parmanand Hinduja",
+        "title": "Businessperson",
+        "year": 1940,
+        "month": 1,
+        "day": 29,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 19.07283,
+        "longitude": 72.88261,
+        "location": "Mumbai",
+        "agyat_rating": "AX",
+        "about": "Gopichand Parmanand Hinduja (born 29 January 1940) is an Indian-British billionaire businessman controlling the Indian conglomerate Hinduja Group. For many years he was co-chairman with his brother Srichand \"S. P.\" Hinduja who died in May 2023. He and his brother were frequently named among the wealthiest people in the UK and Asia, and in the Sunday Times Rich List 2024 ranking of the wealthiest people in the UK he was placed first with an estimated family fortune of £37 billion",
+        "related": ["hinduja-family"]
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 4.804374494987201,
+            "ascendant": 1
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 342.42505856562804,
+                "cusp_degree": 12.425058565628035,
+                "motion_speed": 0.1814532712449903,
+                "zodiac": 12,
+                "house": 12,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 285.1683737660729,
+                "cusp_degree": 15.168373766072875,
+                "motion_speed": 1.0156419801223335,
+                "zodiac": 10,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 164.4800541385119,
+                "cusp_degree": 14.480054138511889,
+                "motion_speed": 14.422763620734665,
+                "zodiac": 6,
+                "house": 6,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 320.0382721355368,
+                "cusp_degree": 20.038272135536772,
+                "motion_speed": 1.2186898791897325,
+                "zodiac": 11,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 354.17391294328064,
+                "cusp_degree": 24.17391294328064,
+                "motion_speed": 0.6811740441556227,
+                "zodiac": 12,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 283.4012687166589,
+                "cusp_degree": 13.401268716658876,
+                "motion_speed": 1.6989099906902916,
+                "zodiac": 10,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 2.336214082974586,
+                "cusp_degree": 2.336214082974586,
+                "motion_speed": 0.05711960261417047,
+                "zodiac": 1,
+                "house": 1,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 180.07565526776497,
+                "cusp_degree": 0.07565526776497222,
+                "motion_speed": -0.028001299485985922,
+                "zodiac": 7,
+                "house": 7,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 181.03720210360484,
+                "cusp_degree": 1.0372021036048409,
+                "motion_speed": -0.05299199617316934,
+                "zodiac": 7,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 1.0372021036048409,
+                "motion_speed": -0.05299199617316934,
+                "cusp_degree": 1.0372021036048409,
+                "zodiac": 1,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 0.07565526776500064,
+                "motion_speed": -0.028001299485985922,
+                "cusp_degree": 0.07565526776500064,
+                "zodiac": 1,
+                "house": 1,
+                "motion": "R"
+            }
+        }
+    }
+}

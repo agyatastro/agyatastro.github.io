@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Shiv Nadar",
+        "title": "Businessperson",
+        "year": 1945,
+        "month": 7,
+        "day": 14,
+        "hour": 13,
+        "minute": 40,
+        "second": 0,
+        "latitude": 8.76735,
+        "longitude": 78.13425,
+        "location": "Tiruchendur",
+        "agyat_rating": "AA",
+        "about": "<p>Shiv Nadar (born 14 July 1945) is an Indian billionaire businessman and philanthropist. He is the founder and chairman of HCL Technologies, and is chairman of the Shiv Nadar Foundation. Nadar founded HCL in 1976 and transformed the IT hardware company into an IT enterprise over the next three decades.</p><p>In 2008, Nadar was awarded the Padma Bhushan for his efforts in the IT industry. Nadar, nicknamed by friends as Magus (Old Persian for \"wizard\"), since the mid-1990s he has focused his efforts on developing the educational system of India through the Shiv Nadar Foundation. According to Forbes, he has an estimated net worth of US$36.5 billion as of 26 March 2025, making him one of the richest people in the world.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 193.88449606907744,
+            "ascendant": 7
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 149.39742148281968,
+                "cusp_degree": 29.39742148281968,
+                "motion_speed": 0.14989328106439756,
+                "zodiac": 5,
+                "house": 11,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 88.40070629802291,
+                "cusp_degree": 28.40070629802291,
+                "motion_speed": 0.9540000062243443,
+                "zodiac": 3,
+                "house": 9,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 145.5282549086186,
+                "cusp_degree": 25.528254908618607,
+                "motion_speed": 12.281737698619557,
+                "zodiac": 5,
+                "house": 11,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 43.838434560878945,
+                "cusp_degree": 13.838434560878945,
+                "motion_speed": 1.0565039455494436,
+                "zodiac": 2,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 30.620818593466563,
+                "cusp_degree": 0.6208185934665629,
+                "motion_speed": 0.7014156233023386,
+                "zodiac": 2,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 113.42618477245979,
+                "cusp_degree": 23.42618477245979,
+                "motion_speed": 1.354878656695328,
+                "zodiac": 4,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 82.2539876513853,
+                "cusp_degree": 22.2539876513853,
+                "motion_speed": 0.129414792407196,
+                "zodiac": 3,
+                "house": 9,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 76.0101099382819,
+                "cusp_degree": 16.0101099382819,
+                "motion_speed": -0.024707602215595172,
+                "zodiac": 3,
+                "house": 9,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 75.4203305554594,
+                "cusp_degree": 15.420330555459401,
+                "motion_speed": -0.052992090216410555,
+                "zodiac": 3,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 255.4203305554594,
+                "motion_speed": -0.052992090216410555,
+                "cusp_degree": 15.420330555459401,
+                "zodiac": 9,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 256.0101099382819,
+                "motion_speed": -0.024707602215595172,
+                "cusp_degree": 16.010109938281914,
+                "zodiac": 9,
+                "house": 3,
+                "motion": "R"
+            }
+        }
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Cyrus Soli Poonawalla",
+        "title": "Businessperson",
+        "year": 1941,
+        "month": 5,
+        "day": 11,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 18.51957,
+        "longitude": 73.85535,
+        "location": "Pune",
+        "agyat_rating": "AX",
+        "about": "<p>Cyrus Soli Poonawalla (born 11 May 1941) is an Indian billionaire businessman, and the chairman and managing director of the Cyrus Poonawalla Group, which includes the Serum Institute of India, an Indian biotech company which is the largest vaccine manufacturer in the world and Poonawalla Fincorp a leading NBFC in India. In 2022, he is ranked as the 4th richest person in India on Forbes India rich list with a net worth of $24.3 billion. He is ranked number 1 on the Hurun Global Healthcare Rich List 2022.</p><p>In October 2024, Poonawalla and his family were ranked ninth on Forbes list of India’s 100 richest tycoons, with a net worth currently of $22.1billion.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 105.21388410994203,
+            "ascendant": 4
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 33.359972740600895,
+                "cusp_degree": 3.3599727406008952,
+                "motion_speed": 0.2354447508819278,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 27.1160758990752,
+                "cusp_degree": 27.1160758990752,
+                "motion_speed": 0.9653191680581746,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 207.63320143272125,
+                "cusp_degree": 27.63320143272125,
+                "motion_speed": 15.25682670043508,
+                "zodiac": 7,
+                "house": 4,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 32.886549909213436,
+                "cusp_degree": 2.8865499092134357,
+                "motion_speed": 1.2310935721662961,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 303.60674098117136,
+                "cusp_degree": 3.606740981171356,
+                "motion_speed": 0.6787212220901567,
+                "zodiac": 11,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 33.15352938914923,
+                "cusp_degree": 3.1535293891492273,
+                "motion_speed": 2.154599487808558,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 25.269213609414667,
+                "cusp_degree": 25.269213609414667,
+                "motion_speed": 0.12856451159062993,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 157.7334640371807,
+                "cusp_degree": 7.73346403718071,
+                "motion_speed": -0.10708993166502306,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 156.23691347609105,
+                "cusp_degree": 6.236913476091047,
+                "motion_speed": -0.05299209424563859,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 336.23691347609105,
+                "motion_speed": -0.05299209424563859,
+                "cusp_degree": 6.236913476091047,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 337.73346403718074,
+                "motion_speed": -0.10708993166502306,
+                "cusp_degree": 7.733464037180738,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "R"
+            }
+        }
+    }
+}

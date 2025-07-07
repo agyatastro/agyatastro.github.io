@@ -1,0 +1,115 @@
+{
+    "request": {
+        "name": "Y. S. Rajasekhara Reddy",
+        "title": "Politician, Chief Minister",
+        "year": 1949,
+        "month": 7,
+        "day": 8,
+        "hour": 22,
+        "minute": 42,
+        "second": 0,
+        "latitude": 14.42139,
+        "longitude": 78.22502,
+        "location": "",
+        "agyat_rating": "AU",
+        "advanced": "death by accident, air crash, ysr",
+        "about": "<p>Yeduguri Sandinti Rajasekhara Reddy (8 July 1949 – 2 September 2009), popularly known as YSR, was an Indian politician. He served as the 14th chief minister of Andhra Pradesh from 2004 to 2009. Reddy was elected (1989, 1991, 1996 and 1998) four terms to the Lok Sabha from Kadapa and was also elected (1978, 1983, 1985, 1999, 2004 and 2009) six terms to the Andhra Pradesh Legislative Assembly from Pulivendula. Over the course of his career, he won every election that he contested, either to Assembly or Lok Sabha.</p><p>On 2 September 2009, a helicopter carrying Reddy went missing in the Nallamala Forest area. It was later confirmed to have crashed with all five people including Reddy pronounced dead.</p>",
+        "source": "https://www.journalofastrology.com/page.php?page=ysrandscindia"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 320.8654202899176,
+            "ascendant": 11
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 275.589301423601,
+                "cusp_degree": 5.589301423601,
+                "motion_speed": -0.1227710280689857,
+                "zodiac": 10,
+                "house": 12,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 83.01304938420849,
+                "cusp_degree": 23.013049384208486,
+                "motion_speed": 0.9530192741992612,
+                "zodiac": 3,
+                "house": 5,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 242.7594866330095,
+                "cusp_degree": 2.7594866330094874,
+                "motion_speed": 13.64023020683799,
+                "zodiac": 9,
+                "house": 11,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 105.03392412728613,
+                "cusp_degree": 15.033924127286127,
+                "motion_speed": 1.2177641499965177,
+                "zodiac": 4,
+                "house": 6,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 56.94367204236564,
+                "cusp_degree": 26.94367204236564,
+                "motion_speed": 0.6875669538857607,
+                "zodiac": 2,
+                "house": 4,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 64.48638346609803,
+                "cusp_degree": 4.486383466098033,
+                "motion_speed": 1.6013918427367395,
+                "zodiac": 3,
+                "house": 5,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 129.89047367689827,
+                "cusp_degree": 9.890473676898267,
+                "motion_speed": 0.09927485292570204,
+                "zodiac": 5,
+                "house": 7,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 358.7272211743075,
+                "cusp_degree": 28.727221174307488,
+                "motion_speed": -0.16992134246723165,
+                "zodiac": 12,
+                "house": 2,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 358.2969333738032,
+                "cusp_degree": 28.2969333738032,
+                "motion_speed": -0.05299205327744216,
+                "zodiac": 12,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 178.2969333738032,
+                "motion_speed": -0.05299205327744216,
+                "cusp_degree": 28.2969333738032,
+                "zodiac": 6,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 178.7272211743075,
+                "motion_speed": -0.16992134246723165,
+                "cusp_degree": 28.727221174307488,
+                "zodiac": 6,
+                "house": 8,
+                "motion": "R"
+            }
+        }
+    }
+}

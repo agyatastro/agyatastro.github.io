@@ -13,7 +13,8 @@
         "location": "Paris, France",
         "agyat_rating": "AA",
         "about": "<p>Jehangir Ratanji Dadabhoy Tata (29 July 1904 – 29 November 1993) was a French born Indian industrialist, philanthropist, aviator and former chairman of Tata Group.</p><p>Born into the Tata family of India, he was the son of noted businessman Ratanji Dadabhoy Tata and his wife Suzanne Brière. He is best known for being the founder of several industries under the Tata Group, including Tata Consultancy Services, Tata Motors, Titan Industries, Tata Salt, Voltas and Air India. In 1982, he was awarded the French Legion of Honour and in 1955 and 1992, he received two of India's highest civilian awards: the Padma Vibhushan and the Bharat Ratna. These honours were bestowed on him for his contributions to Indian industry.</p>",
-        "related": ["tata-family"]
+        "related": ["tata-family"],
+        "advanced": "death by illness, kidney infection"
     },
     "response": {
         "ascendant": {

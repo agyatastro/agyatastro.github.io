@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Smriti Irani",
+        "title": "Actor, Politician",
+        "year": 1972,
+        "month": 3,
+        "day": 23,
+        "hour": 16,
+        "minute": 0,
+        "second": 0,
+        "latitude": 28.65195,
+        "longitude": 77.23149,
+        "location": "Delhi",
+        "agyat_rating": "AA",
+        "about": "<p>Smriti Zubin Irani (née Malhotra; born 23 March 1976) is an Indian politician, actress, fashion model, and television producer. An eminent member of the Bharatiya Janata Party (BJP), Smriti Irani has held various significant roles within the Indian Union Cabinet. Born and raised in New Delhi, Smriti comes from a diverse family background. Before entering politics, Smriti had a successful career in the entertainment industry. In 2025, after nearly 2 decades away from acting, Irani reprises her role of Tulsi Virani in Kyunki Saas Bhi Kabhi Bahu Thi 2.</p><p>Her paternal family includes Punjabi and Maharashtrian heritage, while her maternal family has a Bengali heritage. Smriti Irani joined as a normal BJP karyakarta in 2003 and since then has completed more than 22 years in the BJP. With over three-generation family of party supporters, from her grandfather as a swayamsevak, and mother as a BJP booth activist, it highlights that her relationship with the party is familial.</p><p>A prominent leader of Bharatiya Janata Party, she had been a member of Indian parliament from 2011 to 2024, serving in the Rajya Sabha from Gujarat from 2011 to 2019 and from 2019 to 2024 as a member of the Lok Sabha from the Amethi constituency in Uttar Pradesh. She was also the National President of the BJP Mahila Morcha (the party's women's wing) from 2010 to 2013. Apart from this, Smriti has been National Secretary (two terms), National-President Women's Wing and National Executive Member for five terms. She subsequently lost the constituency to long time Indian National Congress worker Kishori Lal Sharma in the 2024 elections.</p><p>In the 2019 elections, she gained the Amethi constituency by defeating opposition leader Rahul Gandhi, then-president of the Indian National Congress, whose family members had represented the constituency for the previous four decades. She is the only non-Gandhi female politician to have completed five years in Amethi constituency. She subsequently lost the constituency to Indian National Congress in the 2024 elections.</p><p>She is the founder of the Alliance for Global Good – Gender Equity and Equality, a World Economic Forum initiative aligned with BIMSTEC and G20, focused on addressing social and economic disparities through gender-focused programs. As a Strategic Advisor to the Confederation of All India Traders (CAIT), she is supposed to represent the interests of 80 million small traders in India. She also serves as an Advisory Board Member for the Women’s Collective Forum, dedicated to promoting gender equality and advancing women’s health, education, and entrepreneurship. Additionally, she is the Vice-President of The Loomba Foundation, which supports widows and their children globally, regardless of race, gender, or religion. She has also represented the Asia-Pacific Region at the 126th Inter-Parliamentary Union Assembly.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 121.72321992169711,
+            "ascendant": 5
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 253.2324895529994,
+                "cusp_degree": 13.232489552999397,
+                "motion_speed": 0.09625738629700342,
+                "zodiac": 9,
+                "house": 5,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 339.4119891786886,
+                "cusp_degree": 9.4119891786886,
+                "motion_speed": 0.9914336807642377,
+                "zodiac": 12,
+                "house": 8,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 85.87517261704572,
+                "cusp_degree": 25.87517261704572,
+                "motion_speed": 13.141652339858059,
+                "zodiac": 3,
+                "house": 11,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 24.51984115534251,
+                "cusp_degree": 24.51984115534251,
+                "motion_speed": 1.0721690458475872,
+                "zodiac": 1,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 34.064969336896226,
+                "cusp_degree": 4.064969336896226,
+                "motion_speed": 0.6543346987481027,
+                "zodiac": 2,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 352.19627751060995,
+                "cusp_degree": 22.196277510609946,
+                "motion_speed": -0.2112000492166589,
+                "zodiac": 12,
+                "house": 8,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 38.507860886230546,
+                "cusp_degree": 8.507860886230546,
+                "motion_speed": 0.08674139890343815,
+                "zodiac": 2,
+                "house": 10,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 280.02862513833344,
+                "cusp_degree": 10.028625138333439,
+                "motion_speed": 0.013370163229638913,
+                "zodiac": 10,
+                "house": 6,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 278.79565717392245,
+                "cusp_degree": 8.79565717392245,
+                "motion_speed": -0.05299204794016459,
+                "zodiac": 10,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 98.79565717392245,
+                "motion_speed": -0.05299204794016459,
+                "cusp_degree": 8.79565717392245,
+                "zodiac": 4,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 100.02862513833344,
+                "motion_speed": 0.013370163229638913,
+                "cusp_degree": 10.028625138333439,
+                "zodiac": 4,
+                "house": 12,
+                "motion": "R"
+            }
+        }
+    }
+}

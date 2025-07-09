@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Rishi Sunak",
+        "title": "Analyst, Banker, Politician, Prime Minister",
+        "year": 1980,
+        "month": 5,
+        "day": 12,
+        "hour": 11,
+        "minute": 10,
+        "second": 0,
+        "latitude": 50.90395,
+        "longitude": -1.40428,
+        "location": "Southampton",
+        "agyat_rating": "AC",
+        "about": "<p>Rishi Sunak[a] (born 12 May 1980) is a British politician who served as Prime Minister of the United Kingdom and Leader of the Conservative Party from 2022 to 2024. Following his defeat to Keir Starmer's Labour Party in the 2024 general election, he became Leader of the Opposition, serving in this role from July to November 2024. He previously held two Cabinet positions under Boris Johnson, latterly as Chancellor of the Exchequer from 2020 to 2022. Sunak has been Member of Parliament (MP) for Richmond and Northallerton, previously Richmond (Yorks), since 2015.</p><p>Sunak was born in Southampton to parents of Indian descent who immigrated to Britain from East Africa in the 1960s. He was educated at Winchester College, studied philosophy, politics and economics at Lincoln College, Oxford, and earned a Master of Business Administration from Stanford University in California as a Fulbright Scholar. During his time at Oxford University, Sunak joined the Conservatives. After graduating, Sunak worked for Goldman Sachs and later as a partner at two hedge fund firms. Sunak was elected to the House of Commons at the 2015 general election. As a backbencher, Sunak supported the successful campaign for Brexit in the 2016 European Union membership referendum. Sunak was appointed to the junior ministerial position of Parliamentary Under-Secretary of State for Local Government by Theresa May in 2019, and was appointed to the cabinet-attending role of Chief Secretary to the Treasury by Johnson in 2019.</p><p>In 2020, Sunak was promoted to Chancellor of the Exchequer. During his time in the position, Sunak was prominent in the government's financial response to the COVID-19 pandemic and its economic impact, including the furlough and Eat Out to Help Out schemes, and the cost-of living crisis. As chancellor, Sunak received high approval and popularity ratings in the early stages of the pandemic, although his popularity later declined amid the cost-of living crisis in 2022. He resigned as chancellor in July 2022 amid a government crisis, and lost the subsequent leadership election to Liz Truss. After spending the duration of Truss's premiership on the backbenches, Sunak was elected unopposed in the leadership election to succeed Truss; aged 42 at the time he became prime minister, Sunak became the youngest prime minister since The Earl of Liverpool in 1812.</p><p>During his premiership, Sunak attempted to improve the economy and stabilise national politics. He outlined five key priorities: halving inflation, growing the economy, cutting debt, reducing National Health Service waiting lists, and stopping the illegal small-boat crossings of the English Channel by enacting the Rwanda asylum plan. On foreign policy, Sunak authorised foreign aid and weapons shipments to Ukraine in response to the Russian invasion of the country, and pledged support for Israel after the October 7 Hamas-led attack on Israel which began the Gaza war whilst later calling for a ceasefire in the Gaza Strip. He did not avert further unpopularity for the Conservatives, reflected in the party's poor performances in the 2023 and 2024 local elections. Sunak called a general election for July 2024 despite being widely expected to call the election in the autumn; the Conservatives lost this election in a landslide to the opposition Labour Party led by Keir Starmer, ending 14 years of Conservative government.</p><p>After leaving office, Sunak became Leader of the Opposition and remained Conservative leader for nearly four months while the leadership election to replace him took place, and formed a shadow cabinet. He was succeeded by Kemi Badenoch, his Shadow Housing Secretary. He also intends to remain as a backbench MP for the next five years. In 2025 he took a position as a senior advisor, returning to his previous employer, Goldman Sachs, with some limits on his lobbying abilities.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 118.89757206463887,
+            "ascendant": 4
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 127.05373686391903,
+                "cusp_degree": 7.053736863919028,
+                "motion_speed": 0.04814500190555738,
+                "zodiac": 5,
+                "house": 2,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 28.287735699556407,
+                "cusp_degree": 28.287735699556407,
+                "motion_speed": 0.9655753262161165,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 0.09408065225403374,
+                "cusp_degree": 0.09408065225403374,
+                "motion_speed": 14.871615102322572,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 66.2533767425527,
+                "cusp_degree": 6.253376742552703,
+                "motion_speed": 0.4197789657978356,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 128.9606212375725,
+                "cusp_degree": 8.960621237572497,
+                "motion_speed": 0.33157374097251124,
+                "zodiac": 5,
+                "house": 2,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 27.154942533667622,
+                "cusp_degree": 27.154942533667622,
+                "motion_speed": 2.1709365544953965,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 146.7002949009374,
+                "cusp_degree": 26.700294900937394,
+                "motion_speed": -0.017264633757964505,
+                "zodiac": 5,
+                "house": 2,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 121.58139959604866,
+                "cusp_degree": 1.581399596048655,
+                "motion_speed": -0.14305953677855374,
+                "zodiac": 5,
+                "house": 2,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 121.30096682279063,
+                "cusp_degree": 1.3009668227906275,
+                "motion_speed": -0.05299207317128896,
+                "zodiac": 5,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 301.30096682279066,
+                "motion_speed": -0.05299207317128896,
+                "cusp_degree": 1.300966822790656,
+                "zodiac": 11,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 301.58139959604864,
+                "motion_speed": -0.14305953677855374,
+                "cusp_degree": 1.5813995960486409,
+                "zodiac": 11,
+                "house": 8,
+                "motion": "R"
+            }
+        }
+    }
+}

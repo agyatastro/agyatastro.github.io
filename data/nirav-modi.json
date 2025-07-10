@@ -1,0 +1,114 @@
+{
+    "request": {
+        "name": "Nirav Modi",
+        "title": "Businessperson",
+        "year": 1950,
+        "month": 9,
+        "day": 17,
+        "hour": 10,
+        "minute": 10,
+        "second": 0,
+        "latitude": 23.78593,
+        "longitude": 72.63893,
+        "location": "Vadnagar",
+        "agyat_rating": "AU",
+        "advanced": "exiled, detention, legal trouble",
+        "about": "<p>Nirav Deepak Modi (born 27 February 1971) is an Indian-born Belgian fugitive who was charged by Interpol and the Government of India for criminal conspiracy, criminal breach of trust, cheating and dishonesty including delivery of property, corruption, money laundering, fraud, embezzlement and breach of contract in August 2018. Modi is being investigated as a part of the $2 billion fraud case of Punjab National Bank (PNB). In March 2018, Modi applied for bankruptcy protection in Manhattan, New York. In June 2018, Modi was reported to be in the UK applying for political asylum. In June 2019, Swiss authorities froze a total of US$6 million in Nirav Modi's Swiss bank accounts along with the assets.</p><p>In December 2022, he lost his final appeal against extradition request by Indian agencies. Since all his requests for bail have been rejected, he is lodged in a jail. He is yet to extradited to India as his request for political asylum is pending with the UK Government.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 195.291151763882,
+            "ascendant": 7
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 306.600289135334,
+                "cusp_degree": 6.6002891353339805,
+                "motion_speed": -0.10907269079854752,
+                "zodiac": 11,
+                "house": 5,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 150.54261121602113,
+                "cusp_degree": 0.5426112160211289,
+                "motion_speed": 0.9757793654405176,
+                "zodiac": 6,
+                "house": 12,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 218.08394228208866,
+                "cusp_degree": 8.083942282088657,
+                "motion_speed": 14.379898230443176,
+                "zodiac": 8,
+                "house": 2,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 135.62490714608424,
+                "cusp_degree": 15.62490714608424,
+                "motion_speed": 1.2384836670364268,
+                "zodiac": 5,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 210.8955407238093,
+                "cusp_degree": 0.8955407238092903,
+                "motion_speed": 0.6791670956077653,
+                "zodiac": 8,
+                "house": 2,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 150.83742091170998,
+                "cusp_degree": 0.8374209117099838,
+                "motion_speed": -1.0470761038129395,
+                "zodiac": 6,
+                "house": 12,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 149.645112571927,
+                "cusp_degree": 29.645112571927,
+                "motion_speed": 0.12488012857355892,
+                "zodiac": 5,
+                "house": 11,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 335.2104652575317,
+                "cusp_degree": 5.210465257531723,
+                "motion_speed": 0.005492676985318318,
+                "zodiac": 12,
+                "house": 6,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 335.2200686362107,
+                "cusp_degree": 5.220068636210726,
+                "motion_speed": -0.05299208523460477,
+                "zodiac": 12,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 155.22006863621073,
+                "motion_speed": -0.05299208523460477,
+                "cusp_degree": 5.220068636210726,
+                "zodiac": 6,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 155.21046525753172,
+                "motion_speed": 0.005492676985318318,
+                "cusp_degree": 5.210465257531723,
+                "zodiac": 6,
+                "house": 12,
+                "motion": "R"
+            }
+        }
+    }
+}

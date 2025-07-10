@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Rakesh Jhunjhunwala",
+        "title": "Investor, Trader",
+        "year": 1960,
+        "month": 7,
+        "day": 5,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 19.07283,
+        "longitude": 72.88261,
+        "location": "Mumbai",
+        "agyat_rating": "AX",
+        "about": "<p>Rakesh Radheyshyam Jhunjhunwala (5 July 1960 – 14 August 2022) was an Indian billionaire investor, stock trader, and Chartered Accountant. He began investing in 1985 with a capital of ₹5,000, with his first major profit in 1986. At the time of his death, he had an estimated net worth of US$5.8 billion, making him the 438th richest person in the world. He was a partner in his own asset management firm, Rare Enterprises.</p><p>Besides being an active investor and stock trader, he served as chairperson and director for several companies. He was also a co-founder of Akasa Air. He was investigated for insider trading and settled with the Securities and Exchange Board of India (SEBI) in 2021. Jhunjhunwala was often referred to as the \"Big Bull of India\", and was widely known for his stock market predictions and bullish outlooks. In 2023, he was posthumously awarded the Padma Shri, India's fourth-highest civilian award.</p><p>In October 2024, his wife Rekha Jhunjhunwala was ranked 28th on the Forbes list of India’s 100 richest tycoons, with a net worth of $9.3 billion.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 154.81182194895032,
+            "ascendant": 6
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 243.54082962385976,
+                "cusp_degree": 3.5408296238597643,
+                "motion_speed": -0.11801705003285745,
+                "zodiac": 9,
+                "house": 4,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 79.90506394800379,
+                "cusp_degree": 19.905063948003786,
+                "motion_speed": 0.9530080594773276,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 209.6448712181382,
+                "cusp_degree": 29.644871218138206,
+                "motion_speed": 14.506987659343446,
+                "zodiac": 7,
+                "house": 2,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 83.36843391536898,
+                "cusp_degree": 23.368433915368982,
+                "motion_speed": 1.2293982265939698,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 17.427603915331414,
+                "cusp_degree": 17.427603915331414,
+                "motion_speed": 0.711478584662437,
+                "zodiac": 1,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 96.82589838257987,
+                "cusp_degree": 6.825898382579865,
+                "motion_speed": -0.13212989073663095,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 261.9707759496883,
+                "cusp_degree": 21.97077594968829,
+                "motion_speed": -0.07364119321005952,
+                "zodiac": 9,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 144.51716321787598,
+                "cusp_degree": 24.517163217875975,
+                "motion_speed": -0.09991467342739094,
+                "zodiac": 5,
+                "house": 12,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 145.5574545907766,
+                "cusp_degree": 25.557454590776587,
+                "motion_speed": -0.052992009514210486,
+                "zodiac": 5,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 325.5574545907766,
+                "motion_speed": -0.052992009514210486,
+                "cusp_degree": 25.557454590776615,
+                "zodiac": 11,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 324.517163217876,
+                "motion_speed": -0.09991467342739094,
+                "cusp_degree": 24.517163217875975,
+                "zodiac": 11,
+                "house": 6,
+                "motion": "R"
+            }
+        }
+    }
+}

@@ -1,0 +1,114 @@
+{
+    "request": {
+        "name": "Rana Kapoor",
+        "title": "Banker",
+        "year": 1957,
+        "month": 9,
+        "day": 9,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 28.62137,
+        "longitude": 77.2148,
+        "location": "New Delhi",
+        "agyat_rating": "AX",
+        "advanced": "detention, legal trouble",
+        "about": "<p>Rana Kapoor (born 9 September 1957) is an Indian former banker who was the founder, managing director and CEO of Yes Bank, an Indian private sector bank. Following a career in financial institutions, he co-founded Yes Bank in 2003, with its registered office in Mumbai. He was appointed as the president of ASSOCHAM in July 2013, and was succeeded by Sunil Katoria after serving his two year term.</p><p>Kapoor was arrested on 8 March 2020 by India's Enforcement Directorate over accusations of fraud in excess of US$100 million and is currently in jail. Rana Kapoor was granted bail in April 2024.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 214.82076791571185,
+            "ascendant": 8
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 163.2245904418939,
+                "cusp_degree": 13.224590441893895,
+                "motion_speed": 0.20880071644836237,
+                "zodiac": 6,
+                "house": 11,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 143.021992937212,
+                "cusp_degree": 23.02199293721199,
+                "motion_speed": 0.9713631919054139,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 323.5698273695415,
+                "cusp_degree": 23.569827369541485,
+                "motion_speed": 11.85825661471372,
+                "zodiac": 11,
+                "house": 4,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 180.81870000122586,
+                "cusp_degree": 0.8187000012258636,
+                "motion_speed": 1.1826807383222016,
+                "zodiac": 7,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 147.11495378223304,
+                "cusp_degree": 27.114953782233044,
+                "motion_speed": 0.641092112856295,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 144.20707327600465,
+                "cusp_degree": 24.20707327600465,
+                "motion_speed": -1.0040382392627947,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 225.05253880847496,
+                "cusp_degree": 15.052538808474964,
+                "motion_speed": 0.04464227100083342,
+                "zodiac": 8,
+                "house": 1,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 198.67037967963108,
+                "cusp_degree": 18.670379679631083,
+                "motion_speed": -0.1620627580169301,
+                "zodiac": 7,
+                "house": 12,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 200.13926831745306,
+                "cusp_degree": 20.13926831745306,
+                "motion_speed": -0.05299201226546229,
+                "zodiac": 7,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 20.13926831745306,
+                "motion_speed": -0.05299201226546229,
+                "cusp_degree": 20.13926831745306,
+                "zodiac": 1,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 18.670379679631083,
+                "motion_speed": -0.1620627580169301,
+                "cusp_degree": 18.670379679631083,
+                "zodiac": 1,
+                "house": 6,
+                "motion": "R"
+            }
+        }
+    }
+}

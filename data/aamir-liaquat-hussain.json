@@ -1,0 +1,115 @@
+{
+    "request": {
+        "name": "Aamir Liaquat Hussain",
+        "title": "Actor, TV Presenter, Politician",
+        "year": 1971,
+        "month": 7,
+        "day": 5,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 24.8608,
+        "longitude": 67.0104,
+        "location": "Karachi",
+        "agyat_rating": "AX",
+        "advanced": "death by accident, suicide",
+        "dod": "09/06/2022",
+        "about": "<p>Aamir Liaquat Hussain (Urdu: عامر لیاقت حسین; 5 July 1971 – 9 June 2022) was a Pakistani politician, columnist and television host. Hussain was a top ranking TV anchor and was listed three times in The 500 influential Muslims worldwide, and was among 100 popular personalities of Pakistan. He was criticized on media numerous times due to his controversial comments about superstars. He was a member of the National Assembly of Pakistan from August 2018 to June 2022.</p><p>Previously, he was a member of the National Assembly from 2002 to 2007 and served as the Minister of State for Religious Affairs from 2004 to 2007 in the federal cabinet of Prime Minister Shaukat Aziz. He died on 9 June 2022 in his room at his residence due to suffocation. According to the police, his house was full of smoke stemming from a generator.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 168.17037138366103,
+            "ascendant": 6
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 213.70681815494214,
+                "cusp_degree": 3.706818154942141,
+                "motion_speed": -0.05792064657402565,
+                "zodiac": 8,
+                "house": 3,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 79.18254729375944,
+                "cusp_degree": 19.18254729375944,
+                "motion_speed": 0.9529681481408683,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 220.5597224703567,
+                "cusp_degree": 10.55972247035669,
+                "motion_speed": 12.805036201767457,
+                "zodiac": 8,
+                "house": 3,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 64.57874583687196,
+                "cusp_degree": 4.57874583687196,
+                "motion_speed": 1.2210486155768048,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 298.2704859261241,
+                "cusp_degree": 28.27048592612408,
+                "motion_speed": 0.07457683086783326,
+                "zodiac": 10,
+                "house": 5,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 94.59207634326549,
+                "cusp_degree": 4.592076343265489,
+                "motion_speed": 1.8601086228227037,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 38.45002609979952,
+                "cusp_degree": 8.450026099799523,
+                "motion_speed": 0.10856919092642892,
+                "zodiac": 2,
+                "house": 9,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 291.4683022205595,
+                "cusp_degree": 21.468302220559508,
+                "motion_speed": -0.08513986682750735,
+                "zodiac": 10,
+                "house": 5,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 292.68527615517496,
+                "cusp_degree": 22.68527615517496,
+                "motion_speed": -0.0529920651795841,
+                "zodiac": 10,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 112.68527615517496,
+                "motion_speed": -0.0529920651795841,
+                "cusp_degree": 22.68527615517496,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 111.46830222055951,
+                "motion_speed": -0.08513986682750735,
+                "cusp_degree": 21.468302220559508,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "R"
+            }
+        }
+    }
+}

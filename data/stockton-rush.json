@@ -1,0 +1,115 @@
+{
+    "request": {
+        "name": "Stockton Rush",
+        "title": "Businessperson",
+        "year": 1962,
+        "month": 3,
+        "day": 31,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 37.77493,
+        "longitude": -122.41942,
+        "location": "San Francisco, United States",
+        "agyat_rating": "AX",
+        "dod": "18/06/2023",
+        "advanced": "death by accident, crushed, deep sea",
+        "about": "<p>Richard Stockton Rush III (March 31, 1962 – June 18, 2023) was an American businessman who was the co-founder and chief executive officer of OceanGate, a deep-sea exploration company.</p><p>After graduation from Princeton University, Rush worked for McDonnell Douglas as a flight test engineer on their F-15 program. He later was a board member for BlueView Technologies and the Museum of Flight. In 2009, he created the company OceanGate with Guillermo Söhnlein, who departed the company in 2013.</p><p>On June 18, 2023, Rush died along with four others when OceanGate's submersible Titan imploded during an attempt to visit the wreck of the Titanic.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 87.70049214470873,
+            "ascendant": 3
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 307.9414867366249,
+                "cusp_degree": 7.941486736624881,
+                "motion_speed": 0.21142707886290066,
+                "zodiac": 11,
+                "house": 9,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 347.2906293075655,
+                "cusp_degree": 17.290629307565496,
+                "motion_speed": 0.987230416954825,
+                "zodiac": 12,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 291.58234898906363,
+                "cusp_degree": 21.582348989063632,
+                "motion_speed": 14.413750575358046,
+                "zodiac": 10,
+                "house": 8,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 2.8034472653224585,
+                "cusp_degree": 2.8034472653224585,
+                "motion_speed": 1.2361447602939755,
+                "zodiac": 1,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 321.95899233057474,
+                "cusp_degree": 21.958992330574745,
+                "motion_speed": 0.7826152962532642,
+                "zodiac": 11,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 332.58291516336675,
+                "cusp_degree": 2.5829151633667493,
+                "motion_speed": 1.7704156718340602,
+                "zodiac": 12,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 286.02904055010356,
+                "cusp_degree": 16.02904055010356,
+                "motion_speed": 0.07625775849784945,
+                "zodiac": 10,
+                "house": 8,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 113.32809783644973,
+                "cusp_degree": 23.32809783644973,
+                "motion_speed": 0.00281433511129298,
+                "zodiac": 4,
+                "house": 2,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 111.93009822046528,
+                "cusp_degree": 21.930098220465283,
+                "motion_speed": -0.0529920740710766,
+                "zodiac": 4,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 291.9300982204653,
+                "motion_speed": -0.0529920740710766,
+                "cusp_degree": 21.93009822046531,
+                "zodiac": 10,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 293.32809783644973,
+                "motion_speed": 0.00281433511129298,
+                "cusp_degree": 23.32809783644973,
+                "zodiac": 10,
+                "house": 8,
+                "motion": "R"
+            }
+        }
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "request": {
+        "name": "Matthew Langford Perry",
+        "title": "Actor, Director, Screen Writer, Comic",
+        "year": 1969,
+        "month": 8,
+        "day": 19,
+        "hour": 4,
+        "minute": 47,
+        "second": 0,
+        "latitude": 42.70092,
+        "longitude": -73.10871,
+        "location": "North Adams",
+        "agyat_rating": "AA",
+        "dod": "28/10/2023",
+        "advanced": "substance-use, alcoholism",
+        "about": "<p>Matthew Langford Perry (August 19, 1969 – October 28, 2023) was an American and Canadian actor, comedian, director and screenwriter. He gained international fame for starring as Chandler Bing on the NBC television sitcom Friends (1994–2004). Perry also appeared on Ally McBeal (2002) and received Primetime Emmy Award nominations for his performances in The West Wing (2003) and The Ron Clark Story (2006). He played a leading role in the NBC series Studio 60 on the Sunset Strip (2006–2007), and also became known for his leading film roles in Fools Rush In (1997), Almost Heroes (1998), Three to Tango (1999), The Whole Nine Yards (2000), Serving Sara (2002), The Whole Ten Yards (2004), and 17 Again (2009).</p><p>Perry was co-creator, co-writer, executive producer, and star of the ABC sitcom Mr. Sunshine, which ran from February to April 2011. In August 2012, he starred as sportscaster Ryan King on the NBC sitcom Go On. He co-developed and starred in a revival of the CBS sitcom The Odd Couple portraying Oscar Madison from 2015 to 2017. He had recurring roles in the legal dramas The Good Wife (2012–2013), and The Good Fight (2017). Perry portrayed Ted Kennedy in The Kennedys: After Camelot (2017) and appeared as himself in his final television appearance, Friends: The Reunion (2021). He voiced Benny in the video game Fallout: New Vegas (2010).</p><p>For most of his life, Perry suffered from severe addictions to drugs and alcohol. Through his recovery, he became an advocate for rehabilitation and a spokesperson for the National Association of Drug Court Professionals. In 2013, Perry received the Champion of Recovery Award from the White House Office of National Drug Control Policy. In 2022, he released his memoir, Friends, Lovers, and the Big Terrible Thing.</p><p>He died on October 28, 2023, at age 54, from accidental drowning caused by the acute effects of ketamine use. Five people were charged in connection with helping him acquire lethal doses of the drug.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 118.1745149492497,
+            "ascendant": 4
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 162.30827849497678,
+                "cusp_degree": 12.308278494976776,
+                "motion_speed": 0.18850019631444634,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 122.7940000229311,
+                "cusp_degree": 2.794000022931101,
+                "motion_speed": 0.9625274938849446,
+                "zodiac": 5,
+                "house": 2,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 194.7537652998612,
+                "cusp_degree": 14.753765299861186,
+                "motion_speed": 13.344471814509333,
+                "zodiac": 7,
+                "house": 4,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 85.1745670614707,
+                "cusp_degree": 25.174567061470697,
+                "motion_speed": 1.1650500717324512,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 228.808022470027,
+                "cusp_degree": 18.808022470026998,
+                "motion_speed": 0.4478024505314865,
+                "zodiac": 8,
+                "house": 5,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 146.07713789137088,
+                "cusp_degree": 26.07713789137088,
+                "motion_speed": 1.4394954096212622,
+                "zodiac": 5,
+                "house": 2,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 15.511623150451614,
+                "cusp_degree": 15.511623150451614,
+                "motion_speed": 0.003171967466055609,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 327.86212716249986,
+                "cusp_degree": 27.86212716249986,
+                "motion_speed": 0.02012104148802657,
+                "zodiac": 11,
+                "house": 8,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 328.98000469486345,
+                "cusp_degree": 28.980004694863453,
+                "motion_speed": -0.052992083571584095,
+                "zodiac": 11,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 148.98000469486345,
+                "motion_speed": -0.052992083571584095,
+                "cusp_degree": 28.980004694863453,
+                "zodiac": 5,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 147.86212716249986,
+                "motion_speed": 0.02012104148802657,
+                "cusp_degree": 27.86212716249986,
+                "zodiac": 5,
+                "house": 2,
+                "motion": "R"
+            }
+        }
+    }
+}

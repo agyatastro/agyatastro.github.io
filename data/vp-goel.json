@@ -12,7 +12,8 @@
         "longitude": 77.1716954,
         "location": "Delhi, Delhi",
         "agyat_rating": "AA",
-        "source": "self"
+        "source": "self",
+        "advanced": "long-term-career"
     },
     "response": {
         "ascendant": {

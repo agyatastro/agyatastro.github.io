@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "A R Rahman",
+        "title": "Musician, Composer, Singer, Songwriter",
+        "year": 1967,
+        "month": 1,
+        "day": 6,
+        "hour": 5,
+        "minute": 50,
+        "second": 0,
+        "latitude": 13.08784,
+        "longitude": 80.27847,
+        "location": "Chennai",
+        "agyat_rating": "AU",
+        "about": "<p>Allah Rakha Rahman (born A. S. Dileep Kumar; 6 January 1967), also known by the initialism ARR, is an Indian music composer, record producer, singer, songwriter, multi-instrumentalist, and philanthropist known for his works in Indian cinema; predominantly in Tamil and Hindi films, with occasional forays in international cinema. He is a recipient of six National Film Awards, two Academy Awards, two Grammy Awards, a BAFTA Award, a Golden Globe Award, six Tamil Nadu State Film Awards, fifteen Filmfare Awards, and eighteen Filmfare Awards South. In 2010, the Government of India conferred him with the Padma Bhushan, the nation's third-highest civilian award.</p><p>With his in-house studio Panchathan Record Inn, Rahman's film-scoring career began during the early 1990s with the Tamil film Roja. Following that, he went on to score several songs for Tamil language films, including Mani Ratnam's politically charged Bombay, the urban Kaadhalan, Thiruda Thiruda, and S. Shankar's debut film Gentleman. Rahman's score for his first Hollywood film, the comedy Couples Retreat (2009), won the BMI Award for Best Score. His music for Slumdog Millionaire (2008) earned him Best Original Score and Best Original Song (for Jai Ho) at the 81st Academy Awards. He was also awarded Best Compilation Soundtrack Album and Best Song Written for Visual Media at the 2010 Grammy Awards. He is nicknamed \"Isai Puyal\" (transl. Musical Storm) and \"Mozart of Madras\".</p><p>Rahman has also become a humanitarian and philanthropist, donating and raising money for a number of causes and charities. In 2006, he was honoured by Stanford University for his contributions to global music. In 2008, he received Lifetime Achievement Award from the Rotary Club of Madras. In 2009, he was included on the Time list of the world's 100 most influential people. In 2014, he was awarded an honorary doctorate from Berklee College of Music. He has also received honorary doctorate from Aligarh Muslim University. In 2017, he made his debut as a director and writer for the film Le Musk. In 2024, Rahman was named Honorary President of Trinity Laban.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 245.49035296112467,
+            "ascendant": 9
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 97.92630685955007,
+                "cusp_degree": 7.926306859550067,
+                "motion_speed": -0.12446329534094505,
+                "zodiac": 4,
+                "house": 8,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 261.57085035681314,
+                "cusp_degree": 21.57085035681314,
+                "motion_speed": 1.01940741410382,
+                "zodiac": 9,
+                "house": 1,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 202.6000323947413,
+                "cusp_degree": 22.600032394741305,
+                "motion_speed": 13.786519814382379,
+                "zodiac": 7,
+                "house": 11,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 275.5805850318771,
+                "cusp_degree": 5.580585031877092,
+                "motion_speed": 1.2543935050406363,
+                "zodiac": 10,
+                "house": 2,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 173.0206969900411,
+                "cusp_degree": 23.020696990041102,
+                "motion_speed": 0.4508593906297648,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 254.3417226783455,
+                "cusp_degree": 14.34172267834549,
+                "motion_speed": 1.5734722289512468,
+                "zodiac": 9,
+                "house": 1,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 330.93896543691164,
+                "cusp_degree": 0.9389654369116442,
+                "motion_speed": 0.06790613324424735,
+                "zodiac": 12,
+                "house": 4,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 21.046039161900215,
+                "cusp_degree": 21.046039161900215,
+                "motion_speed": -0.002711690853179277,
+                "zodiac": 1,
+                "house": 5,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 19.661964229018487,
+                "cusp_degree": 19.661964229018487,
+                "motion_speed": -0.05299203634400617,
+                "zodiac": 1,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 199.66196422901848,
+                "motion_speed": -0.05299203634400617,
+                "cusp_degree": 19.66196422901848,
+                "zodiac": 7,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 201.0460391619002,
+                "motion_speed": -0.002711690853179277,
+                "cusp_degree": 21.04603916190021,
+                "zodiac": 7,
+                "house": 11,
+                "motion": "R"
+            }
+        }
+    }
+}

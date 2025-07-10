@@ -1,0 +1,114 @@
+{
+    "request": {
+        "name": "Allu Arjun",
+        "title": "Actor",
+        "year": 1983,
+        "month": 4,
+        "day": 8,
+        "hour": 0,
+        "minute": 0,
+        "second": 0,
+        "latitude": 13.08784,
+        "longitude": 80.27847,
+        "location": "Chennai",
+        "agyat_rating": "AX",
+        "advanced": "legal trouble, detention",
+        "about": "<p>Allu Arjun (born 8 April 1982) is an Indian actor who works in Telugu cinema. He is one of the highest-paid actors in Indian cinemaand has been featured in Forbes India's Celebrity 100 list since 2014. Allu Arjun's accolades include a National Film Award, six Filmfare Awards, and three Nandi Awards. He is also known for his dancing abilities and is popularly referred to as \"Stylish Star\" and \"Icon Star\" in the media.</p><p>Allu Arjun made his debut in 2003 with Gangotri. He rose to prominence starring in Sukumar's cult classic Arya (2004) for which he earned a Nandi Special Jury Award. He consolidated his reputation with the action films Bunny (2005) and Desamuduru (2007). In 2008, he starred in the romantic drama Parugu for which he won his first Filmfare Award for Best Actor – Telugu.</p><p>Allu Arjun went on to star in successful films such as Arya 2 (2009), Vedam (2010), Julayi (2012), Race Gurram (2014), S/O Satyamurthy (2015), Sarrainodu (2016), DJ: Duvvada Jagannadham (2017) and Ala Vaikunthapurramuloo (2020). His performances as a lower-class cable operator in Vedam and as a carefree street smart man in Race Gurram won him two more Filmfare Awards for Best Actor – Telugu. He also won the Filmfare Award for Best Supporting Actor in 2015 for his portrayal of prince Gona Ganna Reddy in Rudhramadevi. Allu Arjun's highest-grossers subsequently came with the Pushpa franchise which consists of Pushpa: The Rise (2021) and its sequel Pushpa 2: The Rule (2024), the latter of which ranks among the highest-grossing Indian films of all time. He received acclaim for his performance in Pushpa: The Rise, which earned him his first National Film Award for Best Actor, and fourth Filmfare Award for Best Actor – Telugu. In 2024, he was honoured with the IFFI Special Recognition for Contribution to Bharatiya Cinema Award at the 55th IFFI.</p><p>Allu Arjun endorses a wide number of brands and products, and is a celebrity brand ambassador for the Pro Kabaddi League and for the streaming service Aha.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 248.13714468801047,
+            "ascendant": 9
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 227.1254180439653,
+                "cusp_degree": 17.12541804396531,
+                "motion_speed": -0.03341860557878537,
+                "zodiac": 8,
+                "house": 12,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 353.73490215630306,
+                "cusp_degree": 23.734902156303065,
+                "motion_speed": 0.9834803302526415,
+                "zodiac": 12,
+                "house": 4,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 289.71464219312486,
+                "cusp_degree": 19.71464219312486,
+                "motion_speed": 11.88512281388588,
+                "zodiac": 10,
+                "house": 2,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 29.609098246915135,
+                "cusp_degree": 29.609098246915135,
+                "motion_speed": 1.1879603513675507,
+                "zodiac": 1,
+                "house": 5,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 7.992418851638555,
+                "cusp_degree": 7.992418851638555,
+                "motion_speed": 0.7414616178447803,
+                "zodiac": 1,
+                "house": 5,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 6.4676916012420005,
+                "cusp_degree": 6.4676916012420005,
+                "motion_speed": 1.927088906333472,
+                "zodiac": 1,
+                "house": 5,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 188.55878785776758,
+                "cusp_degree": 8.558787857767584,
+                "motion_speed": -0.07237912306464088,
+                "zodiac": 7,
+                "house": 11,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 64.41199649303294,
+                "cusp_degree": 4.4119964930329445,
+                "motion_speed": -0.07181155463603398,
+                "zodiac": 3,
+                "house": 7,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 65.11410482077058,
+                "cusp_degree": 5.114104820770578,
+                "motion_speed": -0.05299202075844984,
+                "zodiac": 3,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 245.1141048207706,
+                "motion_speed": -0.05299202075844984,
+                "cusp_degree": 5.114104820770592,
+                "zodiac": 9,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 244.41199649303294,
+                "motion_speed": -0.07181155463603398,
+                "cusp_degree": 4.4119964930329445,
+                "zodiac": 9,
+                "house": 1,
+                "motion": "R"
+            }
+        }
+    }
+}

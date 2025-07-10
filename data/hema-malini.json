@@ -1,7 +1,7 @@
 {
     "request": {
         "name": "Hema Malini",
-        "title": "Actor, Dancer",
+        "title": "Actor, Dancer, Politician",
         "year": 1948,
         "month": 10,
         "day": 16,
@@ -12,6 +12,7 @@
         "longitude": 78.71326006478583,
         "location": "Thiruchirapalli, Kerala",
         "agyat_rating": "AA",
+        "advanced": "long-term-career",
         "about": "<p>Hema Malini Dharmendra Deol (born 16 October 1948; Hindi pronunciation: [ɦeːmaː maːlɪn̪iː d̪ʱəɾmeːn̪d̪ɾə d̪eːoːl]) is an Indian actress, director, producer, and politician who is currently serving as a member of the Lok Sabha from the Bharatiya Janata Party (BJP), representing Mathura constituency since 2014. She was a member of the Rajya Sabha from Karnataka from 2011 to 2012, subsequent to her nomination to that chamber from 2003 to 2009 as a member of the BJP. Primarily known for her work in Hindi films, she has starred in both comic and dramatic roles, and is one of the most popular and successful leading actresses of mainstream Hindi cinema.</p><p> Malini made her acting debut in 1963 with the Tamil film Idhu Sathiyam. Malini first acted in a lead role in Sapno Ka Saudagar (1968), and went on to feature in numerous Hindi films, frequently opposite Dharmendra, whom she married in 1980. Malini was initially promoted as the \"Dream Girl\", and in 1977 starred in a film of the same name. She won the Filmfare Award for Best Actress for her dual role in the comedy Seeta Aur Geeta (1972), and was nominated ten more times leading up to Baghban (2003). In 2000, Malini won the Filmfare Lifetime Achievement Award and in 2019 a Filmfare Special Award for 50 Years of Outstanding Contribution to Cinema. </p><p> Malini was honoured with the Padma Shri in 2000, the fourth-highest civilian honour awarded by the Government of India. In 2012, the Sir Padampat Singhania University conferred an honorary doctorate on Malini in recognition of her contribution to Indian cinema. Malini served as chairperson of the National Film Development Corporation. In 2006, Malini received the Sopori Academy of Music And Performing Arts (SaMaPa) Vitasta award from Bhajan Sopori in Delhi for her contribution and service to Indian culture and dance. In 2013, she received the NTR National Award from the Government of Andhra Pradesh for her contribution to Indian cinema. Malini has been involved with charitable and social ventures. Currently, Malini is also a life member of the International Society for Krishna Consciousness (ISKCON).</p>",
         "related": ["deol-family"]
     },

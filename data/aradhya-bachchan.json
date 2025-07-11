@@ -1,0 +1,115 @@
+{
+    "request": {
+        "name": "Aradhya Bachchan",
+        "title": "Individial",
+        "year": 2011,
+        "month": 11,
+        "day": 16,
+        "hour": 5,
+        "minute": 30,
+        "second": 0,
+        "latitude": 19.07283,
+        "longitude": 72.88261,
+        "location": "Mumbai",
+        "agyat_rating": "AA",
+        "about": "NA",
+        "mask": true,
+        "gender": "female"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 186.14385350815814,
+            "ascendant": 7
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 8.930251186750295,
+                "cusp_degree": 8.930251186750295,
+                "motion_speed": -0.11882459534210205,
+                "zodiac": 1,
+                "house": 7,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 209.2258450565327,
+                "cusp_degree": 29.225845056532705,
+                "motion_speed": 1.0071742346559243,
+                "zodiac": 7,
+                "house": 1,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 87.05863977325001,
+                "cusp_degree": 27.058639773250007,
+                "motion_speed": 12.753394740180225,
+                "zodiac": 3,
+                "house": 9,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 232.88897950440602,
+                "cusp_degree": 22.888979504406024,
+                "motion_speed": 1.2416940898904438,
+                "zodiac": 8,
+                "house": 2,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 128.36229038751333,
+                "cusp_degree": 8.362290387513326,
+                "motion_speed": 0.4894950846059445,
+                "zodiac": 5,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 231.74946400138623,
+                "cusp_degree": 21.74946400138623,
+                "motion_speed": 0.9108843669220559,
+                "zodiac": 8,
+                "house": 2,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 180.08845046613888,
+                "cusp_degree": 0.0884504661388803,
+                "motion_speed": 0.11187494856723156,
+                "zodiac": 7,
+                "house": 1,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 230.3279633693698,
+                "cusp_degree": 20.327963369369797,
+                "motion_speed": 0.027068039609876648,
+                "zodiac": 8,
+                "house": 2,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 231.3883964255006,
+                "cusp_degree": 21.388396425500588,
+                "motion_speed": -0.05299200136703601,
+                "zodiac": 8,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 51.38839642550056,
+                "motion_speed": -0.05299200136703601,
+                "cusp_degree": 21.38839642550056,
+                "zodiac": 2,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 50.3279633693698,
+                "motion_speed": 0.027068039609876648,
+                "cusp_degree": 20.327963369369797,
+                "zodiac": 2,
+                "house": 8,
+                "motion": "R"
+            }
+        }
+    }
+}

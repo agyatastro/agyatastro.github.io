@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Ram Kapoor",
+        "title": "Actor, Businessperson",
+        "year": 1973,
+        "month": 9,
+        "day": 1,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 31.32556,
+        "longitude": 75.57917,
+        "location": "Jalandhar",
+        "agyat_rating": "AX",
+        "about": "<p>Ram Kapoor ([raːm kəpuːr]; born 1 September 1973) is an Indian actor who primarily works in Hindi films and television. One of the highest paid television actor in India, he is known for portraying Jai Walia in Kasamh Se and Ram Kapoor in Bade Achhe Lagte Hain. He is a recipient of several awards including three ITA Awards and three Indian Telly Awards.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 205.6660887714134,
+            "ascendant": 7
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 279.9791836092575,
+                "cusp_degree": 9.979183609257518,
+                "motion_speed": -0.08369540589863661,
+                "zodiac": 10,
+                "house": 4,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 135.17029823003887,
+                "cusp_degree": 15.170298230038867,
+                "motion_speed": 0.9679982131704623,
+                "zodiac": 5,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 186.9529493661947,
+                "cusp_degree": 6.9529493661947015,
+                "motion_speed": 12.77581413803927,
+                "zodiac": 7,
+                "house": 1,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 172.21685607727863,
+                "cusp_degree": 22.216856077278635,
+                "motion_speed": 1.1845304402996248,
+                "zodiac": 6,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 13.347177220478047,
+                "cusp_degree": 13.347177220478047,
+                "motion_speed": 0.2487320779091486,
+                "zodiac": 1,
+                "house": 7,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 133.62429756729907,
+                "cusp_degree": 13.624297567299067,
+                "motion_speed": 1.9492613148498497,
+                "zodiac": 5,
+                "house": 11,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 69.39468845536169,
+                "cusp_degree": 9.394688455361688,
+                "motion_speed": 0.07715162699973302,
+                "zodiac": 3,
+                "house": 9,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 251.9290809927978,
+                "cusp_degree": 11.929080992797793,
+                "motion_speed": -0.11135693949367693,
+                "zodiac": 9,
+                "house": 3,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 250.87768357463,
+                "cusp_degree": 10.877683574629998,
+                "motion_speed": -0.052992063077978595,
+                "zodiac": 9,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 70.87768357463,
+                "motion_speed": -0.052992063077978595,
+                "cusp_degree": 10.877683574629998,
+                "zodiac": 3,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 71.92908099279782,
+                "motion_speed": -0.11135693949367693,
+                "cusp_degree": 11.929080992797822,
+                "zodiac": 3,
+                "house": 9,
+                "motion": "R"
+            }
+        }
+    }
+}

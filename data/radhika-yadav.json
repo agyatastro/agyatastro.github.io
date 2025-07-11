@@ -1,0 +1,116 @@
+{
+    "request": {
+        "name": "Radhika Yadav",
+        "title": "Sportsperson",
+        "year": 2000,
+        "month": 3,
+        "day": 23,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 28.62137,
+        "longitude": 77.2148,
+        "location": "New Delhi",
+        "agyat_rating": "AX",
+        "dod": "10/07/2025",
+        "mask": true,
+        "advanced": "death by accident, gunned down",
+        "about": "<p>Radhika was born on March 23, 2000. She was ranked 113 in the International Tennis Federation as a doubles player and fifth in Haryana in the Women's Doubles category. According to reports, in the AITA (All India Tennis Association) Under-18 category, Radhika achieved her highest ranking of 75 in January 2018 and remained in the Top 100 for 11 weeks. In the AITA Women's Singles, her best rank was 35 and it was 53 in Women's Doubles.The 25-year-old was seen as one of India's emerging talents, along with the likes of Shrivalli Bhamidipaty, Poorvi Bhatt and Thaniya Sarai Gogulamanda. Radhika Yadav also ran a popular tennis academy. Radhika Yadav also been part of a music album</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 69.7432163865861,
+            "ascendant": 3
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 13.38011851029661,
+                "cusp_degree": 13.38011851029661,
+                "motion_speed": 0.21779106774740425,
+                "zodiac": 1,
+                "house": 11,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 339.0606240647123,
+                "cusp_degree": 9.060624064712272,
+                "motion_speed": 0.991462879391244,
+                "zodiac": 12,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 196.17675876684967,
+                "cusp_degree": 16.176758766849673,
+                "motion_speed": 12.655202596764159,
+                "zodiac": 7,
+                "house": 5,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 318.21499958882464,
+                "cusp_degree": 18.21499958882464,
+                "motion_speed": 1.2350535674683403,
+                "zodiac": 11,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 6.288276959284612,
+                "cusp_degree": 6.288276959284612,
+                "motion_speed": 0.7348645234805868,
+                "zodiac": 1,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 312.0512034796395,
+                "cusp_degree": 12.051203479639526,
+                "motion_speed": 0.6910668346801496,
+                "zodiac": 11,
+                "house": 9,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 20.67510114599768,
+                "cusp_degree": 20.67510114599768,
+                "motion_speed": 0.10707405048872232,
+                "zodiac": 1,
+                "house": 11,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 97.76076087537393,
+                "cusp_degree": 7.760760875373933,
+                "motion_speed": -0.16031380334598916,
+                "zodiac": 4,
+                "house": 2,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 96.8550298473892,
+                "cusp_degree": 6.855029847389204,
+                "motion_speed": -0.05299201963128857,
+                "zodiac": 4,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 276.85502984738923,
+                "motion_speed": -0.05299201963128857,
+                "cusp_degree": 6.855029847389233,
+                "zodiac": 10,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 277.76076087537393,
+                "motion_speed": -0.16031380334598916,
+                "cusp_degree": 7.760760875373933,
+                "zodiac": 10,
+                "house": 8,
+                "motion": "R"
+            }
+        }
+    }
+}

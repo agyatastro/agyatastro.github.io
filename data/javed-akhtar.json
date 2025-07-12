@@ -1,0 +1,114 @@
+{
+    "request": {
+        "name": "Javed Akhtar",
+        "title": "Screenwriter, Lyricist and Poet",
+        "year": 1945,
+        "month": 1,
+        "day": 17,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 26.22983,
+        "longitude": 78.17337,
+        "location": "Gwalior",
+        "agyat_rating": "AX",
+        "advanced": "multiple marriage, padma-shri",
+        "about": "<p>Javed Akhtar (born 17 January 1945) is an Indian screenwriter, lyricist and poet. Known for his work in Hindi cinema, he has won five National Film Awards, and received the Padma Shri in 1999 and the Padma Bhushan in 2007, two of India's highest civilian honours. He is considered as one of the greatest screenwriters in the history of Hindi Cinema.</p><p>Akhtar came to recognition in the duo Salim–Javed, and earned his breakthrough as a screenwriter with 1973's Zanjeer. He went on to write the films Deewaar and Sholay, both released in 1975; they earned a cult following, and had a significant impact in popular culture. He later earned praise for his work as a lyricist, winning the National Film Award for Best Lyrics five times and the Filmfare Award for Best Lyricist eight times.</p><p>Akhtar notably campaigned for the Communist Party of India (CPI) and their candidate in the 2019 Indian general election, and was a member of parliament in Rajya Sabha. For his work, he received the Richard Dawkins Award in 2020.</p><p>In 2024, Amazon Prime released a three-part documentary series about the Salim-Javed screenwriting duo, Angry Young Men.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 359.2595553794439,
+            "ascendant": 12
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 154.3703533299191,
+                "cusp_degree": 4.370353329919112,
+                "motion_speed": -0.016391743953477207,
+                "zodiac": 6,
+                "house": 7,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 273.700452579348,
+                "cusp_degree": 3.7004525793479957,
+                "motion_speed": 1.0184702908107963,
+                "zodiac": 10,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 313.929580189456,
+                "cusp_degree": 13.929580189455976,
+                "motion_speed": 14.436811721153237,
+                "zodiac": 11,
+                "house": 12,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 319.795002860696,
+                "cusp_degree": 19.795002860696002,
+                "motion_speed": 1.1043036338049237,
+                "zodiac": 11,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 255.4850300734298,
+                "cusp_degree": 15.485030073429812,
+                "motion_speed": 0.7527805298018915,
+                "zodiac": 9,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 250.4215594902235,
+                "cusp_degree": 10.421559490223501,
+                "motion_speed": 1.1791038837665186,
+                "zodiac": 9,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 72.6991786562732,
+                "cusp_degree": 12.699178656273205,
+                "motion_speed": -0.07408468220812066,
+                "zodiac": 3,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 85.32882501425291,
+                "cusp_degree": 25.328825014252914,
+                "motion_speed": -0.01775814131434153,
+                "zodiac": 3,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 84.8565982096573,
+                "cusp_degree": 24.856598209657307,
+                "motion_speed": -0.052992090636481456,
+                "zodiac": 3,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 264.8565982096573,
+                "motion_speed": -0.052992090636481456,
+                "cusp_degree": 24.856598209657307,
+                "zodiac": 9,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 265.3288250142529,
+                "motion_speed": -0.01775814131434153,
+                "cusp_degree": 25.328825014252914,
+                "zodiac": 9,
+                "house": 10,
+                "motion": "R"
+            }
+        }
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "request": {
+        "name": "Irrfan Khan",
+        "title": "Actor",
+        "year": 1967,
+        "month": 1,
+        "day": 7,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 26.91962,
+        "longitude": 75.78781,
+        "location": "Jaipur",
+        "agyat_rating": "AA",
+        "dod": "29/04/2020",
+        "advanced": "death by illness, neuroendocrine cancer",
+        "about": "<p>Irrfan Khan (Hindustani pronunciation: [ɪrfaːn xaːn]) (born Sahabzade Irfan Ali Khan; 7 January 1967 – 29 April 2020) was an Indian actor who worked in Indian cinema as well as British and American films. Widely regarded as one of the finest actors in world cinema, Khan's career spanned over 30 years and earned him numerous accolades, including a National Film Award, an Asian Film Award, and six Filmfare Awards. In 2011, he was awarded the Padma Shri, India's fourth highest civilian honour. In 2021, he was posthumously awarded the Filmfare Lifetime Achievement Award.</p><p>Khan made his film debut with a small role in Salaam Bombay! (1988), which was followed by years of struggle. He acted in a few Film and Television Institute of India student films such as Reconnaissance (1990), which was directed by Sandeep Chattopadhyay. After starring in the British film The Warrior (2001), he had his breakthrough with starring roles in the dramas Haasil (2003) and Maqbool (2004). He went on to gain critical acclaim for his roles in The Namesake (2006) for which he was nominated for the Independent Spirit Award for Best Supporting Male, Life in a... Metro (2007), and Paan Singh Tomar (2011). For portraying the title character in the last of these, he won the National Film Award for Best Actor. Further success came for his starring roles in The Lunchbox (2013), Piku (2015), and Talvar (2015) and he had supporting roles in the Hollywood films The Amazing Spider-Man (2012), Life of Pi (2012), Jurassic World (2015), and Inferno (2016). His other notable roles were in Slumdog Millionaire (2008), New York (2009), Haider (2014), and Gunday (2014), and the television series In Treatment (2010). His highest-grossing Hindi film release came with the comedy-drama Hindi Medium (2017), and his final film appearance was in its sequel Angrezi Medium (2020), both of which won him the Filmfare Award for Best Actor in 2018 and 2021.</p><p>As of 2017, his films had grossed $3.643 billion (₹237 billion) at the worldwide box office. Khan was diagnosed with neuroendocrine cancer in March 2018, and died from the disease on 29 April 2020. Khan was described by Peter Bradshaw of The Guardian as \"a distinguished and charismatic star in Hindi and English-language movies whose hardworking career was an enormously valuable bridge between South Asian and Hollywood cinema\". He was honoured in the 'In memoriam' segment of the 93rd Academy Awards.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 341.9374428708099,
+            "ascendant": 12
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 97.76878321582595,
+                "cusp_degree": 7.768783215825948,
+                "motion_speed": -0.12615711096311952,
+                "zodiac": 4,
+                "house": 5,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 262.8522193749198,
+                "cusp_degree": 22.852219374919798,
+                "motion_speed": 1.0194505184927247,
+                "zodiac": 9,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 219.82347550582037,
+                "cusp_degree": 9.823475505820369,
+                "motion_speed": 13.61571547207486,
+                "zodiac": 8,
+                "house": 9,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 277.1571965044418,
+                "cusp_degree": 7.157196504441799,
+                "motion_speed": 1.2542476102859779,
+                "zodiac": 10,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 173.5845533880163,
+                "cusp_degree": 23.584553388016303,
+                "motion_speed": 0.4463035751834542,
+                "zodiac": 6,
+                "house": 7,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 256.3245058306739,
+                "cusp_degree": 16.3245058306739,
+                "motion_speed": 1.5815153597972376,
+                "zodiac": 9,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 331.0254697511194,
+                "cusp_degree": 1.025469751119374,
+                "motion_speed": 0.06973205503542373,
+                "zodiac": 12,
+                "house": 1,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 21.017286237216773,
+                "cusp_degree": 21.017286237216773,
+                "motion_speed": -0.04691576005125918,
+                "zodiac": 1,
+                "house": 2,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 19.595356171468712,
+                "cusp_degree": 19.595356171468712,
+                "motion_speed": -0.05299203634400618,
+                "zodiac": 1,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 199.59535617146872,
+                "motion_speed": -0.05299203634400618,
+                "cusp_degree": 19.595356171468723,
+                "zodiac": 7,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 201.01728623721678,
+                "motion_speed": -0.04691576005125918,
+                "cusp_degree": 21.01728623721678,
+                "zodiac": 7,
+                "house": 8,
+                "motion": "R"
+            }
+        }
+    }
+}

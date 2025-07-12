@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Samantha Ruth Prabhu",
+        "title": "Actor",
+        "year": 1987,
+        "month": 4,
+        "day": 28,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 13.08784,
+        "longitude": 80.27847,
+        "location": "Chennai",
+        "agyat_rating": "XX",
+        "about": "<p>Samantha Ruth Prabhu (born 28 April 1987) is an Indian actress who works predominantly in Telugu and Tamil films. One of South India's highest-paid actresses, Samantha is the recipient of several accolades, including four Filmfare Awards South, two Nandi Awards and a Tamil Nadu State Film Award.</p><p>After a brief stint as a model while pursuing a degree in commerce, Samantha made her acting debut in the Telugu romance film Ye Maaya Chesave (2010), winning the Filmfare Award for Best Female Debut – South. She became the second actress to win both the Filmfare Award for Best Actress – Tamil and Best Actress – Telugu in the same year, for her performances in the 2012 films Neethaane En Ponvasantham and Eega, respectively. Over the next few years, she played the leading lady in top-grossing androcentric films such as Dookudu (2011), Seethamma Vakitlo Sirimalle Chettu (2012), Attarintiki Daredi (2013), Kaththi (2014), Theri (2016), 24 (2016), Mersal (2017), and Rangasthalam (2018).</p><p>Samantha's performance in A Aa (2016) won her fourth Filmfare Award, and she gained further praise for her performances in Mahanati (2018), Oh! Baby (2019), Super Deluxe (2019) and Majili (2019), and the Amazon Prime Video thriller series The Family Man (2021). The last of these earned her a Filmfare OTT Award. Following two critical and commercial failures, she starred in the action series Citadel: Honey Bunny (2024). Samantha is also the founder of a charitable trust Pratyusha Support. She is also set to make her debut as a producer with the film Subham (2025).</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 96.92107485721249,
+            "ascendant": 4
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 349.8307125736093,
+                "cusp_degree": 19.830712573609276,
+                "motion_speed": 0.23113806081559143,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 13.759379206142864,
+                "cusp_degree": 13.759379206142864,
+                "motion_speed": 0.9727212325912171,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 16.012818243893197,
+                "cusp_degree": 16.012818243893197,
+                "motion_speed": 12.813332163137687,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 343.05764019855934,
+                "cusp_degree": 13.05764019855934,
+                "motion_speed": 1.2071269998410046,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 51.329921429089524,
+                "cusp_degree": 21.329921429089524,
+                "motion_speed": 0.6602888747068225,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 3.53430336341891,
+                "cusp_degree": 3.53430336341891,
+                "motion_speed": 1.9769033718353382,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 236.85531413699914,
+                "cusp_degree": 26.85531413699914,
+                "motion_speed": -0.043428940897730695,
+                "zodiac": 8,
+                "house": 5,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 347.7481291763497,
+                "cusp_degree": 17.74812917634972,
+                "motion_speed": -0.04651784663982992,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 346.60641659506024,
+                "cusp_degree": 16.60641659506024,
+                "motion_speed": -0.05299203329172417,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 166.60641659506018,
+                "motion_speed": -0.05299203329172417,
+                "cusp_degree": 16.606416595060182,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 167.74812917634972,
+                "motion_speed": -0.04651784663982992,
+                "cusp_degree": 17.74812917634972,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "R"
+            }
+        }
+    }
+}

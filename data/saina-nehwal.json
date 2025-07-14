@@ -1,0 +1,115 @@
+{
+    "request": {
+        "name": "Saina Nehwal",
+        "title": "Badminton Player",
+        "year": 1990,
+        "month": 3,
+        "day": 17,
+        "hour": 20,
+        "minute": 45,
+        "second": 0,
+        "latitude": 29.15394,
+        "longitude": 75.72294,
+        "location": "Hisar",
+        "agyat_rating": "AA",
+        "gender": "female",
+        "advanced": "marriage, divorce",
+        "about": "<p>Saina Nehwal (born 17 March 1990) is an Indian badminton player. A former world no. 1, she has won 24 international titles, which includes ten Superseries titles. Although she reached the world's 2nd in 2009, it was only in 2015 that she was able to attain the world no. 1 ranking, thereby becoming the only female player from India and thereafter the second Indian player – after Prakash Padukone – to achieve this feat. She has represented India three times in the Olympics, winning a bronze medal in her second appearance at London 2012.</p><p>Nehwal has achieved several milestones in badminton for India. She is the only Indian to have won at least one medal in every BWF major individual event, namely the Olympics, the BWF World Championships, and the BWF World Junior Championships. She is the first Indian badminton player to have won an Olympic medal, the first Indian to have reached the final of the BWF World Championships, and the first Indian to have won the BWF World Junior Championships. In 2006, Nehwal became the first Indian female and the youngest Asian to win a 4-star tournament. She is also the first Indian to win a Super Series title. In the 2014 Uber Cup, she captained the Indian team and remained undefeated, helping India to win a first-ever Uber Cup bronze medal. Nehwal also became the first Indian to win two singles gold medals (2010 and 2018) at the Commonwealth Games.</p><p>Considered one of India's most successful badminton players, Nehwal is credited for increasing the popularity of badminton in India. In 2016, she was conferred the Padma Bhushan – India's third highest civilian award. Previously, she had also received the nation's top two sporting honours, namely the Major Dhyan Chand Khel Ratna and the Arjuna Award. Nehwal is a philanthropist and was ranked 18th on the list of most charitable athletes in 2015.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 177.165100503863,
+            "ascendant": 6
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 67.78935924081286,
+                "cusp_degree": 7.789359240812857,
+                "motion_speed": 0.06621166715133708,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 333.02677007201135,
+                "cusp_degree": 3.0267700720113453,
+                "motion_speed": 0.99500721862786,
+                "zodiac": 12,
+                "house": 7,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 221.1992508146233,
+                "cusp_degree": 11.199250814623298,
+                "motion_speed": 11.886275789369389,
+                "zodiac": 8,
+                "house": 3,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 287.2554143058074,
+                "cusp_degree": 17.255414305807392,
+                "motion_speed": 0.8803454075170062,
+                "zodiac": 10,
+                "house": 5,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 280.68988712397197,
+                "cusp_degree": 10.689887123971971,
+                "motion_speed": 0.7419439341318913,
+                "zodiac": 10,
+                "house": 5,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 331.58660408580795,
+                "cusp_degree": 1.5866040858079486,
+                "motion_speed": 1.9488256609044168,
+                "zodiac": 12,
+                "house": 7,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 269.7698503921717,
+                "cusp_degree": 29.76985039217169,
+                "motion_speed": 0.0731315344314779,
+                "zodiac": 9,
+                "house": 4,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 291.8513851905938,
+                "cusp_degree": 21.851385190593817,
+                "motion_speed": -0.05759498093624618,
+                "zodiac": 10,
+                "house": 5,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 290.73350364466114,
+                "cusp_degree": 20.73350364466114,
+                "motion_speed": -0.052992013956653726,
+                "zodiac": 10,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 110.73350364466114,
+                "motion_speed": -0.052992013956653726,
+                "cusp_degree": 20.73350364466114,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 111.85138519059382,
+                "motion_speed": -0.05759498093624618,
+                "cusp_degree": 21.851385190593817,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "R"
+            }
+        }
+    }
+}

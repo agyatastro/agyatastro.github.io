@@ -1,0 +1,115 @@
+{
+    "request": {
+        "name": "Yash Chopra",
+        "title": "Cinema Director, Cinema Producer",
+        "year": 1932,
+        "month": 9,
+        "day": 27,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 31.558,
+        "longitude": 74.35071,
+        "location": "Lahore",
+        "agyat_rating": "AX",
+        "advanced": "Padma Bhushan, death by illness, dengue",
+        "about": "</p><p>Yash Raj Chopra (27 September 1932 – 21 October 2012) was an Indian film director and film producer who worked in Hindi cinema. The founding chairman of the film production and distribution company Yash Raj Films, Chopra was the recipient of several awards, including 6 National Film Awards and 8 Filmfare Awards. He is considered among the best Hindi filmmakers, particularly known and admired for his romantic films with strong female leads. For his contributions to film, the Government of India honoured him with the Dadasaheb Phalke Award in 2001, and the Padma Bhushan in 2005. In 2006, British Academy of Film and Television Arts presented him with a lifetime membership, making him the first Indian to receive the honour.</p><p>Chopra began his career as an assistant director to I. S. Johar and his elder brother, B. R. Chopra. He made his directorial debut with Dhool Ka Phool in 1959, a melodrama about illegitimacy, and followed it with the social drama Dharmputra (1961). Chopra rose to prominence after directing the critically and commercially successful family drama Waqt (1965), which pioneered the concept of ensemble casts in Bollywood. In 1970, he founded his own production company, Yash Raj Films, whose first production was Daag: A Poem of Love (1973), a successful melodrama about polygamy. His success continued in the seventies, with some of Indian cinema's most successful and iconic films, including the action-thriller Deewaar (1975), which established Amitabh Bachchan as a leading actor in Bollywood; the ensemble musical romantic drama Kabhi Kabhie (1976) and the ensemble family drama Trishul (1978).</p><p>Chopra collaborated with Sridevi in two of what has been considered to be his finest films; the romantic musical Chandni (1989), which became instrumental in ending the era of violent films in Bollywood and rejuvenating the romantic musical genre, and the intergenerational musical romantic drama Lamhe (1991), considered by critics and Chopra himself to be his best work, but underperformed at the domestic box-office, although bringing major profits overseas. After helming the critically-panned Parampara (1993), Chopra directed the musical psychological thriller Darr (1993), the first of his collaborations with Shahrukh Khan. Chopra directed three more romantic films, all starring Khan; Dil To Pagal Hai (1997), Veer-Zaara (2004) and Jab Tak Hai Jaan (2012), before announcing his retirement from direction in 2012. He died of dengue fever during Jab Tak Hai Jaan's production in 2012. He is considered one of the all-time best directors in Bollywood industry.</p><p>",
+        "related": ["chopra-johar-family"]
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 245.14602423876116,
+            "ascendant": 9
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 137.20099464204475,
+                "cusp_degree": 17.200994642044748,
+                "motion_speed": 0.20775545773540122,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 161.05621281300148,
+                "cusp_degree": 11.05621281300148,
+                "motion_speed": 0.9819199215580906,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 122.13857415504873,
+                "cusp_degree": 2.1385741550487296,
+                "motion_speed": 13.761832403504597,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 116.15648103872952,
+                "cusp_degree": 26.156481038729524,
+                "motion_speed": 1.0805593835000382,
+                "zodiac": 4,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 100.98952600152984,
+                "cusp_degree": 10.989526001529839,
+                "motion_speed": 0.5967927972031114,
+                "zodiac": 4,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 159.37078130760344,
+                "cusp_degree": 9.370781307603437,
+                "motion_speed": 1.80601458154116,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 275.22127759491354,
+                "cusp_degree": 5.221277594913545,
+                "motion_speed": -0.009081614794999745,
+                "zodiac": 10,
+                "house": 2,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 324.1645621526946,
+                "cusp_degree": 24.1645621526946,
+                "motion_speed": 0.017899641385842605,
+                "zodiac": 11,
+                "house": 3,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 323.05282833725414,
+                "cusp_degree": 23.05282833725414,
+                "motion_speed": -0.05299206944169057,
+                "zodiac": 11,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 143.05282833725414,
+                "motion_speed": -0.05299206944169057,
+                "cusp_degree": 23.05282833725414,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 144.1645621526946,
+                "motion_speed": 0.017899641385842605,
+                "cusp_degree": 24.1645621526946,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "R"
+            }
+        }
+    }
+}

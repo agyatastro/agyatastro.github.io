@@ -1,0 +1,116 @@
+{
+    "request": {
+        "name": "Yash Johar",
+        "title": "Cinema Producer",
+        "year": 1929,
+        "month": 9,
+        "day": 6,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 31.62234,
+        "longitude": 74.87534,
+        "location": "Amritsar",
+        "agyat_rating": "AX",
+        "dod": "26/06/2004",
+        "advanced": "Dharma Production, death by illness, cancer",
+        "about": "Yash Johar (6 September 1929 – 26 June 2004) was an Indian film producer and the founder of Dharma Productions. His films featured lavish sets, were often set in \"exotic\" locations, and incorporated Indian traditions and family values. He is the father of Karan Johar, now a noted filmmaker himself.",
+        "related": ["chopra-johar-family"]
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 209.34733317470534,
+            "ascendant": 7
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 52.16108165222271,
+                "cusp_degree": 22.161081652222713,
+                "motion_speed": 0.09110194032252258,
+                "zodiac": 2,
+                "house": 8,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 140.28579036880987,
+                "cusp_degree": 20.28579036880987,
+                "motion_speed": 0.9706389650112213,
+                "zodiac": 5,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 176.0371416072358,
+                "cusp_degree": 26.03714160723581,
+                "motion_speed": 13.345059610171582,
+                "zodiac": 6,
+                "house": 12,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 103.9227286824814,
+                "cusp_degree": 13.922728682481406,
+                "motion_speed": 1.180220562443048,
+                "zodiac": 4,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 167.0227699551488,
+                "cusp_degree": 17.02276995514879,
+                "motion_speed": 0.6514122158736746,
+                "zodiac": 6,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 166.21815401512748,
+                "cusp_degree": 16.21815401512748,
+                "motion_speed": 1.1988610580480288,
+                "zodiac": 6,
+                "house": 12,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 241.07592002069111,
+                "cusp_degree": 1.0759200206911146,
+                "motion_speed": 0.013366955659970281,
+                "zodiac": 9,
+                "house": 3,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 21.03598730379809,
+                "cusp_degree": 21.03598730379809,
+                "motion_speed": -0.0640672266885086,
+                "zodiac": 1,
+                "house": 7,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 22.248106740736908,
+                "cusp_degree": 22.248106740736908,
+                "motion_speed": -0.052992138644305686,
+                "zodiac": 1,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 202.24810674073692,
+                "motion_speed": -0.052992138644305686,
+                "cusp_degree": 22.248106740736915,
+                "zodiac": 7,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 201.0359873037981,
+                "motion_speed": -0.0640672266885086,
+                "cusp_degree": 21.035987303798095,
+                "zodiac": 7,
+                "house": 1,
+                "motion": "R"
+            }
+        }
+    }
+}

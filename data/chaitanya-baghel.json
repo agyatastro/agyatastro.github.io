@@ -1,0 +1,116 @@
+{
+    "request": {
+        "name": "Chaitanya Baghel",
+        "title": "Politician, Businessperson",
+        "year": 1987,
+        "month": 7,
+        "day": 18,
+        "hour": 8,
+        "minute": 0,
+        "second": 0,
+        "latitude": 21.19147,
+        "longitude": 81.27619,
+        "location": "Durg",
+        "agyat_rating": "AC",
+        "advanced": "detained",
+        "source": "corrected by self and life events",
+        "about": "Son of Bhupesh Baghel",
+        "related": ["bhpesh-baghel-family"]
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 118.20103295692752,
+            "ascendant": 4
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 4.339992234924426,
+                "cusp_degree": 4.339992234924426,
+                "motion_speed": 0.1006448459462789,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 91.26714848358964,
+                "cusp_degree": 1.2671484835896365,
+                "motion_speed": 0.9539952456175811,
+                "zodiac": 4,
+                "house": 1,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 4.198870545167031,
+                "cusp_degree": 4.198870545167031,
+                "motion_speed": 12.93363724078325,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 81.33158716656598,
+                "cusp_degree": 21.33158716656598,
+                "motion_speed": 1.226549946912755,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 103.58144447911698,
+                "cusp_degree": 13.581444479116982,
+                "motion_speed": 0.6370813370859392,
+                "zodiac": 4,
+                "house": 1,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 74.06339230363076,
+                "cusp_degree": 14.063392303630764,
+                "motion_speed": 0.25080423287241205,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 231.65757179922701,
+                "cusp_degree": 21.657571799227014,
+                "motion_speed": -0.04803506631309978,
+                "zodiac": 8,
+                "house": 5,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 341.56193046132637,
+                "cusp_degree": 11.56193046132637,
+                "motion_speed": -0.003882888015277077,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 342.32289458524116,
+                "cusp_degree": 12.322894585241158,
+                "motion_speed": -0.05299202485012548,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 162.3228945852411,
+                "motion_speed": -0.05299202485012548,
+                "cusp_degree": 12.322894585241102,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 161.56193046132637,
+                "motion_speed": -0.003882888015277077,
+                "cusp_degree": 11.56193046132637,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "R"
+            }
+        }
+    }
+}

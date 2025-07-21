@@ -1,0 +1,117 @@
+{
+    "request": {
+        "name": "Maharaja Bhawani Singh",
+        "title": "Monarch, Army, Mahaveer Chakra Awardee",
+        "year": 1931,
+        "month": 10,
+        "day": 22,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 26.91962,
+        "longitude": 75.78781,
+        "location": "Jaipur",
+        "agyat_rating": "AX",
+        "gender": "male",
+        "about": "<p>Brigadier Maharaja Sawai Bhawani Singh MVC (22 October 1931 – 17 April 2011) was an officer in the Indian Army and an entrepreneur. He was last official Maharaja of Jaipur from 1970-1971.</p><p>Singh served in the Indian army from 1951 to 1975. In the Indo-Pakistani War of 1971, he was decorated with the Maha Vir Chakra and also he captured Pakistan district Chachro, which remained under India's control for eleven months. The country's second-highest award for gallantry in the face of the enemy. He later served as an advisor to the Indian forces in Sri Lanka. After retirement, he served as India's High Commissioner to Brunei. He oversaw the management of Rambagh Palace which had been converted into a hotel.</p><p>Singh was the son of Man Singh II, the last ruling Maharaja of the princely state of Jaipur during the British Raj. Upon the death of his father on 24 June 1970, Bhawani Singh succeeded him in receiving an annual payment (the privy purse), certain privileges, and the use of the title \"Maharaja of Jaipur\" under terms accepted earlier when princely states were absorbed into independent India. However, all were ended on December 28, 1971 by the 26th Amendment to the Constitution of India.</p><p>Bhawani Singh married Princess Padmini Devi of Sirmur in 1966. Their only child, a daughter, Diya Kumari, is an Indian politician and a Member of Parliament. Bhawani Singh died at age 79 of multi-organ failure.</p>",
+        "related": ["jaipur-rajgharana"],
+        "dod": "17/04/2011",
+        "advanced": "death by illness"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 251.38390061006902,
+            "ascendant": 9
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 116.19785865200117,
+                "cusp_degree": 26.197858652001173,
+                "motion_speed": 0.13595704868326286,
+                "zodiac": 4,
+                "house": 8,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 184.9750854484356,
+                "cusp_degree": 4.975085448435607,
+                "motion_speed": 0.994920519905556,
+                "zodiac": 7,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 318.2952124967539,
+                "cusp_degree": 18.29521249675389,
+                "motion_speed": 11.849441602176517,
+                "zodiac": 11,
+                "house": 3,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 196.58142019148568,
+                "cusp_degree": 16.581420191485677,
+                "motion_speed": 1.248162213189349,
+                "zodiac": 7,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 211.1851328914538,
+                "cusp_degree": 1.1851328914538044,
+                "motion_speed": 0.7097286738647998,
+                "zodiac": 8,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 187.37027434661422,
+                "cusp_degree": 7.370274346614224,
+                "motion_speed": 1.6500316701467024,
+                "zodiac": 7,
+                "house": 11,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 264.4981034407043,
+                "cusp_degree": 24.498103440704313,
+                "motion_speed": 0.048912392735083715,
+                "zodiac": 9,
+                "house": 1,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 342.4321250505715,
+                "cusp_degree": 12.432125050571528,
+                "motion_speed": 0.026766276234684007,
+                "zodiac": 12,
+                "house": 4,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 341.12625433654904,
+                "cusp_degree": 11.126254336549039,
+                "motion_speed": -0.052992202814226175,
+                "zodiac": 12,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 161.12625433654898,
+                "motion_speed": -0.052992202814226175,
+                "cusp_degree": 11.126254336548982,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 162.43212505057159,
+                "motion_speed": 0.026766276234684007,
+                "cusp_degree": 12.432125050571585,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "R"
+            }
+        }
+    }
+}

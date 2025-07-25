@@ -1,112 +1,112 @@
 {
-    "request": {
-        "name": "Sheikh Hasina",
-        "title": "Politician, Prime Minister",
-        "year": 1946,
-        "month": 9,
-        "day": 28,
-        "hour": 11,
-        "minute": 0,
-        "second": 0,
-        "latitude": 23.7104,
-        "longitude": 90.40744,
-        "location": "Dhaka",
-        "agyat_rating": "AA",
-        "gender": "female",
-        "advanced": "legal-troubles, detention, exile",
-        "about": "<p>Sheikh Hasina (née Wazed; born 28 September 1947) is a Bangladeshi politician who served as the tenth prime minister of Bangladesh from June 1996 to July 2001 and again from January 2009 to August 2024. Her second term in office, which critics characterized as a dictatorship, ended in self-imposed exile following the July Revolution in 2024.</p><p>Hasina is the daughter of Sheikh Mujibur Rahman, Bangladesh's founding president, and is a member of the Tungipara Sheikh political family. She had little presence in politics before her father's assassination in August 1975. Afterwards, she took asylum in India and became involved with the Awami League and was elected as its president, a position which she continues to hold to this day while residing in India. After returning to Bangladesh in 1981, she and her party Awami League became involved with the pro-democracy movement against the military dictator Hussain Muhammad Ershad, culminating in the 1990 Bangladesh mass uprising and the restoration of parliamentary democracy in the 1991 Bangladeshi general election.</p><p>Hasina and Awami League narrowly lost the 1991 election to Khaleda Zia's BNP. As leader of the opposition, Hasina accused Zia's Bangladesh Nationalist Party (BNP) of electoral dishonesty and boycotted the Parliament, which was followed by violent demonstrations and political turmoil. Khaleda Zia resigned in favour of a caretaker government, followed by Hasina becoming prime minister after the June 1996 election. The term ended in July 2001, with Hasina being succeeded by Khaleda Zia following her victory.</p><p>During the 2006–2008 political crisis, Hasina was detained on extortion charges. After her release from jail, she won the 2008 election. In the 2014 general election, she was re-elected for a third term in an election that was boycotted by the BNP and criticised by international observers. In 2017, after nearly a million Rohingya entered the country, fleeing genocide in Myanmar, Hasina received credit and praise for giving them refuge and assistance. She won a fourth and fifth term after the 2018 and 2024 elections, which were marred by violence and widely criticised as being fraudulent.</p><p>Her second premiership (2009–2024) was marked by economic mismanagement and rampant corruption, leading to rising foreign debt, increasing inflation, youth unemployment and banking irregularities. An estimated US$150 billion or Tk 17.6 lakh crore was syphoned out of Bangladesh by illegal means during this period. In 2022, anti-government protests broke out demanding the resignation of Hasina. In June 2024, fresh student protests erupted throughout the country, demanding the reform of quotas in government jobs. The protests were met with brutal crackdown by law-enforcement agencies and paramilitary forces, resulting in massacre of students. By August, the protests intensified into a mass uprising against the government, which eventually culminated in Hasina resigning and fleeing to India. In February 2025, a UN OHCHR report found that Sheikh Hasina personally directed and coordinated the crackdown and there are reasonable grounds to believe that the widespread and systematic abuse of human rights during the crackdown may amount to crimes against humanity.</p><p>It is widely considered that Bangladesh experienced democratic backsliding under her premiership. Human Rights Watch documented widespread enforced disappearances and extrajudicial killings under her government. Numerous politicians and journalists were systematically and judicially punished for challenging her views. In 2021, Reporters Without Borders gave a negative assessment of Hasina's media policy for curbing press freedom in Bangladesh since 2014. She served in the position of prime minister for over 20 years, making her the longest-serving prime minister in history of Bangladesh, thus, she became the world's longest-serving female head of government.</p><p>Hasina was among Time's 100 most influential people in the world in 2018, and was listed as being one of the 100 most powerful women in the world by Forbes in 2015, 2018, and 2022</p>",
-        "related": ["mujib-family"]
+  "request": {
+      "name": "Sheikh Hasina",
+      "title": "Politician, Prime Minister",
+      "year": 1947,
+      "month": 9,
+      "day": 28,
+      "hour": 11,
+      "minute": 0,
+      "second": 0,
+      "latitude": 22.89983,
+      "longitude": 89.90326,
+      "location": "Tungipara",
+      "agyat_rating": "AA",
+      "gender": "female",
+      "advanced": "legal-troubles, detention, exile",
+      "about": "<p>Sheikh Hasina (née Wazed; born 28 September 1947) is a Bangladeshi politician who served as the tenth prime minister of Bangladesh from June 1996 to July 2001 and again from January 2009 to August 2024. Her second term in office, which critics characterized as a dictatorship, ended in self-imposed exile following the July Revolution in 2024.</p><p>Hasina is the daughter of Sheikh Mujibur Rahman, Bangladesh's founding president, and is a member of the Tungipara Sheikh political family. She had little presence in politics before her father's assassination in August 1975. Afterwards, she took asylum in India and became involved with the Awami League and was elected as its president, a position which she continues to hold to this day while residing in India. After returning to Bangladesh in 1981, she and her party Awami League became involved with the pro-democracy movement against the military dictator Hussain Muhammad Ershad, culminating in the 1990 Bangladesh mass uprising and the restoration of parliamentary democracy in the 1991 Bangladeshi general election.</p><p>Hasina and Awami League narrowly lost the 1991 election to Khaleda Zia's BNP. As leader of the opposition, Hasina accused Zia's Bangladesh Nationalist Party (BNP) of electoral dishonesty and boycotted the Parliament, which was followed by violent demonstrations and political turmoil. Khaleda Zia resigned in favour of a caretaker government, followed by Hasina becoming prime minister after the June 1996 election. The term ended in July 2001, with Hasina being succeeded by Khaleda Zia following her victory.</p><p>During the 2006–2008 political crisis, Hasina was detained on extortion charges. After her release from jail, she won the 2008 election. In the 2014 general election, she was re-elected for a third term in an election that was boycotted by the BNP and criticised by international observers. In 2017, after nearly a million Rohingya entered the country, fleeing genocide in Myanmar, Hasina received credit and praise for giving them refuge and assistance. She won a fourth and fifth term after the 2018 and 2024 elections, which were marred by violence and widely criticised as being fraudulent.</p><p>Her second premiership (2009–2024) was marked by economic mismanagement and rampant corruption, leading to rising foreign debt, increasing inflation, youth unemployment and banking irregularities. An estimated US$150 billion or Tk 17.6 lakh crore was syphoned out of Bangladesh by illegal means during this period. In 2022, anti-government protests broke out demanding the resignation of Hasina. In June 2024, fresh student protests erupted throughout the country, demanding the reform of quotas in government jobs. The protests were met with brutal crackdown by law-enforcement agencies and paramilitary forces, resulting in massacre of students. By August, the protests intensified into a mass uprising against the government, which eventually culminated in Hasina resigning and fleeing to India. In February 2025, a UN OHCHR report found that Sheikh Hasina personally directed and coordinated the crackdown and there are reasonable grounds to believe that the widespread and systematic abuse of human rights during the crackdown may amount to crimes against humanity.</p><p>It is widely considered that Bangladesh experienced democratic backsliding under her premiership. Human Rights Watch documented widespread enforced disappearances and extrajudicial killings under her government. Numerous politicians and journalists were systematically and judicially punished for challenging her views. In 2021, Reporters Without Borders gave a negative assessment of Hasina's media policy for curbing press freedom in Bangladesh since 2014. She served in the position of prime minister for over 20 years, making her the longest-serving prime minister in history of Bangladesh, thus, she became the world's longest-serving female head of government.</p><p>Hasina was among Time's 100 most influential people in the world in 2018, and was listed as being one of the 100 most powerful women in the world by Forbes in 2015, 2018, and 2022</p>",
+      "related": ["mujib-family"]
     },
     "response": {
         "ascendant": {
-            "asc_deg": 229.37549057981295,
+            "asc_deg": 229.06124369583125,
             "ascendant": 8
         },
         "planets": {
             "Jupiter": {
-                "degree": 187.4609369745761,
-                "cusp_degree": 7.4609369745761,
-                "motion_speed": 0.20603979803060057,
-                "zodiac": 7,
-                "house": 12,
+                "degree": 211.875817308973,
+                "cusp_degree": 1.8758173089730121,
+                "motion_speed": 0.17627419250975812,
+                "zodiac": 8,
+                "house": 1,
                 "motion": "D"
             },
             "Sun": {
-                "degree": 161.35838877615396,
-                "cusp_degree": 11.358388776153959,
-                "motion_speed": 0.9820609932162785,
+                "degree": 161.1034963522906,
+                "cusp_degree": 11.103496352290591,
+                "motion_speed": 0.9811875085500559,
                 "zodiac": 6,
                 "house": 11,
                 "motion": "D"
             },
             "Moon": {
-                "degree": 194.4866315458825,
-                "cusp_degree": 14.486631545882489,
-                "motion_speed": 12.261648942514116,
-                "zodiac": 7,
-                "house": 12,
+                "degree": 316.93327131229245,
+                "cusp_degree": 16.933271312292447,
+                "motion_speed": 12.421629747291247,
+                "zodiac": 11,
+                "house": 4,
                 "motion": "D"
             },
             "Venus": {
-                "degree": 205.7422753352775,
-                "cusp_degree": 25.742275335277498,
-                "motion_speed": 0.7758531709954842,
-                "zodiac": 7,
-                "house": 12,
-                "motion": "D"
-            },
-            "Mars": {
-                "degree": 189.26957448194463,
-                "cusp_degree": 9.26957448194463,
-                "motion_speed": 0.6780618166051164,
-                "zodiac": 7,
-                "house": 12,
-                "motion": "D"
-            },
-            "Mercury": {
-                "degree": 171.6259326898472,
-                "cusp_degree": 21.62593268984719,
-                "motion_speed": 1.645378947996606,
+                "degree": 167.71922947662452,
+                "cusp_degree": 17.71922947662452,
+                "motion_speed": 1.2456818085871206,
                 "zodiac": 6,
                 "house": 11,
                 "motion": "D"
             },
+            "Mars": {
+                "degree": 95.18846336273026,
+                "cusp_degree": 5.1884633627302605,
+                "motion_speed": 0.5856554390302487,
+                "zodiac": 4,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 182.15149240662623,
+                "cusp_degree": 2.1514924066262324,
+                "motion_speed": 1.4070244722568377,
+                "zodiac": 7,
+                "house": 12,
+                "motion": "D"
+            },
             "Saturn": {
-                "degree": 103.27705151893308,
-                "cusp_degree": 13.277051518933078,
-                "motion_speed": 0.08766940827406165,
+                "degree": 115.73129219880583,
+                "cusp_degree": 25.731292198805832,
+                "motion_speed": 0.10280786822603423,
                 "zodiac": 4,
                 "house": 9,
                 "motion": "D"
             },
             "Rahu True": {
-                "degree": 51.030013323871174,
-                "cusp_degree": 21.030013323871174,
-                "motion_speed": -0.11092834715736215,
+                "degree": 31.517435012879094,
+                "cusp_degree": 1.517435012879094,
+                "motion_speed": -0.15737870516795618,
                 "zodiac": 2,
                 "house": 7,
                 "motion": "R"
             },
             "Rahu Mean": {
-                "degree": 52.05704935625791,
-                "cusp_degree": 22.057049356257913,
-                "motion_speed": -0.05299202283848936,
+                "degree": 32.7149462999921,
+                "cusp_degree": 2.7149462999921,
+                "motion_speed": -0.05299212127543705,
                 "zodiac": 2,
                 "house": 7,
                 "motion": "R"
             },
             "Ketu Mean": {
-                "degree": 232.05704935625792,
-                "motion_speed": -0.05299202283848936,
-                "cusp_degree": 22.05704935625792,
+                "degree": 212.7149462999921,
+                "motion_speed": -0.05299212127543705,
+                "cusp_degree": 2.714946299992107,
                 "zodiac": 8,
                 "house": 1,
                 "motion": "R"
             },
             "Ketu True": {
-                "degree": 231.03001332387117,
-                "motion_speed": -0.11092834715736215,
-                "cusp_degree": 21.030013323871174,
+                "degree": 211.5174350128791,
+                "motion_speed": -0.15737870516795618,
+                "cusp_degree": 1.5174350128791048,
                 "zodiac": 8,
                 "house": 1,
                 "motion": "R"

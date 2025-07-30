@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Mohan Babu",
+        "title": "Actor, Film Producer, Educationist, Businessman",
+        "year": 1952,
+        "month": 3,
+        "day": 19,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 13.63551,
+        "longitude": 79.41989,
+        "location": "Tirupati",
+        "agyat_rating": "AX",
+        "about": "<p>Manchu Bhakthavatsalam Naidu, credited and also known as Mohan Babu, is an Indian actor and film producer known for his works predominantly in Telugu cinema. An alumnus of the Madras Film Institute, Mohan Babu has acted in more than 500 films in lead, supporting and a variety of roles.</p><p>In 1995, he received Filmfare Award for Best Actor – Telugu for his work in the multi-starrer Pedarayudu, which also starred Rajinikanth in a pivotal role. In 2007, he received the CineMAA Award for Best Supporting Actor for his work in Yamadonga. Mohan Babu fetched honorary doctorate from the University of California, Berkeley for his contribution to the field of cinema and education. He is the co-owner of production companies such as Sree Lakshmi Prasanna Pictures, 24 Frames Factory and Manchu Entertainment. In 2017, he garnered the Filmfare Lifetime Achievement Award – South. In 2017, he received the \"Special Appreciation Award\" for completing \"forty years in cinema\" at the 6th South Indian International Movie Awards.</p><p>A former Physical Education Instructor, Mohan Babu is an educationalist, and operates Sree Vidyanikethan Educational Institutions, and is the founder of Sree Vidyanikethan Educational Trust. Mohan Babu announces the Mohan Babu University named after himself in Tirupati at Sree Vidyanikethan Sree Sainath Nagar, formerly known as Sree Vidyanikethan Educational Institutions in January 2022 and he is the chancellor of the university. In 2007, he was awarded Padma Shri for his contribution to Film art.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 61.33073470636478,
+            "ascendant": 3
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 357.1030056794775,
+                "cusp_degree": 27.10300567947752,
+                "motion_speed": 0.2329682908664053,
+                "zodiac": 12,
+                "house": 10,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 335.39611155879413,
+                "cusp_degree": 5.396111558794132,
+                "motion_speed": 0.9938141703923513,
+                "zodiac": 12,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 247.27922517738483,
+                "cusp_degree": 7.279225177384831,
+                "motion_speed": 14.053449144186136,
+                "zodiac": 9,
+                "house": 7,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 310.0814131982417,
+                "cusp_degree": 10.081413198241705,
+                "motion_speed": 1.2309592206807325,
+                "zodiac": 11,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 205.05080465577322,
+                "cusp_degree": 25.05080465577322,
+                "motion_speed": 0.0737391618583827,
+                "zodiac": 7,
+                "house": 5,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 353.770522936993,
+                "cusp_degree": 23.770522936993018,
+                "motion_speed": 0.9341816040587758,
+                "zodiac": 12,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 169.44857874760555,
+                "cusp_degree": 19.448578747605552,
+                "motion_speed": -0.0742608317039811,
+                "zodiac": 6,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 307.0579166360699,
+                "cusp_degree": 7.057916636069876,
+                "motion_speed": 0.0026631183076429527,
+                "zodiac": 11,
+                "house": 9,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 306.12338014903423,
+                "cusp_degree": 6.123380149034233,
+                "motion_speed": -0.05299208380396187,
+                "zodiac": 11,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 126.12338014903423,
+                "motion_speed": -0.05299208380396187,
+                "cusp_degree": 6.123380149034233,
+                "zodiac": 5,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 127.05791663606988,
+                "motion_speed": 0.0026631183076429527,
+                "cusp_degree": 7.057916636069876,
+                "zodiac": 5,
+                "house": 3,
+                "motion": "R"
+            }
+        }
+    }
+}

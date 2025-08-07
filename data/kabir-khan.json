@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Kabir Khan",
+        "title": "Film Director, Screenwriter, Producer",
+        "year": 1971,
+        "month": 7,
+        "day": 21,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 17.38405,
+        "longitude": 78.45636,
+        "location": "Hyderabad",
+        "agyat_rating": "AX",
+        "about": "<p>Kabir Khan is an Indian film director, screenwriter and cinematographer who works in Hindi cinema. He started his career working in documentary films, and then made his feature film directorial debut in 2006 with the adventure thriller Kabul Express (2006). He is best known for directing New York (2009), Ek Tha Tiger (2012), Bajrangi Bhaijaan (2015), and 83 (2021). His latest film Chandu Champion (2024) and Tariq (2025). was released on 14 June 2024 opening to positive reviews. This was his second sports biopic after 83.</p><p>He is the board member of Mumbai Academy of the Moving Image.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 179.7548216706508,
+            "ascendant": 6
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 213.15245245936762,
+                "cusp_degree": 3.1524524593676233,
+                "motion_speed": -0.010845057690838706,
+                "zodiac": 8,
+                "house": 3,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 94.39846170488148,
+                "cusp_degree": 4.398461704881484,
+                "motion_speed": 0.9547803426700333,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 81.10764729840982,
+                "cusp_degree": 21.107647298409816,
+                "motion_speed": 13.024628831361422,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 84.10913783538614,
+                "cusp_degree": 24.109137835386136,
+                "motion_speed": 1.2270019402096508,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 297.85183030974156,
+                "cusp_degree": 27.85183030974156,
+                "motion_speed": -0.12699643848722997,
+                "zodiac": 10,
+                "house": 5,
+                "motion": "R"
+            },
+            "Mercury": {
+                "degree": 119.96679815949008,
+                "cusp_degree": 29.966798159490082,
+                "motion_speed": 1.3131458053438805,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 40.06365194554099,
+                "cusp_degree": 10.06365194554099,
+                "motion_speed": 0.09292449797354048,
+                "zodiac": 2,
+                "house": 9,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 291.0747040533877,
+                "cusp_degree": 21.074704053387677,
+                "motion_speed": -0.0299024070410339,
+                "zodiac": 10,
+                "house": 5,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 291.8396850832337,
+                "cusp_degree": 21.83968508323369,
+                "motion_speed": -0.05299206517958411,
+                "zodiac": 10,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 111.83968508323369,
+                "motion_speed": -0.05299206517958411,
+                "cusp_degree": 21.83968508323369,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 111.07470405338768,
+                "motion_speed": -0.0299024070410339,
+                "cusp_degree": 21.074704053387677,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "R"
+            }
+        }
+    }
+}

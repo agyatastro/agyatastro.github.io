@@ -1,0 +1,114 @@
+{
+    "request": {
+        "name": "Gauri Khan",
+        "title": "Film Producer, Interior Designer",
+        "year": 1970,
+        "month": 10,
+        "day": 8,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 28.62137,
+        "longitude": 77.2148,
+        "location": "New Delhi",
+        "agyat_rating": "AX",
+        "about": "<p>Gauri Shah Rukh Khan (née Chhibber; born 8 October 1970), popularly known as Gauri Khan is an Indian film producer and Interior designer who works in Hindi films and the designing industry. She has produced films including Main Hoon Na, Om Shanti Om, RaOne, and Chennai Express under the production company Red Chillies Entertainment that she co-founded in 2002 with her husband, actor Shah Rukh Khan.</p><p>Khan has designed spaces for high-profile individuals, among other celebrities. In 2018, Gauri was named one of Fortune magazine's \"50 Most Powerful Women\".</p>",
+        "related": ["shahrukh-khan"]
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 244.2720039719298,
+            "ascendant": 9
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 196.10312375329363,
+                "cusp_degree": 16.10312375329363,
+                "motion_speed": 0.20836624069475357,
+                "zodiac": 7,
+                "house": 11,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 171.1165306554092,
+                "cusp_degree": 21.116530655409207,
+                "motion_speed": 0.9872635709686872,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 262.07452350044053,
+                "cusp_degree": 22.074523500440534,
+                "motion_speed": 13.789846831412738,
+                "zodiac": 9,
+                "house": 1,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 209.004596001224,
+                "cusp_degree": 29.004596001224,
+                "motion_speed": 0.42127282237312735,
+                "zodiac": 7,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 148.81689564796707,
+                "cusp_degree": 28.816895647967073,
+                "motion_speed": 0.6345527931007716,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 157.41286904689733,
+                "cusp_degree": 7.4128690468973275,
+                "motion_speed": 1.671843166813426,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 28.19318257384337,
+                "cusp_degree": 28.19318257384337,
+                "motion_speed": -0.05582891259726787,
+                "zodiac": 1,
+                "house": 5,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 308.4807446442909,
+                "cusp_degree": 8.480744644290894,
+                "motion_speed": 0.0018234990894079894,
+                "zodiac": 11,
+                "house": 3,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 306.995409197282,
+                "cusp_degree": 6.995409197282015,
+                "motion_speed": -0.05299203280235057,
+                "zodiac": 11,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 126.99540919728202,
+                "motion_speed": -0.05299203280235057,
+                "cusp_degree": 6.995409197282015,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 128.4807446442909,
+                "motion_speed": 0.0018234990894079894,
+                "cusp_degree": 8.480744644290894,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "R"
+            }
+        }
+    }
+}

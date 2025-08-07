@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Manish Malhotra",
+        "title": "Fashion Designer",
+        "year": 1966,
+        "month": 12,
+        "day": 5,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 19.07283,
+        "longitude": 72.88261,
+        "location": "Mumbai",
+        "agyat_rating": "XX",
+        "about": "<p>Manish Malhotra (born 5 December 1966) is an Indian fashion designer, couturier, costume stylist, entrepreneur, filmmaker, and revivalist based in Mumbai, India.</p><p>The founder of the eponymous label, Manish Malhotra, he sometimes took part in the narration and scripting to develop film costumes. Malhotra received the Priyadarshini Memorial Award for his contribution to the fashion industry and the Filmfare Award for Best Costume Design in 1996 for the film Rangeela (1995).</p><p>Manish Malhotra has launched two other new ventures – Manish Malhotra High Jewellery and a film production company called Stage5 Production. As of January 2025, his net worth is estimated to be US$300 million. Malhotra has walked the Met Gala red carpet in Manhattan twice: in 2024 and 2025.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 304.06046049029925,
+            "ascendant": 11
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 100.77591026272185,
+                "cusp_degree": 10.775910262721851,
+                "motion_speed": -0.04541701519630923,
+                "zodiac": 4,
+                "house": 6,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 229.27667186781642,
+                "cusp_degree": 19.276671867816418,
+                "motion_speed": 1.0148226369183415,
+                "zodiac": 8,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 139.35510271891692,
+                "cusp_degree": 19.355102718916925,
+                "motion_speed": 14.132465535428748,
+                "zodiac": 5,
+                "house": 7,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 235.73627901849625,
+                "cusp_degree": 25.736279018496248,
+                "motion_speed": 1.2565290334410628,
+                "zodiac": 8,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 157.26845810719746,
+                "cusp_degree": 7.2684581071974605,
+                "motion_speed": 0.5340630349454667,
+                "zodiac": 6,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 208.88666202399395,
+                "cusp_degree": 28.88666202399395,
+                "motion_speed": 1.045287474237131,
+                "zodiac": 7,
+                "house": 9,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 329.58838725475886,
+                "cusp_degree": 29.588387254758857,
+                "motion_speed": 0.01536542535387631,
+                "zodiac": 11,
+                "house": 1,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 22.512679715127653,
+                "cusp_degree": 22.512679715127653,
+                "motion_speed": -0.000037332173320351345,
+                "zodiac": 1,
+                "house": 3,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 21.343247285880516,
+                "cusp_degree": 21.343247285880516,
+                "motion_speed": -0.05299206951759804,
+                "zodiac": 1,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 201.34324728588052,
+                "motion_speed": -0.05299206951759804,
+                "cusp_degree": 21.343247285880523,
+                "zodiac": 7,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 202.51267971512766,
+                "motion_speed": -0.000037332173320351345,
+                "cusp_degree": 22.51267971512766,
+                "zodiac": 7,
+                "house": 9,
+                "motion": "R"
+            }
+        }
+    }
+}

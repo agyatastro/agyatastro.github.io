@@ -1,0 +1,114 @@
+{
+    "request": {
+        "name": "Ellen DeGeneres",
+        "title": "Comedian, Actor, Television host, Writer, Producer",
+        "year": 1958,
+        "month": 1,
+        "day": 26,
+        "hour": 8,
+        "minute": 43,
+        "second": 0,
+        "latitude": 29.98409,
+        "longitude": -90.15285,
+        "location": "Metairie",
+        "agyat_rating": "AA",
+        "advanced": "exiled from tv show, exiled",
+        "about": "<p>Ellen Lee DeGeneres (/dəˈdʒɛnərəs/ də-JEN-ər-əs; born January 26, 1958) is an American comedian, actress, television host, writer, and producer.</p><p>She began her career in stand-up comedy in the early 1980s, gaining national attention with a 1986 appearance on The Tonight Show Starring Johnny Carson. She starred in the television sitcoms Ellen (1994–1998) and The Ellen Show (2001–2002). She also hosted the syndicated television talk show, The Ellen DeGeneres Show (2003–2022), for which she received 33 Daytime Emmy Awards. In 2021, DeGeneres announced the end of The Ellen DeGeneres Show, following multiple allegations of workplace bullying. The controversy led to internal investigations and a sharp decline in public support, culminating in her decision to retire from the talk show in 2022.</p><p>In April 1997, DeGeneres publicly came out as a lesbian on the cover of Time with the words \"Yep, I'm gay\" and became the first openly gay lead character on an American network television show.</p><p>DeGeneres also had a successful film career, starring in Mr. Wrong (1996), EDtv (1999), The Love Letter (1999), and most notably voicing the character Dory in Finding Nemo (2003) and Finding Dory (2016).</p><p>Her accolades include the Mark Twain Prize for American Humor, 20 People's Choice Awards—more than any other individual—and the Presidential Medal of Freedom in 2016. In 2020, she became the second-ever recipient of the Carol Burnett Award for her contributions to television.</p><p>DeGeneres has also released several stand-up specials, including HBO's The Beginning (2000) and Here and Now (2003), and Netflix's Relatable (2018) and For Your Approval (2024). She is widely recognized for hosting major awards ceremonies, including the Academy Awards, Grammy Awards, and Primetime Emmy Awards.</p><p>Outside of entertainment, DeGeneres has authored four books and founded the record label eleveneleven and the production company A Very Good Production. She also launched the lifestyle brand ED Ellen DeGeneres, offering apparel, home goods, and pet products.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 316.58979836382446,
+            "ascendant": 11
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 187.7676913074148,
+                "cusp_degree": 7.767691307414793,
+                "motion_speed": 0.061246708264115865,
+                "zodiac": 7,
+                "house": 9,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 282.88226320302203,
+                "cusp_degree": 12.882263203022035,
+                "motion_speed": 1.0164414460396034,
+                "zodiac": 10,
+                "house": 12,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 356.71977296105797,
+                "cusp_degree": 26.71977296105797,
+                "motion_speed": 11.830940971230401,
+                "zodiac": 12,
+                "house": 2,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 286.4906061598656,
+                "cusp_degree": 16.490606159865592,
+                "motion_speed": -0.6097510957543973,
+                "zodiac": 10,
+                "house": 12,
+                "motion": "R"
+            },
+            "Mars": {
+                "degree": 240.91207208577103,
+                "cusp_degree": 0.9120720857710296,
+                "motion_speed": 0.7090022497137343,
+                "zodiac": 9,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 260.94635802275906,
+                "cusp_degree": 20.946358022759057,
+                "motion_speed": 1.3389155186365491,
+                "zodiac": 9,
+                "house": 11,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 238.86890564969406,
+                "cusp_degree": 28.868905649694057,
+                "motion_speed": 0.09570643959579866,
+                "zodiac": 8,
+                "house": 10,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 192.39281641194643,
+                "cusp_degree": 12.392816411946427,
+                "motion_speed": -0.019349217348077267,
+                "zodiac": 7,
+                "house": 9,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 192.7543840640307,
+                "cusp_degree": 12.754384064030688,
+                "motion_speed": -0.05299211130712194,
+                "zodiac": 7,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 12.75438406403066,
+                "motion_speed": -0.05299211130712194,
+                "cusp_degree": 12.75438406403066,
+                "zodiac": 1,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 12.392816411946455,
+                "motion_speed": -0.019349217348077267,
+                "cusp_degree": 12.392816411946455,
+                "zodiac": 1,
+                "house": 3,
+                "motion": "R"
+            }
+        }
+    }
+}

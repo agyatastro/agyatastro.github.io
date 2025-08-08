@@ -1,0 +1,115 @@
+{
+    "request": {
+        "name": "Vinod Khann",
+        "title": "Actor, Politician, Film Producer",
+        "year": 1946,
+        "month": 10,
+        "day": 6,
+        "hour": 21,
+        "minute": 38,
+        "second": 0,
+        "latitude": 34.008,
+        "longitude": 71.57849,
+        "location": "Peshawar",
+        "agyat_rating": "AA",
+        "dod": "27/04/2017",
+        "advanced": "death by bladder cancer, marriage",
+        "about": "<p>Vinod Khanna (6 October 1946 – 27 April 2017) was an Indian actor, film producer, and politician known for his work in Hindi cinema.  He is regarded as one of the greatest actors of Hindi cinema. Recognised as a style and fashion icon, he was often referred to as the \"Sexy Sanyasi\" in the media, as well a sex symbol. In 2018, he was posthumously honoured with the Dadasaheb Phalke Award, India's highest cinematic award, at the 65th National Film Awards. Beyond his film career, Khanna was also a spiritual seeker and a notable political figure, serving as a Member of Parliament from the Gurdaspur constituency between 1998–2009 and 2014–2017. He held ministerial positions in the Government of India, including Minister for Culture and Tourism and Minister of State for External Affairs under Prime Minister Atal Bihari Vajpayee.</p><p>Khanna made his film debut in 1968 and initially appeared in supporting and antagonistic roles. He portrayed an angry young man in the social drama Mere Apne (1971), the main villain in the action drama Mera Gaon Mera Desh (1971), and a military officer turned fugitive in the crime drama Achanak (1973). Khanna rose to stardom in the mid-1970s with a series of successful films, including Haath Ki Safai (1974), for which he won the Filmfare Award for Best Supporting Actor. He reached his peak in the late 1970s with blockbusters like Amar Akbar Anthony (1977) and Muqaddar Ka Sikandar (1978), solidifying his status as a leading actor. His career continued to flourish with hits such as Qurbani (1980), which became the highest-grossing film of the year and earned him critical acclaim.</p><p>In 1982, at the peak of his career, Khanna took a five-year hiatus from films to follow his spiritual guru, Osho Rajneesh. He returned to the film industry in 1987 with the film Insaaf and continued to act in various roles. In his later career, he gained acclaim for his portrayals of fatherly figures in blockbuster films such as Wanted (2009), Dabangg (2010), and Dabangg 2 (2012).</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 52.788798747001124,
+            "ascendant": 2
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 189.2292326842325,
+                "cusp_degree": 9.2292326842325,
+                "motion_speed": 0.21146620781439596,
+                "zodiac": 7,
+                "house": 6,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 169.68975489689103,
+                "cusp_degree": 19.68975489689103,
+                "motion_speed": 0.9862791813642766,
+                "zodiac": 6,
+                "house": 5,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 296.6001994798038,
+                "cusp_degree": 26.60019947980379,
+                "motion_speed": 12.835474658845046,
+                "zodiac": 10,
+                "house": 9,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 211.75034447866688,
+                "cusp_degree": 1.7503444786668751,
+                "motion_speed": 0.6354108601379646,
+                "zodiac": 8,
+                "house": 7,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 195.04597954450543,
+                "cusp_degree": 15.045979544505428,
+                "motion_speed": 0.6866185060619058,
+                "zodiac": 7,
+                "house": 6,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 185.04254989171375,
+                "cusp_degree": 5.0425498917137475,
+                "motion_speed": 1.5270349694008747,
+                "zodiac": 7,
+                "house": 6,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 103.97275836760312,
+                "cusp_degree": 13.97275836760312,
+                "motion_speed": 0.07649813949130424,
+                "zodiac": 4,
+                "house": 3,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 50.736127147897406,
+                "cusp_degree": 20.736127147897406,
+                "motion_speed": -0.10889444285296909,
+                "zodiac": 2,
+                "house": 1,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 51.60845681698058,
+                "cusp_degree": 21.608456816980578,
+                "motion_speed": -0.05299208899757941,
+                "zodiac": 2,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 231.60845681698058,
+                "motion_speed": -0.05299208899757941,
+                "cusp_degree": 21.608456816980578,
+                "zodiac": 8,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 230.7361271478974,
+                "motion_speed": -0.10889444285296909,
+                "cusp_degree": 20.736127147897406,
+                "zodiac": 8,
+                "house": 7,
+                "motion": "R"
+            }
+        }
+    }
+}

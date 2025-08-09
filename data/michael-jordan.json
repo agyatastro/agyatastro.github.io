@@ -1,0 +1,113 @@
+{
+    "request": {
+        "name": "Jordan, Michael",
+        "title": "Sportsperson, Basketball",
+        "year": 1963,
+        "month": 2,
+        "day": 17,
+        "hour": 13,
+        "minute": 40,
+        "second": 0,
+        "latitude": 40.6501,
+        "longitude": -73.94958,
+        "location": "Brooklyn",
+        "agyat_rating": "AA",
+        "about": "<p>Michael Jeffrey Jordan (born February 17, 1963), also known by his initials MJ, is an American businessman, former professional basketball player and former professional baseball player, who is currently a minority owner of the Charlotte Hornets of the National Basketball Association (NBA). He played 15 seasons in the NBA between 1984 and 2003, winning six NBA championships with the Chicago Bulls. Widely considered to be one of the greatest players of all time, he was integral in popularizing basketball and the NBA around the world in the 1980s and 1990s, becoming a global cultural icon.</p><p>Jordan played college basketball with the North Carolina Tar Heels. As a freshman, he was a member of the Tar Heels' national championship team in 1982. Jordan joined the Bulls in 1984 as the third overall draft pick and quickly emerged as a league star, entertaining crowds with his prolific scoring while gaining a reputation as one of the best defensive players. His leaping ability, demonstrated by performing slam dunks from the free-throw line in Slam Dunk Contests, earned him the nicknames \"Air Jordan\" and \"His Airness\". Jordan won his first NBA title with the Bulls in 1991 and followed that achievement with titles in 1992 and 1993, securing a three-peat. Citing physical and mental exhaustion from basketball and superstardom, Jordan abruptly retired from basketball before the 1993–94 NBA season to play Minor League Baseball in the Chicago White Sox organization. He returned to the Bulls in March 1995 and led them to three more championships in 1996, 1997, and 1998, as well as a then-record 72 regular season wins in the 1995–96 NBA season. Jordan retired for the second time in January 1999, returning for two more NBA seasons from 2001 to 2003 as a member of the Washington Wizards. He was selected to play for the United States national team during his college and NBA careers, winning four gold medals—at the 1983 Pan American Games, 1984 Summer Olympics, 1992 Tournament of the Americas and 1992 Summer Olympics—while also being undefeated.</p><p>Jordan's individual accolades include six NBA Finals Most Valuable Player (MVP) awards, ten NBA scoring titles (both all-time records), five NBA MVP awards, 10 All-NBA First Team designations, nine All-Defensive First Team honors, fourteen NBA All-Star Game selections, three NBA All-Star Game MVP awards, three NBA steals titles, and the 1988 NBA Defensive Player of the Year Award. He holds the NBA records for career regular season scoring average (30.1 points per game) and career playoff scoring average (33.4 points per game). He is one of only eight players to achieve the basketball Triple Crown. In 1999, Jordan was named the 20th century's greatest North American athlete by ESPN and was second to Babe Ruth on the Associated Press' list of athletes of the century. Jordan was twice inducted into the Naismith Memorial Basketball Hall of Fame, once in 2009 for his individual career, and again in 2010 as part of the 1992 United States men's Olympic basketball team (\"The Dream Team\"). He became a member of the United States Olympic Hall of Fame in 2009, a member of the North Carolina Sports Hall of Fame in 2010, and an individual member of the FIBA Hall of Fame in 2015 and a \"Dream Team\" member in 2017. Jordan was named to the NBA 50th Anniversary Team in 1996 and to the NBA 75th Anniversary Team in 2021. The trophy for the NBA Most Valuable Player Award is named in his honor.</p><p>One of the most effectively marketed athletes of his generation, Jordan made many product endorsements. He fueled the success of Nike's Air Jordan sneakers, which were introduced in 1984 and remain popular. Jordan starred as himself in the live-action/animation hybrid film Space Jam (1996) and was the central focus of the Emmy-winning documentary series The Last Dance (2020). He became part-owner and head of basketball operations for the Charlotte Hornets (then named the Bobcats) in 2006 and bought a controlling interest in 2010, before selling his majority stake in 2023. Jordan is also a co-owner of 23XI Racing in the NASCAR Cup Series. In 2014, he became the first billionaire player in NBA history. In 2016, President Barack Obama awarded Jordan the Presidential Medal of Freedom. As of 2025, his net worth is estimated at $3.5 billion by Forbes, making him one of the richest celebrities.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 79.75408600470965,
+            "ascendant": 3
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 325.7577844446613,
+                "cusp_degree": 25.757784444661297,
+                "motion_speed": 0.23470036355050844,
+                "zodiac": 11,
+                "house": 9,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 305.04471646839113,
+                "cusp_degree": 5.04471646839113,
+                "motion_speed": 1.009194294630264,
+                "zodiac": 11,
+                "house": 9,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 226.67524187586974,
+                "cusp_degree": 16.675241875869744,
+                "motion_speed": 12.278654726722396,
+                "zodiac": 8,
+                "house": 6,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 259.8558026843462,
+                "cusp_degree": 19.8558026843462,
+                "motion_speed": 1.1257123767349382,
+                "zodiac": 9,
+                "house": 7,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 106.61939988061236,
+                "cusp_degree": 16.619399880612363,
+                "motion_speed": -0.3322207453822828,
+                "zodiac": 4,
+                "house": 2,
+                "motion": "R"
+            },
+            "Mercury": {
+                "degree": 279.3152256162403,
+                "cusp_degree": 9.315225616240298,
+                "motion_speed": 1.1673151655433702,
+                "zodiac": 10,
+                "house": 8,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 292.19170649203573,
+                "cusp_degree": 22.191706492035735,
+                "motion_speed": 0.11789702229884813,
+                "zodiac": 10,
+                "house": 8,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 95.95619753188437,
+                "cusp_degree": 5.956197531884371,
+                "motion_speed": 0.01818950649081676,
+                "zodiac": 4,
+                "house": 2,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 94.8163528928448,
+                "cusp_degree": 4.8163528928448045,
+                "motion_speed": -0.0529920070174031,
+                "zodiac": 4,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 274.8163528928448,
+                "motion_speed": -0.0529920070174031,
+                "cusp_degree": 4.8163528928448045,
+                "zodiac": 10,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 275.95619753188436,
+                "motion_speed": 0.01818950649081676,
+                "cusp_degree": 5.9561975318843565,
+                "zodiac": 10,
+                "house": 8,
+                "motion": "R"
+            }
+        }
+    }
+}

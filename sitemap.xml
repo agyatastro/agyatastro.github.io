@@ -46,10 +46,10 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/contact/</loc>
+        <loc>https://agyat.one/cancellations/</loc>
     
         
-        <lastmod>2025-08-10T05:54:55.028Z</lastmod>
+        <lastmod>2025-07-14T10:32:27.918Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -57,10 +57,10 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/cancellations/</loc>
+        <loc>https://agyat.one/contact/</loc>
     
         
-        <lastmod>2025-07-14T10:32:27.918Z</lastmod>
+        <lastmod>2025-08-10T05:54:55.028Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -156,65 +156,10 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/calculators/manglik-dosha/</loc>
+        <loc>https://agyat.one/blog/how-to-read-a-kundli-or-birth-chart/</loc>
     
         
-        <lastmod>2025-08-10T05:54:02.165Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/calculators/moon-nakshatra/</loc>
-    
-        
-        <lastmod>2025-08-10T05:54:14.214Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/calculators/moon-sign/</loc>
-    
-        
-        <lastmod>2025-08-10T05:54:21.995Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/calculators/sade-sati/</loc>
-    
-        
-        <lastmod>2025-08-10T05:54:32.302Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/calculators/sun-sign/</loc>
-    
-        
-        <lastmod>2025-08-10T05:54:48.549Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/calculators/sun-nakshatra/</loc>
-    
-        
-        <lastmod>2025-08-10T05:54:38.947Z</lastmod>
+        <lastmod>2025-05-31T18:02:30.880Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -244,28 +189,6 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/blog/how-to-read-a-kundli-or-birth-chart/</loc>
-    
-        
-        <lastmod>2025-05-31T18:02:30.880Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/blog/know-if-rahu-is-good-or-bad/</loc>
-    
-        
-        <lastmod>2025-05-31T18:02:30.883Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
         <loc>https://agyat.one/blog/mahashivaratri-and-connection-with-moon-remedies/</loc>
     
         
@@ -281,6 +204,17 @@
     
         
         <lastmod>2025-08-07T16:41:31.949Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/blog/know-if-rahu-is-good-or-bad/</loc>
+    
+        
+        <lastmod>2025-05-31T18:02:30.883Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -310,10 +244,10 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/horoscope/monthly/</loc>
+        <loc>https://agyat.one/calculators/moon-nakshatra/</loc>
     
         
-        <lastmod>2025-05-14T15:12:06.514Z</lastmod>
+        <lastmod>2025-08-10T05:54:14.214Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -321,10 +255,65 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/lal-kitab/</loc>
+        <loc>https://agyat.one/calculators/manglik-dosha/</loc>
     
         
-        <lastmod>2025-08-10T09:52:02.923Z</lastmod>
+        <lastmod>2025-08-10T05:54:02.165Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/calculators/sade-sati/</loc>
+    
+        
+        <lastmod>2025-08-10T05:54:32.302Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/calculators/moon-sign/</loc>
+    
+        
+        <lastmod>2025-08-10T05:54:21.995Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/calculators/sun-sign/</loc>
+    
+        
+        <lastmod>2025-08-10T05:54:48.549Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/calculators/sun-nakshatra/</loc>
+    
+        
+        <lastmod>2025-08-10T05:54:38.947Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/horoscope/monthly/</loc>
+    
+        
+        <lastmod>2025-05-14T15:12:06.514Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -347,6 +336,17 @@
     
         
         <lastmod>2025-08-10T09:57:18.208Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/lal-kitab/</loc>
+    
+        
+        <lastmod>2025-08-10T09:52:02.923Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -398,10 +398,10 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/m/atharvasheersham/</loc>
+        <loc>https://agyat.one/m/baan/</loc>
     
         
-        <lastmod>2025-06-10T17:26:23.811Z</lastmod>
+        <lastmod>2025-06-10T17:29:11.093Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -409,10 +409,10 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/m/baan/</loc>
+        <loc>https://agyat.one/m/atharvasheersham/</loc>
     
         
-        <lastmod>2025-06-10T17:29:11.093Z</lastmod>
+        <lastmod>2025-06-10T17:26:23.811Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -431,10 +431,10 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/m/kavacham/</loc>
+        <loc>https://agyat.one/m/mantra/</loc>
     
         
-        <lastmod>2025-06-11T11:37:29.889Z</lastmod>
+        <lastmod>2025-06-11T11:39:19.162Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -442,10 +442,10 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/m/mantra/</loc>
+        <loc>https://agyat.one/m/kavacham/</loc>
     
         
-        <lastmod>2025-06-11T11:39:19.162Z</lastmod>
+        <lastmod>2025-06-11T11:37:29.889Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -464,10 +464,10 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/m/sahasranamam/</loc>
+        <loc>https://agyat.one/m/soundarya_lahari/</loc>
     
         
-        <lastmod>2025-06-11T11:43:51.649Z</lastmod>
+        <lastmod>2025-08-10T08:04:54.070Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -475,10 +475,10 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/m/soundarya_lahari/</loc>
+        <loc>https://agyat.one/m/sahasranamam/</loc>
     
         
-        <lastmod>2025-08-10T08:04:54.070Z</lastmod>
+        <lastmod>2025-06-11T11:43:51.649Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -501,6 +501,17 @@
     
         
         <lastmod>2025-06-11T11:53:38.803Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/</loc>
+    
+        
+        <lastmod>2025-08-10T07:17:32.280Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -552,6 +563,17 @@
     </url>
     <url>
         
+        <loc>https://agyat.one/services/vaastu-visit-consultation/</loc>
+    
+        
+        <lastmod>2025-05-31T18:02:31.476Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
         <loc>https://agyat.one/services/premium-consultation/</loc>
     
         
@@ -563,32 +585,10 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/</loc>
-    
-        
-        <lastmod>2025-08-10T07:17:32.280Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
         <loc>https://agyat.one/services/quick-consult/</loc>
     
         
         <lastmod>2025-08-08T07:35:08.962Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/services/vaastu-visit-consultation/</loc>
-    
-        
-        <lastmod>2025-05-31T18:02:31.476Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -640,32 +640,21 @@
     </url>
     <url>
         
+        <loc>https://agyat.one/m/aarati/jagdish/</loc>
+    
+        
+        <lastmod>2025-08-10T08:30:52.919Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
         <loc>https://agyat.one/m/aarati/kunjbihari/</loc>
     
         
         <lastmod>2025-08-10T08:30:45.793Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/m/aarati/ram/</loc>
-    
-        
-        <lastmod>2025-08-10T08:30:21.511Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/m/aarati/ramdev/</loc>
-    
-        
-        <lastmod>2025-08-10T08:30:13.288Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -684,10 +673,10 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/m/aarati/tulasi-mata/</loc>
+        <loc>https://agyat.one/m/aarati/ram/</loc>
     
         
-        <lastmod>2025-08-10T08:29:56.346Z</lastmod>
+        <lastmod>2025-08-10T08:30:21.511Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -706,10 +695,10 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/m/aarati/jagdish/</loc>
+        <loc>https://agyat.one/m/aarati/tulasi-mata/</loc>
     
         
-        <lastmod>2025-08-10T08:30:52.919Z</lastmod>
+        <lastmod>2025-08-10T08:29:56.346Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -717,10 +706,10 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/m/ashtakam/maha_kaal_bhairava/</loc>
+        <loc>https://agyat.one/m/aarati/ramdev/</loc>
     
         
-        <lastmod>2025-08-10T08:24:25.301Z</lastmod>
+        <lastmod>2025-08-10T08:30:13.288Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -732,6 +721,17 @@
     
         
         <lastmod>2025-08-10T08:24:11.406Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/m/ashtakam/maha_kaal_bhairava/</loc>
+    
+        
+        <lastmod>2025-08-10T08:24:25.301Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -805,10 +805,10 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/m/atharvasheersham/shri_ganapati/</loc>
+        <loc>https://agyat.one/m/baan/sri_bajarang/</loc>
     
         
-        <lastmod>2025-08-10T08:23:13.892Z</lastmod>
+        <lastmod>2025-08-10T08:23:01.451Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -816,10 +816,10 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/m/baan/sri_bajarang/</loc>
+        <loc>https://agyat.one/m/atharvasheersham/shri_ganapati/</loc>
     
         
-        <lastmod>2025-08-10T08:23:01.451Z</lastmod>
+        <lastmod>2025-08-10T08:23:13.892Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -838,32 +838,10 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/m/kavacham/sri_durga/</loc>
-    
-        
-        <lastmod>2025-08-10T08:19:47.597Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
         <loc>https://agyat.one/m/chalisa/sri_hanuman/</loc>
     
         
         <lastmod>2025-08-10T08:22:49.772Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/m/kavacham/sri_narayan/</loc>
-    
-        
-        <lastmod>2025-08-10T08:19:58.915Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -926,6 +904,28 @@
     </url>
     <url>
         
+        <loc>https://agyat.one/m/kavacham/sri_durga/</loc>
+    
+        
+        <lastmod>2025-08-10T08:19:47.597Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/m/kavacham/sri_narayan/</loc>
+    
+        
+        <lastmod>2025-08-10T08:19:58.915Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
         <loc>https://agyat.one/m/poojan-paddatti/panchopachaar/</loc>
     
         
@@ -937,10 +937,10 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/m/poojan-paddatti/shodashopachaar/</loc>
+        <loc>https://agyat.one/m/sahasranamam/durga/</loc>
     
         
-        <lastmod>2025-08-10T08:14:16.893Z</lastmod>
+        <lastmod>2025-08-10T08:21:25.893Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -948,10 +948,10 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/m/sahasranamam/durga/</loc>
+        <loc>https://agyat.one/m/poojan-paddatti/shodashopachaar/</loc>
     
         
-        <lastmod>2025-08-10T08:21:25.893Z</lastmod>
+        <lastmod>2025-08-10T08:14:16.893Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1116,40 +1116,7 @@
         <loc>https://agyat.one/kundli/bank/a-r-rahman/</loc>
     
         
-        <lastmod>2025-08-10T17:02:23.650Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/abhishek-bachchan/</loc>
-    
-        
-        <lastmod>2025-08-10T17:02:23.712Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/aamir-liaquat-hussain/</loc>
-    
-        
-        <lastmod>2025-08-10T17:02:23.688Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/abdul-karim-telgi/</loc>
-    
-        
-        <lastmod>2025-08-10T17:02:23.701Z</lastmod>
+        <lastmod>2025-08-10T17:08:59.902Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1160,7 +1127,29 @@
         <loc>https://agyat.one/kundli/bank/aamir-khan/</loc>
     
         
-        <lastmod>2025-08-10T17:02:23.673Z</lastmod>
+        <lastmod>2025-08-10T17:08:59.929Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/aamir-liaquat-hussain/</loc>
+    
+        
+        <lastmod>2025-08-10T17:08:59.947Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/abhishek-bachchan/</loc>
+    
+        
+        <lastmod>2025-08-10T17:08:59.977Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1171,7 +1160,18 @@
         <loc>https://agyat.one/kundli/bank/aditya-chopra/</loc>
     
         
-        <lastmod>2025-08-10T17:02:23.723Z</lastmod>
+        <lastmod>2025-08-10T17:08:59.989Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/abdul-karim-telgi/</loc>
+    
+        
+        <lastmod>2025-08-10T17:08:59.964Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1182,18 +1182,7 @@
         <loc>https://agyat.one/kundli/bank/aditya-vikram-birla/</loc>
     
         
-        <lastmod>2025-08-10T17:02:23.738Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/aishwarya-rai/</loc>
-    
-        
-        <lastmod>2025-08-10T17:02:23.771Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.001Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1204,18 +1193,7 @@
         <loc>https://agyat.one/kundli/bank/adolph-hitler/</loc>
     
         
-        <lastmod>2025-08-10T17:02:23.748Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/ajay-devgan/</loc>
-    
-        
-        <lastmod>2025-08-10T17:02:23.786Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.013Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1226,7 +1204,29 @@
         <loc>https://agyat.one/kundli/bank/ahmed-patel/</loc>
     
         
-        <lastmod>2025-08-10T17:02:23.759Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.023Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/aishwarya-rai/</loc>
+    
+        
+        <lastmod>2025-08-10T17:09:00.035Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/ajay-devgan/</loc>
+    
+        
+        <lastmod>2025-08-10T17:09:00.052Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1237,7 +1237,7 @@
         <loc>https://agyat.one/kundli/bank/ajit-pawar/</loc>
     
         
-        <lastmod>2025-08-10T17:02:23.801Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.072Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1248,18 +1248,7 @@
         <loc>https://agyat.one/kundli/bank/akhilesh-yadav/</loc>
     
         
-        <lastmod>2025-08-10T17:02:23.812Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/ali-khamenei/</loc>
-    
-        
-        <lastmod>2025-08-10T17:02:23.827Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.085Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1270,7 +1259,18 @@
         <loc>https://agyat.one/kundli/bank/alia-bhatt/</loc>
     
         
-        <lastmod>2025-08-10T17:02:23.842Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.112Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/ali-khamenei/</loc>
+    
+        
+        <lastmod>2025-08-10T17:09:00.100Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1281,7 +1281,7 @@
         <loc>https://agyat.one/kundli/bank/allu-arjun/</loc>
     
         
-        <lastmod>2025-08-10T17:02:23.852Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.124Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1292,7 +1292,7 @@
         <loc>https://agyat.one/kundli/bank/amanda-bynes/</loc>
     
         
-        <lastmod>2025-08-10T17:02:23.861Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.133Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1303,7 +1303,7 @@
         <loc>https://agyat.one/kundli/bank/amit-shah/</loc>
     
         
-        <lastmod>2025-08-10T17:02:23.872Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.143Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1314,18 +1314,7 @@
         <loc>https://agyat.one/kundli/bank/amitabh-bachchan/</loc>
     
         
-        <lastmod>2025-08-10T17:02:23.881Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/anand-mahindra/</loc>
-    
-        
-        <lastmod>2025-08-10T17:02:23.900Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.153Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1336,7 +1325,18 @@
         <loc>https://agyat.one/kundli/bank/amrinder-singh/</loc>
     
         
-        <lastmod>2025-08-10T17:02:23.891Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.167Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/anand-mahindra/</loc>
+    
+        
+        <lastmod>2025-08-10T17:09:00.177Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1347,7 +1347,7 @@
         <loc>https://agyat.one/kundli/bank/angelina-jolie/</loc>
     
         
-        <lastmod>2025-08-10T17:02:23.910Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.187Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1358,7 +1358,7 @@
         <loc>https://agyat.one/kundli/bank/anil-ambani/</loc>
     
         
-        <lastmod>2025-08-10T17:02:23.919Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.196Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1369,7 +1369,7 @@
         <loc>https://agyat.one/kundli/bank/anil-kapoor/</loc>
     
         
-        <lastmod>2025-08-10T17:02:23.929Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.207Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1380,7 +1380,7 @@
         <loc>https://agyat.one/kundli/bank/anil-kumble/</loc>
     
         
-        <lastmod>2025-08-10T17:02:23.941Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.217Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1391,7 +1391,7 @@
         <loc>https://agyat.one/kundli/bank/aniruddhacharya/</loc>
     
         
-        <lastmod>2025-08-10T17:02:23.951Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.227Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1402,7 +1402,7 @@
         <loc>https://agyat.one/kundli/bank/anup-jalota/</loc>
     
         
-        <lastmod>2025-08-10T17:02:23.961Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.238Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1413,18 +1413,7 @@
         <loc>https://agyat.one/kundli/bank/arvind-kejariwal/</loc>
     
         
-        <lastmod>2025-08-10T17:02:23.998Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/aradhya-bachchan/</loc>
-    
-        
-        <lastmod>2025-08-10T17:02:23.981Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.270Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1435,7 +1424,18 @@
         <loc>https://agyat.one/kundli/bank/arvind-singh-mewar/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.012Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.283Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/aradhya-bachchan/</loc>
+    
+        
+        <lastmod>2025-08-10T17:09:00.255Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1446,7 +1446,7 @@
         <loc>https://agyat.one/kundli/bank/ashok-gahlot/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.031Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.299Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1457,7 +1457,7 @@
         <loc>https://agyat.one/kundli/bank/asif-ali-zardari/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.042Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.310Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1468,18 +1468,7 @@
         <loc>https://agyat.one/kundli/bank/atal-bihari-vajpayee/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.058Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/atlee/</loc>
-    
-        
-        <lastmod>2025-08-10T17:02:24.068Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.322Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1490,7 +1479,18 @@
         <loc>https://agyat.one/kundli/bank/ayesha-takia/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.079Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.344Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/atlee/</loc>
+    
+        
+        <lastmod>2025-08-10T17:09:00.332Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1501,29 +1501,7 @@
         <loc>https://agyat.one/kundli/bank/ayub-khan/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.089Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/b-s-yediyurappa/</loc>
-    
-        
-        <lastmod>2025-08-10T17:02:24.107Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/balasaheb-thackeray/</loc>
-    
-        
-        <lastmod>2025-08-10T17:02:24.117Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.354Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1534,7 +1512,29 @@
         <loc>https://agyat.one/kundli/bank/azim-premji/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.098Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.364Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/balasaheb-thackeray/</loc>
+    
+        
+        <lastmod>2025-08-10T17:09:00.382Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/b-s-yediyurappa/</loc>
+    
+        
+        <lastmod>2025-08-10T17:09:00.373Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1545,7 +1545,7 @@
         <loc>https://agyat.one/kundli/bank/barack-obama/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.126Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.392Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1556,7 +1556,7 @@
         <loc>https://agyat.one/kundli/bank/barkha-singh/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.140Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.401Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1567,7 +1567,7 @@
         <loc>https://agyat.one/kundli/bank/bashar-al-assad/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.151Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.412Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1578,29 +1578,7 @@
         <loc>https://agyat.one/kundli/bank/ben-affleck/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.160Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/benazir-bhutto/</loc>
-    
-        
-        <lastmod>2025-08-10T17:02:24.170Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/beyonce/</loc>
-    
-        
-        <lastmod>2025-08-10T17:02:24.188Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.422Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1611,7 +1589,7 @@
         <loc>https://agyat.one/kundli/bank/benjamin-netanyahu/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.179Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.441Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1619,10 +1597,10 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/bhagwant-mann/</loc>
+        <loc>https://agyat.one/kundli/bank/benazir-bhutto/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.198Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.432Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1633,7 +1611,7 @@
         <loc>https://agyat.one/kundli/bank/bharti-singh/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.207Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.470Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1641,10 +1619,21 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/bhupesh-baghel/</loc>
+        <loc>https://agyat.one/kundli/bank/beyonce/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.225Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.451Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/bhagwant-mann/</loc>
+    
+        
+        <lastmod>2025-08-10T17:09:00.460Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1655,7 +1644,18 @@
         <loc>https://agyat.one/kundli/bank/bhupendra-bhai-patel/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.216Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.479Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/bhupesh-baghel/</loc>
+    
+        
+        <lastmod>2025-08-10T17:09:00.488Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1666,7 +1666,7 @@
         <loc>https://agyat.one/kundli/bank/bhupinder-singh-hooda/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.234Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.498Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1677,7 +1677,7 @@
         <loc>https://agyat.one/kundli/bank/bikram-singh/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.243Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.508Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1688,7 +1688,7 @@
         <loc>https://agyat.one/kundli/bank/bilawal-bhutto-zardari/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.252Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.519Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1699,7 +1699,7 @@
         <loc>https://agyat.one/kundli/bank/bill-clinton/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.261Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.528Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1710,7 +1710,7 @@
         <loc>https://agyat.one/kundli/bank/bill-gates/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.272Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.537Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1721,7 +1721,7 @@
         <loc>https://agyat.one/kundli/bank/billie-eilish/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.281Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.546Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1732,7 +1732,7 @@
         <loc>https://agyat.one/kundli/bank/bipin-rawat/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.290Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.556Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1743,18 +1743,7 @@
         <loc>https://agyat.one/kundli/bank/birju-maharaj/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.299Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/boris-johnson/</loc>
-    
-        
-        <lastmod>2025-08-10T17:02:24.316Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.566Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1765,7 +1754,18 @@
         <loc>https://agyat.one/kundli/bank/boney-kapoor/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.307Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.576Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/boris-johnson/</loc>
+    
+        
+        <lastmod>2025-08-10T17:09:00.586Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1776,7 +1776,7 @@
         <loc>https://agyat.one/kundli/bank/brad-pitt/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.325Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.595Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1787,18 +1787,7 @@
         <loc>https://agyat.one/kundli/bank/brian-lara/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.335Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/brittany-spears/</loc>
-    
-        
-        <lastmod>2025-08-10T17:02:24.349Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.604Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1809,7 +1798,7 @@
         <loc>https://agyat.one/kundli/bank/bruce-lee/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.358Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.623Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1820,7 +1809,18 @@
         <loc>https://agyat.one/kundli/bank/bruce-willis/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.367Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.632Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/brittany-spears/</loc>
+    
+        
+        <lastmod>2025-08-10T17:09:00.614Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1831,7 +1831,7 @@
         <loc>https://agyat.one/kundli/bank/cameron-diaz/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.376Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.641Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1842,18 +1842,7 @@
         <loc>https://agyat.one/kundli/bank/chaitanya-baghel/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.385Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/charan-singh/</loc>
-    
-        
-        <lastmod>2025-08-10T17:02:24.403Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.650Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1864,40 +1853,7 @@
         <loc>https://agyat.one/kundli/bank/chandra-shekhar/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.395Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/chirag-paswan/</loc>
-    
-        
-        <lastmod>2025-08-10T17:02:24.422Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/chiranjeevi/</loc>
-    
-        
-        <lastmod>2025-08-10T17:02:24.431Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/cristiano-ronaldo/</loc>
-    
-        
-        <lastmod>2025-08-10T17:02:24.440Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.660Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1908,7 +1864,7 @@
         <loc>https://agyat.one/kundli/bank/charlie-sheen/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.412Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.683Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1916,10 +1872,10 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/cyrus-s-poonawalla/</loc>
+        <loc>https://agyat.one/kundli/bank/charan-singh/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.458Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.669Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1927,10 +1883,21 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/d-k-shivakumar/</loc>
+        <loc>https://agyat.one/kundli/bank/chirag-paswan/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.468Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.692Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/chiranjeevi/</loc>
+    
+        
+        <lastmod>2025-08-10T17:09:00.701Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1941,7 +1908,7 @@
         <loc>https://agyat.one/kundli/bank/cyrus-mistry/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.450Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.719Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1949,10 +1916,10 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/dadasaheb-phalke/</loc>
+        <loc>https://agyat.one/kundli/bank/cristiano-ronaldo/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.477Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.709Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1960,10 +1927,10 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/deepika-padukone/</loc>
+        <loc>https://agyat.one/kundli/bank/cyrus-s-poonawalla/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.495Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.728Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1974,7 +1941,7 @@
         <loc>https://agyat.one/kundli/bank/dalbir-singh-suhag/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.486Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.753Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1982,10 +1949,10 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/devendra-fadnavis/</loc>
+        <loc>https://agyat.one/kundli/bank/d-k-shivakumar/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.512Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.736Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -1993,10 +1960,10 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/dhanush/</loc>
+        <loc>https://agyat.one/kundli/bank/dadasaheb-phalke/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.521Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.745Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2007,7 +1974,40 @@
         <loc>https://agyat.one/kundli/bank/dev-anand/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.503Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.773Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/devendra-fadnavis/</loc>
+    
+        
+        <lastmod>2025-08-10T17:09:00.785Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/dhanush/</loc>
+    
+        
+        <lastmod>2025-08-10T17:09:00.793Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/deepika-padukone/</loc>
+    
+        
+        <lastmod>2025-08-10T17:09:00.764Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2018,7 +2018,7 @@
         <loc>https://agyat.one/kundli/bank/dharmendra/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.531Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.802Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2029,29 +2029,7 @@
         <loc>https://agyat.one/kundli/bank/dhirendra-krishna-shastri/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.540Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/dhirubhai-ambani/</loc>
-    
-        
-        <lastmod>2025-08-10T17:02:24.549Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/digvijaya-singh/</loc>
-    
-        
-        <lastmod>2025-08-10T17:02:24.559Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.811Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2062,7 +2040,29 @@
         <loc>https://agyat.one/kundli/bank/dilip-kumar/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.569Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.842Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/dhirubhai-ambani/</loc>
+    
+        
+        <lastmod>2025-08-10T17:09:00.821Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/digvijaya-singh/</loc>
+    
+        
+        <lastmod>2025-08-10T17:09:00.830Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2073,18 +2073,7 @@
         <loc>https://agyat.one/kundli/bank/donald-trump/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.586Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/dushyant-chautala/</loc>
-    
-        
-        <lastmod>2025-08-10T17:02:24.594Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.874Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2095,7 +2084,7 @@
         <loc>https://agyat.one/kundli/bank/donald-trump-jr/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.577Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.856Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2106,7 +2095,7 @@
         <loc>https://agyat.one/kundli/bank/ekta-kapoor/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.603Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.906Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2117,7 +2106,7 @@
         <loc>https://agyat.one/kundli/bank/ellen-degeneres/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.616Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.920Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2125,10 +2114,10 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/elon-musk/</loc>
+        <loc>https://agyat.one/kundli/bank/dushyant-chautala/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.627Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.889Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2139,7 +2128,7 @@
         <loc>https://agyat.one/kundli/bank/emma-watson/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.636Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.943Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2150,7 +2139,7 @@
         <loc>https://agyat.one/kundli/bank/gaur-gopal-das/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.646Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.954Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2158,10 +2147,10 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/gauri-khan/</loc>
+        <loc>https://agyat.one/kundli/bank/elon-musk/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.659Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.930Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2172,7 +2161,7 @@
         <loc>https://agyat.one/kundli/bank/gautam-adani/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.668Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.980Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2180,10 +2169,10 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/gautam-singhania/</loc>
+        <loc>https://agyat.one/kundli/bank/gauri-khan/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.678Z</lastmod>
+        <lastmod>2025-08-10T17:09:00.969Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2194,18 +2183,7 @@
         <loc>https://agyat.one/kundli/bank/george-w-bush/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.686Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/gigi-hadid/</loc>
-    
-        
-        <lastmod>2025-08-10T17:02:24.704Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.006Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2216,7 +2194,29 @@
         <loc>https://agyat.one/kundli/bank/ghanshyam-das-birla/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.695Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.023Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/gautam-singhania/</loc>
+    
+        
+        <lastmod>2025-08-10T17:09:00.994Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/gigi-hadid/</loc>
+    
+        
+        <lastmod>2025-08-10T17:09:01.034Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2227,7 +2227,7 @@
         <loc>https://agyat.one/kundli/bank/gopichand-hinduja/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.713Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.044Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2238,7 +2238,7 @@
         <loc>https://agyat.one/kundli/bank/govinda/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.721Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.053Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2249,7 +2249,7 @@
         <loc>https://agyat.one/kundli/bank/h-d-deve-gowda/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.730Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.063Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2260,7 +2260,7 @@
         <loc>https://agyat.one/kundli/bank/harbhajan-singh/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.738Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.073Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2271,7 +2271,7 @@
         <loc>https://agyat.one/kundli/bank/hardik-patel/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.747Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.082Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2282,7 +2282,7 @@
         <loc>https://agyat.one/kundli/bank/harshad-mehta/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.759Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.091Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2293,7 +2293,7 @@
         <loc>https://agyat.one/kundli/bank/hema-malini/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.768Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.100Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2304,18 +2304,7 @@
         <loc>https://agyat.one/kundli/bank/hemant-soren/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.777Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/henry-kissinger/</loc>
-    
-        
-        <lastmod>2025-08-10T17:02:24.786Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.109Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2326,7 +2315,18 @@
         <loc>https://agyat.one/kundli/bank/hunter-biden/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.795Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.129Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/henry-kissinger/</loc>
+    
+        
+        <lastmod>2025-08-10T17:09:01.119Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2337,18 +2337,7 @@
         <loc>https://agyat.one/kundli/bank/ilhan-omar/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.803Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/imran-khan/</loc>
-    
-        
-        <lastmod>2025-08-10T17:02:24.814Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.138Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2359,7 +2348,18 @@
         <loc>https://agyat.one/kundli/bank/inder-kumar-gujral/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.822Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.156Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/imran-khan/</loc>
+    
+        
+        <lastmod>2025-08-10T17:09:01.147Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2370,7 +2370,7 @@
         <loc>https://agyat.one/kundli/bank/indira-gandhi/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.831Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.166Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2381,7 +2381,7 @@
         <loc>https://agyat.one/kundli/bank/irfan-khan/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.840Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.175Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2392,18 +2392,7 @@
         <loc>https://agyat.one/kundli/bank/j-d-vance/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.849Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/j-r-d-tata/</loc>
-    
-        
-        <lastmod>2025-08-10T17:02:24.867Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.184Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2414,7 +2403,7 @@
         <loc>https://agyat.one/kundli/bank/j-jayalalitha/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.858Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.192Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2422,10 +2411,10 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/jagdeep-dhankhar/</loc>
+        <loc>https://agyat.one/kundli/bank/j-r-d-tata/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.876Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.201Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2436,7 +2425,18 @@
         <loc>https://agyat.one/kundli/bank/jamnalal-bajaj/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.889Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.219Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/jagdeep-dhankhar/</loc>
+    
+        
+        <lastmod>2025-08-10T17:09:01.210Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2447,18 +2447,7 @@
         <loc>https://agyat.one/kundli/bank/javed-akhtar/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.907Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/jamsetji-tata/</loc>
-    
-        
-        <lastmod>2025-08-10T17:02:24.898Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.237Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2469,7 +2458,7 @@
         <loc>https://agyat.one/kundli/bank/jawahar-lal-nehru/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.916Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.246Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2477,10 +2466,10 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/jaya-kishori/</loc>
+        <loc>https://agyat.one/kundli/bank/jamsetji-tata/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.925Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.228Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2491,7 +2480,7 @@
         <loc>https://agyat.one/kundli/bank/jaya-prada/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.934Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.264Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2502,7 +2491,18 @@
         <loc>https://agyat.one/kundli/bank/jennifer-lopez/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.942Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.273Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/jaya-kishori/</loc>
+    
+        
+        <lastmod>2025-08-10T17:09:01.254Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2513,7 +2513,7 @@
         <loc>https://agyat.one/kundli/bank/jeremy-renner/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.953Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.282Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2524,18 +2524,7 @@
         <loc>https://agyat.one/kundli/bank/jimmy-buffet/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.965Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/joe-jonas/</loc>
-    
-        
-        <lastmod>2025-08-10T17:02:24.983Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.292Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2546,7 +2535,18 @@
         <loc>https://agyat.one/kundli/bank/joe-biden/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.974Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.301Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/joe-jonas/</loc>
+    
+        
+        <lastmod>2025-08-10T17:09:01.310Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2557,7 +2557,7 @@
         <loc>https://agyat.one/kundli/bank/johnny-depp/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.000Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.329Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2568,18 +2568,7 @@
         <loc>https://agyat.one/kundli/bank/john-f-kennedy/</loc>
     
         
-        <lastmod>2025-08-10T17:02:24.991Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/julia-roberts/</loc>
-    
-        
-        <lastmod>2025-08-10T17:02:25.019Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.320Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2590,7 +2579,7 @@
         <loc>https://agyat.one/kundli/bank/jugal-kishore-birla/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.010Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.338Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2601,18 +2590,7 @@
         <loc>https://agyat.one/kundli/bank/julian-assange/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.028Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/julius-robert-oppenheimer/</loc>
-    
-        
-        <lastmod>2025-08-10T17:02:25.037Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.356Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2623,7 +2601,7 @@
         <loc>https://agyat.one/kundli/bank/justin-trudeau/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.045Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.379Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2631,21 +2609,10 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/k-c-venugopal/</loc>
+        <loc>https://agyat.one/kundli/bank/julius-robert-oppenheimer/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.074Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/k-k-birla/</loc>
-    
-        
-        <lastmod>2025-08-10T17:02:25.083Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.368Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2656,7 +2623,7 @@
         <loc>https://agyat.one/kundli/bank/jyotiraditya-scindia/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.054Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.392Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2667,7 +2634,7 @@
         <loc>https://agyat.one/kundli/bank/k-annamalai/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.063Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.402Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2675,10 +2642,21 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/k-t-rama-rao/</loc>
+        <loc>https://agyat.one/kundli/bank/k-c-venugopal/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.101Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.412Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/k-k-birla/</loc>
+    
+        
+        <lastmod>2025-08-10T17:09:01.421Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2689,18 +2667,7 @@
         <loc>https://agyat.one/kundli/bank/k-n-rao/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.092Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/kamal-hassan/</loc>
-    
-        
-        <lastmod>2025-08-10T17:02:25.129Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.431Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2711,7 +2678,7 @@
         <loc>https://agyat.one/kundli/bank/kabir-khan/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.111Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.451Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2719,10 +2686,10 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/kamal-nath/</loc>
+        <loc>https://agyat.one/kundli/bank/k-t-rama-rao/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.138Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.441Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2733,7 +2700,7 @@
         <loc>https://agyat.one/kundli/bank/kajol/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.120Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.462Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2741,10 +2708,32 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/kamala-harris/</loc>
+        <loc>https://agyat.one/kundli/bank/kamal-hassan/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.146Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.474Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/kamal-nath/</loc>
+    
+        
+        <lastmod>2025-08-10T17:09:01.484Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/julia-roberts/</loc>
+    
+        
+        <lastmod>2025-08-10T17:09:01.347Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2755,7 +2744,18 @@
         <loc>https://agyat.one/kundli/bank/kangana-ranaut/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.155Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.515Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/kamala-harris/</loc>
+    
+        
+        <lastmod>2025-08-10T17:09:01.500Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2766,29 +2766,7 @@
         <loc>https://agyat.one/kundli/bank/kapil-dev/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.165Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/kapil-sharma/</loc>
-    
-        
-        <lastmod>2025-08-10T17:02:25.173Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/karan-johar/</loc>
-    
-        
-        <lastmod>2025-08-10T17:02:25.182Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.526Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2799,7 +2777,29 @@
         <loc>https://agyat.one/kundli/bank/kareena-kapoor/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.192Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.560Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/karan-johar/</loc>
+    
+        
+        <lastmod>2025-08-10T17:09:01.548Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/kapil-sharma/</loc>
+    
+        
+        <lastmod>2025-08-10T17:09:01.537Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2810,7 +2810,7 @@
         <loc>https://agyat.one/kundli/bank/karishma-kapoor/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.200Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.574Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2821,29 +2821,7 @@
         <loc>https://agyat.one/kundli/bank/kartik-aryan/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.209Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/kcr/</loc>
-    
-        
-        <lastmod>2025-08-10T17:02:25.227Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/king-charles-iii/</loc>
-    
-        
-        <lastmod>2025-08-10T17:02:25.236Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.585Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2854,7 +2832,7 @@
         <loc>https://agyat.one/kundli/bank/katrina-kaif/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.218Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.602Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2862,10 +2840,21 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/krishnamurthy/</loc>
+        <loc>https://agyat.one/kundli/bank/kcr/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.252Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.615Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/king-charles-iii/</loc>
+    
+        
+        <lastmod>2025-08-10T17:09:01.627Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2876,7 +2865,18 @@
         <loc>https://agyat.one/kundli/bank/kl-rahul/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.244Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.638Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/krishnamurthy/</loc>
+    
+        
+        <lastmod>2025-08-10T17:09:01.650Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2887,7 +2887,7 @@
         <loc>https://agyat.one/kundli/bank/kumar-manglam-birla/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.261Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.660Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2898,29 +2898,7 @@
         <loc>https://agyat.one/kundli/bank/kumar-sanu/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.273Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/lakshyaraj-singh-mewar/</loc>
-    
-        
-        <lastmod>2025-08-10T17:02:25.291Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/lal-bahadur-shashtri/</loc>
-    
-        
-        <lastmod>2025-08-10T17:02:25.299Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.672Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2931,7 +2909,7 @@
         <loc>https://agyat.one/kundli/bank/lakshmi-nivas-mittal/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.282Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.682Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2939,10 +2917,10 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/lalit-modi/</loc>
+        <loc>https://agyat.one/kundli/bank/lakshyaraj-singh-mewar/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.308Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.698Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2953,7 +2931,18 @@
         <loc>https://agyat.one/kundli/bank/lalu-prasad-yadav/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.318Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.747Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/lal-bahadur-shashtri/</loc>
+    
+        
+        <lastmod>2025-08-10T17:09:01.723Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2964,7 +2953,7 @@
         <loc>https://agyat.one/kundli/bank/lata-mangeshkar/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.327Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.756Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2972,21 +2961,10 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/lionel-messi/</loc>
+        <loc>https://agyat.one/kundli/bank/lalit-modi/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.336Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/lk-adwani/</loc>
-    
-        
-        <lastmod>2025-08-10T17:02:25.345Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.732Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2997,7 +2975,7 @@
         <loc>https://agyat.one/kundli/bank/m-k-stalin/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.354Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.784Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3005,10 +2983,21 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/maharaja-bhawani-singh/</loc>
+        <loc>https://agyat.one/kundli/bank/lk-adwani/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.372Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.775Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/lionel-messi/</loc>
+    
+        
+        <lastmod>2025-08-10T17:09:01.765Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3019,7 +3008,18 @@
         <loc>https://agyat.one/kundli/bank/madhavrao-scindia/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.363Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.797Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/maharaja-bhawani-singh/</loc>
+    
+        
+        <lastmod>2025-08-10T17:09:01.807Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3030,7 +3030,7 @@
         <loc>https://agyat.one/kundli/bank/maharani-gayatri-devi/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.382Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.816Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3041,7 +3041,7 @@
         <loc>https://agyat.one/kundli/bank/maharani-padmini-devi/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.391Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.825Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3052,18 +3052,7 @@
         <loc>https://agyat.one/kundli/bank/mahatma-gandhi/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.399Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/mahesh-babu/</loc>
-    
-        
-        <lastmod>2025-08-10T17:02:25.416Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.834Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3074,7 +3063,18 @@
         <loc>https://agyat.one/kundli/bank/mahendra-singh-dhoni/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.408Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.844Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/mahesh-babu/</loc>
+    
+        
+        <lastmod>2025-08-10T17:09:01.853Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3085,7 +3085,7 @@
         <loc>https://agyat.one/kundli/bank/malaika-arora/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.425Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.864Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3096,7 +3096,7 @@
         <loc>https://agyat.one/kundli/bank/mallikarjun-kharge/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.433Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.873Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3107,7 +3107,7 @@
         <loc>https://agyat.one/kundli/bank/maneka-gandhi/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.442Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.882Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3118,7 +3118,7 @@
         <loc>https://agyat.one/kundli/bank/mani-shankar-aiyar/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.451Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.894Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3129,7 +3129,7 @@
         <loc>https://agyat.one/kundli/bank/manish-malhotra/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.462Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.903Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3140,7 +3140,7 @@
         <loc>https://agyat.one/kundli/bank/manmohan-singh/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.473Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.912Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3151,18 +3151,7 @@
         <loc>https://agyat.one/kundli/bank/manoj-kumar-meghwal/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.482Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/manoj-pande/</loc>
-    
-        
-        <lastmod>2025-08-10T17:02:25.500Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.922Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3173,7 +3162,18 @@
         <loc>https://agyat.one/kundli/bank/manoj-mukund-naravane/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.492Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.931Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/manoj-pande/</loc>
+    
+        
+        <lastmod>2025-08-10T17:09:01.939Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3184,7 +3184,7 @@
         <loc>https://agyat.one/kundli/bank/mark-carney/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.509Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.948Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3195,7 +3195,7 @@
         <loc>https://agyat.one/kundli/bank/maryam-nawaz-sharif/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.518Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.957Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3206,7 +3206,7 @@
         <loc>https://agyat.one/kundli/bank/master-bhanwarlal-meghwal/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.546Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.968Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3217,7 +3217,7 @@
         <loc>https://agyat.one/kundli/bank/matthew-perry/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.584Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.977Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3228,18 +3228,7 @@
         <loc>https://agyat.one/kundli/bank/mayawati/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.604Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/mehul-choksi/</loc>
-    
-        
-        <lastmod>2025-08-10T17:02:25.626Z</lastmod>
+        <lastmod>2025-08-10T17:09:01.986Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3250,7 +3239,18 @@
         <loc>https://agyat.one/kundli/bank/merilyn-monroe/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.636Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.004Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/mehul-choksi/</loc>
+    
+        
+        <lastmod>2025-08-10T17:09:01.995Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3261,29 +3261,7 @@
         <loc>https://agyat.one/kundli/bank/meryl-streep/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.647Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/mithun-chakraborty/</loc>
-    
-        
-        <lastmod>2025-08-10T17:02:25.678Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/mohammad-azharuddin/</loc>
-    
-        
-        <lastmod>2025-08-10T17:02:25.688Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.013Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3294,7 +3272,18 @@
         <loc>https://agyat.one/kundli/bank/michael-jordan/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.658Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.023Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/mithun-chakraborty/</loc>
+    
+        
+        <lastmod>2025-08-10T17:09:02.040Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3305,7 +3294,18 @@
         <loc>https://agyat.one/kundli/bank/michael-vaughan/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.668Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.031Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/mohammad-azharuddin/</loc>
+    
+        
+        <lastmod>2025-08-10T17:09:02.049Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3316,18 +3316,7 @@
         <loc>https://agyat.one/kundli/bank/mohammed-bin-salman-al-saud/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.697Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/mohan-babu/</loc>
-    
-        
-        <lastmod>2025-08-10T17:02:25.706Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.058Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3338,7 +3327,7 @@
         <loc>https://agyat.one/kundli/bank/morarji-desai/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.715Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.077Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3346,10 +3335,10 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/mukesh-ambani/</loc>
+        <loc>https://agyat.one/kundli/bank/mohan-babu/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.732Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.068Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3360,7 +3349,18 @@
         <loc>https://agyat.one/kundli/bank/muhammad-yunus/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.724Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.086Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/mukesh-ambani/</loc>
+    
+        
+        <lastmod>2025-08-10T17:09:02.094Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3371,7 +3371,7 @@
         <loc>https://agyat.one/kundli/bank/mulayam-singh-yadav/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.741Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.105Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3382,7 +3382,7 @@
         <loc>https://agyat.one/kundli/bank/n-chandrababu-naidu/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.749Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.114Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3393,7 +3393,7 @@
         <loc>https://agyat.one/kundli/bank/naga-chaitanya-akkineni/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.757Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.123Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3404,7 +3404,7 @@
         <loc>https://agyat.one/kundli/bank/narayana-murthy/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.766Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.132Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3415,7 +3415,7 @@
         <loc>https://agyat.one/kundli/bank/narendra-modi/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.780Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.140Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3426,7 +3426,7 @@
         <loc>https://agyat.one/kundli/bank/naveen-patnaik/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.788Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.149Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3437,7 +3437,7 @@
         <loc>https://agyat.one/kundli/bank/navjot-singh-sidhu/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.798Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.158Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3448,7 +3448,7 @@
         <loc>https://agyat.one/kundli/bank/nawaz-sharif/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.806Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.167Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3459,7 +3459,7 @@
         <loc>https://agyat.one/kundli/bank/nawazuddin-siddiqui/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.815Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.176Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3470,7 +3470,7 @@
         <loc>https://agyat.one/kundli/bank/neeraj-chopra/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.824Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.185Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3481,7 +3481,7 @@
         <loc>https://agyat.one/kundli/bank/nelson-mandela/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.832Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.193Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3492,7 +3492,7 @@
         <loc>https://agyat.one/kundli/bank/nirav-modi/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.841Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.202Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3503,7 +3503,7 @@
         <loc>https://agyat.one/kundli/bank/nitin-gadkari/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.850Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.214Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3514,7 +3514,7 @@
         <loc>https://agyat.one/kundli/bank/nitish-kumar/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.858Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.224Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3525,7 +3525,7 @@
         <loc>https://agyat.one/kundli/bank/omar-abdullah/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.868Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.232Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3536,7 +3536,7 @@
         <loc>https://agyat.one/kundli/bank/osho-rajnish/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.877Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.242Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3547,7 +3547,7 @@
         <loc>https://agyat.one/kundli/bank/p-chidambaram/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.887Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.250Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3558,7 +3558,7 @@
         <loc>https://agyat.one/kundli/bank/pamela-anderson/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.896Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.259Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3569,7 +3569,7 @@
         <loc>https://agyat.one/kundli/bank/paris-hilton/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.904Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.268Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3580,7 +3580,7 @@
         <loc>https://agyat.one/kundli/bank/parvez-musharraf/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.915Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.277Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3591,18 +3591,7 @@
         <loc>https://agyat.one/kundli/bank/paul-walker/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.924Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/pope-francis/</loc>
-    
-        
-        <lastmod>2025-08-10T17:02:25.941Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.285Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3613,7 +3602,18 @@
         <loc>https://agyat.one/kundli/bank/pavan-kalyan/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.933Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.294Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/pope-francis/</loc>
+    
+        
+        <lastmod>2025-08-10T17:09:02.305Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3624,7 +3624,7 @@
         <loc>https://agyat.one/kundli/bank/pramod-mahajan/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.950Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.314Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3635,7 +3635,7 @@
         <loc>https://agyat.one/kundli/bank/princess-diya-kumari/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.958Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.324Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3646,7 +3646,7 @@
         <loc>https://agyat.one/kundli/bank/princess-kate-middleton/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.968Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.334Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3657,7 +3657,7 @@
         <loc>https://agyat.one/kundli/bank/prithviraj-kapoor/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.980Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.344Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3668,7 +3668,7 @@
         <loc>https://agyat.one/kundli/bank/priyanka-chopra/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.988Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.355Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3679,7 +3679,7 @@
         <loc>https://agyat.one/kundli/bank/pushkar-singh-dhami/</loc>
     
         
-        <lastmod>2025-08-10T17:02:25.996Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.367Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3690,7 +3690,7 @@
         <loc>https://agyat.one/kundli/bank/pv-narsimha-rao/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.005Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.378Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3701,7 +3701,7 @@
         <loc>https://agyat.one/kundli/bank/queen-elizabeth-II/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.015Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.389Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3712,7 +3712,7 @@
         <loc>https://agyat.one/kundli/bank/raaj-kumar/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.024Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.401Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3723,7 +3723,7 @@
         <loc>https://agyat.one/kundli/bank/radhika-yadav/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.034Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.416Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3734,7 +3734,7 @@
         <loc>https://agyat.one/kundli/bank/rahul-bajaj/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.042Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.430Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3745,7 +3745,7 @@
         <loc>https://agyat.one/kundli/bank/rahul-dravid/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.052Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.441Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3756,7 +3756,7 @@
         <loc>https://agyat.one/kundli/bank/rahul-gandhi/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.061Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.453Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3767,7 +3767,7 @@
         <loc>https://agyat.one/kundli/bank/raj-kapoor/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.073Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.467Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3778,7 +3778,7 @@
         <loc>https://agyat.one/kundli/bank/raj-thackeray/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.083Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.480Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3789,7 +3789,7 @@
         <loc>https://agyat.one/kundli/bank/raja-singh/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.096Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.490Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3800,7 +3800,7 @@
         <loc>https://agyat.one/kundli/bank/rajesh-khanna/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.105Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.500Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3811,7 +3811,7 @@
         <loc>https://agyat.one/kundli/bank/rajinikanth/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.116Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.519Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3822,7 +3822,7 @@
         <loc>https://agyat.one/kundli/bank/rajiv-gandhi/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.125Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.532Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3833,7 +3833,7 @@
         <loc>https://agyat.one/kundli/bank/rakesh-jhunjhunwala/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.134Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.544Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3844,7 +3844,7 @@
         <loc>https://agyat.one/kundli/bank/rakhi-sawant/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.142Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.556Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3855,7 +3855,7 @@
         <loc>https://agyat.one/kundli/bank/ram-jethmalani/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.151Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.569Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3866,7 +3866,7 @@
         <loc>https://agyat.one/kundli/bank/ram-kapoor/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.160Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.582Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3877,7 +3877,7 @@
         <loc>https://agyat.one/kundli/bank/ramalinga-raju/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.169Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.591Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3888,7 +3888,7 @@
         <loc>https://agyat.one/kundli/bank/ramkrishna-dalmia/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.179Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.602Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3899,7 +3899,7 @@
         <loc>https://agyat.one/kundli/bank/ramvilas-paswan/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.190Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.617Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3910,7 +3910,7 @@
         <loc>https://agyat.one/kundli/bank/rana-kapoor/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.198Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.634Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3921,7 +3921,7 @@
         <loc>https://agyat.one/kundli/bank/ranbir-kapoor/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.207Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.660Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3932,7 +3932,7 @@
         <loc>https://agyat.one/kundli/bank/rani-mukerji/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.216Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.680Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3943,7 +3943,7 @@
         <loc>https://agyat.one/kundli/bank/raquel-welch/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.225Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.691Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3954,7 +3954,7 @@
         <loc>https://agyat.one/kundli/bank/ratan-tata/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.233Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.701Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3965,7 +3965,7 @@
         <loc>https://agyat.one/kundli/bank/ravichandran-ashwin/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.241Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.712Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3976,7 +3976,7 @@
         <loc>https://agyat.one/kundli/bank/rekha/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.259Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.741Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3987,7 +3987,7 @@
         <loc>https://agyat.one/kundli/bank/rekha-gupta/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.250Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.723Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -3998,7 +3998,7 @@
         <loc>https://agyat.one/kundli/bank/revanth-reddy/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.268Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.751Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4009,7 +4009,7 @@
         <loc>https://agyat.one/kundli/bank/richard-branson/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.276Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.762Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4020,7 +4020,7 @@
         <loc>https://agyat.one/kundli/bank/rishi-kapoor/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.285Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.772Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4031,7 +4031,7 @@
         <loc>https://agyat.one/kundli/bank/rishi-sunak/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.295Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.782Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4042,7 +4042,7 @@
         <loc>https://agyat.one/kundli/bank/rohit-sharma/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.303Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.791Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4053,7 +4053,7 @@
         <loc>https://agyat.one/kundli/bank/ryan-o-neal/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.314Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.800Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4064,18 +4064,7 @@
         <loc>https://agyat.one/kundli/bank/s-s-rajamouli/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.323Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/sachin-pilot/</loc>
-    
-        
-        <lastmod>2025-08-10T17:02:26.340Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.809Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4086,7 +4075,18 @@
         <loc>https://agyat.one/kundli/bank/s-shreesanth/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.332Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.819Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/sachin-pilot/</loc>
+    
+        
+        <lastmod>2025-08-10T17:09:02.828Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4097,40 +4097,7 @@
         <loc>https://agyat.one/kundli/bank/sachin-tendulkar/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.349Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/saif-ali-khan/</loc>
-    
-        
-        <lastmod>2025-08-10T17:02:26.367Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/saina-nehwal/</loc>
-    
-        
-        <lastmod>2025-08-10T17:02:26.376Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/sakshi-malik/</loc>
-    
-        
-        <lastmod>2025-08-10T17:02:26.385Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.839Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4141,7 +4108,40 @@
         <loc>https://agyat.one/kundli/bank/sadguru-jaggi-vasudev/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.357Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.848Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/saif-ali-khan/</loc>
+    
+        
+        <lastmod>2025-08-10T17:09:02.858Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/sakshi-malik/</loc>
+    
+        
+        <lastmod>2025-08-10T17:09:02.880Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/saina-nehwal/</loc>
+    
+        
+        <lastmod>2025-08-10T17:09:02.871Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4152,7 +4152,7 @@
         <loc>https://agyat.one/kundli/bank/salman-khan/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.393Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.889Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4163,7 +4163,7 @@
         <loc>https://agyat.one/kundli/bank/sam-altman/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.402Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.898Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4174,7 +4174,7 @@
         <loc>https://agyat.one/kundli/bank/sam-manekshaw/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.410Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.909Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4185,7 +4185,7 @@
         <loc>https://agyat.one/kundli/bank/samantha-ruth-prabhu/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.420Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.919Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4196,7 +4196,7 @@
         <loc>https://agyat.one/kundli/bank/samuel-bankman-fried/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.429Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.929Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4207,7 +4207,7 @@
         <loc>https://agyat.one/kundli/bank/sanjay-dutt/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.437Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.940Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4218,7 +4218,7 @@
         <loc>https://agyat.one/kundli/bank/sanjay-gandhi/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.447Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.950Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4229,7 +4229,7 @@
         <loc>https://agyat.one/kundli/bank/sanjay-kapur/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.456Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.960Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4240,7 +4240,7 @@
         <loc>https://agyat.one/kundli/bank/sanjay-khan/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.466Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.970Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4251,7 +4251,7 @@
         <loc>https://agyat.one/kundli/bank/sanjay-singh/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.474Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.979Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4262,7 +4262,7 @@
         <loc>https://agyat.one/kundli/bank/sanju-samson/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.484Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.988Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4273,7 +4273,7 @@
         <loc>https://agyat.one/kundli/bank/sant-aasaram/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.495Z</lastmod>
+        <lastmod>2025-08-10T17:09:02.998Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4284,7 +4284,7 @@
         <loc>https://agyat.one/kundli/bank/sara-ali-khan/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.504Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.008Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4295,7 +4295,7 @@
         <loc>https://agyat.one/kundli/bank/selena-gomez/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.513Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.021Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4306,7 +4306,7 @@
         <loc>https://agyat.one/kundli/bank/shabana-azmi/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.522Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.031Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4317,7 +4317,7 @@
         <loc>https://agyat.one/kundli/bank/shahid-kapoor/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.530Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.045Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4328,7 +4328,7 @@
         <loc>https://agyat.one/kundli/bank/shahrukh-khan/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.539Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.055Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4339,7 +4339,7 @@
         <loc>https://agyat.one/kundli/bank/shakira/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.548Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.077Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4350,7 +4350,7 @@
         <loc>https://agyat.one/kundli/bank/shammi-kapoor/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.557Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.086Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4361,7 +4361,7 @@
         <loc>https://agyat.one/kundli/bank/sharad-pawar/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.569Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.095Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4372,7 +4372,7 @@
         <loc>https://agyat.one/kundli/bank/sharmila-tagore-pataudi/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.578Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.104Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4383,7 +4383,7 @@
         <loc>https://agyat.one/kundli/bank/shashi-kapoor/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.588Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.114Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4394,7 +4394,7 @@
         <loc>https://agyat.one/kundli/bank/shashi-tharoor/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.599Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.123Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4405,7 +4405,7 @@
         <loc>https://agyat.one/kundli/bank/shefali-jariwala/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.609Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.135Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4416,7 +4416,7 @@
         <loc>https://agyat.one/kundli/bank/shehbaz-sharif/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.621Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.145Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4427,7 +4427,7 @@
         <loc>https://agyat.one/kundli/bank/sheikh-hasina/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.632Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.154Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4438,7 +4438,7 @@
         <loc>https://agyat.one/kundli/bank/sheikh-mujibur-rahman/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.642Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.163Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4449,7 +4449,7 @@
         <loc>https://agyat.one/kundli/bank/sheila-dixit/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.651Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.172Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4460,7 +4460,7 @@
         <loc>https://agyat.one/kundli/bank/shiv-nadar/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.660Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.181Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4471,7 +4471,7 @@
         <loc>https://agyat.one/kundli/bank/shivraj-singh-chauhan/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.670Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.189Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4482,7 +4482,7 @@
         <loc>https://agyat.one/kundli/bank/siddaramaiah/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.678Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.197Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4493,7 +4493,7 @@
         <loc>https://agyat.one/kundli/bank/sidhu-moose-wala/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.688Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.206Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4504,7 +4504,7 @@
         <loc>https://agyat.one/kundli/bank/silvio-berlusconi/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.699Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.215Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4515,7 +4515,7 @@
         <loc>https://agyat.one/kundli/bank/smriti-irani/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.707Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.224Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4526,7 +4526,7 @@
         <loc>https://agyat.one/kundli/bank/sonam-kapoor/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.717Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.233Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4537,7 +4537,7 @@
         <loc>https://agyat.one/kundli/bank/sonia-gandhi/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.726Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.244Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4548,7 +4548,7 @@
         <loc>https://agyat.one/kundli/bank/sonu-nigam/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.743Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.253Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4559,18 +4559,7 @@
         <loc>https://agyat.one/kundli/bank/sophie-turner/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.752Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/sourav-ganguly/</loc>
-    
-        
-        <lastmod>2025-08-10T17:02:26.761Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.262Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4581,7 +4570,7 @@
         <loc>https://agyat.one/kundli/bank/sri-sri-ravishankar/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.769Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.281Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4592,7 +4581,7 @@
         <loc>https://agyat.one/kundli/bank/sridevi/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.778Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.289Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4603,7 +4592,18 @@
         <loc>https://agyat.one/kundli/bank/steve-jobs/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.787Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.298Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/sourav-ganguly/</loc>
+    
+        
+        <lastmod>2025-08-10T17:09:03.271Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4614,7 +4614,7 @@
         <loc>https://agyat.one/kundli/bank/stockton-rush/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.799Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.306Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4625,7 +4625,7 @@
         <loc>https://agyat.one/kundli/bank/subramanian-swamy/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.808Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.316Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4636,7 +4636,7 @@
         <loc>https://agyat.one/kundli/bank/sunil-dutt/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.817Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.325Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4647,7 +4647,7 @@
         <loc>https://agyat.one/kundli/bank/sunil-gavaskar/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.826Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.334Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4658,7 +4658,7 @@
         <loc>https://agyat.one/kundli/bank/sunil-grover/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.834Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.346Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4669,18 +4669,7 @@
         <loc>https://agyat.one/kundli/bank/supriya-sule/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.843Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/sushant-singh-rajput/</loc>
-    
-        
-        <lastmod>2025-08-10T17:02:26.852Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.355Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4691,7 +4680,7 @@
         <loc>https://agyat.one/kundli/bank/tej-pratap-yadav/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.860Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.374Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4699,10 +4688,10 @@
     </url>
     <url>
         
-        <loc>https://agyat.one/kundli/bank/tejashwi-yadav/</loc>
+        <loc>https://agyat.one/kundli/bank/sushant-singh-rajput/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.869Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.365Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4713,7 +4702,7 @@
         <loc>https://agyat.one/kundli/bank/tejasvi-surya/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.877Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.391Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4724,7 +4713,18 @@
         <loc>https://agyat.one/kundli/bank/tiger-woods/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.885Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.400Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/tejashwi-yadav/</loc>
+    
+        
+        <lastmod>2025-08-10T17:09:03.382Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4735,7 +4735,7 @@
         <loc>https://agyat.one/kundli/bank/tina-turner/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.893Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.409Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4746,7 +4746,7 @@
         <loc>https://agyat.one/kundli/bank/tusshar-kapoor/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.902Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.420Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4757,7 +4757,7 @@
         <loc>https://agyat.one/kundli/bank/uday-chopra/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.910Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.429Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4768,7 +4768,7 @@
         <loc>https://agyat.one/kundli/bank/uday-kotak/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.919Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.438Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4779,7 +4779,7 @@
         <loc>https://agyat.one/kundli/bank/uddhav-thackeray/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.928Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.449Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4790,7 +4790,7 @@
         <loc>https://agyat.one/kundli/bank/upendra-dwivedi/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.936Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.458Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4801,7 +4801,7 @@
         <loc>https://agyat.one/kundli/bank/v-k-singh/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.945Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.469Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4812,7 +4812,7 @@
         <loc>https://agyat.one/kundli/bank/v-p-singh/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.953Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.479Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4823,7 +4823,7 @@
         <loc>https://agyat.one/kundli/bank/varun-dhawan/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.962Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.491Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4834,7 +4834,7 @@
         <loc>https://agyat.one/kundli/bank/vasundhara-raje/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.973Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.501Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4845,7 +4845,7 @@
         <loc>https://agyat.one/kundli/bank/vijay-mallya/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.981Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.513Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4856,7 +4856,7 @@
         <loc>https://agyat.one/kundli/bank/vijay-rupani/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.991Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.527Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4867,7 +4867,7 @@
         <loc>https://agyat.one/kundli/bank/vijayaraje-scindia/</loc>
     
         
-        <lastmod>2025-08-10T17:02:26.999Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.538Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4878,7 +4878,7 @@
         <loc>https://agyat.one/kundli/bank/vijaypat-singhania/</loc>
     
         
-        <lastmod>2025-08-10T17:02:27.009Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.551Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4889,18 +4889,7 @@
         <loc>https://agyat.one/kundli/bank/vilasrao-deshmukh/</loc>
     
         
-        <lastmod>2025-08-10T17:02:27.018Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/vinesh-phogat/</loc>
-    
-        
-        <lastmod>2025-08-10T17:02:27.036Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.563Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4911,7 +4900,18 @@
         <loc>https://agyat.one/kundli/bank/vin-diesel/</loc>
     
         
-        <lastmod>2025-08-10T17:02:27.027Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.575Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/vinesh-phogat/</loc>
+    
+        
+        <lastmod>2025-08-10T17:09:03.587Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4922,7 +4922,7 @@
         <loc>https://agyat.one/kundli/bank/vinod-khanna/</loc>
     
         
-        <lastmod>2025-08-10T17:02:27.045Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.598Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4933,18 +4933,7 @@
         <loc>https://agyat.one/kundli/bank/virat-kohli/</loc>
     
         
-        <lastmod>2025-08-10T17:02:27.054Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/virender-sehwag/</loc>
-    
-        
-        <lastmod>2025-08-10T17:02:27.063Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.610Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4955,7 +4944,18 @@
         <loc>https://agyat.one/kundli/bank/vishnu-hari-dalmia/</loc>
     
         
-        <lastmod>2025-08-10T17:02:27.072Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.636Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/virender-sehwag/</loc>
+    
+        
+        <lastmod>2025-08-10T17:09:03.625Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4966,7 +4966,7 @@
         <loc>https://agyat.one/kundli/bank/vivek-ramaswamy/</loc>
     
         
-        <lastmod>2025-08-10T17:02:27.080Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.653Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4977,18 +4977,7 @@
         <loc>https://agyat.one/kundli/bank/vp-goel/</loc>
     
         
-        <lastmod>2025-08-10T17:02:27.090Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://agyat.one/kundli/bank/warren-buffet/</loc>
-    
-        
-        <lastmod>2025-08-10T17:02:27.098Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.668Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -4999,7 +4988,18 @@
         <loc>https://agyat.one/kundli/bank/william-prince-of-wales/</loc>
     
         
-        <lastmod>2025-08-10T17:02:27.109Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.687Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://agyat.one/kundli/bank/warren-buffet/</loc>
+    
+        
+        <lastmod>2025-08-10T17:09:03.678Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -5010,7 +5010,7 @@
         <loc>https://agyat.one/kundli/bank/y-s-rajasekhara-reddy/</loc>
     
         
-        <lastmod>2025-08-10T17:02:27.117Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.696Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -5021,7 +5021,7 @@
         <loc>https://agyat.one/kundli/bank/yash-chopra/</loc>
     
         
-        <lastmod>2025-08-10T17:02:27.127Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.706Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -5032,7 +5032,7 @@
         <loc>https://agyat.one/kundli/bank/yash-johar/</loc>
     
         
-        <lastmod>2025-08-10T17:02:27.136Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.715Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -5043,7 +5043,7 @@
         <loc>https://agyat.one/kundli/bank/yashovardhan-birla/</loc>
     
         
-        <lastmod>2025-08-10T17:02:27.144Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.724Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -5054,7 +5054,7 @@
         <loc>https://agyat.one/kundli/bank/yo-yo-honey-singh/</loc>
     
         
-        <lastmod>2025-08-10T17:02:27.152Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.733Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -5065,7 +5065,7 @@
         <loc>https://agyat.one/kundli/bank/yogi-adityanath/</loc>
     
         
-        <lastmod>2025-08-10T17:02:27.162Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.745Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -5076,7 +5076,7 @@
         <loc>https://agyat.one/kundli/bank/ys-jagan-mohan/</loc>
     
         
-        <lastmod>2025-08-10T17:02:27.171Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.755Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -5087,7 +5087,7 @@
         <loc>https://agyat.one/kundli/bank/yuvraj-singh/</loc>
     
         
-        <lastmod>2025-08-10T17:02:27.179Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.764Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -5098,7 +5098,7 @@
         <loc>https://agyat.one/kundli/bank/zakir-hussain/</loc>
     
         
-        <lastmod>2025-08-10T17:02:27.188Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.774Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -5109,7 +5109,7 @@
         <loc>https://agyat.one/kundli/bank/zeenat-aman/</loc>
     
         
-        <lastmod>2025-08-10T17:02:27.196Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.782Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -5120,7 +5120,7 @@
         <loc>https://agyat.one/kundli/bank/zelensky-volodymyr/</loc>
     
         
-        <lastmod>2025-08-10T17:02:27.206Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.791Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -5131,7 +5131,7 @@
         <loc>https://agyat.one/kundli/bank/zia-ul-haq/</loc>
     
         
-        <lastmod>2025-08-10T17:02:27.215Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.800Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -5142,7 +5142,7 @@
         <loc>https://agyat.one/kundli/bank/zulfikar-ali-bhutto/</loc>
     
         
-        <lastmod>2025-08-10T17:02:27.225Z</lastmod>
+        <lastmod>2025-08-10T17:09:03.810Z</lastmod>
     
         
         <changefreq>daily</changefreq>

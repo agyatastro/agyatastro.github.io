@@ -1,0 +1,115 @@
+{
+    "request": {
+        "name": "Faisal Khan",
+        "title": "Actor",
+        "year": 1966,
+        "month": 8,
+        "day": 3,
+        "hour": 14,
+        "minute": 25,
+        "second": 0,
+        "latitude": 19.07283,
+        "longitude": 72.88261,
+        "location": "Mumbai",
+        "gender": "male",
+        "agyat_rating": "AA",
+        "about": "<p>Mohammad Faisal Hussain Khan (born 3 August 1966) is an Indian actor who appears in Hindi films. He is famous for his role as Shankar Shane in Mela.</p><p>Khan is the son of producer Tahir Hussain. His brother is Aamir Khan, who is an actor, director and producer, and he has two sisters, Nikhat Khan, who is a producer and actor, and Farhat Khan. His paternal uncle Nasir Hussain was a film producer and director. His nephew Imran Khan is a former actor and his cousin Tariq Khan was an actor in the 1970s and 1980s. He is a great-grandnephew of Maulana Abul Kalam Azad.</p>",
+        "related": ["aamir-khan-family"]
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 219.2912633967423,
+            "ascendant": 8
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 86.12555419180799,
+                "cusp_degree": 26.125554191807993,
+                "motion_speed": 0.21732728259300124,
+                "zodiac": 3,
+                "house": 8,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 107.18830691868057,
+                "cusp_degree": 17.188306918680567,
+                "motion_speed": 0.9568934760678777,
+                "zodiac": 4,
+                "house": 9,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 309.26711716197826,
+                "cusp_degree": 9.267117161978263,
+                "motion_speed": 11.93134156963176,
+                "zodiac": 11,
+                "house": 4,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 81.85136541550669,
+                "cusp_degree": 21.85136541550669,
+                "motion_speed": 1.2089560188836754,
+                "zodiac": 3,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 82.1203913654824,
+                "cusp_degree": 22.120391365482405,
+                "motion_speed": 0.6583165432397996,
+                "zodiac": 3,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 98.0406891787366,
+                "cusp_degree": 8.0406891787366,
+                "motion_speed": -0.44986576495304026,
+                "zodiac": 4,
+                "house": 9,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 335.87009116448127,
+                "cusp_degree": 5.870091164481266,
+                "motion_speed": -0.03702000255810463,
+                "zodiac": 12,
+                "house": 5,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 28.339317720764278,
+                "cusp_degree": 28.339317720764278,
+                "motion_speed": -0.2078225031111475,
+                "zodiac": 1,
+                "house": 6,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 27.90892500393903,
+                "cusp_degree": 27.90892500393903,
+                "motion_speed": -0.05299210311021003,
+                "zodiac": 1,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 207.90892500393903,
+                "motion_speed": -0.05299210311021003,
+                "cusp_degree": 27.908925003939032,
+                "zodiac": 7,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 208.33931772076429,
+                "motion_speed": -0.2078225031111475,
+                "cusp_degree": 28.339317720764285,
+                "zodiac": 7,
+                "house": 12,
+                "motion": "R"
+            }
+        }
+    }
+}

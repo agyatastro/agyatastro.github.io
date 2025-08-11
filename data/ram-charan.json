@@ -1,0 +1,115 @@
+{
+    "request": {
+        "name": "Ram Charan",
+        "title": "Actor, Film Producer, Businessperson",
+        "year": 1985,
+        "month": 3,
+        "day": 27,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 13.08784,
+        "longitude": 80.27847,
+        "location": "Chennai",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "about": "</p><p>Konidela Ram Charan (born 27 March 1985) is an Indian actor, film producer, and entrepreneur who primarily works in Telugu cinema. He is one of the highest-paid actors in Indian cinema and is also known for his dancing. He has featured in Forbes India's Celebrity 100 list since 2013. Charan is the recipient of several awards, including four Filmfare Awards and two Nandi Awards.</p><p>Charan made his acting debut with the action film Chirutha (2007), a box office hit, winning the Filmfare Award for Best Male Debut – South. He rose to prominence starring in S. S. Rajamouli's fantasy action film Magadheera (2009), the highest-grossing Telugu film of all time at the time of its release, winning the Filmfare Award for Best Actor – Telugu. He went on to star in notable films such as Orange (2010), Racha (2012), Naayak (2013), Yevadu (2014), Govindudu Andarivadele (2014), and Dhruva (2016).</p><p>Charan achieved further commercial success with the blockbusters Rangasthalam (2018), winning his second Filmfare Award for Best Actor – Telugu, and RRR (2022), which currently ranks as the third-highest-grossing Indian film of all time and his highest grosser. Charan emerged as a pan-Indian star with RRR and earned international recognition, including a nomination at the Critics' Choice Super Awards for Best Actor in an Action Movie, getting honoured for his performance at the Indian Film Festival of Melbourne (IFFM) 2024, and achieving his third Filmfare Award for Best Actor - Telugu.</p><p>In 2016, Charan launched his own production house Konidela Production Company, which has notably backed Khaidi No. 150 (2017) and Sye Raa Narasimha Reddy (2019). Beyond his film career, he owns the polo team Hyderabad Polo and Riding Club and was a co-owner of now defunct airline service TruJet.</p>",
+        "related": ["pavan-kalyan"]
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 73.82982606913342,
+            "ascendant": 3
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 286.47502464781945,
+                "cusp_degree": 16.475024647819453,
+                "motion_speed": 0.17752355243887083,
+                "zodiac": 10,
+                "house": 8,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 342.89342340098636,
+                "cusp_degree": 12.893423400986364,
+                "motion_speed": 0.9896702901311248,
+                "zodiac": 12,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 45.577531002482814,
+                "cusp_degree": 15.577531002482814,
+                "motion_speed": 12.045161300629664,
+                "zodiac": 2,
+                "house": 12,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 354.98178237583664,
+                "cusp_degree": 24.981782375836644,
+                "motion_speed": -0.5179711831756588,
+                "zodiac": 12,
+                "house": 10,
+                "motion": "R"
+            },
+            "Mars": {
+                "degree": 15.067808563887489,
+                "cusp_degree": 15.067808563887489,
+                "motion_speed": 0.7182193755475523,
+                "zodiac": 1,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 354.6285326635719,
+                "cusp_degree": 24.62853266357189,
+                "motion_speed": -0.30272131644721645,
+                "zodiac": 12,
+                "house": 10,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 214.154226740336,
+                "cusp_degree": 4.154226740335986,
+                "motion_speed": -0.03238776241132089,
+                "zodiac": 8,
+                "house": 6,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 25.217715103377923,
+                "cusp_degree": 25.217715103377923,
+                "motion_speed": 0.026168360308317862,
+                "zodiac": 1,
+                "house": 11,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 26.98549395225518,
+                "cusp_degree": 26.98549395225518,
+                "motion_speed": -0.05299203539928421,
+                "zodiac": 1,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 206.98549395225518,
+                "motion_speed": -0.05299203539928421,
+                "cusp_degree": 26.985493952255183,
+                "zodiac": 7,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 205.2177151033779,
+                "motion_speed": 0.026168360308317862,
+                "cusp_degree": 25.217715103377913,
+                "zodiac": 7,
+                "house": 5,
+                "motion": "R"
+            }
+        }
+    }
+}

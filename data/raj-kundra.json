@@ -1,0 +1,116 @@
+{
+    "request": {
+        "name": "Raj Kundra",
+        "title": "Businessperson",
+        "year": 1975,
+        "month": 9,
+        "day": 9,
+        "hour": 13,
+        "minute": 5,
+        "second": 0,
+        "latitude": 51.50853,
+        "longitude": -0.12574,
+        "location": "London",
+        "gender": "male",
+        "agyat_rating": "AA",
+        "advanced": "detention, legal-troubles",
+        "about": "<p>Raj Kundra is a British-Indian businessman and part time actor who, in 2004, was ranked as the 198th richest British Asian by Success. He has faced legal scrutiny over allegations related to the production of adult content and involvement in sports betting.</p><p>Kundra has made investments across a range of interests, including cricket and mixed martial arts. He has been married to Shilpa Shetty, an Indian actress, since 2009.</p>",
+        "related": ["shilpa-shetty-family"]
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 211.98281193090207,
+            "ascendant": 8
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 0.10800748000599263,
+                "cusp_degree": 0.10800748000599263,
+                "motion_speed": -0.08171265624232943,
+                "zodiac": 1,
+                "house": 6,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 142.67416034238192,
+                "cusp_degree": 22.674160342381924,
+                "motion_speed": 0.9716741641153698,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 194.52917907029217,
+                "cusp_degree": 14.529179070292173,
+                "motion_speed": 14.368532432502432,
+                "zodiac": 7,
+                "house": 12,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 123.3702374104586,
+                "cusp_degree": 3.3702374104586,
+                "motion_speed": -0.3388046415854223,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "R"
+            },
+            "Mars": {
+                "degree": 51.193501856383875,
+                "cusp_degree": 21.193501856383875,
+                "motion_speed": 0.5215359449693344,
+                "zodiac": 2,
+                "house": 7,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 168.9822309213309,
+                "cusp_degree": 18.98223092133091,
+                "motion_speed": 1.133725640497025,
+                "zodiac": 6,
+                "house": 11,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 95.72287263576155,
+                "cusp_degree": 5.722872635761547,
+                "motion_speed": 0.10213103870190125,
+                "zodiac": 4,
+                "house": 9,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 210.69778280550008,
+                "cusp_degree": 0.6977828055000828,
+                "motion_speed": -0.03172535364403824,
+                "zodiac": 8,
+                "house": 1,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 211.75638448688886,
+                "cusp_degree": 1.7563844868888623,
+                "motion_speed": -0.05299201146745241,
+                "zodiac": 8,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 31.756384486888862,
+                "motion_speed": -0.05299201146745241,
+                "cusp_degree": 1.7563844868888623,
+                "zodiac": 2,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 30.697782805500083,
+                "motion_speed": -0.03172535364403824,
+                "cusp_degree": 0.6977828055000828,
+                "zodiac": 2,
+                "house": 7,
+                "motion": "R"
+            }
+        }
+    }
+}

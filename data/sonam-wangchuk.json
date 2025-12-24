@@ -1,0 +1,115 @@
+{
+    "request": {
+        "name": "Sonam Wangchuk",
+        "title": "Engineer, Educator, Activist, Environment Activist",
+        "year": 1966,
+        "month": 9,
+        "day": 1,
+        "hour": 21,
+        "minute": 11,
+        "second": 0,
+        "latitude": 34.16504,
+        "longitude": 77.58402,
+        "location": "Leh",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "advanced": "<p>detention, fame, engineer, educator, activist, social, environment",
+        "about": "Sonam Wangchuk (born 1 September 1966) is an Indian activist, innovator, education reformer, and environmentalist. He is the founding-director of the Students' Educational and Cultural Movement of Ladakh (SECMOL), which was founded in 1988 by a group of students who had been, in his own words, the 'victims' of an alien education system foisted on Ladakh. He is also known for designing the SECMOL campus that runs on solar energy and uses no fossil fuels for cooking, lighting or heating.</p><p>Wangchuk was instrumental in the launch of Operation New Hope in 1994, a collaboration of the government, village communities and the civil society to bring reforms in the government school system. He invented the Ice Stupa technique that creates artificial glaciers, used for storing winter water in the form of a cone-shaped ice heap.</p><p>Wangchuk's contributions to Ladakh’s education sector and climate-related challenges, and his innovative solutions to local problems have earned him numerous accolades. As of 2025, he has received around 15 awards, including the Ramon Magsaysay Award (2018), the title of Eminent Technologist of the Himalayan Region by IIT Mandi (2018), and the Global Award for Sustainable Architecture (2017)</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 11.091796404570339,
+            "ascendant": 1
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 92.15294104323867,
+                "cusp_degree": 2.1529410432386697,
+                "motion_speed": 0.19106775815784008,
+                "zodiac": 4,
+                "house": 4,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 135.35890686906694,
+                "cusp_degree": 15.358906869066942,
+                "motion_speed": 0.9675161198451468,
+                "zodiac": 5,
+                "house": 5,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 333.2738486306508,
+                "cusp_degree": 3.2738486306507752,
+                "motion_speed": 11.844237356279322,
+                "zodiac": 12,
+                "house": 12,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 117.57438722405453,
+                "cusp_degree": 27.574387224054533,
+                "motion_speed": 1.2300565477690717,
+                "zodiac": 4,
+                "house": 4,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 101.08177125509744,
+                "cusp_degree": 11.081771255097436,
+                "motion_speed": 0.6366301735338363,
+                "zodiac": 4,
+                "house": 4,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 127.02619358706795,
+                "cusp_degree": 7.026193587067951,
+                "motion_speed": 1.9470721584098747,
+                "zodiac": 5,
+                "house": 5,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 334.2327863835599,
+                "cusp_degree": 4.232786383559926,
+                "motion_speed": -0.07089924246966653,
+                "zodiac": 12,
+                "house": 12,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 25.251482003541007,
+                "cusp_degree": 25.251482003541007,
+                "motion_speed": -0.16776430593644567,
+                "zodiac": 1,
+                "house": 1,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 26.35721484875916,
+                "cusp_degree": 26.35721484875916,
+                "motion_speed": -0.052992069772042426,
+                "zodiac": 1,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 206.35721484875916,
+                "motion_speed": -0.052992069772042426,
+                "cusp_degree": 26.357214848759156,
+                "zodiac": 7,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 205.251482003541,
+                "motion_speed": -0.16776430593644567,
+                "cusp_degree": 25.251482003541014,
+                "zodiac": 7,
+                "house": 7,
+                "motion": "R"
+            }
+        }
+    }
+}

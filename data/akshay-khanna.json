@@ -1,0 +1,116 @@
+{
+    "request": {
+        "name": "Akshay Khanna",
+        "title": "Actor",
+        "year": 1975,
+        "month": 3,
+        "day": 28,
+        "hour": 10,
+        "minute": 30,
+        "second": 0,
+        "latitude": 19.07283,
+        "longitude": 72.88261,
+        "location": "Mumbai",
+        "gender": "male",
+        "agyat_rating": "AA",
+        "advanced": "actor, rough career, unstable",
+        "about": "<p>Akshaye Khanna (born 28 March 1975) is an Indian actor who primarily works in Hindi films. Known for his acting versatility and strong portrayals, Khanna is a recipient of numerous accolades including two Filmfare Awards.</p><p>Born to actor Vinod Khanna, he made his acting debut with Himalay Putra (1997). His next release, J. P. Dutta's war drama Border (1997) emerged as a critical and commercial success, earning him the Filmfare Award for Best Male Debut. Khanna replicated this success with the romance Taal (1999), the comedy-drama Dil Chahta Hai (2001) which won him the Filmfare Award for Best Supporting Actor. the comedies Hungama (2003) and Hulchul (2004), the murder mystery 36 China Town (2006) and the heist comedy Tees Maar Khan (2010). He drew critical praise for featuring in the thrillers Humraaz (2002) and Deewangee (2002), the biopic Gandhi, My Father (2007) and the action thrillers Race (2008) and Aakrosh (2010).</p><p>Following a four-year hiatus, Khanna returned in supporting roles with action-comedy Dishoom (2016) and the 2017 thrillers Mom and Ittefaq, and received further praises for playing a defence lawyer in the legal drama Section 375 (2019) and a cop in the crime thriller Drishyam 2 (2022). Khanna then received widespread acclaim in 2025, for his portrayal of Aurangzeb in the historical action Chhaava and Rehman Dakait in the spy action thriller Dhurandhar; both became the two of the highest grossing Indian films.</p>",
+        "related": ["vinod-khanna-family"]
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 48.98062024836251,
+            "ascendant": 2
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 338.7868534351978,
+                "cusp_degree": 8.786853435197827,
+                "motion_speed": 0.2416906487092234,
+                "zodiac": 12,
+                "house": 11,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 343.38337734100713,
+                "cusp_degree": 13.383377341007133,
+                "motion_speed": 0.9889476297138688,
+                "zodiac": 12,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 174.12766402948273,
+                "cusp_degree": 24.12766402948273,
+                "motion_speed": 14.889380569851951,
+                "zodiac": 6,
+                "house": 5,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 16.524704973464278,
+                "cusp_degree": 16.524704973464278,
+                "motion_speed": 1.203992751594442,
+                "zodiac": 1,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 295.3776649332646,
+                "cusp_degree": 25.37766493326461,
+                "motion_speed": 0.75975140787712,
+                "zodiac": 10,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 323.9679118489754,
+                "cusp_degree": 23.967911848975405,
+                "motion_speed": 1.6279290157320419,
+                "zodiac": 11,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 78.60708627909338,
+                "cusp_degree": 18.60708627909338,
+                "motion_speed": 0.025620093107103913,
+                "zodiac": 3,
+                "house": 2,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 218.81475697677536,
+                "cusp_degree": 8.814756976775357,
+                "motion_speed": -0.1115101345500541,
+                "zodiac": 8,
+                "house": 7,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 220.5157107716351,
+                "cusp_degree": 10.5157107716351,
+                "motion_speed": -0.05299202845242752,
+                "zodiac": 8,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 40.5157107716351,
+                "motion_speed": -0.05299202845242752,
+                "cusp_degree": 10.5157107716351,
+                "zodiac": 2,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 38.81475697677536,
+                "motion_speed": -0.1115101345500541,
+                "cusp_degree": 8.814756976775357,
+                "zodiac": 2,
+                "house": 1,
+                "motion": "R"
+            }
+        }
+    }
+}

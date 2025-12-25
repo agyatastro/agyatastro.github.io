@@ -1,0 +1,115 @@
+{
+    "request": {
+        "name": "Samay Raina",
+        "title": "Youtuber, Comic, Standup Comic",
+        "year": 1997,
+        "month": 10,
+        "day": 26,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 32.73528,
+        "longitude": 74.86167,
+        "location": "Jammu",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "advanced": "legal trouble",
+        "about": "<p>Samay Raina (born 26 October 1997) is an Indian stand-up comedian and YouTuber. He was the co-winner of the stand-up comedy contest Comicstaan 2 (2019). In 2024, he hosted the comedy talent show India's Got Latent.</p><p>Raina was born in Jammu city of the erstwhile Indian state of Jammu and Kashmir into a conservative Kashmiri Pandit family from Salia area of Seer Hamdan Anantnag. He enrolled in a print engineering course at Vidhyarthi Griha's College of Engineering and Technology in Pune, Maharashtra, which he said was a waste of time, and started doing open mic events and eventually became a regular in the local comedy scene.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 256.4409450732987,
+            "ascendant": 9
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 288.8039381549131,
+                "cusp_degree": 18.803938154913112,
+                "motion_speed": 0.058775967955440336,
+                "zodiac": 10,
+                "house": 2,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 189.0514271134338,
+                "cusp_degree": 9.051427113433789,
+                "motion_speed": 0.9974996239489305,
+                "zodiac": 7,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 132.8284636089472,
+                "cusp_degree": 12.828463608947203,
+                "motion_speed": 11.785130434133615,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 235.72249771447977,
+                "cusp_degree": 25.722497714479772,
+                "motion_speed": 1.0591148685234772,
+                "zodiac": 8,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 235.79037830165373,
+                "cusp_degree": 25.790378301653732,
+                "motion_speed": 0.735567236289643,
+                "zodiac": 8,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 197.08367702471645,
+                "cusp_degree": 17.08367702471645,
+                "motion_speed": 1.5807106133107731,
+                "zodiac": 7,
+                "house": 11,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 351.8415508892309,
+                "cusp_degree": 21.841550889230916,
+                "motion_speed": -0.07350073972685812,
+                "zodiac": 12,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 145.21106747894413,
+                "cusp_degree": 25.21106747894413,
+                "motion_speed": 0.020817232968742872,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 143.4341632708893,
+                "cusp_degree": 23.434163270889286,
+                "motion_speed": -0.052992021167161854,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 323.43416327088926,
+                "motion_speed": -0.052992021167161854,
+                "cusp_degree": 23.434163270889258,
+                "zodiac": 11,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 325.21106747894413,
+                "motion_speed": 0.020817232968742872,
+                "cusp_degree": 25.21106747894413,
+                "zodiac": 11,
+                "house": 3,
+                "motion": "R"
+            }
+        }
+    }
+}

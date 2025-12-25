@@ -1,0 +1,115 @@
+{
+    "request": {
+        "name": "Ranveer Allahabadia",
+        "title": "Youtuber, Mediaperson",
+        "year": 1993,
+        "month": 6,
+        "day": 2,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 19.07283,
+        "longitude": 72.88261,
+        "location": "Mumbai",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "advanced": "legal troubles, depression, anxiety",
+        "about": "Ranveer Allahbadia, widely known by his digital moniker BeerBiceps, is a prominent Indian YouTuber, podcaster, and entrepreneur. Born on June 2, 1993, in Mumbai, he has evolved from a fitness influencer into one of India’s most successful digital media personalities."
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 129.0634069517854,
+            "ascendant": 5
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 160.99030860003137,
+                "cusp_degree": 10.99030860003137,
+                "motion_speed": 0.0036391422108755698,
+                "zodiac": 6,
+                "house": 2,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 47.97044707776307,
+                "cusp_degree": 17.97044707776307,
+                "motion_speed": 0.9576641791685291,
+                "zodiac": 2,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 198.24257892646762,
+                "cusp_degree": 18.242578926467615,
+                "motion_speed": 14.26219245796443,
+                "zodiac": 7,
+                "house": 3,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 2.459947155349038,
+                "cusp_degree": 2.459947155349038,
+                "motion_speed": 0.8907793112548139,
+                "zodiac": 1,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 114.39874845893603,
+                "cusp_degree": 24.398748458936026,
+                "motion_speed": 0.5472880036445021,
+                "zodiac": 4,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 66.42015369552983,
+                "cusp_degree": 6.420153695529834,
+                "motion_speed": 1.7332708081429467,
+                "zodiac": 3,
+                "house": 11,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 306.50612376440364,
+                "cusp_degree": 6.50612376440364,
+                "motion_speed": 0.013005229990971857,
+                "zodiac": 11,
+                "house": 7,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 228.4120491592141,
+                "cusp_degree": 18.412049159214092,
+                "motion_speed": -0.0006697681419742927,
+                "zodiac": 8,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 228.5923359583468,
+                "cusp_degree": 18.59233595834681,
+                "motion_speed": -0.05299202745086216,
+                "zodiac": 8,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 48.59233595834678,
+                "motion_speed": -0.05299202745086216,
+                "cusp_degree": 18.59233595834678,
+                "zodiac": 2,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 48.41204915921412,
+                "motion_speed": -0.0006697681419742927,
+                "cusp_degree": 18.41204915921412,
+                "zodiac": 2,
+                "house": 10,
+                "motion": "R"
+            }
+        }
+    }
+}

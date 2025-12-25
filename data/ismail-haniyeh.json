@@ -1,0 +1,115 @@
+{
+    "request": {
+        "name": "Ismail Haniyeh",
+        "title": "Politician, Terrorist, Separatist",
+        "year": 1962,
+        "month": 1,
+        "day": 29,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 31.50161,
+        "longitude": 34.46672,
+        "location": "Gaza",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "advanced": "legal trouble, detention, terrorist",
+        "about": "<p>Ismail Haniyeh (Arabic: إسماعيل هنية, romanized: Ismāʿīl Haniyyah, 29 January 1962 – 31 July 2024) was a Palestinian politician who served as third chairman of the Hamas Political Bureau from May 2017 until his assassination in July 2024. He also served as the prime minister of the Palestinian National Authority from March 2006 until June 2014 and the first Hamas leader in the Gaza Strip from June 2007 until February 2017, where he was succeeded by Yahya Sinwar.</p><p>Haniyeh was born in the al-Shati refugee camp in the then Egyptian-administered Gaza Strip in 1962 or 1963, to parents who were expelled or fled from Al-Jura (now part of Ashkelon) during the 1948 Palestine war. He earned a bachelor's degree in Arabic literature from the Islamic University of Gaza in 1987, where he first became involved with Hamas, which was formed during the First Intifada against the Israeli occupation. His involvement led to his imprisonment for three short periods after participating in protests. After his release in 1992, he was exiled to Lebanon, returning a year later to become a dean at Gaza's Islamic University. Haniyeh was appointed to head a Hamas office in 1997 and subsequently rose in the ranks of the organization.</p><p>Haniyeh was head of the Hamas list that won the Palestinian legislative elections of 2006, which campaigned on armed resistance against Israel, and so became Prime Minister of the State of Palestine. However, Mahmoud Abbas, the Palestinian president, dismissed Haniyeh from office on 14 June 2007. Due to the then-ongoing Fatah–Hamas conflict, Haniyeh did not acknowledge Abbas' decree and continued to exercise prime ministerial authority in the Gaza Strip. Haniyeh was the leader of Hamas in the Gaza Strip from 2006 until February 2017, when he was replaced by Yahya Sinwar. Haniyeh was seen by many diplomats as one of the more pragmatic and moderate figures in Hamas. From 2017 until his assassination in 2024, he had mostly lived in Qatar.</p><p>On 6 May 2017, Haniyeh was elected chairman of Hamas's Political Bureau, replacing Khaled Mashal; at the time, Haniyeh relocated from the Gaza Strip to Qatar. Under his tenure, Hamas launched the October 7 attacks, and subsequently Israel declared its intention to assassinate all Hamas leaders. In May 2024, Karim Khan, the prosecutor of the International Criminal Court, announced his intention to apply for an arrest warrant for Haniyeh, and other Hamas leaders, for war crimes and crimes against humanity, as part of the ICC investigation in Palestine. On 31 July 2024, Haniyeh was assassinated by an explosive device planted in his guesthouse in Tehran, likely by Israeli Mossad agents. At the time of his death, he had been leading cease-fire negotiations with Israel for Hamas.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 34.2031083965896,
+            "ascendant": 2
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 293.71682416824854,
+                "cusp_degree": 23.716824168248536,
+                "motion_speed": 0.23806928559543764,
+                "zodiac": 10,
+                "house": 9,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 285.6994657596271,
+                "cusp_degree": 15.699465759627117,
+                "motion_speed": 1.0157604627505086,
+                "zodiac": 10,
+                "house": 9,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 200.67919015972296,
+                "cusp_degree": 20.679190159722964,
+                "motion_speed": 12.575899637919132,
+                "zodiac": 7,
+                "house": 6,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 286.17661020528726,
+                "cusp_degree": 16.17661020528726,
+                "motion_speed": 1.2559425600642882,
+                "zodiac": 10,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 273.9265106320211,
+                "cusp_degree": 3.9265106320211203,
+                "motion_speed": 0.7743829737964212,
+                "zodiac": 10,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 299.19903737596485,
+                "cusp_degree": 29.19903737596485,
+                "motion_speed": -0.3353802790078545,
+                "zodiac": 10,
+                "house": 9,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 279.7028887305731,
+                "cusp_degree": 9.702888730573079,
+                "motion_speed": 0.11861172512842123,
+                "zodiac": 10,
+                "house": 9,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 114.75919040607367,
+                "cusp_degree": 24.75919040607367,
+                "motion_speed": -0.003231447619044714,
+                "zodiac": 4,
+                "house": 3,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 115.1844356341579,
+                "cusp_degree": 25.184435634157893,
+                "motion_speed": -0.05299207427463211,
+                "zodiac": 4,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 295.1844356341579,
+                "motion_speed": -0.05299207427463211,
+                "cusp_degree": 25.18443563415792,
+                "zodiac": 10,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 294.7591904060737,
+                "motion_speed": -0.003231447619044714,
+                "cusp_degree": 24.759190406073685,
+                "zodiac": 10,
+                "house": 9,
+                "motion": "R"
+            }
+        }
+    }
+}

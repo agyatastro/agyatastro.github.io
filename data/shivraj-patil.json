@@ -1,0 +1,115 @@
+{
+    "request": {
+        "name": "Shivraj Patil",
+        "title": "Politician, Minister",
+        "year": 1935,
+        "month": 10,
+        "day": 12,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 18.39721,
+        "longitude": 76.56784,
+        "location": "Latur",
+        "gender": "male",
+        "agyat_rating": "AA",
+        "dod": "12/12/2025",
+        "about": "<p>Shivraj Vishwanath Patil Chakurkar (12 October 1935 – 12 December 2025) was an Indian politician. He was the Minister of Home Affairs of India, from 2004 to 2008 and 10th Speaker of the Lok Sabha from 1991 to 1996. Patil was Governor of the state of Punjab and Administrator of the Union Territory of Chandigarh from 2010 to 2015. Previously, he served in the Indira Gandhi and Rajiv Gandhi cabinets as Minister of Defence during the 1980s.</p><p>Patil resigned from the post of Home Minister on 30 November 2008, following widespread criticism raised after 2008 Mumbai attacks, and took moral responsibility for the security lapse that led to the attacks.</p><p>Shivraj Vishwanath Patil Chakurkar was born on 12 October 1935 in the village of Chakur in the Latur district (Marathwada region) of the then princely state of Hyderabad, now Maharashtra, India. He attended Osmania University, Hyderabad, earning a degree in Science and studied law at Bombay University. During 1967–69, he was involved in local government (Latur Municipality). Keshavrao Sonawane and Manikrao Sonawane helped Shivaraj Patil to get his first break to stand from Latur Constituency.</p><p>He belonged to the Panchamsali Lingayat community. He married Vijaya Patil in June 1963, and had two children – a son and a daughter – with her. He was also a devout follower of Sathya Sai Baba.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 252.2891371030089,
+            "ascendant": 9
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 211.1753767981729,
+                "cusp_degree": 1.1753767981728913,
+                "motion_speed": 0.1986103593419902,
+                "zodiac": 8,
+                "house": 12,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 175.03830499211523,
+                "cusp_degree": 25.03830499211523,
+                "motion_speed": 0.9891820011722716,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 356.1333955211121,
+                "cusp_degree": 26.133395521112107,
+                "motion_speed": 15.132175747912102,
+                "zodiac": 12,
+                "house": 4,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 136.47356222489992,
+                "cusp_degree": 16.473562224899922,
+                "motion_speed": 0.429638531671166,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 234.98541138332308,
+                "cusp_degree": 24.985411383323083,
+                "motion_speed": 0.718884241899693,
+                "zodiac": 8,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 187.43728075503859,
+                "cusp_degree": 7.437280755038586,
+                "motion_speed": -0.804079437801463,
+                "zodiac": 7,
+                "house": 11,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 311.1407687836794,
+                "cusp_degree": 11.140768783679391,
+                "motion_speed": -0.04341619701311704,
+                "zodiac": 11,
+                "house": 3,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 264.3480752082634,
+                "cusp_degree": 24.348075208263424,
+                "motion_speed": -0.19277643232357589,
+                "zodiac": 9,
+                "house": 1,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 264.2339075377277,
+                "cusp_degree": 24.233907537727703,
+                "motion_speed": -0.052992132746600244,
+                "zodiac": 9,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 84.2339075377277,
+                "motion_speed": -0.052992132746600244,
+                "cusp_degree": 24.233907537727703,
+                "zodiac": 3,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 84.34807520826342,
+                "motion_speed": -0.19277643232357589,
+                "cusp_degree": 24.348075208263424,
+                "zodiac": 3,
+                "house": 7,
+                "motion": "R"
+            }
+        }
+    }
+}

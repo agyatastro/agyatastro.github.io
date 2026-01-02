@@ -1,0 +1,114 @@
+{
+    "request": {
+        "name": "Sri Neelam Sanjiva Reddy",
+        "title": "President, Politician",
+        "year": 1913,
+        "month": 5,
+        "day": 19,
+        "hour": 21,
+        "minute": 48,
+        "second": 0,
+        "latitude": 14.67784,
+        "longitude": 77.60813,
+        "location": "Anantapur",
+        "gender": "male",
+        "agyat_rating": "AA",
+        "about": "<p>Neelam Sanjiva Reddy (19 May 1913 – 1 June 1996) was an Indian politician who served as the president of India from 1977 to 1982. Beginning a long political career with the Indian National Congress in the independence movement, he went on to hold several key offices in independent India – as deputy chief minister of Andhra state and the chief minister of Andhra Pradesh, a two-time Speaker of the Lok Sabha and a Union Minister— before becoming the Indian president.</p><p>Born in present-day Anantapur district, Andhra Pradesh, Reddy completed his schooling at Adayar and joined the Government Arts College at Anantapur. He quit to become an Indian independence activist and was jailed for participating in the Quit India Movement. He was elected to the Madras Legislative Assembly in 1946 as a Congress representative. Reddy became the deputy chief minister of Andhra State in 1953 and the Chief Minister of Andhra Pradesh in 1956. He was a union cabinet minister under prime ministers Lal Bahadur Shastri and Indira Gandhi from 1964 to 1967 and Lok Sabha Speaker from 1967 to 1969. He later retired from active politics but returned in 1975, responding to Jayaprakash Narayan's call for \"Total Revolution\" against the Indira Gandhi Government.</p><p>Elected to Parliament in 1977 as a candidate of the Janata Party, Reddy was unanimously elected speaker of the 6th Lok Sabha and three months later, was elected unopposed as president of India. As president, Reddy worked with prime ministers Morarji Desai, Charan Singh, and Indira Gandhi. Reddy was succeeded by Zail Singh in 1982, and retired to his farm in Anantapur. He died in 1996 and his samadhi is at Kalpally Burial Ground, Bangalore. In 2013, the Government of Andhra Pradesh commemorated Reddy's birth centenary.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 258.81526245359765,
+            "ascendant": 9
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 264.89021729275476,
+                "cusp_degree": 24.890217292754755,
+                "motion_speed": -0.04316379668390751,
+                "zodiac": 9,
+                "house": 1,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 35.40906087764782,
+                "cusp_degree": 5.409060877647818,
+                "motion_speed": 0.9617547037961273,
+                "zodiac": 2,
+                "house": 6,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 207.33970137580332,
+                "cusp_degree": 27.339701375803315,
+                "motion_speed": 13.9512844846181,
+                "zodiac": 7,
+                "house": 11,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 3.637779991493336,
+                "cusp_degree": 3.637779991493336,
+                "motion_speed": 0.12429520076667731,
+                "zodiac": 1,
+                "house": 5,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 346.15945160262777,
+                "cusp_degree": 16.15945160262777,
+                "motion_speed": 0.7586132432256547,
+                "zodiac": 12,
+                "house": 4,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 20.46211786780128,
+                "cusp_degree": 20.46211786780128,
+                "motion_speed": 1.8932812613478234,
+                "zodiac": 1,
+                "house": 5,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 43.60391011028284,
+                "cusp_degree": 13.60391011028284,
+                "motion_speed": 0.12902323123168696,
+                "zodiac": 2,
+                "house": 6,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 339.05902155208054,
+                "cusp_degree": 9.059021552080537,
+                "motion_speed": -0.12343021532071127,
+                "zodiac": 12,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 337.7405173665025,
+                "cusp_degree": 7.740517366502502,
+                "motion_speed": -0.05299202191053094,
+                "zodiac": 12,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 157.74051736650244,
+                "motion_speed": -0.05299202191053094,
+                "cusp_degree": 7.740517366502445,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 159.0590215520806,
+                "motion_speed": -0.12343021532071127,
+                "cusp_degree": 9.059021552080594,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "R"
+            }
+        }
+    }
+}

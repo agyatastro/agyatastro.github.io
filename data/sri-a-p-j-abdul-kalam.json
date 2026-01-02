@@ -1,0 +1,115 @@
+{
+    "request": {
+        "name": "Sri A.P.J Abdul Kalam",
+        "title": "President, Aerospace Scientist, Author",
+        "year": 1931,
+        "month": 10,
+        "day": 15,
+        "hour": 1,
+        "minute": 15,
+        "second": 0,
+        "latitude": 9.2885,
+        "longitude": 79.31271,
+        "location": "Rameswaram",
+        "gender": "male",
+        "agyat_rating": "AA",
+        "advanced": "death by cardiac arrest",
+        "about": "<p>Avul Pakir Jainulabdeen Abdul Kalam (/ˈʌbdʊl kəˈlɑːm/ ⓘ UB-duul kə-LAHM; 15 October 1931 – 27 July 2015) was an Indian aerospace scientist and statesman who served as the president of India from 2002 to 2007.</p><p>Born and raised in a Muslim family in Rameswaram, Tamil Nadu, Kalam studied physics and aerospace engineering. He spent the next four decades as a scientist and science administrator, mainly at the Defence Research and Development Organisation (DRDO) and Indian Space Research Organisation (ISRO) and was intimately involved in India's civilian space programme and military missile development efforts. He was known as the \"Missile Man of India\" for his work on the development of ballistic missile and launch vehicle technology. He also played a pivotal organisational, technical, and political role in Pokhran-II nuclear tests in 1998, India's second such test after the first test in 1974.</p><p>Kalam was elected as the president of India in 2002 with the support of both the ruling Bharatiya Janata Party and the then-opposition Indian National Congress. He was widely referred to as the \"People's President\". He engaged in teaching, writing and public service after his presidency. He was a recipient of several awards, including the Bharat Ratna, India's highest civilian honour.</p><p>While delivering a lecture at IIM Shillong, Kalam collapsed and died from an apparent cardiac arrest on 27 July 2015, aged 83. Thousands attended the funeral ceremony held in his hometown of Rameswaram, where he was buried with full state honours. A memorial was inaugurated near his home town in 2017.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 105.6877278202654,
+            "ascendant": 4
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 115.13058137438072,
+                "cusp_degree": 25.130581374380725,
+                "motion_speed": 0.15100545843677324,
+                "zodiac": 4,
+                "house": 1,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 177.59437036272303,
+                "cusp_degree": 27.594370362723026,
+                "motion_speed": 0.9912952591481591,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 223.03482754558078,
+                "cusp_degree": 13.034827545580782,
+                "motion_speed": 14.294485317922913,
+                "zodiac": 8,
+                "house": 5,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 187.30514440047946,
+                "cusp_degree": 7.305144400479463,
+                "motion_speed": 1.2481278756267453,
+                "zodiac": 7,
+                "house": 4,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 205.93975211548724,
+                "cusp_degree": 25.939752115487238,
+                "motion_speed": 0.7018024685479137,
+                "zodiac": 7,
+                "house": 4,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 174.8199605957589,
+                "cusp_degree": 24.819960595758886,
+                "motion_speed": 1.7274893412246048,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 264.17666396472356,
+                "cusp_degree": 24.17666396472356,
+                "motion_speed": 0.03748367302537611,
+                "zodiac": 9,
+                "house": 6,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 342.4291575154347,
+                "cusp_degree": 12.429157515434724,
+                "motion_speed": -0.03302408051736059,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 341.5200885067831,
+                "cusp_degree": 11.520088506783111,
+                "motion_speed": -0.05299207034693208,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 161.52008850678317,
+                "motion_speed": -0.05299207034693208,
+                "cusp_degree": 11.520088506783168,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 162.42915751543478,
+                "motion_speed": -0.03302408051736059,
+                "cusp_degree": 12.429157515434781,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "R"
+            }
+        }
+    }
+}

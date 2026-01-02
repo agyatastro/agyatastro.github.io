@@ -1,0 +1,116 @@
+{
+    "request": {
+        "name": "Sri Rajendra Prasad",
+        "title": "Politician, President",
+        "year": 1884,
+        "month": 12,
+        "day": 3,
+        "hour": 8,
+        "minute": 45,
+        "second": 0,
+        "latitude": 26.2333,
+        "longitude": 84.35,
+        "location": "Ziradei",
+        "gender": "male",
+        "agyat_rating": "AA",
+        "dod": "28/02/1963",
+        "advanced": "Freedom Activist, Freedom Fighter",
+        "about": "<p>Rajendra Prasad (3 December 1884 – 28 February 1963) was an Indian politician, lawyer, journalist and scholar who served as the first president of India from 1950 to 1962 for two terms. He joined the Indian National Congress during the Indian independence movement and became a major leader from the region of Bihar. A supporter of Mahatma Gandhi, Prasad was imprisoned by British authorities during the Salt Satyagraha of 1930 and the Quit India movement of 1942. After the constituent assembly 1946 elections, Prasad served as 1st Minister of Food and Agriculture in the central government from 1947 to 1948. Upon independence in 1947, Prasad was elected as President of the Constituent Assembly of India, which prepared the Constitution of India and which served as its provisional Parliament.</p><p>When India became a republic in 1950, Prasad was elected as its first president by the Constituent Assembly. As president, Prasad established a tradition for non-partisanship and independence for the office-bearer and retired from Congress party politics. Although a ceremonial head of state, Prasad encouraged the development of education in India and advised government on several occasions. In 1957, Prasad was re-elected to the presidency, becoming the only president to serve two full terms. Prasad stayed in office for the longest term of around 12 years. Post the completion of his tenure, he quit the Congress and set up new guidelines for parliamentarians which are still followed.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 262.30403021244996,
+            "ascendant": 9
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 133.0724600342811,
+                "cusp_degree": 13.072460034281107,
+                "motion_speed": 0.05701303214503598,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 229.17754272452768,
+                "cusp_degree": 19.177542724527683,
+                "motion_speed": 1.0145640309589286,
+                "zodiac": 8,
+                "house": 12,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 54.19565656792302,
+                "cusp_degree": 24.195656567923017,
+                "motion_speed": 15.35606135774287,
+                "zodiac": 2,
+                "house": 6,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 192.9653252392219,
+                "cusp_degree": 12.965325239221897,
+                "motion_speed": 1.2187486505395302,
+                "zodiac": 7,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 245.95232858344178,
+                "cusp_degree": 5.952328583441783,
+                "motion_speed": 0.7568230708471902,
+                "zodiac": 9,
+                "house": 1,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 244.47147164883347,
+                "cusp_degree": 4.471471648833472,
+                "motion_speed": 1.4911437037642026,
+                "zodiac": 9,
+                "house": 1,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 59.24931635344262,
+                "cusp_degree": 29.249316353442623,
+                "motion_speed": -0.08046956774073721,
+                "zodiac": 2,
+                "house": 6,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 170.02663565048434,
+                "cusp_degree": 20.026635650484337,
+                "motion_speed": -0.15197747602627273,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 168.5160129750327,
+                "cusp_degree": 18.51601297503271,
+                "motion_speed": -0.0529921485709895,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 348.5160129750327,
+                "motion_speed": -0.0529921485709895,
+                "cusp_degree": 18.51601297503271,
+                "zodiac": 12,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 350.0266356504843,
+                "motion_speed": -0.15197747602627273,
+                "cusp_degree": 20.02663565048431,
+                "zodiac": 12,
+                "house": 4,
+                "motion": "R"
+            }
+        }
+    }
+}

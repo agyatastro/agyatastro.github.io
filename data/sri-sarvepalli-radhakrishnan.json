@@ -1,0 +1,115 @@
+{
+    "request": {
+        "name": "Sri Sarvepalli Radhakrishnan",
+        "title": "President, Politician, Professor, Vice-Chancellor",
+        "year": 1888,
+        "month": 9,
+        "day": 5,
+        "hour": 13,
+        "minute": 41,
+        "second": 0,
+        "latitude": 13.14376,
+        "longitude": 79.90889,
+        "location": "Tiruvallur",
+        "gender": "male",
+        "agyat_rating": "AA",
+        "dod": "17/04/1975",
+        "about": "<p>Sarvepalli Radhakrishnan (pronunciation; 5 September 1888 – 17 April 1975) was an Indian academic, philosopher and statesman who served as the Vice President of India from 1952 to 1962 and President of India from 1962 to 1967. He was the ambassador of India to the Soviet Union from 1949 to 1952. He was also the vice-chancellor of Banaras Hindu University from 1939 to 1948 and the vice-chancellor of Andhra University from 1931 to 1936. Radhakrishnan is considered one of the most influential and distinguished 20th century scholars of comparative religion and philosophy, he held the King George V Chair of Mental and Moral Science at the University of Calcutta from 1921 to 1932 and Spalding Chair of Eastern Religion and Ethics at University of Oxford from 1936 to 1952.</p><p>Radhakrishnan's philosophy was grounded in Advaita Vedanta, reinterpreting this tradition for a contemporary understanding. He defended Hinduism against what he called \"uninformed Western criticism\", contributing to the formation of contemporary Hindu identity. He has been influential in shaping the understanding of Hinduism, in both India and the west, and earned a reputation as a bridge-builder between India and the West.</p><p>Radhakrishnan was awarded several high awards during his life, including a knighthood in 1931, the Bharat Ratna, the highest civilian award in India, in 1954, and honorary membership of the British Royal Order of Merit in 1963. He was also one of the founders of HelpAge India, a non-profit organisation for elderly underprivileged in India. Radhakrishnan believed that \"teachers should be the best minds in the country.\"</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 251.3143942756751,
+            "ascendant": 9
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 216.9612890100447,
+                "cusp_degree": 6.961289010044709,
+                "motion_speed": 0.12031153589531006,
+                "zodiac": 8,
+                "house": 12,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 140.85866506980815,
+                "cusp_degree": 20.858665069808154,
+                "motion_speed": 0.9710000537499512,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 129.72401355968987,
+                "cusp_degree": 9.724013559689865,
+                "motion_speed": 13.792644231765134,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 156.0780266852876,
+                "cusp_degree": 6.078026685287597,
+                "motion_speed": 1.2365375217728751,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 214.10880309876416,
+                "cusp_degree": 4.108803098764156,
+                "motion_speed": 0.6505248170581566,
+                "zodiac": 8,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 151.7008775628128,
+                "cusp_degree": 1.7008775628127921,
+                "motion_speed": 1.727902827433029,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 112.08700680565325,
+                "cusp_degree": 22.087006805653246,
+                "motion_speed": 0.11824855010555621,
+                "zodiac": 4,
+                "house": 8,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 97.52706025646873,
+                "cusp_degree": 7.5270602564687294,
+                "motion_speed": -0.0744735284925601,
+                "zodiac": 4,
+                "house": 8,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 95.7999306090692,
+                "cusp_degree": 5.799930609069193,
+                "motion_speed": -0.05299212849160044,
+                "zodiac": 4,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 275.7999306090692,
+                "motion_speed": -0.05299212849160044,
+                "cusp_degree": 5.799930609069179,
+                "zodiac": 10,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 277.52706025646876,
+                "motion_speed": -0.0744735284925601,
+                "cusp_degree": 7.527060256468758,
+                "zodiac": 10,
+                "house": 2,
+                "motion": "R"
+            }
+        }
+    }
+}

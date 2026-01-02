@@ -1,0 +1,115 @@
+{
+    "request": {
+        "name": "Sri Zakir Hussain",
+        "title": "President, Economist, Politician",
+        "year": 1897,
+        "month": 2,
+        "day": 8,
+        "hour": 15,
+        "minute": 31,
+        "second": 0,
+        "latitude": 17.38405,
+        "longitude": 78.45636,
+        "location": "Hyderabad",
+        "gender": "male",
+        "agyat_rating": "AA",
+        "advanced": "death by heart attack",
+        "about": "<p>Zakir Husain Khan (8 February 1897 – 3 May 1969) was an Indian educationist and politician who served as the vice president of India from 1962 to 1967 and president of India from 13 May 1967 until his death on 3 May 1969.</p><p>Born in Hyderabad in an Afridi Pashtun family, Husain completed his schooling in Etawah and went on to study at the Muhammadan Anglo-Oriental College, Aligarh and the University of Berlin from where he obtained a doctoral degree in economics. A close associate of Mahatma Gandhi, Husain was a founding member of the Jamia Millia Islamia which was established as an independent national university in response to the Non-cooperation movement. He served as the university's vice-chancellor from 1926 to 1948. In 1937, Husain chaired the Basic National Education Committee which framed a new educational policy known as Nai Talim (literally meaning “New Education” in Urdu) which emphasized free and compulsory education in the first language. He was opposed to the policy of separate electorates for Muslims and, in 1946, the Muslim League under Muhammad Ali Jinnah vetoed a proposal by the Indian National Congress to include Husain in the Interim Government of India.</p><p>Following Independence and the Partition of India Husain stayed on in India and, in 1948, was appointed Vice Chancellor of the Aligarh Muslim University which he helped retain as a national institution of higher learning. For his services to education, he was awarded the Padma Vibhushan in 1954 and was made a nominated member of the Indian Parliament during 1952 to 1957. Husain served as Governor of Bihar from 1957 to 1962 and was elected the Vice President of India in 1962. The following year, he was conferred the Bharat Ratna. He was elected president in 1967, succeeding Sarvepalli Radhakrishnan, and became the first Muslim to hold the highest constitutional office in India. He was also the first incumbent to die in office and had the shortest tenure of any Indian president. His mazar lies in the campus of the Jamia Millia Islamia in Delhi.</p><p>An author and translator of several books into Urdu and a prolific writer of children's books, Husain has been commemorated in India through postage stamps and several educational institutions, libraries, roads and Asia's largest rose garden that have been named after him.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 83.38093554319008,
+            "ascendant": 3
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 134.78391686686194,
+                "cusp_degree": 14.783916866861944,
+                "motion_speed": -0.12055396107454791,
+                "zodiac": 5,
+                "house": 3,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 297.54353180778617,
+                "cusp_degree": 27.543531807786167,
+                "motion_speed": 1.0120326913023383,
+                "zodiac": 10,
+                "house": 8,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 12.48754107698602,
+                "cusp_degree": 12.48754107698602,
+                "motion_speed": 11.873023921202496,
+                "zodiac": 1,
+                "house": 11,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 343.99723077397056,
+                "cusp_degree": 13.997230773970557,
+                "motion_speed": 1.056487102321796,
+                "zodiac": 12,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 52.16242457570663,
+                "cusp_degree": 22.16242457570663,
+                "motion_speed": 0.2444955978461846,
+                "zodiac": 2,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 272.857970616354,
+                "cusp_degree": 2.8579706163540095,
+                "motion_speed": 0.5255278226774394,
+                "zodiac": 10,
+                "house": 8,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 217.6164798603107,
+                "cusp_degree": 7.6164798603107045,
+                "motion_speed": 0.04855904866257081,
+                "zodiac": 8,
+                "house": 6,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 292.81994406523285,
+                "cusp_degree": 22.819944065232846,
+                "motion_speed": -0.00539020165375348,
+                "zodiac": 10,
+                "house": 8,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 292.68615529741135,
+                "cusp_degree": 22.686155297411347,
+                "motion_speed": -0.05299211830291701,
+                "zodiac": 10,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 112.68615529741135,
+                "motion_speed": -0.05299211830291701,
+                "cusp_degree": 22.686155297411347,
+                "zodiac": 4,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 112.81994406523285,
+                "motion_speed": -0.00539020165375348,
+                "cusp_degree": 22.819944065232846,
+                "zodiac": 4,
+                "house": 2,
+                "motion": "R"
+            }
+        }
+    }
+}

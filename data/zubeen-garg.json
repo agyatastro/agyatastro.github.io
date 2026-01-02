@@ -1,0 +1,116 @@
+{
+    "request": {
+        "name": "Zubeen Garg",
+        "title": "Singer, Songwriter, Director, Producer, Poet",
+        "year": 1972,
+        "month": 11,
+        "day": 18,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 25.51421,
+        "longitude": 90.20239,
+        "location": "Tura",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "dod": "19/09/2025",
+        "advanced": "Composer, Music director, Music producer, Lyricist, Multi-instrumentalist, Actor, Film director, Film producer, Screenwriter, Poet, death by drawning",
+        "about": "<p>Zubeen Garg (18 November 1972 – 19 September 2025) was an Indian musician, singer, composer, songwriter, instrumentalist, actor, director, filmmaker, poet and philanthropist who primarily worked and sang in the Assamese, Bengali, and Hindi-language films and music industries. He also sang in 40 other languages and dialects, including Bishnupriya Manipuri, Adi, Boro, Dimasa, English, Goalpariya, Gujarati, Kannada, Karbi, Malayalam, Marathi, Mising, Nepali, Bhojpuri, Odia, Sadri, Sanskrit, Sindhi, Tamil, Telugu, Tiwa and Urdu.</p><p>Garg was a multi-instrumentalist and played many instruments including anandalahari, dhol, dotara, drums, guitar, harmonica, harmonium, mandolin, keyboard, tabla, and various percussion instruments. He was regarded as one of the influential musicians in Assam, and was reportedly the highest-paid singer in Assam. Over a career spanning 33 years, he recorded over 40,000 songs</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 303.2764013730213,
+            "ascendant": 11
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 254.71381789381525,
+                "cusp_degree": 14.713817893815246,
+                "motion_speed": 0.1998326754268867,
+                "zodiac": 9,
+                "house": 11,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 212.54176750041933,
+                "cusp_degree": 2.5417675004193256,
+                "motion_speed": 1.0085867947799707,
+                "zodiac": 8,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 354.4827904351129,
+                "cusp_degree": 24.482790435112918,
+                "motion_speed": 14.758084184057145,
+                "zodiac": 12,
+                "house": 2,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 178.80201173855966,
+                "cusp_degree": 28.802011738559656,
+                "motion_speed": 1.2240900911360775,
+                "zodiac": 6,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 188.06775777843458,
+                "cusp_degree": 8.067757778434583,
+                "motion_speed": 0.6620425242619131,
+                "zodiac": 7,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 228.49904730273363,
+                "cusp_degree": 18.49904730273363,
+                "motion_speed": -0.3992706821831135,
+                "zodiac": 8,
+                "house": 10,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 55.26326227571098,
+                "cusp_degree": 25.26326227571098,
+                "motion_speed": -0.07249503372310268,
+                "zodiac": 2,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 264.7030082714784,
+                "cusp_degree": 24.70300827147838,
+                "motion_speed": -0.12680354479289727,
+                "zodiac": 9,
+                "house": 11,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 266.08555284478274,
+                "cusp_degree": 26.08555284478274,
+                "motion_speed": -0.05299204734736174,
+                "zodiac": 9,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 86.08555284478274,
+                "motion_speed": -0.05299204734736174,
+                "cusp_degree": 26.08555284478274,
+                "zodiac": 3,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 84.70300827147838,
+                "motion_speed": -0.12680354479289727,
+                "cusp_degree": 24.70300827147838,
+                "zodiac": 3,
+                "house": 5,
+                "motion": "R"
+            }
+        }
+    }
+}

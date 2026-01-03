@@ -1,0 +1,115 @@
+{
+    "request": {
+        "name": "Asrani",
+        "title": "Actor",
+        "year": 1941,
+        "month": 1,
+        "day": 1,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 26.91962,
+        "longitude": 75.78781,
+        "location": "Jaipur",
+        "gender": "male",
+        "dod": "20/10/2025",
+        "agyat_rating": "AX",
+        "about": "<p>Govardhan Asrani (1 January 1941 – 20 October 2025), known professionally as Asrani, was an Indian actor and film director. His career in Indian cinema spanned over five decades, during which he appeared in over 350 Hindi and Gujarati films. Asrani worked in lead, character, comedic, and supporting roles. He is particularly noted for his role as the Jailor in Sholay, caricaturing Hitler, and Amadavad no Rikshavaro and for his appearances in 25 films with Rajesh Khanna as the lead actor between 1972 and 1991.</p><p>In Hindi cinema, he appeared in several comic roles from 1966 to 2014 and frequently portrayed the close friend of the lead actor in films between 1972 and 1995. He appeared in multiple films directed by Hrishikesh Mukherjee and Priyadarshan. In some Hindi films, including Chala Murari Hero Banne and Salaam Memsaab, he played the lead role. In Gujarati films, he acted as the lead from 1972 to 1984 and performed character roles from 1985 to 2012. He directed six films between 1974 and 1997.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 342.28515319923486,
+            "ascendant": 12
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 12.64475045605078,
+                "cusp_degree": 12.64475045605078,
+                "motion_speed": 0.0042081905179211275,
+                "zodiac": 1,
+                "house": 2,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 257.4399502565465,
+                "cusp_degree": 17.439950256546524,
+                "motion_speed": 1.0195693506555012,
+                "zodiac": 9,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 299.5409032753182,
+                "cusp_degree": 29.540903275318215,
+                "motion_speed": 12.770555178742137,
+                "zodiac": 10,
+                "house": 11,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 231.22048294685672,
+                "cusp_degree": 21.22048294685672,
+                "motion_speed": 1.246114055256422,
+                "zodiac": 8,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 214.58083691356478,
+                "cusp_degree": 4.580836913564781,
+                "motion_speed": 0.6714425749507741,
+                "zodiac": 8,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 251.46923116684286,
+                "cusp_degree": 11.46923116684286,
+                "motion_speed": 1.5754178483368892,
+                "zodiac": 9,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 14.923732686846774,
+                "cusp_degree": 14.923732686846774,
+                "motion_speed": -0.01543937916059252,
+                "zodiac": 1,
+                "house": 2,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 162.6883999268093,
+                "cusp_degree": 12.688399926809296,
+                "motion_speed": -0.12174391612660693,
+                "zodiac": 6,
+                "house": 7,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 163.12503610514207,
+                "cusp_degree": 13.125036105142073,
+                "motion_speed": -0.052992061470801335,
+                "zodiac": 6,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 343.12503610514204,
+                "motion_speed": -0.052992061470801335,
+                "cusp_degree": 13.125036105142044,
+                "zodiac": 12,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 342.6883999268093,
+                "motion_speed": -0.12174391612660693,
+                "cusp_degree": 12.688399926809325,
+                "zodiac": 12,
+                "house": 1,
+                "motion": "R"
+            }
+        }
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "request": {
+        "name": "Satya Pal Malik",
+        "title": "Politician",
+        "year": 1952,
+        "month": 10,
+        "day": 25,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 27.88145,
+        "longitude": 78.07464,
+        "location": "Aligarh",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "dod": "05/08/2025",
+        "advanced": "death by prolonged illness",
+        "about": "<p>Satya Pal Malik (24 July 1946 – 5 August 2025) was an Indian politician who served as governor of five Indian states, namely Bihar, Odisha, Jammu and Kashmir, Goa, and Meghalaya.</p><p>His first prominent stint as a politician was as a member of Uttar Pradesh Legislative Assembly during 1974–77. He represented Uttar Pradesh in Rajya Sabha from 1980 to 1986 and 1986–89. He was member of the 9th Lok Sabha from Aligarh, from 1989 to 1991, as member of Janata Dal. He was the Governor of Bihar from October 2017 to August 2018. On 21 March 2018, he was also given additional charge to serve as Governor of Odisha up to 28 May 2018. In August 2018, he was appointed Governor to the erstwhile state of Jammu and Kashmir, becoming its 10th and last Governor, and served till October 2019. During his tenure, in August 2019, the state's special status was revoked and it was reorganised into two union territories. Later, he moved to Goa, becoming the 18th governor, and also served as the 21st Governor of Meghalaya, until October 2022</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 261.95806030197133,
+            "ascendant": 9
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 24.586357610120405,
+                "cusp_degree": 24.586357610120405,
+                "motion_speed": -0.1263659595375017,
+                "zodiac": 1,
+                "house": 5,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 188.59101004214145,
+                "cusp_degree": 8.591010042141448,
+                "motion_speed": 0.997251563403513,
+                "zodiac": 7,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 266.9420691574142,
+                "cusp_degree": 26.94206915741421,
+                "motion_speed": 13.902411269733431,
+                "zodiac": 9,
+                "house": 1,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 220.5420413617264,
+                "cusp_degree": 10.542041361726405,
+                "motion_speed": 1.2219795341842987,
+                "zodiac": 8,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 256.2310745558193,
+                "cusp_degree": 16.231074555819305,
+                "motion_speed": 0.7312831139935293,
+                "zodiac": 9,
+                "house": 1,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 207.30541120039814,
+                "cusp_degree": 27.30541120039814,
+                "motion_speed": 1.4149543650181025,
+                "zodiac": 7,
+                "house": 11,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 176.45010266961268,
+                "cusp_degree": 26.450102669612676,
+                "motion_speed": 0.12053040401366018,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 295.22083657020175,
+                "cusp_degree": 25.220836570201755,
+                "motion_speed": -0.01949188319800422,
+                "zodiac": 10,
+                "house": 2,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 294.46428084431733,
+                "cusp_degree": 24.46428084431733,
+                "motion_speed": -0.05299205011677763,
+                "zodiac": 10,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 114.46428084431733,
+                "motion_speed": -0.05299205011677763,
+                "cusp_degree": 24.46428084431733,
+                "zodiac": 4,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 115.22083657020175,
+                "motion_speed": -0.01949188319800422,
+                "cusp_degree": 25.220836570201755,
+                "zodiac": 4,
+                "house": 8,
+                "motion": "R"
+            }
+        }
+    }
+}

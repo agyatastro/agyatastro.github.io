@@ -1,0 +1,117 @@
+{
+    "request": {
+        "name": "Shibu Soren",
+        "title": "Politician, Agriculturist",
+        "year": 1944,
+        "month": 1,
+        "day": 11,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 23.6303,
+        "longitude": 85.52156,
+        "location": "Ramgarh",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "dod": "04/08/2025",
+        "advanced": "legal-troubles, detention, death by kidney disease",
+        "about": "<p>Shibu Soren (Hindi pronunciation: [ʃɪbuː soːɾeːn̪]; 11 January 1944 – 4 August 2025), popularly known as the Dishom Guru, was an Indian social reformer and politician who was a founder and longtime president of the Jharkhand Mukti Morcha (JMM). He played a crucial role in the formation of the separate state of Jharkhand from Bihar and later served as the 3rd Chief Minister of Jharkhand, first for 10 days in March 2005, then from 2008 to 2009, and again from 2009 to 2010.</p><p>Soren was a Member of Parliament, Lok Sabha from Dumka from 1980 to 1984, 1989 to 1998, and 2002 to 2019. He was also a member of the Rajya Sabha, representing Jharkhand from 2020 until his death in 2025. He also served as the Minister for Coal in the Union Cabinet three times: in 2004, from 2004 to 2005, and in 2006. However, he was convicted by a Delhi district court of his involvement in the 1994 murder of his private secretary, Shashi Nath Jha. He had also been indicted in the past on other criminal charges.</p>",
+        "related": ["soren-family"]
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 347.17461257735414,
+            "ascendant": 12
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 122.71424016414115,
+                "cusp_degree": 2.7142401641411453,
+                "motion_speed": -0.08720624367774182,
+                "zodiac": 5,
+                "house": 6,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 266.80407954995354,
+                "cusp_degree": 26.804079549953542,
+                "motion_speed": 1.0186199088039432,
+                "zodiac": 9,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 95.7034934347785,
+                "cusp_degree": 5.703493434778494,
+                "motion_speed": 11.99954938521828,
+                "zodiac": 4,
+                "house": 5,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 226.5121147842653,
+                "cusp_degree": 16.512114784265293,
+                "motion_speed": 1.198622481744859,
+                "zodiac": 8,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 41.79210760380137,
+                "cusp_degree": 11.79210760380137,
+                "motion_speed": 0.013205059254509861,
+                "zodiac": 2,
+                "house": 3,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 261.33181156264845,
+                "cusp_degree": 21.331811562648454,
+                "motion_speed": -1.2527111463599032,
+                "zodiac": 9,
+                "house": 10,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 58.04969516082902,
+                "cusp_degree": 28.049695160829017,
+                "motion_speed": -0.06659641951427565,
+                "zodiac": 2,
+                "house": 3,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 103.66578363637313,
+                "cusp_degree": 13.665783636373135,
+                "motion_speed": -0.01007785427356158,
+                "zodiac": 4,
+                "house": 5,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 104.57100850727107,
+                "cusp_degree": 14.571008507271074,
+                "motion_speed": -0.05299205856217933,
+                "zodiac": 4,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 284.5710085072711,
+                "motion_speed": -0.05299205856217933,
+                "cusp_degree": 14.571008507271074,
+                "zodiac": 10,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 283.66578363637313,
+                "motion_speed": -0.01007785427356158,
+                "cusp_degree": 13.665783636373135,
+                "zodiac": 10,
+                "house": 11,
+                "motion": "R"
+            }
+        }
+    }
+}

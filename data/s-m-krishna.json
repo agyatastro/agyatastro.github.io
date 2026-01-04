@@ -1,0 +1,116 @@
+{
+    "request": {
+        "name": "S. M. Krishna",
+        "title": "Chief Minister, Minister, Politician",
+        "year": 1932,
+        "month": 5,
+        "day": 1,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 12.5223,
+        "longitude": 76.89746,
+        "location": "Mandya",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "dod": "10/12/2024",
+        "advanced": "death by prolonged illness",
+        "about": "Somanahalli Mallaiah Krishna (1 May 1932 – 10 December 2024) was an Indian politician who served as Minister of External Affairs of India from 2009 to October 2012. He was the 10th Chief Minister of Karnataka from 1999 to 2004 and the 19th Governor of Maharashtra from 2004 to 2008. S. M. Krishna served as the Speaker of the Karnataka Vidhana Soudha from December 1989 to January 1993. He was also a Lok Sabha and Rajya Sabha member from 1971 to 2014. He is widely credited with putting Bengaluru on the world map by building the foundation for it to become the IT Hub that it is today during his tenure as Chief Minister. In 2023, Krishna was awarded the Padma Vibhushan, the second highest civilian award of India"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 102.46712995290034,
+            "ascendant": 4
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 110.47753957040821,
+                "cusp_degree": 20.47753957040821,
+                "motion_speed": 0.06776955988265633,
+                "zodiac": 4,
+                "house": 1,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 17.74937718093225,
+                "cusp_degree": 17.74937718093225,
+                "motion_speed": 0.9703438891198335,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 329.0316527125924,
+                "cusp_degree": 29.031652712592404,
+                "motion_speed": 11.926710128759265,
+                "zodiac": 11,
+                "house": 8,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 62.79829181012113,
+                "cusp_degree": 2.7982918101211283,
+                "motion_speed": 0.8694570463688096,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 358.63271765468335,
+                "cusp_degree": 28.632717654683347,
+                "motion_speed": 0.7605167571209522,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 352.9057656072443,
+                "cusp_degree": 22.90576560724429,
+                "motion_speed": 0.553216469934312,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 281.69993939391736,
+                "cusp_degree": 11.699939393917361,
+                "motion_speed": 0.021929142730256212,
+                "zodiac": 10,
+                "house": 7,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 332.54407912102755,
+                "cusp_degree": 2.5440791210275506,
+                "motion_speed": 0.00686068533005416,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 330.95092925852913,
+                "cusp_degree": 0.9509292585291291,
+                "motion_speed": -0.05299213608950401,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 150.95092925852913,
+                "motion_speed": -0.05299213608950401,
+                "cusp_degree": 0.9509292585291291,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 152.5440791210276,
+                "motion_speed": 0.00686068533005416,
+                "cusp_degree": 2.5440791210276075,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "R"
+            }
+        }
+    }
+}

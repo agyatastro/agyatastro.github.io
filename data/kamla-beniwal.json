@@ -1,0 +1,116 @@
+{
+    "request": {
+        "name": "Kamala Beniwal",
+        "title": "Governer, Minister, Politician",
+        "year": 1927,
+        "month": 1,
+        "day": 12,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 28.00069,
+        "longitude": 75.78644,
+        "location": "Khetri",
+        "gender": "female",
+        "agyat_rating": "AX",
+        "dod": "15/05/2024",
+        "advanced": "prolonged career, death by illness",
+        "about": "<p>Kamla Beniwal (Hindi pronunciation: [kəmlaː beːn̪iːʋaːl]; 12 January 1927 – 15 May 2024) was an Indian independence activist and veteran politician who served as the deputy chief minister of Rajasthan. A leader of the Indian National Congress, she was the first female minister and held cabinet ministerial positions in the state government of Rajasthan for more than two decades between 1980 and 2003.</p><p>Beniwal was one of the most powerful women politician of Rajasthan as she served as minister for almost 50 years in the state government. She also served as the governor of three states – Tripura, Gujarat, and Mizoram, between 2009 and 2014, becoming the first woman governor of a northeastern state. She was elected to the Rajasthan Legislative Assembly for seven terms between 1954 and 2003. She was honoured with the Tamra Patra from former prime minister Indira Gandhi for her contributions to the freedom struggle</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 356.84821916274643,
+            "ascendant": 12
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 305.807470106202,
+                "cusp_degree": 5.807470106202004,
+                "motion_speed": 0.21523667224091295,
+                "zodiac": 11,
+                "house": 12,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 268.22942609028297,
+                "cusp_degree": 28.22942609028297,
+                "motion_speed": 1.0187224579103993,
+                "zodiac": 9,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 19.60485796123482,
+                "cusp_degree": 19.60485796123482,
+                "motion_speed": 13.73722180411074,
+                "zodiac": 1,
+                "house": 2,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 280.6552628551441,
+                "cusp_degree": 10.655262855144088,
+                "motion_speed": 1.2547595405146796,
+                "zodiac": 10,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 18.903797654061716,
+                "cusp_degree": 18.903797654061716,
+                "motion_speed": 0.35489695976922037,
+                "zodiac": 1,
+                "house": 2,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 258.1973981197398,
+                "cusp_degree": 18.197398119739773,
+                "motion_speed": 1.5606799514441951,
+                "zodiac": 9,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 221.54094908701472,
+                "cusp_degree": 11.540949087014724,
+                "motion_speed": 0.0936228793922163,
+                "zodiac": 8,
+                "house": 9,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 74.30535789412781,
+                "cusp_degree": 14.305357894127809,
+                "motion_speed": 0.016000716125813098,
+                "zodiac": 3,
+                "house": 4,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 73.54359421819716,
+                "cusp_degree": 13.543594218197157,
+                "motion_speed": -0.0529921411482185,
+                "zodiac": 3,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 253.54359421819714,
+                "motion_speed": -0.0529921411482185,
+                "cusp_degree": 13.543594218197143,
+                "zodiac": 9,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 254.3053578941278,
+                "motion_speed": 0.016000716125813098,
+                "cusp_degree": 14.305357894127809,
+                "zodiac": 9,
+                "house": 10,
+                "motion": "R"
+            }
+        }
+    }
+}

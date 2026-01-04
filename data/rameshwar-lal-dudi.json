@@ -1,0 +1,116 @@
+{
+    "request": {
+        "name": "Rameshwar Lal Dudi",
+        "title": "Politician",
+        "year": 1963,
+        "month": 7,
+        "day": 1,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 27.56155,
+        "longitude": 73.47141,
+        "location": "Nokha",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "dod": "04/10/2025",
+        "advanced": "death by brain heamorrhage",
+        "about": "<p>Rameshwar Lal Dudi (1 July 1963 – 4 October 2025) was an Indian politician and a peasant leader. A veteran leader of the Indian National Congress (INC), Dudi served as the Leader of the Opposition (LoP) in the Rajasthan Assembly from 2014 to 2018. He was elected to the Rajasthan Legislative Assembly in 2013. Previously, Dudi also served as Member of Parliament in the Lok Sabha from 1999 to 2004. In 2004 Indian general election, Dharmendra Deol won election from Bikaner against Dudi.</p><p>Born in Nokha of Bikaner district of Rajasthan. He did Bachelor of Commerce from the Maharshi Dayanand Saraswati University. He started his political career with National Student Union of India (NSUI). Dudi was known for his involvement in rural and agricultural issues and played a prominent role in local governance, including Panchayati Raj institutions and state politics. He also served as chairman of Rajasthan State Agro-Industries Development Board</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 156.27133346265038,
+            "ascendant": 6
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 353.71994692833397,
+                "cusp_degree": 23.719946928333968,
+                "motion_speed": 0.11735361240480562,
+                "zodiac": 12,
+                "house": 7,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 75.37838280832754,
+                "cusp_degree": 15.378382808327544,
+                "motion_speed": 0.9531795754698664,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 191.95920169786194,
+                "cusp_degree": 11.959201697861943,
+                "motion_speed": 11.875399979557711,
+                "zodiac": 7,
+                "house": 2,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 59.09267314436265,
+                "cusp_degree": 29.09267314436265,
+                "motion_speed": 1.219152032234197,
+                "zodiac": 2,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 141.55913894998568,
+                "cusp_degree": 21.55913894998568,
+                "motion_speed": 0.5610509809590647,
+                "zodiac": 5,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 61.037329040800465,
+                "cusp_degree": 1.037329040800465,
+                "motion_speed": 1.9107543699698306,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 299.15460138438743,
+                "cusp_degree": 29.154601384387433,
+                "motion_speed": -0.042805765414438306,
+                "zodiac": 10,
+                "house": 5,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 87.16280972088136,
+                "cusp_degree": 27.162809720881356,
+                "motion_speed": -0.020615550357388452,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 87.74228244863876,
+                "cusp_degree": 27.74228244863876,
+                "motion_speed": -0.052992039795793075,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 267.7422824486388,
+                "motion_speed": -0.052992039795793075,
+                "cusp_degree": 27.742282448638775,
+                "zodiac": 9,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 267.16280972088134,
+                "motion_speed": -0.020615550357388452,
+                "cusp_degree": 27.16280972088134,
+                "zodiac": 9,
+                "house": 4,
+                "motion": "R"
+            }
+        }
+    }
+}

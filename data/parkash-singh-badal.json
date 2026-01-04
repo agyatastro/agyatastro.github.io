@@ -1,0 +1,115 @@
+{
+    "request": {
+        "name": "Parkash Singh Badal",
+        "title": "Chief Minister, Minister, Politician",
+        "year": 1927,
+        "month": 12,
+        "day": 8,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 30.47426,
+        "longitude": 74.5166,
+        "location": "Muktsar",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "dod": "25/04/2023",
+        "about": "Parkash Singh Badal (8 December 1927 – 25 April 2023) was an Indian politician and Sikh rights advocate who served as the 8th Chief Minister of Punjab from 1970 to 1971, from 1977 to 1980, from 1997 to 2002, and from 2007 to 2017, the longest serving Chief Minister of Punjab till date. He was also Leader of the Opposition in the Punjab Legislative Assembly from 1972 to 1977, 1980 to 1983 and from 2002 to 2007 and the 11th Union Minister of Agriculture and Farmers' Welfare in the Morarji Desai ministry from 1977 to 1977. He was the patron of Shiromani Akali Dal (SAD), a Sikh-centered regional political party, and the president of the party from 1995 to 2008, when he was replaced by his son Sukhbir Singh Badal. As the patron of SAD he exercised a strong influence on the Shiromani Gurdwara Parbandhak Committee and Delhi Sikh Gurdwara Management Committee"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 305.9180415938697,
+            "ascendant": 11
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 331.3500139220236,
+                "cusp_degree": 1.3500139220236065,
+                "motion_speed": 0.06255478131530938,
+                "zodiac": 12,
+                "house": 2,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 232.32647040409333,
+                "cusp_degree": 22.326470404093328,
+                "motion_speed": 1.0153394659565629,
+                "zodiac": 8,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 46.017195675105974,
+                "cusp_degree": 16.017195675105974,
+                "motion_speed": 14.794846654635029,
+                "zodiac": 2,
+                "house": 4,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 186.4665864810993,
+                "cusp_degree": 6.466586481099313,
+                "motion_speed": 1.104510582245465,
+                "zodiac": 7,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 217.021876848495,
+                "cusp_degree": 7.021876848494998,
+                "motion_speed": 0.70571456264894,
+                "zodiac": 8,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 215.52285907665245,
+                "cusp_degree": 5.522859076652452,
+                "motion_speed": 1.4467175209634449,
+                "zodiac": 8,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 227.91048160307267,
+                "cusp_degree": 17.910481603072668,
+                "motion_speed": 0.118339035857939,
+                "zodiac": 8,
+                "house": 10,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 55.84611642580999,
+                "cusp_degree": 25.84611642580999,
+                "motion_speed": -0.002127980031871714,
+                "zodiac": 2,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 56.05620734547301,
+                "cusp_degree": 26.056207345473013,
+                "motion_speed": -0.05299200781591358,
+                "zodiac": 2,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 236.056207345473,
+                "motion_speed": -0.05299200781591358,
+                "cusp_degree": 26.056207345473013,
+                "zodiac": 8,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 235.84611642580998,
+                "motion_speed": -0.002127980031871714,
+                "cusp_degree": 25.84611642580998,
+                "zodiac": 8,
+                "house": 10,
+                "motion": "R"
+            }
+        }
+    }
+}

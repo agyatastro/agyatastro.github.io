@@ -1,0 +1,116 @@
+{
+    "request": {
+        "name": "Pankaj Udhas",
+        "title": "Ghazal Singer",
+        "year": 1951,
+        "month": 5,
+        "day": 17,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 22.34472,
+        "longitude": 73.84093,
+        "location": "Jetpur",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "dod": "26/02/2024",
+        "advanced": "death by prolonged illness",
+        "about": "Pankaj Udhas (17 May 1951 – 26 February 2024) was an Indian ghazal and playback singer known for his works in Hindi cinema, and Indian pop. He started his career with the release of a ghazal album titled Aahat in 1980 and subsequently recorded many hits like Mukarar in 1981, Tarrannum in 1982, Mehfil in 1983, Pankaj Udhas Live at Royal Albert Hall in 1984, Nayaab in 1985 and Aafreen in 1986. After his success as a ghazal singer, he was invited to appear and sing for a film by Mahesh Bhatt, Naam, in which his song \"Chitthi Aayee Hai\" (A Letter Has Arrived) became an instant hit. He did playback singing for many Hindi films after that. Albums and live concerts around the globe brought him fame as a singer. In 2006, Pankaj Udhas was awarded Padma Shri, India's fourth highest civilian award.[6] His brothers Nirmal Udhas and Manhar Udhas are also singers.[7] Udhas was posthumously awarded the Padma Bhushan, India's third-highest civilian award, by the Government of India in 2025."
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 116.22074610947004,
+            "ascendant": 4
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 342.2390277610709,
+                "cusp_degree": 12.239027761070872,
+                "motion_speed": 0.19516331896769662,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 32.3808121287036,
+                "cusp_degree": 2.380812128703603,
+                "motion_speed": 0.9632544834956807,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 158.7546229720859,
+                "cusp_degree": 8.754622972085912,
+                "motion_speed": 13.586706335216991,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 73.86158402411652,
+                "cusp_degree": 13.861584024116524,
+                "motion_speed": 1.127676136721491,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 33.70783315105996,
+                "cusp_degree": 3.7078331510599583,
+                "motion_speed": 0.7133554342631004,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 8.067520537900053,
+                "cusp_degree": 8.067520537900053,
+                "motion_speed": 0.6385664226037935,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 152.48053715240061,
+                "cusp_degree": 2.480537152400615,
+                "motion_speed": -0.020071937656615683,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 323.3324612205371,
+                "cusp_degree": 23.332461220537084,
+                "motion_speed": -0.030491770684887017,
+                "zodiac": 11,
+                "house": 8,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 322.39109580086756,
+                "cusp_degree": 22.39109580086756,
+                "motion_speed": -0.05299205150363707,
+                "zodiac": 11,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 142.39109580086756,
+                "motion_speed": -0.05299205150363707,
+                "cusp_degree": 22.39109580086756,
+                "zodiac": 5,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 143.33246122053708,
+                "motion_speed": -0.030491770684887017,
+                "cusp_degree": 23.332461220537084,
+                "zodiac": 5,
+                "house": 2,
+                "motion": "R"
+            }
+        }
+    }
+}

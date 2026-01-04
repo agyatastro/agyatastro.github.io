@@ -1,0 +1,115 @@
+{
+    "request": {
+        "name": "Nicolas Maduro",
+        "title": "Politician",
+        "year": 1962,
+        "month": 11,
+        "day": 23,
+        "hour": 21,
+        "minute": 3,
+        "second": 0,
+        "latitude": 10.48801,
+        "longitude": -66.87919,
+        "location": "Caracas",
+        "gender": "male",
+        "agyat_rating": "AU",
+        "advanced": "kidnapped, incarcerated, criminal antecedent, dictator",
+        "about": "<p>Nicolás Maduro Moros (born 23 November 1962) is a Venezuelan politician and former union leader who served as the president of Venezuela from 2013 until his de facto deposition in 2026. He served as the vice president under President Hugo Chávez from 2012 to 2013, and minister of foreign affairs from 2006 to 2012.</p><p>Starting as a bus driver, Maduro rose to become a trade union leader before being elected to the National Assembly in 2000. A member of the United Socialist Party (PSUV), he was appointed to a number of positions under Chávez, serving as President of the National Assembly, Minister of Foreign Affairs, and as vice president under Chávez. Maduro assumed the presidency after Chávez's death and won the 2013 special presidential election. He ruled Venezuela by decree after 2015 through powers granted to him by the ruling party legislature.</p><p>Shortages in Venezuela and decreased living standards led to a wave of protests in 2014 that escalated into daily marches nationwide, repression of dissent and a decline in Maduro's popularity. An opposition-led National Assembly was elected in 2015 and a movement toward recalling Maduro began in 2016, which was ultimately cancelled by Maduro's government; Maduro maintained power through the Supreme Tribunal, the National Electoral Council (CNE) and the military. The Supreme Tribunal stripped the elected National Assembly of power and authority, resulting in a constitutional crisis and another wave of protests in 2017. In response to the protests, Maduro called for a rewrite of the constitution, and the Constituent Assembly of Venezuela was elected in 2017 under voting conditions that many concluded were irregular.</p><p>In 2018, Maduro was reelected and sworn in with widespread condemnation. The president of the National Assembly, Juan Guaidó, was declared interim president by the opposition legislative body—starting a presidential crisis that spanned nearly four years and divided the international community. In 2024, Maduro ran for a third term in an election which the Maduro-aligned CNE claimed he won—without providing evidence—starting another political crisis.Vote tallies gathered by the opposition showed that their candidate, Edmundo González, had won the most votes. In November 2025, Maduro was designated as a member of a foreign terrorist organization by the United States.</p><p>Maduro was widely considered to be leading an authoritarian government characterized by electoral fraud, human rights abuses, corruption, and severe economic hardship. Between 2013 and 2023, Venezuela dropped 42 places in the Press Freedom Index. According to estimates by the United Nations (UN) and Human Rights Watch, under Maduro's administration thousands of people have died in extrajudicial killings and seven million Venezuelans were forced to flee the country.The UN Fact-Finding Mission on Venezuela concluded that the country's justice system independence had declined; the mission also identified frequent due process violations, including political external interference and the admission of evidence through torture was alleged.Most Venezuelan television channels are controlled by the state, and information unfavourable to the government is not covered completely. In 2018, a board designated by the Organization of American States (OAS) alleged that crimes against humanity have been committed in Venezuela during Maduro's presidency. In 2021, the Office of the Prosecutor of the International Criminal Court (ICC) announced the opening of an investigation regarding the situation in the country. Maduro denies all allegations of misconduct and argues the United States has conspired against Venezuela to manufacture a crisis as a means of enabling them to make the case for regime change.</p><p>On 3 January 2026, Maduro and his wife were captured by US forces. They were then transported to New York, where they remain incarcerated, with Maduro expected to be arraigned in a Manhattan court in the next week</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 88.07355802816926,
+            "ascendant": 3
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 310.5790798505435,
+                "cusp_degree": 10.579079850543508,
+                "motion_speed": 0.0837572347373395,
+                "zodiac": 11,
+                "house": 9,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 217.95170419844672,
+                "cusp_degree": 7.95170419844672,
+                "motion_speed": 1.0112952583454833,
+                "zodiac": 8,
+                "house": 6,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 182.1793696214945,
+                "cusp_degree": 2.1793696214944873,
+                "motion_speed": 11.949086507575247,
+                "zodiac": 7,
+                "house": 5,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 200.68524455660588,
+                "cusp_degree": 20.68524455660588,
+                "motion_speed": -0.37793704998611954,
+                "zodiac": 7,
+                "house": 5,
+                "motion": "R"
+            },
+            "Mars": {
+                "degree": 115.725076274704,
+                "cusp_degree": 25.725076274703994,
+                "motion_speed": 0.3245615724961941,
+                "zodiac": 4,
+                "house": 2,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 217.19520109210177,
+                "cusp_degree": 7.195201092101769,
+                "motion_speed": 1.5799424640194897,
+                "zodiac": 8,
+                "house": 6,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 283.10220400051816,
+                "cusp_degree": 13.102204000518157,
+                "motion_speed": 0.07105687112043985,
+                "zodiac": 10,
+                "house": 8,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 98.41085425448163,
+                "cusp_degree": 8.410854254481634,
+                "motion_speed": -0.17849786776874724,
+                "zodiac": 4,
+                "house": 2,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 99.35847064742462,
+                "cusp_degree": 9.358470647424625,
+                "motion_speed": -0.052992073472319184,
+                "zodiac": 4,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 279.3584706474246,
+                "motion_speed": -0.052992073472319184,
+                "cusp_degree": 9.35847064742461,
+                "zodiac": 10,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 278.41085425448165,
+                "motion_speed": -0.17849786776874724,
+                "cusp_degree": 8.410854254481649,
+                "zodiac": 10,
+                "house": 8,
+                "motion": "R"
+            }
+        }
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "request": {
+        "name": "Ramoji Rao",
+        "title": "Businessperson, Media Proprietor, Film Producer",
+        "year": 1936,
+        "month": 11,
+        "day": 16,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 16.18747,
+        "longitude": 81.13888,
+        "location": "Pedaparupudi",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "dod": "08/06/2024",
+        "advanced": "death by heart disease",
+        "about": "</p><p>Cherukuri Ramoji Rao (16 November 1936 – 8 June 2024) was an Indian businessman, media proprietor and film producer. He was head of the Ramoji Group which owns the world's largest film production facility Ramoji Film City, Eenadu newspaper, ETV Network of TV channels, film production company Usha Kiran Movies.</p><p>His other business ventures included Margadarsi Chit Fund, Dolphin Group of Hotels, Kalanjali Shopping Mall, Priya Pickles, ETV Win OTT platform and Mayuri Film Distributors.</p><p>Rao garnered four Filmfare Awards South, five Nandi Awards and the National Film Award for his works in Telugu cinema. In 2016, he was honoured with the Padma Vibhushan, India's second-highest civilian honour, for his contributions in journalism, literature and education.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 293.6238708608832,
+            "ascendant": 10
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 243.5350401435432,
+                "cusp_degree": 3.535040143543199,
+                "motion_speed": 0.2097687006407007,
+                "zodiac": 9,
+                "house": 12,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 210.75493411991027,
+                "cusp_degree": 0.7549341199102741,
+                "motion_speed": 1.0085784987986182,
+                "zodiac": 8,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 233.46794358072106,
+                "cusp_degree": 23.467943580721055,
+                "motion_speed": 12.04875018024851,
+                "zodiac": 8,
+                "house": 11,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 246.4073865367266,
+                "cusp_degree": 6.407386536726591,
+                "motion_speed": 1.2167347509888948,
+                "zodiac": 9,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 158.00717559062207,
+                "cusp_degree": 8.007175590622069,
+                "motion_speed": 0.5969820148505124,
+                "zodiac": 6,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 209.48141991699498,
+                "cusp_degree": 29.48141991699498,
+                "motion_speed": 1.5946951506590734,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 322.8102964179146,
+                "cusp_degree": 22.81029641791463,
+                "motion_speed": -0.005443189427352688,
+                "zodiac": 11,
+                "house": 2,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 241.45034651256464,
+                "cusp_degree": 1.4503465125646358,
+                "motion_speed": -0.01644472751505425,
+                "zodiac": 9,
+                "house": 12,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 242.98408653852843,
+                "cusp_degree": 2.9840865385284303,
+                "motion_speed": -0.05299206545269321,
+                "zodiac": 9,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 62.98408653852846,
+                "motion_speed": -0.05299206545269321,
+                "cusp_degree": 2.9840865385284587,
+                "zodiac": 3,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 61.450346512564636,
+                "motion_speed": -0.01644472751505425,
+                "cusp_degree": 1.4503465125646358,
+                "zodiac": 3,
+                "house": 6,
+                "motion": "R"
+            }
+        }
+    }
+}

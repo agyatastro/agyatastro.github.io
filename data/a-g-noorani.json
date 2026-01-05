@@ -1,0 +1,116 @@
+{
+    "request": {
+        "name": "A. G. Noorani",
+        "title": "Lawyer, Political Commentator",
+        "year": 1930,
+        "month": 9,
+        "day": 16,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 19.07283,
+        "longitude": 72.88261,
+        "location": "Mumbai",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "dod": "29/08/2024",
+        "advanced": "long career, famous",
+        "about": "Abdul Ghafoor Majeed Noorani (16 September 1930 – 29 August 2024), better known as A. G. Noorani, was an Indian scholar, lawyer and political commentator. He practised as an advocate in the Supreme Court of India and in the Bombay High Court"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 225.77477172511513,
+            "ascendant": 8
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 83.42377956311206,
+                "cusp_degree": 23.423779563112063,
+                "motion_speed": 0.14702917030420046,
+                "zodiac": 3,
+                "house": 8,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 149.77689141911478,
+                "cusp_degree": 29.776891419114776,
+                "motion_speed": 0.9753316680015757,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 64.7002449632763,
+                "cusp_degree": 4.700244963276305,
+                "motion_speed": 13.759502114646944,
+                "zodiac": 3,
+                "house": 8,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 196.0306654942289,
+                "cusp_degree": 16.030665494228913,
+                "motion_speed": 0.9497259018249783,
+                "zodiac": 7,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 78.58348835289902,
+                "cusp_degree": 18.583488352899025,
+                "motion_speed": 0.5895977293854258,
+                "zodiac": 3,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 160.78787453431434,
+                "cusp_degree": 10.78787453431434,
+                "motion_speed": -0.8154769036704751,
+                "zodiac": 6,
+                "house": 11,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 252.4024122524855,
+                "cusp_degree": 12.402412252485504,
+                "motion_speed": 0.010248003241266627,
+                "zodiac": 9,
+                "house": 2,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 1.1890070362999832,
+                "cusp_degree": 1.1890070362999832,
+                "motion_speed": -0.008273531776587274,
+                "zodiac": 1,
+                "house": 6,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 2.3752309295156664,
+                "cusp_degree": 2.3752309295156664,
+                "motion_speed": -0.05299213764439181,
+                "zodiac": 1,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 182.37523092951568,
+                "motion_speed": -0.05299213764439181,
+                "cusp_degree": 2.3752309295156806,
+                "zodiac": 7,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 181.18900703629998,
+                "motion_speed": -0.008273531776587274,
+                "cusp_degree": 1.1890070362999836,
+                "zodiac": 7,
+                "house": 12,
+                "motion": "R"
+            }
+        }
+    }
+}

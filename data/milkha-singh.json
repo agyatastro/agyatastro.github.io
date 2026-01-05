@@ -1,0 +1,116 @@
+{
+    "request": {
+        "name": "Milkha Singh",
+        "title": "Sportsperson, Sprinting Athelete, Army Personnel",
+        "year": 1929,
+        "month": 11,
+        "day": 20,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 30.46907,
+        "longitude": 70.96699,
+        "location": "Basti Bukhari (Previously Govindpura), Pakistan",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "dod": "18/06/2021",
+        "advanced": "death by respiratory disease",
+        "about": "</p><p>Milkha Singh (20 November 1929 – 18 June 2021), also known as \"The Flying Sikh\", was an Indian track and field sprinter who was introduced to the sport while serving in the Indian Army. He is the athlete to win gold at 400 metres at the Asian Games as well as the Commonwealth Games. He has won gold medals in the 1958 and 1962 Asian Games. He represented India in the 1956 Summer Olympics in Melbourne, the 1960 Summer Olympics in Rome and the 1964 Summer Olympics in Tokyo. Singh was awarded the Padma Shri in 1959, India's fourth-highest civilian honour, in recognition of his sporting achievements.</p><p>The race for which Singh was best remembered is his fourth-place finish in the 400 metres final at the 1960 Olympic Games, which he had entered as one of the favourites. He led the race till the 200 m mark before easing off, allowing others to pass him. Various records were broken in the race, which required a photo-finish and saw American Otis Davis being declared the winner by one-hundredth of a second over German Carl Kaufmann. Singh's fourth-place time of 45.73 seconds was the Indian national record for almost 40 years.</p><p>From beginnings that saw him orphaned and displaced during the Partition of India, Singh has become a sporting icon in his country. In 2008, journalist Rohit Brijnath described Singh as \"the finest athlete India has ever produced\".</p><p>Singh died from complications of COVID-19 on 18 June 2021, at the age of 91, five days after his wife, Nirmal Saini.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 280.0563979830922,
+            "ascendant": 10
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 50.27498516046146,
+                "cusp_degree": 20.274985160461462,
+                "motion_speed": -0.1270189679258431,
+                "zodiac": 2,
+                "house": 5,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 214.58780609685044,
+                "cusp_degree": 4.587806096850443,
+                "motion_speed": 1.0094949917739553,
+                "zodiac": 8,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 79.18271889509745,
+                "cusp_degree": 19.18271889509745,
+                "motion_speed": 14.711218689902225,
+                "zodiac": 3,
+                "house": 6,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 195.7714322247155,
+                "cusp_degree": 15.771432224715511,
+                "motion_speed": 1.2518325250082187,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 218.351062890616,
+                "cusp_degree": 8.351062890615992,
+                "motion_speed": 0.7176628916565335,
+                "zodiac": 8,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 210.40874737635355,
+                "cusp_degree": 0.40874737635354563,
+                "motion_speed": 1.5932418471492364,
+                "zodiac": 8,
+                "house": 11,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 246.04019975423236,
+                "cusp_degree": 6.040199754232361,
+                "motion_speed": 0.10645338491477262,
+                "zodiac": 9,
+                "house": 12,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 19.255629065122083,
+                "cusp_degree": 19.255629065122083,
+                "motion_speed": -0.033453837287927925,
+                "zodiac": 1,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 18.272854424171527,
+                "cusp_degree": 18.272854424171527,
+                "motion_speed": -0.052992005958094356,
+                "zodiac": 1,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 198.27285442417153,
+                "motion_speed": -0.052992005958094356,
+                "cusp_degree": 18.272854424171527,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 199.2556290651221,
+                "motion_speed": -0.033453837287927925,
+                "cusp_degree": 19.255629065122093,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "R"
+            }
+        }
+    }
+}

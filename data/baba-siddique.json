@@ -1,0 +1,116 @@
+{
+    "request": {
+        "name": "Baba Siddique",
+        "title": "Politician",
+        "year": 1958,
+        "month": 9,
+        "day": 13,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 25.59408,
+        "longitude": 85.13563,
+        "location": "Patna",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "dod": "12/10/2024",
+        "advanced": "death by violence, death by shooting",
+        "about": "<p>Baba Ziauddin Siddique (13 September 1958 – 12 October 2024) was an Indian politician who was a Member of Legislative Assembly (MLA) in the state of Maharashtra for the Vandre West Assembly constituency. He was the MLA for three consecutive terms in 1999, 2004 and 2009, and had also served as Minister of State for Food & Civil Supplies (FDA) and Labour under Chief Minister Vilasrao Deshmukh between 2004 and 2008.</p><p>Siddique had also served as Municipal Corporator earlier for two consecutive terms between 1992 and 1997. Before his death, he served as the Chairperson & Senior Vice-President of the Mumbai Regional Congress Committee & Parliamentary Board of the Maharashtra Pradesh Congress Committee. On 8 February 2024, he resigned from the primary membership of the Indian National Congress. He later joined the Nationalist Congress Party led by Ajit Pawar on 12 February 2024.</p><p>Siddique was shot dead on the night of 12 October 2024 in front of his son Zeeshan's office</p><p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 230.98371850298355,
+            "ascendant": 8
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 187.80763140470089,
+                "cusp_degree": 7.807631404700885,
+                "motion_speed": 0.18826123030201086,
+                "zodiac": 7,
+                "house": 12,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 146.68319833219869,
+                "cusp_degree": 26.683198332198685,
+                "motion_speed": 0.973969349857933,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 143.4681502363014,
+                "cusp_degree": 23.468150236301398,
+                "motion_speed": 14.918391647074403,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 131.34828052804184,
+                "cusp_degree": 11.34828052804184,
+                "motion_speed": 1.2369887833457218,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 34.38368849571737,
+                "cusp_degree": 4.383688495717372,
+                "motion_speed": 0.33353199100764896,
+                "zodiac": 2,
+                "house": 7,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 129.56903435658674,
+                "cusp_degree": 9.56903435658674,
+                "motion_speed": 1.3882316325586905,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 236.14337149177953,
+                "cusp_degree": 26.143371491779533,
+                "motion_speed": 0.03243312537934817,
+                "zodiac": 8,
+                "house": 1,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 179.29265709359734,
+                "cusp_degree": 29.29265709359734,
+                "motion_speed": -0.06067532812258431,
+                "zodiac": 6,
+                "house": 11,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 180.5843543106255,
+                "cusp_degree": 0.584354310625514,
+                "motion_speed": -0.052992011316437264,
+                "zodiac": 7,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 0.5843543106254856,
+                "motion_speed": -0.052992011316437264,
+                "cusp_degree": 0.5843543106254856,
+                "zodiac": 1,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 359.2926570935973,
+                "motion_speed": -0.06067532812258431,
+                "cusp_degree": 29.292657093597313,
+                "zodiac": 12,
+                "house": 5,
+                "motion": "R"
+            }
+        }
+    }
+}

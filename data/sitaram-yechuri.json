@@ -1,0 +1,115 @@
+{
+    "request": {
+        "name": "Sitaram Yechuri",
+        "title": "Politician",
+        "year": 1952,
+        "month": 8,
+        "day": 12,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 13.08784,
+        "longitude": 80.27847,
+        "location": "Chennai",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "advanced": "death by respiratory disease, detention, legal-trouble",
+        "about": "<p>Sitaram Yechury (12 August 1952 – 12 September 2024) was an Indian Marxist politician and the General Secretary of the Communist Party of India (Marxist), who was a member of the Politburo of the CPI(M) from 1992 until his death in September 2024. Previously, he was a Member of Parliament, Rajya Sabha, West Bengal, from 2005 to 2017.</p><p>He was married to Seema Chishti, founding editor of news publication The Wire.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 203.6562855760555,
+            "ascendant": 7
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 26.480307969885484,
+                "cusp_degree": 26.480307969885484,
+                "motion_speed": 0.08937361680734864,
+                "zodiac": 1,
+                "house": 7,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 116.27646741458545,
+                "cusp_degree": 26.276467414585454,
+                "motion_speed": 0.9598725063160662,
+                "zodiac": 4,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 22.783089005705257,
+                "cusp_degree": 22.783089005705257,
+                "motion_speed": 13.095972843207651,
+                "zodiac": 1,
+                "house": 7,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 129.60212391630367,
+                "cusp_degree": 9.602123916303668,
+                "motion_speed": 1.2322130969321714,
+                "zodiac": 5,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 207.99400353255177,
+                "cusp_degree": 27.994003532551773,
+                "motion_speed": 0.5351191012906775,
+                "zodiac": 7,
+                "house": 1,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 117.11679327568268,
+                "cusp_degree": 27.11679327568268,
+                "motion_speed": -0.8208496745854306,
+                "zodiac": 4,
+                "house": 10,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 168.05291633069965,
+                "cusp_degree": 18.052916330699645,
+                "motion_speed": 0.09038915153642083,
+                "zodiac": 6,
+                "house": 12,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 298.3488838590175,
+                "cusp_degree": 28.34888385901752,
+                "motion_speed": 0.0004356464924361814,
+                "zodiac": 10,
+                "house": 4,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 298.38569316989697,
+                "cusp_degree": 28.385693169896967,
+                "motion_speed": -0.05299208341701627,
+                "zodiac": 10,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 118.38569316989697,
+                "motion_speed": -0.05299208341701627,
+                "cusp_degree": 28.385693169896967,
+                "zodiac": 4,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 118.34888385901752,
+                "motion_speed": 0.0004356464924361814,
+                "cusp_degree": 28.34888385901752,
+                "zodiac": 4,
+                "house": 10,
+                "motion": "R"
+            }
+        }
+    }
+}

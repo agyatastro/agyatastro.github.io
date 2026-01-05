@@ -1,0 +1,115 @@
+{
+    "request": {
+        "name": "Sharad Yadav",
+        "title": "Politician",
+        "year": 1947,
+        "month": 7,
+        "day": 1,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 22.74747,
+        "longitude": 77.72736,
+        "location": "Narmadapuram",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "dod": "12/01/2023",
+        "about": "Sharad Yadav (1 July 1947 – 12 January 2023) was an Indian politician from the Rashtriya Janata Dal(RJD) party. He was elected to the Lok Sabha seven times and to the Rajya Sabha four times for Janata Dal (United). He was the first national president of JD(U), serving from its formation in 2003 until 2016. He was disqualified from the Rajya Sabha in 2017 and removed from party leadership positions for engaging in anti-party activities"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 160.29144484235638,
+            "ascendant": 6
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 204.89757414218218,
+                "cusp_degree": 24.89757414218218,
+                "motion_speed": -0.043937245653474996,
+                "zodiac": 7,
+                "house": 2,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 75.4702907167414,
+                "cusp_degree": 15.470290716741403,
+                "motion_speed": 0.9530081290928505,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 231.75115407613538,
+                "cusp_degree": 21.75115407613538,
+                "motion_speed": 11.934864040035707,
+                "zodiac": 8,
+                "house": 3,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 57.9914097401146,
+                "cusp_degree": 27.991409740114598,
+                "motion_speed": 1.2177489399642816,
+                "zodiac": 2,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 36.967256775634304,
+                "cusp_degree": 6.967256775634304,
+                "motion_speed": 0.7107018223059276,
+                "zodiac": 2,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 94.00637625559169,
+                "cusp_degree": 4.0063762555916895,
+                "motion_speed": 0.008647321826466088,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 104.88654935133164,
+                "cusp_degree": 14.886549351331638,
+                "motion_speed": 0.11759660379810105,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 39.127428788924696,
+                "cusp_degree": 9.127428788924696,
+                "motion_speed": -0.027440199490265355,
+                "zodiac": 2,
+                "house": 9,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 37.42785428208543,
+                "cusp_degree": 7.427854282085427,
+                "motion_speed": -0.052992088304149705,
+                "zodiac": 2,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 217.42785428208543,
+                "motion_speed": -0.052992088304149705,
+                "cusp_degree": 7.427854282085434,
+                "zodiac": 8,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 219.1274287889247,
+                "motion_speed": -0.027440199490265355,
+                "cusp_degree": 9.127428788924703,
+                "zodiac": 8,
+                "house": 3,
+                "motion": "R"
+            }
+        }
+    }
+}

@@ -1,0 +1,117 @@
+{
+    "request": {
+        "name": "Sri Pranab Mukharjee",
+        "title": "President, Politician",
+        "year": 1935,
+        "month": 2,
+        "day": 1,
+        "hour": 17,
+        "minute": 52,
+        "second": 0,
+        "latitude": 22.56263,
+        "longitude": 88.36304,
+        "location": "Kolkata",
+        "gender": "male",
+        "agyat_rating": "AA",
+        "dod": "31/08/2020",
+        "advanced": "long career",
+        "about": "<p>Pranab Kumar Mukherjee (Bengali: Praṇaba Kumāra Mukhārjī, pronounced [pɾɔnob kumaɾ mukʰaɾʤi] ; 11 December 1935 – 31 August 2020) was an Indian politician who served as the president of India from 2012 until 2017. He was the first person from West Bengal to hold the post of President of India. In a political career spanning five decades, Mukherjee was a senior leader in the Indian National Congress and occupied several ministerial portfolios in the Government of India. Prior to his election as President, Mukherjee was Finance Minister from 2009 to 2012 also in 1982 to 1984. He was awarded India's highest civilian honour, the Bharat Ratna, in 2019, by his successor as president, Ram Nath Kovind.</p><p>Mukherjee got his break in politics in 1969, when Prime Minister Indira Gandhi helped him get elected to the Rajya Sabha, the upper house of the Parliament of India. He became one of Gandhi's most trusted lieutenants and a minister in her cabinet in 1973. Mukherjee's service in a number of ministerial capacities culminated in his first stint as Finance Minister of India from 1982 to 1984. He was also the Leader of the House in the Rajya Sabha from 1980 to 1985.</p><p>After being dropped from the cabinet by Prime Minister Rajiv Gandhi in 1986, Mukherjee formed his own party, the Rashtriya Samajwadi Congress, which merged with the Congress in 1989 after his reconciliation with the party's top leadership. Prime Minister P. V. Narasimha Rao appointed him as the head of the Planning Commission in 1991 and as the foreign minister in 1995. Mukherjee supported Sonia Gandhi's candidacy and election as the President of the Indian National Congress in 1998.</p><p>When the Congress-led United Progressive Alliance (UPA) came to power in 2004, Mukherjee was elected to the Lok Sabha, the popularly elected lower house of Parliament, for the first time. From then until his resignation in 2012, he held a number of key cabinet portfolios in Prime Minister Manmohan Singh's government – Defence (2004–06), External Affairs (2006–09), and Finance (2009–12) – apart from heading several Groups of Ministers (GoMs) and being Leader of the House in the Lok Sabha. After securing the UPA's nomination for the country's presidency in July 2012, Mukherjee comfortably defeated P. A. Sangma of NDA in the 2012 Indian presidential election, winning 70 per cent of the electoral-college vote.</p><p>In 2017, Mukherjee decided not to run for re-election and to retire from politics after leaving the presidency due to \"health complications relating to old age.\" His term expired on 25 July 2017. He was succeeded as president by Ram Nath Kovind. In June 2018, Mukherjee became the first former President of India to address a Rashtriya Swayamsevak Sangh (RSS) event.</p>",
+        "source": "http://www.journalofastrology.com/article.php?article_id=423"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 115.74989782475208,
+            "ascendant": 4
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 208.32445569801988,
+                "cusp_degree": 28.324455698019875,
+                "motion_speed": 0.10610154106158393,
+                "zodiac": 7,
+                "house": 4,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 288.7708495597784,
+                "cusp_degree": 18.770849559778412,
+                "motion_speed": 1.0151665122981073,
+                "zodiac": 10,
+                "house": 7,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 258.3410554402526,
+                "cusp_degree": 18.341055440252603,
+                "motion_speed": 14.735618061376405,
+                "zodiac": 9,
+                "house": 6,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 306.5645878157902,
+                "cusp_degree": 6.564587815790219,
+                "motion_speed": 1.2493723173699618,
+                "zodiac": 11,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 178.0252777393478,
+                "cusp_degree": 28.025277739347814,
+                "motion_speed": 0.2599751007961105,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 307.09355127462464,
+                "cusp_degree": 7.0935512746246445,
+                "motion_speed": 1.0471153796165638,
+                "zodiac": 11,
+                "house": 8,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 305.4780390501532,
+                "cusp_degree": 5.4780390501532,
+                "motion_speed": 0.11800562811071975,
+                "zodiac": 11,
+                "house": 8,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 278.17372708169603,
+                "cusp_degree": 8.173727081696029,
+                "motion_speed": 0.011147497792312612,
+                "zodiac": 10,
+                "house": 7,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 277.6279484124253,
+                "cusp_degree": 7.627948412425326,
+                "motion_speed": -0.05299213339624651,
+                "zodiac": 10,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 97.62794841242533,
+                "motion_speed": -0.05299213339624651,
+                "cusp_degree": 7.627948412425326,
+                "zodiac": 4,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 98.17372708169603,
+                "motion_speed": 0.011147497792312612,
+                "cusp_degree": 8.173727081696029,
+                "zodiac": 4,
+                "house": 1,
+                "motion": "R"
+            }
+        }
+    }
+}

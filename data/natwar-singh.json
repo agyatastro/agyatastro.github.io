@@ -1,0 +1,116 @@
+{
+    "request": {
+        "name": "K. Natwar Singh",
+        "title": "Diplomat, Politician",
+        "year": 1931,
+        "month": 5,
+        "day": 16,
+        "hour": 16,
+        "minute": 0,
+        "second": 0,
+        "latitude": 27.21731,
+        "longitude": 77.49009,
+        "location": "Bharatpur",
+        "gender": "male",
+        "agyat_rating": "AA",
+        "advanced": "long career",
+        "dod": "10/08/2024",
+        "about": "<p>K. Natwar Singh (16 May 1931 – 10 August 2024) was an Indian politician, former diplomat, and an author. He served as Minister of External Affairs of India from 2004 to 2005. A veteran leader of the Indian National Congress, Singh was honoured with the Padma Bhushan, India’s third-highest civilian honour, in 1984.</p><p>He held several significant diplomatic postings, including as Ambassador to Pakistan from 1980 to 1982, a period of strained bilateral relations. Entering politics in 1984 as a Congress leader, he was elected to Parliament and subsequently served as Union Minister of State for Steel and later as Minister of State for External Affairs until 1989.</p><p>In 2014, Singh published his autobiography One Life is Not Enough, which drew wide attention for its account of his diplomatic and political career.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 173.25636510695438,
+            "ascendant": 6
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 84.43181302939064,
+                "cusp_degree": 24.43181302939064,
+                "motion_speed": 0.17383076574620115,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 31.695891314701573,
+                "cusp_degree": 1.6958913147015728,
+                "motion_speed": 0.9640798616352393,
+                "zodiac": 2,
+                "house": 9,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 17.685953544518345,
+                "cusp_degree": 17.685953544518345,
+                "motion_speed": 12.427128737685887,
+                "zodiac": 1,
+                "house": 8,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 1.4827622893598795,
+                "cusp_degree": 1.4827622893598795,
+                "motion_speed": 1.2021660355117993,
+                "zodiac": 1,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 114.44074293698088,
+                "cusp_degree": 24.440742936980882,
+                "motion_speed": 0.46912201719506214,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 10.991190133909905,
+                "cusp_degree": 10.991190133909905,
+                "motion_speed": 0.2169318534241692,
+                "zodiac": 1,
+                "house": 8,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 270.2477783813186,
+                "cusp_degree": 0.24777838131859653,
+                "motion_speed": -0.02068555326906274,
+                "zodiac": 10,
+                "house": 5,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 351.00199764398633,
+                "cusp_degree": 21.00199764398633,
+                "motion_speed": -0.06476572454269393,
+                "zodiac": 12,
+                "house": 7,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 349.54231615637053,
+                "cusp_degree": 19.542316156370532,
+                "motion_speed": -0.05299200452389874,
+                "zodiac": 12,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 169.5423161563706,
+                "motion_speed": -0.05299200452389874,
+                "cusp_degree": 19.54231615637059,
+                "zodiac": 6,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 171.00199764398633,
+                "motion_speed": -0.06476572454269393,
+                "cusp_degree": 21.00199764398633,
+                "zodiac": 6,
+                "house": 1,
+                "motion": "R"
+            }
+        }
+    }
+}

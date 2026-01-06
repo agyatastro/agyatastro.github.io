@@ -1,0 +1,114 @@
+{
+    "request": {
+        "name": "Gulzar",
+        "title": "Poet, Author, Writer, Director/Producer",
+        "year": 1936,
+        "month": 8,
+        "day": 18,
+        "hour": 13,
+        "minute": 30,
+        "second": 0,
+        "latitude": 32.93448,
+        "longitude": 73.73102,
+        "location": "Dina, Pakistan",
+        "gender": "male",
+        "agyat_rating": "AU",
+        "about": "<p>Gulzar (born Sampooran Singh Kalra; 18 August 1934) is an Indian Urdu poet, lyricist, author, screenwriter, and film director known for his works in Hindi cinema. He is regarded as one of greatest Urdu poets of this era. He started his career with music director S.D. Burman as a lyricist in the 1963 film Bandini and worked with many music directors including R. D. Burman, Salil Chowdhury, Vishal Bhardwaj and A. R. Rahman. Gulzar also writes poetry, dialogues and scripts. He directed films such as Aandhi and Mausam during the 1970s and the TV series Mirza Ghalib in the 1980s. He also directed Kirdaar in 1993.</p><p>He has won 5 Indian National Film Awards; including 2 Best Lyrics, one Best Screenplay, one Second Best Feature Film (director), and one Best Popular Film (director); 22 Filmfare Awards; one Academy Award; and one Grammy Award. He was awarded the Sahitya Akademi Award - Hindi in 2002, the Padma Bhushan in 2004, the third-highest civilian award in India, and the Dadasaheb Phalke Award in 2013, the highest award in Indian cinema. In April 2013, Gulzar was appointed as the Chancellor of the Assam University. In 2024, Gulzar was awarded the Jnanpith, India's highest literary award</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 215.9123160286133,
+            "ascendant": 8
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 231.68141064173088,
+                "cusp_degree": 21.681410641730878,
+                "motion_speed": 0.02073789789059171,
+                "zodiac": 8,
+                "house": 1,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 122.19939421600755,
+                "cusp_degree": 2.1993942160075477,
+                "motion_speed": 0.9624644807802097,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 135.98655342564794,
+                "cusp_degree": 15.98655342564794,
+                "motion_speed": 12.389892867520587,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 135.95567869381532,
+                "cusp_degree": 15.955678693815315,
+                "motion_speed": 1.233474312400491,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 102.1357376700581,
+                "cusp_degree": 12.135737670058106,
+                "motion_speed": 0.6428178012148743,
+                "zodiac": 4,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 144.00206586109206,
+                "cusp_degree": 24.002065861092063,
+                "motion_speed": 1.506697036639605,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 327.9480421986786,
+                "cusp_degree": 27.948042198678593,
+                "motion_speed": -0.06498602446418332,
+                "zodiac": 11,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 249.22941708246316,
+                "cusp_degree": 9.229417082463158,
+                "motion_speed": -0.16243949946458383,
+                "zodiac": 9,
+                "house": 2,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 247.750061011546,
+                "cusp_degree": 7.750061011545995,
+                "motion_speed": -0.05299213192537289,
+                "zodiac": 9,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 67.750061011546,
+                "motion_speed": -0.05299213192537289,
+                "cusp_degree": 7.750061011545995,
+                "zodiac": 3,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 69.22941708246316,
+                "motion_speed": -0.16243949946458383,
+                "cusp_degree": 9.229417082463158,
+                "zodiac": 3,
+                "house": 8,
+                "motion": "R"
+            }
+        }
+    }
+}

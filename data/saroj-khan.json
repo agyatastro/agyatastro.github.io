@@ -1,0 +1,116 @@
+{
+    "request": {
+        "name": "Saroj Khan",
+        "title": "Dancer Choreographer",
+        "year": 1948,
+        "month": 11,
+        "day": 22,
+        "hour": 4,
+        "minute": 0,
+        "second": 0,
+        "latitude": 19.07283,
+        "longitude": 72.88261,
+        "location": "Mumbai",
+        "gender": "male",
+        "agyat_rating": "AA",
+        "dod": "03/07/2020",
+        "advanced": "death by cardiac arrest, breathing difficulties",
+        "about": "Saroj Khan (born Nirmala Nagpal; 22 November 1948 – 3 July 2020) was an Indian dance choreographer in Hindi cinema. She was best known for the dance form mujra and the first woman choreographer in Bollywood. With a career spanning over forty years, she choreographed over 3000 songs and received several accolades, including four National Film Awards and record eight Filmfare Awards for Best Choreography."
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 176.87801949389316,
+            "ascendant": 6
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 248.21618038504812,
+                "cusp_degree": 8.21618038504812,
+                "motion_speed": 0.21206528233263,
+                "zodiac": 9,
+                "house": 4,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 216.39764307171168,
+                "cusp_degree": 6.397643071711684,
+                "motion_speed": 1.0104003106178108,
+                "zodiac": 8,
+                "house": 3,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 100.91000476878708,
+                "cusp_degree": 10.910004768787076,
+                "motion_speed": 13.962695362213163,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 181.8373679704139,
+                "cusp_degree": 1.8373679704139079,
+                "motion_speed": 1.2226302294953806,
+                "zodiac": 7,
+                "house": 2,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 243.09780344298997,
+                "cusp_degree": 3.097803442989971,
+                "motion_speed": 0.7532920072767352,
+                "zodiac": 9,
+                "house": 4,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 204.74887097494567,
+                "cusp_degree": 24.748870974945675,
+                "motion_speed": 1.571026902364595,
+                "zodiac": 7,
+                "house": 2,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 132.4883978970069,
+                "cusp_degree": 12.488397897006905,
+                "motion_speed": 0.045321348850286734,
+                "zodiac": 5,
+                "house": 12,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 11.549917419781117,
+                "cusp_degree": 11.549917419781117,
+                "motion_speed": -0.039270370856495825,
+                "zodiac": 1,
+                "house": 8,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 10.419566584730674,
+                "cusp_degree": 10.419566584730674,
+                "motion_speed": -0.05299205388330499,
+                "zodiac": 1,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 190.41956658473066,
+                "motion_speed": -0.05299205388330499,
+                "cusp_degree": 10.41956658473066,
+                "zodiac": 7,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 191.5499174197811,
+                "motion_speed": -0.039270370856495825,
+                "cusp_degree": 11.54991741978111,
+                "zodiac": 7,
+                "house": 2,
+                "motion": "R"
+            }
+        }
+    }
+}

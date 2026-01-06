@@ -1,0 +1,115 @@
+{
+    "request": {
+        "name": "Kumar Vishwas",
+        "title": "Poet, Politician, Lecturer",
+        "year": 1970,
+        "month": 2,
+        "day": 10,
+        "hour": 5,
+        "minute": 35,
+        "second": 0,
+        "latitude": 28.71271,
+        "longitude": 77.656,
+        "location": "Pilkhua",
+        "gender": "male",
+        "agyat_rating": "AU",
+        "advanced": "rags-to-riches, govt job, kavi",
+        "about": "Kumar Vishwas (born Vishwas Kumar Sharma; 10 February 1970) is an Indian Hindi poet, a lecturer and former politician. He was one of the founding members of the Aam Aadmi Party (AAP) and a former member of its National Executive"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 270.9177495552362,
+            "ascendant": 10
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 192.37490683727546,
+                "cusp_degree": 12.37490683727546,
+                "motion_speed": 0.03091113827674076,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 297.39966686620807,
+                "cusp_degree": 27.399666866208065,
+                "motion_speed": 1.0122295994730324,
+                "zodiac": 10,
+                "house": 1,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 348.3047410396415,
+                "cusp_degree": 18.3047410396415,
+                "motion_speed": 14.042762139091888,
+                "zodiac": 12,
+                "house": 3,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 301.2857938013372,
+                "cusp_degree": 1.2857938013372063,
+                "motion_speed": 1.2538627864315588,
+                "zodiac": 11,
+                "house": 2,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 348.4104725667583,
+                "cusp_degree": 18.4104725667583,
+                "motion_speed": 0.731879481514798,
+                "zodiac": 12,
+                "house": 3,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 272.22572886528326,
+                "cusp_degree": 2.2257288652832585,
+                "motion_speed": 1.169780463384702,
+                "zodiac": 10,
+                "house": 1,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 9.867207780100019,
+                "cusp_degree": 9.867207780100019,
+                "motion_speed": 0.06535765582726998,
+                "zodiac": 1,
+                "house": 4,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 318.4923819707805,
+                "cusp_degree": 18.492381970780514,
+                "motion_speed": 0.02440103227021348,
+                "zodiac": 11,
+                "house": 2,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 319.72766750677215,
+                "cusp_degree": 19.72766750677215,
+                "motion_speed": -0.0529920499908812,
+                "zodiac": 11,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 139.72766750677215,
+                "motion_speed": -0.0529920499908812,
+                "cusp_degree": 19.72766750677215,
+                "zodiac": 5,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 138.4923819707805,
+                "motion_speed": 0.02440103227021348,
+                "cusp_degree": 18.492381970780514,
+                "zodiac": 5,
+                "house": 8,
+                "motion": "R"
+            }
+        }
+    }
+}

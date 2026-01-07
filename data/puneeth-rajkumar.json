@@ -1,0 +1,116 @@
+{
+    "request": {
+        "name": "Puneeth Rajkumar",
+        "title": "Actor, Singer, Film producer",
+        "year": 1975,
+        "month": 3,
+        "day": 17,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 13.08784,
+        "longitude": 80.27847,
+        "location": "Chennai",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "dod": "29/12/2021",
+        "advanced": "death by cardiac arrest",
+        "about": "<p>Puneeth Rajkumar (17 March 1975 – October 29, 2021), affectionately known as Appu, was an Indian actor, playback singer, film producer, television presenter and philanthropist who worked in Kannada cinema. He was the youngest son of legendary actor and matinee idol Dr. Rajkumar. He was one of the most popular actors in Kannada cinema. He appeared as a lead in 32 films. As a child, he appeared in many films. His performances as a child actor in Vasantha Geetha (1980), Bhagyavantha (1981), Chalisuva Modagalu (1982), Eradu Nakshatragalu (1983), Bhakta Prahaladha (1983), Yarivanu (1984) and Bettada Hoovu (1985) were praised. He won the National Film Award for Best Child Artist for his role of Ramu in Bettada Hoovu. He also won Karnataka State Award Best Child artist for Chalisuva Modagalu and Eradu Nakshatragalu. Puneeth's first lead role was in 2002's Appu. In a career spanning three decades, he has won one National Film Award, four Karnataka State Film Awards, six Filmfare Awards South and five SIIMA awards. He was conferred with the Doctorate by Mysuru University. The Karnataka Government conferred the state's highest civilian award, Karnataka Ratna, to Puneeth Rajkumar on 1 November 2022, posthumously.</p><p>Puneeth was nicknamed \"Power Star\" by media and fans. His films as an actor were primarily family dramas and action films but the films produced by him under the PRK Productions banner were of the comedy drama genre, with the theme of family relationships and conveying social messages. He appeared as a lead actor in many commercially successful films such as Appu (2002), Abhi (2003), Aakash (2005), Arasu (2007), Milana (2007), Vamshi (2008), Raam (2009), Jackie (2010), Hudugaru (2011), Power (2014), Raajakumara (2017), Natasaarvabhowma (2019), Yuvarathnaa (2021) and James (2022). His last silver screen appearance, the docu-drama Gandhada Gudi where he played himself, was released on 28 October 2022 coincidentally marking his first death anniversary. He was one of the most famous celebrities and one of the highest paid actors in Kannada cinema of his time. In 2012, he debuted as a television presenter on the game show Kannadada Kotyadhipati, a Kannada version of Who Wants to Be a Millionaire?. Post his eye donation, Narayana Nethralaya recorded 85,000 pledges within one year as against 65,000 pledges in 28 years</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 64.44414515144177,
+            "ascendant": 3
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 336.1389951489855,
+                "cusp_degree": 6.138995148985487,
+                "motion_speed": 0.24212139089148943,
+                "zodiac": 12,
+                "house": 10,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 332.53030983495825,
+                "cusp_degree": 2.5303098349582456,
+                "motion_speed": 0.9957213362166111,
+                "zodiac": 12,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 20.159253608337576,
+                "cusp_degree": 20.159253608337576,
+                "motion_speed": 12.416033231764624,
+                "zodiac": 1,
+                "house": 11,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 3.285543086959246,
+                "cusp_degree": 3.285543086959246,
+                "motion_speed": 1.216502167070937,
+                "zodiac": 1,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 287.0825376716305,
+                "cusp_degree": 17.08253767163052,
+                "motion_speed": 0.7570503773389554,
+                "zodiac": 10,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 307.54344682847125,
+                "cusp_degree": 7.543446828471247,
+                "motion_speed": 1.3699524487264934,
+                "zodiac": 11,
+                "house": 9,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 78.43616324263668,
+                "cusp_degree": 18.43616324263668,
+                "motion_speed": 0.005481020581989476,
+                "zodiac": 3,
+                "house": 1,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 219.56546611150696,
+                "cusp_degree": 9.565466111506964,
+                "motion_speed": -0.04926323254316433,
+                "zodiac": 8,
+                "house": 6,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 221.095311189578,
+                "cusp_degree": 11.095311189578013,
+                "motion_speed": -0.0529920781708583,
+                "zodiac": 8,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 41.09531118957801,
+                "motion_speed": -0.0529920781708583,
+                "cusp_degree": 11.095311189578013,
+                "zodiac": 2,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 39.565466111506964,
+                "motion_speed": -0.04926323254316433,
+                "cusp_degree": 9.565466111506964,
+                "zodiac": 2,
+                "house": 12,
+                "motion": "R"
+            }
+        }
+    }
+}

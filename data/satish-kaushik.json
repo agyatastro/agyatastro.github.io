@@ -1,0 +1,116 @@
+{
+    "request": {
+        "name": "Satish Kaushik",
+        "title": "Actor, Filmmaker, Screenwriter, Comedian",
+        "year": 1956,
+        "month": 4,
+        "day": 13,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 28.26935,
+        "longitude": 76.15253,
+        "location": "Mahendragarh",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "dod": "09/03/2023",
+        "advanced": "death by heart attack",
+        "about": "Satish Chandra Kaushik (13 April 1956 – 9 March 2023) was an Indian actor, director, producer, comedian, editor and screenwriter. He found fame in Bollywood with Mr. India starring Anil Kapoor, Sridevi, and Amrish Puri, where he played the iconic character of a cook named Calendar. He later directed films such as Tere Naam."
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 91.86063853889654,
+            "ascendant": 4
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 118.26361433499987,
+                "cusp_degree": 28.263614334999872,
+                "motion_speed": -0.013468217252776107,
+                "zodiac": 4,
+                "house": 1,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 0.057901020547650346,
+                "cusp_degree": 0.057901020547650346,
+                "motion_speed": 0.9800092082477032,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 27.935601659774875,
+                "cusp_degree": 27.935601659774875,
+                "motion_speed": 14.066835745602845,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 45.75092764722628,
+                "cusp_degree": 15.750927647226277,
+                "motion_speed": 0.973625965822361,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 275.6518134382621,
+                "cusp_degree": 5.6518134382620815,
+                "motion_speed": 0.6406558061046257,
+                "zodiac": 10,
+                "house": 7,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 7.9068292665428395,
+                "cusp_degree": 7.9068292665428395,
+                "motion_speed": 2.0773603123888313,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 218.73336495323505,
+                "cusp_degree": 8.733364953235053,
+                "motion_speed": -0.049459567907528215,
+                "zodiac": 8,
+                "house": 5,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 225.62336801975258,
+                "cusp_degree": 15.623368019752576,
+                "motion_speed": -0.03954353299501691,
+                "zodiac": 8,
+                "house": 5,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 227.3763376591104,
+                "cusp_degree": 17.37633765911039,
+                "motion_speed": -0.05299207992384772,
+                "zodiac": 8,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 47.37633765911039,
+                "motion_speed": -0.05299207992384772,
+                "cusp_degree": 17.37633765911039,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 45.62336801975255,
+                "motion_speed": -0.03954353299501691,
+                "cusp_degree": 15.623368019752547,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "R"
+            }
+        }
+    }
+}

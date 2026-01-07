@@ -1,0 +1,114 @@
+{
+    "request": {
+        "name": "Jaswant Singh",
+        "title": "Politician, Minister",
+        "year": 1938,
+        "month": 1,
+        "day": 3,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 25.83242,
+        "longitude": 72.24,
+        "location": "Balotra",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "about": "<p>Major Jaswant Singh (3 January 1938 – 27 September 2020) was an Indian Army officer and politician. He was one of the founding members of the Bharatiya Janata Party (BJP), and was one of India's longest serving parliamentarians, having been a member of the Lok Sabha or the Rajya Sabha almost continuously between 1980 and 2014. He was NDA's Vice-presidential candidate in the 2012 Indian vice-presidential election. Singh was the only leader from Rajasthan who became Minister Of External Affairs, Finance and Defence.</p><p>He was elected on a BJP ticket to the Rajya Sabha five times (1980, 1986, 1998, 1999, 2004) and to the Lok Sabha four times (1990, 1991, 1996, 2009). During the Vajpayee administration between 1998 and 2004, he held multiple cabinet portfolios including Finance, External Affairs and Defence. He also served as the Deputy Chairman of the Planning Commission between 1998 and 1999. In the aftermath of India's nuclear tests of 1998, he was deputed by Prime Minister Vajpayee to act as India's representative to hold repeated, long-term dialogue with the United States (represented by Strobe Talbott) on matters related to nuclear policy and strategy; the outcome of the sustained engagement was positive for both countries. After his party lost power in 2004, he served as Leader of Opposition in the Rajya Sabha from 2004 to 2009.</p><p>Singh incurred the displeasure of his party colleagues when, after the party suffered its second successive defeat in 2009, he circulated a note demanding a thorough discussion on the debacle. Weeks later, a book authored by him was released, in which he was found to have written sympathetically about Jinnah. Post the event, Singh found himself marginalised within the party. In the elections of 2014, his party decided not to field him from any constituency. He decided to contest anyway as an independent from his native constituency of Barmer (against Col. Sonaram Chaudhary) in Rajasthan. He was expelled from the BJP on 29 March 2014 when he did not withdraw his independent candidature, and went on to lose the election.</p><p>On 7 August 2014, he suffered a fall in the bathroom of residence and suffered a serious head injury. In June 2020 he was admitted to Army's Research and Referral hospital in Delhi for treatment. He remained in a state of coma for six years till his death in 2020</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 339.7158363712365,
+            "ascendant": 12
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 280.16046705368433,
+                "cusp_degree": 10.160467053684329,
+                "motion_speed": 0.22906251841293632,
+                "zodiac": 10,
+                "house": 11,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 259.2421601775164,
+                "cusp_degree": 19.242160177516382,
+                "motion_speed": 1.0196705419624645,
+                "zodiac": 9,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 275.48715717076743,
+                "cusp_degree": 5.487157170767432,
+                "motion_speed": 12.08107910411533,
+                "zodiac": 10,
+                "house": 11,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 251.60723573616198,
+                "cusp_degree": 11.607235736161982,
+                "motion_speed": 1.2581062096002285,
+                "zodiac": 9,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 316.4890033842478,
+                "cusp_degree": 16.48900338424778,
+                "motion_speed": 0.7565371314773816,
+                "zodiac": 11,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 249.7772649488757,
+                "cusp_degree": 9.777264948875711,
+                "motion_speed": -1.050478196407787,
+                "zodiac": 9,
+                "house": 10,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 336.28197269232135,
+                "cusp_degree": 6.281972692321347,
+                "motion_speed": 0.05611244334695269,
+                "zodiac": 12,
+                "house": 1,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 222.6419086476443,
+                "cusp_degree": 12.6419086476443,
+                "motion_speed": -0.1163453856450555,
+                "zodiac": 8,
+                "house": 9,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 221.09836101953243,
+                "cusp_degree": 11.098361019532433,
+                "motion_speed": -0.052992064365212456,
+                "zodiac": 8,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 41.09836101953243,
+                "motion_speed": -0.052992064365212456,
+                "cusp_degree": 11.098361019532433,
+                "zodiac": 2,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 42.6419086476443,
+                "motion_speed": -0.1163453856450555,
+                "cusp_degree": 12.6419086476443,
+                "zodiac": 2,
+                "house": 3,
+                "motion": "R"
+            }
+        }
+    }
+}

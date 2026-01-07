@@ -1,0 +1,116 @@
+{
+    "request": {
+        "name": "Raju Srivastav",
+        "title": "Comedian, Actor",
+        "year": 1963,
+        "month": 12,
+        "day": 25,
+        "hour": 20,
+        "minute": 30,
+        "second": 0,
+        "latitude": 26.46523,
+        "longitude": 80.34975,
+        "location": "Kanpur",
+        "gender": "male",
+        "agyat_rating": "AU",
+        "dod": "21/09/2022",
+        "advanced": "death by cardiac arrest",
+        "about": "<p>Satya Prakash Srivastav (25 December 1963 – 21 September 2022), known professionally as Raju Srivastav and often credited as Gajodhar, was an Indian comedian, actor and politician.[1] He was born in Kanpur, Uttar Pradesh, and moved to Mumbai in the 1980s to work in the Hindi film industry. He acted in Baazigar, Bombay to Goa, Aamdani Atthanni Kharcha Rupaiya among others. He contested in the comedy show The Great Indian Laughter Challenge and became the runner-up. He won the title of \"The King of Comedy\" in its spin-off show The Great Indian Laughter Challenge – Champions. He did many stand-up comedy live shows.</p><p>He had been a member of the Bharatiya Janata Party since 2014.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 111.37341193117476,
+            "ascendant": 4
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 346.88836168551853,
+                "cusp_degree": 16.888361685518532,
+                "motion_speed": 0.06830456342249415,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 249.74817842899887,
+                "cusp_degree": 9.74817842899887,
+                "motion_speed": 1.018641066435936,
+                "zodiac": 9,
+                "house": 6,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 3.0903494366986104,
+                "cusp_degree": 3.0903494366986104,
+                "motion_speed": 14.329419362135864,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 278.9283054710928,
+                "cusp_degree": 8.928305471092813,
+                "motion_speed": 1.238328985320488,
+                "zodiac": 10,
+                "house": 7,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 262.1501952991949,
+                "cusp_degree": 22.150195299194877,
+                "motion_speed": 0.7726726215918166,
+                "zodiac": 9,
+                "house": 6,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 267.33636550845586,
+                "cusp_degree": 27.336365508455856,
+                "motion_speed": 0.14046832742719279,
+                "zodiac": 9,
+                "house": 6,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 296.4431288890883,
+                "cusp_degree": 26.443128889088314,
+                "motion_speed": 0.09491199020864274,
+                "zodiac": 10,
+                "house": 7,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 77.88224860439092,
+                "cusp_degree": 17.882248604390924,
+                "motion_speed": -0.011560403929771267,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 78.3439219288792,
+                "cusp_degree": 18.343921928879197,
+                "motion_speed": -0.052992072370627565,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 258.3439219288792,
+                "motion_speed": -0.052992072370627565,
+                "cusp_degree": 18.343921928879183,
+                "zodiac": 9,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 257.88224860439095,
+                "motion_speed": -0.011560403929771267,
+                "cusp_degree": 17.882248604390952,
+                "zodiac": 9,
+                "house": 6,
+                "motion": "R"
+            }
+        }
+    }
+}

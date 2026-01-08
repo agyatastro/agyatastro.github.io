@@ -1,0 +1,115 @@
+{
+    "request": {
+        "name": "Gustavo Petro",
+        "title": "President, Politician",
+        "year": 1960,
+        "month": 4,
+        "day": 19,
+        "hour": 18,
+        "minute": 30,
+        "second": 0,
+        "latitude": 5.02208,
+        "longitude": -74.00481,
+        "location": "Zipaquira",
+        "gender": "male",
+        "agyat_rating": "AA",
+        "advanced": "economist, activist, multiple marriages",
+        "about": "<p>Gustavo Francisco Petro Urrego ODB ODSC ODIC (born 19 April 1960) is a Colombian politician and economist who has served as the 35th president of Colombia since 2022. Upon inauguration, he became the first left-wing president in the recent history of Colombia.</p><p>At 17 years old, Petro joined the guerrilla group 19th of April Movement (M-19). Seventeen years later it evolved into the M-19 Democratic Alliance, a political party. Petro also served as a councilman in Zipaquirá. He was arrested in 1985 by the army for his affiliation with M-19. After the peace process between the Colombian government and the M-19, he was released and then elected to the Chamber of Representatives in the 1991 Colombian parliamentary election. Some years later, he was elected to the Colombian Senate as a member of the Alternative Democratic Pole (PDA) party following the 2006 Colombian parliamentary election, where he secured the second-largest vote. In 2009, he resigned his Senate seat to run in the 2010 Colombian presidential election, finishing fourth. He was elected mayor of Bogotá in 2011, and held the post until 2015.</p><p>Due to ideological disagreements with the leaders of the PDA, he founded the Humane Colombia movement to compete for the mayoralty of Bogotá. On 30 October 2011, he was elected mayor in the local elections, a position he assumed on 1 January 2012. In the first round of the 2018 Colombian presidential election, he came second with over 25% of the votes on 27 May, and lost in the run-off election on 17 June. He defeated Rodolfo Hernández Suárez in the second round of the 2022 presidential election on 19 June</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 194.35023507165073,
+            "ascendant": 7
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 250.31384667397333,
+                "cusp_degree": 10.31384667397333,
+                "motion_speed": 0.0006885959101667737,
+                "zodiac": 9,
+                "house": 3,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 6.592971296252971,
+                "cusp_degree": 6.592971296252971,
+                "motion_speed": 0.9761142501547323,
+                "zodiac": 1,
+                "house": 7,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 295.1488592024493,
+                "cusp_degree": 25.148859202449273,
+                "motion_speed": 13.681114572689943,
+                "zodiac": 10,
+                "house": 4,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 349.6672790883571,
+                "cusp_degree": 19.667279088357077,
+                "motion_speed": 1.230162974146544,
+                "zodiac": 12,
+                "house": 6,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 320.3488115960571,
+                "cusp_degree": 20.34881159605709,
+                "motion_speed": 0.7699121656461769,
+                "zodiac": 11,
+                "house": 5,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 342.0913220521327,
+                "cusp_degree": 12.091322052132682,
+                "motion_speed": 1.4512175309184983,
+                "zodiac": 12,
+                "house": 6,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 265.0799137905713,
+                "cusp_degree": 25.07991379057131,
+                "motion_speed": 0.012476109606261764,
+                "zodiac": 9,
+                "house": 3,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 150.89329030182236,
+                "cusp_degree": 0.8932903018223612,
+                "motion_speed": 0.022742084735880696,
+                "zodiac": 6,
+                "house": 12,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 149.59946006310193,
+                "cusp_degree": 29.59946006310193,
+                "motion_speed": -0.052992076025969996,
+                "zodiac": 5,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 329.5994600631019,
+                "motion_speed": -0.052992076025969996,
+                "cusp_degree": 29.5994600631019,
+                "zodiac": 11,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 330.8932903018224,
+                "motion_speed": 0.022742084735880696,
+                "cusp_degree": 0.8932903018223897,
+                "zodiac": 12,
+                "house": 6,
+                "motion": "R"
+            }
+        }
+    }
+}

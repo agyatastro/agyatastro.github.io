@@ -1,0 +1,115 @@
+{
+    "request": {
+        "name": "Mojtaba Khamenei",
+        "title": "Politician, Supreme Leader",
+        "year": 1969,
+        "month": 9,
+        "day": 8,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 36.29807,
+        "longitude": 59.60567,
+        "location": "Mashhad",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "advanced": "attacked",
+        "about": "<p>Mojtaba Hosseini Khamenei (born 8 September 1969) is an Iranian Shia cleric who serves as the third supreme leader of Iran since March 2026. A member of the Khamenei family, he is the second child of the previous supreme leader, Ali Khamenei.</p><p>Born in Mashhad, a city in northeastern Iran, he was nine when his father emerged as a leading figure in the Iranian Revolution. He received early education in Sardasht and Mahabad, and graduated high school from Tehran, after which he studied Islamic theology under the guidance of his father and Mahmoud Hashemi Shahroudi. He joined the Islamic Revolutionary Guard Corps (IRGC) in 1987 and served in the Iran–Iraq War. In 1999, he continued his studies in Qom to become a cleric, and joined the Qom Seminary as a theological teacher afterwards. He took control of the Basij paramilitary volunteer militia in 2009.</p><p>Following the assassination of his father during the 2026 Iran War, which also killed one of his children, his mother, one of his sisters, and his wife, Mojtaba was elected as the third supreme leader by Iran's Assembly of Experts. He has previously been sanctioned by the United States Department of the Treasury in 2019 as part of their policy of sanctioning individuals linked to Ali Khamenei.</p><p>In political ideology and jurisprudence, he is considered to be among the most hardline of the Iranian principlists, and has close ties to some of the \"most ideologically extremist clerics\" per a report from Atlantic Council, a pro-NATO think tank. Analysts have generally seen him as more favorable to developing an Iranian nuclear weapons program than his father, opposing Ali Khamenei's fatwa against nuclear weapons.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 225.52467575917234,
+            "ascendant": 8
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 166.25610232169387,
+                "cusp_degree": 16.256102321693874,
+                "motion_speed": 0.20599695957706124,
+                "zodiac": 6,
+                "house": 11,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 142.07492165802338,
+                "cusp_degree": 22.074921658023385,
+                "motion_speed": 0.9715103619037737,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 102.98305189431048,
+                "cusp_degree": 12.983051894310478,
+                "motion_speed": 11.955535908806286,
+                "zodiac": 4,
+                "house": 9,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 108.7366850838083,
+                "cusp_degree": 18.736685083808297,
+                "motion_speed": 1.196256836575004,
+                "zodiac": 4,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 238.95007129580088,
+                "cusp_degree": 28.950071295800882,
+                "motion_speed": 0.561397730118808,
+                "zodiac": 8,
+                "house": 1,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 168.38776616119685,
+                "cusp_degree": 18.38776616119685,
+                "motion_speed": 0.6827656868809611,
+                "zodiac": 6,
+                "house": 11,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 15.227671330968937,
+                "cusp_degree": 15.227671330968937,
+                "motion_speed": -0.03133060903962117,
+                "zodiac": 1,
+                "house": 6,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 327.6924605962737,
+                "cusp_degree": 27.69246059627369,
+                "motion_speed": -0.012798304316910638,
+                "zodiac": 11,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 327.9228502238644,
+                "cusp_degree": 27.922850223864373,
+                "motion_speed": -0.05299203379630989,
+                "zodiac": 11,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 147.92285022386437,
+                "motion_speed": -0.05299203379630989,
+                "cusp_degree": 27.922850223864373,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 147.6924605962737,
+                "motion_speed": -0.012798304316910638,
+                "cusp_degree": 27.69246059627369,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "R"
+            }
+        }
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "request": {
+        "name": "Farooq Abdullah",
+        "title": "Politician, Chief Minister",
+        "year": 1937,
+        "month": 10,
+        "day": 21,
+        "hour": 0,
+        "minute": 30,
+        "second": 0,
+        "latitude": 34.08565,
+        "longitude": 74.80555,
+        "location": "Srinagar",
+        "gender": "male",
+        "agyat_rating": "AA",
+        "advanced": "prolonged career, detention, assassination attempt",
+        "about": "Farooq Abdullah (born 21 October 1937) is an Indian politician who serves as current president of the Jammu & Kashmir National Conference. He has served as the chief minister of Jammu and Kashmir on several occasions since 1982 till 2002, and as the union minister for New and Renewable Energy between 2009 and 2014. His father Sheikh Abdullah was the 1st elected chief minister of Jammu and Kashmir. He is the father of Omar Abdullah who is current chief minister.",
+        "related": ["abdullah-family"]
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 105.92350743188857,
+            "ascendant": 4
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 266.59277213266745,
+                "cusp_degree": 26.59277213266745,
+                "motion_speed": 0.11039398319449378,
+                "zodiac": 9,
+                "house": 6,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 183.97633819170642,
+                "cusp_degree": 3.976338191706418,
+                "motion_speed": 0.9942302073834076,
+                "zodiac": 7,
+                "house": 4,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 16.17248315971621,
+                "cusp_degree": 16.17248315971621,
+                "motion_speed": 14.843585799133644,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 158.36895424979153,
+                "cusp_degree": 8.368954249791528,
+                "motion_speed": 1.2356938808237719,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 261.07774761239597,
+                "cusp_degree": 21.077747612395967,
+                "motion_speed": 0.7088777091085419,
+                "zodiac": 9,
+                "house": 6,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 178.11234170373996,
+                "cusp_degree": 28.112341703739958,
+                "motion_speed": 1.7111430619612449,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 336.8341304617446,
+                "cusp_degree": 6.834130461744621,
+                "motion_speed": -0.0644624185978875,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 223.59514650138883,
+                "cusp_degree": 13.595146501388825,
+                "motion_speed": -0.0568956082787741,
+                "zodiac": 8,
+                "house": 5,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 225.04516631933149,
+                "cusp_degree": 15.045166319331486,
+                "motion_speed": -0.052992197054976514,
+                "zodiac": 8,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 45.045166319331486,
+                "motion_speed": -0.052992197054976514,
+                "cusp_degree": 15.045166319331486,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 43.595146501388854,
+                "motion_speed": -0.0568956082787741,
+                "cusp_degree": 13.595146501388854,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "R"
+            }
+        }
+    }
+}

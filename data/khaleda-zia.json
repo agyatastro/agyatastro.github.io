@@ -1,0 +1,116 @@
+{
+    "request": {
+        "name": "Khaleda Zia",
+        "title": "Politician, Prime Minister",
+        "year": 1946,
+        "month": 8,
+        "day": 15,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 25.62745,
+        "longitude": 88.63779,
+        "location": "Dinajpur",
+        "gender": "female",
+        "agyat_rating": "AX",
+        "advanced": "exiled, detention, corruption, conviction",
+        "relaated": ["zia-family"],
+        "about": "<p>Begum Khaleda Zia (born Khaleda Khanam; 15 August 1946 – 30 December 2025) was a Bangladeshi politician who served as the prime minister of Bangladesh from 1991 to 1996 and again from 2001 to 2006. She was the first female prime minister of Bangladesh and the second female prime minister in the Muslim world after Benazir Bhutto. She was the wife of the former president of Bangladesh and army commander, Ziaur Rahman. She was the longest serving chairperson of the Bangladesh Nationalist Party (BNP) from 1984 until 2025.</p><p>Zia was born into a Bengali Muslim family in 1946 in Jalpaiguri and moved to East Bengal, present-day Bangladesh, in 1950. During the Liberation War of Bangladesh, after her husband joined the Mukti Bahini, she, along with her sons, was detained by the Pakistani Forces. She was the first lady of Bangladesh from 1977 until her husband's assassination in 1981. Afterwards, Zia became active in politics and became the leader of the BNP in 1984. She and her party played a leading role in the pro-democracy movement against Hussain Muhammad Ershad. They boycotted the 1986 and 1988 general elections, thus securing for her the reputation of an \"uncompromising leader\". She, along with Sheikh Hasina of the Awami League, helped lead the 1990 mass uprising.</p><p>Zia's first premiership followed the BNP victory in the 1991 general election and saw the introduction of educational, economic, and administrative reforms. Her party also formed a short-lived government after the controversial February 1996 election, which was boycotted by the opposition. During her second premiership, which began with her party's victory in the 2001 election and lasted until 2006, Bangladesh witnessed growth in GDP, foreign investment and female literacy, as well as becoming the most corrupt country in the world according to the Corruption Perceptions Index.</p><p>Her second premiership concluded during a political crisis that resulted in a military takeover in 2007. The military-backed caretaker government charged and detained Zia and her two sons with corruption. Following the defeat of the BNP in the 2008 election by Sheikh Hasina's Awami League, she was driven out of her house; she boycotted the 2014 election. In 2018, Zia was sentenced to a total of 17 years in prison for corruption. However, following the July Revolution in 2024, she was released and acquitted of all charges. After years of prolonged illness, Zia died on 30 December 2025 in a hospital and was given a state funeral.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 196.26371848627755,
+            "ascendant": 7
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 179.4311766660742,
+                "cusp_degree": 29.431176666074208,
+                "motion_speed": 0.15177029378476128,
+                "zodiac": 6,
+                "house": 12,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 118.67457185126261,
+                "cusp_degree": 28.674571851262613,
+                "motion_speed": 0.9605449288874889,
+                "zodiac": 4,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 326.7007845017847,
+                "cusp_degree": 26.70078450178471,
+                "motion_speed": 13.433557364059022,
+                "zodiac": 11,
+                "house": 5,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 163.29756745524674,
+                "cusp_degree": 13.297567455246735,
+                "motion_speed": 1.081396657692636,
+                "zodiac": 6,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 160.46275723192593,
+                "cusp_degree": 10.462757231925934,
+                "motion_speed": 0.6318560193343948,
+                "zodiac": 6,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 102.09874639217732,
+                "cusp_degree": 12.098746392177318,
+                "motion_speed": 0.28059058692089844,
+                "zodiac": 4,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 98.48762352225349,
+                "cusp_degree": 8.487623522253486,
+                "motion_speed": 0.12413611212195352,
+                "zodiac": 4,
+                "house": 10,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 55.54629311302288,
+                "cusp_degree": 25.546293113022877,
+                "motion_speed": -0.1638198762447558,
+                "zodiac": 2,
+                "house": 8,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 54.38752256118813,
+                "cusp_degree": 24.387522561188128,
+                "motion_speed": -0.052992056047608364,
+                "zodiac": 2,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 234.38752256118812,
+                "motion_speed": -0.052992056047608364,
+                "cusp_degree": 24.38752256118812,
+                "zodiac": 8,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 235.54629311302287,
+                "motion_speed": -0.1638198762447558,
+                "cusp_degree": 25.54629311302287,
+                "zodiac": 8,
+                "house": 2,
+                "motion": "R"
+            }
+        }
+    }
+}

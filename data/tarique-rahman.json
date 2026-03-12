@@ -1,0 +1,116 @@
+{
+    "request": {
+        "name": "Tarique Rahman",
+        "title": "Politician, Prime Minister, Exiled",
+        "year": 1968,
+        "month": 11,
+        "day": 20,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 23.7104,
+        "longitude": 90.40744,
+        "location": "Dhaka",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "advanced": "exiled, detention, corruption",
+        "related": ["zia-family"],
+        "about": "<p>Tarique Rahman (born 20 November 1968), also known as Tarique Zia, is a Bangladeshi politician who has served as the Prime Minister of Bangladesh and Chairman of the Bangladesh Nationalist Party (BNP) since 2026. He is the eldest son of former President Ziaur Rahman and former Prime Minister Khaleda Zia.</p><p>Rahman rose to prominence in the Bangladesh Nationalist Party during Khaleda Zia's premiership. After the Awami League's victory in the 2008 general election, he went into self-imposed exile in the United Kingdom, citing concerns for his safety and claiming that he was being persecuted by the authorities. He was convicted by the courts during Sheikh Hasina's premiership on multiple charges, including corruption, bribery, money laundering, illegal acquisition of wealth, and grenade attacks. A total of 84 cases were filed against him between 2007 to 2024 BNP claimed that those were politically motivated false charges. Later in 2024, following the July uprising, the court acquitted him of all charges and quashed his sentence; he subsequently returned to Bangladesh in late 2025 and won in the 2026 general election.</p><p>Rahman has drawn controversy in national politics, facing accusations of corruption, bribery, money-laundering charges and being linked to the use of Hawa Bhaban as a parallel power centre.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 297.35107457803235,
+            "ascendant": 10
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 157.2778128892099,
+                "cusp_degree": 7.277812889209912,
+                "motion_speed": 0.1588121023647918,
+                "zodiac": 6,
+                "house": 9,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 214.56572977843425,
+                "cusp_degree": 4.565729778434246,
+                "motion_speed": 1.0101642517959386,
+                "zodiac": 8,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 213.37320922531728,
+                "cusp_degree": 3.3732092253172823,
+                "motion_speed": 15.209892968186933,
+                "zodiac": 8,
+                "house": 11,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 253.02795134809844,
+                "cusp_degree": 13.02795134809844,
+                "motion_speed": 1.205435311631,
+                "zodiac": 9,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 163.2374317721258,
+                "cusp_degree": 13.237431772125802,
+                "motion_speed": 0.6026408749952344,
+                "zodiac": 6,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 205.0331057453987,
+                "cusp_degree": 25.0331057453987,
+                "motion_speed": 1.5902133583870328,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 356.13706670514676,
+                "cusp_degree": 26.137066705146765,
+                "motion_speed": -0.05294374476547945,
+                "zodiac": 12,
+                "house": 3,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 345.15066576343315,
+                "cusp_degree": 15.150665763433153,
+                "motion_speed": -0.11311509893984656,
+                "zodiac": 12,
+                "house": 3,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 343.40204706654714,
+                "cusp_degree": 13.40204706654714,
+                "motion_speed": -0.05299200146996524,
+                "zodiac": 12,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 163.40204706654708,
+                "motion_speed": -0.05299200146996524,
+                "cusp_degree": 13.402047066547084,
+                "zodiac": 6,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 165.15066576343315,
+                "motion_speed": -0.11311509893984656,
+                "cusp_degree": 15.150665763433153,
+                "zodiac": 6,
+                "house": 9,
+                "motion": "R"
+            }
+        }
+    }
+}

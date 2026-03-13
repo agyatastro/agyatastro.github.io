@@ -1,0 +1,114 @@
+{
+    "request": {
+        "name": "Irfan Pathan",
+        "title": "Sportsperson, Cricket",
+        "year": 1984,
+        "month": 10,
+        "day": 27,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 22.29941,
+        "longitude": 73.20812,
+        "location": "Vadodara",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "about": "<p>Irfan Pathan (born 27 October 1984) is an Indian cricket commentator, analyst and former player. He was a bowling all-rounder and member of the Indian cricket team that won the inaugural 2007 ICC Twenty20 World Cup and 2013 ICC Champions Trophy.</p><p>Beginning his career as a fast-medium swing and seam bowler, Pathan broke into the national team soon after turning 19, and evoked comparisons with Pakistan's Wasim Akram with his promising performances and prodigious swing. In early 2006, Pathan became the only bowler to take a Test hat-trick in the first over of the match (vs Pakistan at Karachi). However, the productive run did not last and after the start of 2006, Pathan began to steadily lose pace and swing, and his wicket-taking dwindled. Although Pathan's batting continued to be productive, he was not regarded as a specialist and was dropped from the team in both Tests and ODIs by the end of 2006, and by 2007 was no longer in the squad until his return in the 2007 World Twenty20.</p><p>He cemented his position in the team and was named by the International Cricket Council as the 2004 ICC Men's Emerging Player of the Year. Pathan was instrumental in India's ODI and Test series wins in Pakistan in 2004. He was described by the media as the \"blue-eyed boy\" of Indian cricket. In late-2004 he took 18 wickets in two Tests against Bangladesh, but the start of 2005 he performed poorly and conceded runs at a high rate, leading to a brief exile from the ODI team.</p><p>Immediately thereafter, Australian Greg Chappell, one of the leading batsmen of his time, became India's coach (2005) and identified Pathan's batting potential. Pathan improved his batting skills and tried to become a complete bowling all-rounder, and he opened the batting on occasions in ODIs and scored 93 in a Test match (10 Dec 2005, versus Sri Lanka in Delhi) in the role after an illness to Virender Sehwag. He made three scores beyond 80 in the space of four Test innings against Sri Lanka and Pakistan. For the first nine months of Chappell's stint at the helm, Pathan performed strongly with both bat and ball, scoring runs regularly and frequently taking top-order wickets. He rose to No. 2 in the ICC's ODI rankings for all-rounders and was also in the top five in the Test rankings. This led critics to compare him to former Indian pace bowling allrounder Kapil Dev.</p><p>He returned to international cricket in September 2007 for the inaugural World Twenty20, where he took three wickets and was man of the match as India beat Pakistan in the final. Pathan became the first Indian bowler on T20 World Cup debut who picked up a wicket on the first ball. This earned him a recall into the ODI team, where he was a regular for most of the next 12 months before being dropped as his economy rate continued to trend upwards and subsequently struggled with a loss of form and injuries. In late-2007 Pathan was also recalled into the Test team after 19 months and hit his maiden Test century, but could not maintain his place in the team as his bowling was not effective enough with only two pacemen needed. Pathan played his last Test for India in April 2008 against South Africa. He continued to perform with both bat and ball at the domestic level, although his sedate pace was frequently criticized as being irrelevant at the international level. However, he impressed during the 2011–12 Ranji Trophy, where he was the leading wicket-taker, and his performances earned him a recall to the national team again.</p><p>He was a contestant in the dance reality show Jhalak Dikhhla Jaa in 2015. Irfan Pathan made his acting debut in the 2022 Indian film Cobra</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 261.7514245134444,
+            "ascendant": 9
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 254.4290569226817,
+                "cusp_degree": 14.429056922681696,
+                "motion_speed": 0.15738010449499018,
+                "zodiac": 9,
+                "house": 1,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 190.3803784936812,
+                "cusp_degree": 10.380378493681206,
+                "motion_speed": 0.9984142277402673,
+                "zodiac": 7,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 228.16500666956236,
+                "cusp_degree": 18.16500666956236,
+                "motion_speed": 14.13158308782895,
+                "zodiac": 8,
+                "house": 12,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 224.91100383982302,
+                "cusp_degree": 14.911003839823024,
+                "motion_speed": 1.2148429172722672,
+                "zodiac": 8,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 261.97044030673925,
+                "cusp_degree": 21.97044030673925,
+                "motion_speed": 0.727006781475118,
+                "zodiac": 9,
+                "house": 1,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 200.9168832011774,
+                "cusp_degree": 20.9168832011774,
+                "motion_speed": 1.5500429363102413,
+                "zodiac": 7,
+                "house": 11,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 203.64159651925735,
+                "cusp_degree": 23.641596519257348,
+                "motion_speed": 0.11763431273209202,
+                "zodiac": 7,
+                "house": 11,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 33.898310561941315,
+                "cusp_degree": 3.898310561941315,
+                "motion_speed": 0.01637158342226794,
+                "zodiac": 2,
+                "house": 6,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 34.98729006865103,
+                "cusp_degree": 4.987290068651028,
+                "motion_speed": -0.052992044038483836,
+                "zodiac": 2,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 214.98729006865102,
+                "motion_speed": -0.052992044038483836,
+                "cusp_degree": 4.987290068651021,
+                "zodiac": 8,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 213.89831056194132,
+                "motion_speed": 0.01637158342226794,
+                "cusp_degree": 3.898310561941315,
+                "zodiac": 8,
+                "house": 12,
+                "motion": "R"
+            }
+        }
+    }
+}

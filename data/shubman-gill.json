@@ -1,0 +1,114 @@
+{
+    "request": {
+        "name": "Shubman Gill",
+        "title": "Sportsperson, Cricket",
+        "year": 1998,
+        "month": 9,
+        "day": 8,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 30.40207,
+        "longitude": 74.02836,
+        "location": "Fazilka",
+        "gender": "male",
+        "agyat_rating": "CX",
+        "about": "<p>Shubman Gill (born 8 September 1999) is an Indian international cricketer who plays for the India national team. Gill captains the Test and the ODI team. He has also captained the team in T20I. A right-handed batsman, Gill represents Punjab in domestic cricket and captains the Gujarat Titans in the Indian Premier League.</p><p>In ODI cricket, he is the fastest player to reach 2000 runs in 38 innings and 2500 runs in 50 innings. He also holds the record for the youngest cricketer to score a double century in ODIs at the age of 23. With his country, he won the 2025 ICC Champions Trophy as vice captain. He made his List-A debut against Vidarbha in 2017 and first-class debut for Punjab against Bengal in the 2017–18 Ranji Trophy, scoring a half-century in the game, and 129 runs in the last match against Services.</p><p>As vice-captain of the Indian under-19 team, Gill scored 372 runs at an average of 124.00 in the 2018 Under-19 Cricket World Cup, where he played a crucial role in India's fourth title win, earning the edition's Player of the Tournament award. His unbeaten 102 in the semi-final against Pakistan U-19 drew praise from batting greats such as Rahul Dravid, Sachin Tendulkar, VVS Laxman, and Sourav Ganguly.</p><p>Shubman Gill was named ICC Men’s Player of the Month four times — in January 2023, September 2023, February 2025, and July 2025. He is also the first male player to win the award four times. He was also named in the ICC Men’s ODI Team of the Year in 2023.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 214.81356901308092,
+            "ascendant": 8
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 330.2571060302845,
+                "cusp_degree": 0.25710603028448986,
+                "motion_speed": -0.13011677155679222,
+                "zodiac": 12,
+                "house": 5,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 141.57809030027965,
+                "cusp_degree": 21.578090300279655,
+                "motion_speed": 0.970473972811916,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 346.4884158171383,
+                "cusp_degree": 16.488415817138275,
+                "motion_speed": 14.902607804838702,
+                "zodiac": 12,
+                "house": 5,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 127.97170715229151,
+                "cusp_degree": 7.971707152291515,
+                "motion_speed": 1.2364059913243937,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 107.95681835590186,
+                "cusp_degree": 17.95681835590186,
+                "motion_speed": 0.6323601916622872,
+                "zodiac": 4,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 126.47932879570492,
+                "cusp_degree": 6.479328795704916,
+                "motion_speed": 1.6696448671636743,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 9.316936601081606,
+                "cusp_degree": 9.316936601081606,
+                "motion_speed": -0.03960481201750443,
+                "zodiac": 1,
+                "house": 6,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 127.62338065386294,
+                "cusp_degree": 7.623380653862938,
+                "motion_speed": -0.026147870944607448,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 126.63569464660588,
+                "cusp_degree": 6.635694646605884,
+                "motion_speed": -0.05299202128084868,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 306.6356946466059,
+                "motion_speed": -0.05299202128084868,
+                "cusp_degree": 6.635694646605884,
+                "zodiac": 11,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 307.6233806538629,
+                "motion_speed": -0.026147870944607448,
+                "cusp_degree": 7.62338065386291,
+                "zodiac": 11,
+                "house": 4,
+                "motion": "R"
+            }
+        }
+    }
+}

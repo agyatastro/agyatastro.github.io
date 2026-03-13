@@ -1,0 +1,114 @@
+{
+    "request": {
+        "name": "Waqar Younis",
+        "title": "Sportsperson, Cricket",
+        "year": 1971,
+        "month": 11,
+        "day": 16,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 31.558,
+        "longitude": 74.35071,
+        "location": "Lahore",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "about": "<p>Waqar Younis Maitla (Punjabi, Urdu: وقار یونس میتلا; born 16 November 1971) is a Pakistani cricket coach, commentator and former cricketer who captained Pakistan national cricket team. A right-arm fast bowler, he is widely regarded as one of the greatest bowlers of all time. He is the former head coach of the Pakistani cricket team. He was a part of the squad which finished as runners-up at the 1999 Cricket World Cup.</p><p>As of 2021, Younis holds the record for being the youngest Pakistani Test captain and the fourth youngest Test captain in history (22 years 15 days). He played 87 Tests and 262 One Day International (ODI) matches for Pakistan during his international cricket career from 1989 to 2003.</p><p>Younis' trademark was his ability to reverse swing a cricket ball at high speed. He took 373 Test wickets and 416 One Day International wickets during his career. Together with bowling partner Wasim Akram, he formed one of the world's most feared bowling attacks. Younis has the second best strike rate, after Dale Steyn, for any bowler with over 350 Test wickets. He is the youngest bowler to take 400 wickets in ODI cricket.</p><p>He is also placed in the top ten of all time based on ICC rankings.</p><p>He worked as a bowling coach with the national team from 2006 to 2007. Waqar was appointed the coach of the Pakistan cricket team on 3 March 2010. He resigned as Pakistan's cricket coach on 19 August 2011 citing personal reasons. He joined Sunrisers Hyderabad as their bowling coach for the Indian Premier League 2013 season.</p><p>On 4 September 2019, Younis was appointed by the PCB as Pakistan's new bowling coach on a 3-year contract. He replaced Azhar Mahmood, who was sacked after Pakistan's disappointing performance in the ICC World Cup 2019 tournament.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 286.8628335299927,
+            "ascendant": 10
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 228.62036936613796,
+                "cusp_degree": 18.620369366137965,
+                "motion_speed": 0.2193510938457113,
+                "zodiac": 8,
+                "house": 11,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 209.79292623373004,
+                "cusp_degree": 29.792926233730043,
+                "motion_speed": 1.0080756624832479,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 190.11072644898823,
+                "cusp_degree": 10.110726448988231,
+                "motion_speed": 11.959583567198553,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 230.57238314967302,
+                "cusp_degree": 20.572383149673016,
+                "motion_speed": 1.2455148461814651,
+                "zodiac": 8,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 311.8521285727958,
+                "cusp_degree": 11.852128572795777,
+                "motion_speed": 0.562344349847058,
+                "zodiac": 11,
+                "house": 2,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 230.39334427475328,
+                "cusp_degree": 20.393344274753275,
+                "motion_speed": 1.302011833580721,
+                "zodiac": 8,
+                "house": 11,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 40.34734110450441,
+                "cusp_degree": 10.347341104504409,
+                "motion_speed": -0.07998821261602805,
+                "zodiac": 2,
+                "house": 5,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 285.0987417588345,
+                "cusp_degree": 15.098741758834478,
+                "motion_speed": -0.2297509763268524,
+                "zodiac": 10,
+                "house": 1,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 285.58552012748595,
+                "cusp_degree": 15.58552012748595,
+                "motion_speed": -0.05299203170065898,
+                "zodiac": 10,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 105.58552012748595,
+                "motion_speed": -0.05299203170065898,
+                "cusp_degree": 15.58552012748595,
+                "zodiac": 4,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 105.09874175883448,
+                "motion_speed": -0.2297509763268524,
+                "cusp_degree": 15.098741758834478,
+                "zodiac": 4,
+                "house": 7,
+                "motion": "R"
+            }
+        }
+    }
+}

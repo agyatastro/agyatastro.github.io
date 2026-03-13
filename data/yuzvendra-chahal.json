@@ -1,0 +1,115 @@
+{
+    "request": {
+        "name": "Yuzvendra Chahal",
+        "title": "Sportsperson, Cricket",
+        "year": 1989,
+        "month": 7,
+        "day": 23,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 29.31577,
+        "longitude": 76.31502,
+        "location": "Jind",
+        "gender": "male",
+        "agyat_rating": "CX",
+        "advanced": "divorce, career debacle",
+        "about": "<p>Yuzvendra Chahal (born 23 July 1990) is an Indian international cricketer who plays for the India national cricket team in white ball cricket as a leg spin bowler. He also represents Haryana in domestic cricket, Punjab Kings in the Indian Premier League, and Northamptonshire in County Championship.</p><p>Chahal was the second player, and first Indian, to take a 6 wicket haul in T20I history.[2] He was the first concussion substitute to be named man of the match in an international cricket match.[3] He is a former chess player and represented India internationally. He was part of the Indian team which won the 2024 T20 World Cup; however, he did not feature in any of the matches during the tournament.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 177.93898540535469,
+            "ascendant": 6
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 64.67629027494816,
+                "cusp_degree": 4.676290274948158,
+                "motion_speed": 0.21201989272163618,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 96.67408201329555,
+                "cusp_degree": 6.674082013295546,
+                "motion_speed": 0.9546990297060944,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 336.19090707132045,
+                "cusp_degree": 6.190907071320453,
+                "motion_speed": 14.285302329939205,
+                "zodiac": 12,
+                "house": 7,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 125.33062011656557,
+                "cusp_degree": 5.330620116565569,
+                "motion_speed": 1.2064366326999978,
+                "zodiac": 5,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 119.18328453204097,
+                "cusp_degree": 29.18328453204097,
+                "motion_speed": 0.6273190134597735,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 102.29720031063003,
+                "cusp_degree": 12.297200310630032,
+                "motion_speed": 2.0465112641733274,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 255.42973570367536,
+                "cusp_degree": 15.429735703675362,
+                "motion_speed": -0.06612040494332977,
+                "zodiac": 9,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 302.2605403123817,
+                "cusp_degree": 2.2605403123816927,
+                "motion_speed": 0.023773379609432908,
+                "zodiac": 11,
+                "house": 6,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 303.31108667838663,
+                "cusp_degree": 3.31108667838663,
+                "motion_speed": -0.05299202285029778,
+                "zodiac": 11,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 123.31108667838663,
+                "motion_speed": -0.05299202285029778,
+                "cusp_degree": 3.31108667838663,
+                "zodiac": 5,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 122.26054031238169,
+                "motion_speed": 0.023773379609432908,
+                "cusp_degree": 2.2605403123816927,
+                "zodiac": 5,
+                "house": 12,
+                "motion": "R"
+            }
+        }
+    }
+}

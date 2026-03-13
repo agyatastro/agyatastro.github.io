@@ -1,0 +1,115 @@
+{
+    "request": {
+        "name": "Babar Azam",
+        "title": "Sportsperson, Cricket",
+        "year": 1994,
+        "month": 10,
+        "day": 15,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 31.558,
+        "longitude": 74.35071,
+        "location": "Lahore",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "advanced": "batsman, humiliation",
+        "about": "Mohammad Babar Azam (Urdu, Punjabi: محمد بابر اعظم; pronounced [muhamməd babəɾ azəm]; born 15 October 1994) is a Pakistani international cricketer and a former captain of the Pakistan national team in all three formats of the game. A right-handed top-order batter, he captains Peshawar Zalmi in the Pakistan Super League. Azam was a member of the Pakistan team that won the 2017 ICC Champions Trophy."
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 253.22314118941856,
+            "ascendant": 9
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 204.1725814428871,
+                "cusp_degree": 24.172581442887093,
+                "motion_speed": 0.20827770414008873,
+                "zodiac": 7,
+                "house": 11,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 177.91197262115938,
+                "cusp_degree": 27.91197262115938,
+                "motion_speed": 0.9908881844216347,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 310.2995289156108,
+                "cusp_degree": 10.299528915610779,
+                "motion_speed": 12.6778369472148,
+                "zodiac": 11,
+                "house": 3,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 204.13905725015795,
+                "cusp_degree": 24.139057250157947,
+                "motion_speed": -0.08217872361465804,
+                "zodiac": 7,
+                "house": 11,
+                "motion": "R"
+            },
+            "Mars": {
+                "degree": 102.07843561396346,
+                "cusp_degree": 12.078435613963464,
+                "motion_speed": 0.5371608183359732,
+                "zodiac": 4,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 190.31152254115247,
+                "cusp_degree": 10.31152254115247,
+                "motion_speed": -0.807198122298636,
+                "zodiac": 7,
+                "house": 11,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 312.42478803042786,
+                "cusp_degree": 12.424788030427862,
+                "motion_speed": -0.04125732771734347,
+                "zodiac": 11,
+                "house": 3,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 201.21113839518054,
+                "cusp_degree": 21.21113839518054,
+                "motion_speed": -0.0582499168616512,
+                "zodiac": 7,
+                "house": 11,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 202.09522219910687,
+                "cusp_degree": 22.09522219910687,
+                "motion_speed": -0.052992026151569595,
+                "zodiac": 7,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 22.095222199106843,
+                "motion_speed": -0.052992026151569595,
+                "cusp_degree": 22.095222199106843,
+                "zodiac": 1,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 21.21113839518057,
+                "motion_speed": -0.0582499168616512,
+                "cusp_degree": 21.21113839518057,
+                "zodiac": 1,
+                "house": 5,
+                "motion": "R"
+            }
+        }
+    }
+}

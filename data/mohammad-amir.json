@@ -1,0 +1,115 @@
+{
+    "request": {
+        "name": "Mohammad Amir",
+        "title": "Sportsperson, Cricketer",
+        "year": 1991,
+        "month": 4,
+        "day": 13,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 33.25411,
+        "longitude": 73.30433,
+        "location": "Gujar Khan",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "advanced": "conviction, detained, match-fixing",
+        "about": "<p>Mohammad Amir (Punjabi: [mʊɦəˈməd aːmɪɾ] or [aːmə'ɾ]; born 13 April 1992) is a Pakistani cricketer who played for the Pakistan national cricket team from 2009 to 2024. He plays for Quetta Gladiators in the Pakistan Super League. He is a left-arm fast bowler and a left-handed batsman. He was a member of the Pakistan team that won the 2009 ICC World Twenty20 and 2017 ICC Champions Trophy.</p><p>Amir made his first-class debut in November 2008, and his first One-Day International and Test appearances in July 2009 in Sri Lanka at the age of 17. He played his first international match during the 2009 ICC World Twenty20 and later helped his national team win the tournament. Eight years later in England, he helped Pakistan win the 2017 ICC Champions Trophy, and was a major contributor with the ball in the final, getting the major wickets of Rohit Sharma, Virat Kohli, and Shikhar Dhawan.</p><p>On 29 August 2010, he was arrested for spot-fixing and was given a five-year ban for bowling two deliberate no-balls. Amir pleaded guilty on the verdict handed out by his prosecutor in the International Cricket Council, and publicly asked for forgiveness. In November 2011, Amir was convicted at Southwark Crown Court, along with Salman Butt and Mohammad Asif, of conspiracy charges relating to spot-fixing and spent three months in prison. His ban was considered lenient, due to his juvenile age and confession, as compared to the other two conspirators who were given seven and 10 years' suspensions, effectively ending their careers.</p><p>On 29 January 2015, it was announced that Amir would be allowed an early return to domestic cricket despite his original ban being due to expire on 2 September 2015. Mohammad Amir signed with Chittagong Vikings to play in the 2015 Bangladesh Premier League. He returned to play for Pakistan on their tour of New Zealand in 2016.</p><p>In August 2018, he was one of the 33 players to be awarded a central contract for the 2018–19 season by the Pakistan Cricket Board (PCB). On 26 July 2019, he announced his retirement from Test cricket in order to focus on limited overs cricket. On 17 December 2020, he announced his retirement from international cricket. But on 24 March 2024, he withdrew his retirement from international cricket for 2024 ICC Men's T20 World Cup. Months later he once again announced his retirement from international cricket in December 2024.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 97.10722708833362,
+            "ascendant": 4
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 100.1058882583351,
+                "cusp_degree": 10.1058882583351,
+                "motion_speed": 0.04270058572566902,
+                "zodiac": 4,
+                "house": 1,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 359.1196340328546,
+                "cusp_degree": 29.119634032854606,
+                "motion_speed": 0.9806633273848097,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 339.22559918333604,
+                "cusp_degree": 9.225599183336044,
+                "motion_speed": 13.750152877847801,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 36.59615289455346,
+                "cusp_degree": 6.596152894553462,
+                "motion_speed": 1.176678364840498,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 71.76641575990902,
+                "cusp_degree": 11.766415759909023,
+                "motion_speed": 0.5441556056149649,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 1.7907339049280981,
+                "cusp_degree": 1.7907339049280981,
+                "motion_speed": -0.7002967288325149,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 282.1795424599117,
+                "cusp_degree": 12.179542459911715,
+                "motion_speed": 0.05340023419883041,
+                "zodiac": 10,
+                "house": 7,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 269.93549804814137,
+                "cusp_degree": 29.93549804814137,
+                "motion_speed": -0.18575340669670976,
+                "zodiac": 9,
+                "house": 6,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 269.9780004630948,
+                "cusp_degree": 29.978000463094816,
+                "motion_speed": -0.05299203773962195,
+                "zodiac": 9,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 89.97800046309482,
+                "motion_speed": -0.05299203773962195,
+                "cusp_degree": 29.978000463094816,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 89.93549804814137,
+                "motion_speed": -0.18575340669670976,
+                "cusp_degree": 29.93549804814137,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "R"
+            }
+        }
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "request": {
+        "name": "Donald Bradman",
+        "title": "Sportsperson, Cricket",
+        "year": 1908,
+        "month": 8,
+        "day": 27,
+        "hour": 12,
+        "minute": 30,
+        "second": 0,
+        "latitude": -34.64095,
+        "longitude": 148.02838,
+        "location": "Cootamundra",
+        "gender": "male",
+        "agyat_rating": "AA",
+        "dod":"25/02/2001",
+        "advanced": "fame, legend",
+        "about": "<p>Sir Donald George Bradman AC (27 August 1908 – 25 February 2001), nicknamed \"The Don\", was an Australian international cricketer, widely acknowledged as the greatest batsman of all time. His cricketing successes have been claimed by Shane Warne, among others, to make Bradman the \"greatest sportsperson\" in history. Bradman's career Test batting average of 99.94 is considered by some to be the greatest achievement by any sportsman in any major sport.</p><p>The story that the young Bradman practised alone with a cricket stump and a golf ball is part of Australian folklore. His meteoric rise from bush cricket to the Australian Test team took just over two years. Before his 22nd birthday, he had set many records for top-scoring, some of which still stand, and became Australia's sporting idol at the height of the Great Depression. This hero status grew and continued through the Second World War.</p><p>During a 20-year playing career, Bradman consistently scored at a level that made him, in the words of former Australia captain Bill Woodfull, \"worth three batsmen to Australia\". A controversial set of tactics, known as Bodyline, was specially devised by the England team to curb his scoring. As a captain and administrator, Bradman was committed to attacking, entertaining cricket; he drew spectators in record numbers. He hated the constant adulation, however, and it affected how he dealt with others. The focus of attention on Bradman's individual performances strained relationships with some teammates, administrators and journalists, who thought him aloof and wary. Following an enforced hiatus due to the Second World War, he made a dramatic comeback, captaining an Australian team known as \"The Invincibles\" on a record-breaking unbeaten tour of England.</p><p>A complex and highly driven man, not given to close personal relationships, Bradman retained a pre-eminent position in the game by acting as an administrator, selector and writer for three decades following his retirement. Even after he became reclusive in his declining years, Bradman's opinion was highly sought, and his status as a national icon was still recognised. Almost fifty years after his retirement as a Test player, in 1997, Prime Minister John Howard called him the \"greatest living Australian\". Bradman's image has appeared on postage stamps and coins, and a museum dedicated to his life was opened while he was still living. On the centenary of his birth, 27 August 2008, the Royal Australian Mint issued a $5 commemorative gold coin with Bradman's image. In 2009, he was inducted posthumously as an inaugural member into the ICC Cricket Hall of Fame.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 245.4824505414145,
+            "ascendant": 9
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 123.91262845001316,
+                "cusp_degree": 3.912628450013159,
+                "motion_speed": 0.21764692965536908,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 130.82444605560107,
+                "cusp_degree": 10.824446055601072,
+                "motion_speed": 0.9661925999330799,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 132.4251336407335,
+                "cusp_degree": 12.425133640733492,
+                "motion_speed": 11.864443502030097,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 86.47684052073406,
+                "cusp_degree": 26.476840520734058,
+                "motion_speed": 0.7747550327351971,
+                "zodiac": 3,
+                "house": 7,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 129.2203447759245,
+                "cusp_degree": 9.220344775924502,
+                "motion_speed": 0.6365182457550561,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 137.0915935230618,
+                "cusp_degree": 17.09159352306179,
+                "motion_speed": 1.8661784497294924,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 346.57332607589103,
+                "cusp_degree": 16.573326075891032,
+                "motion_speed": -0.055429220596591174,
+                "zodiac": 12,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 70.82567340135589,
+                "cusp_degree": 10.825673401355886,
+                "motion_speed": -0.18247022138723756,
+                "zodiac": 3,
+                "house": 7,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 69.23535449820623,
+                "cusp_degree": 9.235354498206235,
+                "motion_speed": -0.05299215887446016,
+                "zodiac": 3,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 249.23535449820622,
+                "motion_speed": -0.05299215887446016,
+                "cusp_degree": 9.23535449820622,
+                "zodiac": 9,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 250.82567340135589,
+                "motion_speed": -0.18247022138723756,
+                "cusp_degree": 10.825673401355886,
+                "zodiac": 9,
+                "house": 1,
+                "motion": "R"
+            }
+        }
+    }
+}

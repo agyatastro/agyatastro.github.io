@@ -1,0 +1,114 @@
+{
+    "request": {
+        "name": "Viv Richards",
+        "title": "Sportsperson, Cricket",
+        "year": 1952,
+        "month": 3,
+        "day": 7,
+        "hour": 2,
+        "minute": 25,
+        "second": 0,
+        "latitude": 17.1,
+        "longitude": 61.85,
+        "location": "St. Johns, Antigua Barbuda",
+        "gender": "male",
+        "agyat_rating": "AA",
+        "about": "<p>Sir Isaac Vivian Alexander Richards KNH KCN OBE OOC (born 7 March 1952) is a retired Antiguan cricketer who represented the West Indies cricket team between 1974 and 1991. Usually batting at number three in a dominant West Indies team, Richards is widely regarded as one of the greatest batters of all time. Richards was part of the squads that won the 1975 Cricket World Cup and 1979 Cricket World Cup and finished as runners-up in the 1983 Cricket World Cup.</p><p>Richards made his Test debut in 1974 against India along with Gordon Greenidge. His best years were between 1976 and 1983, during which time he averaged a remarkable 66.51 with the bat in Test cricket. In 1984 he suffered from pterygium and had eye surgery which affected his eyesight and reflexes. Despite this, he remained one of the best batters in the world for the remaining four years of his career, though his average in the second half of his career was significantly lower than for the first. Richards scored 8,540 runs in 121 Test matches at an average of 50.23 and retired as the West Indies' leading run-scorer, overhauling the aggregate of Garfield Sobers. He also scored 1,281 runs at an average of over 55 in World Series Cricket, which is sometimes regarded as the highest and most difficult level of cricket ever played. As a captain, he won 27 of 50 Test matches and lost only 8. He also scored nearly 7,000 runs in One Day Internationals and more than 36,000 in first-class cricket.</p><p>He was knighted for his contributions to cricket in 1999. In 2000 he was voted one of Wisden's five Cricketers of the Century by a 100-member panel of experts, and in 2002 the almanack judged that he had played the best One Day International innings of all time. In December 2002, he was chosen by Wisden as the greatest One Day International batsman who had played to that date and as the third-greatest Test cricket batter. In 2009, Richards was inducted into the ICC Cricket Hall of Fame.</p><p>In October 2013, Wisden selected the best test team in 150 years of test history and included Richards at No. 5. He is one of only two batsman of the post-war era (the other being Sachin Tendulkar) to feature in that team</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 260.8911778581995,
+            "ascendant": 9
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 354.2845292723017,
+                "cusp_degree": 24.28452927230171,
+                "motion_speed": 0.22401164455003716,
+                "zodiac": 12,
+                "house": 4,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 323.11343885952505,
+                "cusp_degree": 23.113438859525047,
+                "motion_speed": 1.0002563653340577,
+                "zodiac": 11,
+                "house": 3,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 89.88245725711315,
+                "cusp_degree": 29.882457257113145,
+                "motion_speed": 11.803116882747704,
+                "zodiac": 3,
+                "house": 7,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 294.9219782510425,
+                "cusp_degree": 24.921978251042503,
+                "motion_speed": 1.2298163790899148,
+                "zodiac": 10,
+                "house": 2,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 203.34576708623618,
+                "cusp_degree": 23.34576708623618,
+                "motion_speed": 0.19802119703170223,
+                "zodiac": 7,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 335.3692035676318,
+                "cusp_degree": 5.369203567631814,
+                "motion_speed": 1.854282270943979,
+                "zodiac": 12,
+                "house": 4,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 170.30907605330123,
+                "cusp_degree": 20.309076053301226,
+                "motion_speed": -0.06451138342790767,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 307.3548850603347,
+                "cusp_degree": 7.354885060334709,
+                "motion_speed": 0.024917650873159215,
+                "zodiac": 11,
+                "house": 3,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 306.7762864676334,
+                "cusp_degree": 6.776286467633383,
+                "motion_speed": -0.05299205072264046,
+                "zodiac": 11,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 126.77628646763338,
+                "motion_speed": -0.05299205072264046,
+                "cusp_degree": 6.776286467633383,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 127.35488506033471,
+                "motion_speed": 0.024917650873159215,
+                "cusp_degree": 7.354885060334709,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "R"
+            }
+        }
+    }
+}

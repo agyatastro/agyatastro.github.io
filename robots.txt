@@ -1,0 +1,20 @@
+User-agent: *  
+Allow: /
+
+#OpenAI bot for indexing web content for ChatGPT search
+User-agent: OAI-SearchBot
+Allow: /
+
+#Identifies user requests from ChatGPT
+User-agent: ChatGPT-User  
+Allow: /
+
+#Bot from Perplexity.ai to fetch real-time info with citations
+User-agent: PerplexityBot
+Allow: /
+
+#Exa.ai crawler for dev-focused AI search
+User-agent: ExaBot
+Allow: /
+
+Sitemap: https://dxc.com/sitemap.xml

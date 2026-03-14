@@ -1,0 +1,114 @@
+{
+    "request": {
+        "name": "D Gukesh",
+        "title": "SportsPerson, Chess",
+        "year": 2006,
+        "month": 5,
+        "day": 29,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 13.08784,
+        "longitude": 80.27847,
+        "location": "Chennai",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "about": "<p>Gukesh Dommaraju (born 29 May 2006) is an Indian chess grandmaster and the reigning World Chess Champion. A chess prodigy, Gukesh is the youngest undisputed world champion, the youngest player to have surpassed a FIDE rating of 2750, doing so at the age of 17, and the third-youngest to have surpassed 2700 Elo at the age of 16. He earned the title of grandmaster at the age of 12 and is the third-youngest grandmaster in chess history.</p><p>Gukesh started playing chess at the age of 7. He won the under-12 title at the World Youth Chess Championship in 2018, and multiple gold medals at the 2018 Asian Youth Chess Championship. He became an International Master in March 2017. On 15 January 2019, at the age of 12 years, 7 months, and 17 days, he became the second-youngest grandmaster in the history of the game, after Sergey Karjakin. He was part of the Indian team that won the silver medal at the 2022 Asian Games in the men's team competition.</p><p>Gukesh won the team bronze and the individual gold medal at the 44th Chess Olympiad in 2022. In the September 2023 rating list, Gukesh became the top-rated Indian player, ending Viswanathan Anand's 37-year record. In the 45th Chess Olympiad in 2024, he won both team and individual gold medals. In 2024, he became the youngest winner of the Candidates Tournament and successfully challenged Ding Liren in the World Chess Championship, becoming the 18th and youngest undisputed world champion, at the age of 18 years and 195 days.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 130.92045639179617,
+            "ascendant": 5
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 197.1100064805301,
+                "cusp_degree": 17.110006480530103,
+                "motion_speed": -0.10263790762580059,
+                "zodiac": 7,
+                "house": 3,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 43.82183985460293,
+                "cusp_degree": 13.821839854602928,
+                "motion_speed": 0.9596905448349802,
+                "zodiac": 2,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 69.3157043834634,
+                "cusp_degree": 9.315704383463398,
+                "motion_speed": 13.095249730439017,
+                "zodiac": 3,
+                "house": 11,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 5.754107088269391,
+                "cusp_degree": 5.754107088269391,
+                "motion_speed": 1.165477364221475,
+                "zodiac": 1,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 92.73823607651728,
+                "cusp_degree": 2.738236076517282,
+                "motion_speed": 0.6007671227954369,
+                "zodiac": 4,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 56.10744377283411,
+                "cusp_degree": 26.10744377283411,
+                "motion_speed": 2.013950693076606,
+                "zodiac": 2,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 102.88463640049402,
+                "cusp_degree": 12.884636400494017,
+                "motion_speed": 0.08568724769575961,
+                "zodiac": 4,
+                "house": 12,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 338.0603428207709,
+                "cusp_degree": 8.060342820770927,
+                "motion_speed": -0.17670148977002173,
+                "zodiac": 12,
+                "house": 8,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 337.1982284278786,
+                "cusp_degree": 7.1982284278785755,
+                "motion_speed": -0.05299201490402721,
+                "zodiac": 12,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 157.19822842787858,
+                "motion_speed": -0.05299201490402721,
+                "cusp_degree": 7.1982284278785755,
+                "zodiac": 6,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 158.06034282077098,
+                "motion_speed": -0.17670148977002173,
+                "cusp_degree": 8.060342820770984,
+                "zodiac": 6,
+                "house": 2,
+                "motion": "R"
+            }
+        }
+    }
+}

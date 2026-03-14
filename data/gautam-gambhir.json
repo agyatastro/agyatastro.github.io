@@ -1,0 +1,114 @@
+{
+    "request": {
+        "name": "Gautam Gambhir",
+        "title": "SportsPerson, Cricket",
+        "year": 1981,
+        "month": 10,
+        "day": 14,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 28.65195,
+        "longitude": 77.23149,
+        "location": "Delhi",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "about": "<p>Gautam Gambhir (born 14 October 1981) is a former international cricketer, former politician, and philanthropist who is the current head coach of the Indian cricket team. He played for India in all formats of the game between 2003 and 2016 and was regarded as one of the finest opener of his time. He was a member of the 17th Lok Sabha from 2019 to 2024 representing East Delhi constituency from the Bharatiya Janata Party. He is regarded as one of the greatest white-ball coach to have coached a national side. He received the Padma Shri from the Government of India in 2019, the fourth highest civilian award in India.</p><p>As a cricketer, Gambhir was a left-handed opening batsman who played domestic cricket for Delhi, and captained Kolkata Knight Riders and Delhi Daredevils in the Indian Premier League (IPL). He made his One Day International (ODI) debut against Bangladesh in 2003, and played his first Test the following year against Australia. He captained the Indian team in six ODIs from late 2010 to late 2011 with India winning all six matches. He played an integral part in India's wins in the finals of both the 2007 World Twenty20 (75 runs from 54 balls) and the 2011 Cricket World Cup (97 from 122). Gambhir captained Kolkata Knight Riders to win IPL titles in 2012 and 2014, and later mentored them to the feat in 2024.</p><p>Gambhir was the only Indian and one of four international cricketers to have scored hundreds in five consecutive Test matches. He is the only Indian batsman to have scored more than 300 runs in four consecutive Test series. As of July 2024, he is the twelfth highest run-scorer for India in Twenty20 Internationals. He was conferred the Arjuna Award, India's second highest sporting award, in the year 2008 by the President of India. In 2009, he was the number one ranked batsman in ICC Test rankings. The same year, he was the recipient of the ICC Test Player of the Year award.</p><p>In December 2018, he announced his retirement from all forms of cricket. In 2019, he joined the Bharatiya Janata Party and was elected to the Lok Sabha from East Delhi. He served as the mentor of Lucknow Super Giants in the IPL for the 2022 and 2023 seasons, and was appointed as the mentor of Kolkata Knight Riders ahead of the 2024 season. In July 2024, he was appointed as the head coach of India for three years till 2027 ODI cricket World Cup. In his first major tournament as head coach, Gambhir led India to victory in the 2026 ICC Men's T20 World Cup and 2025 ICC Champions Trophy. He subsequently guided India to the 2025 Asia Cup, where they defeated Pakistan in the final to claim the title. His tenure has been marked by the adoption of a more aggressive approach in limited-overs cricket, and has drawn both praise and criticism from analysts and former players</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 249.86753045611093,
+            "ascendant": 9
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 177.1696736492437,
+                "cusp_degree": 27.16967364924369,
+                "motion_speed": 0.2170257278138359,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 177.22603294356483,
+                "cusp_degree": 27.22603294356483,
+                "motion_speed": 0.9904216246637714,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 7.524915563635391,
+                "cusp_degree": 7.524915563635391,
+                "motion_speed": 15.014524619826501,
+                "zodiac": 1,
+                "house": 5,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 222.31997683097092,
+                "cusp_degree": 12.319976830970916,
+                "motion_speed": 1.1168521855368057,
+                "zodiac": 8,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 122.38889563908768,
+                "cusp_degree": 2.3888956390876785,
+                "motion_speed": 0.5933520421789839,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 186.21853668084302,
+                "cusp_degree": 6.218536680843016,
+                "motion_speed": -1.0169728713730288,
+                "zodiac": 7,
+                "house": 11,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 170.22785283326616,
+                "cusp_degree": 20.227852833266155,
+                "motion_speed": 0.1222096782006388,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 94.1809270831578,
+                "cusp_degree": 4.180927083157798,
+                "motion_speed": -0.18990740120868008,
+                "zodiac": 4,
+                "house": 8,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 93.75545097269755,
+                "cusp_degree": 3.7554509726975454,
+                "motion_speed": -0.0529920055637924,
+                "zodiac": 4,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 273.75545097269753,
+                "motion_speed": -0.0529920055637924,
+                "cusp_degree": 3.755450972697531,
+                "zodiac": 10,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 274.1809270831578,
+                "motion_speed": -0.18990740120868008,
+                "cusp_degree": 4.180927083157826,
+                "zodiac": 10,
+                "house": 2,
+                "motion": "R"
+            }
+        }
+    }
+}

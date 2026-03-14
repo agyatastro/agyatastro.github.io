@@ -1,0 +1,115 @@
+{
+    "request": {
+        "name": "P. V. Sindhu",
+        "title": "SportsPerson, Badminton",
+        "year": 1995,
+        "month": 7,
+        "day": 5,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 17.38405,
+        "longitude": 78.45636,
+        "location": "Hyderabad",
+        "gender": "female",
+        "agyat_rating": "AX",
+        "advanced": "marriage, divorced, Khel Ratna Award, Arjuna Award, Padma Bhushan, Padma Shri",
+        "about": "<p>Pusarla Venkata Sindhu (born 5 July 1995) is an Indian badminton player. Considered as one of India's most successful athletes, Sindhu has won medals at tournaments such as the Olympic Games, the World Championships, and on the World Tour. She is the first and only Indian to become the badminton world champion and only the second individual from India to win two consecutive medals at the Olympic Games. She rose to a career-high world ranking of No. 2 in April 2017.</p><p>Sindhu broke into the top 20 of the BWF World Rankings in September 2012, at the age of 17. She has won a total of five medals at the BWF World Championships and is only the second woman after China's Zhang Ning ever to win five or more singles medals in the competition. She represented India at the 2016 Rio Olympics, where she became the first Indian badminton player to reach the Olympic final. She won the silver medal after losing out to Spain's Carolina Marín. She made her second consecutive Olympic appearance at the 2020 Tokyo Olympics and won a bronze medal, becoming the first-ever Indian woman to win two Olympic medals.</p><p>Sindhu won her first superseries title at the 2016 China Open and followed it up with four more finals in 2017, winning the titles in South Korea and India. She also won the 2018 BWF World Tour Finals and remains the only Indian player to win a season finale title. She is also the reigning Commonwealth Games champion and has won three consecutive singles medals at the Commonwealth Games, a silver medal at the Asian Games, and two bronze medals at the Uber Cup.</p><p>With earnings of US$8.5 million (2018), $5.5 million (2019), $7.2 million (2021), and $7.1 million (2022–24), Sindhu made the Forbes' list of Highest-Paid Female Athletes in 2018, 2019, 2021, 2022, 2023 and 2024. She is a recipient of the sports honours Khel Ratna Award and Arjuna Award, India's highest and second-highest sports awards, as well as the Padma Bhushan and Padma Shri, India's third-highest and fourth-highest civilian awards.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 164.59004934345384,
+            "ascendant": 6
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 222.93923567183185,
+                "cusp_degree": 12.939235671831852,
+                "motion_speed": -0.08198479584316684,
+                "zodiac": 8,
+                "house": 3,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 78.99858507648314,
+                "cusp_degree": 18.99858507648314,
+                "motion_speed": 0.9533215229318593,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 162.01944173278312,
+                "cusp_degree": 12.019441732783122,
+                "motion_speed": 13.243547020677669,
+                "zodiac": 6,
+                "house": 1,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 66.19648607671293,
+                "cusp_degree": 6.1964860767129295,
+                "motion_speed": 1.2228753730125068,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 146.94136289174975,
+                "cusp_degree": 26.941362891749748,
+                "motion_speed": 0.559629680730169,
+                "zodiac": 5,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 58.15013397350354,
+                "cusp_degree": 28.150133973503543,
+                "motion_speed": 1.3092488989395166,
+                "zodiac": 2,
+                "house": 9,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 330.9541261680122,
+                "cusp_degree": 0.9541261680121806,
+                "motion_speed": 0.0017329675105049308,
+                "zodiac": 12,
+                "house": 7,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 188.94884795677055,
+                "cusp_degree": 8.94884795677055,
+                "motion_speed": -0.010737483501222896,
+                "zodiac": 7,
+                "house": 2,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 188.15942531420967,
+                "cusp_degree": 8.15942531420967,
+                "motion_speed": -0.052992025451034444,
+                "zodiac": 7,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 8.15942531420967,
+                "motion_speed": -0.052992025451034444,
+                "cusp_degree": 8.15942531420967,
+                "zodiac": 1,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 8.948847956770578,
+                "motion_speed": -0.010737483501222896,
+                "cusp_degree": 8.948847956770578,
+                "zodiac": 1,
+                "house": 8,
+                "motion": "R"
+            }
+        }
+    }
+}

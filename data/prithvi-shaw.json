@@ -1,0 +1,114 @@
+{
+    "request": {
+        "name": "Prithvi Shaw",
+        "title": "SportsPerson, Cricket",
+        "year": 1997,
+        "month": 11,
+        "day": 9,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 19.45591,
+        "longitude": 72.81136,
+        "location": "Virar",
+        "gender": "male",
+        "agyat_rating": "CX",
+        "about": "<p>Prithvi Pankaj Shaw (Hindi: [ˈpɾɪt̪ʋiː ʃɔː]; born 9 November 1999) is an Indian cricketer who has played for the Indian cricket team in all formats. He represents Maharashtra in domestic cricket and Delhi Capitals in the Indian Premier League. Shaw captained the Indian team that won the 2018 U19 Cricket World Cup.</p><p>A right-handed opening batter, Shaw made his first international appearance aged 18 on 4 October 2018 and became the second-youngest Indian after Sachin Tendulkar to make a Test century and the youngest Indian to do so on Test debut.</p><p>Shaw made his first-class debut for Mumbai in the semi-finals of the 2016–17 Ranji Trophy on 1 January 2017. He scored a century in the second innings and was man of the match. Shaw earned another distinction by scoring a century in his debut Duleep Trophy and equalled the record held by Sachin Tendulkar, who had scored a century in each in his debut matches in the Ranji Trophy and Duleep Trophy.</p><p>The International Cricket Council named Shaw as one of the five breakout stars in men's cricket in 2018. In July 2019, he was suspended by Board of Control for Cricket in India for a doping violation, the suspension lasting until November of the same year.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 275.2918540389303,
+            "ascendant": 10
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 289.9255911195813,
+                "cusp_degree": 19.925591119581327,
+                "motion_speed": 0.10064771231253813,
+                "zodiac": 10,
+                "house": 1,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 203.0683939912119,
+                "cusp_degree": 23.068393991211906,
+                "motion_speed": 1.0043845607041886,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 310.85807066348445,
+                "cusp_degree": 10.858070663484455,
+                "motion_speed": 14.193936556798608,
+                "zodiac": 11,
+                "house": 2,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 250.06012084377187,
+                "cusp_degree": 10.06012084377187,
+                "motion_speed": 0.98210257399362,
+                "zodiac": 9,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 246.2046795543312,
+                "cusp_degree": 6.204679554331193,
+                "motion_speed": 0.7515649555504998,
+                "zodiac": 9,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 218.44286705092784,
+                "cusp_degree": 8.442867050927845,
+                "motion_speed": 1.472738546180948,
+                "zodiac": 8,
+                "house": 11,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 350.89781083181,
+                "cusp_degree": 20.897810831809977,
+                "motion_speed": -0.06007018347009741,
+                "zodiac": 12,
+                "house": 3,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 144.12976384694215,
+                "cusp_degree": 24.129763846942154,
+                "motion_speed": 0.01272603145214414,
+                "zodiac": 5,
+                "house": 8,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 142.69227505664227,
+                "cusp_degree": 22.692275056642274,
+                "motion_speed": -0.05299202320271684,
+                "zodiac": 5,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 322.6922750566423,
+                "motion_speed": -0.05299202320271684,
+                "cusp_degree": 22.692275056642302,
+                "zodiac": 11,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 324.1297638469422,
+                "motion_speed": 0.01272603145214414,
+                "cusp_degree": 24.129763846942183,
+                "zodiac": 11,
+                "house": 2,
+                "motion": "R"
+            }
+        }
+    }
+}

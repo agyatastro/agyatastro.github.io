@@ -17,4 +17,4 @@ Allow: /
 User-agent: ExaBot
 Allow: /
 
-Sitemap: https://dxc.com/sitemap.xml
+Sitemap: https://agyat.one/sitemap.xml

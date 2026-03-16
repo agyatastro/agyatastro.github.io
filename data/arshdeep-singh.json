@@ -1,0 +1,114 @@
+{
+    "request": {
+        "name": "Arshdeep Singh",
+        "title": "Sportsperson, Cricket",
+        "year": 1998,
+        "month": 2,
+        "day": 5,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 24.64691,
+        "longitude": 77.3113,
+        "location": "Guna",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "about": "<p>Arshdeep Singh (born 1999) is an Indian professional cricketer who plays for the India national cricket team. In Indian domestic cricket, he plays for Punjab and for Punjab Kings in the Indian Premier League. Arshdeep is a left-arm medium-fast bowler. He was an integral member of the Indian team that won the 2024 and 2026 T20 World Cups, and was the joint-highest wicket taker in the former. Singh was also a member of the 2025 Champions Trophy and 2018 U19 World Cup winning squads.</p><p>Arshdeep made his international debut for the Indian team in July 2022 in a T20I match against England. He bowled a maiden over on debut, becoming just the third Indian bowler to do so on their T20I debut. Arshdeep is the first Indian bowler to take 100 wickets in T20 internationals</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 27.20260712165144,
+            "ascendant": 1
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 306.36488281084934,
+                "cusp_degree": 6.364882810849338,
+                "motion_speed": 0.23728204417041301,
+                "zodiac": 11,
+                "house": 11,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 292.419949921902,
+                "cusp_degree": 22.419949921902003,
+                "motion_speed": 1.01367931913236,
+                "zodiac": 10,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 39.21418887239799,
+                "cusp_degree": 9.21418887239799,
+                "motion_speed": 13.597250077860922,
+                "zodiac": 2,
+                "house": 2,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 264.64590758420144,
+                "cusp_degree": 24.64590758420144,
+                "motion_speed": -0.025205419084798703,
+                "zodiac": 9,
+                "house": 9,
+                "motion": "R"
+            },
+            "Mars": {
+                "degree": 314.74337490228794,
+                "cusp_degree": 14.74337490228794,
+                "motion_speed": 0.7868132537848406,
+                "zodiac": 11,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 280.3494556488026,
+                "cusp_degree": 10.349455648802575,
+                "motion_speed": 1.601018381428421,
+                "zodiac": 10,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 351.95687463607794,
+                "cusp_degree": 21.95687463607794,
+                "motion_speed": 0.08371764663221941,
+                "zodiac": 12,
+                "house": 12,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 136.9660306981145,
+                "cusp_degree": 16.96603069811451,
+                "motion_speed": -0.026613272535091614,
+                "zodiac": 5,
+                "house": 5,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 138.02897773152137,
+                "cusp_degree": 18.028977731521366,
+                "motion_speed": -0.05299202193049498,
+                "zodiac": 5,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 318.02897773152137,
+                "motion_speed": -0.05299202193049498,
+                "cusp_degree": 18.028977731521366,
+                "zodiac": 11,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 316.96603069811454,
+                "motion_speed": -0.026613272535091614,
+                "cusp_degree": 16.966030698114537,
+                "zodiac": 11,
+                "house": 11,
+                "motion": "R"
+            }
+        }
+    }
+}

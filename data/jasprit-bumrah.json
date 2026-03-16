@@ -1,0 +1,114 @@
+{
+    "request": {
+        "name": "Jasprit Bumrah",
+        "title": "Sportsperson, Cricket",
+        "year": 1993,
+        "month": 12,
+        "day": 6,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 23.02579,
+        "longitude": 72.58727,
+        "location": "Ahmedabad",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "about": "<p>Jasprit Jasbirsingh Bumrah (Punjabi: [dʒəsˈpɾiːt̪ bʊmˈɾaː]; born 6 December 1993) is an Indian cricketer who plays for the Indian national team in all three formats of the game and has captained India in Tests and T20Is. Bumrah became the first bowler to reach the No. 1 position in the ICC Men's Player Rankings across all three formats and the first Indian bowler to take 100 wickets in Tests, One Day Internationals, and Twenty20 Internationals. He represents Gujarat in domestic cricket and the Mumbai Indians in the Indian Premier League (IPL). Among Indian fast bowlers, he was the fastest to 200 Test wickets and the second fastest to 100 ODI wickets. He was a crucial member of the Indian team that won the 2024 T20 World Cup, where he was named the Player of the Tournament for taking 15 wickets with an average economy of 4.17. Bumrah made his domestic debut in the 2012–13 Syed Mushtaq Ali Trophy and also helped his team clinch its maiden title victory. His first-class debut came against Vidarbha, during the 2013–14 season of the Ranji Trophy. Bumrah was signed by the Mumbai Indians for the 2013 season of IPL. Since then, he has played for MI, contributing to the team's title wins five times. He is the second highest wicket-taker for MI after Lasith Malinga, with 181 wickets in 142 matches. Bumrah made his international debut in January 2016 during India's tour of Australia, where he emerged as the highest wicket-taker of the T20 series. In 2016, he was the highest wicket-taker in a calendar year in T20I cricket, with 28 wickets. He made his Test debut in 2018 against South Africa. Since December 2023, he has served as the vice-captain of the Indian team in Test cricket and has also captained the team thrice in the absence of regular skipper Rohit Sharma. He was named in the ICC Men's Test Team of the Year in 2018 and 2024, in the ICC Men's ODI Team of the Year in 2017 and 2018, and in the ICC Men's T20I Team of the Year in 2024. Additionally, he was named in the ICC Men's T20I Team of the Decade for 2011–2020. Bumrah was awarded the Polly Umrigar Award by the BCCI thrice, in 2018–19, 2021–22 and 2023–24. He was also named in the Wisden Cricketers of the Year in 2022. Notably, Bumrah achieved a milestone in 2024 by surpassing Ravichandran Ashwin's highest ICC Test bowling rating for an Indian bowler. Bumrah concluded the year as the leading wicket-taker in Test cricket, with 71 wickets, and reached a career-high rating of 908 points, placing him joint-16th on the all-time list. His performances, including a nine-wicket haul in the Melbourne Test in December 2024, secured his position as the top-ranked bowler in the ICC Men's Test Rankings, and led to him being awarded the Sir Garfield Sobers Trophy and the ICC Men's Test Cricketer of the Year in the 2024 ICC Awards.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 303.8682883226413,
+            "ascendant": 11
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 191.49804917864677,
+                "cusp_degree": 11.498049178646767,
+                "motion_speed": 0.19175074961609506,
+                "zodiac": 7,
+                "house": 9,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 230.3755654789742,
+                "cusp_degree": 20.37556547897421,
+                "motion_speed": 1.0151026222949713,
+                "zodiac": 8,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 135.35258881021883,
+                "cusp_degree": 15.352588810218833,
+                "motion_speed": 13.939329757642799,
+                "zodiac": 5,
+                "house": 7,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 220.34266590907862,
+                "cusp_degree": 10.342665909078619,
+                "motion_speed": 1.257553677433941,
+                "zodiac": 8,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 235.9456239801548,
+                "cusp_degree": 25.945623980154807,
+                "motion_speed": 0.7414213928682769,
+                "zodiac": 8,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 215.06982791398332,
+                "cusp_degree": 5.069827913983318,
+                "motion_speed": 1.4892948651849185,
+                "zodiac": 8,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 301.1464030807111,
+                "cusp_degree": 1.1464030807110817,
+                "motion_speed": 0.06392556309528123,
+                "zodiac": 11,
+                "house": 1,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 219.19481479030944,
+                "cusp_degree": 9.194814790309437,
+                "motion_speed": -0.0037346851932504063,
+                "zodiac": 8,
+                "house": 10,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 218.68282820845684,
+                "cusp_degree": 8.68282820845684,
+                "motion_speed": -0.052992026840195675,
+                "zodiac": 8,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 38.68282820845684,
+                "motion_speed": -0.052992026840195675,
+                "cusp_degree": 8.68282820845684,
+                "zodiac": 2,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 39.194814790309465,
+                "motion_speed": -0.0037346851932504063,
+                "cusp_degree": 9.194814790309465,
+                "zodiac": 2,
+                "house": 4,
+                "motion": "R"
+            }
+        }
+    }
+}

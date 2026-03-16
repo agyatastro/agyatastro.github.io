@@ -1,0 +1,114 @@
+{
+    "request": {
+        "name": "Abhishek Sharma",
+        "title": "Sportsman, Cricket",
+        "year": 1996,
+        "month": 9,
+        "day": 4,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 31.62234,
+        "longitude": 74.87534,
+        "location": "Amritsar",
+        "gender": "male",
+        "agyat_rating": "CX",
+        "about": "Abhishek Sharma (born 4 September 2000) is an Indian international cricketer. He plays for the India national team, as a left-handed opening batter and occasional left-arm orthodox spinner. He represents Punjab in domestic cricket and Sunrisers Hyderabad in the Indian Premier League. Sharma became the number one ranked men's T20I batter in 2025, achieving the highest-ever men's rating points in the format's history."
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 212.13617190072762,
+            "ascendant": 8
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 254.00899259719506,
+                "cusp_degree": 14.00899259719506,
+                "motion_speed": 0.0020685502056489793,
+                "zodiac": 9,
+                "house": 2,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 138.18986729419734,
+                "cusp_degree": 18.18986729419734,
+                "motion_speed": 0.9691167747280042,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 42.1688400284342,
+                "cusp_degree": 12.168840028434197,
+                "motion_speed": 12.532831740741251,
+                "zodiac": 2,
+                "house": 7,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 93.07767807178818,
+                "cusp_degree": 3.077678071788185,
+                "motion_speed": 1.050352930223332,
+                "zodiac": 4,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 92.6812052491293,
+                "cusp_degree": 2.681205249129306,
+                "motion_speed": 0.6333900279895887,
+                "zodiac": 4,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 159.67749931842934,
+                "cusp_degree": 9.67749931842934,
+                "motion_speed": -0.003065780958230036,
+                "zodiac": 6,
+                "house": 11,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 341.8338953308767,
+                "cusp_degree": 11.833895330876715,
+                "motion_speed": -0.06769166760071005,
+                "zodiac": 12,
+                "house": 5,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 164.50053005656454,
+                "cusp_degree": 14.500530056564543,
+                "motion_speed": 0.009047977200027717,
+                "zodiac": 6,
+                "house": 11,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 165.5318339223774,
+                "cusp_degree": 15.531833922377388,
+                "motion_speed": -0.0529920201255662,
+                "zodiac": 6,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 345.53183392237736,
+                "motion_speed": -0.0529920201255662,
+                "cusp_degree": 15.53183392237736,
+                "zodiac": 12,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 344.50053005656457,
+                "motion_speed": 0.009047977200027717,
+                "cusp_degree": 14.500530056564571,
+                "zodiac": 12,
+                "house": 5,
+                "motion": "R"
+            }
+        }
+    }
+}

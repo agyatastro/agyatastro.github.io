@@ -1,0 +1,114 @@
+{
+    "request": {
+        "name": "Shivam Dube",
+        "title": "Sportsperson, Cricket",
+        "year": 1992,
+        "month": 6,
+        "day": 25,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 19.07283,
+        "longitude": 72.88261,
+        "location": "Mumbai",
+        "gender": "male",
+        "agyat_rating": "CX",
+        "about": "Shivam Dube (born 25 June 1993) is an Indian international cricketer.[2] He plays for the India national team as an all-rounder, who bats left-handed and bowls right-arm medium fast. He represents Mumbai in domestic cricket and Chennai Super Kings in the Indian Premier League. Dube was a member of the Indian team that won the 2024 and 2026 Men's T20 World Cup"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 150.59023879399288,
+            "ascendant": 6
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 135.13431576860597,
+                "cusp_degree": 15.134315768605973,
+                "motion_speed": 0.14153284648082964,
+                "zodiac": 5,
+                "house": 12,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 70.18927746516732,
+                "cusp_degree": 10.189277465167322,
+                "motion_speed": 0.9538589329151677,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 2.507379107797616,
+                "cusp_degree": 2.507379107797616,
+                "motion_speed": 12.83179213362524,
+                "zodiac": 1,
+                "house": 8,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 73.36667336904081,
+                "cusp_degree": 13.36667336904081,
+                "motion_speed": 1.2288837155315675,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 14.011760218847103,
+                "cusp_degree": 14.011760218847103,
+                "motion_speed": 0.7265238951779408,
+                "zodiac": 1,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 93.50556318488842,
+                "cusp_degree": 3.505563184888416,
+                "motion_speed": 1.4486766765541101,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 294.1248476879644,
+                "cusp_degree": 24.124847687964404,
+                "motion_speed": -0.04256457171383902,
+                "zodiac": 10,
+                "house": 5,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 246.92158182511693,
+                "cusp_degree": 6.921581825116931,
+                "motion_speed": 0.004202102504575785,
+                "zodiac": 9,
+                "house": 4,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 246.71560703875838,
+                "cusp_degree": 6.715607038758378,
+                "motion_speed": -0.05299202010500053,
+                "zodiac": 9,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 66.71560703875838,
+                "motion_speed": -0.05299202010500053,
+                "cusp_degree": 6.715607038758378,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 66.92158182511696,
+                "motion_speed": 0.004202102504575785,
+                "cusp_degree": 6.921581825116959,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "R"
+            }
+        }
+    }
+}

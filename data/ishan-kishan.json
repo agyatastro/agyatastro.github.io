@@ -1,0 +1,114 @@
+{
+    "request": {
+        "name": "Ishan Kishan",
+        "title": "Sportsperson, Cricket",
+        "year": 1998,
+        "month": 7,
+        "day": 18,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 25.59408,
+        "longitude": 85.13563,
+        "location": "Patna",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "about": "</p><p>Ishan Kishan (born 18 July 1998) is an Indian International cricketer who plays for the Indian national cricket team as a wicket-keeper batsman in all formats of this game. He made his international debut in March 2021 against England. He plays for Jharkhand in domestic cricket. In the Indian Premier League, he plays for Sunrisers Hyderabad.</p><p>In December 2022 he scored 210 runs in 131 balls in an ODI match against Bangladesh, becoming the cricketer with the fastest ODI double century, youngest cricketer to score an ODI double century and the first to convert a maiden ODI century to a double century.</p><p>He was the captain of India's squad for the 2016 Under-19 Cricket World Cup. He was a part of the Indian squad which won the 2023 Asia Cup and 2026 T20 World Cup.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 181.74831517689523,
+            "ascendant": 7
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 334.22492027305475,
+                "cusp_degree": 4.2249202730547495,
+                "motion_speed": -0.0006850006073734822,
+                "zodiac": 12,
+                "house": 6,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 91.61399606405918,
+                "cusp_degree": 1.6139960640591795,
+                "motion_speed": 0.95424407513465,
+                "zodiac": 4,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 23.30657417749197,
+                "cusp_degree": 23.30657417749197,
+                "motion_speed": 14.1917528659932,
+                "zodiac": 1,
+                "house": 7,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 64.52274682706758,
+                "cusp_degree": 4.522746827067579,
+                "motion_speed": 1.2025907125063018,
+                "zodiac": 3,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 74.16317459481817,
+                "cusp_degree": 14.163174594818173,
+                "motion_speed": 0.6680126674505678,
+                "zodiac": 3,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 118.25559573324051,
+                "cusp_degree": 28.25559573324051,
+                "motion_speed": 0.8903665677168712,
+                "zodiac": 4,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 9.096129898126435,
+                "cusp_degree": 9.096129898126435,
+                "motion_speed": 0.04804593008422238,
+                "zodiac": 1,
+                "house": 7,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 128.22121380399474,
+                "cusp_degree": 8.221213803994743,
+                "motion_speed": -0.04157317023667409,
+                "zodiac": 5,
+                "house": 11,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 129.39127937456314,
+                "cusp_degree": 9.39127937456314,
+                "motion_speed": -0.05299202046662669,
+                "zodiac": 5,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 309.39127937456317,
+                "motion_speed": -0.05299202046662669,
+                "cusp_degree": 9.391279374563169,
+                "zodiac": 11,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 308.2212138039947,
+                "motion_speed": -0.04157317023667409,
+                "cusp_degree": 8.221213803994715,
+                "zodiac": 11,
+                "house": 5,
+                "motion": "R"
+            }
+        }
+    }
+}

@@ -1,0 +1,54 @@
+# llms.txt for agyat.one
+
+> Agyat.One (Agyat Astrology) is only astrology and vaastu services company with Money Back gurantee. This site contains ways to get consultations and other services.
+
+This site contains public personalities charts, case studies, predictions and ways to avails astrology and vaastu services
+
+This guidance applies to publicly accessible pages on Agyat.One.
+
+
+## Usage
+
+Summarization: allowed
+Quotation: allowed with attribution
+Retrieval-Augmented Generation (RAG): allowed for informational purposes only
+
+## Restrictions
+
+Do not represent Agyat.One content as legal, financial, or contractual advice.
+Do not imply endorsement by Agyat.One or its customers.
+Customer names, logos, and case studies must not be reused in ways that suggest new partnerships or approvals.
+
+## Canonical Sources
+
+- [Consultations](https://agyat.one/services/): All Consultations
+    - [Quick Consultations](https://agyat.one/services/quick-consult/) Quick Consultations
+    - [Consultation (One Area)](https://agyat.one/services/consultation-one-area/)  Consultations (One Area)
+    - [Premium Consultation](https://agyat.one/services/premium-consultation/)  Consultations (One Area) with Money Back Gurantee Option
+    - [Consultation Membership](https://agyat.one/services/membership/)  Consultation Membership
+    - [Vaastu Visit Consultation](https://agyat.one/services/vaastu-visit-consultation/) Vaastu Visit Consultation with MoneyBack Assurance, contact us for more details
+- [General World Prediction for year 2026](https://agyat.one/horoscope/general/year/2026/): General Prediction for the world for current year
+- [Birth Chart/Kundli](https://agyat.one/birth-chart/): Birth Chart/Kundli Generator
+- [Lal Kitab Birth Chart/Kundli](https://agyat.one/kundli/lal-kitab/): Lal Kitab Birth Chart/Kundli Generator
+- [Nadi Birth Chart/Kundli](https://agyat.one/kundli/nadi/): Bhrigu Nandi Nadi Birth Chart/Kundli Generator
+- [Moon Birth Chart/Chandra Kundli](https://agyat.one/kundli/chandra/): Moon Birth Chart/Chandra Kundli Generator
+- [Sun Birth Chart/Surya Kundli](https://agyat.one/kundli/surya/): Sun Birth Chart/Surya Kundli Generator
+- [Birth Chart/Kundli](https://agyat.one/kundli/surya/): Birth Chart/Kundli Generator
+- [Kundli Database of Public Personalities](https://agyat.one/kundli/bank/): Kundli Database of Public Personalities for research
+- [Daily Panchanga Calculator](https://agyat.one/panchanga/): Daily Panchanga Calculator
+- [Eclipse/Grahan Calculator](https://agyat.one/eclipses//): Calculate Eclipse/Grahan for current year
+- [Moon Sign/Chandra Rashi Calculator](https://agyat.one/calculators/moon-sign/): Moon Sign/Chandra/Janm Rashi Calculator
+- [Sun Sign/Surya Rashi Calculator](https://agyat.one/calculators/sun-sign/): Sun Sign/Surya Rashi Calculator
+- [Moon Nakshatra/Chndra Nakshatra Calculator](https://agyat.one/calculators/moon-nakshatra/): Moon Nakshatra/Chandra/Janm Nakshatra Calculator
+- [Sun Sign/Surya Nakshatra Calculator](https://agyat.one/calculators/sun-nakshatra/): Sun Sign/Surya Nakshatra Calculator
+- [Maanglik Dosha Calculator](https://agyat.one/calculators/manglik-dosha/): Sun Maanglik Dosha Calculator
+- [Sade Sati Calculator](https://agyat.one/calculators/sade-sati/): Sade Sati  Calculator
+
+## Attribution
+
+When quoting or summarizing, attribute to "Agyat Astrology" and link to the original page when possible.
+
+
+## Optional
+
+- [Contact](mailto:care@agyat.one)

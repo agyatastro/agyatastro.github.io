@@ -1,0 +1,114 @@
+{
+    "request": {
+        "name": "Nora Fatehi",
+        "title": "Actor, Dancer, Model",
+        "year": 1992,
+        "month": 2,
+        "day": 6,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 46.81228,
+        "longitude": -71.21454,
+        "location": "Quebec",
+        "gender": "female",
+        "agyat_rating": "AX",
+        "about": "<p>Nora Fatehi (born Naura Fathi; 6 February 1992) is a Canadian singer, dancer and actress based in India. She primarily works in Hindi film and also appeared in Telugu, and Malayalam cinema. Fatehi made her acting debut with the Hindi film Roar: Tigers of the Sundarbans. and gained wider recognition for her dance performances in Indian films. She is regarded as one of the prominent dancers in contemporary Indian cinema.</p><p>Fatehi gained popularity in Telugu films for her special appearance songs in films like Temper, Baahubali: The Beginning and Kick 2 and has also starred in two Malayalam films, Double Barrel and Kayamkulam Kochunni. In 2015, Fatehi participated as a contestant on the reality television show Bigg Boss. In 2016, she was a participant in the reality television dance show Jhalak Dikhhla Jaa. She appeared in the Bollywood film Satyameva Jayate where she was featured in the recreated version of the song \"Dilbar\" and the song crossed 20 million views on YouTube in the first 24 hours of its release, making it the first Hindi song to achieve such numbers in India. She also collaborated with the Moroccan hip-hop group Fnaïre to release an Arabic version of the Dilbar song.</p><p>In 2019, she collaborated with Tanzanian musician and songwriter Rayvanny to release her first international English debut song Pepeta. In October 2022, she was chosen to feature in Light The Sky, a song for the 2022 FIFA World Cup in Qatar, collaborating with artists, RedOne, Manal, Balqees and Rahma Riad. Fatehi has since played supporting parts in Hindi films Street Dancer 3D (2020) and Bhuj: The Pride of India (2021). She has also judged television shows Dance Deewane Juniors and Jhalak Dikhhla Jaa 10.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 53.89698450947901,
+            "ascendant": 2
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 138.6825010999878,
+                "cusp_degree": 18.682501099987803,
+                "motion_speed": -0.10828959775757302,
+                "zodiac": 5,
+                "house": 4,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 293.4121209804954,
+                "cusp_degree": 23.412120980495388,
+                "motion_speed": 1.0137264774834898,
+                "zodiac": 10,
+                "house": 9,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 325.426042441405,
+                "cusp_degree": 25.426042441405002,
+                "motion_speed": 12.162920621560316,
+                "zodiac": 11,
+                "house": 10,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 261.48616865354137,
+                "cusp_degree": 21.48616865354137,
+                "motion_speed": 1.230304457438321,
+                "zodiac": 9,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 267.4962727847111,
+                "cusp_degree": 27.496272784711095,
+                "motion_speed": 0.7593024586466224,
+                "zodiac": 9,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 289.2567122376303,
+                "cusp_degree": 19.256712237630325,
+                "motion_speed": 1.7106874752743495,
+                "zodiac": 10,
+                "house": 9,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 286.4173145906916,
+                "cusp_degree": 16.417314590691603,
+                "motion_speed": 0.11911180353576406,
+                "zodiac": 10,
+                "house": 9,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 255.4835403134147,
+                "cusp_degree": 15.483540313414693,
+                "motion_speed": -0.12285058184678165,
+                "zodiac": 9,
+                "house": 8,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 254.11130599394014,
+                "cusp_degree": 14.111305993940135,
+                "motion_speed": -0.05299201221127038,
+                "zodiac": 9,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 74.11130599394016,
+                "motion_speed": -0.05299201221127038,
+                "cusp_degree": 14.111305993940164,
+                "zodiac": 3,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 75.48354031341466,
+                "motion_speed": -0.12285058184678165,
+                "cusp_degree": 15.483540313414665,
+                "zodiac": 3,
+                "house": 2,
+                "motion": "R"
+            }
+        }
+    }
+}

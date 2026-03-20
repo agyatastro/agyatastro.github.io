@@ -1,0 +1,115 @@
+{
+    "request": {
+        "name": "Dinesh Karthik",
+        "title": "Sportsperson, Cricket",
+        "year": 1985,
+        "month": 6,
+        "day": 1,
+        "hour": 6,
+        "minute": 32,
+        "second": 0,
+        "latitude": 13.08784,
+        "longitude": 80.27847,
+        "location": "Chennai",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "advanced": "multiple marriage, cheating, divorcee",
+        "about": "<p>Krishnakumar Dinesh Karthik (born 1 June 1985) is an Indian cricket commentator, coach and former international cricketer. Karthik played for the India national cricket team and also captained Tamil Nadu in domestic cricket. He is currently the mentor and batting coach for Royal Challengers Bengaluru in the Indian Premier League and London Spirit in The Hundred.</p><p>Karthik made his debut for the Indian cricket team in 2004. He was the 4th Indian batsman to play 300 T20 matches.[1] Karthik was a member of the team that won both the inaugural 2007 T20 World Cup and the 2013 ICC Champions Trophy. Karthik is also the first Indian ever to win a Player of The Match award in a T20 International, having done so in 2006. Known for his six hitting ability, aggressive batting style, longevity and ability to finish games strong, Karthik was viewed as a crucial asset in the IPL and the India national cricket team for almost two decades.</p><p>Karthik made his maiden Test century against Bangladesh and was India's leading scorer in their 2007 Test tour of England,[2] helping India win their first series in England in 21 years. After a drop in form in September 2007, Karthik was dropped from the Test team and only made sporadic international appearances through 2022.</p><p>Between 2018 and 2020, Karthik was the captain of IPL team Kolkata Knight Riders. He also occasionally worked as a commentator for British channel Sky Sports, most notably during India's 2021 tour of England.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 58.04152530806249,
+            "ascendant": 2
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 293.2903133483128,
+                "cusp_degree": 23.290313348312793,
+                "motion_speed": 0.01221509123287269,
+                "zodiac": 10,
+                "house": 9,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 46.84485958186634,
+                "cusp_degree": 16.844859581866338,
+                "motion_speed": 0.9579422757643558,
+                "zodiac": 2,
+                "house": 1,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 197.42964985499657,
+                "cusp_degree": 17.42964985499657,
+                "motion_speed": 14.869594390053466,
+                "zodiac": 7,
+                "house": 6,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 1.657230853272085,
+                "cusp_degree": 1.657230853272085,
+                "motion_speed": 0.8544922157268696,
+                "zodiac": 1,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 60.72553978758244,
+                "cusp_degree": 0.7255397875824414,
+                "motion_speed": 0.6719372884322158,
+                "zodiac": 3,
+                "house": 2,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 38.9069086173909,
+                "cusp_degree": 8.906908617390897,
+                "motion_speed": 2.1092785604930913,
+                "zodiac": 2,
+                "house": 1,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 209.98843859233742,
+                "cusp_degree": 29.988438592337417,
+                "motion_speed": -0.0698955648496641,
+                "zodiac": 7,
+                "house": 6,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 24.480811466697514,
+                "cusp_degree": 24.480811466697514,
+                "motion_speed": 0.0076199918126446855,
+                "zodiac": 1,
+                "house": 12,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 23.500090574679174,
+                "cusp_degree": 23.500090574679174,
+                "motion_speed": -0.052992043439726445,
+                "zodiac": 1,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 203.50009057467918,
+                "motion_speed": -0.052992043439726445,
+                "cusp_degree": 23.500090574679177,
+                "zodiac": 7,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 204.4808114666975,
+                "motion_speed": 0.0076199918126446855,
+                "cusp_degree": 24.480811466697503,
+                "zodiac": 7,
+                "house": 6,
+                "motion": "R"
+            }
+        }
+    }
+}

@@ -1,0 +1,114 @@
+{
+    "request": {
+        "name": "Neha Kakkar",
+        "title": "Singer, Actor",
+        "year": 1988,
+        "month": 6,
+        "day": 6,
+        "hour": 5,
+        "minute": 30,
+        "second": 0,
+        "latitude": 30.10778,
+        "longitude": 78.29255,
+        "location": "Rishikesh",
+        "gender": "female",
+        "agyat_rating": "AA",
+        "about": "<p>Neha Kakkar Singh (pronounced [ˈneːɦɑː ˈkəkːəɾ]; née Kakkar; born 6 June 1988) is an Indian singer. She is the younger sister of playback singers Tony Kakkar and Sonu Kakkar. She began performing at an early age at religious events. In 2005, she participated in the second season of the singing reality show, Indian Idol. She made her Bollywood debut as a chorus singer in the film Meerabai Not Out. She rose to prominence with the release of the dance track \"Second Hand Jawaani\" from Cocktail (2012), which was followed by several popular party songs, including \"Sunny Sunny\" from Yaariyan and \"London Thumakda\" from the soundtrack album of the film Queen (2014). Apart from playback singing, Kakkar has appeared in several music videos and as a judge on several television reality shows, including Indian Idol.</p><p>In 2019, Kakkar was listed among the most-viewed female artists on YouTube with 13.9 billion views. In January 2021, she became the first Indian singer to win a YouTube Diamond Award. She is the most followed female Indian artist and 22nd most followed artist globally on Spotify.</p><p>She appeared in the Forbes India Celebrity 100 in 2017 and 2019. In December 2020, she appeared on the list of Asia's 100 Digital Stars by Forbes.</p><p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 54.44014538419699,
+            "ascendant": 2
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 26.96373339333021,
+                "cusp_degree": 26.96373339333021,
+                "motion_speed": 0.22646436303574768,
+                "zodiac": 1,
+                "house": 12,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 51.81278482485352,
+                "cusp_degree": 21.812784824853523,
+                "motion_speed": 0.9568177399067186,
+                "zodiac": 2,
+                "house": 1,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 305.1250225603018,
+                "cusp_degree": 5.1250225603017725,
+                "motion_speed": 14.215447061335793,
+                "zodiac": 11,
+                "house": 10,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 62.671212581626285,
+                "cusp_degree": 2.6712125816262855,
+                "motion_speed": -0.5339268957226838,
+                "zodiac": 3,
+                "house": 2,
+                "motion": "R"
+            },
+            "Mars": {
+                "degree": 315.50548412383955,
+                "cusp_degree": 15.505484123839551,
+                "motion_speed": 0.612827364617638,
+                "zodiac": 11,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 62.174090253551554,
+                "cusp_degree": 2.1740902535515545,
+                "motion_speed": -0.34600999829623097,
+                "zodiac": 3,
+                "house": 2,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 246.60384293237203,
+                "cusp_degree": 6.603842932372032,
+                "motion_speed": -0.0700490146789068,
+                "zodiac": 9,
+                "house": 8,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 325.1247835603117,
+                "cusp_degree": 25.1247835603117,
+                "motion_speed": -0.019287650788478994,
+                "zodiac": 11,
+                "house": 10,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 325.1581523145984,
+                "cusp_degree": 25.158152314598397,
+                "motion_speed": -0.05299204059265145,
+                "zodiac": 11,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 145.1581523145984,
+                "motion_speed": -0.05299204059265145,
+                "cusp_degree": 25.158152314598397,
+                "zodiac": 5,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 145.1247835603117,
+                "motion_speed": -0.019287650788478994,
+                "cusp_degree": 25.1247835603117,
+                "zodiac": 5,
+                "house": 4,
+                "motion": "R"
+            }
+        }
+    }
+}

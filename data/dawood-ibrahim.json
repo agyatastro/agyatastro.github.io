@@ -1,0 +1,116 @@
+{
+    "request": {
+        "name": "Dawood Ibrahim",
+        "title": "Gangster",
+        "year": 1955,
+        "month": 12,
+        "day": 27,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 16.99154,
+        "longitude": 73.31022,
+        "location": "Ratnagiri",
+        "gender": "male",
+        "mask": true,
+        "agyat_rating": "AX",
+        "advanced": "criminal, convict, gangster, underworld, mafia, don, smuggler, banishment, fugitive",
+        "about": "<p>Dawood Ibrahim Kaskar (/ɪbrəˈhiːm/, Hindi: दाऊद इब्राहिम; Marathi: दाऊदा इब्राहिमा ; born 26 December 1955) is an Indian gangster, mob boss, drug lord and narcoterrorist. He is the leader of the organised crime syndicate D-Company, which he founded in Mumbai in the 1970s. Ibrahim is wanted on multiple charges of murder, extortion, targeted killing, drug trafficking and terrorism among others.</p><p>He has been reported to live in Karachi, Pakistan, though the government of Pakistan denies it.</p><p>He was designated a global terrorist by the Al-Qaida and Taliban Sanctions Committee of the United Nations Security Council and by the United States in 2003 for masterminding the 1993 Bombay bombings and is said to have an influence in 26/11 attacks. The United States has a bounty of US$25 million on his head.</p><p>In a Time list of the world's most notorious mob bosses, Ibrahim was ranked 9th. Ibrahim was third on Forbes' \"The World's 10 Most Wanted\" list from 2010 until it stopped publishing the list in 2011. In 2011, he was named number two on \"The World's 10 Most Wanted Fugitives\" by the US Federal Bureau of Investigation.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 331.4568944985287,
+            "ascendant": 12
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 128.1252172020343,
+                "cusp_degree": 8.125217202034293,
+                "motion_speed": -0.02955338144981533,
+                "zodiac": 5,
+                "house": 6,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 251.47800978734378,
+                "cusp_degree": 11.47800978734378,
+                "motion_speed": 1.0186330475036784,
+                "zodiac": 9,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 44.79985536243727,
+                "cusp_degree": 14.79985536243727,
+                "motion_speed": 14.987670590436649,
+                "zodiac": 2,
+                "house": 3,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 280.45212369397586,
+                "cusp_degree": 10.452123693975864,
+                "motion_speed": 1.2385929595134146,
+                "zodiac": 10,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 205.0954554855208,
+                "cusp_degree": 25.0954554855208,
+                "motion_speed": 0.6522797858922288,
+                "zodiac": 7,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 264.2295623283204,
+                "cusp_degree": 24.229562328320412,
+                "motion_speed": 1.5827080465871104,
+                "zodiac": 9,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 215.15922246870988,
+                "cusp_degree": 5.159222468709885,
+                "motion_speed": 0.10369215235368649,
+                "zodiac": 8,
+                "house": 9,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 234.07650723612943,
+                "cusp_degree": 24.07650723612943,
+                "motion_speed": 0.00876967019014499,
+                "zodiac": 8,
+                "house": 9,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 233.09947952907672,
+                "cusp_degree": 23.099479529076717,
+                "motion_speed": -0.05299208011434324,
+                "zodiac": 8,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 53.09947952907669,
+                "motion_speed": -0.05299208011434324,
+                "cusp_degree": 23.09947952907669,
+                "zodiac": 2,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 54.07650723612943,
+                "motion_speed": 0.00876967019014499,
+                "cusp_degree": 24.07650723612943,
+                "zodiac": 2,
+                "house": 3,
+                "motion": "R"
+            }
+        }
+    }
+}

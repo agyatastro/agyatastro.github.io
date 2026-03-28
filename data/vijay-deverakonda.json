@@ -1,0 +1,114 @@
+{
+    "request": {
+        "name": "Vijay Devarakonda",
+        "title": "Actor, Cinema Producer",
+        "year": 1989,
+        "month": 5,
+        "day": 9,
+        "hour": 5,
+        "minute": 34,
+        "second": 0,
+        "latitude": 15.82887,
+        "longitude": 78.03602,
+        "location": "Kurnool",
+        "gender": "male",
+        "agyat_rating": "AU",
+        "about": "<p>Deverakonda Vijay Sai (born 9 May 1989), widely known as Vijay Deverakonda, is an Indian actor and film producer who works in Telugu films. Vijay is the recipient of a Filmfare Award, a Nandi Award and three SIIMA Awards.</p><p>Deverakonda made his debut with Nuvvila (2011) and received praise for his supporting role in the coming-of-age drama Yevade Subramanyam (2015). He rose to prominence as a leading film actor by starring in Pelli Choopulu (2016) and Arjun Reddy (2017), winning the Filmfare Award for Best Actor – Telugu for his performance as a volatile surgeon in the latter. He further established himself with commercially successful films such as Mahanati (2018), Geetha Govindam (2018), and Taxiwaala (2018). This success was followed by a series of poorly received films.</p><p>In 2019, Deverakonda launched his own production house King of the Hill Entertainment, which produced Meeku Maathrame Cheptha (2019) and Pushpaka Vimanam (2021). Beyond his film career, Deverakonda has designed his own fashion brand Rowdy Wear, which launched on Myntra in 2020, and is the co-owner of the volleyball team Hyderabad Black Hawks. Deverakonda is also a celebrity endorser for numerous products and supports various humanitarian causes. He is married to actress Rashmika Mandanna.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 19.135267399321517,
+            "ascendant": 1
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 47.60789551240365,
+                "cusp_degree": 17.60789551240365,
+                "motion_speed": 0.22342094417787275,
+                "zodiac": 2,
+                "house": 2,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 24.64528428061643,
+                "cusp_degree": 24.64528428061643,
+                "motion_speed": 0.9672165338001552,
+                "zodiac": 1,
+                "house": 1,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 71.88412749039036,
+                "cusp_degree": 11.884127490390355,
+                "motion_speed": 13.657538517560727,
+                "zodiac": 3,
+                "house": 3,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 33.500656843888926,
+                "cusp_degree": 3.500656843888926,
+                "motion_speed": 1.2310639509465735,
+                "zodiac": 2,
+                "house": 2,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 72.35846916714112,
+                "cusp_degree": 12.358469167141124,
+                "motion_speed": 0.6190115588374112,
+                "zodiac": 3,
+                "house": 3,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 42.63163431193255,
+                "cusp_degree": 12.631634311932551,
+                "motion_speed": 0.2968027327607293,
+                "zodiac": 2,
+                "house": 2,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 260.0098052682954,
+                "cusp_degree": 20.009805268295395,
+                "motion_speed": -0.025682573940624596,
+                "zodiac": 9,
+                "house": 9,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 307.70654804127395,
+                "cusp_degree": 7.7065480412739475,
+                "motion_speed": -0.11379232855529224,
+                "zodiac": 11,
+                "house": 11,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 307.29969321476244,
+                "cusp_degree": 7.299693214762442,
+                "motion_speed": -0.052992031393674206,
+                "zodiac": 11,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 127.29969321476244,
+                "motion_speed": -0.052992031393674206,
+                "cusp_degree": 7.299693214762442,
+                "zodiac": 5,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 127.70654804127395,
+                "motion_speed": -0.11379232855529224,
+                "cusp_degree": 7.7065480412739475,
+                "zodiac": 5,
+                "house": 5,
+                "motion": "R"
+            }
+        }
+    }
+}

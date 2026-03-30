@@ -1,0 +1,116 @@
+{
+    "request": {
+        "name": "Mohamed bin Zayed Al Nahyan (MBZ)",
+        "title": "President (UAE), Ruler Abu Dhabi",
+        "year": 1961,
+        "month": 3,
+        "day": 11,
+        "hour": 5,
+        "minute": 40,
+        "second": 0,
+        "latitude": 24.19167,
+        "longitude": 55.76056,
+        "location": "Al Ain City",
+        "gender": "male",
+        "advanced": "President of the United Arab Emirates, Ruler of Abu Dhabi, MbZ",
+        "source": "self - birth certificate", 
+        "agyat_rating": "AA",
+        "about": "<p>Mohamed bin Zayed Al Nahyan (born 11 March 1961), also known as MBZ or MbZ, is an Emirati royal and politician who has served as the third president of the United Arab Emirates and the ruler of Abu Dhabi since 2022.</p><p>Mohamed completed his education in Abu Dhabi and Al Ain, and graduated from the Royal Military Academy Sandhurst in 1979. He joined the UAE Armed Forces, and held various posts, before becoming a pilot in the UAE Air Force; he was promoted to general in 2005.</p><p>Mohamed is the third son of Sheikh Zayed bin Sultan Al Nahyan, the first president of the UAE and 16th ruler of Abu Dhabi. Mohamed became the crown prince of Abu Dhabi in 2004, following the death of his father, when his brother, Sheikh Khalifa, became the second president of the UAE, and the ruler of Abu Dhabi. In 2014, Sheikh Khalifa suffered a stroke, and Mohamed became the de facto president of the UAE, and ruler of Abu Dhabi. Mohamed officially became president of the UAE, and ruler of Abu Dhabi, after being chosen by the UAE Supreme Council, following the death of his brother in May 2022. In March 2023, Mohamed appointed his son Sheikh Khalid, crown prince of Abu Dhabi, and his successor.</p><p>Scholars characterize the UAE under Mohamed as an authoritarian capitalist country, and a rentier state. In 2019, The New York Times named Mohamed as the most powerful Arab ruler, and he was named as one of the 100 Most Influential People of 2019 by Time magazine. He is an opponent of the Muslim Brotherhood, Iran, and its proxies in the Middle East. Since becoming de facto president, the UAE participated in the war against ISIS in Iraq and Syria, the Syrian civil war, and was part of the Saudi-led intervention in the Yemeni civil war, until Mohamed disagreed with Saudi Arabia's support of Al-Islah, a Yemeni party connected with the Muslim Brotherhood, but he has maintained his support of the Southern Transitional Council. Mohamed has been the main backer of the Rapid Support Forces (RSF) in the Sudanese civil war. He fell out with the Obama administration on the Iran nuclear deal, and supported US withdrawal from the Iran nuclear deal. The UAE was a leading party in the Qatar diplomatic crisis, in which the UAE, Saudi Arabia, Bahrain, and other Arab countries severed diplomatic relations with Qatar, based on accusations that Qatar supports the Muslim Brotherhood and off-shoot organizations. Mohamed maintained a close relationship with US President Donald Trump, with reports suggesting Mohamed was pushing Trump to take a tougher stance on Iran and the Muslim Brotherhood. In 2020, the UAE, alongside Bahrain, Morocco and Sudan, signed the Abraham Accords, an agreement to normalize diplomatic relationship with the Israel, brokered by Trump. The UAE has been involved in an economic rivalry with Saudi Arabia, and opposed Saudi efforts for OPEC+ production cuts.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 309.1321263668591,
+            "ascendant": 11
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 275.9038050612227,
+                "cusp_degree": 5.903805061222727,
+                "motion_speed": 0.18686713750133388,
+                "zodiac": 10,
+                "house": 12,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 326.939531037293,
+                "cusp_degree": 26.939531037293023,
+                "motion_speed": 0.9985124693827964,
+                "zodiac": 11,
+                "house": 1,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 249.25275667047643,
+                "cusp_degree": 9.25275667047643,
+                "motion_speed": 14.136316561306625,
+                "zodiac": 9,
+                "house": 11,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 3.9806469397893123,
+                "cusp_degree": 3.9806469397893123,
+                "motion_speed": 0.35329855304080837,
+                "zodiac": 1,
+                "house": 3,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 72.38997518879168,
+                "cusp_degree": 12.38997518879168,
+                "motion_speed": 0.3111773622501733,
+                "zodiac": 3,
+                "house": 5,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 301.8577237903187,
+                "cusp_degree": 1.857723790318687,
+                "motion_speed": 0.39083379008010166,
+                "zodiac": 11,
+                "house": 1,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 273.80784660293165,
+                "cusp_degree": 3.8078466029316473,
+                "motion_speed": 0.08602377525314475,
+                "zodiac": 10,
+                "house": 12,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 132.84030568712862,
+                "cusp_degree": 12.84030568712862,
+                "motion_speed": 0.009762541459920506,
+                "zodiac": 5,
+                "house": 7,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 132.37225968196293,
+                "cusp_degree": 12.37225968196293,
+                "motion_speed": -0.05299207512187933,
+                "zodiac": 5,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 312.37225968196293,
+                "motion_speed": -0.05299207512187933,
+                "cusp_degree": 12.37225968196293,
+                "zodiac": 11,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 312.84030568712865,
+                "motion_speed": 0.009762541459920506,
+                "cusp_degree": 12.840305687128648,
+                "zodiac": 11,
+                "house": 1,
+                "motion": "R"
+            }
+        }
+    }
+}

@@ -1,0 +1,114 @@
+{
+    "request": {
+        "name": "Tamim bin Hamad Al Thani",
+        "title": "Emir (Qatar)",
+        "year": 1980,
+        "month": 6,
+        "day": 3,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 25.28545,
+        "longitude": 51.53096,
+        "location": "Doha",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "about": "Tamim bin Hamad bin Khalifa Al Thani (Arabic: تميم بن حمد بن خليفة آل ثاني, romanized: Tamīm bin Ḥamad bin Khalīfa Āl Thānī; born 3 June 1980) has reigned as the Emir of Qatar since 25 June 2013, succeeding his father, Hamad bin Khalifa Al Thani. Born in Doha, he is the fourth son of the former Emir and his second wife, Moza bint Nasser. Tamim became heir apparent in 2003 after his older brother Sheikh Jassim renounced his claim to the throne."
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 146.0271323592143,
+            "ascendant": 5
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 128.75792872311897,
+                "cusp_degree": 8.757928723118965,
+                "motion_speed": 0.10528308167358824,
+                "zodiac": 5,
+                "house": 1,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 49.34363414917509,
+                "cusp_degree": 19.343634149175088,
+                "motion_speed": 0.9573254278646521,
+                "zodiac": 2,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 284.0413258644596,
+                "cusp_degree": 14.041325864459623,
+                "motion_speed": 13.575110552656652,
+                "zodiac": 10,
+                "house": 6,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 67.1842272875108,
+                "cusp_degree": 7.184227287510794,
+                "motion_speed": -0.3775887994107219,
+                "zodiac": 3,
+                "house": 11,
+                "motion": "R"
+            },
+            "Mars": {
+                "degree": 137.53690267291262,
+                "cusp_degree": 17.536902672912618,
+                "motion_speed": 0.4426345155213669,
+                "zodiac": 5,
+                "house": 1,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 70.36462408315107,
+                "cusp_degree": 10.364624083151071,
+                "motion_speed": 1.5476931550598356,
+                "zodiac": 3,
+                "house": 11,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 146.73400875515927,
+                "cusp_degree": 26.734008755159266,
+                "motion_speed": 0.02022964665287351,
+                "zodiac": 5,
+                "house": 1,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 119.02030753523002,
+                "cusp_degree": 29.020307535230017,
+                "motion_speed": -0.028760356703119938,
+                "zodiac": 4,
+                "house": 12,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 120.13996290328942,
+                "cusp_degree": 0.1399629032894154,
+                "motion_speed": -0.05299207312040011,
+                "zodiac": 5,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 300.1399629032894,
+                "motion_speed": -0.05299207312040011,
+                "cusp_degree": 0.1399629032894154,
+                "zodiac": 11,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 299.02030753523,
+                "motion_speed": -0.028760356703119938,
+                "cusp_degree": 29.020307535230017,
+                "zodiac": 10,
+                "house": 6,
+                "motion": "R"
+            }
+        }
+    }
+}

@@ -1,0 +1,114 @@
+{
+    "request": {
+        "name": "Sheikh Mohammed bin Rashid Al Maktoum",
+        "title": "Prime Minister (UAE), Ruler Dubai, Vice President (UAE)",
+        "year": 1949,
+        "month": 7,
+        "day": 15,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 25.07725,
+        "longitude": 55.30927,
+        "location": "Dubai",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "about": "<p>Sheikh Mohammed bin Rashid Al Maktoum (Arabic: محمد بن راشد آل مكتوم, romanized: Muḥammad bin Rāšid Āl Maktūm; born 15 July 1949) is an Emirati politician and royal who is the current ruler of Dubai, and serves as the vice president and prime minister of the UAE. Mohammed succeeded his brother Maktoum bin Rashid Al Maktoum as UAE vice president, UAE prime minister, and ruler of Dubai following the latter's death in 2006.</p><p>Under his leadership, Dubai became a global city. A number of government-owned enterprises have been launched, including the Emirates airline, DP World, and the Jumeirah Group.</p><p>Mohammed oversaw the development of Palm Islands the establishment of Burj Al Arab hotel and Burj Khalifa, the tallest building in the world since 2010.</p><p>Mohammed is the absolute ruler of Dubai and the prime minister of the UAE, a position appointed by the president.</p><p>Mohammed is an equestrian and is the founder of the Maktoum family-owned Godolphin stable and the owner of Darley, a thoroughbred breeding operation, operational in six countries. In 2012, he rode the horse Madji Du Pont 160 km to take the FEI World Endurance Championship. He has been found guilty of coercive and abusive behaviour towards his wife and children and was subject to controversy for the claimed kidnapping and imprisonment of one of his daughters.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 173.25740560432007,
+            "ascendant": 6
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 274.7556309247289,
+                "cusp_degree": 4.755630924728905,
+                "motion_speed": -0.1279918161265315,
+                "zodiac": 10,
+                "house": 5,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 89.33557319294513,
+                "cusp_degree": 29.335573192945134,
+                "motion_speed": 0.9536368636849637,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 327.5683505499247,
+                "cusp_degree": 27.568350549924673,
+                "motion_speed": 11.963763377705769,
+                "zodiac": 11,
+                "house": 6,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 113.10407963491616,
+                "cusp_degree": 23.10407963491616,
+                "motion_speed": 1.215735960997985,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 61.484094997769795,
+                "cusp_degree": 1.4840949977697946,
+                "motion_speed": 0.6815834066892631,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 76.32496031435076,
+                "cusp_degree": 16.32496031435076,
+                "motion_speed": 1.9485185564795349,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 130.5690733212405,
+                "cusp_degree": 10.569073321240495,
+                "motion_speed": 0.10523867961818772,
+                "zodiac": 5,
+                "house": 12,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 357.6353535633737,
+                "cusp_degree": 27.635353563373712,
+                "motion_speed": -0.06111741152428041,
+                "zodiac": 12,
+                "house": 7,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 357.94545616948795,
+                "cusp_degree": 27.945456169487954,
+                "motion_speed": -0.05299202010144842,
+                "zodiac": 12,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 177.9454561694879,
+                "motion_speed": -0.05299202010144842,
+                "cusp_degree": 27.945456169487898,
+                "zodiac": 6,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 177.63535356337366,
+                "motion_speed": -0.06111741152428041,
+                "cusp_degree": 27.635353563373656,
+                "zodiac": 6,
+                "house": 1,
+                "motion": "R"
+            }
+        }
+    }
+}

@@ -1,0 +1,226 @@
+{
+    "request": {
+        "name": "Sahil Khan",
+        "title": "Bussinessperson, Body Builder, Actor",
+        "year": 1976,
+        "month": 11,
+        "day": 5,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 22.56263,
+        "longitude": 88.36304,
+        "location": "Kolkata",
+        "gender": "male",
+        "mask": true,
+        "agyat_rating": "AX",
+        "advanced": "extramarital affairs, detention, legal issues, controversies",
+        "about": "<p>Sahil Khan (born 5 November 1976) an Indian actor, fitness entrepreneur, and YouTuber, known for his role in Hindi-language films Style and Xcuse Me.</p><p>In April 2024, he was arrested by the Mumbai cyber cell's Special Investigation Team for his involvement in the ₹15,000 crore (US$1.8 billion) Mahadev Betting App Case.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 286.9105983674153,
+            "ascendant": 10
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 34.33404473463275,
+                "cusp_degree": 4.334044734632748,
+                "motion_speed": -0.12780145932671969,
+                "zodiac": 2,
+                "house": 5,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 199.43881434662697,
+                "cusp_degree": 19.43881434662697,
+                "motion_speed": 1.0024682046385849,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 1.1167708625053714,
+                "cusp_degree": 1.1167708625053714,
+                "motion_speed": 11.816498391346768,
+                "zodiac": 1,
+                "house": 4,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 235.36794511336825,
+                "cusp_degree": 25.36794511336825,
+                "motion_speed": 1.212093193878716,
+                "zodiac": 8,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 205.34407293212584,
+                "cusp_degree": 25.34407293212584,
+                "motion_speed": 0.7002309190595993,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 198.12462283563596,
+                "cusp_degree": 18.12462283563596,
+                "motion_speed": 1.6258845046150274,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 112.87033366868523,
+                "cusp_degree": 22.870333668685234,
+                "motion_speed": 0.04124589822653637,
+                "zodiac": 4,
+                "house": 7,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 190.06108481974525,
+                "cusp_degree": 10.061084819745247,
+                "motion_speed": 0.006060947819486668,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 189.3530806378144,
+                "cusp_degree": 9.3530806378144,
+                "motion_speed": -0.05299202690464512,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 9.3530806378144,
+                "motion_speed": -0.05299202690464512,
+                "cusp_degree": 9.3530806378144,
+                "zodiac": 1,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 10.061084819745247,
+                "motion_speed": 0.006060947819486668,
+                "cusp_degree": 10.061084819745247,
+                "zodiac": 1,
+                "house": 4,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1976-11-05",
+        "latitude": 22.56263,
+        "longitude": 88.36304,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2443087.5,
+        "solar_longitude": 199.16733002220292,
+        "lunar_longitude": 357.9147785070529,
+        "lunar_latitude": 1.1178046413522493,
+        "sunrise": [
+            2443087.7409111783,
+            [
+                5,
+                46,
+                55
+            ],
+            [
+                1976,
+                11,
+                5,
+                5.781868278980255
+            ]
+        ],
+        "sunset": [
+            2443088.2035972425,
+            [
+                16,
+                53,
+                11
+            ],
+            [
+                1976,
+                11,
+                5,
+                16.88633381947875
+            ]
+        ],
+        "moonrise": [
+            2443088.165899408,
+            [
+                15,
+                58,
+                54
+            ],
+            [
+                1976,
+                11,
+                5,
+                15.981585793197155
+            ]
+        ],
+        "moonset": [
+            2443087.673439853,
+            [
+                4,
+                9,
+                45
+            ],
+            [
+                1976,
+                11,
+                5,
+                4.16255646944046
+            ]
+        ],
+        "tithi": [
+            14,
+            [
+                26,
+                19,
+                36
+            ]
+        ],
+        "nakshatra": [
+            "Uttara Bhadrapada",
+            26,
+            [
+                30,
+                28,
+                7
+            ]
+        ],
+        "yoga": [
+            "Siddha",
+            15
+        ],
+        "karana": [
+            26,
+            -5.354358248240004
+        ],
+        "vaara": "Shukrvara",
+        "lunar_phase": 158.74744848485,
+        "masa": [
+            "Kartika",
+            8,
+            false
+        ],
+        "ahargana": 1854622,
+        "ritu": "Vasant Ritu (Spring)",
+        "samvatsara": 50,
+        "day_duration": [
+            11.104465540498495,
+            [
+                11,
+                6,
+                16
+            ]
+        ]
+    }
+}

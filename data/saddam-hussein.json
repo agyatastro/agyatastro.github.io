@@ -1,0 +1,225 @@
+{
+    "request": {
+        "name": "Saddam Hussein",
+        "title": "President of Iraq",
+        "year": 1937,
+        "month": 4,
+        "day": 28,
+        "hour": 8,
+        "minute": 15,
+        "second": 0,
+        "latitude": 34.61581,
+        "longitude": 43.67861,
+        "location": "Tikrit",
+        "gender": "male",
+        "agyat_rating": "AA",
+        "advanced": "death by hanging, conviction, dictator",
+        "about": "<p>Saddam Hussein[c] (28 April 1937 – 30 December 2006) was an Iraqi politician and revolutionary who served as the fifth president of Iraq from 1979 until his overthrow in 2003 during the United States-led invasion of Iraq. He previously served as the vice president from 1968 to 1979 and also as the prime minister from 1979 to 1991 and later from 1994 to 2003. A leading member of the Ba'ath Party (Iraqi-dominated faction), he was a proponent of Ba'athism, a mix of Arab nationalism and Arab socialism. The policies and ideologies he championed are collectively known as Saddamism, a right-wing variant of Ba'athism.</p><p>Born near the city of Tikrit to a Sunni Arab family, Saddam joined the revolutionary Ba'ath Party in 1957. He played a key role in the 17 July Revolution that brought the Ba'athists to power in Iraq and made him vice president under Ahmed Hassan al-Bakr. During his tenure as vice president, Saddam nationalized the Iraq Petroleum Company, diversified the economy, introduced free healthcare and education, and supported women's rights. He also presided over the defeat of the Kurdish insurgency in the Second Iraqi–Kurdish War and signed the Algiers Agreement with Iran in 1975, thereby settling territorial disputes along the Iran–Iraq border. Following al-Bakr's resignation in 1979, Saddam formally took power. During his presidency, positions of power in the country were mostly filled with Sunni Arabs, a minority that made up only about a fifth of the Iraqi population.</p><p>Upon taking office as president in 1979, Saddam purged rivals within his party. In 1980, he ordered the invasion of Iran, purportedly to capture Iran's Arab-majority Khuzestan province, and end Iranian attempts to export its Islamic Revolution to the Arab world. In 1988, as the war with Iran ended in a stalemate, he ordered the Anfal campaign against Kurdish rebels who had sided with Iran. Later, he accused his former ally Kuwait of slant-drilling Iraq's oil reserves and subsequently invaded the country in 1990. This ultimately led to the Gulf War in 1991, which ended in Iraq's defeat by a United States-led coalition. In the war's aftermath, Saddam's forces suppressed the 1991 Iraqi uprisings launched by Kurds and Shias seeking regime change, as well as further uprisings in 1999. After reconsolidating his hold on power, Saddam pursued an Islamist agenda for Iraq through the Faith Campaign. In 2003, a US-led coalition invaded Iraq, incorrectly accusing him of developing weapons of mass destruction and of having ties with al-Qaeda. Coalition forces toppled Saddam's regime and captured him. During his trial, Saddam was convicted by the Iraqi High Tribunal of crimes against humanity and sentenced to death by hanging. He was executed on 30 December 2006.</p><p>A polarizing and controversial figure, Saddam dominated Iraqi politics for 35 years and was the subject of a cult of personality. Many Arabs regard Saddam as a resolute leader who challenged American imperialism, opposed the Israeli occupation of Palestine, and resisted foreign intervention in the region. Conversely, many Iraqis, particularly Shias and Kurds, perceive him as a tyrant responsible for acts of repression, mass killing and other injustices. Human Rights Watch estimated that Saddam's regime was responsible for the murder or disappearance of 250,000 to 290,000 Iraqis. Saddam's government has been described by several analysts as authoritarian and totalitarian, and by some as fascist, although the applicability of those labels has been contested.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 62.936599920654345,
+            "ascendant": 3
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 273.8600500025902,
+                "cusp_degree": 3.860050002590185,
+                "motion_speed": 0.05373488191784248,
+                "zodiac": 10,
+                "house": 8,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 14.514809110380497,
+                "cusp_degree": 14.514809110380497,
+                "motion_speed": 0.9714165162757185,
+                "zodiac": 1,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 222.505340604943,
+                "cusp_degree": 12.505340604943001,
+                "motion_speed": 11.792764665249079,
+                "zodiac": 8,
+                "house": 6,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 358.88928977987837,
+                "cusp_degree": 28.889289779878368,
+                "motion_speed": -0.4343675758722833,
+                "zodiac": 12,
+                "house": 10,
+                "motion": "R"
+            },
+            "Mars": {
+                "degree": 221.39205917322056,
+                "cusp_degree": 11.39205917322056,
+                "motion_speed": -0.1702704729121473,
+                "zodiac": 8,
+                "house": 6,
+                "motion": "R"
+            },
+            "Mercury": {
+                "degree": 31.23708254989338,
+                "cusp_degree": 1.2370825498933797,
+                "motion_speed": 0.20170428226336873,
+                "zodiac": 2,
+                "house": 12,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 337.3333973324938,
+                "cusp_degree": 7.333397332493803,
+                "motion_speed": 0.10716582078998173,
+                "zodiac": 12,
+                "house": 10,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 232.48596349073597,
+                "cusp_degree": 22.48596349073597,
+                "motion_speed": -0.022687110116737783,
+                "zodiac": 8,
+                "house": 6,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 234.34913885293005,
+                "cusp_degree": 24.349138852930054,
+                "motion_speed": -0.052992064967522595,
+                "zodiac": 8,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 54.34913885293008,
+                "motion_speed": -0.052992064967522595,
+                "cusp_degree": 24.349138852930082,
+                "zodiac": 2,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 52.48596349073597,
+                "motion_speed": -0.022687110116737783,
+                "cusp_degree": 22.48596349073597,
+                "zodiac": 2,
+                "house": 12,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1937-04-28",
+        "latitude": 34.61581,
+        "longitude": 43.67861,
+        "time_zone": "Asia/Baghdad",
+        "offset": 3,
+        "julday": 2428651.5,
+        "solar_longitude": 14.30230060553375,
+        "lunar_longitude": 219.92576612774795,
+        "lunar_latitude": -1.1322408405655298,
+        "sunrise": [
+            2428651.724480633,
+            [
+                5,
+                23,
+                15
+            ],
+            [
+                1937,
+                4,
+                28,
+                5.387535195797682
+            ]
+        ],
+        "sunset": [
+            2428652.2797582746,
+            [
+                18,
+                42,
+                51
+            ],
+            [
+                1937,
+                4,
+                28,
+                18.71419858932495
+            ]
+        ],
+        "moonrise": [
+            2428652.394119912,
+            [
+                21,
+                27,
+                32
+            ],
+            [
+                1937,
+                4,
+                28,
+                21.458877883851528
+            ]
+        ],
+        "moonset": [
+            2428651.7861695006,
+            [
+                6,
+                52,
+                5
+            ],
+            [
+                1937,
+                4,
+                28,
+                6.868068013340235
+            ]
+        ],
+        "tithi": [
+            18,
+            [
+                28,
+                23,
+                1
+            ]
+        ],
+        "nakshatra": [
+            "Swati",
+            15,
+            [
+                9,
+                13,
+                10
+            ]
+        ],
+        "yoga": [
+            "Variyan",
+            17
+        ],
+        "karana": [
+            34,
+            -4.0525448043366055
+        ],
+        "vaara": "Budhvara",
+        "lunar_phase": 205.6234655222142,
+        "masa": [
+            "Vaisakha",
+            2,
+            false
+        ],
+        "ahargana": 1840186,
+        "ritu": "Vasant Ritu (Spring)",
+        "samvatsara": 11,
+        "day_duration": [
+            13.32666339352727,
+            [
+                13,
+                19,
+                36
+            ]
+        ]
+    }
+}

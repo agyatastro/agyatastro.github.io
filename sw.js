@@ -1,4 +1,4 @@
-const CACHE_NAME = 'agyat-astrology-v1';
+const CACHE_NAME = 'agyat-astrology-v2';
 const OFFLINE_URL = '/offline.html';
 
 // Assets to cache immediately on install
@@ -7,8 +7,7 @@ const ASSETS_TO_CACHE = [
   OFFLINE_URL,
   '/css/style.css', // Update with your actual CSS path
   '/js/main.js',    // Update with your actual JS path
-  '/images/logo.png',
-  '/manifest.json'
+  '/images/logo_transparent.png',
 ];
 
 // 1. Installation: Pre-cache the critical assets

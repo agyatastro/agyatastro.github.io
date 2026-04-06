@@ -1,16 +1,15 @@
-const CACHE_NAME = 'agyat-astrology-v2';
+const CACHE_NAME = 'agyat-astrology-v2.0.1';
 const OFFLINE_URL = '/offline.html';
-
-// Assets to cache immediately on install
 const ASSETS_TO_CACHE = [
   '/',
   OFFLINE_URL,
+  '/js/main.js',
   '/css/style.css', // Update with your actual CSS path
-  '/js/main.js',    // Update with your actual JS path
-  '/images/logo_transparent.png',
+  '/images/aa_logo_transparent.png',
+  'https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap'
 ];
 
-// 1. Installation: Pre-cache the critical assets
+// Install Event: Cache core assets
 self.addEventListener('install', (event) => {
   event.waitUntil(
     caches.open(CACHE_NAME).then((cache) => {
@@ -20,7 +19,7 @@ self.addEventListener('install', (event) => {
   self.skipWaiting();
 });
 
-// 2. Activation: Clean up old caches if you update the version
+// Activate Event: Clean up old caches
 self.addEventListener('activate', (event) => {
   event.waitUntil(
     caches.keys().then((cacheNames) => {
@@ -33,23 +32,39 @@ self.addEventListener('activate', (event) => {
       );
     })
   );
-  return self.clients.claim();
 });
 
-// 3. Fetch Strategy: Network First, falling back to Cache
-// This is best for Astrology sites so users always see the latest Panchang/Blogs
+// Fetch Event
 self.addEventListener('fetch', (event) => {
+  // Only handle GET requests
+  if (event.request.method !== 'GET') return;
+
+  const url = new URL(event.request.url);
+
+  // Strategy: Network First, falling back to Cache for HTML/Pages
+  // This ensures research-backed data is always fresh if a connection exists
   if (event.request.mode === 'navigate') {
     event.respondWith(
-      fetch(event.request).catch(() => {
-        return caches.match(OFFLINE_URL);
-      })
+      fetch(event.request)
+        .then((response) => {
+          const copy = response.clone();
+          caches.open(CACHE_NAME).then((cache) => cache.put(event.request, copy));
+          return response;
+        })
+        .catch(() => caches.match(event.request) || caches.match('/offline.html'))
     );
-  } else {
-    event.respondWith(
-      caches.match(event.request).then((response) => {
-        return response || fetch(event.request);
-      })
-    );
+    return;
   }
+
+  // Strategy: Cache First for Images, Scripts, and Styles
+  event.respondWith(
+    caches.match(event.request).then((response) => {
+      return response || fetch(event.request).then((networkResponse) => {
+        return caches.open(CACHE_NAME).then((cache) => {
+          cache.put(event.request, networkResponse.clone());
+          return networkResponse;
+        });
+      });
+    })
+  );
 });

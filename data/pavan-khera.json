@@ -1,0 +1,225 @@
+{
+    "request": {
+        "name": "Pavan Khera",
+        "title": "Politician",
+        "year": 1968,
+        "month": 7,
+        "day": 31,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 28.65195,
+        "longitude": 77.23149,
+        "location": "Delhi",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "advanced": "prolonged career, detention, legal issues",
+        "about": "Pawan Khera (born 31 July 1968) is an Indian Politician from Indian National Congress A Former Political secretary to Delhi Chief Minister Currently serving as Indian national congress Chairman of media and publicity department"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 186.06261129934882,
+            "ascendant": 7
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 134.56831384773434,
+                "cusp_degree": 14.568313847734345,
+                "motion_speed": 0.2008042248302248,
+                "zodiac": 5,
+                "house": 11,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 104.68394687822929,
+                "cusp_degree": 14.683946878229293,
+                "motion_speed": 0.9566499275183412,
+                "zodiac": 4,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 175.2579664025563,
+                "cusp_degree": 25.257966402556292,
+                "motion_speed": 13.730386231864523,
+                "zodiac": 6,
+                "house": 12,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 115.946664004819,
+                "cusp_degree": 25.946664004819,
+                "motion_speed": 1.2313733775241782,
+                "zodiac": 4,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 93.05292124423971,
+                "cusp_degree": 3.0529212442397125,
+                "motion_speed": 0.6499429850448112,
+                "zodiac": 4,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 96.61129638475136,
+                "cusp_degree": 6.6112963847513555,
+                "motion_speed": 2.0637030650436463,
+                "zodiac": 4,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 2.0947464387933383,
+                "cusp_degree": 2.0947464387933383,
+                "motion_speed": 0.01172213521765347,
+                "zodiac": 1,
+                "house": 7,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 348.2055407442171,
+                "cusp_degree": 18.205540744217103,
+                "motion_speed": 0.007404413468847783,
+                "zodiac": 12,
+                "house": 6,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 349.3360520333773,
+                "cusp_degree": 19.336052033377314,
+                "motion_speed": -0.05299200176934396,
+                "zodiac": 12,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 169.3360520333773,
+                "motion_speed": -0.05299200176934396,
+                "cusp_degree": 19.336052033377314,
+                "zodiac": 6,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 168.20554074421716,
+                "motion_speed": 0.007404413468847783,
+                "cusp_degree": 18.20554074421716,
+                "zodiac": 6,
+                "house": 12,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1968-07-31",
+        "latitude": 28.65195,
+        "longitude": 77.23149,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2440068.5,
+        "solar_longitude": 104.424859753063,
+        "lunar_longitude": 171.54682962771568,
+        "lunar_latitude": -0.2965875744952791,
+        "sunrise": [
+            2440068.7400831464,
+            [
+                5,
+                45,
+                43
+            ],
+            [
+                1968,
+                7,
+                31,
+                5.761995512992144
+            ]
+        ],
+        "sunset": [
+            2440069.297700582,
+            [
+                19,
+                8,
+                41
+            ],
+            [
+                1968,
+                7,
+                31,
+                19.14481396973133
+            ]
+        ],
+        "moonrise": [
+            2440068.9639994088,
+            [
+                11,
+                8,
+                10
+            ],
+            [
+                1968,
+                7,
+                31,
+                11.135985810309649
+            ]
+        ],
+        "moonset": [
+            2440069.454552343,
+            [
+                22,
+                54,
+                33
+            ],
+            [
+                1968,
+                7,
+                31,
+                22.909256234765053
+            ]
+        ],
+        "tithi": [
+            6,
+            [
+                14,
+                56,
+                14
+            ]
+        ],
+        "nakshatra": [
+            "Uttara Phalguni",
+            12,
+            [
+                26,
+                12,
+                1
+            ]
+        ],
+        "yoga": [
+            "Siddha",
+            20
+        ],
+        "karana": [
+            11,
+            -4.1813220490429615
+        ],
+        "vaara": "Budhvara",
+        "lunar_phase": 67.12196987465268,
+        "masa": [
+            "Bhadrapada",
+            6,
+            false
+        ],
+        "ahargana": 1851603,
+        "ritu": "Vasant Ritu (Spring)",
+        "samvatsara": 42,
+        "day_duration": [
+            13.382818456739187,
+            [
+                13,
+                22,
+                58
+            ]
+        ]
+    }
+}

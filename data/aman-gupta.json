@@ -1,0 +1,224 @@
+{
+    "request": {
+        "name": "Aman Gupta",
+        "title": "Businessperson (Boat)",
+        "year": 1982,
+        "month": 3,
+        "day": 4,
+        "hour": 0,
+        "minute": 0,
+        "second": 0,
+        "latitude": 28.65195,
+        "longitude": 77.23149,
+        "location": "Delhi",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "about": "<p>Aman Gupta (born 4 March 1982) is an Indian entrepreneur and angel investor. He is the co-founder and was the Chief marketing officer (CMO) of Indian electronics brand boAt Lifestyle, he stepped down from his position of CMO just 29 days before filing their IPO Prospectus. He is a judge and investor in business reality show Shark Tank India. He recently ventured into new-age business with OffBeat Studios, which secured ₹100 crore in seed funding, signaling early traction in the space.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 213.46095600831362,
+            "ascendant": 8
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 196.6364385708645,
+                "cusp_degree": 16.6364385708645,
+                "motion_speed": -0.023705639839702995,
+                "zodiac": 7,
+                "house": 12,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 319.2510132168248,
+                "cusp_degree": 19.251013216824788,
+                "motion_speed": 1.0023476468509505,
+                "zodiac": 11,
+                "house": 4,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 60.33491273945844,
+                "cusp_degree": 0.3349127394584386,
+                "motion_speed": 14.134036315294548,
+                "zodiac": 3,
+                "house": 8,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 277.2035374498556,
+                "cusp_degree": 7.203537449855617,
+                "motion_speed": 0.6363174118628595,
+                "zodiac": 10,
+                "house": 3,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 174.81135700600592,
+                "cusp_degree": 24.81135700600592,
+                "motion_speed": -0.14033431659866447,
+                "zodiac": 6,
+                "house": 11,
+                "motion": "R"
+            },
+            "Mercury": {
+                "degree": 292.94483124268066,
+                "cusp_degree": 22.944831242680664,
+                "motion_speed": 1.2039325432601204,
+                "zodiac": 10,
+                "house": 3,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 177.79698235036523,
+                "cusp_degree": 27.796982350365226,
+                "motion_speed": -0.05133090756552242,
+                "zodiac": 6,
+                "house": 11,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 87.55962833947835,
+                "cusp_degree": 27.55962833947835,
+                "motion_speed": 0.014705036027731822,
+                "zodiac": 3,
+                "house": 8,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 86.31007060943824,
+                "cusp_degree": 26.31007060943824,
+                "motion_speed": -0.052992038291293536,
+                "zodiac": 3,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 266.31007060943824,
+                "motion_speed": -0.052992038291293536,
+                "cusp_degree": 26.31007060943824,
+                "zodiac": 9,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 267.55962833947837,
+                "motion_speed": 0.014705036027731822,
+                "cusp_degree": 27.559628339478365,
+                "zodiac": 9,
+                "house": 2,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1982-03-04",
+        "latitude": 28.65195,
+        "longitude": 77.23149,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2445032.5,
+        "solar_longitude": 319.48070250500353,
+        "lunar_longitude": 63.57402322729223,
+        "lunar_latitude": -2.0930533833941056,
+        "sunrise": [
+            2445032.7830160186,
+            [
+                6,
+                47,
+                33
+            ],
+            [
+                1982,
+                3,
+                4,
+                6.792384445667267
+            ]
+        ],
+        "sunset": [
+            2445033.2630104152,
+            [
+                18,
+                18,
+                44
+            ],
+            [
+                1982,
+                3,
+                4,
+                18.312249965965748
+            ]
+        ],
+        "moonrise": [
+            2445033.031718328,
+            [
+                12,
+                45,
+                40
+            ],
+            [
+                1982,
+                3,
+                4,
+                12.761239875108004
+            ]
+        ],
+        "moonset": [
+            2445032.5899895225,
+            [
+                2,
+                9,
+                35
+            ],
+            [
+                1982,
+                3,
+                4,
+                2.159748539328575
+            ]
+        ],
+        "tithi": [
+            9,
+            [
+                13,
+                55,
+                57
+            ]
+        ],
+        "nakshatra": [
+            "Rohini",
+            4,
+            [
+                28,
+                12,
+                12
+            ]
+        ],
+        "yoga": [
+            "Ayushman",
+            2
+        ],
+        "karana": [
+            17,
+            -5.809851663409688
+        ],
+        "vaara": "Guruvara",
+        "lunar_phase": 104.0933207222887,
+        "masa": [
+            "Chaitra",
+            1,
+            false
+        ],
+        "ahargana": 1856567,
+        "ritu": "Vasant Ritu (Spring)",
+        "samvatsara": 55,
+        "day_duration": [
+            11.519865520298481,
+            [
+                11,
+                31,
+                12
+            ]
+        ]
+    }
+}

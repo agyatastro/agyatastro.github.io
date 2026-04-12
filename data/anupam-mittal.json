@@ -1,0 +1,224 @@
+{
+    "request": {
+        "name": "Anupam Mittal",
+        "title": "Businessperson (Shaadi.com)",
+        "year": 1971,
+        "month": 12,
+        "day": 23,
+        "hour": 0,
+        "minute": 0,
+        "second": 0,
+        "latitude": 19.07283,
+        "longitude": 72.88261,
+        "location": "Mumbai",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "about": "<p>Anupam Mittal (born 23 December 1971) is an Indian entrepreneur, business executive and angel investor. He is the founder and CEO of People Group and Shaadi.com. Apart from starting Shaadi.com, an Indian online wedding service, he has also been a prominent investor in Shark Tank Season 1, 2, 3, 4 and 5, investing in over 250 companies. He was also the co-founder and chairperson of the Internet and Mobile Association of India (IAMAI) from 2006 to 2007 and is currently on its Governing Council. He is the recipient of the Karmaveer Chakra Award. He has also acted in and produced Bollywood films such as 99 and Flavors.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 148.04574781389337,
+            "ascendant": 5
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 236.81668822138082,
+                "cusp_degree": 26.816688221380815,
+                "motion_speed": 0.22510590255645124,
+                "zodiac": 8,
+                "house": 4,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 246.7901149592557,
+                "cusp_degree": 6.790114959255703,
+                "motion_speed": 1.018775213030187,
+                "zodiac": 9,
+                "house": 5,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 307.29740924014266,
+                "cusp_degree": 7.297409240142656,
+                "motion_speed": 13.651215842568897,
+                "zodiac": 11,
+                "house": 7,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 275.90989685860654,
+                "cusp_degree": 5.909896858606544,
+                "motion_speed": 1.2386499972877023,
+                "zodiac": 10,
+                "house": 6,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 333.9824842200554,
+                "cusp_degree": 3.982484220055426,
+                "motion_speed": 0.6378010015187646,
+                "zodiac": 12,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 228.49330817378456,
+                "cusp_degree": 18.493308173784555,
+                "motion_speed": -0.015368111159966221,
+                "zodiac": 8,
+                "house": 4,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 37.506192953850224,
+                "cusp_degree": 7.506192953850224,
+                "motion_speed": -0.0657434511134399,
+                "zodiac": 2,
+                "house": 10,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 282.1740153847335,
+                "cusp_degree": 12.17401538473348,
+                "motion_speed": 0.027179426668217776,
+                "zodiac": 10,
+                "house": 6,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 283.65241460077743,
+                "cusp_degree": 13.652414600777433,
+                "motion_speed": -0.05299203159888121,
+                "zodiac": 10,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 103.65241460077743,
+                "motion_speed": -0.05299203159888121,
+                "cusp_degree": 13.652414600777433,
+                "zodiac": 4,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 102.17401538473348,
+                "motion_speed": 0.027179426668217776,
+                "cusp_degree": 12.17401538473348,
+                "zodiac": 4,
+                "house": 12,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1971-12-23",
+        "latitude": 19.07283,
+        "longitude": 72.88261,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2441308.5,
+        "solar_longitude": 247.0235857159988,
+        "lunar_longitude": 310.4308712124372,
+        "lunar_latitude": 2.4671417828655215,
+        "sunrise": [
+            2441308.7997247637,
+            [
+                7,
+                11,
+                36
+            ],
+            [
+                1971,
+                12,
+                23,
+                7.1933943293988705
+            ]
+        ],
+        "sunset": [
+            2441309.2519803997,
+            [
+                18,
+                2,
+                51
+            ],
+            [
+                1971,
+                12,
+                23,
+                18.047529593110085
+            ]
+        ],
+        "moonrise": [
+            2441308.973704692,
+            [
+                11,
+                22,
+                8
+            ],
+            [
+                1971,
+                12,
+                23,
+                11.368912607431412
+            ]
+        ],
+        "moonset": [
+            2441309.4757052585,
+            [
+                23,
+                25,
+                1
+            ],
+            [
+                1971,
+                12,
+                23,
+                23.416926205158234
+            ]
+        ],
+        "tithi": [
+            6,
+            [
+                23,
+                21,
+                40
+            ]
+        ],
+        "nakshatra": [
+            "Shravana",
+            22,
+            [
+                16,
+                37,
+                23
+            ]
+        ],
+        "yoga": [
+            "Siddha",
+            15
+        ],
+        "karana": [
+            11,
+            -1.2154610053509884
+        ],
+        "vaara": "Guruvara",
+        "lunar_phase": 63.40728549643839,
+        "masa": [
+            "Pausha",
+            10,
+            false
+        ],
+        "ahargana": 1852843,
+        "ritu": "Vasant Ritu (Spring)",
+        "samvatsara": 45,
+        "day_duration": [
+            10.854135263711214,
+            [
+                10,
+                51,
+                15
+            ]
+        ]
+    }
+}

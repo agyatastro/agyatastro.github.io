@@ -1,0 +1,224 @@
+{
+    "request": {
+        "name": "Peyush Bansal",
+        "title": "Businessperson (Lenskart)",
+        "year": 1985,
+        "month": 4,
+        "day": 26,
+        "hour": 0,
+        "minute": 0,
+        "second": 0,
+        "latitude": 28.65195,
+        "longitude": 77.23149,
+        "location": "Delhi",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "about": "Peyush Bansal (born 26 April 1985) is an Indian entrepreneur, business executive and angel investor.[2] He is the co-founder and CEO of Lenskart, an Indian multinational eyewear retail chain, based in Gurugram. He is also a \"shark\" in the show Shark Tank India."
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 260.37426886703054,
+            "ascendant": 9
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 290.872752322303,
+                "cusp_degree": 20.872752322302972,
+                "motion_speed": 0.11660438197701228,
+                "zodiac": 10,
+                "house": 2,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 11.839933415722996,
+                "cusp_degree": 11.839933415722996,
+                "motion_speed": 0.9733926608060623,
+                "zodiac": 1,
+                "house": 5,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 73.1220661486711,
+                "cusp_degree": 13.122066148671095,
+                "motion_speed": 12.492870583726884,
+                "zodiac": 3,
+                "house": 7,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 342.3649201862971,
+                "cusp_degree": 12.364920186297127,
+                "motion_speed": 0.02973614209423897,
+                "zodiac": 12,
+                "house": 4,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 35.9255166866467,
+                "cusp_degree": 5.925516686646702,
+                "motion_speed": 0.6962674687099712,
+                "zodiac": 2,
+                "house": 6,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 345.9864918896546,
+                "cusp_degree": 15.986491889654587,
+                "motion_speed": 0.6476835526190221,
+                "zodiac": 12,
+                "house": 4,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 212.62823615842953,
+                "cusp_degree": 2.62823615842953,
+                "motion_speed": -0.06731944633981321,
+                "zodiac": 8,
+                "house": 12,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 24.566558513225917,
+                "cusp_degree": 24.566558513225917,
+                "motion_speed": 0.018128267052299234,
+                "zodiac": 1,
+                "house": 5,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 25.422229153391257,
+                "cusp_degree": 25.422229153391257,
+                "motion_speed": -0.05299203535434988,
+                "zodiac": 1,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 205.42222915339124,
+                "motion_speed": -0.05299203535434988,
+                "cusp_degree": 25.422229153391243,
+                "zodiac": 7,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 204.5665585132259,
+                "motion_speed": 0.018128267052299234,
+                "cusp_degree": 24.566558513225914,
+                "zodiac": 7,
+                "house": 11,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1985-04-26",
+        "latitude": 28.65195,
+        "longitude": 77.23149,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2446181.5,
+        "solar_longitude": 12.062987439565081,
+        "lunar_longitude": 75.9922457737869,
+        "lunar_latitude": 4.137244722470942,
+        "sunrise": [
+            2446181.7423281814,
+            [
+                5,
+                48,
+                57
+            ],
+            [
+                1985,
+                4,
+                26,
+                5.815876353532076
+            ]
+        ],
+        "sunset": [
+            2446182.2842032737,
+            [
+                18,
+                49,
+                15
+            ],
+            [
+                1985,
+                4,
+                26,
+                18.820878569036722
+            ]
+        ],
+        "moonrise": [
+            2446181.9190781782,
+            [
+                10,
+                3,
+                28
+            ],
+            [
+                1985,
+                4,
+                26,
+                10.057876277714968
+            ]
+        ],
+        "moonset": [
+            2446182.5124804904,
+            [
+                24,
+                17,
+                58
+            ],
+            [
+                1985,
+                4,
+                27,
+                0.2995317690074444
+            ]
+        ],
+        "tithi": [
+            6,
+            [
+                22,
+                23,
+                5
+            ]
+        ],
+        "nakshatra": [
+            "Rohini",
+            4,
+            [
+                7,
+                23,
+                47
+            ]
+        ],
+        "yoga": [
+            "Sukarma",
+            6
+        ],
+        "karana": [
+            11,
+            -0.7447224614735717
+        ],
+        "vaara": "Shukrvara",
+        "lunar_phase": 63.92925833422183,
+        "masa": [
+            "Jyeshtha",
+            3,
+            true
+        ],
+        "ahargana": 1857716,
+        "ritu": "Vasant Ritu (Spring)",
+        "samvatsara": 59,
+        "day_duration": [
+            13.005002215504646,
+            [
+                13,
+                0,
+                18
+            ]
+        ]
+    }
+}

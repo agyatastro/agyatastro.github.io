@@ -1,0 +1,224 @@
+{
+    "request": {
+        "name": "Ashneer Grover",
+        "title": "Businessperson (BharatPe)",
+        "year": 1982,
+        "month": 6,
+        "day": 14,
+        "hour": 0,
+        "minute": 0,
+        "second": 0,
+        "latitude": 28.65195,
+        "longitude": 77.23149,
+        "location": "Delhi",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "about": "<p>Ashneer Grover was born on June 14, 1982, in Delhi, into a middle-class family. His father was a Chartered Accountant and his mother a teacher. Growing up in Delhi, Ashneer attended Apeejay School, where he excelled academically. His father’s career in finance and his mother’s role in education influenced his early life. After completing his schooling, Ashneer pursued a B.Tech in Civil Engineering at the prestigious Indian Institute of Technology (IIT) Delhi. His academic prowess was evident as he later participated in an exchange program at INSA Lyon in France during 2002-2003, which broadened his horizons and added an international dimension to his education.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 317.26669526989684,
+            "ascendant": 11
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 187.1237398804075,
+                "cusp_degree": 7.1237398804074985,
+                "motion_speed": -0.04190181938124414,
+                "zodiac": 7,
+                "house": 9,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 58.798088993068475,
+                "cusp_degree": 28.798088993068475,
+                "motion_speed": 0.9552927086071309,
+                "zodiac": 2,
+                "house": 4,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 317.18734217510416,
+                "cusp_degree": 17.187342175104163,
+                "motion_speed": 12.59902049784773,
+                "zodiac": 11,
+                "house": 1,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 22.575537387004974,
+                "cusp_degree": 22.575537387004974,
+                "motion_speed": 1.171844753993548,
+                "zodiac": 1,
+                "house": 3,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 162.72029769422358,
+                "cusp_degree": 12.720297694223575,
+                "motion_speed": 0.328969933277241,
+                "zodiac": 6,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 43.01153548246984,
+                "cusp_degree": 13.011535482469839,
+                "motion_speed": -0.0150270871460552,
+                "zodiac": 2,
+                "house": 4,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 171.90871468360731,
+                "cusp_degree": 21.908714683607315,
+                "motion_speed": -0.007858929191788015,
+                "zodiac": 6,
+                "house": 8,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 79.87745761182987,
+                "cusp_degree": 19.87745761182987,
+                "motion_speed": 0.013498978286641334,
+                "zodiac": 3,
+                "house": 5,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 80.90488347332071,
+                "cusp_degree": 20.90488347332071,
+                "motion_speed": -0.052992021503919344,
+                "zodiac": 3,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 260.9048834733207,
+                "motion_speed": -0.052992021503919344,
+                "cusp_degree": 20.904883473320695,
+                "zodiac": 9,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 259.87745761182987,
+                "motion_speed": 0.013498978286641334,
+                "cusp_degree": 19.87745761182987,
+                "zodiac": 9,
+                "house": 11,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1982-06-14",
+        "latitude": 28.65195,
+        "longitude": 77.23149,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2445134.5,
+        "solar_longitude": 59.01700721807209,
+        "lunar_longitude": 320.0833727671628,
+        "lunar_latitude": -4.574432009991493,
+        "sunrise": [
+            2445134.726960832,
+            [
+                5,
+                26,
+                49
+            ],
+            [
+                1982,
+                6,
+                14,
+                5.447059962898493
+            ]
+        ],
+        "sunset": [
+            2445135.3024718156,
+            [
+                19,
+                15,
+                34
+            ],
+            [
+                1982,
+                6,
+                14,
+                19.259323574602604
+            ]
+        ],
+        "moonrise": [
+            2445135.5228240555,
+            [
+                24,
+                32,
+                52
+            ],
+            [
+                1982,
+                6,
+                15,
+                0.5477773323655128
+            ]
+        ],
+        "moonset": [
+            2445134.995413689,
+            [
+                11,
+                53,
+                24
+            ],
+            [
+                1982,
+                6,
+                14,
+                11.88992853462696
+            ]
+        ],
+        "tithi": [
+            22,
+            [
+                11,
+                25,
+                56
+            ]
+        ],
+        "nakshatra": [
+            "Dhanishta",
+            23,
+            [
+                24,
+                35,
+                14
+            ]
+        ],
+        "yoga": [
+            "Priti",
+            1
+        ],
+        "karana": [
+            43,
+            -5.735488404589319
+        ],
+        "vaara": "Somavara",
+        "lunar_phase": 261.06636554909073,
+        "masa": [
+            "Ashadha",
+            4,
+            true
+        ],
+        "ahargana": 1856669,
+        "ritu": "Vasant Ritu (Spring)",
+        "samvatsara": 56,
+        "day_duration": [
+            13.812263611704111,
+            [
+                13,
+                48,
+                44
+            ]
+        ]
+    }
+}

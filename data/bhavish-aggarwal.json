@@ -1,0 +1,224 @@
+{
+    "request": {
+        "name": "Bhavish Aggarwal",
+        "title": "Businessperson (Ola)",
+        "year": 1985,
+        "month": 8,
+        "day": 28,
+        "hour": 0,
+        "minute": 0,
+        "second": 0,
+        "latitude": 30.91204,
+        "longitude": 75.85379,
+        "location": "Ludhiana",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "about": "<p>Bhavish Aggarwal (born 28 August 1985) is an Indian entrepreneur. He is the co-founder and CEO of Ola Consumer, founder of Ola Electric[1] and founder of Ola Krutrim, a large language model artificial intelligence (AI) company which became India's first AI unicorn in 2024 an estimated valuation of $1 billion.</p><p>Aggarwal was included in Time magazine's 100 Most Influential People of 2018. [4] With a net worth of $2.3 billion, Aggarwal is one of the youngest self-made billionaires in the world</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 51.345776904591574,
+            "ascendant": 2
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 285.53967686955843,
+                "cusp_degree": 15.539676869558434,
+                "motion_speed": -0.1055711368441486,
+                "zodiac": 10,
+                "house": 9,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 130.76430407562628,
+                "cusp_degree": 10.764304075626285,
+                "motion_speed": 0.9654156696513385,
+                "zodiac": 5,
+                "house": 4,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 279.1223665603002,
+                "cusp_degree": 9.12236656030018,
+                "motion_speed": 13.317304309056764,
+                "zodiac": 10,
+                "house": 9,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 95.89576086625345,
+                "cusp_degree": 5.895760866253454,
+                "motion_speed": 1.1839759651155082,
+                "zodiac": 4,
+                "house": 3,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 117.89810311734308,
+                "cusp_degree": 27.898103117343084,
+                "motion_speed": 0.6368387866612408,
+                "zodiac": 4,
+                "house": 3,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 112.55521327552528,
+                "cusp_degree": 22.555213275525276,
+                "motion_speed": 0.8723079149572294,
+                "zodiac": 4,
+                "house": 3,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 208.68063098577662,
+                "cusp_degree": 28.680630985776617,
+                "motion_speed": 0.051570699167030894,
+                "zodiac": 7,
+                "house": 6,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 18.092336672281377,
+                "cusp_degree": 18.092336672281377,
+                "motion_speed": -0.1641427677876116,
+                "zodiac": 1,
+                "house": 12,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 18.85121782371021,
+                "cusp_degree": 18.85121782371021,
+                "motion_speed": -0.05299203494128433,
+                "zodiac": 1,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 198.85121782371021,
+                "motion_speed": -0.05299203494128433,
+                "cusp_degree": 18.851217823710215,
+                "zodiac": 7,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 198.09233667228136,
+                "motion_speed": -0.1641427677876116,
+                "cusp_degree": 18.092336672281363,
+                "zodiac": 7,
+                "house": 6,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1985-08-28",
+        "latitude": 30.91204,
+        "longitude": 75.85379,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2446305.5,
+        "solar_longitude": 130.9855554882411,
+        "lunar_longitude": 282.1689749343898,
+        "lunar_latitude": -5.019334303583466,
+        "sunrise": [
+            2446305.752900914,
+            [
+                6,
+                4,
+                11
+            ],
+            [
+                1985,
+                8,
+                28,
+                6.069621931761503
+            ]
+        ],
+        "sunset": [
+            2446306.285458811,
+            [
+                18,
+                51,
+                4
+            ],
+            [
+                1985,
+                8,
+                28,
+                18.851011466234922
+            ]
+        ],
+        "moonrise": [
+            2446306.2376855374,
+            [
+                17,
+                42,
+                16
+            ],
+            [
+                1985,
+                8,
+                28,
+                17.70445289835334
+            ]
+        ],
+        "moonset": [
+            2446305.654991506,
+            [
+                3,
+                43,
+                11
+            ],
+            [
+                1985,
+                8,
+                28,
+                3.719796147197485
+            ]
+        ],
+        "tithi": [
+            13,
+            [
+                15,
+                29,
+                55
+            ]
+        ],
+        "nakshatra": [
+            "Purva Ashadha",
+            20,
+            [
+                20,
+                19,
+                7
+            ]
+        ],
+        "yoga": [
+            "Sobhana",
+            4
+        ],
+        "karana": [
+            25,
+            -4.288918978023446
+        ],
+        "vaara": "Budhvara",
+        "lunar_phase": 151.1834194461487,
+        "masa": [
+            "Bhadrapada",
+            6,
+            false
+        ],
+        "ahargana": 1857840,
+        "ritu": "Vasant Ritu (Spring)",
+        "samvatsara": 59,
+        "day_duration": [
+            12.78138953447342,
+            [
+                12,
+                46,
+                53
+            ]
+        ]
+    }
+}

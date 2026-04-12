@@ -1,0 +1,224 @@
+{
+    "request": {
+        "name": "Vijay Shekhar Sharma",
+        "title": "Businessperson (PayTM)",
+        "year": 1978,
+        "month": 6,
+        "day": 7,
+        "hour": 0,
+        "minute": 0,
+        "second": 0,
+        "latitude": 27.88145,
+        "longitude": 78.07464,
+        "location": "Aligarh",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "about": "<p>Vijay Shekhar Sharma (born 7 June 1978) is an Indian technology entrepreneur known as the founder and chief executive officer of One97 Communications and its consumer brand Paytm.</p><p>In January 2022, the ICANN-supported Universal Acceptance Steering Group appointed him as its Universal Acceptance (UA) Ambassador[5] in India.[6] As of September 2022, he had a net worth of US$1.1 billion according to Forbes.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 309.2675788952051,
+            "ascendant": 11
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 76.79276020918137,
+                "cusp_degree": 16.792760209181367,
+                "motion_speed": 0.2151338095629467,
+                "zodiac": 3,
+                "house": 5,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 52.12747558593314,
+                "cusp_degree": 22.12747558593314,
+                "motion_speed": 0.9572542054774605,
+                "zodiac": 2,
+                "house": 4,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 62.96082879125948,
+                "cusp_degree": 2.9608287912594804,
+                "motion_speed": 11.978477214366654,
+                "zodiac": 3,
+                "house": 5,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 85.2041126911346,
+                "cusp_degree": 25.204112691134597,
+                "motion_speed": 1.18911487304801,
+                "zodiac": 3,
+                "house": 5,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 122.475694822082,
+                "cusp_degree": 2.475694822082005,
+                "motion_speed": 0.5338708212868615,
+                "zodiac": 5,
+                "house": 7,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 42.81479744068376,
+                "cusp_degree": 12.814797440683762,
+                "motion_speed": 2.0847697010518456,
+                "zodiac": 2,
+                "house": 4,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 121.62027651381318,
+                "cusp_degree": 1.620276513813181,
+                "motion_speed": 0.06920773486621976,
+                "zodiac": 5,
+                "house": 7,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 159.41719557423355,
+                "cusp_degree": 9.417195574233546,
+                "motion_speed": -0.2179962167643092,
+                "zodiac": 6,
+                "house": 8,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 158.69718775119551,
+                "cusp_degree": 8.697187751195514,
+                "motion_speed": -0.052992008868867235,
+                "zodiac": 6,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 338.69718775119554,
+                "motion_speed": -0.052992008868867235,
+                "cusp_degree": 8.697187751195543,
+                "zodiac": 12,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 339.4171955742336,
+                "motion_speed": -0.2179962167643092,
+                "cusp_degree": 9.417195574233574,
+                "zodiac": 12,
+                "house": 2,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1978-06-07",
+        "latitude": 27.88145,
+        "longitude": 78.07464,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2443666.5,
+        "solar_longitude": 52.34683960251327,
+        "lunar_longitude": 65.70355439200478,
+        "lunar_latitude": -5.005273543504812,
+        "sunrise": [
+            2443666.7258255454,
+            [
+                5,
+                25,
+                11
+            ],
+            [
+                1978,
+                6,
+                7,
+                5.419813089072704
+            ]
+        ],
+        "sunset": [
+            2443667.2970072976,
+            [
+                19,
+                7,
+                41
+            ],
+            [
+                1978,
+                6,
+                7,
+                19.128175143152475
+            ]
+        ],
+        "moonrise": [
+            2443666.765989853,
+            [
+                6,
+                23,
+                2
+            ],
+            [
+                1978,
+                6,
+                7,
+                6.383756473660469
+            ]
+        ],
+        "moonset": [
+            2443667.3591320254,
+            [
+                20,
+                37,
+                9
+            ],
+            [
+                1978,
+                6,
+                7,
+                20.619168609380722
+            ]
+        ],
+        "tithi": [
+            2,
+            [
+                28,
+                43,
+                7
+            ]
+        ],
+        "nakshatra": [
+            "Rohini",
+            4,
+            [
+                28,
+                1,
+                6
+            ]
+        ],
+        "yoga": [
+            "Ganda",
+            9
+        ],
+        "karana": [
+            2,
+            -3.838885178206837
+        ],
+        "vaara": "Budhvara",
+        "lunar_phase": 13.356714789491505,
+        "masa": [
+            "Ashadha",
+            4,
+            false
+        ],
+        "ahargana": 1855201,
+        "ritu": "Vasant Ritu (Spring)",
+        "samvatsara": 52,
+        "day_duration": [
+            13.708362054079771,
+            [
+                13,
+                42,
+                30
+            ]
+        ]
+    }
+}

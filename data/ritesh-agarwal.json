@@ -1,0 +1,224 @@
+{
+    "request": {
+        "name": "Ritesh Agarwal",
+        "title": "Businessperson (OYO)",
+        "year": 1993,
+        "month": 11,
+        "day": 16,
+        "hour": 0,
+        "minute": 0,
+        "second": 0,
+        "latitude": 20.46497,
+        "longitude": 85.87927,
+        "location": "Cuttack",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "about": "Ritesh Agarwal (born 16 November 1993) is an Indian billionaire entrepreneur and the founder and CEO of PRISM, a hospitality chain. He has been a panellist on Shark Tank India (season 3) in 2024. Agarwal listed among Top 10 youngest Indian billionaires in Hurun Rich List of India 2024, with a net worth of $225 million (₹1,900 crore)"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 126.66937407700219,
+            "ascendant": 5
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 187.3696483187617,
+                "cusp_degree": 7.369648318761705,
+                "motion_speed": 0.2093901228858759,
+                "zodiac": 7,
+                "house": 3,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 209.63960880945683,
+                "cusp_degree": 29.63960880945683,
+                "motion_speed": 1.007961758585661,
+                "zodiac": 7,
+                "house": 3,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 235.04139354545822,
+                "cusp_degree": 25.04139354545822,
+                "motion_speed": 14.249917613878372,
+                "zodiac": 8,
+                "house": 4,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 194.59845537376484,
+                "cusp_degree": 14.598455373764835,
+                "motion_speed": 1.25385918329214,
+                "zodiac": 7,
+                "house": 3,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 220.93484926238298,
+                "cusp_degree": 10.934849262382983,
+                "motion_speed": 0.7230010313471025,
+                "zodiac": 8,
+                "house": 4,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 192.7825075586763,
+                "cusp_degree": 12.782507558676286,
+                "motion_speed": 0.0980144360633696,
+                "zodiac": 7,
+                "house": 3,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 300.15601819263776,
+                "cusp_degree": 0.1560181926377595,
+                "motion_speed": 0.031860970764700056,
+                "zodiac": 11,
+                "house": 7,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 219.23361887627706,
+                "cusp_degree": 9.233618876277063,
+                "motion_speed": 0.008720348752104111,
+                "zodiac": 8,
+                "house": 4,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 219.76916461435894,
+                "cusp_degree": 9.769164614358942,
+                "motion_speed": -0.05299202705566025,
+                "zodiac": 8,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 39.76916461435894,
+                "motion_speed": -0.05299202705566025,
+                "cusp_degree": 9.769164614358942,
+                "zodiac": 2,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 39.23361887627709,
+                "motion_speed": 0.008720348752104111,
+                "cusp_degree": 9.233618876277092,
+                "zodiac": 2,
+                "house": 10,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1993-11-16",
+        "latitude": 20.46497,
+        "longitude": 85.87927,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2449307.5,
+        "solar_longitude": 209.87061068442742,
+        "lunar_longitude": 238.29657081604998,
+        "lunar_latitude": 1.7304004396496642,
+        "sunrise": [
+            2449307.750160674,
+            [
+                6,
+                0,
+                14
+            ],
+            [
+                1993,
+                11,
+                16,
+                6.003856178373098
+            ]
+        ],
+        "sunset": [
+            2449308.209794717,
+            [
+                17,
+                2,
+                6
+            ],
+            [
+                1993,
+                11,
+                16,
+                17.035073205828667
+            ]
+        ],
+        "moonrise": [
+            2449307.843870929,
+            [
+                8,
+                15,
+                10
+            ],
+            [
+                1993,
+                11,
+                16,
+                8.252902295440435
+            ]
+        ],
+        "moonset": [
+            2449308.3108519884,
+            [
+                19,
+                27,
+                38
+            ],
+            [
+                1993,
+                11,
+                16,
+                19.4604477211833
+            ]
+        ],
+        "tithi": [
+            3,
+            [
+                19,
+                57,
+                51
+            ]
+        ],
+        "nakshatra": [
+            "Anuradha",
+            17,
+            [
+                26,
+                20,
+                55
+            ]
+        ],
+        "yoga": [
+            "Sukarma",
+            6
+        ],
+        "karana": [
+            5,
+            -1.702811474661246
+        ],
+        "vaara": "Mangalvara",
+        "lunar_phase": 28.42596013162256,
+        "masa": [
+            "Margsheersha",
+            9,
+            false
+        ],
+        "ahargana": 1860842,
+        "ritu": "Vasant Ritu (Spring)",
+        "samvatsara": 7,
+        "day_duration": [
+            11.031217027455568,
+            [
+                11,
+                1,
+                52
+            ]
+        ]
+    }
+}

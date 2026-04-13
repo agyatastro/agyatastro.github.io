@@ -1,0 +1,224 @@
+{
+    "request": {
+        "name": "Native with Progeny Issues",
+        "title": "Professor (Govt Collage)",
+        "year": 1988,
+        "month": 2,
+        "day": 5,
+        "hour": 4,
+        "minute": 25,
+        "second": 0,
+        "latitude": 26.46523,
+        "longitude": 80.34975,
+        "location": "Kanpur",
+        "gender": "male",
+        "agyat_rating": "AA",
+        "about": ""
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 251.84600137396973,
+            "ascendant": 9
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 0.31280305408501613,
+                "cusp_degree": 0.31280305408501613,
+                "motion_speed": 0.15291614538705434,
+                "zodiac": 1,
+                "house": 5,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 291.6555426792472,
+                "cusp_degree": 21.65554267924722,
+                "motion_speed": 1.013669631898713,
+                "zodiac": 10,
+                "house": 2,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 134.19964685768406,
+                "cusp_degree": 14.199646857684058,
+                "motion_speed": 11.823743733119885,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 330.84151249136005,
+                "cusp_degree": 0.8415124913600494,
+                "motion_speed": 1.1951901115788144,
+                "zodiac": 12,
+                "house": 4,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 234.55837107179022,
+                "cusp_degree": 24.55837107179022,
+                "motion_speed": 0.67089545543162,
+                "zodiac": 8,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 303.70059955532406,
+                "cusp_degree": 3.700599555324061,
+                "motion_speed": -0.4963235825932603,
+                "zodiac": 11,
+                "house": 3,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 245.50356461692627,
+                "cusp_degree": 5.503564616926269,
+                "motion_speed": 0.09357560545910162,
+                "zodiac": 9,
+                "house": 1,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 329.75649738070575,
+                "cusp_degree": 29.756497380705753,
+                "motion_speed": -0.039135077723405014,
+                "zodiac": 11,
+                "house": 3,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 331.62557124193705,
+                "cusp_degree": 1.6255712419370525,
+                "motion_speed": -0.052992032648032435,
+                "zodiac": 12,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 151.62557124193705,
+                "motion_speed": -0.052992032648032435,
+                "cusp_degree": 1.6255712419370525,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 149.75649738070575,
+                "motion_speed": -0.039135077723405014,
+                "cusp_degree": 29.756497380705753,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1988-02-05",
+        "latitude": 26.46523,
+        "longitude": 80.34975,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2447196.5,
+        "solar_longitude": 291.7012982982585,
+        "lunar_longitude": 134.7333900210139,
+        "lunar_latitude": 1.3476832770308538,
+        "sunrise": [
+            2447196.7887568106,
+            [
+                6,
+                55,
+                49
+            ],
+            [
+                1988,
+                2,
+                5,
+                6.930163454264402
+            ]
+        ],
+        "sunset": [
+            2447197.2427744856,
+            [
+                17,
+                49,
+                36
+            ],
+            [
+                1988,
+                2,
+                5,
+                17.82658765465021
+            ]
+        ],
+        "moonrise": [
+            2447197.3363655037,
+            [
+                20,
+                4,
+                22
+            ],
+            [
+                1988,
+                2,
+                5,
+                20.072772089391947
+            ]
+        ],
+        "moonset": [
+            2447196.841477424,
+            [
+                8,
+                11,
+                44
+            ],
+            [
+                1988,
+                2,
+                5,
+                8.195458173751831
+            ]
+        ],
+        "tithi": [
+            17,
+            [
+                9,
+                4,
+                41
+            ]
+        ],
+        "nakshatra": [
+            "Ashlesha",
+            9,
+            [
+                23,
+                39,
+                15
+            ]
+        ],
+        "yoga": [
+            "Atiganda",
+            5
+        ],
+        "karana": [
+            34,
+            -2.155535099044954
+        ],
+        "vaara": "Shukrvara",
+        "lunar_phase": 203.03209172275538,
+        "masa": [
+            "Magha",
+            11,
+            false
+        ],
+        "ahargana": 1858731,
+        "ritu": "Vasant Ritu (Spring)",
+        "samvatsara": 1,
+        "day_duration": [
+            10.896424200385809,
+            [
+                10,
+                53,
+                47
+            ]
+        ]
+    }
+}

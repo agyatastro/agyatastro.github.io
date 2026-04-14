@@ -13,6 +13,7 @@
         "location": "Patna",
         "gender": "male",
         "agyat_rating": "AX",
+        "related": ["sportsperson", "cricketer"],
         "about": "</p><p>Ishan Kishan (born 18 July 1998) is an Indian International cricketer who plays for the Indian national cricket team as a wicket-keeper batsman in all formats of this game. He made his international debut in March 2021 against England. He plays for Jharkhand in domestic cricket. In the Indian Premier League, he plays for Sunrisers Hyderabad.</p><p>In December 2022 he scored 210 runs in 131 balls in an ODI match against Bangladesh, becoming the cricketer with the fastest ODI double century, youngest cricketer to score an ODI double century and the first to convert a maiden ODI century to a double century.</p><p>He was the captain of India's squad for the 2016 Under-19 Cricket World Cup. He was a part of the Indian squad which won the 2023 Asia Cup and 2026 T20 World Cup.</p>"
     },
     "response": {

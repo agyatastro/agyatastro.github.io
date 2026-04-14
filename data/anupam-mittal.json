@@ -13,6 +13,7 @@
         "location": "Mumbai",
         "gender": "male",
         "agyat_rating": "AX",
+        "related": ["businessperson"],
         "about": "<p>Anupam Mittal (born 23 December 1971) is an Indian entrepreneur, business executive and angel investor. He is the founder and CEO of People Group and Shaadi.com. Apart from starting Shaadi.com, an Indian online wedding service, he has also been a prominent investor in Shark Tank Season 1, 2, 3, 4 and 5, investing in over 250 companies. He was also the co-founder and chairperson of the Internet and Mobile Association of India (IAMAI) from 2006 to 2007 and is currently on its Governing Council. He is the recipient of the Karmaveer Chakra Award. He has also acted in and produced Bollywood films such as 99 and Flavors.</p>"
     },
     "response": {

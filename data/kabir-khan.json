@@ -12,6 +12,7 @@
         "longitude": 78.45636,
         "location": "Hyderabad",
         "agyat_rating": "AX",
+        "related": ["cinema-producer", "cinema-director"],
         "about": "<p>Kabir Khan is an Indian film director, screenwriter and cinematographer who works in Hindi cinema. He started his career working in documentary films, and then made his feature film directorial debut in 2006 with the adventure thriller Kabul Express (2006). He is best known for directing New York (2009), Ek Tha Tiger (2012), Bajrangi Bhaijaan (2015), and 83 (2021). His latest film Chandu Champion (2024) and Tariq (2025). was released on 14 June 2024 opening to positive reviews. This was his second sports biopic after 83.</p><p>He is the board member of Mumbai Academy of the Moving Image.</p>"
     },
     "response": {

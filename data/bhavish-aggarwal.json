@@ -13,6 +13,7 @@
         "location": "Ludhiana",
         "gender": "male",
         "agyat_rating": "AX",
+        "related": ["businessperson"],
         "about": "<p>Bhavish Aggarwal (born 28 August 1985) is an Indian entrepreneur. He is the co-founder and CEO of Ola Consumer, founder of Ola Electric[1] and founder of Ola Krutrim, a large language model artificial intelligence (AI) company which became India's first AI unicorn in 2024 an estimated valuation of $1 billion.</p><p>Aggarwal was included in Time magazine's 100 Most Influential People of 2018. [4] With a net worth of $2.3 billion, Aggarwal is one of the youngest self-made billionaires in the world</p>"
     },
     "response": {

@@ -13,6 +13,7 @@
         "location": "Delhi",
         "gender": "male",
         "agyat_rating": "AX",
+        "related": ["businessperson"],
         "about": "<p>Ashneer Grover was born on June 14, 1982, in Delhi, into a middle-class family. His father was a Chartered Accountant and his mother a teacher. Growing up in Delhi, Ashneer attended Apeejay School, where he excelled academically. His father’s career in finance and his mother’s role in education influenced his early life. After completing his schooling, Ashneer pursued a B.Tech in Civil Engineering at the prestigious Indian Institute of Technology (IIT) Delhi. His academic prowess was evident as he later participated in an exchange program at INSA Lyon in France during 2002-2003, which broadened his horizons and added an international dimension to his education.</p>"
     },
     "response": {

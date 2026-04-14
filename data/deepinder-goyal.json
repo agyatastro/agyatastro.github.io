@@ -13,6 +13,7 @@
         "location": "Muktsar",
         "gender": "male",
         "agyat_rating": "AX",
+        "related": ["businessperson"],
         "about": "<p>Deepinder Goyal (born 26 January 1983) is an Indian entrepreneur and investor. He is the co-founder of Zomato, Eternal, LAT Aerospace and Temple. As of January 2026, Goyal is worth $1.6 billion, according to Forbes</p>"
     },
     "response": {

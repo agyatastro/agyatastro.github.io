@@ -13,6 +13,7 @@
         "location": "Surat",
         "gender": "male",
         "agyat_rating": "CX",
+        "related": ["sportsperson", "cricketer"],
         "advanced": "multiple marriage, divorce, defamation",
         "about": "Hardik Himanshu Pandya (born 11 October 1993) is an Indian international cricketer who plays for the Indian cricket team. He is an all-rounder who is a right-handed middle order batsman and fast-medium bowler. He is considered one of the best all-rounders in the world in white-ball cricket. Pandya is the first fast-bowling all-rounder in T20Is to complete 1,000 runs and 100 wickets. He captains Mumbai Indians in the Indian Premier League and occasionally plays for Baroda in domestic cricket. He has captained the Indian team in white-ball cricket and was the vice captain of the team that won the 2024 T20 World Cup."
     },

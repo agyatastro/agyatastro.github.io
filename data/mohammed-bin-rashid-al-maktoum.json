@@ -13,6 +13,7 @@
         "location": "Dubai",
         "gender": "male",
         "agyat_rating": "AX",
+        "related": ["politician", "prime-minister", "monarch"],
         "about": "<p>Sheikh Mohammed bin Rashid Al Maktoum (Arabic: محمد بن راشد آل مكتوم, romanized: Muḥammad bin Rāšid Āl Maktūm; born 15 July 1949) is an Emirati politician and royal who is the current ruler of Dubai, and serves as the vice president and prime minister of the UAE. Mohammed succeeded his brother Maktoum bin Rashid Al Maktoum as UAE vice president, UAE prime minister, and ruler of Dubai following the latter's death in 2006.</p><p>Under his leadership, Dubai became a global city. A number of government-owned enterprises have been launched, including the Emirates airline, DP World, and the Jumeirah Group.</p><p>Mohammed oversaw the development of Palm Islands the establishment of Burj Al Arab hotel and Burj Khalifa, the tallest building in the world since 2010.</p><p>Mohammed is the absolute ruler of Dubai and the prime minister of the UAE, a position appointed by the president.</p><p>Mohammed is an equestrian and is the founder of the Maktoum family-owned Godolphin stable and the owner of Darley, a thoroughbred breeding operation, operational in six countries. In 2012, he rode the horse Madji Du Pont 160 km to take the FEI World Endurance Championship. He has been found guilty of coercive and abusive behaviour towards his wife and children and was subject to controversy for the claimed kidnapping and imprisonment of one of his daughters.</p>"
     },
     "response": {

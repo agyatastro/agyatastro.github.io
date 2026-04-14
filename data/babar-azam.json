@@ -14,6 +14,7 @@
         "gender": "male",
         "agyat_rating": "AX",
         "advanced": "batsman, humiliation",
+        "related": ["sportsperson", "cricketer"],
         "about": "Mohammad Babar Azam (Urdu, Punjabi: محمد بابر اعظم; pronounced [muhamməd babəɾ azəm]; born 15 October 1994) is a Pakistani international cricketer and a former captain of the Pakistan national team in all three formats of the game. A right-handed top-order batter, he captains Peshawar Zalmi in the Pakistan Super League. Azam was a member of the Pakistan team that won the 2017 ICC Champions Trophy."
     },
     "response": {

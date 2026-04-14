@@ -13,6 +13,7 @@
         "location": "Doha",
         "gender": "male",
         "agyat_rating": "AX",
+        "related": ["monarch"],
         "about": "Tamim bin Hamad bin Khalifa Al Thani (Arabic: تميم بن حمد بن خليفة آل ثاني, romanized: Tamīm bin Ḥamad bin Khalīfa Āl Thānī; born 3 June 1980) has reigned as the Emir of Qatar since 25 June 2013, succeeding his father, Hamad bin Khalifa Al Thani. Born in Doha, he is the fourth son of the former Emir and his second wife, Moza bint Nasser. Tamim became heir apparent in 2003 after his older brother Sheikh Jassim renounced his claim to the throne."
     },
     "response": {

@@ -14,6 +14,7 @@
         "gender": "male",
         "agyat_rating": "AX",
         "dod": "12/01/2023",
+        "related": ["politician"],
         "about": "Sharad Yadav (1 July 1947 – 12 January 2023) was an Indian politician from the Rashtriya Janata Dal(RJD) party. He was elected to the Lok Sabha seven times and to the Rajya Sabha four times for Janata Dal (United). He was the first national president of JD(U), serving from its formation in 2003 until 2016. He was disqualified from the Rajya Sabha in 2017 and removed from party leadership positions for engaging in anti-party activities"
     },
     "response": {

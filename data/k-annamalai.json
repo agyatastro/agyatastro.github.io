@@ -13,6 +13,7 @@
         "location": "Karur, Tamilnadu",
         "agyat_rating": "AC",
         "gender": "male",
+        "related": ["politician"],
         "about": "Annamalai Kuppusamy ( born 4 June 1984) is an Indian politician and former police officer. He is the state unit president of the Bharatiya Janata Party in Tamil Nadu."
     },
     "response": {

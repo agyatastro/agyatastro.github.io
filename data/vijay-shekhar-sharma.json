@@ -13,6 +13,7 @@
         "location": "Aligarh",
         "gender": "male",
         "agyat_rating": "AX",
+        "related": ["businessperson"],
         "about": "<p>Vijay Shekhar Sharma (born 7 June 1978) is an Indian technology entrepreneur known as the founder and chief executive officer of One97 Communications and its consumer brand Paytm.</p><p>In January 2022, the ICANN-supported Universal Acceptance Steering Group appointed him as its Universal Acceptance (UA) Ambassador[5] in India.[6] As of September 2022, he had a net worth of US$1.1 billion according to Forbes.</p>"
     },
     "response": {

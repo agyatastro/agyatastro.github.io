@@ -14,7 +14,7 @@
         "gender": "male",
         "agyat_rating": "AX",
         "advanced": "exiled, detention, corruption",
-        "related": ["zia-family"],
+        "related": ["zia-family", "politician", "prime-minister"],
         "about": "<p>Tarique Rahman (born 20 November 1968), also known as Tarique Zia, is a Bangladeshi politician who has served as the Prime Minister of Bangladesh and Chairman of the Bangladesh Nationalist Party (BNP) since 2026. He is the eldest son of former President Ziaur Rahman and former Prime Minister Khaleda Zia.</p><p>Rahman rose to prominence in the Bangladesh Nationalist Party during Khaleda Zia's premiership. After the Awami League's victory in the 2008 general election, he went into self-imposed exile in the United Kingdom, citing concerns for his safety and claiming that he was being persecuted by the authorities. He was convicted by the courts during Sheikh Hasina's premiership on multiple charges, including corruption, bribery, money laundering, illegal acquisition of wealth, and grenade attacks. A total of 84 cases were filed against him between 2007 to 2024 BNP claimed that those were politically motivated false charges. Later in 2024, following the July uprising, the court acquitted him of all charges and quashed his sentence; he subsequently returned to Bangladesh in late 2025 and won in the 2026 general election.</p><p>Rahman has drawn controversy in national politics, facing accusations of corruption, bribery, money-laundering charges and being linked to the use of Hawa Bhaban as a parallel power centre.</p>"
     },
     "response": {

@@ -13,6 +13,7 @@
         "location": "Guna",
         "gender": "male",
         "agyat_rating": "AX",
+        "related": ["sportsperson", "cricketer"],
         "about": "<p>Arshdeep Singh (born 1999) is an Indian professional cricketer who plays for the India national cricket team. In Indian domestic cricket, he plays for Punjab and for Punjab Kings in the Indian Premier League. Arshdeep is a left-arm medium-fast bowler. He was an integral member of the Indian team that won the 2024 and 2026 T20 World Cups, and was the joint-highest wicket taker in the former. Singh was also a member of the 2025 Champions Trophy and 2018 U19 World Cup winning squads.</p><p>Arshdeep made his international debut for the Indian team in July 2022 in a T20I match against England. He bowled a maiden over on debut, becoming just the third Indian bowler to do so on their T20I debut. Arshdeep is the first Indian bowler to take 100 wickets in T20 internationals</p>"
     },
     "response": {

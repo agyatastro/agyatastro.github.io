@@ -14,6 +14,7 @@
         "agyat_rating": "AA",
         "gender": "male",
         "advanced": "legal troubles, detention",
+        "related": ["politician"],
         "about": "Sanjay Singh (born 22 March 1972) is an Indian politician, activist, national spokesman for Aam Aadmi Party, a member of the Rajya Sabha from Delhi.He was active with Arvind Kejriwal in his campaigns from the Right To Information campaign in 2006 to the IAC movement led by social activist Anna Hazare."
     },
     "response": {

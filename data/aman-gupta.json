@@ -13,6 +13,7 @@
         "location": "Delhi",
         "gender": "male",
         "agyat_rating": "AX",
+        "related": ["businessperson"],
         "about": "<p>Aman Gupta (born 4 March 1982) is an Indian entrepreneur and angel investor. He is the co-founder and was the Chief marketing officer (CMO) of Indian electronics brand boAt Lifestyle, he stepped down from his position of CMO just 29 days before filing their IPO Prospectus. He is a judge and investor in business reality show Shark Tank India. He recently ventured into new-age business with OffBeat Studios, which secured ₹100 crore in seed funding, signaling early traction in the space.</p>"
     },
     "response": {

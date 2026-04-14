@@ -13,6 +13,7 @@
         "location": "Delhi",
         "gender": "male",
         "agyat_rating": "AX",
+        "related": ["businessperson"],
         "about": "Peyush Bansal (born 26 April 1985) is an Indian entrepreneur, business executive and angel investor.[2] He is the co-founder and CEO of Lenskart, an Indian multinational eyewear retail chain, based in Gurugram. He is also a \"shark\" in the show Shark Tank India."
     },
     "response": {

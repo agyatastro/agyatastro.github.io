@@ -14,6 +14,7 @@
         "gender": "male",
         "agyat_rating": "AX",
         "dod": "25/04/2023",
+        "related": ["politician", "chief-minister"],
         "about": "Parkash Singh Badal (8 December 1927 – 25 April 2023) was an Indian politician and Sikh rights advocate who served as the 8th Chief Minister of Punjab from 1970 to 1971, from 1977 to 1980, from 1997 to 2002, and from 2007 to 2017, the longest serving Chief Minister of Punjab till date. He was also Leader of the Opposition in the Punjab Legislative Assembly from 1972 to 1977, 1980 to 1983 and from 2002 to 2007 and the 11th Union Minister of Agriculture and Farmers' Welfare in the Morarji Desai ministry from 1977 to 1977. He was the patron of Shiromani Akali Dal (SAD), a Sikh-centered regional political party, and the president of the party from 1995 to 2008, when he was replaced by his son Sukhbir Singh Badal. As the patron of SAD he exercised a strong influence on the Shiromani Gurdwara Parbandhak Committee and Delhi Sikh Gurdwara Management Committee"
     },
     "response": {

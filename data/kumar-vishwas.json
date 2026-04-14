@@ -13,6 +13,7 @@
         "location": "Pilkhua",
         "gender": "male",
         "agyat_rating": "AU",
+        "related": ["politician", "poet"],
         "advanced": "rags-to-riches, govt job, kavi",
         "about": "Kumar Vishwas (born Vishwas Kumar Sharma; 10 February 1970) is an Indian Hindi poet, a lecturer and former politician. He was one of the founding members of the Aam Aadmi Party (AAP) and a former member of its National Executive"
     },

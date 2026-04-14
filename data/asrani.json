@@ -14,6 +14,7 @@
         "gender": "male",
         "dod": "20/10/2025",
         "agyat_rating": "AX",
+        "related": ["actor"],
         "about": "<p>Govardhan Asrani (1 January 1941 – 20 October 2025), known professionally as Asrani, was an Indian actor and film director. His career in Indian cinema spanned over five decades, during which he appeared in over 350 Hindi and Gujarati films. Asrani worked in lead, character, comedic, and supporting roles. He is particularly noted for his role as the Jailor in Sholay, caricaturing Hitler, and Amadavad no Rikshavaro and for his appearances in 25 films with Rajesh Khanna as the lead actor between 1972 and 1991.</p><p>In Hindi cinema, he appeared in several comic roles from 1966 to 2014 and frequently portrayed the close friend of the lead actor in films between 1972 and 1995. He appeared in multiple films directed by Hrishikesh Mukherjee and Priyadarshan. In some Hindi films, including Chala Murari Hero Banne and Salaam Memsaab, he played the lead role. In Gujarati films, he acted as the lead from 1972 to 1984 and performed character roles from 1985 to 2012. He directed six films between 1974 and 1997.</p>"
     },
     "response": {

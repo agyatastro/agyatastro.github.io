@@ -14,7 +14,8 @@
         "agyat_rating": "AA",
         "about": "NA",
         "mask": true,
-        "gender": "female"
+        "gender": "female",
+        "related": ["bachchan-family"]
     },
     "response": {
         "ascendant": {

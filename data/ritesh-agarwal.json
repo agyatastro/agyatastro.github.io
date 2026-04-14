@@ -13,6 +13,7 @@
         "location": "Cuttack",
         "gender": "male",
         "agyat_rating": "AX",
+        "related": ["businessperson"],
         "about": "Ritesh Agarwal (born 16 November 1993) is an Indian billionaire entrepreneur and the founder and CEO of PRISM, a hospitality chain. He has been a panellist on Shark Tank India (season 3) in 2024. Agarwal listed among Top 10 youngest Indian billionaires in Hurun Rich List of India 2024, with a net worth of $225 million (₹1,900 crore)"
     },
     "response": {

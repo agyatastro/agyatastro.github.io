@@ -1,0 +1,226 @@
+{
+    "request": {
+        "name": "Vikram Bhatt",
+        "title": "Cinema Director, Cinema Producer",
+        "year": 1969,
+        "month": 1,
+        "day": 27,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 19.07283,
+        "longitude": 72.88261,
+        "location": "Mumbai",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "advanced": "multiple-marriage, depression, substance-use, alcoholic",
+        "about": "<p>Vikram Bhatt is an Indian director, producer, screenwriter and actor. He is best known for directing the Raaz film series, an Indian horror series produced by Mahesh Bhatt and Mukesh Bhatt and for directing Ghulam (1998) starring Aamir Khan and Rani Mukherji, which was also produced by Mukesh Bhatt. For both of these films, he was nominated for the Filmfare Award for Best Director.</p><p>Formerly, he was the creative head of ASA Productions and Enterprises until 2014, when he resigned from the company. Many of his films were produced under Loneranger Productions, which he co-founded.</p>",
+        "related": ["bhatt-family", "cinema-director", "cinema-producer"]
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 10.00440958766351,
+            "ascendant": 1
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 162.5589120916779,
+                "cusp_degree": 12.558912091677911,
+                "motion_speed": -0.021589401496629173,
+                "zodiac": 6,
+                "house": 6,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 283.7318922172835,
+                "cusp_degree": 13.731892217283473,
+                "motion_speed": 1.0160565577277327,
+                "zodiac": 10,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 34.90280233501164,
+                "cusp_degree": 4.902802335011643,
+                "motion_speed": 11.89652286113331,
+                "zodiac": 2,
+                "house": 2,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 330.70535936177873,
+                "cusp_degree": 0.7053593617787328,
+                "motion_speed": 1.0131085618961988,
+                "zodiac": 12,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 202.21931719345432,
+                "cusp_degree": 22.219317193454316,
+                "motion_speed": 0.5289176250606514,
+                "zodiac": 7,
+                "house": 7,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 288.3842355893744,
+                "cusp_degree": 18.384235589374384,
+                "motion_speed": -1.1323833834526944,
+                "zodiac": 10,
+                "house": 10,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 356.4882624208487,
+                "cusp_degree": 26.488262420848685,
+                "motion_speed": 0.06421729469651229,
+                "zodiac": 12,
+                "house": 12,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 338.6010946339507,
+                "cusp_degree": 8.601094633950709,
+                "motion_speed": -0.06313301446007447,
+                "zodiac": 12,
+                "house": 12,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 339.79748406058286,
+                "cusp_degree": 9.79748406058286,
+                "motion_speed": -0.052992017805294084,
+                "zodiac": 12,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 159.79748406058286,
+                "motion_speed": -0.052992017805294084,
+                "cusp_degree": 9.79748406058286,
+                "zodiac": 6,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 158.60109463395065,
+                "motion_speed": -0.06313301446007447,
+                "cusp_degree": 8.601094633950652,
+                "zodiac": 6,
+                "house": 6,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1969-01-27",
+        "latitude": 19.07283,
+        "longitude": 72.88261,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2440248.5,
+        "solar_longitude": 283.4566984355168,
+        "lunar_longitude": 31.677294910217082,
+        "lunar_latitude": 4.080441301687775,
+        "sunrise": [
+            2440248.8040600074,
+            [
+                7,
+                17,
+                51
+            ],
+            [
+                1969,
+                1,
+                27,
+                7.297440178692341
+            ]
+        ],
+        "sunset": [
+            2440249.2672642223,
+            [
+                18,
+                24,
+                52
+            ],
+            [
+                1969,
+                1,
+                27,
+                18.41434133425355
+            ]
+        ],
+        "moonrise": [
+            2440249.0634383387,
+            [
+                13,
+                31,
+                21
+            ],
+            [
+                1969,
+                1,
+                27,
+                13.522520128637552
+            ]
+        ],
+        "moonset": [
+            2440248.587131623,
+            [
+                2,
+                5,
+                28
+            ],
+            [
+                1969,
+                1,
+                27,
+                2.0911589562892914
+            ]
+        ],
+        "tithi": [
+            10,
+            [
+                33,
+                20,
+                5
+            ]
+        ],
+        "nakshatra": [
+            "Ashwini",
+            1,
+            [
+                15,
+                44,
+                44
+            ]
+        ],
+        "yoga": [
+            "Shukla",
+            23
+        ],
+        "karana": [
+            18,
+            -3.532382597743293
+        ],
+        "vaara": "Somavara",
+        "lunar_phase": 108.2205964747003,
+        "masa": [
+            "Magha",
+            11,
+            false
+        ],
+        "ahargana": 1851783,
+        "ritu": "Vasant Ritu (Spring)",
+        "samvatsara": 42,
+        "day_duration": [
+            11.116901155561209,
+            [
+                11,
+                7,
+                1
+            ]
+        ]
+    }
+}

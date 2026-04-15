@@ -1,0 +1,226 @@
+{
+    "request": {
+        "name": "Mahesh Bhatt",
+        "title": "Cinema Producer, Cinema Director",
+        "year": 1949,
+        "month": 9,
+        "day": 20,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 19.07283,
+        "longitude": 72.88261,
+        "location": "Mumbai",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "advanced": "multiple-marriage, depression, substance-use, alcoholic",
+        "related": ["bhatt-family", "cinema-director", "cinema-producer"],
+        "about": "<p>Mahesh Bhatt (pronounced [məˈɦeːʃ ˈbʱəʈ] ⓘ; born 20 September 1948) is an Indian film director, producer and screenwriter known for his works in Hindi cinema. Known for his unconventional narratives and exploration of bold themes, he was one of the most prominent filmmakers in 80s and 90s Hindi cinema. He has received a number of accolades, including five National Film Award and four Filmfare Awards. A notable film from his earlier period is Saaransh (1984), screened at the 14th Moscow International Film Festival. It became India's official entry for the Academy Award for Best Foreign Language Film for that year. The 1986 film Naam was his first piece of commercial cinema. In 1987, he turned producer with the film Kabzaa under the banner, Vishesh Films, with his younger brother Mukesh Bhatt. In 2013, he was inducted into the Bollywood Walk of Fame, at Bandra Bandstand, where his hand print was preserved.</p><p>The son of director Nanabhai Bhatt, he went on to become one of the most recognized directors of the Indian film industry in the next decade, giving both art-house works such as Daddy (1989) and Swayam (1991), as well as commercial romantic hits, such as Aashiqui (1990) and Dil Hai Ki Manta Nahin (1991), in which he cast Pooja Bhatt with actor Aamir Khan. He next directed Sadak (1991) which was a hit and it remains his highest grossing either directed or produced by Vishesh Films.</p><p>During the 1990s Mahesh won critical acclaim for Sir (1993), along with other hits such as Gumraah (1993) and Criminal (1994). In 1994 he won the National Film Award – Special Jury Award for directing Hum Hain Rahi Pyar Ke (1993). In 1996, he directed Tamanna, which won the National Film Award for Best Film on Other Social Issues. In 1999, he directed the autobiographical Zakhm, which has garnered the Nargis Dutt Award for Best Feature Film on National Integration. Thereafter, Bhatt and his brother joined hands to establish Vishesh Films and then provided stories and screenplays for over twenty films, many of which were box-office successes. Bhatt has produced multiple contemporary films such as Raaz (2002), Jism (2003), Murder (2004), Gangster (2006), Woh Lamhe (2006), Jannat (2008), Murder 2 (2011), and Aashiqui 2 (2013). Owing to differences between the brothers, Mukesh took over Vishesh Films and, in May 2021, it was publicly announced that Mahesh was no longer associated with the firm</p><p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 229.36059627737353,
+            "ascendant": 8
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 269.1867449958899,
+                "cusp_degree": 29.18674499588991,
+                "motion_speed": 0.004801847956586891,
+                "zodiac": 9,
+                "house": 2,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 153.80494108461363,
+                "cusp_degree": 3.804941084613631,
+                "motion_speed": 0.9777982908487663,
+                "zodiac": 6,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 122.54349804438469,
+                "cusp_degree": 2.543498044384691,
+                "motion_speed": 14.581719271024093,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 193.39094514307953,
+                "cusp_degree": 13.390945143079534,
+                "motion_speed": 1.17561338727277,
+                "zodiac": 7,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 104.99967294631192,
+                "cusp_degree": 14.999672946311918,
+                "motion_speed": 0.6169664210943728,
+                "zodiac": 4,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 175.92460848624378,
+                "cusp_degree": 25.924608486243784,
+                "motion_speed": 0.09430634634456922,
+                "zodiac": 6,
+                "house": 11,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 138.65551624907192,
+                "cusp_degree": 18.655516249071923,
+                "motion_speed": 0.12337604443967592,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 353.5973835645252,
+                "cusp_degree": 23.597383564525217,
+                "motion_speed": -0.04462232132934239,
+                "zodiac": 12,
+                "house": 5,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 354.3983000941736,
+                "cusp_degree": 24.398300094173578,
+                "motion_speed": -0.05299208623807135,
+                "zodiac": 12,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 174.39830009417358,
+                "motion_speed": -0.05299208623807135,
+                "cusp_degree": 24.398300094173578,
+                "zodiac": 6,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 173.59738356452522,
+                "motion_speed": -0.04462232132934239,
+                "cusp_degree": 23.597383564525217,
+                "zodiac": 6,
+                "house": 11,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1949-09-20",
+        "latitude": 19.07283,
+        "longitude": 72.88261,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2433179.5,
+        "solar_longitude": 153.5401424307084,
+        "lunar_longitude": 118.6085508373238,
+        "lunar_latitude": 4.3118907665608965,
+        "sunrise": [
+            2433179.771048561,
+            [
+                6,
+                30,
+                19
+            ],
+            [
+                1949,
+                9,
+                20,
+                6.505165468901396
+            ]
+        ],
+        "sunset": [
+            2433180.2732335725,
+            [
+                18,
+                33,
+                27
+            ],
+            [
+                1949,
+                9,
+                20,
+                18.557605739682913
+            ]
+        ],
+        "moonrise": [
+            2433179.6644214327,
+            [
+                3,
+                56,
+                46
+            ],
+            [
+                1949,
+                9,
+                20,
+                3.946114383637905
+            ]
+        ],
+        "moonset": [
+            2433180.210227456,
+            [
+                17,
+                2,
+                44
+            ],
+            [
+                1949,
+                9,
+                20,
+                17.04545894265175
+            ]
+        ],
+        "tithi": [
+            28,
+            [
+                25,
+                42,
+                16
+            ]
+        ],
+        "nakshatra": [
+            "Pushya",
+            8,
+            [
+                23,
+                54,
+                18
+            ]
+        ],
+        "yoga": [
+            "Siddha",
+            20
+        ],
+        "karana": [
+            54,
+            -4.74148487148733
+        ],
+        "vaara": "Mangalvara",
+        "lunar_phase": 325.0684084066154,
+        "masa": [
+            "Ashwin",
+            7,
+            true
+        ],
+        "ahargana": 1844714,
+        "ritu": "Vasant Ritu (Spring)",
+        "samvatsara": 23,
+        "day_duration": [
+            12.052440270781517,
+            [
+                12,
+                3,
+                9
+            ]
+        ]
+    }
+}

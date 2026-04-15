@@ -1,0 +1,232 @@
+{
+    "request": {
+        "name": "Pooja Bhatt",
+        "title": "Actor, Cinema Producer/Director",
+        "year": 1972,
+        "month": 2,
+        "day": 24,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 19.07283,
+        "longitude": 72.88261,
+        "location": "Mumbai",
+        "gender": "female",
+        "agyat_rating": "AX",
+        "advanced": "multiple-marriage, depression, substance-use, alcoholic",
+        "related": ["bhatt-family", "cinema-director", "cinema-producer", "actor"],
+        "about": "<p>Pooja Bhatt (born 24 February 1972) is an Indian actress, director, and filmmaker who works in Hindi films. She established herself as one of the leading actresses of the 1990s and is the recipient of several accolades, including two National Film Awards and one Filmfare Award.</p><p>Born into the Bhatt family, she is the daughter of Indian filmmaker Mahesh Bhatt. Bhatt played her first leading role in Mahesh Bhatt's television film Daddy in 1989. For the film, she won the Filmfare Award for Best Female Debut. Her breakthrough came with the romance comedy Dil Hai Ke Manta Nahin (1991), which also emerged as her highest grossing release. In the following decade, she earned critical acclaim for her performances in the films Sadak (1991), Junoon (1992), Naaraaz (1994), Angrakshak (1995), Chaahat (1996), Tamanna (1997), Border (1997), Kabhi Na Kabhi (1998), Angaaray (1998) and Zakhm (1998). This was followed by a hiatus and intermittent work.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 39.74279400093124,
+            "ascendant": 2
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 249.5765828607136,
+                "cusp_degree": 9.576582860713586,
+                "motion_speed": 0.15970108818090814,
+                "zodiac": 9,
+                "house": 8,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 311.28466054052984,
+                "cusp_degree": 11.284660540529842,
+                "motion_speed": 1.0061371706552285,
+                "zodiac": 11,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 73.60753998055738,
+                "cusp_degree": 13.607539980557377,
+                "motion_speed": 13.3756189994603,
+                "zodiac": 3,
+                "house": 2,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 352.87273179443633,
+                "cusp_degree": 22.872731794436334,
+                "motion_speed": 1.1656508556470861,
+                "zodiac": 12,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 15.563772754050547,
+                "cusp_degree": 15.563772754050547,
+                "motion_speed": 0.6597365334527253,
+                "zodiac": 1,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 317.19950236788804,
+                "cusp_degree": 17.199502367888044,
+                "motion_speed": 1.8868050892306598,
+                "zodiac": 11,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 36.63833597911832,
+                "cusp_degree": 6.638335979118317,
+                "motion_speed": 0.043963645872427286,
+                "zodiac": 2,
+                "house": 1,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 281.53437405679745,
+                "cusp_degree": 11.534374056797446,
+                "motion_speed": 0.027889263181472113,
+                "zodiac": 10,
+                "house": 9,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 280.2874199476919,
+                "cusp_degree": 10.287419947691888,
+                "motion_speed": -0.052992031452169124,
+                "zodiac": 10,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 100.28741994769189,
+                "motion_speed": -0.052992031452169124,
+                "cusp_degree": 10.287419947691888,
+                "zodiac": 4,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 101.53437405679745,
+                "motion_speed": 0.027889263181472113,
+                "cusp_degree": 11.534374056797446,
+                "zodiac": 4,
+                "house": 3,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1972-02-24",
+        "latitude": 19.07283,
+        "longitude": 72.88261,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2441371.5,
+        "solar_longitude": 311.0121452749662,
+        "lunar_longitude": 69.97635084578683,
+        "lunar_latitude": 2.7407622550036095,
+        "sunrise": [
+            2441371.7956225765,
+            [
+                7,
+                5,
+                42
+            ],
+            [
+                1972,
+                2,
+                24,
+                7.094941835850477
+            ]
+        ],
+        "sunset": [
+            2441372.276642377,
+            [
+                18,
+                38,
+                22
+            ],
+            [
+                1972,
+                2,
+                24,
+                18.63941704854369
+            ]
+        ],
+        "moonrise": [
+            2441372.1026353734,
+            [
+                14,
+                27,
+                48
+            ],
+            [
+                1972,
+                2,
+                24,
+                14.463248960673809
+            ]
+        ],
+        "moonset": [
+            2441371.632447895,
+            [
+                3,
+                10,
+                43
+            ],
+            [
+                1972,
+                2,
+                24,
+                3.178749483078718
+            ]
+        ],
+        "tithi": [
+            10,
+            [
+                9,
+                5,
+                55
+            ],
+            11,
+            [
+                32,
+                32,
+                27
+            ]
+        ],
+        "nakshatra": [
+            "Rohini",
+            4,
+            [
+                17,
+                44,
+                34
+            ]
+        ],
+        "yoga": [
+            "Priti",
+            1
+        ],
+        "karana": [
+            20,
+            -2.6294370024274087
+        ],
+        "vaara": "Guruvara",
+        "lunar_phase": 118.96420557082064,
+        "masa": [
+            "Phalguna",
+            12,
+            false
+        ],
+        "ahargana": 1852906,
+        "ritu": "Vasant Ritu (Spring)",
+        "samvatsara": 45,
+        "day_duration": [
+            11.544475212693214,
+            [
+                11,
+                32,
+                40
+            ]
+        ]
+    }
+}

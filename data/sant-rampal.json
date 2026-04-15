@@ -1,0 +1,225 @@
+{
+    "request": {
+        "name": "Sant Rampal",
+        "title": "Spiritual Leader",
+        "year": 1951,
+        "month": 9,
+        "day": 8,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 28.99478,
+        "longitude": 77.01937,
+        "location": "Sonipat",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "related": ["spiritual-preacher"],
+        "about": "<p>Rampal (born Rampal Singh Jatain on 8 September 1951) is an Indian self-styled Godman and convicted murderer.</p><p>He is a disciple of Ramdevanand, a local seer, and saint from the Garib Das Panth sect. In 1994, Ramdevanand selected him as his successor. In 1999, he and his followers established Satlok Ashram in Rohtak, Haryana and would go on to start several other ashrams in Jhajjar and Rohtak.</p><p>In 2006, Rampal publicly objected to certain parts of Satyarth Prakash, a central book of Arya Samaj. In July 2006, a violent confrontation between the followers of Arya Samaj and the supporters of Rampal took place at the Satlok Ashram, leading to the death of an Arya Samaj follower. Rampal was accused of triggering the confrontation and charged and arrested for murder. After 21 months in jail, he was released on bail in 2008.</p><p>However, in 2014, authorities again ordered his arrest on contempt charges after Rampal repeatedly failed to appear in court. Police then attempted to storm the Satlok Ashram, where they violently clashed with Rampal's followers, trying to prevent his arrest. The standoff between the police and his followers would injure multiple people, including those from media crews, and six people were killed during the week-long siege. Afterwards, Rampal was arrested and taken to Chandigarh to be tried. He was acquitted of charges on 20 December 2022.</p><p>Rampal was charged with wrong confinement, murder, sedition, among other charges. In 2018, he and 26 of his followers were found guilty of murder (among other offences) and were sentenced to life imprisonment for the six deaths during the 2014 standoff. In August 2025, his life sentence was suspended</p><p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 218.0751176938433,
+            "ascendant": 8
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 349.05846451920155,
+                "cusp_degree": 19.05846451920155,
+                "motion_speed": -0.10486818789467679,
+                "zodiac": 12,
+                "house": 5,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 141.6220401509472,
+                "cusp_degree": 21.622040150947214,
+                "motion_speed": 0.970951410793905,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 225.18278007671609,
+                "cusp_degree": 15.182780076716085,
+                "motion_speed": 14.070841007856874,
+                "zodiac": 8,
+                "house": 1,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 134.30634051157315,
+                "cusp_degree": 14.306340511573154,
+                "motion_speed": -0.5806048737249314,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "R"
+            },
+            "Mars": {
+                "degree": 110.11546805390583,
+                "cusp_degree": 20.11546805390583,
+                "motion_speed": 0.632502497208385,
+                "zodiac": 4,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 128.64307977945788,
+                "cusp_degree": 8.643079779457878,
+                "motion_speed": -0.23146474281376006,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 159.70258503321008,
+                "cusp_degree": 9.702585033210084,
+                "motion_speed": 0.11955830796286826,
+                "zodiac": 6,
+                "house": 11,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 316.6466506403183,
+                "cusp_degree": 16.646650640318285,
+                "motion_speed": -0.0020033546412495467,
+                "zodiac": 11,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 316.3500010621633,
+                "cusp_degree": 16.3500010621633,
+                "motion_speed": -0.05299211740713193,
+                "zodiac": 11,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 136.3500010621633,
+                "motion_speed": -0.05299211740713193,
+                "cusp_degree": 16.3500010621633,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 136.64665064031828,
+                "motion_speed": -0.0020033546412495467,
+                "cusp_degree": 16.646650640318285,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1951-09-08",
+        "latitude": 28.99478,
+        "longitude": 77.01937,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2433897.5,
+        "solar_longitude": 141.3590889139855,
+        "lunar_longitude": 221.3782688980985,
+        "lunar_latitude": -5.25805975639191,
+        "sunrise": [
+            2433897.754472038,
+            [
+                6,
+                6,
+                26
+            ],
+            [
+                1951,
+                9,
+                8,
+                6.107328906655312
+            ]
+        ],
+        "sunset": [
+            2433898.27284227,
+            [
+                18,
+                32,
+                54
+            ],
+            [
+                1951,
+                9,
+                8,
+                18.548214476555586
+            ]
+        ],
+        "moonrise": [
+            2433898.024161522,
+            [
+                12,
+                34,
+                48
+            ],
+            [
+                1951,
+                9,
+                8,
+                12.579876523464918
+            ]
+        ],
+        "moonset": [
+            2433898.469054276,
+            [
+                23,
+                15,
+                26
+            ],
+            [
+                1951,
+                9,
+                8,
+                23.25730262696743
+            ]
+        ],
+        "tithi": [
+            7,
+            [
+                13,
+                24,
+                34
+            ]
+        ],
+        "nakshatra": [
+            "Swati",
+            15,
+            [
+                8,
+                35,
+                5
+            ]
+        ],
+        "yoga": [
+            "Vishkumbha",
+            0
+        ],
+        "karana": [
+            13,
+            -5.3464315569028145
+        ],
+        "vaara": "Shanivara",
+        "lunar_phase": 80.01917998411301,
+        "masa": [
+            "Ashwin",
+            7,
+            false
+        ],
+        "ahargana": 1845432,
+        "ritu": "Vasant Ritu (Spring)",
+        "samvatsara": 25,
+        "day_duration": [
+            12.440885569900274,
+            [
+                12,
+                26,
+                27
+            ]
+        ]
+    }
+}

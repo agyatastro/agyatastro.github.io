@@ -1,0 +1,227 @@
+{
+    "request": {
+        "name": "Asha Bhosle",
+        "title": "Singer",
+        "year": 1933,
+        "month": 9,
+        "day": 8,
+        "hour": 21,
+        "minute": 30,
+        "second": 0,
+        "latitude": 16.85438,
+        "longitude": 74.56417,
+        "location": "Sangli",
+        "gender": "female",
+        "dod": "",
+        "agyat_rating": "AA",
+        "advanced": "marriage",
+        "related": ["mangeshkar-family", "singer"],
+        "about": "<p>Ashalata Ganpat Bhosale (born Ashalata Dinanath Mangeshkar; 8 September 1933 – 12 April 2026) was an Indian playback singer, businesswoman, actress and television personality who predominantly worked in Indian cinema. Known for her versatility, she was described in the media as one of the greatest and most influential singers in Hindi cinema. In a career spanning over eight decades, she recorded songs for films and albums in various Indian languages and won several accolades including two National Film Awards, four BFJA Awards, eighteen Maharashtra State Film Awards, nine Filmfare Awards including a Lifetime Achievement Award and a record seven Filmfare Awards for Best Female Playback Singer, in addition to two Grammy nominations. In 2000, she was honoured with the Dadasaheb Phalke Award, India's highest award in the field of cinema. In 2008, she was honoured by the Government of India with the Padma Vibhushan, the second-highest civilian honour of the country. The Guinness Book of World Records acknowledged her in 2011 as the most recorded artist in music history.</p><p>Bhosle was the younger sister of playback singer Lata Mangeshkar and belonged to the prominent Mangeshkar family. Renowned for her soprano voice range and often credited with her versatility, her work included film music, pop, ghazals, bhajans, traditional Indian classical music, folk songs, qawwalis, and Rabindra Sangeet. Apart from Hindi, she sang in over 20 Indian and foreign languages. In 2013, she made her debut as an actress in the film Mai, and received critical acclaim for her performance. In 2006, she stated that she had recorded over 12,000 songs in her career, a figure repeated by several other sources.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 15.738267075008675,
+            "ascendant": 1
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 156.7369118885626,
+                "cusp_degree": 6.736911888562588,
+                "motion_speed": 0.21252773824695909,
+                "zodiac": 6,
+                "house": 6,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 142.59457031957646,
+                "cusp_degree": 22.594570319576462,
+                "motion_speed": 0.9713159546508534,
+                "zodiac": 5,
+                "house": 5,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 16.68973787851989,
+                "cusp_degree": 16.68973787851989,
+                "motion_speed": 12.42456888038513,
+                "zodiac": 1,
+                "house": 1,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 178.80107363368,
+                "cusp_degree": 28.801073633680005,
+                "motion_speed": 1.191077771653347,
+                "zodiac": 6,
+                "house": 6,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 195.84247255173992,
+                "cusp_degree": 15.842472551739917,
+                "motion_speed": 0.6657407263318171,
+                "zodiac": 7,
+                "house": 7,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 139.51217175902036,
+                "cusp_degree": 19.51217175902036,
+                "motion_speed": 1.9191720618836392,
+                "zodiac": 5,
+                "house": 5,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 287.8141532196177,
+                "cusp_degree": 17.814153219617708,
+                "motion_speed": -0.05412444967707694,
+                "zodiac": 10,
+                "house": 10,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 305.542971442623,
+                "cusp_degree": 5.5429714426230134,
+                "motion_speed": -0.03736156160472362,
+                "zodiac": 11,
+                "house": 11,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 304.69887586738815,
+                "cusp_degree": 4.698875867388153,
+                "motion_speed": -0.05299213478665868,
+                "zodiac": 11,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 124.69887586738815,
+                "motion_speed": -0.05299213478665868,
+                "cusp_degree": 4.698875867388153,
+                "zodiac": 5,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 125.54297144262301,
+                "motion_speed": -0.03736156160472362,
+                "cusp_degree": 5.5429714426230134,
+                "zodiac": 5,
+                "house": 5,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1933-09-08",
+        "latitude": 16.85438,
+        "longitude": 74.56417,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2427323.5,
+        "solar_longitude": 141.94715062017235,
+        "lunar_longitude": 8.344447545192454,
+        "lunar_latitude": 4.674633146180039,
+        "sunrise": [
+            2427323.765550161,
+            [
+                6,
+                22,
+                24
+            ],
+            [
+                1933,
+                9,
+                8,
+                6.373203858733177
+            ]
+        ],
+        "sunset": [
+            2427324.275308991,
+            [
+                18,
+                36,
+                27
+            ],
+            [
+                1933,
+                9,
+                8,
+                18.60741578042507
+            ]
+        ],
+        "moonrise": [
+            2427324.3982048435,
+            [
+                21,
+                33,
+                25
+            ],
+            [
+                1933,
+                9,
+                8,
+                21.556916244328022
+            ]
+        ],
+        "moonset": [
+            2427323.9065017775,
+            [
+                9,
+                45,
+                22
+            ],
+            [
+                1933,
+                9,
+                8,
+                9.756042659282684
+            ]
+        ],
+        "tithi": [
+            19,
+            [
+                9,
+                41,
+                8
+            ]
+        ],
+        "nakshatra": [
+            "Uttara Bhadrapada",
+            26,
+            [
+                7,
+                53,
+                13
+            ]
+        ],
+        "yoga": [
+            "Dhruva",
+            11
+        ],
+        "karana": [
+            38,
+            -1.4788163309547997
+        ],
+        "vaara": "Shukrvara",
+        "lunar_phase": 226.3972969250201,
+        "masa": [
+            "Bhadrapada",
+            6,
+            false
+        ],
+        "ahargana": 1838858,
+        "ritu": "Vasant Ritu (Spring)",
+        "samvatsara": 7,
+        "day_duration": [
+            12.234211921691895,
+            [
+                12,
+                14,
+                3
+            ]
+        ]
+    }
+}

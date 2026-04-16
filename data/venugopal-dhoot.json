@@ -1,0 +1,226 @@
+{
+    "request": {
+        "name": "Venugopal Dhoot",
+        "title": "Businessperson",
+        "year": 1951,
+        "month": 9,
+        "day": 30,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 19.07283,
+        "longitude": 72.88261,
+        "location": "Mumbai",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "related": ["busienssperson"],
+        "advanced": "detention, fall, bankrupt",
+        "about": "</p><p>Venugopal Dhoot (born in Mumbai, India) is an Indian businessman. He is the founder, chairman and managing director of Videocon. He was arrested by the CBI on 26 Dec 2022 in the ICICI Bank Fraud case.</p><p>In April 2018, authorities issued a lookout circular (LOC) for Dhoot, Chanda Kochhar and her husband Deepak Kochhar. The LOC was issued due to Central Bureau of Investigation (CBI) investigations into irregularities concerning a ₹3,250 crore (US$380 million) loan made from ICICI Bank to Videocon Group and the use of shell companies and a quid pro quo arrangement in the case of a ₹64 crore (US$7.6 million) loan by Dhoot of Videocon to NuPower Renewables, a company which is owned by Deepak Kochhar.</p><p>In January 2023 he was granted interim bail by the Bombay High Court on the grounds that his arrest was not in compliance with the law.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 237.70838597063323,
+            "ascendant": 8
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 346.3505586700699,
+                "cusp_degree": 16.350558670069915,
+                "motion_speed": -0.13422817219024732,
+                "zodiac": 12,
+                "house": 5,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 163.10666275049445,
+                "cusp_degree": 13.10666275049445,
+                "motion_speed": 0.9830432067837607,
+                "zodiac": 6,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 153.17879559753825,
+                "cusp_degree": 3.1787955975382545,
+                "motion_speed": 13.118637018340914,
+                "zodiac": 6,
+                "house": 11,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 129.4442291466519,
+                "cusp_degree": 9.444229146651907,
+                "motion_speed": 0.19699771289015042,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 123.88564740081173,
+                "cusp_degree": 3.8856474008117345,
+                "motion_speed": 0.6192991773197511,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 152.62604178606736,
+                "cusp_degree": 2.6260417860673613,
+                "motion_speed": 1.7917441584987763,
+                "zodiac": 6,
+                "house": 11,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 162.39238472769844,
+                "cusp_degree": 12.392384727698442,
+                "motion_speed": 0.12359115762007275,
+                "zodiac": 6,
+                "house": 11,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 316.58427594856676,
+                "cusp_degree": 16.584275948566756,
+                "motion_speed": -0.02792817420279384,
+                "zodiac": 11,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 315.1841757664245,
+                "cusp_degree": 15.184175766424516,
+                "motion_speed": -0.05299201803181738,
+                "zodiac": 11,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 135.18417576642452,
+                "motion_speed": -0.05299201803181738,
+                "cusp_degree": 15.184175766424516,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 136.58427594856676,
+                "motion_speed": -0.02792817420279384,
+                "cusp_degree": 16.584275948566756,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1951-09-30",
+        "latitude": 19.07283,
+        "longitude": 72.88261,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2433919.5,
+        "solar_longitude": 162.8404431322676,
+        "lunar_longitude": 149.6372000730669,
+        "lunar_latitude": -1.1821702108959047,
+        "sunrise": [
+            2433919.7723436127,
+            [
+                6,
+                32,
+                10
+            ],
+            [
+                1951,
+                9,
+                30,
+                6.536246705800295
+            ]
+        ],
+        "sunset": [
+            2433920.26741243,
+            [
+                18,
+                25,
+                4
+            ],
+            [
+                1951,
+                9,
+                30,
+                18.417898323386908
+            ]
+        ],
+        "moonrise": [
+            2433919.7337778225,
+            [
+                5,
+                36,
+                38
+            ],
+            [
+                1951,
+                9,
+                30,
+                5.610667739063501
+            ]
+        ],
+        "moonset": [
+            2433920.2525525386,
+            [
+                18,
+                3,
+                41
+            ],
+            [
+                1951,
+                9,
+                30,
+                18.06126092746854
+            ]
+        ],
+        "tithi": [
+            29,
+            [
+                8,
+                55,
+                36
+            ]
+        ],
+        "nakshatra": [
+            "Magha",
+            10,
+            [
+                18,
+                5,
+                17
+            ]
+        ],
+        "yoga": [
+            "Shukla",
+            23
+        ],
+        "karana": [
+            58,
+            -2.0904611318535444
+        ],
+        "vaara": "Ravivara",
+        "lunar_phase": 346.7967569407993,
+        "masa": [
+            "Ashwin",
+            7,
+            false
+        ],
+        "ahargana": 1845454,
+        "ritu": "Vasant Ritu (Spring)",
+        "samvatsara": 25,
+        "day_duration": [
+            11.881651617586613,
+            [
+                11,
+                52,
+                54
+            ]
+        ]
+    }
+}

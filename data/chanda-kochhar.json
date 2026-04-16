@@ -1,0 +1,226 @@
+{
+    "request": {
+        "name": "Chanda Kochhar",
+        "title": "Banker",
+        "year": 1961,
+        "month": 11,
+        "day": 19,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 26.26841,
+        "longitude": 73.00594,
+        "location": "Jodhpur",
+        "gender": "female",
+        "agyat_rating": "AX",
+        "advanced": "detention, fall",
+        "related": ["banker", "chanda-kochhar"],
+        "about": "<p>Chanda Kochhar (née Advani, born 17 November 1961) is an Indian banker. She was the MD and CEO of ICICI Bank from 2009 to 2018 She resigned from her positions in 2018 due a case of conflict of interest. Subsequently, she was fired by ICICI Bank, a decision which was later upheld by the Supreme Court of India.</p><p>Kochhar is facing allegations of money laundering charges in India. She has been arrested by Central Bureau of Investigation in December 2022, in a case linked to alleged loan fraud charges. In 2019, the case has been filed for giving high-value loans to Videocon with conspiracy during 2009.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 283.26797700695306,
+            "ascendant": 10
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 278.82933538836784,
+                "cusp_degree": 8.829335388367838,
+                "motion_speed": 0.1587108617121381,
+                "zodiac": 10,
+                "house": 1,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 213.37163031628225,
+                "cusp_degree": 3.37163031628225,
+                "motion_speed": 1.0089047221136167,
+                "zodiac": 8,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 352.83229279849843,
+                "cusp_degree": 22.83229279849843,
+                "motion_speed": 14.1592221072143,
+                "zodiac": 12,
+                "house": 3,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 196.74471516221243,
+                "cusp_degree": 16.74471516221243,
+                "motion_speed": 1.2530540768803478,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 220.5339810018845,
+                "cusp_degree": 10.533981001884513,
+                "motion_speed": 0.7214197248790408,
+                "zodiac": 8,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 198.48490459342696,
+                "cusp_degree": 18.48490459342696,
+                "motion_speed": 1.5236590617261045,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 272.1016845565502,
+                "cusp_degree": 2.1016845565501967,
+                "motion_speed": 0.0791883001324138,
+                "zodiac": 10,
+                "house": 1,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 119.07624771785859,
+                "cusp_degree": 29.076247717858593,
+                "motion_speed": -0.1299657173037503,
+                "zodiac": 4,
+                "house": 7,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 118.95459913387619,
+                "cusp_degree": 28.954599133876187,
+                "motion_speed": -0.05299204128673207,
+                "zodiac": 4,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 298.9545991338762,
+                "motion_speed": -0.05299204128673207,
+                "cusp_degree": 28.954599133876172,
+                "zodiac": 10,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 299.07624771785856,
+                "motion_speed": -0.1299657173037503,
+                "cusp_degree": 29.076247717858564,
+                "zodiac": 10,
+                "house": 1,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1961-11-19",
+        "latitude": 26.26841,
+        "longitude": 73.00594,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2437622.5,
+        "solar_longitude": 213.09839843201337,
+        "lunar_longitude": 348.99552638447193,
+        "lunar_latitude": -3.844831841233879,
+        "sunrise": [
+            2437622.7939362344,
+            [
+                7,
+                3,
+                16
+            ],
+            [
+                1961,
+                11,
+                19,
+                7.0544696263968945
+            ]
+        ],
+        "sunset": [
+            2437623.2383270296,
+            [
+                17,
+                43,
+                11
+            ],
+            [
+                1961,
+                11,
+                19,
+                17.719848711043596
+            ]
+        ],
+        "moonrise": [
+            2437623.1516896463,
+            [
+                15,
+                38,
+                26
+            ],
+            [
+                1961,
+                11,
+                19,
+                15.640551511198282
+            ]
+        ],
+        "moonset": [
+            2437622.6507709967,
+            [
+                3,
+                37,
+                7
+            ],
+            [
+                1961,
+                11,
+                19,
+                3.6185039207339287
+            ]
+        ],
+        "tithi": [
+            12,
+            [
+                21,
+                51,
+                4
+            ]
+        ],
+        "nakshatra": [
+            "Purva Bhadrapada",
+            25,
+            [
+                18,
+                29,
+                19
+            ]
+        ],
+        "yoga": [
+            "Siddha",
+            15
+        ],
+        "karana": [
+            23,
+            -1.7644563663127428
+        ],
+        "vaara": "Ravivara",
+        "lunar_phase": 135.89712795245856,
+        "masa": [
+            "Margsheersha",
+            9,
+            false
+        ],
+        "ahargana": 1849157,
+        "ritu": "Vasant Ritu (Spring)",
+        "samvatsara": 35,
+        "day_duration": [
+            10.665379084646702,
+            [
+                10,
+                39,
+                55
+            ]
+        ]
+    }
+}

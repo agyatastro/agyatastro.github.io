@@ -1,0 +1,226 @@
+{
+    "request": {
+        "name": "Samrat Choudhary",
+        "title": "Politician, Chief Minister",
+        "year": 1967,
+        "month": 11,
+        "day": 16,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 25.37459,
+        "longitude": 86.47455,
+        "location": "Munger",
+        "gender": "male",
+        "agyat_rating": "CX",
+        "related": ["politician", "chief-minister"],
+        "advanced": "fame, detention, legal-issues",
+        "about": "<p>Samrat Choudhary (born 16 November 1968) is an Indian politician who is serving as the 24th Chief Minister of Bihar since 15 April 2026. He has been a member of the Bihar Legislative Assembly representing Tarapur Assembly constituency since 2025 and previously served as deputy chief minister of Bihar in the Nitish Kumar government from 2024 to 2026. Choudhary is the first Bharatiya Janata Party (BJP) member to serve as Chief minister of Bihar.</p><p>He was previously associated with Rashtriya Janata Dal and Janata Dal (United). Choudhary was also a member of the Bihar Legislative Council from 2014 to 2016 and again from 2020 to 2025. In addition, he previously represented Parbatta in the Bihar Legislative Assembly from 2000 to 2004 and again from 2010 to 2014, and served as the party president of BJP Bihar state unit from March 2023 to 25 July 2024. In 2022, he was selected as the Leader of Opposition in Bihar Legislative Council.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 295.3823682211196,
+            "ascendant": 10
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 130.42128324506453,
+                "cusp_degree": 10.42128324506453,
+                "motion_speed": 0.106675429605741,
+                "zodiac": 5,
+                "house": 8,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 209.8024189581588,
+                "cusp_degree": 29.802418958158796,
+                "motion_speed": 1.00733859640973,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 19.693652559733458,
+                "cusp_degree": 19.693652559733458,
+                "motion_speed": 11.824311347232385,
+                "zodiac": 1,
+                "house": 4,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 163.36544223501127,
+                "cusp_degree": 13.365442235011272,
+                "motion_speed": 1.0497272192373575,
+                "zodiac": 6,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 264.66870142977587,
+                "cusp_degree": 24.668701429775865,
+                "motion_speed": 0.7598643439784454,
+                "zodiac": 9,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 190.60772804598372,
+                "cusp_degree": 10.60772804598372,
+                "motion_speed": 0.845091507412568,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 342.7165329628126,
+                "cusp_degree": 12.716532962812607,
+                "motion_speed": -0.04010415640216774,
+                "zodiac": 12,
+                "house": 3,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 4.49074950038992,
+                "cusp_degree": 4.49074950038992,
+                "motion_speed": -0.027998486100103217,
+                "zodiac": 1,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 3.0079995699402957,
+                "cusp_degree": 3.0079995699402957,
+                "motion_speed": -0.05299200246987909,
+                "zodiac": 1,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 183.0079995699403,
+                "motion_speed": -0.05299200246987909,
+                "cusp_degree": 3.0079995699402957,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 184.4907495003899,
+                "motion_speed": -0.027998486100103217,
+                "cusp_degree": 4.49074950038991,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1967-11-16",
+        "latitude": 25.37459,
+        "longitude": 86.47455,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2439810.5,
+        "solar_longitude": 209.52961381287838,
+        "lunar_longitude": 16.493172912207317,
+        "lunar_latitude": 1.0921075636614304,
+        "sunrise": [
+            2439810.7536741043,
+            [
+                6,
+                5,
+                17
+            ],
+            [
+                1967,
+                11,
+                16,
+                6.088178504258394
+            ]
+        ],
+        "sunset": [
+            2439811.2027781894,
+            [
+                16,
+                52,
+                0
+            ],
+            [
+                1967,
+                11,
+                16,
+                16.866676546633244
+            ]
+        ],
+        "moonrise": [
+            2439811.1832245016,
+            [
+                16,
+                23,
+                51
+            ],
+            [
+                1967,
+                11,
+                16,
+                16.39738803729415
+            ]
+        ],
+        "moonset": [
+            2439810.711389716,
+            [
+                5,
+                4,
+                24
+            ],
+            [
+                1967,
+                11,
+                16,
+                5.073353178799152
+            ]
+        ],
+        "tithi": [
+            14,
+            [
+                8,
+                23,
+                24
+            ]
+        ],
+        "nakshatra": [
+            "Revati",
+            27,
+            [
+                19,
+                32,
+                2
+            ]
+        ],
+        "yoga": [
+            "Variyan",
+            17
+        ],
+        "karana": [
+            28,
+            -1.7056306038125228
+        ],
+        "vaara": "Guruvara",
+        "lunar_phase": 166.96355909932893,
+        "masa": [
+            "Margsheersha",
+            9,
+            false
+        ],
+        "ahargana": 1851345,
+        "ritu": "Vasant Ritu (Spring)",
+        "samvatsara": 41,
+        "day_duration": [
+            10.77849804237485,
+            [
+                10,
+                46,
+                43
+            ]
+        ]
+    }
+}

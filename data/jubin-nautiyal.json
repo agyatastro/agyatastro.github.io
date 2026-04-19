@@ -1,0 +1,225 @@
+{
+    "request": {
+        "name": "Jubin Nautiyal",
+        "title": "Singer",
+        "year": 1989,
+        "month": 6,
+        "day": 14,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 30.32443,
+        "longitude": 78.03392,
+        "location": "Dehra Dun",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "related": ["singer"],
+        "about": "Jubin Nautiyal (born 14 June 1989) is an Indian playback singer. In June 2022, he won the IIFA award for \"Playback Singer (Male)\" for the song \"Raataan Lambiyan\" from Shershaah and \"Upcoming Male Vocalist of the Year\" at 8th Mirchi Music Awards for his song \"Zindagi Kuch Toh Bata (Reprise)\" from Bajrangi Bhaijaan. He also won the Rising Musical Star Award at Zee Business Awards. He has since recorded songs for films in various Indian languages, predominantly Hindi. He is signed on by T-Series."
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 145.92557405957038,
+            "ascendant": 5
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 55.93269133218231,
+                "cusp_degree": 25.93269133218231,
+                "motion_speed": 0.23140444919421,
+                "zodiac": 2,
+                "house": 10,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 59.47314132860062,
+                "cusp_degree": 29.47314132860062,
+                "motion_speed": 0.9550511330861299,
+                "zodiac": 2,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 181.9715706184459,
+                "cusp_degree": 1.9715706184458952,
+                "motion_speed": 11.92746513077174,
+                "zodiac": 7,
+                "house": 3,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 77.9647184928107,
+                "cusp_degree": 17.964718492810704,
+                "motion_speed": 1.221001723175923,
+                "zodiac": 3,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 94.84660636218544,
+                "cusp_degree": 4.84660636218544,
+                "motion_speed": 0.6214464954073402,
+                "zodiac": 4,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 37.405490737630466,
+                "cusp_degree": 7.4054907376304655,
+                "motion_speed": 0.6549547052477879,
+                "zodiac": 2,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 258.22087899538195,
+                "cusp_degree": 18.220878995381952,
+                "motion_speed": -0.06774464325943282,
+                "zodiac": 9,
+                "house": 5,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 304.5352120960104,
+                "cusp_degree": 4.535212096010412,
+                "motion_speed": -0.0956459479154676,
+                "zodiac": 11,
+                "house": 7,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 305.37777557709,
+                "cusp_degree": 5.377775577090006,
+                "motion_speed": -0.052992031297850996,
+                "zodiac": 11,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 125.37777557709,
+                "motion_speed": -0.052992031297850996,
+                "cusp_degree": 5.377775577090006,
+                "zodiac": 5,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 124.53521209601041,
+                "motion_speed": -0.0956459479154676,
+                "cusp_degree": 4.535212096010412,
+                "zodiac": 5,
+                "house": 1,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1989-06-14",
+        "latitude": 30.32443,
+        "longitude": 78.03392,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2447691.5,
+        "solar_longitude": 59.214472589801645,
+        "lunar_longitude": 178.7453766246155,
+        "lunar_latitude": -4.112641858871337,
+        "sunrise": [
+            2447691.7220410556,
+            [
+                5,
+                19,
+                44
+            ],
+            [
+                1989,
+                6,
+                14,
+                5.328985333442688
+            ]
+        ],
+        "sunset": [
+            2447692.303055153,
+            [
+                19,
+                16,
+                24
+            ],
+            [
+                1989,
+                6,
+                14,
+                19.27332367748022
+            ]
+        ],
+        "moonrise": [
+            2447692.119875991,
+            [
+                14,
+                52,
+                37
+            ],
+            [
+                1989,
+                6,
+                14,
+                14.8770237788558
+            ]
+        ],
+        "moonset": [
+            2447691.573986915,
+            [
+                1,
+                46,
+                32
+            ],
+            [
+                1989,
+                6,
+                14,
+                1.7756859585642815
+            ]
+        ],
+        "tithi": [
+            10,
+            [
+                6,
+                21,
+                27
+            ]
+        ],
+        "nakshatra": [
+            "Uttara Phalguni",
+            12,
+            [
+                15,
+                29,
+                41
+            ]
+        ],
+        "yoga": [
+            "Parigha",
+            18
+        ],
+        "karana": [
+            20,
+            -1.9632009413751632
+        ],
+        "vaara": "Budhvara",
+        "lunar_phase": 119.53090403481384,
+        "masa": [
+            "Ashadha",
+            4,
+            false
+        ],
+        "ahargana": 1859226,
+        "ritu": "Vasant Ritu (Spring)",
+        "samvatsara": 3,
+        "day_duration": [
+            13.944338344037533,
+            [
+                13,
+                56,
+                40
+            ]
+        ]
+    }
+}

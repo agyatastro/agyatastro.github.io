@@ -1,0 +1,225 @@
+{
+    "request": {
+        "name": "Kash Patel",
+        "title": "Lawyer, Director FBI",
+        "year": 1980,
+        "month": 2,
+        "day": 25,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 40.73083,
+        "longitude": -73.59806,
+        "location": "East Garden City",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "related": ["lawyer", "govt-employee"],
+        "about": "<p>Kashyap Pramod Patel (born February 25, 1980) is an American lawyer serving since 2025 as the director of the Federal Bureau of Investigation. Patel also served as acting director of the Bureau of Alcohol, Tobacco, Firearms and Explosives from February to April 2025.</p><p>Patel studied criminal justice and history at the University of Richmond and graduated from the Pace University School of Law. In 2005, he began working as a public defender in Miami-Dade County, Florida, and later as a federal public defender for the Southern District of Florida. Patel worked as a staff member at the Department of Justice from 2012 to 2017; he then left the department and became a senior aide to Devin Nunes, the chairman of the House Permanent Select Committee on Intelligence. Patel was the primary author of the Nunes memo, alleging that Federal Bureau of Investigation (FBI) officials abused their authority in the FBI investigation into links between associates of Donald Trump and Russian officials.</p><p>In February 2019, Patel joined the National Security Council's International Organizations and Alliances directorate. In 2020, he became the principal deputy director of national intelligence until May, when he returned to the National Security Council. In November, after President Donald Trump dismissed Mark Esper as secretary of defense, Patel was named as the chief of staff to acting secretary of defense Christopher C. Miller.</p><p>After Trump left office in January 2021, Patel leveraged his association with Trump to promote several business ventures and made recurring appearances on several podcasts. In April 2022, he was named to the board of Trump Media & Technology Group. Also that year, he published a children's book about the Steele dossier and, with John Solomon, was appointed to represent Trump before the National Archives and Records Administration; the FBI questioned Patel about his involvement in Trump's records. He founded The Kash Foundation, a charity to help participants in the January 6 United States Capitol attack pay legal costs. He has promoted conspiracy theories about the deep state, the 2020 presidential election, and the January 6 Capitol attack. Democrats have accused Patel of QAnon affiliation.</p><p>Patel has been widely described as a Trump loyalist. He shares Trump's view that the FBI has been weaponized against conservatives. He has called for \"major, major reform\", citing the bureau's misuse of its surveillance authority under the FISA and James Comey's handling of the Hillary Clinton email investigation.</p><p>On December 11, 2024, Christopher Wray announced that he would resign at the end of Joe Biden's presidency on January 20, 2025. Patel appeared before the Senate Committee on the Judiciary in January 2025. He was confirmed by the Senate in February. Shortly thereafter, he was named as the acting director of the Bureau of Alcohol, Tobacco, Firearms and Explosives, but by April he was replaced. Patel is the first person of South Asian descent to serve as FBI director. His tenure at the FBI has elicited several controversies related to his professional conduct and use of federal resources for personal leisure.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 64.6147594840591,
+            "ascendant": 3
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 131.58539592386327,
+                "cusp_degree": 11.585395923863274,
+                "motion_speed": -0.13147620452399997,
+                "zodiac": 5,
+                "house": 3,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 312.6747534102872,
+                "cusp_degree": 12.674753410287224,
+                "motion_speed": 1.0054909632071,
+                "zodiac": 11,
+                "house": 9,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 75.13066707593262,
+                "cusp_degree": 15.130667075932621,
+                "motion_speed": 12.617827172311307,
+                "zodiac": 3,
+                "house": 1,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 354.8988339396145,
+                "cusp_degree": 24.89883393961452,
+                "motion_speed": 1.157433961942661,
+                "zodiac": 12,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 132.01386774682524,
+                "cusp_degree": 12.013867746825241,
+                "motion_speed": -0.39737875063202965,
+                "zodiac": 5,
+                "house": 3,
+                "motion": "R"
+            },
+            "Mercury": {
+                "degree": 327.91727684186395,
+                "cusp_degree": 27.917276841863952,
+                "motion_speed": 0.05852119517967678,
+                "zodiac": 11,
+                "house": 9,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 151.40885153007602,
+                "cusp_degree": 1.4088515300760207,
+                "motion_speed": -0.07261044876908478,
+                "zodiac": 6,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 125.71308715189285,
+                "cusp_degree": 5.71308715189285,
+                "motion_speed": 0.01198439902201091,
+                "zodiac": 5,
+                "house": 3,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 125.36851015712217,
+                "cusp_degree": 5.368510157122174,
+                "motion_speed": -0.05299200716841822,
+                "zodiac": 5,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 305.36851015712216,
+                "motion_speed": -0.05299200716841822,
+                "cusp_degree": 5.368510157122159,
+                "zodiac": 11,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 305.71308715189286,
+                "motion_speed": 0.01198439902201091,
+                "cusp_degree": 5.713087151892864,
+                "zodiac": 11,
+                "house": 9,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1980-02-25",
+        "latitude": 40.73083,
+        "longitude": -73.59806,
+        "time_zone": "America/New_York",
+        "offset": -4,
+        "julday": 2444294.5,
+        "solar_longitude": 311.9623953620045,
+        "lunar_longitude": 66.12422556292923,
+        "lunar_latitude": -4.573866563568952,
+        "sunrise": [
+            2444294.819473225,
+            [
+                7,
+                40,
+                2
+            ],
+            [
+                1980,
+                2,
+                25,
+                7.66735740378499
+            ]
+        ],
+        "sunset": [
+            2444295.274806363,
+            [
+                18,
+                35,
+                43
+            ],
+            [
+                1980,
+                2,
+                25,
+                18.595352713018656
+            ]
+        ],
+        "moonrise": [
+            2444295.0755612794,
+            [
+                13,
+                48,
+                48
+            ],
+            [
+                1980,
+                2,
+                25,
+                13.81347070634365
+            ]
+        ],
+        "moonset": [
+            2444294.6822245903,
+            [
+                4,
+                22,
+                24
+            ],
+            [
+                1980,
+                2,
+                25,
+                4.373390167951584
+            ]
+        ],
+        "tithi": [
+            10,
+            [
+                19,
+                44,
+                27
+            ]
+        ],
+        "nakshatra": [
+            "Rohini",
+            4,
+            [
+                16,
+                23,
+                43
+            ]
+        ],
+        "yoga": [
+            "Priti",
+            1
+        ],
+        "karana": [
+            19,
+            -3.9200461630003645
+        ],
+        "vaara": "Somavara",
+        "lunar_phase": 114.16183020092473,
+        "masa": [
+            "Phalguna",
+            12,
+            false
+        ],
+        "ahargana": 1855829,
+        "ritu": "Vasant Ritu (Spring)",
+        "samvatsara": 53,
+        "day_duration": [
+            10.927995309233665,
+            [
+                10,
+                55,
+                41
+            ]
+        ]
+    }
+}

@@ -1,0 +1,225 @@
+{
+    "request": {
+        "name": "The Great Khali",
+        "title": "Professional Wrestler",
+        "year": 1972,
+        "month": 8,
+        "day": 27,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 24.83648,
+        "longitude": 81.36448,
+        "location": "Sirmaur",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "related": ["wrestler", "wwe"],
+        "about": "<p>Dalip Singh Rana (born 27 August 1972), better known by his ring name The Great Khali, is an Indian-born American former professional wrestler, promoter, and actor. He is best known for his tenure with WWE, where he became the first Indian-born world champion. Standing over 7 feet tall due to acromegaly, Khali gained attention for his imposing stature and was prominently featured in WWE storylines throughout the mid-2000s to early 2010s.</p><p>Rana began his professional wrestling career in 2000, competing in the United States for All Pro Wrestling (APW), followed by appearances in World Championship Wrestling (WCW), New Japan Pro-Wrestling (NJPW), and other international promotions. He signed with WWE in 2006, where he was involved in high-profile feuds with The Undertaker, John Cena, Batista, and Triple H, and participated in major events such as WrestleMania and SummerSlam. Outside the ring, Khali appeared in films including The Longest Yard (2005) and Get Smart (2008), and finished as runner-up on the reality television show Bigg Boss 4 in 2011.</p><p>In 2015, Rana founded Continental Wrestling Entertainment (CWE) based in Jalandhar, Punjab. Khali was inducted into the WWE Hall of Fame in 2021 and continues to make occasional appearances for the company.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 213.79865644416446,
+            "ascendant": 8
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 245.0141183370292,
+                "cusp_degree": 5.014118337029203,
+                "motion_speed": 0.006056505250990207,
+                "zodiac": 9,
+                "house": 2,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 130.59727645005407,
+                "cusp_degree": 10.597276450054068,
+                "motion_speed": 0.9652902083754399,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 343.5880227422529,
+                "cusp_degree": 13.588022742252917,
+                "motion_speed": 14.359034122250753,
+                "zodiac": 12,
+                "house": 5,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 84.79314589917183,
+                "cusp_degree": 24.793145899171833,
+                "motion_speed": 0.9623174221346362,
+                "zodiac": 3,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 134.29390826103813,
+                "cusp_degree": 14.293908261038126,
+                "motion_speed": 0.6364821499823407,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 112.41494255081753,
+                "cusp_degree": 22.41494255081753,
+                "motion_speed": 1.1403512405024483,
+                "zodiac": 4,
+                "house": 9,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 55.93696227267183,
+                "cusp_degree": 25.936962272671828,
+                "motion_speed": 0.06278648216352102,
+                "zodiac": 2,
+                "house": 7,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 271.95756057201964,
+                "cusp_degree": 1.957560572019645,
+                "motion_speed": -0.09753274014257154,
+                "zodiac": 10,
+                "house": 3,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 270.48389226524824,
+                "cusp_degree": 0.4838922652482438,
+                "motion_speed": -0.05299208062273137,
+                "zodiac": 10,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 90.48389226524824,
+                "motion_speed": -0.05299208062273137,
+                "cusp_degree": 0.4838922652482438,
+                "zodiac": 4,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 91.95756057201964,
+                "motion_speed": -0.09753274014257154,
+                "cusp_degree": 1.957560572019645,
+                "zodiac": 4,
+                "house": 9,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1972-08-27",
+        "latitude": 24.83648,
+        "longitude": 81.36448,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2441556.5,
+        "solar_longitude": 130.33586123860675,
+        "lunar_longitude": 339.703452869684,
+        "lunar_latitude": 4.778601164626886,
+        "sunrise": [
+            2441556.741094266,
+            [
+                5,
+                47,
+                11
+            ],
+            [
+                1972,
+                8,
+                27,
+                5.786262385547161
+            ]
+        ],
+        "sunset": [
+            2441557.267034602,
+            [
+                18,
+                24,
+                32
+            ],
+            [
+                1972,
+                8,
+                27,
+                18.40883044525981
+            ]
+        ],
+        "moonrise": [
+            2441557.344573405,
+            [
+                20,
+                16,
+                11
+            ],
+            [
+                1972,
+                8,
+                27,
+                20.269761722534895
+            ]
+        ],
+        "moonset": [
+            2441556.8357988107,
+            [
+                8,
+                3,
+                33
+            ],
+            [
+                1972,
+                8,
+                27,
+                8.059171456843615
+            ]
+        ],
+        "tithi": [
+            18,
+            [
+                17,
+                40,
+                22
+            ]
+        ],
+        "nakshatra": [
+            "Shatabhisha",
+            24,
+            [
+                11,
+                48,
+                41
+            ]
+        ],
+        "yoga": [
+            "Shula",
+            8
+        ],
+        "karana": [
+            35,
+            -2.5924768438995898
+        ],
+        "vaara": "Ravivara",
+        "lunar_phase": 209.36759163107723,
+        "masa": [
+            "Bhadrapada",
+            6,
+            false
+        ],
+        "ahargana": 1853091,
+        "ritu": "Vasant Ritu (Spring)",
+        "samvatsara": 46,
+        "day_duration": [
+            12.622568059712648,
+            [
+                12,
+                37,
+                21
+            ]
+        ]
+    }
+}

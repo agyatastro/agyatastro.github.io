@@ -1,0 +1,225 @@
+{
+    "request": {
+        "name": "Jiddu Krishnamurti",
+        "title": "Philosopher, Author",
+        "year": 1895,
+        "month": 5,
+        "day": 12,
+        "hour": 0,
+        "minute": 30,
+        "second": 0,
+        "latitude": 13.5503,
+        "longitude": 78.50288,
+        "location": "Madanapalle",
+        "gender": "male",
+        "agyat_rating": "AA",
+        "related": ["scientist", "religious-preacher", "author", "philosopher"],
+        "about": "</p><p>Jiddu Krishnamurti (/ˈdʒɪduː ˌkrɪʃnəˈmʊərti/ JID-oo KRISH-nə-MOOR-tee; 11 May 1895 – 17 February 1986) was an Indian spiritual figure, speaker, and writer. Adopted by members of the Theosophical Society as a child, Krishnamurti was raised to fill the mantle of the prophesied World Teacher, a role tasked with aiding humankind's spiritual evolution. In 1922, he began to suffer from painful, seizure-like mystical episodes that would produce a lasting change in his perception of reality. In 1929, he broke from the Theosophy movement and disbanded the Order of the Star in the East which had been formed around him. He spent the rest of his life speaking to groups and individuals around the world, hoping to contribute a radical transformation of mankind.</p><p>Krishnamurti asserted that \"truth is a pathless land\" and advised against following any doctrine, discipline, teacher, guru, or authority, including himself. Nonetheless, during his life he tried to share his insights in \"the teachings\", urging for a state without conceptual deliberations and thought. In Krishnamurti's perception, such a righteousness was only possible through the practice of passive or choiceless awareness, which he called the essence of \"true meditation\" in contrast to contrived techniques. He gained a wider recognition in the 1950s, after Aldous Huxley had introduced him to his mainstream publisher and the publication of The First and Last Freedom (1954). Many of his talks have been published since, among them Commentaries on Living (1956–60) and Krishnamurti's Notebook (written 1961-62).</p><p>A few days before his death he stated that nobody had understood what spirit or intelligence had passed through his body, and that after his death no other such body or intelligence would be found \"for many hundred years.\" His supporters—working through non-profit foundations in India, Britain, and the United States—oversee several independent schools based on his educational philosophy and continue to distribute his extensive body of talks, dialogues, and writings in various media formats and languages.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 296.4452813106793,
+            "ascendant": 10
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 72.7968419744714,
+                "cusp_degree": 12.796841974471405,
+                "motion_speed": 0.19069882375695735,
+                "zodiac": 3,
+                "house": 6,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 28.401271861388647,
+                "cusp_degree": 28.401271861388647,
+                "motion_speed": 0.9647940774426969,
+                "zodiac": 1,
+                "house": 4,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 242.90260825566548,
+                "cusp_degree": 2.902608255665484,
+                "motion_speed": 12.841363542877259,
+                "zodiac": 9,
+                "house": 12,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 66.04186010001322,
+                "cusp_degree": 6.041860100013224,
+                "motion_speed": 1.1663649671903775,
+                "zodiac": 3,
+                "house": 6,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 79.40435968669014,
+                "cusp_degree": 19.404359686690142,
+                "motion_speed": 0.6050184115282363,
+                "zodiac": 3,
+                "house": 6,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 36.480886279893504,
+                "cusp_degree": 6.480886279893504,
+                "motion_speed": 2.123555782211621,
+                "zodiac": 2,
+                "house": 5,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 190.25231509268912,
+                "cusp_degree": 10.252315092689116,
+                "motion_speed": -0.07023828591923671,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 327.45089131800154,
+                "cusp_degree": 27.45089131800154,
+                "motion_speed": -0.1572449766023884,
+                "zodiac": 11,
+                "house": 2,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 326.5282797678644,
+                "cusp_degree": 26.528279767864376,
+                "motion_speed": -0.05299211785892786,
+                "zodiac": 11,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 146.52827976786438,
+                "motion_speed": -0.05299211785892786,
+                "cusp_degree": 26.528279767864376,
+                "zodiac": 5,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 147.45089131800154,
+                "motion_speed": -0.1572449766023884,
+                "cusp_degree": 27.45089131800154,
+                "zodiac": 5,
+                "house": 8,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1895-05-12",
+        "latitude": 13.5503,
+        "longitude": 78.50288,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2413325.5,
+        "solar_longitude": 28.596344575475626,
+        "lunar_longitude": 245.49238371910192,
+        "lunar_latitude": -5.021916925005973,
+        "sunrise": [
+            2413325.7459580633,
+            [
+                5,
+                54,
+                11
+            ],
+            [
+                1895,
+                5,
+                12,
+                5.902993518859148
+            ]
+        ],
+        "sunset": [
+            2413326.271030814,
+            [
+                18,
+                30,
+                17
+            ],
+            [
+                1895,
+                5,
+                12,
+                18.50473953410983
+            ]
+        ],
+        "moonrise": [
+            2413326.4078805763,
+            [
+                21,
+                47,
+                21
+            ],
+            [
+                1895,
+                5,
+                12,
+                21.789133831858635
+            ]
+        ],
+        "moonset": [
+            2413325.85502212,
+            [
+                8,
+                31,
+                14
+            ],
+            [
+                1895,
+                5,
+                12,
+                8.520530875772238
+            ]
+        ],
+        "tithi": [
+            19,
+            [
+                28,
+                46,
+                19
+            ]
+        ],
+        "nakshatra": [
+            "Anuradha",
+            17,
+            [
+                12,
+                13,
+                51
+            ]
+        ],
+        "yoga": [
+            "Siddha",
+            20
+        ],
+        "karana": [
+            36,
+            -3.7910218954347386
+        ],
+        "vaara": "Ravivara",
+        "lunar_phase": 216.8960391436263,
+        "masa": [
+            "Jyeshtha",
+            3,
+            false
+        ],
+        "ahargana": 1824860,
+        "ritu": "Vasant Ritu (Spring)",
+        "samvatsara": 29,
+        "day_duration": [
+            12.601746015250683,
+            [
+                12,
+                36,
+                6
+            ]
+        ]
+    }
+}

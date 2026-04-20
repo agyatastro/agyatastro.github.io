@@ -1,0 +1,225 @@
+{
+    "request": {
+        "name": "Kalpana Chawla",
+        "title": "Scientist, Engineer",
+        "year": 1961,
+        "month": 3,
+        "day": 17,
+        "hour": 10,
+        "minute": 0,
+        "second": 0,
+        "latitude": 29.69197,
+        "longitude": 76.98448,
+        "location": "Karnal",
+        "gender": "female",
+        "agyat_rating": "AU",
+        "related": ["scientist", "engineer"],
+        "about": "</p><p>Kalpana Chawla (March 17, 1962 – February 1, 2003) was an Indian-American astronaut and aerospace engineer who was the first woman of Indian origin to fly to space. Chawla expressed an interest in aerospace engineering from an early age and took engineering classes at Dayal Singh College and Punjab Engineering College in India. She then traveled to the United States, where she earned her MSc and PhD, becoming a naturalized United States citizen in the early 1990s.</p><p>She first flew on the Space Shuttle Columbia in 1997 as a mission specialist and robotic arm operator aboard STS-87. Her role in the flight caused some controversy due to the failed deployment of the Shuttle-Pointed Autonomous Research Tool for Astronomy (\"Spartan\") module.[2] Chawla's second flight was in 2003 on STS-107, the final flight of Columbia. She was one of the seven crew members who died in the Space Shuttle Columbia disaster when the spacecraft disintegrated during its descent back to Earth's atmosphere on February 1, 2003.</p><p>Chawla was posthumously awarded the Congressional Space Medal of Honor, the NASA Space Flight Medal, and the NASA Distinguished Service Medal. Several buildings, spacecraft, and extraterrestrial landmarks have been named in her honor.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 40.258347021706335,
+            "ascendant": 2
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 277.01801472140994,
+                "cusp_degree": 7.018014721409941,
+                "motion_speed": 0.17717948872099998,
+                "zodiac": 10,
+                "house": 9,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 333.03953595948093,
+                "cusp_degree": 3.0395359594809293,
+                "motion_speed": 0.9954670657302528,
+                "zodiac": 12,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 338.47860733552625,
+                "cusp_degree": 8.478607335526249,
+                "motion_speed": 14.449656806808553,
+                "zodiac": 12,
+                "house": 11,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 5.518147970280905,
+                "cusp_degree": 5.518147970280905,
+                "motion_speed": 0.14290459823007043,
+                "zodiac": 1,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 74.40955759367347,
+                "cusp_degree": 14.409557593673469,
+                "motion_speed": 0.34823501342184815,
+                "zodiac": 3,
+                "house": 2,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 305.6341919123038,
+                "cusp_degree": 5.634191912303777,
+                "motion_speed": 0.8151201904539476,
+                "zodiac": 11,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 274.3133493900614,
+                "cusp_degree": 4.313349390061376,
+                "motion_speed": 0.07911258656729805,
+                "zodiac": 10,
+                "house": 9,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 132.8789307129354,
+                "cusp_degree": 12.878930712935386,
+                "motion_speed": -0.03049887984554838,
+                "zodiac": 5,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 132.04805137687305,
+                "cusp_degree": 12.048051376873048,
+                "motion_speed": -0.05299207512187933,
+                "zodiac": 5,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 312.04805137687305,
+                "motion_speed": -0.05299207512187933,
+                "cusp_degree": 12.048051376873048,
+                "zodiac": 11,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 312.87893071293536,
+                "motion_speed": -0.03049887984554838,
+                "cusp_degree": 12.878930712935357,
+                "zodiac": 11,
+                "house": 10,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1961-03-17",
+        "latitude": 29.69197,
+        "longitude": 76.98448,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2437375.5,
+        "solar_longitude": 332.85287597610443,
+        "lunar_longitude": 335.7647423384847,
+        "lunar_latitude": -2.0499179583109997,
+        "sunrise": [
+            2437375.773679387,
+            [
+                6,
+                34,
+                6
+            ],
+            [
+                1961,
+                3,
+                17,
+                6.568305283784866
+            ]
+        ],
+        "sunset": [
+            2437376.2691165577,
+            [
+                18,
+                27,
+                32
+            ],
+            [
+                1961,
+                3,
+                17,
+                18.45879738405347
+            ]
+        ],
+        "moonrise": [
+            2437375.7805839335,
+            [
+                6,
+                44,
+                2
+            ],
+            [
+                1961,
+                3,
+                17,
+                6.73401440307498
+            ]
+        ],
+        "moonset": [
+            2437376.302864634,
+            [
+                19,
+                16,
+                8
+            ],
+            [
+                1961,
+                3,
+                17,
+                19.268751215189695
+            ]
+        ],
+        "tithi": [
+            1,
+            [
+                22,
+                50,
+                49
+            ]
+        ],
+        "nakshatra": [
+            "Shatabhisha",
+            24,
+            [
+                18,
+                3,
+                33
+            ]
+        ],
+        "yoga": [
+            "Shukla",
+            23
+        ],
+        "karana": [
+            1,
+            -0.5975583605428483
+        ],
+        "vaara": "Shukrvara",
+        "lunar_phase": 2.9118663623802945,
+        "masa": [
+            "Chaitra",
+            1,
+            false
+        ],
+        "ahargana": 1848910,
+        "ritu": "Vasant Ritu (Spring)",
+        "samvatsara": 34,
+        "day_duration": [
+            11.890492100268602,
+            [
+                11,
+                53,
+                26
+            ]
+        ]
+    }
+}

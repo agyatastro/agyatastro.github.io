@@ -1,0 +1,232 @@
+{
+    "request": {
+        "name": "Ram Dass",
+        "title": "Religious Preacher, Psychologist, Writer",
+        "year": 1931,
+        "month": 4,
+        "day": 6,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 42.35843,
+        "longitude": -71.05977,
+        "location": "Boston",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "dod": "22/12/2019",
+        "related": ["neem-karoli-baba", "religious-preacher", "psychologist", "writer"],
+        "about": "<p>Ram Dass (born Richard Alpert; April 6, 1931 – December 22, 2019), also known as Baba Ram Dass, was an American spiritual teacher, guru of modern yoga, psychologist, and writer. His best-selling 1971 book Be Here Now, which has been described by multiple reviewers as \"seminal\", helped popularize Eastern spirituality and yoga in the West. He authored or co-authored twelve more books on spirituality over the next four decades, including Grist for the Mill (1977), How Can I Help? (1985), and Polishing the Mirror (2013).</p><p>Ram Dass was personally and professionally associated with Timothy Leary at Harvard University in the early 1960s. Then known as Richard Alpert, he conducted research with Leary on the therapeutic effects of psychedelic drugs. In addition, Alpert assisted Harvard Divinity School graduate student Walter Pahnke in his 1962 \"Good Friday Experiment\" with theology students, the first controlled, double-blind study of drugs and the mystical experience. While not illegal at the time, their research was controversial and led to Leary's and Alpert's dismissal from Harvard in 1963.</p><p>In 1967, Alpert traveled to India and became a disciple of Hindu guru Neem Karoli Baba, who gave him the name Ram Dass, meaning \"Servant of Ram,\" but usually rendered simply as \"Servant of God\" for Western audiences. In the following years, he co-founded the charitable organizations Seva Foundation and Hanuman Foundation. From the 1970s to the 1990s, he traveled extensively, giving talks and retreats and holding fundraisers for charitable causes. In 1997, he had a stroke, which left him with paralysis and expressive aphasia which would be better characterized as \"fluent, anomic-like with hesitations and word finding difficulties at the conversational level with grossly intact auditory comprehension for high level, low-context information\". He eventually grew to interpret this event as an act of grace, learning to speak again and continuing to teach and write books. After becoming seriously ill during a trip to India in 2004, he gave up traveling and moved to Maui, Hawaii, where he hosted annual retreats with other spiritual teachers until his death in 2019.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 101.27126826392794,
+            "ascendant": 4
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 78.99936622590782,
+                "cusp_degree": 18.99936622590782,
+                "motion_speed": 0.09186143670575225,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 353.03332871674075,
+                "cusp_degree": 23.033328716740755,
+                "motion_speed": 0.9833643530991052,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 225.25247614862238,
+                "cusp_degree": 15.252476148622378,
+                "motion_speed": 13.696136130837383,
+                "zodiac": 8,
+                "house": 5,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 314.07404261792,
+                "cusp_degree": 14.074042617919986,
+                "motion_speed": 1.181239896135927,
+                "zodiac": 11,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 99.01734014593875,
+                "cusp_degree": 9.017340145938746,
+                "motion_speed": 0.28116930890198105,
+                "zodiac": 4,
+                "house": 1,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 11.67448487063538,
+                "cusp_degree": 11.67448487063538,
+                "motion_speed": 1.323072397474917,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 269.7970325149216,
+                "cusp_degree": 29.797032514921625,
+                "motion_speed": 0.04308105950455979,
+                "zodiac": 9,
+                "house": 6,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 351.47598397395694,
+                "cusp_degree": 21.475983973956943,
+                "motion_speed": -0.0029009624548411938,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 351.6476472245703,
+                "cusp_degree": 21.647647224570278,
+                "motion_speed": -0.05299200461146563,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 171.64764722457028,
+                "motion_speed": -0.05299200461146563,
+                "cusp_degree": 21.647647224570278,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 171.475983973957,
+                "motion_speed": -0.0029009624548411938,
+                "cusp_degree": 21.475983973957,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1931-04-06",
+        "latitude": 42.35843,
+        "longitude": -71.05977,
+        "time_zone": "America/New_York",
+        "offset": -4,
+        "julday": 2426437.5,
+        "solar_longitude": 352.33665410718874,
+        "lunar_longitude": 215.4382895375781,
+        "lunar_latitude": -3.680043613070778,
+        "sunrise": [
+            2426437.7668950255,
+            [
+                6,
+                24,
+                20
+            ],
+            [
+                1931,
+                4,
+                6,
+                6.405480612069368
+            ]
+        ],
+        "sunset": [
+            2426438.2987131495,
+            [
+                19,
+                10,
+                9
+            ],
+            [
+                1931,
+                4,
+                6,
+                19.169115588068962
+            ]
+        ],
+        "moonrise": [
+            2426438.5054180077,
+            [
+                24,
+                7,
+                48
+            ],
+            [
+                1931,
+                4,
+                7,
+                0.13003218546509743
+            ]
+        ],
+        "moonset": [
+            2426437.8616822013,
+            [
+                8,
+                40,
+                49
+            ],
+            [
+                1931,
+                4,
+                6,
+                8.680372830480337
+            ]
+        ],
+        "tithi": [
+            19,
+            [
+                15,
+                37,
+                33
+            ],
+            20,
+            [
+                38,
+                45,
+                40
+            ]
+        ],
+        "nakshatra": [
+            "Swati",
+            15,
+            [
+                8,
+                53,
+                3
+            ]
+        ],
+        "yoga": [
+            "Siddha",
+            15
+        ],
+        "karana": [
+            37,
+            -4.5634277836878425
+        ],
+        "vaara": "Somavara",
+        "lunar_phase": 223.10163543038936,
+        "masa": [
+            "Chaitra",
+            1,
+            false
+        ],
+        "ahargana": 1837972,
+        "ritu": "Vasant Ritu (Spring)",
+        "samvatsara": 5,
+        "day_duration": [
+            12.763634975999594,
+            [
+                12,
+                45,
+                49
+            ]
+        ]
+    }
+}

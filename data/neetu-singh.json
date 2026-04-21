@@ -1,0 +1,227 @@
+{
+    "request": {
+        "name": "Neetu Singh",
+        "title": "Actor",
+        "year": 1957,
+        "month": 7,
+        "day": 8,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 30.73629,
+        "longitude": 76.7884,
+        "location": "Chandigarh",
+        "gender": "female",
+        "agyat_rating": "CX",
+        "advanced": "troubled marriage, abusive-husband",
+        "related": ["kapoor-family", "actor"],
+        "correction": "1 year back to correct with life events",
+        "about": "<p>Neetu Kapoor (née Singh; born Harneet Kaur; 8 July 1958) is an Indian actress who is known for appearing in Hindi films throughout the late 1960s, 1970s and early 1980s. In 2012, Kapoor was inducted into the Walk of the Stars, an entertainment hall of fame at Bandra Bandstand in Mumbai. She is the recipient of several accolades, including two Filmfare Award nominations.</p><p>Kapoor made her debut in the swashbuckler film Suraj (1966) and thereafter played a dual role in the romantic comedy Do Kaliyaan (1968). She began her transition to mature roles with the vigilante film Rickshawala (1973) and enjoyed a breakthrough with Nasir Hussain's masala film Yaadon Ki Baaraat (1973). She rose to prominence with lead roles in the crime drama Deewaar (1975), the thriller Khel Khel Mein (1975), the musical Kabhi Kabhie (1976), the masala Amar Akbar Anthony (1977) and the fantasy Dharam Veer (1977). Her performances in Parvarish (1977), Jaani Dushman (1979), Kaala Patthar (1979) and Yaarana (1981) won her praise and for Kaala Patthar, she was nominated for the Filmfare Award for Best Supporting Actress.</p><p>In 1980, she married actor Rishi Kapoor, with whom she had two children, including the actor Ranbir Kapoor. She went on a hiatus after appearing in the thriller film Ganga Meri Maa (1983). Nearly three decades later, she made her acting comeback with a minor role in the romantic comedy Love Aaj Kal (2009). She has since led the comedy film Do Dooni Chaar (2010) which won her a Zee Cine Award, the action film Besharam (2013), made a guest appearance in the romantic drama Jab Tak Hai Jaan (2012) and starred in the film Jugjugg Jeeyo (2022), which earned her another nomination for the Filmfare Award for Best Supporting Actress.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 165.5974530347127,
+            "ascendant": 6
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 152.06808450268917,
+                "cusp_degree": 2.0680845026891745,
+                "motion_speed": 0.13033501914395051,
+                "zodiac": 6,
+                "house": 1,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 82.55496723509624,
+                "cusp_degree": 22.554967235096242,
+                "motion_speed": 0.9531028019606272,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 219.5362069038749,
+                "cusp_degree": 9.536206903874898,
+                "motion_speed": 12.985858483177767,
+                "zodiac": 8,
+                "house": 3,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 105.04766202234019,
+                "cusp_degree": 15.047662022340191,
+                "motion_speed": 1.2170811778347355,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 107.24123279794505,
+                "cusp_degree": 17.241232797945045,
+                "motion_speed": 0.6274891561291,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 87.37307237649755,
+                "cusp_degree": 27.373072376497547,
+                "motion_speed": 2.112212566828648,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 225.3406957390033,
+                "cusp_degree": 15.340695739003309,
+                "motion_speed": -0.0508968568430956,
+                "zodiac": 8,
+                "house": 3,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 204.97718691116026,
+                "cusp_degree": 24.97718691116026,
+                "motion_speed": -0.033021707530350726,
+                "zodiac": 7,
+                "house": 2,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 203.47692130067242,
+                "cusp_degree": 23.476921300672416,
+                "motion_speed": -0.052992045597675334,
+                "zodiac": 7,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 23.476921300672416,
+                "motion_speed": -0.052992045597675334,
+                "cusp_degree": 23.476921300672416,
+                "zodiac": 1,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 24.977186911160288,
+                "motion_speed": -0.033021707530350726,
+                "cusp_degree": 24.977186911160288,
+                "zodiac": 1,
+                "house": 8,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1957-07-08",
+        "latitude": 30.73629,
+        "longitude": 76.7884,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2436027.5,
+        "solar_longitude": 82.29683434224981,
+        "lunar_longitude": 216.01155849899104,
+        "lunar_latitude": 0.9776531814049292,
+        "sunrise": [
+            2436027.729539857,
+            [
+                5,
+                30,
+                32
+            ],
+            [
+                1957,
+                7,
+                8,
+                5.50895656272769
+            ]
+        ],
+        "sunset": [
+            2436028.308826226,
+            [
+                19,
+                24,
+                43
+            ],
+            [
+                1957,
+                7,
+                8,
+                19.41182941943407
+            ]
+        ],
+        "moonrise": [
+            2436028.1837293017,
+            [
+                16,
+                24,
+                34
+            ],
+            [
+                1957,
+                7,
+                8,
+                16.409503240138292
+            ]
+        ],
+        "moonset": [
+            2436027.592080183,
+            [
+                2,
+                12,
+                36
+            ],
+            [
+                1957,
+                7,
+                8,
+                2.209924388676882
+            ]
+        ],
+        "tithi": [
+            12,
+            [
+                26,
+                4,
+                40
+            ]
+        ],
+        "nakshatra": [
+            "Swati",
+            15,
+            [
+                18,
+                54,
+                17
+            ]
+        ],
+        "yoga": [
+            "Shubha",
+            22
+        ],
+        "karana": [
+            22,
+            -4.484190399101749
+        ],
+        "vaara": "Somavara",
+        "lunar_phase": 133.71472415674123,
+        "masa": [
+            "Shravana",
+            5,
+            false
+        ],
+        "ahargana": 1847562,
+        "ritu": "Vasant Ritu (Spring)",
+        "samvatsara": 31,
+        "day_duration": [
+            13.90287285670638,
+            [
+                13,
+                54,
+                10
+            ]
+        ]
+    }
+}

@@ -1,0 +1,225 @@
+{
+    "request": {
+        "name": "Archana Puran Singh",
+        "title": "Actor, TV Personality, Digital Influencer",
+        "year": 1961,
+        "month": 9,
+        "day": 26,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 30.32443,
+        "longitude": 78.03392,
+        "location": "Dehra Dun",
+        "gender": "male",
+        "agyat_rating": "CX",
+        "correction": "1 year backward to broadly connect with Life events",
+        "about": "Archana Puran Singh (born 26 September 1962) is an Indian actress and television personality. She is known for her comedy roles in several Hindi films and as a judge in the comedy shows The Kapil Sharma Show and Comedy Circus. She is widely remembered for her supporting roles in several films, best known for playing Miss Braganza in the romance Kuch Kuch Hota Hai (1998). Archana Puran Singh has been featured in more than 100 films and television series"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 233.89293372934566,
+            "ascendant": 8
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 274.0092279674406,
+                "cusp_degree": 4.009227967440609,
+                "motion_speed": 0.008533283432697962,
+                "zodiac": 10,
+                "house": 3,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 159.61054011232343,
+                "cusp_degree": 9.610540112323434,
+                "motion_speed": 0.9802928718715261,
+                "zodiac": 6,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 4.170438241723189,
+                "cusp_degree": 4.170438241723189,
+                "motion_speed": 14.423428016950755,
+                "zodiac": 1,
+                "house": 6,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 129.85856048745842,
+                "cusp_degree": 9.85856048745842,
+                "motion_speed": 1.2162240867107008,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 182.93375105242174,
+                "cusp_degree": 2.9337510524217407,
+                "motion_speed": 0.6707241778063203,
+                "zodiac": 7,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 185.39666832242352,
+                "cusp_degree": 5.396668322423523,
+                "motion_speed": 1.0593777262843316,
+                "zodiac": 7,
+                "house": 12,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 269.91822943031366,
+                "cusp_degree": 29.91822943031366,
+                "motion_speed": -0.0025599641396828136,
+                "zodiac": 9,
+                "house": 2,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 123.4112738873521,
+                "cusp_degree": 3.4112738873520954,
+                "motion_speed": -0.09363756291514627,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 121.81616979683606,
+                "cusp_degree": 1.8161697968360642,
+                "motion_speed": -0.052992074630854216,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 301.81616979683605,
+                "motion_speed": -0.052992074630854216,
+                "cusp_degree": 1.81616979683605,
+                "zodiac": 11,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 303.4112738873521,
+                "motion_speed": -0.09363756291514627,
+                "cusp_degree": 3.411273887352081,
+                "zodiac": 11,
+                "house": 4,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1961-09-26",
+        "latitude": 30.32443,
+        "longitude": 78.03392,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2437568.5,
+        "solar_longitude": 159.3450658265872,
+        "lunar_longitude": 0.2506525968904945,
+        "lunar_latitude": -4.348954752227749,
+        "sunrise": [
+            2437568.758270075,
+            [
+                6,
+                11,
+                55
+            ],
+            [
+                1961,
+                9,
+                26,
+                6.198481801897287
+            ]
+        ],
+        "sunset": [
+            2437569.25435689,
+            [
+                18,
+                6,
+                16
+            ],
+            [
+                1961,
+                9,
+                26,
+                18.104565359652042
+            ]
+        ],
+        "moonrise": [
+            2437569.310763746,
+            [
+                19,
+                27,
+                30
+            ],
+            [
+                1961,
+                9,
+                26,
+                19.458329904824495
+            ]
+        ],
+        "moonset": [
+            2437568.8297917536,
+            [
+                7,
+                54,
+                54
+            ],
+            [
+                1961,
+                9,
+                26,
+                7.9150020852684975
+            ]
+        ],
+        "tithi": [
+            17,
+            [
+                11,
+                42,
+                14
+            ]
+        ],
+        "nakshatra": [
+            "Uttara Bhadrapada",
+            26,
+            [
+                21,
+                44,
+                7
+            ]
+        ],
+        "yoga": [
+            "Vyaghata",
+            12
+        ],
+        "karana": [
+            34,
+            -0.3909797530239416
+        ],
+        "vaara": "Mangalvara",
+        "lunar_phase": 200.9055867703033,
+        "masa": [
+            "Ashwin",
+            7,
+            false
+        ],
+        "ahargana": 1849103,
+        "ritu": "Vasant Ritu (Spring)",
+        "samvatsara": 35,
+        "day_duration": [
+            11.906083557754755,
+            [
+                11,
+                54,
+                22
+            ]
+        ]
+    }
+}

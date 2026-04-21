@@ -1,0 +1,225 @@
+{
+    "request": {
+        "name": "Sunny Deol",
+        "title": "Actor",
+        "year": 1956,
+        "month": 10,
+        "day": 19,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 30.91204,
+        "longitude": 75.85379,
+        "location": "Ludhiana",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "related": ["deol-family", "actor"],
+        "about": "<p>Ajay Singh Deol (born 19 October 1957), professionally known as Sunny Deol, is an Indian actor, film director, film producer, screenwriter and former politician who works in Hindi cinema. One of the most successful film stars of India, he has worked in more than 100 Hindi films in a career spanning over four decades. He is particularly known for his angry action hero persona and various iconic dialogues. Deol has won several awards including two National Film Awards and two Filmfare Awards. He was a Member of Parliament in the Lok Sabha, representing Gurdaspur in Punjab as a member of the Bharatiya Janata Party from 2019 to 2024.</p><p>The elder son of actor Dharmendra, Deol made his acting debut opposite newcomer Amrita Singh in the romantic drama Betaab (1983), a major commercial success. He had further box-office hits in action films such as Arjun (1985), Paap Ki Duniya (1988) and Tridev (1989), and gained wider recognition and cemented star status, for his portrayal of a boxer accused of murder in Rajkumar Santoshi's Ghayal (1990), winning the Filmfare Award for Best Actor and the National Film Award – Special Jury Award (Feature Film). His portrayal of a volatile lawyer in Santoshi's crime drama Damini (1993) won him the National Film Award for Best Supporting Actor and the Filmfare Award for Best Supporting Actor. He enjoyed further acclaim with films such as Darr (1993), Jeet (1996), Ghatak (1996), Ziddi (1997), Arjun Pandit (1999) and Indian (2001).</p><p>Deol had his biggest commercial successes in the period action films Border (1997) and Gadar: Ek Prem Katha (2001); for both he was nominated for Filmfare Award for Best Actor. The latter was the highest-grossing Hindi film to that point. He subsequently starred with his father and younger brother, Bobby Deol, in the drama Apne (2007) and the comedy Yamla Pagla Deewana (2011). After more than a decade of setbacks, he made a career comeback by reprising his role in Gadar 2 (2023), which became the highest-grossing film of his career and the fourth highest-grossing Hindi film at the time. He solidified this comeback with Jaat (2025) and Border 2 (2026)</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 252.3422347189986,
+            "ascendant": 9
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 148.19705465499254,
+                "cusp_degree": 28.19705465499254,
+                "motion_speed": 0.196039984628788,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 182.5952346358224,
+                "cusp_degree": 2.5952346358224077,
+                "motion_speed": 0.993492472918344,
+                "zodiac": 7,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 357.08186423168553,
+                "cusp_degree": 27.08186423168553,
+                "motion_speed": 13.075008448985997,
+                "zodiac": 12,
+                "house": 4,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 141.8917563289354,
+                "cusp_degree": 21.8917563289354,
+                "motion_speed": 1.16980032513853,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 320.4105496064142,
+                "cusp_degree": 20.41054960641418,
+                "motion_speed": 0.11494931476151123,
+                "zodiac": 11,
+                "house": 3,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 166.92806477576028,
+                "cusp_degree": 16.928064775760276,
+                "motion_speed": 1.5354824105419407,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 217.61338971162039,
+                "cusp_degree": 7.6133897116203855,
+                "motion_speed": 0.10411006221662755,
+                "zodiac": 8,
+                "house": 12,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 216.05232572785368,
+                "cusp_degree": 6.052325727853685,
+                "motion_speed": -0.07751912149253458,
+                "zodiac": 8,
+                "house": 12,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 217.36083943004206,
+                "cusp_degree": 7.360839430042063,
+                "motion_speed": -0.05299207937597917,
+                "zodiac": 8,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 37.36083943004206,
+                "motion_speed": -0.05299207937597917,
+                "cusp_degree": 7.360839430042063,
+                "zodiac": 2,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 36.05232572785371,
+                "motion_speed": -0.07751912149253458,
+                "cusp_degree": 6.052325727853713,
+                "zodiac": 2,
+                "house": 6,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1956-10-19",
+        "latitude": 30.91204,
+        "longitude": 75.85379,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2435765.5,
+        "solar_longitude": 182.32618381812716,
+        "lunar_longitude": 353.5499595818144,
+        "lunar_latitude": 3.513116295393851,
+        "sunrise": [
+            2435765.774776647,
+            [
+                6,
+                35,
+                41
+            ],
+            [
+                1956,
+                10,
+                19,
+                6.594639524817467
+            ]
+        ],
+        "sunset": [
+            2435766.2410707367,
+            [
+                17,
+                47,
+                9
+            ],
+            [
+                1956,
+                10,
+                19,
+                17.785697679966688
+            ]
+        ],
+        "moonrise": [
+            2435766.2357732058,
+            [
+                17,
+                39,
+                31
+            ],
+            [
+                1956,
+                10,
+                19,
+                17.658556938171387
+            ]
+        ],
+        "moonset": [
+            2435765.7469911953,
+            [
+                5,
+                55,
+                40
+            ],
+            [
+                1956,
+                10,
+                19,
+                5.927788686007261
+            ]
+        ],
+        "tithi": [
+            15,
+            [
+                23,
+                58,
+                48
+            ]
+        ],
+        "nakshatra": [
+            "Purva Bhadrapada",
+            25,
+            [
+                11,
+                5,
+                29
+            ]
+        ],
+        "yoga": [
+            "Harshana",
+            13
+        ],
+        "karana": [
+            29,
+            -0.534272891559624
+        ],
+        "vaara": "Shukrvara",
+        "lunar_phase": 171.22377576368723,
+        "masa": [
+            "Kartika",
+            8,
+            false
+        ],
+        "ahargana": 1847300,
+        "ritu": "Vasant Ritu (Spring)",
+        "samvatsara": 30,
+        "day_duration": [
+            11.191058155149221,
+            [
+                11,
+                11,
+                28
+            ]
+        ]
+    }
+}

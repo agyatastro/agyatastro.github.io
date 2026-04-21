@@ -1,0 +1,225 @@
+{
+    "request": {
+        "name": "Arshad Warsi",
+        "title": "Actor",
+        "year": 1968,
+        "month": 4,
+        "day": 19,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 19.07283,
+        "longitude": 72.88261,
+        "location": "Mumbai",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "related": ["actor"],
+        "about": "<p>Arshad Warsi (born 19 April 1968) is an Indian actor who appears in Hindi films.[2][3] He is the recipient of several awards including a Filmfare Award from five nominations and is noted for acting in varied film genres.</p><p>Before making his acting debut, Warsi served as an assistant director to Mahesh Bhatt in Kaash (1987) and also choreographed a song in Roop Ki Rani Choron Ka Raja (1993). Warsi made his acting debut in 1996 with Tere Mere Sapne, which was a box office success. His portrayal of Circuit in the comedy film Munna Bhai M.B.B.S. (2003), and its sequel Lage Raho Munna Bhai (2006) for which he won the Filmfare Award for Best Performance in a Comic Role marked a turning point in his career. He featured in several commercially successful comedy films, including Hogi Pyaar Ki Jeet (1999), Hulchul (2004), Maine Pyaar Kyun Kiya? (2005), Salaam Namaste (2005), Golmaal: Fun Unlimited (2006), Dhamaal (2007), Krazzy 4 (2008), Golmaal Returns (2008), Ishqiya (2010), Golmaal 3 (2010), F.A.L.T.U (2011), Double Dhamaal (2011), Jolly LLB (2013), Golmaal Again (2017) and Total Dhamaal (2019), and received critical recognition for his work in films including Sehar (2005), Kabul Express (2006), Dedh Ishqiya (2014) and Guddu Rangeela (2015). He is widely regarded by many as one of the most underrated actors in the Hindi film industry.[4][5]</p><p>In addition to acting in films, Warsi has hosted the dance show Razzmatazz in 2001, Sabse Favourite Kaun in 2004 and the first season of the reality television show Bigg Boss for which he was awarded the Indian Television Academy Award for Best Anchor – Game/Quiz Show. He starred opposite Karisma Kapoor in the TV serial Karishma – The Miracles of Destiny (2003) and featured as a judge for Zara Nachke Dikha in 2010. Warsi is married to Maria Goretti since 1999 with whom he has two children.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 90.29529928853263,
+            "ascendant": 4
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 122.42822154697211,
+                "cusp_degree": 2.428221546972111,
+                "motion_speed": -0.008419154481233945,
+                "zodiac": 5,
+                "house": 2,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 5.848093895958328,
+                "cusp_degree": 5.848093895958328,
+                "motion_speed": 0.9763607909009973,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 268.9441544383295,
+                "cusp_degree": 28.94415443832952,
+                "motion_speed": 13.760662295150622,
+                "zodiac": 9,
+                "house": 6,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 349.3433332020727,
+                "cusp_degree": 19.3433332020727,
+                "motion_speed": 1.23064582633561,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 22.829657814665904,
+                "cusp_degree": 22.829657814665904,
+                "motion_speed": 0.7197024030359616,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 359.54719598933985,
+                "cusp_degree": 29.547195989339855,
+                "motion_speed": 2.028942684621944,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 353.7269428875827,
+                "cusp_degree": 23.72694288758271,
+                "motion_speed": 0.12421174252934701,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 355.2497876746849,
+                "cusp_degree": 25.24978767468491,
+                "motion_speed": -0.004717570846820893,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 354.79423262339327,
+                "cusp_degree": 24.79423262339327,
+                "motion_speed": -0.052992035095602456,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 174.79423262339333,
+                "motion_speed": -0.052992035095602456,
+                "cusp_degree": 24.794232623393327,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 175.24978767468497,
+                "motion_speed": -0.004717570846820893,
+                "cusp_degree": 25.249787674684967,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1968-04-19",
+        "latitude": 19.07283,
+        "longitude": 72.88261,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2439965.5,
+        "solar_longitude": 5.583646421578126,
+        "lunar_longitude": 265.2029317555484,
+        "lunar_latitude": -5.284210534361221,
+        "sunrise": [
+            2439965.7653050604,
+            [
+                6,
+                22,
+                2
+            ],
+            [
+                1968,
+                4,
+                19,
+                6.367321450263262
+            ]
+        ],
+        "sunset": [
+            2439966.287080803,
+            [
+                18,
+                53,
+                24
+            ],
+            [
+                1968,
+                4,
+                19,
+                18.8899392709136
+            ]
+        ],
+        "moonrise": [
+            2439965.522150263,
+            [
+                0,
+                31,
+                54
+            ],
+            [
+                1968,
+                4,
+                19,
+                0.5316063165664673
+            ]
+        ],
+        "moonset": [
+            2439965.9955726615,
+            [
+                11,
+                53,
+                37
+            ],
+            [
+                1968,
+                4,
+                19,
+                11.893743876367807
+            ]
+        ],
+        "tithi": [
+            22,
+            [
+                14,
+                34,
+                31
+            ]
+        ],
+        "nakshatra": [
+            "Moola",
+            19,
+            [
+                25,
+                43,
+                15
+            ]
+        ],
+        "yoga": [
+            "Siddha",
+            20
+        ],
+        "karana": [
+            43,
+            -5.025379435758055
+        ],
+        "vaara": "Shukrvara",
+        "lunar_phase": 259.61928533397025,
+        "masa": [
+            "Vaisakha",
+            2,
+            false
+        ],
+        "ahargana": 1851500,
+        "ritu": "Vasant Ritu (Spring)",
+        "samvatsara": 42,
+        "day_duration": [
+            12.52261782065034,
+            [
+                12,
+                31,
+                21
+            ]
+        ]
+    }
+}

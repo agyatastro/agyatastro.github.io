@@ -1,0 +1,225 @@
+{
+    "request": {
+        "name": "Divya Khosla Kumar",
+        "title": "Cinema Director, Cinema Producer, Actor",
+        "year": 1981,
+        "month": 11,
+        "day": 20,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 28.65195,
+        "longitude": 77.23149,
+        "location": "Delhi",
+        "gender": "female",
+        "agyat_rating": "UX",
+        "related": ["t-series", "cinema-producer", "cinema-director", "actor"],
+        "about": "<p>Divya Khosla Kumar (née Khosla) is an Indian model, actress, producer, and director who mainly works in Hindi cinema.[1][2] She has directed two films, the romantic comedy Yaariyan (2014) and the romantic drama Sanam Re (2016), and has produced Hindi films and music videos.</p><p>Khosla started her career as a model and appeared in various music videos notably \"Zid Na Karo Ye Dil Ka Mamla Hai\" by Roop Johri and Kunal Ganjawala and Falguni Pathak's \"Aiyyo Rama\". She made her acting debut with the Telugu film Love Today and her Hindi cinema debut with the film Ab Tumhare Hawale Watan Saathiyo (both 2004) before taking a hiatus from acting to focus on direction. On completion of a course in cinematography and editing, she directed several music videos before her directorial debut Yaariyan (2014) followed by Sanam Re (2016).</p><p>Khosla returned to acting in 2017 through the short film Bulbul, and since 2021, has starred in the action thriller Satyameva Jayate 2, the romantic drama Yaariyan 2 (2023), the action thriller Savi (2024), and this year's dark-comedy thriller Ek Chatur Naar (2025).</p><p>She is married to Bhushan Kumar, the chairman and managing director of T-Series.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 288.06906455042116,
+            "ascendant": 10
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 185.03572808590098,
+                "cusp_degree": 5.035728085900985,
+                "motion_speed": 0.20292453114641967,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 214.25026368913927,
+                "cusp_degree": 4.250263689139274,
+                "motion_speed": 1.0097202267384198,
+                "zodiac": 8,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 143.86631652244512,
+                "cusp_degree": 23.866316522445118,
+                "motion_speed": 12.642086108336452,
+                "zodiac": 5,
+                "house": 8,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 261.0077873651467,
+                "cusp_degree": 21.007787365146726,
+                "motion_speed": 0.9354234391741012,
+                "zodiac": 9,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 143.3805057727039,
+                "cusp_degree": 23.380505772703913,
+                "motion_speed": 0.5364681566665745,
+                "zodiac": 5,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 202.81377770617496,
+                "cusp_degree": 22.81377770617496,
+                "motion_speed": 1.5790589877777164,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 174.48994177080027,
+                "cusp_degree": 24.48994177080027,
+                "motion_speed": 0.1037859682577858,
+                "zodiac": 6,
+                "house": 9,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 90.7380970857189,
+                "cusp_degree": 0.7380970857189055,
+                "motion_speed": -0.0534288193617665,
+                "zodiac": 4,
+                "house": 7,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 91.79474581796029,
+                "cusp_degree": 1.7947458179602904,
+                "motion_speed": -0.05299203864751565,
+                "zodiac": 4,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 271.7947458179603,
+                "motion_speed": -0.05299203864751565,
+                "cusp_degree": 1.7947458179602904,
+                "zodiac": 10,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 270.7380970857189,
+                "motion_speed": -0.0534288193617665,
+                "cusp_degree": 0.7380970857188913,
+                "zodiac": 10,
+                "house": 1,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1981-11-20",
+        "latitude": 28.65195,
+        "longitude": 77.23149,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2444928.5,
+        "solar_longitude": 213.976815806776,
+        "lunar_longitude": 140.43234039018506,
+        "lunar_latitude": 3.8942353743780305,
+        "sunrise": [
+            2444928.785816981,
+            [
+                6,
+                51,
+                35
+            ],
+            [
+                1981,
+                11,
+                20,
+                6.859607543796301
+            ]
+        ],
+        "sunset": [
+            2444929.223272274,
+            [
+                17,
+                21,
+                31
+            ],
+            [
+                1981,
+                11,
+                20,
+                17.358534570783377
+            ]
+        ],
+        "moonrise": [
+            2444928.5434981296,
+            [
+                1,
+                2,
+                38
+            ],
+            [
+                1981,
+                11,
+                20,
+                1.043955110013485
+            ]
+        ],
+        "moonset": [
+            2444929.0774381505,
+            [
+                13,
+                51,
+                31
+            ],
+            [
+                1981,
+                11,
+                20,
+                13.858515612781048
+            ]
+        ],
+        "tithi": [
+            24,
+            [
+                10,
+                2,
+                6
+            ]
+        ],
+        "nakshatra": [
+            "Ashlesha",
+            9,
+            [
+                11,
+                30,
+                8
+            ]
+        ],
+        "yoga": [
+            "Vaidhṛta",
+            26
+        ],
+        "karana": [
+            48,
+            -1.7903181182938965
+        ],
+        "vaara": "Shukrvara",
+        "lunar_phase": 286.4555245834091,
+        "masa": [
+            "Margsheersha",
+            9,
+            false
+        ],
+        "ahargana": 1856463,
+        "ritu": "Vasant Ritu (Spring)",
+        "samvatsara": 55,
+        "day_duration": [
+            10.498927026987076,
+            [
+                10,
+                29,
+                56
+            ]
+        ]
+    }
+}

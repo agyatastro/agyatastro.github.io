@@ -1,0 +1,227 @@
+{
+    "request": {
+        "name": "Gulshan Kumar",
+        "title": "Singer, Music Producer, Cinema Producer, Businessperson",
+        "year": 1955,
+        "month": 5,
+        "day": 5,
+        "hour": 4,
+        "minute": 59,
+        "second": 0,
+        "latitude": 28.65195,
+        "longitude": 77.23149,
+        "location": "Delhi",
+        "gender": "male",
+        "agyat_rating": "AA",
+        "dod": "12/08/1997",
+        "related": ["t-series", "singer", "music-producer", "cinema-producer" ,"businessperson"],
+        "advanced": "death by gunshot, murder",
+        "about": "<p>Born on 5 May, 1951 in a Punjabi Hindu family, Gulshan Kumar Dua was the son of a fruit juice vendor who worked the streets of the Daryaganj neighbourhood in the heart of Delhi. His family came as refugees from the Jhang region of West Punjab after the communal riots during the partition of India in 1947.[12] Dua started working with his father from an early age. Gulshan Kumar was a devoted worshipper of Shiva and especially Vaishno Devi. He sung many religious and traditional songs in favour of almost all major deities in Hinduism. Due to traditional faith, love and respect towards Vaishno Devi, he ran a free of cost meal assistance service in which free meals are offered as prasad to all the devotees visiting Vaishno Devi Temple. It was first started in 1983 at Baan Ganga location which is situated in between of the Vaishno Devi Temple's pilgrimage. Even after his demise in 1997, the service still continues till today and is widely revered all across India.[13][14] His son Bhushan Kumar now manages the service.</p><p>Dua changed career paths when his family acquired a shop selling records and inexpensive audio cassettes, which foreshadowed the onset of a vast music empire.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 6.776728752357627,
+            "ascendant": 1
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 90.20436690172758,
+                "cusp_degree": 0.20436690172758176,
+                "motion_speed": 0.1347835329825166,
+                "zodiac": 4,
+                "house": 4,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 20.479125291279278,
+                "cusp_degree": 20.479125291279278,
+                "motion_speed": 0.9685105342133724,
+                "zodiac": 1,
+                "house": 1,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 178.88832792074,
+                "cusp_degree": 28.88832792074001,
+                "motion_speed": 12.184694352256857,
+                "zodiac": 6,
+                "house": 6,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 349.18555428909036,
+                "cusp_degree": 19.185554289090362,
+                "motion_speed": 1.2025191606340127,
+                "zodiac": 12,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 52.87082730673109,
+                "cusp_degree": 22.870827306731087,
+                "motion_speed": 0.6645049933418599,
+                "zodiac": 2,
+                "house": 2,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 33.74544062368093,
+                "cusp_degree": 3.7454406236809277,
+                "motion_speed": 1.9600377125050243,
+                "zodiac": 2,
+                "house": 2,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 204.9613441501708,
+                "cusp_degree": 24.96134415017079,
+                "motion_speed": -0.0749082946170863,
+                "zodiac": 7,
+                "house": 7,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 243.93760152758304,
+                "cusp_degree": 3.937601527583041,
+                "motion_speed": -0.13457768118080166,
+                "zodiac": 9,
+                "house": 9,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 245.62109727187766,
+                "cusp_degree": 5.621097271877659,
+                "motion_speed": -0.05299204764243741,
+                "zodiac": 9,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 65.62109727187766,
+                "motion_speed": -0.05299204764243741,
+                "cusp_degree": 5.621097271877659,
+                "zodiac": 3,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 63.93760152758307,
+                "motion_speed": -0.13457768118080166,
+                "cusp_degree": 3.9376015275830696,
+                "zodiac": 3,
+                "house": 3,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1955-05-05",
+        "latitude": 28.65195,
+        "longitude": 77.23149,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2435232.5,
+        "solar_longitude": 20.49997506014824,
+        "lunar_longitude": 179.15060209527502,
+        "lunar_latitude": -4.654759491505963,
+        "sunrise": [
+            2435232.737388841,
+            [
+                5,
+                41,
+                50
+            ],
+            [
+                1955,
+                5,
+                5,
+                5.697332181036472
+            ]
+        ],
+        "sunset": [
+            2435233.287589702,
+            [
+                18,
+                54,
+                8
+            ],
+            [
+                1955,
+                5,
+                5,
+                18.902152843773365
+            ]
+        ],
+        "moonrise": [
+            2435233.236882598,
+            [
+                17,
+                41,
+                7
+            ],
+            [
+                1955,
+                5,
+                5,
+                17.685182355344296
+            ]
+        ],
+        "moonset": [
+            2435232.6910257274,
+            [
+                4,
+                35,
+                5
+            ],
+            [
+                1955,
+                5,
+                5,
+                4.584617458283901
+            ]
+        ],
+        "tithi": [
+            14,
+            [
+                25,
+                49,
+                2
+            ]
+        ],
+        "nakshatra": [
+            "Uttara Phalguni",
+            12,
+            [
+                13,
+                33,
+                36
+            ]
+        ],
+        "yoga": [
+            "Siddha",
+            15
+        ],
+        "karana": [
+            26,
+            -5.308328794294539
+        ],
+        "vaara": "Guruvara",
+        "lunar_phase": 158.65062703512677,
+        "masa": [
+            "Jyeshtha",
+            3,
+            false
+        ],
+        "ahargana": 1846767,
+        "ritu": "Vasant Ritu (Spring)",
+        "samvatsara": 29,
+        "day_duration": [
+            13.204820662736893,
+            [
+                13,
+                12,
+                17
+            ]
+        ]
+    }
+}

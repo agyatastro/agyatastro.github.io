@@ -1,0 +1,226 @@
+{
+    "request": {
+        "name": "Bhushan Kumar",
+        "title": "Cinema Producer, Music Producer (T-Series)",
+        "year": 1977,
+        "month": 11,
+        "day": 27,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 28.65195,
+        "longitude": 77.23149,
+        "location": "Delhi",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "related": ["t-series", "cinema-producer", "music-producer"],
+        "advanced": "legal-issue",
+        "about": "<p>Bhushan Kumar Dua (born 27 November 1977) is an Indian film producer and music producer. He is the chairman and managing director of Super Cassettes Industries Limited, also known as T-Series. He is known for his work in Bollywood.</p><p>On the Hurun India Rich List 2022, he and his family were ranked as the 175th richest Indian with a net worth of ₹10,000 crores (around US$1.2 billion).</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 296.54500987367567,
+            "ascendant": 10
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 70.74429567149014,
+                "cusp_degree": 10.744295671490136,
+                "motion_speed": -0.1037723876347674,
+                "zodiac": 3,
+                "house": 6,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 221.35429181508349,
+                "cusp_degree": 11.354291815083485,
+                "motion_speed": 1.011910605004326,
+                "zodiac": 8,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 58.13664099142703,
+                "cusp_degree": 28.13664099142703,
+                "motion_speed": 11.870865093322799,
+                "zodiac": 2,
+                "house": 5,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 207.9021992363093,
+                "cusp_degree": 27.902199236309286,
+                "motion_speed": 1.2556318244404632,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 106.5083689251471,
+                "cusp_degree": 16.508368925147096,
+                "motion_speed": 0.18561219165262366,
+                "zodiac": 4,
+                "house": 7,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 241.54160918515637,
+                "cusp_degree": 1.541609185156375,
+                "motion_speed": 1.2934102128613774,
+                "zodiac": 9,
+                "house": 12,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 126.81052076113139,
+                "cusp_degree": 6.810520761131386,
+                "motion_speed": 0.02635109577145587,
+                "zodiac": 5,
+                "house": 8,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 170.48601717668095,
+                "cusp_degree": 20.486017176680946,
+                "motion_speed": -0.174662274996071,
+                "zodiac": 6,
+                "house": 9,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 168.84516257985226,
+                "cusp_degree": 18.845162579852257,
+                "motion_speed": -0.05299207562316205,
+                "zodiac": 6,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 348.8451625798523,
+                "motion_speed": -0.05299207562316205,
+                "cusp_degree": 18.845162579852285,
+                "zodiac": 12,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 350.48601717668095,
+                "motion_speed": -0.174662274996071,
+                "cusp_degree": 20.486017176680946,
+                "zodiac": 12,
+                "house": 3,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1977-11-27",
+        "latitude": 28.65195,
+        "longitude": 77.23149,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2443474.5,
+        "solar_longitude": 221.08024667368466,
+        "lunar_longitude": 54.92059247697833,
+        "lunar_latitude": -4.598732987493041,
+        "sunrise": [
+            2443474.789726839,
+            [
+                6,
+                57,
+                12
+            ],
+            [
+                1977,
+                11,
+                27,
+                6.953444134443998
+            ]
+        ],
+        "sunset": [
+            2443475.2221521484,
+            [
+                17,
+                19,
+                54
+            ],
+            [
+                1977,
+                11,
+                27,
+                17.3316515609622
+            ]
+        ],
+        "moonrise": [
+            2443475.2772623743,
+            [
+                18,
+                39,
+                15
+            ],
+            [
+                1977,
+                11,
+                27,
+                18.65429698303342
+            ]
+        ],
+        "moonset": [
+            2443474.8379524387,
+            [
+                8,
+                6,
+                39
+            ],
+            [
+                1977,
+                11,
+                27,
+                8.110858529806137
+            ]
+        ],
+        "tithi": [
+            17,
+            [
+                29,
+                25,
+                4
+            ]
+        ],
+        "nakshatra": [
+            "Krittika",
+            3,
+            [
+                22,
+                56,
+                45
+            ]
+        ],
+        "yoga": [
+            "Siddha",
+            20
+        ],
+        "karana": [
+            32,
+            -4.987508030312426
+        ],
+        "vaara": "Ravivara",
+        "lunar_phase": 193.84034580329367,
+        "masa": [
+            "Margsheersha",
+            9,
+            false
+        ],
+        "ahargana": 1855009,
+        "ritu": "Vasant Ritu (Spring)",
+        "samvatsara": 51,
+        "day_duration": [
+            10.378207426518202,
+            [
+                10,
+                22,
+                42
+            ]
+        ]
+    }
+}

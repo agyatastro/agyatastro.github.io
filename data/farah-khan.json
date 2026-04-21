@@ -1,0 +1,225 @@
+{
+    "request": {
+        "name": "Farah Khan",
+        "title": "Dancer, Choreographer, Film Director, Producer",
+        "year": 1965,
+        "month": 1,
+        "day": 9,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 19.07283,
+        "longitude": 72.88261,
+        "location": "Mumbai",
+        "gender": "female",
+        "agyat_rating": "AX",
+        "related": ["dancer", "choreographer", "cinema-directer", "cinema-producer", "digital-influencer"],
+        "about": "<p>Farah Khan Kunder (née Khan; born 9 January 1965) is an Indian film director, choreographer, dancer, writer, producer, and actress who works primarily in Hindi cinema. As a film director, Khan made her debut with the commercially successful Main Hoon Na (2004), followed by Om Shanti Om (2007), both of which earned her nominations for the Filmfare Award for Best Director. She later directed Tees Maar Khan (2010) and the ensemble heist musical Happy New Year (2014). She has choreographed more than a hundred songs in over 80 films,[3] and has won the National Film Award for Best Choreography along with seven Filmfare Awards.</p><p>Khan has also worked in Tamil cinema and international projects, including Monsoon Wedding (2001), Bombay Dreams (2002), Vanity Fair (2004), Marigold: An Adventure in India (2007), the Chinese film Perhaps Love (2005), and Kung Fu Yoga (2017). Her work has earned her nominations at the Tony Awards and the Golden Horse Awards.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 348.0999951819171,
+            "ascendant": 12
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 22.741903340516618,
+                "cusp_degree": 22.741903340516618,
+                "motion_speed": -0.003946018506808299,
+                "zodiac": 1,
+                "house": 2,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 265.4364526377291,
+                "cusp_degree": 25.436452637729076,
+                "motion_speed": 1.0191341478234668,
+                "zodiac": 9,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 336.3065031742643,
+                "cusp_degree": 6.306503174264321,
+                "motion_speed": 12.696702323440176,
+                "zodiac": 12,
+                "house": 1,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 242.80880021963216,
+                "cusp_degree": 2.808800219632161,
+                "motion_speed": 1.2496489666421307,
+                "zodiac": 9,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 152.48753125803975,
+                "cusp_degree": 2.487531258039752,
+                "motion_speed": 0.21085552202139476,
+                "zodiac": 6,
+                "house": 7,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 242.2541945157108,
+                "cusp_degree": 2.254194515710793,
+                "motion_speed": 1.0542890680824426,
+                "zodiac": 9,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 308.71501205470383,
+                "cusp_degree": 8.715012054703834,
+                "motion_speed": 0.09949917686127872,
+                "zodiac": 11,
+                "house": 12,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 59.30962348021102,
+                "cusp_degree": 29.309623480211023,
+                "motion_speed": -0.034533213994932366,
+                "zodiac": 2,
+                "house": 3,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 58.17271978160552,
+                "cusp_degree": 28.172719781605522,
+                "motion_speed": -0.05299207142160259,
+                "zodiac": 2,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 238.1727197816055,
+                "motion_speed": -0.05299207142160259,
+                "cusp_degree": 28.172719781605508,
+                "zodiac": 8,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 239.30962348021103,
+                "motion_speed": -0.034533213994932366,
+                "cusp_degree": 29.30962348021103,
+                "zodiac": 8,
+                "house": 9,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1965-01-09",
+        "latitude": 19.07283,
+        "longitude": 72.88261,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2438769.5,
+        "solar_longitude": 265.16043179798623,
+        "lunar_longitude": 332.87816779653326,
+        "lunar_latitude": -5.228047534782396,
+        "sunrise": [
+            2438769.8040593276,
+            [
+                7,
+                17,
+                51
+            ],
+            [
+                1965,
+                1,
+                9,
+                7.297423861920834
+            ]
+        ],
+        "sunset": [
+            2438770.2593075735,
+            [
+                18,
+                13,
+                24
+            ],
+            [
+                1965,
+                1,
+                9,
+                18.223381765186787
+            ]
+        ],
+        "moonrise": [
+            2438769.9737123637,
+            [
+                11,
+                22,
+                9
+            ],
+            [
+                1965,
+                1,
+                9,
+                11.369096729904413
+            ]
+        ],
+        "moonset": [
+            2438770.491148612,
+            [
+                23,
+                47,
+                15
+            ],
+            [
+                1965,
+                1,
+                9,
+                23.78756668791175
+            ]
+        ],
+        "tithi": [
+            6,
+            [
+                16,
+                6,
+                3
+            ]
+        ],
+        "nakshatra": [
+            "Shatabhisha",
+            24,
+            [
+                25,
+                15,
+                48
+            ]
+        ],
+        "yoga": [
+            "Parigha",
+            18
+        ],
+        "karana": [
+            11,
+            -5.25820746381919
+        ],
+        "vaara": "Shanivara",
+        "lunar_phase": 67.71773599854703,
+        "masa": [
+            "Magha",
+            11,
+            false
+        ],
+        "ahargana": 1850304,
+        "ritu": "Vasant Ritu (Spring)",
+        "samvatsara": 38,
+        "day_duration": [
+            10.925957903265953,
+            [
+                10,
+                55,
+                33
+            ]
+        ]
+    }
+}

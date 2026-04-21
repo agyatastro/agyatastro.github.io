@@ -1,0 +1,226 @@
+{
+    "request": {
+        "name": "Remo Dsouza",
+        "title": "Dancer, Choreographer",
+        "year": 1974,
+        "month": 4,
+        "day": 2,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 12.97194,
+        "longitude": 77.59369,
+        "location": "Bengaluru",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "advanced": "religion",
+        "related": ["dancer", "choreographer"],
+        "about": "Remo Gopi D'Souza (born Ramesh Gopi Nair; 2 April 1974) is an Indian choreographer, film director, and producer. Over the course of his career spanning more than 25 years, D'Souza has choreographed more than 100 films. He is considered the most successful and renowned choreographer in the Hindi film industry and has served as a role model for many Indian choreographers. Additionally, he has been a judge on the dance reality show Dance Plus for seven consecutive seasons."
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 76.56078546390711,
+            "ascendant": 3
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 312.11017444127606,
+                "cusp_degree": 12.110174441276058,
+                "motion_speed": 0.21563046924571466,
+                "zodiac": 11,
+                "house": 9,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 348.64202630119007,
+                "cusp_degree": 18.64202630119007,
+                "motion_speed": 0.9860949841177902,
+                "zodiac": 12,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 107.70927264795081,
+                "cusp_degree": 17.70927264795081,
+                "motion_speed": 14.317917465402232,
+                "zodiac": 4,
+                "house": 2,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 302.2417798967349,
+                "cusp_degree": 2.241779896734897,
+                "motion_speed": 0.9699217199827497,
+                "zodiac": 11,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 55.82418594104791,
+                "cusp_degree": 25.824185941047908,
+                "motion_speed": 0.5856336399978475,
+                "zodiac": 2,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 322.6989882687433,
+                "cusp_degree": 22.69898826874328,
+                "motion_speed": 1.3407451738948695,
+                "zodiac": 11,
+                "house": 9,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 65.30101578997801,
+                "cusp_degree": 5.30101578997801,
+                "motion_speed": 0.05937959137515185,
+                "zodiac": 3,
+                "house": 1,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 238.70513826902268,
+                "cusp_degree": 28.705138269022683,
+                "motion_speed": -0.07019043905552358,
+                "zodiac": 8,
+                "house": 6,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 239.58953270736674,
+                "cusp_degree": 29.589532707366743,
+                "motion_speed": -0.05299202934460909,
+                "zodiac": 8,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 59.58953270736674,
+                "motion_speed": -0.05299202934460909,
+                "cusp_degree": 29.589532707366743,
+                "zodiac": 2,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 58.705138269022655,
+                "motion_speed": -0.07019043905552358,
+                "cusp_degree": 28.705138269022655,
+                "zodiac": 2,
+                "house": 12,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1974-04-02",
+        "latitude": 12.97194,
+        "longitude": 77.59369,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2442139.5,
+        "solar_longitude": 348.3749350195581,
+        "lunar_longitude": 103.834361505158,
+        "lunar_latitude": -3.5860146427235646,
+        "sunrise": [
+            2442139.7632737802,
+            [
+                6,
+                19,
+                7
+            ],
+            [
+                1974,
+                4,
+                2,
+                6.318570725619793
+            ]
+        ],
+        "sunset": [
+            2442140.2693353905,
+            [
+                18,
+                27,
+                51
+            ],
+            [
+                1974,
+                4,
+                2,
+                18.464049372822046
+            ]
+        ],
+        "moonrise": [
+            2442140.0989597132,
+            [
+                14,
+                22,
+                30
+            ],
+            [
+                1974,
+                4,
+                2,
+                14.375033117830753
+            ]
+        ],
+        "moonset": [
+            2442139.604162647,
+            [
+                2,
+                29,
+                60
+            ],
+            [
+                1974,
+                4,
+                2,
+                2.4999035261571407
+            ]
+        ],
+        "tithi": [
+            10,
+            [
+                14,
+                29,
+                45
+            ]
+        ],
+        "nakshatra": [
+            "Punarvasu",
+            7,
+            [
+                27,
+                16,
+                8
+            ]
+        ],
+        "yoga": [
+            "Dhriti",
+            7
+        ],
+        "karana": [
+            19,
+            -4.966465621400488
+        ],
+        "vaara": "Mangalvara",
+        "lunar_phase": 115.45942648559989,
+        "masa": [
+            "Vaisakha",
+            2,
+            false
+        ],
+        "ahargana": 1853674,
+        "ritu": "Vasant Ritu (Spring)",
+        "samvatsara": 47,
+        "day_duration": [
+            12.145478647202253,
+            [
+                12,
+                8,
+                44
+            ]
+        ]
+    }
+}

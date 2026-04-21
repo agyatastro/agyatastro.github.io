@@ -1,0 +1,233 @@
+{
+    "request": {
+        "name": "Michael Jackson",
+        "title": "Singer, Dancer, King of Pop",
+        "year": 1958,
+        "month": 8,
+        "day": 29,
+        "hour": 19,
+        "minute": 33,
+        "second": 0,
+        "latitude": 41.59337,
+        "longitude": -87.34643,
+        "location": "Gary",
+        "gender": "male",
+        "agyat_rating": "AA",
+        "dod": "25/06/2009",
+        "advanced": "substance-abuse, legal-issue, child-abuse, banckrupt",
+        "related": ["singer", "dancer"],
+        "about": "<p>Michael Joseph Jackson (August 29, 1958 – June 25, 2009) was an American singer, songwriter, dancer, and philanthropist. Dubbed the \"King of Pop\", he is widely regarded as one of the most culturally significant figures of the 20th century. Over a four-decade career, his musical achievements broke American racial barriers and made him a dominant figure worldwide. Through his songs, concerts, and fashion, he proliferated visual performance for artists in popular music, popularizing street dance moves such as the moonwalk, the robot, and the anti-gravity lean. Jackson is often deemed the greatest entertainer of all time.[nb 1]</p><p>The eighth child of the Jackson family, Jackson made his public debut at age six as the lead singer of the Jackson 5, one of Motown's most successful acts. He rose to solo stardom with the album Off the Wall (1979) and achieved unprecedented global success with Thriller (1982), the best-selling album in history. Its short film-style music videos for \"Thriller\", \"Beat It\", and \"Billie Jean\" redefined the medium as an art form. Jackson followed it with Bad (1987), the first album to produce five US Billboard Hot 100 number-one singles: \"I Just Can't Stop Loving You\", \"Bad\", \"The Way You Make Me Feel\", \"Man in the Mirror\", and \"Dirty \". His albums Dangerous (1991) and HIStory (1995) spawned the respective US number-one singles \"Black or White\" and \"You Are Not Alone\"; the latter was the first song to debut atop the Hot 100. Jackson's final album, Invincible (2001), is the most expensive album ever made.</p><p>From the mid-1980s, Jackson came under public scrutiny due to changes in his appearance, relationships, behavior, and lifestyle. He was accused of sexually abusing the child of a family friend in 1993. In 2005, Jackson was tried and acquitted of further such allegations and other charges. In 2009, while preparing for This Is It, a series of comeback concerts, he died from an overdose of propofol administered by his personal physician Conrad Murray, who was convicted of involuntary manslaughter in 2011. Jackson's death triggered global reactions, creating unprecedented surges of internet traffic and a spike in his music sales. His televised memorial service, held at the Staples Center in Los Angeles, is estimated to have been viewed by more than 2.5 billion people.</p><p>Jackson is one of the best-selling music artists of all time, with estimated sales of over 500 million records as a solo artist.[nb 2] He is also—along with Paul McCartney and Phil Collins—one of three recording artists to have sold over 100 million records both as solo artists and separately as principal members of a band. He holds a joint-record for a male solo artist with 13 Billboard Hot 100 number-one singles and is the only artist to have a top-ten single in six decades. One of the most-awarded music artists in history, Jackson received 13 Grammy Awards, the Grammy Legend Award, and the Grammy Lifetime Achievement Award; 26 American Music Awards; 12 World Music Awards; 8 MTV Video Music Awards; 6 Brit Awards; and 3 presidential honors. He was inducted into numerous halls of fame, including the Rock and Roll Hall of Fame twice, the Songwriters Hall of Fame, and the Dance Hall of Fame. Having donated an estimated $500 million, Jackson is credited with setting a standard for celebrity charity. In 2024, half of his music catalogue was sold to Sony for $600 million, the largest music acquisition for a single artist.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 316.8362803437323,
+            "ascendant": 11
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 185.25609248804884,
+                "cusp_degree": 5.256092488048836,
+                "motion_speed": 0.16917719131207606,
+                "zodiac": 7,
+                "house": 9,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 132.86193627936998,
+                "cusp_degree": 12.861936279369985,
+                "motion_speed": 0.9663294602446063,
+                "zodiac": 5,
+                "house": 7,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 321.62949586072335,
+                "cusp_degree": 21.629495860723353,
+                "motion_speed": 12.165629810849756,
+                "zodiac": 11,
+                "house": 1,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 113.78914912592384,
+                "cusp_degree": 23.789149125923842,
+                "motion_speed": 1.2274971804793926,
+                "zodiac": 4,
+                "house": 6,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 28.755068660602927,
+                "cusp_degree": 28.755068660602927,
+                "motion_speed": 0.4498585178808863,
+                "zodiac": 1,
+                "house": 3,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 122.13237502691965,
+                "cusp_degree": 2.1323750269196466,
+                "motion_speed": -0.4334512615944493,
+                "zodiac": 5,
+                "house": 7,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 235.84295487172272,
+                "cusp_degree": 25.842954871722725,
+                "motion_speed": 0.009646557054965909,
+                "zodiac": 8,
+                "house": 10,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 179.80251709894847,
+                "cusp_degree": 29.80251709894847,
+                "motion_speed": -0.10333236644463364,
+                "zodiac": 6,
+                "house": 8,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 181.33938066009287,
+                "cusp_degree": 1.3393806600928713,
+                "motion_speed": -0.05299204449598372,
+                "zodiac": 7,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 1.3393806600928428,
+                "motion_speed": -0.05299204449598372,
+                "cusp_degree": 1.3393806600928428,
+                "zodiac": 1,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 359.80251709894844,
+                "motion_speed": -0.10333236644463364,
+                "cusp_degree": 29.802517098948442,
+                "zodiac": 12,
+                "house": 2,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1958-08-29",
+        "latitude": 41.59337,
+        "longitude": -87.34643,
+        "time_zone": "America/Chicago",
+        "offset": -5,
+        "julday": 2436444.5,
+        "solar_longitude": 131.87369723439687,
+        "lunar_longitude": 309.08772176520677,
+        "lunar_latitude": 3.981067125755731,
+        "sunrise": [
+            2436444.761387871,
+            [
+                6,
+                16,
+                24
+            ],
+            [
+                1958,
+                8,
+                29,
+                6.273308906704187
+            ]
+        ],
+        "sunset": [
+            2436445.308007014,
+            [
+                19,
+                23,
+                32
+            ],
+            [
+                1958,
+                8,
+                29,
+                19.39216833561659
+            ]
+        ],
+        "moonrise": [
+            2436445.3224948184,
+            [
+                19,
+                44,
+                24
+            ],
+            [
+                1958,
+                8,
+                29,
+                19.73987564072013
+            ]
+        ],
+        "moonset": [
+            2436444.770809163,
+            [
+                6,
+                29,
+                58
+            ],
+            [
+                1958,
+                8,
+                29,
+                6.499419908970594
+            ]
+        ],
+        "tithi": [
+            15,
+            [
+                12,
+                12,
+                6
+            ],
+            16,
+            [
+                38,
+                0,
+                33
+            ]
+        ],
+        "nakshatra": [
+            "Shravana",
+            22,
+            [
+                9,
+                41,
+                2
+            ]
+        ],
+        "yoga": [
+            "Sukarma",
+            6
+        ],
+        "karana": [
+            30,
+            -0.18537365323007293
+        ],
+        "vaara": "Shukrvara",
+        "lunar_phase": 177.2140245308099,
+        "masa": [
+            "Bhadrapada",
+            6,
+            false
+        ],
+        "ahargana": 1847979,
+        "ritu": "Vasant Ritu (Spring)",
+        "samvatsara": 32,
+        "day_duration": [
+            13.118859428912401,
+            [
+                13,
+                7,
+                8
+            ]
+        ]
+    }
+}

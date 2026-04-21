@@ -1,0 +1,225 @@
+{
+    "request": {
+        "name": "Ranveer Singh",
+        "title": "Actor, Model",
+        "year": 1985,
+        "month": 7,
+        "day": 6,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 19.07283,
+        "longitude": 72.88261,
+        "location": "Mumbai",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "related": ["padukone-family", "actor", "model"],
+        "about": "<p>Ranveer Singh Jugjeet Singh Bhavnani (pronounced [rəɳˈʋiːr sɪŋ]; born 6 July 1985) is an Indian actor who predominantly works in Hindi films. Known for his work in variety of genre, he has received several accolades, including five Filmfare Awards. Singh is among India's highest-paid actors and has been featured in Forbes India's Celebrity 100 list since 2012.</p><p>After graduating from Indiana University Bloomington, he made his acting debut with a leading role in Yash Raj Films' romantic comedy Band Baaja Baaraat (2010), winning the Filmfare Award for Best Male Debut. He gained praise for playing a melancholic thief in the drama Lootera (2013) and established himself as a leading actor through his multiple period dramas with Sanjay Leela Bhansali that included Goliyon Ki Raasleela Ram-Leela (2013), Bajirao Mastani (2015), and Padmaavat (2018). Singh received widespread critical acclaim for his portrayals of Peshwa Bajirao I and Sultan Alauddin Khalji in the last two, winning the Filmfare Award for Best Actor and the Filmfare Critics Award for Best Actor respectively.</p><p>He achieved further commercial success with the titular role in the action film Simmba (2018), a role he later reprised in Rohit Shetty's Cop Universe. Singh received two more Filmfare Best Actor Awards for his performances in the musical drama Gully Boy (2019), and the sports film 83 (2021). Following a brief period of career fluctuations, he earned renewed commercial success with the romantic comedy Rocky Aur Rani Kii Prem Kahaani (2023), and two-part spy thriller epic Dhurandhar (2025) and Dhurandhar: The Revenge (2026), both of which rank among Indian cinema's top five highest earners.</p><p>In addition to films, he is a prominent endorser for several brands and products. He also ventured into singing, with songs and rap in Gully Boy. He is married to his frequent co-star Deepika Padukone, with whom he has a daughter. Off-screen, he is known for his flamboyant fashion sense.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 160.6779938380356,
+            "ascendant": 6
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 291.7999220362761,
+                "cusp_degree": 21.799922036276087,
+                "motion_speed": -0.09225212175796664,
+                "zodiac": 10,
+                "house": 5,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 80.48281474051618,
+                "cusp_degree": 20.482814740516176,
+                "motion_speed": 0.9530877013652983,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 307.87530803141783,
+                "cusp_degree": 7.8753080314178305,
+                "motion_speed": 12.845894573759795,
+                "zodiac": 11,
+                "house": 6,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 36.28118542695352,
+                "cusp_degree": 6.28118542695352,
+                "motion_speed": 1.0706320148718234,
+                "zodiac": 2,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 84.0625434265627,
+                "cusp_degree": 24.062543426562698,
+                "motion_speed": 0.6537514622512471,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 105.61388307847615,
+                "cusp_degree": 15.61388307847615,
+                "motion_speed": 1.305942066552609,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 208.12209132153646,
+                "cusp_degree": 28.12209132153646,
+                "motion_speed": -0.030852134562527164,
+                "zodiac": 7,
+                "house": 2,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 22.751032240849646,
+                "cusp_degree": 22.751032240849646,
+                "motion_speed": -0.11906380646438576,
+                "zodiac": 1,
+                "house": 8,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 21.633299227838247,
+                "cusp_degree": 21.633299227838247,
+                "motion_speed": -0.052992035093950965,
+                "zodiac": 1,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 201.63329922783825,
+                "motion_speed": -0.052992035093950965,
+                "cusp_degree": 21.63329922783825,
+                "zodiac": 7,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 202.75103224084964,
+                "motion_speed": -0.11906380646438576,
+                "cusp_degree": 22.75103224084964,
+                "zodiac": 7,
+                "house": 2,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1985-07-06",
+        "latitude": 19.07283,
+        "longitude": 72.88261,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2446252.5,
+        "solar_longitude": 80.22468952154932,
+        "lunar_longitude": 304.38261938360023,
+        "lunar_latitude": -4.989956828254896,
+        "sunrise": [
+            2446252.7567945183,
+            [
+                6,
+                9,
+                47
+            ],
+            [
+                1985,
+                7,
+                6,
+                6.163068439811468
+            ]
+        ],
+        "sunset": [
+            2446253.3030333286,
+            [
+                19,
+                16,
+                22
+            ],
+            [
+                1985,
+                7,
+                6,
+                19.272799886763096
+            ]
+        ],
+        "moonrise": [
+            2446253.435861512,
+            [
+                22,
+                27,
+                38
+            ],
+            [
+                1985,
+                7,
+                6,
+                22.460676290094852
+            ]
+        ],
+        "moonset": [
+            2446252.8995595174,
+            [
+                9,
+                35,
+                22
+            ],
+            [
+                1985,
+                7,
+                6,
+                9.589428417384624
+            ]
+        ],
+        "tithi": [
+            19,
+            [
+                13,
+                53,
+                48
+            ]
+        ],
+        "nakshatra": [
+            "Shravana",
+            22,
+            [
+                29,
+                11,
+                53
+            ]
+        ],
+        "yoga": [
+            "Ayushman",
+            2
+        ],
+        "karana": [
+            37,
+            -5.225496723429302
+        ],
+        "vaara": "Shanivara",
+        "lunar_phase": 224.1579298620509,
+        "masa": [
+            "Ashadha",
+            4,
+            false
+        ],
+        "ahargana": 1857787,
+        "ritu": "Vasant Ritu (Spring)",
+        "samvatsara": 59,
+        "day_duration": [
+            13.109731446951628,
+            [
+                13,
+                6,
+                35
+            ]
+        ]
+    }
+}

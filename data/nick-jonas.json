@@ -1,0 +1,231 @@
+{
+    "request": {
+        "name": "Nick Jonas",
+        "title": "Singer, Songwriter, Musician",
+        "year": 1992,
+        "month": 9,
+        "day": 16,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 32.78306,
+        "longitude": -96.80667,
+        "location": "Dallas",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "related": ["jonas-family", "singer", "songwriter", "musician"],
+        "about": "<p>Nicholas Jerry Jonas (born September 16, 1992) is an American singer, songwriter and actor. Jonas began acting on Broadway at the age of seven, and released his debut single in 2002; this caught the attention of Columbia Records, where Jonas formed a band with his older brothers, Kevin and Joe, known as the Jonas Brothers. The group released their debut studio album, It's About Time, through the Columbia label in 2006. After leaving Columbia Records and signing with Hollywood Records, the group released their self-titled second studio album in 2007, which became their breakthrough record. The band became prominent figures on the Disney Channel during this time, gaining a large following through the network, and appeared in the widely successful musical television film Camp Rock (2008) and its sequel Camp Rock 2: The Final Jam (2010), as well as two of their own series, Jonas Brothers: Living the Dream (2008–2010) and Jonas (2009–2010).</p><p>The band's third studio album, A Little Bit Longer (2008), saw continued commercial success for the group; the album's lead single \"Burnin' Up\" hit the top five on the Billboard Hot 100 chart. Following the release of their fourth studio album, Lines, Vines and Trying Times (2009), the Jonas Brothers confirmed a hiatus. Jonas formed a new band known as Nick Jonas & the Administration, who released the album Who I Am in 2010. Afterward, Jonas shifted his focus to acting and had a recurring role on the television series Smash and some Broadway shows roles.</p><p>After the group's official disbandment in 2013, Jonas began work on his second solo studio album, signing with Island Records and releasing Nick Jonas through the label in 2014, which saw the commercial success of the single \"Jealous\". Jonas later co-founded Safehouse Records, a record label in conjunction with the Island and Hollywood labels. His third studio album Last Year Was Complicated (2016) peaked at number two on the Billboard 200 chart in the United States. Following the release, Jonas won the Songwriters Hall of Fame's Hal David Starlight Award in 2016. In 2017, Jonas appeared in the adventure comedy film Jumanji: Welcome to the Jungle, which became the fifth highest-grossing film of the year. The Jonas Brothers reformed in early 2019, and released the album Happiness Begins in June of that year. Jonas' fourth solo studio album, Spaceman, was released on March 12, 2021.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 210.08662710859423,
+            "ascendant": 8
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 151.11447890693861,
+                "cusp_degree": 1.114478906938615,
+                "motion_speed": 0.21637131162551942,
+                "zodiac": 6,
+                "house": 11,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 150.30774968841595,
+                "cusp_degree": 0.30774968841595296,
+                "motion_speed": 0.9752929410858073,
+                "zodiac": 6,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 22.570150351669373,
+                "cusp_degree": 22.570150351669373,
+                "motion_speed": 12.67310715990763,
+                "zodiac": 1,
+                "house": 6,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 175.91024418995423,
+                "cusp_degree": 25.910244189954227,
+                "motion_speed": 1.224934933768328,
+                "zodiac": 6,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 68.75204945243603,
+                "cusp_degree": 8.752049452436026,
+                "motion_speed": 0.5564273867285852,
+                "zodiac": 3,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 151.6581703085547,
+                "cusp_degree": 1.658170308554702,
+                "motion_speed": 1.8332765763498147,
+                "zodiac": 6,
+                "house": 11,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 288.76051202629776,
+                "cusp_degree": 18.76051202629776,
+                "motion_speed": -0.045934733914796994,
+                "zodiac": 10,
+                "house": 3,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 242.24473034118162,
+                "cusp_degree": 2.244730341181622,
+                "motion_speed": -0.08832194421625209,
+                "zodiac": 9,
+                "house": 2,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 242.29408529019085,
+                "cusp_degree": 2.29408529019085,
+                "motion_speed": -0.052992024029398455,
+                "zodiac": 9,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 62.29408529019088,
+                "motion_speed": -0.052992024029398455,
+                "cusp_degree": 2.2940852901908784,
+                "zodiac": 3,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 62.244730341181594,
+                "motion_speed": -0.08832194421625209,
+                "cusp_degree": 2.2447303411815938,
+                "zodiac": 3,
+                "house": 8,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1992-09-16",
+        "latitude": 32.78306,
+        "longitude": -96.80667,
+        "time_zone": "America/Chicago",
+        "offset": -5,
+        "julday": 2448881.5,
+        "solar_longitude": 149.6170646338051,
+        "lunar_longitude": 13.64355715516331,
+        "lunar_latitude": 3.7702095481743134,
+        "sunrise": [
+            2448881.8025516737,
+            [
+                7,
+                15,
+                40
+            ],
+            [
+                1992,
+                9,
+                16,
+                7.261240169405937
+            ]
+        ],
+        "sunset": [
+            2448882.3107844354,
+            [
+                19,
+                27,
+                32
+            ],
+            [
+                1992,
+                9,
+                16,
+                19.458826448768377
+            ]
+        ],
+        "moonrise": [
+            2448882.423799458,
+            [
+                22,
+                10,
+                16
+            ],
+            [
+                1992,
+                9,
+                16,
+                22.17118699103594
+            ]
+        ],
+        "moonset": [
+            2448881.9737503263,
+            [
+                11,
+                22,
+                12
+            ],
+            [
+                1992,
+                9,
+                16,
+                11.370007831603289
+            ]
+        ],
+        "tithi": [
+            19,
+            [
+                15,
+                25,
+                3
+            ],
+            20,
+            [
+                39,
+                43,
+                58
+            ]
+        ],
+        "nakshatra": [
+            "Revati",
+            27,
+            [
+                14,
+                14,
+                33
+            ]
+        ],
+        "yoga": [
+            "Vyaghata",
+            12
+        ],
+        "karana": [
+            37,
+            -5.532379145883397
+        ],
+        "vaara": "Budhvara",
+        "lunar_phase": 224.02649252135822,
+        "masa": [
+            "Ashwin",
+            7,
+            false
+        ],
+        "ahargana": 1860416,
+        "ritu": "Vasant Ritu (Spring)",
+        "samvatsara": 6,
+        "day_duration": [
+            12.19758627936244,
+            [
+                12,
+                11,
+                51
+            ]
+        ]
+    }
+}

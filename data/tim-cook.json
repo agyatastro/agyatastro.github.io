@@ -1,0 +1,232 @@
+{
+    "request": {
+        "name": "Tim Cook",
+        "title": "CEO of Apple",
+        "year": 1960,
+        "month": 11,
+        "day": 1,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 30.5538,
+        "longitude": -87.71193,
+        "location": "Robertsdale",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "related": ["apple"],
+        "advanced": "prolonged career",
+        "about": "<p>Timothy Donald Cook (born November 1, 1960) is an American business executive who has been the chief executive officer (CEO) of Apple since 2011. He had previously been the company's chief operating officer under its co-founder Steve Jobs. Cook joined Apple in March 1998 as a senior vice president for worldwide operations, and then as vice president for worldwide sales and operations. He was appointed chief executive of Apple on August 24, 2011, after Jobs resigned.</p><p>During his tenure as the chief executive of Apple and while serving on its board of directors, he has advocated for the political reform of international and domestic surveillance, cybersecurity, national manufacturing, and environmental preservation. Since becoming CEO, Cook has also replaced Jobs' micromanagement with a more liberal style and implemented a collaborative culture at Apple.</p><p>Between 2011, when he took over Apple, and 2020, Cook doubled the company's revenue and profit, and the company's market value increased from $348 billion to $1.9 trillion. In 2025, Apple was the second largest technology company by revenue, with US$416 billion.</p><p>Outside of Apple, Cook has sat on the board of directors of Nike since 2005. He also sits on the board of the National Football Foundation and is a trustee of Duke University, his alma mater. Cook engages in philanthropy; in March 2015 he said he planned to donate his fortune to charity. In 2014, Cook became the first and only chief executive of a Fortune 500 company to publicly come out as gay. In October 2014, the Alabama Academy of Honor inducted Cook, who spoke on the state's record of LGBTQ rights. It is the highest honor Alabama gives its citizens. In 2012 and 2021, Cook appeared on the Time 100, Time's annual list of the 100 most influential people in the world. As of December 2025, his net worth is estimated at $2.6 billion, according to Forbes.</p><p>In April 2026, Apple announced that Cook would be stepping down as CEO of Apple on September 1, 2026. John Ternus was named as successor</p><p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 275.1535528593243,
+            "ascendant": 10
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 247.86165524659222,
+                "cusp_degree": 7.861655246592221,
+                "motion_speed": 0.18192265346770067,
+                "zodiac": 9,
+                "house": 12,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 196.01143300899363,
+                "cusp_degree": 16.011433008993635,
+                "motion_speed": 1.0007563284061933,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 354.9514950670043,
+                "cusp_degree": 24.951495067004316,
+                "motion_speed": 13.225724336242125,
+                "zodiac": 12,
+                "house": 3,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 230.15014620193938,
+                "cusp_degree": 20.15014620193938,
+                "motion_speed": 1.2174128390600465,
+                "zodiac": 8,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 83.04371562637357,
+                "cusp_degree": 23.04371562637357,
+                "motion_speed": 0.23030029093708548,
+                "zodiac": 3,
+                "house": 6,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 208.73222780923263,
+                "cusp_degree": 28.732227809232626,
+                "motion_speed": -0.7859470293215659,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 260.2534048475661,
+                "cusp_degree": 20.253404847566117,
+                "motion_speed": 0.07143871527733574,
+                "zodiac": 9,
+                "house": 12,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 140.9276809896943,
+                "cusp_degree": 20.927680989694295,
+                "motion_speed": -0.0961659138465099,
+                "zodiac": 5,
+                "house": 8,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 139.22516215925515,
+                "cusp_degree": 19.22516215925515,
+                "motion_speed": -0.05299204240033278,
+                "zodiac": 5,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 319.22516215925515,
+                "motion_speed": -0.05299204240033278,
+                "cusp_degree": 19.22516215925515,
+                "zodiac": 11,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 320.9276809896943,
+                "motion_speed": -0.0961659138465099,
+                "cusp_degree": 20.927680989694295,
+                "zodiac": 11,
+                "house": 2,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1960-11-01",
+        "latitude": 30.5538,
+        "longitude": -87.71193,
+        "time_zone": "America/Chicago",
+        "offset": -5,
+        "julday": 2437239.5,
+        "solar_longitude": 195.26100229731355,
+        "lunar_longitude": 344.9798670728676,
+        "lunar_latitude": -2.0799220282281183,
+        "sunrise": [
+            2437239.798367657,
+            [
+                7,
+                9,
+                39
+            ],
+            [
+                1960,
+                11,
+                1,
+                7.16082376241684
+            ]
+        ],
+        "sunset": [
+            2437240.249240728,
+            [
+                17,
+                58,
+                54
+            ],
+            [
+                1960,
+                11,
+                1,
+                17.981777474284172
+            ]
+        ],
+        "moonrise": [
+            2437240.210227515,
+            [
+                17,
+                2,
+                44
+            ],
+            [
+                1960,
+                11,
+                1,
+                17.045460361987352
+            ]
+        ],
+        "moonset": [
+            2437239.7169759967,
+            [
+                5,
+                12,
+                27
+            ],
+            [
+                1960,
+                11,
+                1,
+                5.20742392167449
+            ]
+        ],
+        "tithi": [
+            13,
+            [
+                19,
+                29,
+                41
+            ],
+            14,
+            [
+                43,
+                21,
+                5
+            ]
+        ],
+        "nakshatra": [
+            "Purva Bhadrapada",
+            25,
+            [
+                16,
+                4,
+                23
+            ]
+        ],
+        "yoga": [
+            "Harshana",
+            13
+        ],
+        "karana": [
+            25,
+            -3.3996758272806176
+        ],
+        "vaara": "Mangalvara",
+        "lunar_phase": 149.71886477555404,
+        "masa": [
+            "Kartika",
+            8,
+            false
+        ],
+        "ahargana": 1848774,
+        "ritu": "Vasant Ritu (Spring)",
+        "samvatsara": 34,
+        "day_duration": [
+            10.820953711867332,
+            [
+                10,
+                49,
+                15
+            ]
+        ]
+    }
+}

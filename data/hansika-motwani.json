@@ -1,0 +1,226 @@
+{
+    "request": {
+        "name": "Hansika Motwani",
+        "title": "Actor",
+        "year": 1991,
+        "month": 8,
+        "day": 9,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 12.91723,
+        "longitude": 74.85603,
+        "location": "Mangalore",
+        "gender": "female",
+        "agyat_rating": "AX",
+        "advanced": "marriage, divorcee",
+        "related": ["actor"],
+        "about": "Hansika Motwani (born 9 August 1991) is an Indian actress who predominantly appears in Tamil and Telugu films. Motwani began her career as a child actor in Hindi films, and later went on to appear in lead roles in Telugu films, including Desamuduru (2007), Kantri (2008) and Maska (2009). She started her career in Tamil cinema with Mappillai (2011) and then appeared in several commercially successful Tamil films such as Engeyum Kadhal (2011), Velayudham (2011), Oru Kal Oru Kannadi (2012), Theeya Velai Seiyyanum Kumaru (2013), Singam II (2013) and Aranmanai (2014). She has also acted in the Malayalam film Villain (2017)"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 194.8808455839886,
+            "ascendant": 7
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 118.87410016795907,
+                "cusp_degree": 28.87410016795907,
+                "motion_speed": 0.21824719553883432,
+                "zodiac": 4,
+                "house": 10,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 112.44980470427255,
+                "cusp_degree": 22.44980470427255,
+                "motion_speed": 0.9591143487527622,
+                "zodiac": 4,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 100.84445596960043,
+                "cusp_degree": 10.844455969600432,
+                "motion_speed": 14.959239661980126,
+                "zodiac": 4,
+                "house": 10,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 132.38138612355993,
+                "cusp_degree": 12.381386123559935,
+                "motion_speed": -0.30554906872542376,
+                "zodiac": 5,
+                "house": 11,
+                "motion": "R"
+            },
+            "Mars": {
+                "degree": 141.63021915177305,
+                "cusp_degree": 21.630219151773048,
+                "motion_speed": 0.6286887341376252,
+                "zodiac": 5,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 132.09230606701058,
+                "cusp_degree": 12.092306067010583,
+                "motion_speed": -0.11307291505344035,
+                "zodiac": 5,
+                "house": 11,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 278.7915339180406,
+                "cusp_degree": 8.791533918040614,
+                "motion_speed": -0.07119015112326876,
+                "zodiac": 10,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 265.0617931522598,
+                "cusp_degree": 25.06179315225978,
+                "motion_speed": -0.023006707866396567,
+                "zodiac": 9,
+                "house": 3,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 263.72604589076957,
+                "cusp_degree": 23.72604589076957,
+                "motion_speed": -0.05299203749113212,
+                "zodiac": 9,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 83.72604589076957,
+                "motion_speed": -0.05299203749113212,
+                "cusp_degree": 23.72604589076957,
+                "zodiac": 3,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 85.06179315225978,
+                "motion_speed": -0.023006707866396567,
+                "cusp_degree": 25.06179315225978,
+                "zodiac": 3,
+                "house": 9,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1991-08-09",
+        "latitude": 12.91723,
+        "longitude": 74.85603,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2448477.5,
+        "solar_longitude": 112.1900562847833,
+        "lunar_longitude": 96.79174046857905,
+        "lunar_latitude": -1.0659662635522733,
+        "sunrise": [
+            2448477.7646149355,
+            [
+                6,
+                21,
+                3
+            ],
+            [
+                1991,
+                8,
+                9,
+                6.3507584519684315
+            ]
+        ],
+        "sunset": [
+            2448478.285482888,
+            [
+                18,
+                51,
+                6
+            ],
+            [
+                1991,
+                8,
+                9,
+                18.85158931463957
+            ]
+        ],
+        "moonrise": [
+            2448477.717798365,
+            [
+                5,
+                13,
+                38
+            ],
+            [
+                1991,
+                8,
+                9,
+                5.227160755544901
+            ]
+        ],
+        "moonset": [
+            2448478.264991679,
+            [
+                18,
+                21,
+                35
+            ],
+            [
+                1991,
+                8,
+                9,
+                18.359800301492214
+            ]
+        ],
+        "tithi": [
+            29,
+            [
+                12,
+                10,
+                29
+            ]
+        ],
+        "nakshatra": [
+            "Ardra",
+            6,
+            [
+                16,
+                38,
+                49
+            ]
+        ],
+        "yoga": [
+            "Siddha",
+            15
+        ],
+        "karana": [
+            58,
+            -0.30759173468862855
+        ],
+        "vaara": "Shukrvara",
+        "lunar_phase": 344.6016841837958,
+        "masa": [
+            "Shravana",
+            5,
+            false
+        ],
+        "ahargana": 1860012,
+        "ritu": "Vasant Ritu (Spring)",
+        "samvatsara": 5,
+        "day_duration": [
+            12.500830862671137,
+            [
+                12,
+                30,
+                3
+            ]
+        ]
+    }
+}

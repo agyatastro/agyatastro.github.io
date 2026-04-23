@@ -1,0 +1,225 @@
+{
+    "request": {
+        "name": "Rajpal Yadav",
+        "title": "Actor, Comic",
+        "year": 1971,
+        "month": 3,
+        "day": 16,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 27.88165,
+        "longitude": 79.90918,
+        "location": "Shahjanpur",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "related": ["actor", "comic"],
+        "about": "</p><p>Rajpal Naurang Yadav (born 16 March 1971) is an Indian actor and producer who primarily works in Hindi cinema. His breakthrough came in Ram Gopal Varma's Jungle (2000) with a negative role. Although Yadav gained widespread recognition from his slapstick comic performances over the years and has been nominated for several awards such as Filmfare and Screen Awards.</p><p>Some of his most notable works include Ek Aur Ek Gyarah (2003), Mujhse Shaadi Karogi (2004), Waqt: The Race Against Time (2005), Phir Hera Pheri (2006), Partner (2007), Bhool Bhulaiyaa (2007), Bhoothnath, Krazzy 4 (both 2008), Krrish 3 (2013), Bhool Bhulaiyaa 2 (2022) and the Priyadarshan films such as Hungama (2003), Garam Masala , Malamaal Weekly (both 2005), Chup Chup Ke, Bhagam Bhag (both 2006).</p><p>He has starred in leading roles and serious characters including Main Madhuri Dixit Banna Chahti Hoon (2003), Main, Meri Patni Aur Woh (2005), Rama Rama Kya Hai Drama (2008), Kushti (2010) and Ardh (2022).</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 70.06742534949191,
+            "ascendant": 3
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 222.91742521962178,
+                "cusp_degree": 12.917425219621776,
+                "motion_speed": 0.022537462178990022,
+                "zodiac": 8,
+                "house": 6,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 331.564550376083,
+                "cusp_degree": 1.564550376082991,
+                "motion_speed": 0.9956783103990507,
+                "zodiac": 12,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 197.12078296848688,
+                "cusp_degree": 17.12078296848688,
+                "motion_speed": 12.15855238406268,
+                "zodiac": 7,
+                "house": 5,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 290.77847172183914,
+                "cusp_degree": 20.77847172183914,
+                "motion_speed": 1.1774349615260182,
+                "zodiac": 10,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 248.86941087168384,
+                "cusp_degree": 8.86941087168384,
+                "motion_speed": 0.6033570256396055,
+                "zodiac": 9,
+                "house": 7,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 340.62360648990096,
+                "cusp_degree": 10.623606489900965,
+                "motion_speed": 1.9614507330530415,
+                "zodiac": 12,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 25.158395947998407,
+                "cusp_degree": 25.158395947998407,
+                "motion_speed": 0.09362268920804079,
+                "zodiac": 1,
+                "house": 11,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 299.73309943943207,
+                "cusp_degree": 29.733099439432067,
+                "motion_speed": -0.08758371355668575,
+                "zodiac": 10,
+                "house": 8,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 298.56967444399754,
+                "cusp_degree": 28.569674443997542,
+                "motion_speed": -0.05299201581142091,
+                "zodiac": 10,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 118.56967444399754,
+                "motion_speed": -0.05299201581142091,
+                "cusp_degree": 28.569674443997542,
+                "zodiac": 4,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 119.73309943943207,
+                "motion_speed": -0.08758371355668575,
+                "cusp_degree": 29.733099439432067,
+                "zodiac": 4,
+                "house": 2,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1971-03-16",
+        "latitude": 27.88165,
+        "longitude": 79.90918,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2441026.5,
+        "solar_longitude": 331.29486933725025,
+        "lunar_longitude": 193.8335944627942,
+        "lunar_latitude": -5.003299879236209,
+        "sunrise": [
+            2441026.7664890056,
+            [
+                6,
+                23,
+                45
+            ],
+            [
+                1971,
+                3,
+                16,
+                6.395736135542393
+            ]
+        ],
+        "sunset": [
+            2441027.260589082,
+            [
+                18,
+                15,
+                15
+            ],
+            [
+                1971,
+                3,
+                16,
+                18.254137963056564
+            ]
+        ],
+        "moonrise": [
+            2441027.4201331055,
+            [
+                22,
+                4,
+                60
+            ],
+            [
+                1971,
+                3,
+                16,
+                22.08319453150034
+            ]
+        ],
+        "moonset": [
+            2441026.855940282,
+            [
+                8,
+                32,
+                33
+            ],
+            [
+                1971,
+                3,
+                16,
+                8.542566765099764
+            ]
+        ],
+        "tithi": [
+            19,
+            [
+                18,
+                8,
+                6
+            ]
+        ],
+        "nakshatra": [
+            "Hasta",
+            13,
+            [
+                11,
+                20,
+                36
+            ]
+        ],
+        "yoga": [
+            "Vyaghata",
+            12
+        ],
+        "karana": [
+            37,
+            -3.5077387018755246
+        ],
+        "vaara": "Mangalvara",
+        "lunar_phase": 222.53872512554395,
+        "masa": [
+            "Chaitra",
+            1,
+            false
+        ],
+        "ahargana": 1852561,
+        "ritu": "Vasant Ritu (Spring)",
+        "samvatsara": 44,
+        "day_duration": [
+            11.858401827514172,
+            [
+                11,
+                51,
+                30
+            ]
+        ]
+    }
+}

@@ -1,0 +1,225 @@
+{
+    "request": {
+        "name": "Balen Shah",
+        "title": "Prime Minister (Nepal), Rapper, Engineer",
+        "year": 1990,
+        "month": 4,
+        "day": 27,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 27.70169,
+        "longitude": 85.3206,
+        "location": "Kathmandu",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "related": ["rapper", "engineer", "prime-minister"],
+        "about": "<p>Balendra Shah (born 27 April 1990), popularly known as Balen, is a Nepalese politician, structural engineer, and rapper who has been the prime minister of Nepal since 2026. He assumed the office following his party's landslide victory in the 2026 Nepalese general election. At age 35, he is the world's youngest serving state leader. He previously served as the 15th mayor of Kathmandu from 2022 to 2026, the first independent candidate to hold the office.</p><p>In the 2022 local election, Shah was elected mayor of Kathmandu. During his tenure, he introduced initiatives in waste management and traffic management. His administration also faced criticism and controversy over issues such as the demolition of illegally constructed structures, the handling of squatter settlements, and enforcement actions against street vendors.</p><p>Shah emerged as a prominent political figure during the 2025 Gen Z protests. In January 2026, he resigned as mayor of Kathmandu and joined the Rastriya Swatantra Party (RSP) to contest the 2026 general election as the party's prime ministerial candidate. He defeated former Prime Minister K. P. Sharma Oli in Jhapa 5 by a landslide, leading his party to a historic majority victory.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 107.36578989259561,
+            "ascendant": 4
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 72.59906797777757,
+                "cusp_degree": 12.599067977777565,
+                "motion_speed": 0.1621068407175277,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 13.010761576370161,
+                "cusp_degree": 13.010761576370161,
+                "motion_speed": 0.9730832755946779,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 42.61954156843227,
+                "cusp_degree": 12.619541568432268,
+                "motion_speed": 15.068341374730286,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 328.60353254541724,
+                "cusp_degree": 28.603532545417238,
+                "motion_speed": 1.1036520705100261,
+                "zodiac": 11,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 311.0148952475959,
+                "cusp_degree": 11.014895247595916,
+                "motion_speed": 0.7473547805921258,
+                "zodiac": 11,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 23.09346464576656,
+                "cusp_degree": 23.09346464576656,
+                "motion_speed": -0.34274413053217617,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 271.5653700093025,
+                "cusp_degree": 1.5653700093025122,
+                "motion_speed": 0.012574594861703123,
+                "zodiac": 10,
+                "house": 7,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 288.585968271229,
+                "cusp_degree": 18.585968271228978,
+                "motion_speed": -0.15050892183096481,
+                "zodiac": 10,
+                "house": 7,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 288.5798563193902,
+                "cusp_degree": 18.579856319390217,
+                "motion_speed": -0.05299203879637925,
+                "zodiac": 10,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 108.57985631939022,
+                "motion_speed": -0.05299203879637925,
+                "cusp_degree": 18.579856319390217,
+                "zodiac": 4,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 108.58596827122898,
+                "motion_speed": -0.15050892183096481,
+                "cusp_degree": 18.585968271228978,
+                "zodiac": 4,
+                "house": 1,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1990-04-27",
+        "latitude": 27.70169,
+        "longitude": 85.3206,
+        "time_zone": "Asia/Kathmandu",
+        "offset": 5.75,
+        "julday": 2448008.5,
+        "solar_longitude": 12.757335661845271,
+        "lunar_longitude": 38.6863592400151,
+        "lunar_latitude": 4.706216408184218,
+        "sunrise": [
+            2448008.7306122803,
+            [
+                5,
+                32,
+                5
+            ],
+            [
+                1990,
+                4,
+                27,
+                5.534694727510214
+            ]
+        ],
+        "sunset": [
+            2448009.2716112547,
+            [
+                18,
+                31,
+                7
+            ],
+            [
+                1990,
+                4,
+                27,
+                18.518670111894608
+            ]
+        ],
+        "moonrise": [
+            2448008.793990492,
+            [
+                7,
+                3,
+                21
+            ],
+            [
+                1990,
+                4,
+                27,
+                7.055771805346012
+            ]
+        ],
+        "moonset": [
+            2448009.384981789,
+            [
+                21,
+                14,
+                22
+            ],
+            [
+                1990,
+                4,
+                27,
+                21.239562939852476
+            ]
+        ],
+        "tithi": [
+            3,
+            [
+                22,
+                43,
+                2
+            ]
+        ],
+        "nakshatra": [
+            "Bharani",
+            2,
+            [
+                24,
+                26,
+                22
+            ]
+        ],
+        "yoga": [
+            "Sobhana",
+            4
+        ],
+        "karana": [
+            4,
+            -5.188553899312311
+        ],
+        "vaara": "Shukrvara",
+        "lunar_phase": 25.92902357816983,
+        "masa": [
+            "Jyeshtha",
+            3,
+            false
+        ],
+        "ahargana": 1859543,
+        "ritu": "Vasant Ritu (Spring)",
+        "samvatsara": 4,
+        "day_duration": [
+            12.983975384384394,
+            [
+                12,
+                59,
+                2
+            ]
+        ]
+    }
+}

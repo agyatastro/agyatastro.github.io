@@ -1,0 +1,226 @@
+{
+    "request": {
+        "name": "Aditya Dhar",
+        "title": "Cinema director, Screenwriter, Cinema Producer",
+        "year": 1982,
+        "month": 3,
+        "day": 12,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 28.62137,
+        "longitude": 77.2148,
+        "location": "New Delhi",
+        "gender": "male",
+        "agyat_rating": "UX",
+        "related": ["screenwriter", "cinema-producer", "cinema-director"],
+        "advanced": "fame",
+        "about": "Aditya Dhar (born 12 March 1983) is an Indian film director, screenwriter and producer who works in Hindi cinema. Having previously worked as lyricist, Dhar made his directorial debut with the 2019 war film Uri: The Surgical Strike, a commercially successful venture which earned him the National Film Award for Best Direction. Dhar rose to prominence, with the spy action thriller Dhurandhar duology, comprising Dhurandhar (2025) and Dhurandhar: The Revenge (2026); both films rank among Indian cinema's top five highest earners ever at the box office."
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 64.53606643417925,
+            "ascendant": 3
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 196.32446036510254,
+                "cusp_degree": 16.32446036510254,
+                "motion_speed": -0.04949502919994141,
+                "zodiac": 7,
+                "house": 5,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 327.75039526228363,
+                "cusp_degree": 27.750395262283632,
+                "motion_speed": 0.9976554930300615,
+                "zodiac": 11,
+                "house": 9,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 177.01006458641697,
+                "cusp_degree": 27.010064586416973,
+                "motion_speed": 12.794418838762688,
+                "zodiac": 6,
+                "house": 4,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 283.26722391086224,
+                "cusp_degree": 13.267223910862242,
+                "motion_speed": 0.7824484582724792,
+                "zodiac": 10,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 173.16301615310405,
+                "cusp_degree": 23.163016153104053,
+                "motion_speed": -0.2460152096985762,
+                "zodiac": 6,
+                "house": 4,
+                "motion": "R"
+            },
+            "Mercury": {
+                "degree": 304.1861020202692,
+                "cusp_degree": 4.186102020269175,
+                "motion_speed": 1.429112757421418,
+                "zodiac": 11,
+                "house": 9,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 177.31572360778642,
+                "cusp_degree": 27.315723607786424,
+                "motion_speed": -0.061563926323763556,
+                "zodiac": 6,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 86.83740959768099,
+                "cusp_degree": 26.83740959768099,
+                "motion_speed": -0.17626638163643324,
+                "zodiac": 3,
+                "house": 1,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 85.85963834723519,
+                "cusp_degree": 25.85963834723519,
+                "motion_speed": -0.05299202175240915,
+                "zodiac": 3,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 265.8596383472352,
+                "motion_speed": -0.05299202175240915,
+                "cusp_degree": 25.859638347235204,
+                "zodiac": 9,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 266.837409597681,
+                "motion_speed": -0.17626638163643324,
+                "cusp_degree": 26.837409597681017,
+                "zodiac": 9,
+                "house": 7,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1982-03-12",
+        "latitude": 28.62137,
+        "longitude": 77.2148,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2445040.5,
+        "solar_longitude": 327.480178663761,
+        "lunar_longitude": 173.53366407634041,
+        "lunar_latitude": 5.059197290335151,
+        "sunrise": [
+            2445040.7769422675,
+            [
+                6,
+                38,
+                48
+            ],
+            [
+                1982,
+                3,
+                12,
+                6.646614421159029
+            ]
+        ],
+        "sunset": [
+            2445041.266468664,
+            [
+                18,
+                23,
+                43
+            ],
+            [
+                1982,
+                3,
+                12,
+                18.39524793997407
+            ]
+        ],
+        "moonrise": [
+            2445041.3729161965,
+            [
+                20,
+                56,
+                60
+            ],
+            [
+                1982,
+                3,
+                12,
+                20.949988715350628
+            ]
+        ],
+        "moonset": [
+            2445040.8302945,
+            [
+                7,
+                55,
+                37
+            ],
+            [
+                1982,
+                3,
+                12,
+                7.927068002521992
+            ]
+        ],
+        "tithi": [
+            18,
+            [
+                26,
+                59,
+                15
+            ]
+        ],
+        "nakshatra": [
+            "Uttara Phalguni",
+            12,
+            [
+                24,
+                27,
+                15
+            ]
+        ],
+        "yoga": [
+            "Vriddhi",
+            10
+        ],
+        "karana": [
+            34,
+            -5.3317288688943165
+        ],
+        "vaara": "Shukrvara",
+        "lunar_phase": 206.0534854125794,
+        "masa": [
+            "Chaitra",
+            1,
+            false
+        ],
+        "ahargana": 1856575,
+        "ritu": "Vasant Ritu (Spring)",
+        "samvatsara": 55,
+        "day_duration": [
+            11.74863351881504,
+            [
+                11,
+                44,
+                55
+            ]
+        ]
+    }
+}

@@ -1,0 +1,226 @@
+{
+    "request": {
+        "name": "Yami Gautam",
+        "title": "Actor",
+        "year": 1987,
+        "month": 11,
+        "day": 28,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 31.33027,
+        "longitude": 76.75663,
+        "location": "Bilaspur",
+        "gender": "female",
+        "agyat_rating": "CX",
+        "related": ["actor"],
+        "advanced": "fame, humiliation",
+        "about": "<p>Yami Gautam Dhar (pronounced [jaːmiː ɡɔːtəm d̪ʱaːr]; born 28 November 1988) is an Indian actress who primarily works in Hindi films. Known for her performances in female-centric and content-driven films, her accolades include two Screen Awards and a Zee Cine Award, alongside three Filmfare Awards nominations.</p><p>The daughter of film director Mukesh Gautam, she began her career as a model, and starred in television soap operas such as Chand Ke Paar Chalo (2008–2009) and Yeh Pyar Na Hoga Kam (2009–2010). After making her film debut in the Kannada film Ullasa Utsaha (2010), she had her first Hindi film release in the comedy-drama Vicky Donor (2012), which won her the Zee Cine Award for Best Female Debut.</p><p>Gautam earned acclaim for her supporting roles in the thrillers Badlapur (2015) and Kaabil (2017), and greater success came for starring in the war film Uri: The Surgical Strike and the satire Bala (both 2019). She starred in the streaming films Bhoot Police (2021), A Thursday (2022), Dasvi (2022), and Chor Nikal Ke Bhaga (2023), and had further commercial success in the comedy film OMG 2 (2023) and the political thriller Article 370 (2024). She has since earned critical acclaim for her performance as Shah Bano in Haq (2025).</p><p>Apart from acting, Gautam has served as a brand ambassador for several products. She is married to filmmaker Aditya Dhar.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 295.2951694548287,
+            "ascendant": 10
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 356.58762301865204,
+                "cusp_degree": 26.58762301865204,
+                "motion_speed": -0.058730505412356124,
+                "zodiac": 12,
+                "house": 3,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 221.79309463081458,
+                "cusp_degree": 11.79309463081458,
+                "motion_speed": 1.0124137300465321,
+                "zodiac": 8,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 314.9806113501524,
+                "cusp_degree": 14.980611350152401,
+                "motion_speed": 13.956968154115023,
+                "zodiac": 11,
+                "house": 2,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 246.55354701053062,
+                "cusp_degree": 6.553547010530622,
+                "motion_speed": 1.242740095785622,
+                "zodiac": 9,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 189.01462661507665,
+                "cusp_degree": 9.01462661507665,
+                "motion_speed": 0.6543007921694276,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 208.13461089414284,
+                "cusp_degree": 28.13461089414284,
+                "motion_speed": 1.5334768522441808,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 237.8161838511852,
+                "cusp_degree": 27.8161838511852,
+                "motion_speed": 0.11521757910812461,
+                "zodiac": 8,
+                "house": 11,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 336.3966750136933,
+                "cusp_degree": 6.3966750136933115,
+                "motion_speed": 0.004087972464970159,
+                "zodiac": 12,
+                "house": 3,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 335.2652769098808,
+                "cusp_degree": 5.265276909880811,
+                "motion_speed": -0.05299204103874223,
+                "zodiac": 12,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 155.26527690988087,
+                "motion_speed": -0.05299204103874223,
+                "cusp_degree": 5.265276909880868,
+                "zodiac": 6,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 156.3966750136933,
+                "motion_speed": 0.004087972464970159,
+                "cusp_degree": 6.3966750136933115,
+                "zodiac": 6,
+                "house": 9,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1987-11-28",
+        "latitude": 31.33027,
+        "longitude": 76.75663,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2447127.5,
+        "solar_longitude": 221.51890895924936,
+        "lunar_longitude": 311.19335261171653,
+        "lunar_latitude": -2.1667393448174734,
+        "sunrise": [
+            2447127.7952952036,
+            [
+                7,
+                5,
+                14
+            ],
+            [
+                1987,
+                11,
+                28,
+                7.087084885686636
+            ]
+        ],
+        "sunset": [
+            2447128.2194318124,
+            [
+                17,
+                15,
+                59
+            ],
+            [
+                1987,
+                11,
+                28,
+                17.266363497823477
+            ]
+        ],
+        "moonrise": [
+            2447128.0412982595,
+            [
+                12,
+                59,
+                28
+            ],
+            [
+                1987,
+                11,
+                28,
+                12.991158228367567
+            ]
+        ],
+        "moonset": [
+            2447128.534540196,
+            [
+                24,
+                49,
+                44
+            ],
+            [
+                1987,
+                11,
+                29,
+                0.8289647027850151
+            ]
+        ],
+        "tithi": [
+            8,
+            [
+                18,
+                49,
+                20
+            ]
+        ],
+        "nakshatra": [
+            "Shravana",
+            22,
+            [
+                15,
+                30,
+                47
+            ]
+        ],
+        "yoga": [
+            "Harshana",
+            13
+        ],
+        "karana": [
+            15,
+            -3.5041054031019314
+        ],
+        "vaara": "Shanivara",
+        "lunar_phase": 89.67444365246718,
+        "masa": [
+            "Margsheersha",
+            9,
+            false
+        ],
+        "ahargana": 1858662,
+        "ritu": "Vasant Ritu (Spring)",
+        "samvatsara": 1,
+        "day_duration": [
+            10.17927861213684,
+            [
+                10,
+                10,
+                45
+            ]
+        ]
+    }
+}

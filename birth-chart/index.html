@@ -36,8 +36,8 @@
       </thead>
       <tbody>
         {{#each vimshottari}}
-          <tr style="height:40px;">
-            <td>{{planet}}</td>
+          <tr class="{{isRunning this}}" style="height:40px;">
+            <td>{{isRunningRow this}}{{planet}}</td>
             <td>{{formatStartDate start}}</td>
             <td>{{formatStartDate end}}</td>
           </tr>
@@ -229,25 +229,25 @@
     <hr/></script><script id="agyat-tmpl-kundli-information" type="text/x-handlebars-template"><h3>Birth-Chart Information</h3>
     <div class="justify-content-center row">
         <ul class="nav nav-pills nav-fill nav-justified">
-            <li class="nav-item mx-2">
+            <li class="nav-item m-2">
                 <a class=" btn btn-main btn-round-full" role="tab" aria-selected="true"><i class="fa-solid fa-bullseye"></i><strong>{{lagna}}</strong> Lagna</a>
             </li>
-            <li class="nav-item mx-2">
+            <li class="nav-item m-2">
                 <a class=" btn btn-main btn-round-full" role="tab" aria-selected="true">
                     <i class="fa-solid fa-{{lower data.Moon.zodiac}}"></i>
                     <strong>{{moonsign}}</strong> <i class="fa-solid fa-moon"></i> Moon Sign/Rashi
                 </a>
             </li>
-            <li class="nav-item mx-2">
+            <li class="nav-item m-2">
                 <a class=" btn btn-main btn-round-full" role="tab" aria-selected="true">
                     <i class="fa-solid fa-{{lower data.Sun.zodiac}}"></i>
                     <strong>{{sunsign}}</strong> <i class="fa-solid fa-sun"></i> Surya Rashi
                 </a>
             </li>
-            <li class="nav-item mx-2">
+            <li class="nav-item m-2">
                 <a class=" btn btn-main btn-round-full" role="tab" aria-selected="true"><strong>{{moonnakshatra}}</strong> <i class="fa-brands fa-empire"></i> Nakshatra</a>
             </li>
-            <li class="nav-item mx-2">
+            <li class="nav-item m-2">
                 <a class=" btn btn-main btn-round-full" role="tab" aria-selected="true"><strong>{{sunnakshatra}}</strong> <i class="fa-brands fa-empire"></i> Surya Nakshatra</a>
             </li>
         </ul>

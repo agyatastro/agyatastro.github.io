@@ -1,0 +1,225 @@
+{
+    "request": {
+        "name": "Suvendu Adhikari",
+        "title": "Politician, Chief Minister",
+        "year": 1970,
+        "month": 12,
+        "day": 15,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 22.42114,
+        "longitude": 87.32257,
+        "location": "Karkuli, Purba Medinipur",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "related": ["chief-minister", "politician"],
+        "about": "</p><p>Suvendu Adhikari (Śubhēndu Adhikārī, Bengali pronunciation: [ʃubʱend̪u od̪ʱikaɾi]; born 15 December 1970) is an Indian politician who is serving as the 9th Chief Minister of West Bengal since 9 May 2026. He is the 1st Chief Minister of West Bengal under Bharatiya Janata Party (BJP).</p><p>He also served as Leader of the Opposition from 2021 to 2026. Adhikari previously worked in the state ministry for the West Bengal government from 2016 to 2020. He was elected Member of Legislative Assembly (MLA) for Nandigram in 2016, 2021 and 2026, and simultaneously from Bhabanipur in 2026. Previously he was elected from Kanthi Dakshin in 2005, and Member of Parliament (MP) for Tamluk in 2009, and 2014.</p><p>He previously served as the Minister of Transport from 2016 to 2020, Irrigation and Water resource from 2018 to 2020 in the Government of West Bengal. He was also a member of Lok Sabha from Tamluk from 2009 to 2016 and the chairperson of Jute Corporation of India from 2020 to 2021. He was a member of the Trinamool Congress from 1998 to 2020 and Indian National Congress from 1995 to 1998. He is the son of Sisir Adhikari, Member of Parliament and former Union Minister of State for Rural Development in the Manmohan Singh government</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 334.3251302305625,
+            "ascendant": 12
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 210.79952195956923,
+                "cusp_degree": 0.7995219595692333,
+                "motion_speed": 0.20680606408939786,
+                "zodiac": 8,
+                "house": 9,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 239.4173447755508,
+                "cusp_degree": 29.417344775550788,
+                "motion_speed": 1.0170353046331324,
+                "zodiac": 8,
+                "house": 9,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 87.82439053089173,
+                "cusp_degree": 27.824390530891733,
+                "motion_speed": 12.525157222362267,
+                "zodiac": 3,
+                "house": 4,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 200.04773318835535,
+                "cusp_degree": 20.047733188355352,
+                "motion_speed": 0.48958119873424055,
+                "zodiac": 7,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 191.99376011187877,
+                "cusp_degree": 11.993760111878771,
+                "motion_speed": 0.6347138679473682,
+                "zodiac": 7,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 259.3488783398109,
+                "cusp_degree": 19.34887833981088,
+                "motion_speed": 0.6113487885257742,
+                "zodiac": 9,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 23.238540280239665,
+                "cusp_degree": 23.238540280239665,
+                "motion_speed": -0.057034791454895026,
+                "zodiac": 1,
+                "house": 2,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 302.00098400308036,
+                "cusp_degree": 2.0009840030803616,
+                "motion_speed": -0.10662276978302869,
+                "zodiac": 11,
+                "house": 12,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 303.3919503032736,
+                "cusp_degree": 3.3919503032735747,
+                "motion_speed": -0.052992049137679395,
+                "zodiac": 11,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 123.39195030327357,
+                "motion_speed": -0.052992049137679395,
+                "cusp_degree": 3.3919503032735747,
+                "zodiac": 5,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 122.00098400308036,
+                "motion_speed": -0.10662276978302869,
+                "cusp_degree": 2.0009840030803616,
+                "zodiac": 5,
+                "house": 6,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1970-12-15",
+        "latitude": 22.42114,
+        "longitude": 87.32257,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2440935.5,
+        "solar_longitude": 239.141906434756,
+        "lunar_longitude": 84.4214762199051,
+        "lunar_latitude": 3.098844821314704,
+        "sunrise": [
+            2440935.7613527346,
+            [
+                6,
+                16,
+                21
+            ],
+            [
+                1970,
+                12,
+                15,
+                6.272465631365776
+            ]
+        ],
+        "sunset": [
+            2440936.204769005,
+            [
+                16,
+                54,
+                52
+            ],
+            [
+                1970,
+                12,
+                15,
+                16.914456121623516
+            ]
+        ],
+        "moonrise": [
+            2440936.303348347,
+            [
+                19,
+                16,
+                49
+            ],
+            [
+                1970,
+                12,
+                15,
+                19.28036032989621
+            ]
+        ],
+        "moonset": [
+            2440935.8397447043,
+            [
+                8,
+                9,
+                14
+            ],
+            [
+                1970,
+                12,
+                15,
+                8.153872903436422
+            ]
+        ],
+        "tithi": [
+            18,
+            [
+                28,
+                45,
+                22
+            ]
+        ],
+        "nakshatra": [
+            "Mrigashira",
+            5,
+            [
+                16,
+                24,
+                15
+            ]
+        ],
+        "yoga": [
+            "Brahma",
+            24
+        ],
+        "karana": [
+            34,
+            -4.2979292217788725
+        ],
+        "vaara": "Mangalvara",
+        "lunar_phase": 205.27956978514908,
+        "masa": [
+            "Pausha",
+            10,
+            false
+        ],
+        "ahargana": 1852470,
+        "ritu": "Greeshma Ritu (Summer)",
+        "samvatsara": 44,
+        "day_duration": [
+            10.64199049025774,
+            [
+                10,
+                38,
+                31
+            ]
+        ]
+    }
+}

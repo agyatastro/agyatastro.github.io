@@ -1,0 +1,225 @@
+{
+    "request": {
+        "name": "Thalapathy Vijay",
+        "title": "Actor, Politician",
+        "year": 1974,
+        "month": 6,
+        "day": 22,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 13.08784,
+        "longitude": 80.27847,
+        "location": "Chennai",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "related": ["chief-minister", "actor", "politician"],
+        "about": "<p>Chandrasekaran Joseph Vijay (born 22 June 1974) is an Indian politician and former actor who has serving as the ninth Chief Minister of Tamil Nadu since 2026. He is the founder and president of the political party Tamilaga Vettri Kazhagam (TVK). Prior to entering politics, he was one of the leading actors in Tamil cinema.</p><p>Vijay made his debut as a lead actor in Naalaiya Theerpu (1992), directed by his father S. A. Chandrasekaran. He rose to fame with romance films such as Poove Unakkaga (1996), Love Today (1997), Kadhalukku Mariyadhai (1997) and Thullatha Manamum Thullum (1999), before transitioning into an action star with Thirumalai (2003), Ghilli (2004) and Pokkiri (2007). From the 2010s onward, he starred in major commercial successes including Thuppakki (2012), Kaththi (2014), Mersal (2017), Sarkar (2018), Master (2021), Leo (2023), and The Greatest of All Time (2024), several of which rank among the highest-grossing Tamil films.</p><p>In February 2024, Vijay announced his retirement from films and his entry into politics and founded the TVK. In the 2026 Tamil Nadu Legislative Assembly election, his party secured 108 seats, marking a significant political achievement but falling short of a majority. With the support of other allies, Vijay became the Chief Minister of Tamil Nadu on 10 May 2026.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 154.35769469404056,
+            "ascendant": 6
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 323.98189302007347,
+                "cusp_degree": 23.98189302007347,
+                "motion_speed": 0.04888065796704208,
+                "zodiac": 11,
+                "house": 6,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 66.96742498477896,
+                "cusp_degree": 6.967424984778958,
+                "motion_speed": 0.9544037451838742,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 95.88371066360959,
+                "cusp_degree": 5.883710663609591,
+                "motion_speed": 14.963694871685584,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 32.113767238563334,
+                "cusp_degree": 2.1137672385633337,
+                "motion_speed": 1.1770165857253945,
+                "zodiac": 2,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 104.60331978192401,
+                "cusp_degree": 14.603319781924014,
+                "motion_speed": 0.6146661104326703,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 79.45800227817573,
+                "cusp_degree": 19.458002278175726,
+                "motion_speed": -0.3076405485758028,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 73.75217696864031,
+                "cusp_degree": 13.752176968640313,
+                "motion_speed": 0.12961280430731922,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 235.90675597884945,
+                "cusp_degree": 25.906755978849446,
+                "motion_speed": -0.020079192022122685,
+                "zodiac": 8,
+                "house": 3,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 235.29717753466883,
+                "cusp_degree": 25.297177534668833,
+                "motion_speed": -0.05299206233250911,
+                "zodiac": 8,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 55.29717753466883,
+                "motion_speed": -0.05299206233250911,
+                "cusp_degree": 25.297177534668833,
+                "zodiac": 2,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 55.906755978849446,
+                "motion_speed": -0.020079192022122685,
+                "cusp_degree": 25.906755978849446,
+                "zodiac": 2,
+                "house": 9,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1974-06-22",
+        "latitude": 13.08784,
+        "longitude": 80.27847,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2442220.5,
+        "solar_longitude": 66.70893478900827,
+        "lunar_longitude": 91.82843744705877,
+        "lunar_latitude": -3.1007549293421914,
+        "sunrise": [
+            2442220.741314927,
+            [
+                5,
+                47,
+                30
+            ],
+            [
+                1974,
+                6,
+                22,
+                5.791558250784874
+            ]
+        ],
+        "sunset": [
+            2442221.273536403,
+            [
+                18,
+                33,
+                54
+            ],
+            [
+                1974,
+                6,
+                22,
+                18.564873676747084
+            ]
+        ],
+        "moonrise": [
+            2442220.8222667663,
+            [
+                7,
+                44,
+                4
+            ],
+            [
+                1974,
+                6,
+                22,
+                7.734402392059565
+            ]
+        ],
+        "moonset": [
+            2442221.3713129736,
+            [
+                20,
+                54,
+                41
+            ],
+            [
+                1974,
+                6,
+                22,
+                20.91151136532426
+            ]
+        ],
+        "tithi": [
+            3,
+            [
+                24,
+                27,
+                6
+            ]
+        ],
+        "nakshatra": [
+            "Ardra",
+            6,
+            [
+                24,
+                14,
+                18
+            ]
+        ],
+        "yoga": [
+            "Vyaghata",
+            12
+        ],
+        "karana": [
+            4,
+            -4.502717529735747
+        ],
+        "vaara": "Shanivara",
+        "lunar_phase": 25.119502658050507,
+        "masa": [
+            "Ashadha",
+            4,
+            false
+        ],
+        "ahargana": 1853755,
+        "ritu": "Greeshma Ritu (Summer)",
+        "samvatsara": 48,
+        "day_duration": [
+            12.77331542596221,
+            [
+                12,
+                46,
+                24
+            ]
+        ]
+    }
+}

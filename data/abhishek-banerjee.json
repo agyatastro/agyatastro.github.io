@@ -1,0 +1,226 @@
+{
+    "request": {
+        "name": "Abhishek Banerjee",
+        "title": "Politician",
+        "year": 1987,
+        "month": 11,
+        "day": 7,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 22.56263,
+        "longitude": 88.36304,
+        "location": "Kolkata",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "related": ["politician"],
+        "advanced": "arson, extortion",
+        "about": "<p>Abhishek Banerjee (born 7 November 1987) is an Indian politician who had been a Member of Parliament for Diamond Harbour, West Bengal, since 2014 and President of Trinamool Youth Congress since 2011.</p><p>Banerjee was a member of the Standing Committee of Commerce in 2014, as well as a member of the Consultative Committee under the Ministry of Finance and Corporate Affairs in 2014. He also served on the Railway Convention Committee from April 2015 to May 2019.[4] of External Affairs since September 2019. On 5 June 2021 he was appointed the general secretary of Trinamool Congress</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 288.2487276005803,
+            "ascendant": 10
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 358.4618728311318,
+                "cusp_degree": 28.461872831131814,
+                "motion_speed": -0.1151123860590954,
+                "zodiac": 12,
+                "house": 3,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 200.62008030401984,
+                "cusp_degree": 20.620080304019837,
+                "motion_speed": 1.002979733010125,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 39.68392476617276,
+                "cusp_degree": 9.683924766172758,
+                "motion_speed": 12.908224263531997,
+                "zodiac": 2,
+                "house": 5,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 220.43294795066225,
+                "cusp_degree": 10.432947950662253,
+                "motion_speed": 1.2443796075952556,
+                "zodiac": 8,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 175.329052682452,
+                "cusp_degree": 25.329052682451987,
+                "motion_speed": 0.6488176534588423,
+                "zodiac": 6,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 183.79676198789167,
+                "cusp_degree": 3.7967619878916707,
+                "motion_speed": 0.17477929324857094,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 235.50120420019152,
+                "cusp_degree": 25.501204200191523,
+                "motion_speed": 0.1038682910354244,
+                "zodiac": 8,
+                "house": 11,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 337.95863775953575,
+                "cusp_degree": 7.958637759535748,
+                "motion_speed": -0.13028541159978446,
+                "zodiac": 12,
+                "house": 3,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 336.3781094232387,
+                "cusp_degree": 6.378109423238698,
+                "motion_speed": -0.0529920329024768,
+                "zodiac": 12,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 156.3781094232387,
+                "motion_speed": -0.0529920329024768,
+                "cusp_degree": 6.378109423238698,
+                "zodiac": 6,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 157.9586377595358,
+                "motion_speed": -0.13028541159978446,
+                "cusp_degree": 7.958637759535804,
+                "zodiac": 6,
+                "house": 9,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1987-11-07",
+        "latitude": 22.56263,
+        "longitude": 88.36304,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2447106.5,
+        "solar_longitude": 200.3484591344563,
+        "lunar_longitude": 36.177756760277326,
+        "lunar_latitude": 4.371997800173917,
+        "sunrise": [
+            2447106.741432877,
+            [
+                5,
+                47,
+                40
+            ],
+            [
+                1987,
+                11,
+                7,
+                5.794389043003321
+            ]
+        ],
+        "sunset": [
+            2447107.2031161855,
+            [
+                16,
+                52,
+                29
+            ],
+            [
+                1987,
+                11,
+                7,
+                16.87478845193982
+            ]
+        ],
+        "moonrise": [
+            2447107.2594990395,
+            [
+                18,
+                13,
+                41
+            ],
+            [
+                1987,
+                11,
+                7,
+                18.227976948022842
+            ]
+        ],
+        "moonset": [
+            2447106.7938689156,
+            [
+                7,
+                3,
+                10
+            ],
+            [
+                1987,
+                11,
+                7,
+                7.052853975445032
+            ]
+        ],
+        "tithi": [
+            17,
+            [
+                22,
+                17,
+                57
+            ]
+        ],
+        "nakshatra": [
+            "Ashwini",
+            1,
+            [
+                7,
+                3,
+                33
+            ]
+        ],
+        "yoga": [
+            "Variyan",
+            17
+        ],
+        "karana": [
+            33,
+            -0.7137059393563732
+        ],
+        "vaara": "Shanivara",
+        "lunar_phase": 195.82929762582103,
+        "masa": [
+            "Kartika",
+            8,
+            false
+        ],
+        "ahargana": 1858641,
+        "ritu": "Greeshma Ritu (Summer)",
+        "samvatsara": 1,
+        "day_duration": [
+            11.0803994089365,
+            [
+                11,
+                4,
+                49
+            ]
+        ]
+    }
+}

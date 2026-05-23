@@ -1,0 +1,232 @@
+{
+    "request": {
+        "name": "Dara Singh",
+        "title": "Professional wrestler, Actor, Politician",
+        "year": 1928,
+        "month": 11,
+        "day": 19,
+        "hour": 3,
+        "minute": 30,
+        "second": 0,
+        "latitude": 31.62234,
+        "longitude": 74.87534,
+        "location": "Amritsar",
+        "gender": "male",
+        "agyat_rating": "AA",
+        "related": ["wrestler", "actor", "politician"],
+        "advanced": "death by heart attack",
+        "about": "<p>Dara Singh (born Deedar Singh Randhawa; 19 November 1928 – 12 July 2012) was an Indian professional wrestler, actor, and politician. Widely regarded as one of India's greatest wrestlers, Singh earned international recognition during the 1950s and 1960s for his victories in both Indian and world wrestling circuits. In 1968, Singh became world champion by defeating Lou Thesz.</p><p>Transitioning to cinema, Singh appeared in over 100 Hindi and Punjabi films, often portraying strong, heroic and religious characters, and is best remembered for his iconic role as Hanuman in the film Bajrangbali (1976) and in the television series Ramayan (1987–1988). He was the first sportsperson to be nominated as Member of the Rajya Sabha from 2003 to 2009, he was also awarded the Padma Shri in 1996. Singh was inducted into the Legacy wing of the WWE Hall of Fame Class of 2018</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 167.94176602066423,
+            "ascendant": 6
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 9.81774887416735,
+                "cusp_degree": 9.81774887416735,
+                "motion_speed": -0.11305822602561759,
+                "zodiac": 1,
+                "house": 8,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 213.4791657807324,
+                "cusp_degree": 3.4791657807323872,
+                "motion_speed": 1.0094582101044194,
+                "zodiac": 8,
+                "house": 3,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 284.44788404898185,
+                "cusp_degree": 14.447884048981848,
+                "motion_speed": 12.30025815564098,
+                "zodiac": 10,
+                "house": 5,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 249.16317141747362,
+                "cusp_degree": 9.16317141747362,
+                "motion_speed": 1.2171668530498292,
+                "zodiac": 9,
+                "house": 4,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 76.10468535149008,
+                "cusp_degree": 16.104685351490076,
+                "motion_speed": -0.09710310165123479,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "R"
+            },
+            "Mercury": {
+                "degree": 197.42691469192357,
+                "cusp_degree": 17.42691469192357,
+                "motion_speed": 1.4840574341364803,
+                "zodiac": 7,
+                "house": 2,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 235.81201446189024,
+                "cusp_degree": 25.812014461890243,
+                "motion_speed": 0.11235011113408162,
+                "zodiac": 8,
+                "house": 3,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 37.63192294867181,
+                "cusp_degree": 7.631922948671807,
+                "motion_speed": 0.005276202513649727,
+                "zodiac": 2,
+                "house": 9,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 37.68672347895335,
+                "cusp_degree": 7.686723478953347,
+                "motion_speed": -0.05299207316798718,
+                "zodiac": 2,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 217.68672347895335,
+                "motion_speed": -0.05299207316798718,
+                "cusp_degree": 7.686723478953354,
+                "zodiac": 8,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 217.63192294867181,
+                "motion_speed": 0.005276202513649727,
+                "cusp_degree": 7.631922948671814,
+                "zodiac": 8,
+                "house": 3,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1928-11-19",
+        "latitude": 31.62234,
+        "longitude": 74.87534,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2425569.5,
+        "solar_longitude": 213.56328853980403,
+        "lunar_longitude": 285.4738175460695,
+        "lunar_latitude": -4.9112791775455475,
+        "sunrise": [
+            2425569.7957584853,
+            [
+                7,
+                5,
+                54
+            ],
+            [
+                1928,
+                11,
+                19,
+                7.098203647881746
+            ]
+        ],
+        "sunset": [
+            2425570.2261392586,
+            [
+                17,
+                25,
+                38
+            ],
+            [
+                1928,
+                11,
+                19,
+                17.4273422062397
+            ]
+        ],
+        "moonrise": [
+            2425570.0136055755,
+            [
+                12,
+                19,
+                36
+            ],
+            [
+                1928,
+                11,
+                19,
+                12.326533813029528
+            ]
+        ],
+        "moonset": [
+            2425570.470045611,
+            [
+                23,
+                16,
+                52
+            ],
+            [
+                1928,
+                11,
+                19,
+                23.281094659119844
+            ]
+        ],
+        "tithi": [
+            6,
+            [
+                7,
+                17,
+                15
+            ],
+            7,
+            [
+                32,
+                21,
+                30
+            ]
+        ],
+        "nakshatra": [
+            "Purva Ashadha",
+            20,
+            [
+                13,
+                22,
+                21
+            ]
+        ],
+        "yoga": [
+            "Vriddhi",
+            10
+        ],
+        "karana": [
+            12,
+            -3.2683410750417465
+        ],
+        "vaara": "Somavara",
+        "lunar_phase": 71.91052900626545,
+        "masa": [
+            "Margsheersha",
+            9,
+            false
+        ],
+        "ahargana": 1837104,
+        "ritu": "Greeshma Ritu (Summer)",
+        "samvatsara": 2,
+        "day_duration": [
+            10.329138558357954,
+            [
+                10,
+                19,
+                45
+            ]
+        ]
+    }
+}

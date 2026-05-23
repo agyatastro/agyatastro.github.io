@@ -1,0 +1,231 @@
+{
+    "request": {
+        "name": "Mark Elliot Zuckerberg",
+        "title": "Programmer, Businessperson",
+        "year": 1984,
+        "month": 5,
+        "day": 14,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 41.03399,
+        "longitude": -73.76291,
+        "location": "White Plains",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "related": ["Businessperson", "engineer"],
+        "about": "<p>Mark Elliot Zuckerberg (/ˈzʌkərbɜːrɡ/; born May 14, 1984) is an American businessman and programmer who co-founded the social media service Facebook and its parent company Meta Platforms. He is its chairman, chief executive officer (CEO), and controlling shareholder.</p><p>Zuckerberg briefly attended Harvard College, and launched Facebook there in February 2004 with his roommates Eduardo Saverin, Andrew McCollum, Dustin Moskovitz and Chris Hughes. Zuckerberg took the company public in May 2012 with majority shares. He became the world's youngest self-made billionaire in 2008 at age 23 and has consistently ranked among the world's wealthiest people. According to Forbes, Zuckerberg's estimated net worth stood at US$220 billion as of December 2025.</p><p>He has used his funds to organize multiple large donations, including the establishment of the Chan Zuckerberg Initiative. A film based on Zuckerberg's early career, legal troubles and initial success with Facebook, The Social Network, was released in 2010. His prominence and fast rise in the technology industry has prompted political and legal attention. He has been the subject of multiple lawsuits regarding the creation and ownership of the website as well as issues such as user privacy.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 116.14106126891413,
+            "ascendant": 4
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 258.9821161027164,
+                "cusp_degree": 18.982116102716418,
+                "motion_speed": -0.04603848362696289,
+                "zodiac": 9,
+                "house": 6,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 30.39074429167756,
+                "cusp_degree": 0.3907442916775601,
+                "motion_speed": 0.9639038165324635,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 203.52858077831186,
+                "cusp_degree": 23.528580778311863,
+                "motion_speed": 14.248184358379733,
+                "zodiac": 7,
+                "house": 4,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 21.691052884728364,
+                "cusp_degree": 21.691052884728364,
+                "motion_speed": 1.228833531817531,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 206.0199584055319,
+                "cusp_degree": 26.019958405531895,
+                "motion_speed": -0.3612166328218871,
+                "zodiac": 7,
+                "house": 4,
+                "motion": "R"
+            },
+            "Mercury": {
+                "degree": 5.778065588843903,
+                "cusp_degree": 5.778065588843903,
+                "motion_speed": 0.6599498476630714,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 198.60220312863484,
+                "cusp_degree": 18.60220312863484,
+                "motion_speed": -0.07306811540739519,
+                "zodiac": 7,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 42.929511476271365,
+                "cusp_degree": 12.929511476271365,
+                "motion_speed": -0.014094835248773382,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 43.762990657522664,
+                "cusp_degree": 13.762990657522664,
+                "motion_speed": -0.05299203630337485,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 223.76299065752266,
+                "motion_speed": -0.05299203630337485,
+                "cusp_degree": 13.762990657522664,
+                "zodiac": 8,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 222.92951147627136,
+                "motion_speed": -0.014094835248773382,
+                "cusp_degree": 12.929511476271358,
+                "zodiac": 8,
+                "house": 5,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1984-05-14",
+        "latitude": 41.03399,
+        "longitude": -73.76291,
+        "time_zone": "America/New_York",
+        "offset": -4,
+        "julday": 2445834.5,
+        "solar_longitude": 29.748046636339048,
+        "lunar_longitude": 193.97849004865907,
+        "lunar_latitude": 2.554058726648166,
+        "sunrise": [
+            2445834.7380169155,
+            [
+                5,
+                42,
+                45
+            ],
+            [
+                1984,
+                5,
+                14,
+                5.712405972182751
+            ]
+        ],
+        "sunset": [
+            2445835.333703861,
+            [
+                20,
+                0,
+                32
+            ],
+            [
+                1984,
+                5,
+                14,
+                20.00889266654849
+            ]
+        ],
+        "moonrise": [
+            2445835.3245811095,
+            [
+                19,
+                47,
+                24
+            ],
+            [
+                1984,
+                5,
+                14,
+                19.789946626871824
+            ]
+        ],
+        "moonset": [
+            2445834.716351783,
+            [
+                5,
+                11,
+                33
+            ],
+            [
+                1984,
+                5,
+                14,
+                5.192442789673805
+            ]
+        ],
+        "tithi": [
+            14,
+            [
+                12,
+                30,
+                28
+            ],
+            15,
+            [
+                34,
+                24,
+                8
+            ]
+        ],
+        "nakshatra": [
+            "Chitra",
+            14,
+            [
+                23,
+                27,
+                56
+            ]
+        ],
+        "yoga": [
+            "Variyan",
+            17
+        ],
+        "karana": [
+            27,
+            -5.421739876888665
+        ],
+        "vaara": "Somavara",
+        "lunar_phase": 164.23044341232003,
+        "masa": [
+            "Jyeshtha",
+            3,
+            false
+        ],
+        "ahargana": 1857369,
+        "ritu": "Greeshma Ritu (Summer)",
+        "samvatsara": 58,
+        "day_duration": [
+            14.29648669436574,
+            [
+                14,
+                17,
+                47
+            ]
+        ]
+    }
+}

@@ -1,4 +1,4 @@
-const CACHE_NAME = 'agyat-astrology-v2.2.3';
+const CACHE_NAME = 'agyat-astrology-v2.2.4';
 const OFFLINE_URL = '/offline.html';
 const ASSETS_TO_CACHE = [
   '/',

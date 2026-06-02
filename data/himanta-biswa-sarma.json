@@ -1,0 +1,225 @@
+{
+    "request": {
+        "name": "Himanta Biswa Sarma",
+        "title": "Politician, Chief Minister",
+        "year": 1969,
+        "month": 2,
+        "day": 1,
+        "hour": 14,
+        "minute": 2,
+        "second": 0,
+        "latitude": 26.75751,
+        "longitude": 94.20306,
+        "location": "Jorhat",
+        "gender": "male",
+        "agyat_rating": "AA",
+        "related": ["chief-minister", "politician"],
+        "about": "Himanta Biswa Sarma (born 1 February 1969) is an Indian politician and lawyer serving as the 15th and the current Chief Minister of Assam since 2021. A former member of the Indian National Congress, Sarma joined the Bharatiya Janata Party on 23 August 2015 and soon was made convenor of NEDA.[1] He is a six time Member of the Assam Legislative Assembly from Jalukbari, having been elected since 2001."
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 72.20587255865317,
+            "ascendant": 3
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 162.40848014403042,
+                "cusp_degree": 12.40848014403042,
+                "motion_speed": -0.0375216475315566,
+                "zodiac": 6,
+                "house": 4,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 288.8941211373713,
+                "cusp_degree": 18.894121137371314,
+                "motion_speed": 1.0144329462839374,
+                "zodiac": 10,
+                "house": 8,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 95.59259219725492,
+                "cusp_degree": 5.592592197254916,
+                "motion_speed": 12.17210053047386,
+                "zodiac": 4,
+                "house": 2,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 335.75837184321466,
+                "cusp_degree": 5.758371843214661,
+                "motion_speed": 0.9732490803825499,
+                "zodiac": 12,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 204.88353385288386,
+                "cusp_degree": 24.883533852883858,
+                "motion_speed": 0.5188745262913688,
+                "zodiac": 7,
+                "house": 5,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 282.21275244757226,
+                "cusp_degree": 12.212752447572257,
+                "motion_speed": -1.1442728483533646,
+                "zodiac": 10,
+                "house": 8,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 356.8341831727536,
+                "cusp_degree": 26.834183172753626,
+                "motion_speed": 0.07177133169927456,
+                "zodiac": 12,
+                "house": 10,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 337.9003960450651,
+                "cusp_degree": 7.900396045065122,
+                "motion_speed": -0.16191369660052862,
+                "zodiac": 12,
+                "house": 10,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 339.52803423613636,
+                "cusp_degree": 9.528034236136364,
+                "motion_speed": -0.05299203434417841,
+                "zodiac": 12,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 159.52803423613636,
+                "motion_speed": -0.05299203434417841,
+                "cusp_degree": 9.528034236136364,
+                "zodiac": 6,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 157.90039604506512,
+                "motion_speed": -0.16191369660052862,
+                "cusp_degree": 7.900396045065122,
+                "zodiac": 6,
+                "house": 4,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1969-02-01",
+        "latitude": 26.75751,
+        "longitude": 94.20306,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2440253.5,
+        "solar_longitude": 288.5334139543745,
+        "lunar_longitude": 91.27369764560497,
+        "lunar_latitude": 4.683873928867731,
+        "sunrise": [
+            2440253.751880106,
+            [
+                6,
+                2,
+                42
+            ],
+            [
+                1969,
+                2,
+                1,
+                6.045122545212507
+            ]
+        ],
+        "sunset": [
+            2440254.2022240916,
+            [
+                16,
+                51,
+                12
+            ],
+            [
+                1969,
+                2,
+                1,
+                16.85337819904089
+            ]
+        ],
+        "moonrise": [
+            2440254.161970969,
+            [
+                15,
+                53,
+                14
+            ],
+            [
+                1969,
+                2,
+                1,
+                15.887303251773119
+            ]
+        ],
+        "moonset": [
+            2440253.7081813174,
+            [
+                4,
+                59,
+                47
+            ],
+            [
+                1969,
+                2,
+                1,
+                4.99635161831975
+            ]
+        ],
+        "tithi": [
+            14,
+            [
+                17,
+                22,
+                21
+            ]
+        ],
+        "nakshatra": [
+            "Ardra",
+            6,
+            [
+                29,
+                25,
+                3
+            ]
+        ],
+        "yoga": [
+            "Priti",
+            1
+        ],
+        "karana": [
+            27,
+            -3.5424637355014283
+        ],
+        "vaara": "Shanivara",
+        "lunar_phase": 162.74028369123045,
+        "masa": [
+            "Magha",
+            11,
+            false
+        ],
+        "ahargana": 1851788,
+        "ritu": "Greeshma Ritu (Summer)",
+        "samvatsara": 42,
+        "day_duration": [
+            10.808255653828382,
+            [
+                10,
+                48,
+                30
+            ]
+        ]
+    }
+}

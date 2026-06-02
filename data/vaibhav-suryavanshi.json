@@ -1,0 +1,225 @@
+{
+    "request": {
+        "name": "Vaibhav Suryavanshi",
+        "title": "Sportsperson, Cricket",
+        "year": 2011,
+        "month": 3,
+        "day": 27,
+        "hour": 16,
+        "minute": 34,
+        "second": 0,
+        "latitude": 25.51,
+        "longitude": 85.39,
+        "location": "Tajpur",
+        "gender": "male",
+        "agyat_rating": "AA",
+        "related": ["cricketer","sportsperson"],
+        "about": "Vaibhav Sooryavanshi (born 27 March 2011), alternatively spelled Suryavanshi, is an Indian cricketer who plays for Bihar in domestic cricket and Rajasthan Royals in the Indian Premier League. As a left-handed batsman, he made his first-class debut in January 2024. He is the youngest Indian List A debutant and the youngest to debut in the Indian Premier League at just the age of 13."
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 143.29084042130253,
+            "ascendant": 5
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 349.98348472535014,
+                "cusp_degree": 19.983484725350138,
+                "motion_speed": 0.24108954036756025,
+                "zodiac": 12,
+                "house": 8,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 342.41588964816503,
+                "cusp_degree": 12.415889648165034,
+                "motion_speed": 0.9899876542354086,
+                "zodiac": 12,
+                "house": 8,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 263.6208114474703,
+                "cusp_degree": 23.620811447470317,
+                "motion_speed": 12.54486591809761,
+                "zodiac": 9,
+                "house": 5,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 306.19171538893556,
+                "cusp_degree": 6.191715388935563,
+                "motion_speed": 1.2007436558735625,
+                "zodiac": 11,
+                "house": 7,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 331.49799104221506,
+                "cusp_degree": 1.4979910422150624,
+                "motion_speed": 0.7822280753541961,
+                "zodiac": 12,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 359.6147866741877,
+                "cusp_degree": 29.614786674187712,
+                "motion_speed": 0.4276413264310122,
+                "zodiac": 12,
+                "house": 8,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 170.44513922431832,
+                "cusp_degree": 20.445139224318325,
+                "motion_speed": -0.07662459170820358,
+                "zodiac": 6,
+                "house": 2,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 243.35880127651845,
+                "cusp_degree": 3.3588012765184487,
+                "motion_speed": -0.015430243925055548,
+                "zodiac": 9,
+                "house": 5,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 243.76324301807372,
+                "cusp_degree": 3.763243018073723,
+                "motion_speed": -0.05299201855556663,
+                "zodiac": 9,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 63.763243018073695,
+                "motion_speed": -0.05299201855556663,
+                "cusp_degree": 3.7632430180736947,
+                "zodiac": 3,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 63.35880127651842,
+                "motion_speed": -0.015430243925055548,
+                "cusp_degree": 3.3588012765184203,
+                "zodiac": 3,
+                "house": 11,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "2011-03-27",
+        "latitude": 25.51,
+        "longitude": 85.39,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2455647.5,
+        "solar_longitude": 341.95934365075726,
+        "lunar_longitude": 257.8028522279517,
+        "lunar_latitude": 1.2590248023632957,
+        "sunrise": [
+            2455647.7427136414,
+            [
+                5,
+                49,
+                30
+            ],
+            [
+                2011,
+                3,
+                27,
+                5.825127393007278
+            ]
+        ],
+        "sunset": [
+            2455648.249182482,
+            [
+                17,
+                58,
+                49
+            ],
+            [
+                2011,
+                3,
+                27,
+                17.980379562824965
+            ]
+        ],
+        "moonrise": [
+            2455647.542280714,
+            [
+                1,
+                0,
+                53
+            ],
+            [
+                2011,
+                3,
+                27,
+                1.0147371366620064
+            ]
+        ],
+        "moonset": [
+            2455647.993816558,
+            [
+                11,
+                51,
+                6
+            ],
+            [
+                2011,
+                3,
+                27,
+                11.851597387343645
+            ]
+        ],
+        "tithi": [
+            23,
+            [
+                6,
+                8,
+                47
+            ]
+        ],
+        "nakshatra": [
+            "Jyeshtha",
+            18,
+            [
+                17,
+                19,
+                9
+            ]
+        ],
+        "yoga": [
+            "Parigha",
+            18
+        ],
+        "karana": [
+            46,
+            -2.674038275509247
+        ],
+        "vaara": "Ravivara",
+        "lunar_phase": 275.8435085771944,
+        "masa": [
+            "Chaitra",
+            1,
+            false
+        ],
+        "ahargana": 1867182,
+        "ritu": "Greeshma Ritu (Summer)",
+        "samvatsara": 24,
+        "day_duration": [
+            12.155252169817686,
+            [
+                12,
+                9,
+                19
+            ]
+        ]
+    }
+}

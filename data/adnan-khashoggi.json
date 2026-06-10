@@ -1,0 +1,227 @@
+{
+    "request": {
+        "name": "Adnan Khashoggi",
+        "title": "Businessperson, Arms Dealer",
+        "year": 1935,
+        "month": 7,
+        "day": 25,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 21.42664,
+        "longitude": 39.82563,
+        "location": "Makkah",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "dod": "06/06/2017",
+        "advanced": "detained, arms-dealing, death by parkinsons disease",
+        "related:": ["arms-dealer", "businessperson", "political-influencer"],
+        "about": "<p>Adnan Khashoggi (Arabic: عدنان خاشقجي, romanized: ‘Adnān Khāshuqjī; 25 July 1935 – 6 June 2017) was a Saudi businessman and arms dealer known for his business dealings, extensive geopolitical influence, and opulent lifestyle, which earned him the moniker \"The Great Gatsby of the Middle East.\" During his peak in the early 1980s, Khashoggi's net worth was estimated at around $4 billion, amassed through his pivotal role as an intermediary between Western defense companies and the Saudi government.</p><p>Khashoggi was the founder of Triad International Holding Company, which held diverse investments worldwide, including in luxury hotels, oil refineries, and real estate. Known for hosting lavish parties attended by celebrities and politicians, Khashoggi's lifestyle made him a media fixture and inspired popular culture, even influencing songs by Queen and appearing in shows like Lifestyles of the Rich and Famous.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 180.4342131156509,
+            "ascendant": 7
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 200.74098666835735,
+                "cusp_degree": 20.74098666835735,
+                "motion_speed": 0.0405930680114378,
+                "zodiac": 7,
+                "house": 1,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 98.52453594599915,
+                "cusp_degree": 8.524535945999148,
+                "motion_speed": 0.9553420773303923,
+                "zodiac": 4,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 40.426354480548284,
+                "cusp_degree": 10.426354480548284,
+                "motion_speed": 13.085566970997489,
+                "zodiac": 2,
+                "house": 8,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 140.89746027834224,
+                "cusp_degree": 20.897460278342237,
+                "motion_speed": 0.6644773075916112,
+                "zodiac": 5,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 184.71087296912853,
+                "cusp_degree": 4.7108729691285305,
+                "motion_speed": 0.5252488999831477,
+                "zodiac": 7,
+                "house": 1,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 82.28458408866906,
+                "cusp_degree": 22.284584088669064,
+                "motion_speed": 1.7316518034662771,
+                "zodiac": 3,
+                "house": 9,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 316.3589372115567,
+                "cusp_degree": 16.35893721155668,
+                "motion_speed": -0.05123021401111553,
+                "zodiac": 11,
+                "house": 5,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 269.04051584406767,
+                "cusp_degree": 29.04051584406767,
+                "motion_speed": 0.013872230589246175,
+                "zodiac": 9,
+                "house": 3,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 268.4150139810508,
+                "cusp_degree": 28.415013981050777,
+                "motion_speed": -0.05299200050177609,
+                "zodiac": 9,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 88.41501398105078,
+                "motion_speed": -0.05299200050177609,
+                "cusp_degree": 28.415013981050777,
+                "zodiac": 3,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 89.04051584406767,
+                "motion_speed": 0.013872230589246175,
+                "cusp_degree": 29.04051584406767,
+                "zodiac": 3,
+                "house": 9,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1935-07-25",
+        "latitude": 21.42664,
+        "longitude": 39.82563,
+        "time_zone": "Asia/Riyadh",
+        "offset": 3,
+        "julday": 2428008.5,
+        "solar_longitude": 98.17085551247396,
+        "lunar_longitude": 35.56229886156491,
+        "lunar_latitude": 4.250444265703988,
+        "sunrise": [
+            2428008.746103376,
+            [
+                5,
+                54,
+                23
+            ],
+            [
+                1935,
+                7,
+                25,
+                5.906481027603149
+            ]
+        ],
+        "sunset": [
+            2428009.291311925,
+            [
+                18,
+                59,
+                29
+            ],
+            [
+                1935,
+                7,
+                25,
+                18.991486195474863
+            ]
+        ],
+        "moonrise": [
+            2428008.557706362,
+            [
+                1,
+                23,
+                6
+            ],
+            [
+                1935,
+                7,
+                25,
+                1.3849526904523373
+            ]
+        ],
+        "moonset": [
+            2428009.12436774,
+            [
+                14,
+                59,
+                5
+            ],
+            [
+                1935,
+                7,
+                25,
+                14.984825760126114
+            ]
+        ],
+        "tithi": [
+            25,
+            [
+                11,
+                3,
+                2
+            ]
+        ],
+        "nakshatra": [
+            "Bharani",
+            2,
+            [
+                28,
+                52,
+                45
+            ]
+        ],
+        "yoga": [
+            "Vriddhi",
+            10
+        ],
+        "karana": [
+            50,
+            -0.3939532908118508
+        ],
+        "vaara": "Guruvara",
+        "lunar_phase": 297.39144334909093,
+        "masa": [
+            "Shravana",
+            5,
+            false
+        ],
+        "ahargana": 1839543,
+        "ritu": "Greeshma Ritu (Summer)",
+        "samvatsara": 9,
+        "day_duration": [
+            13.085005167871714,
+            [
+                13,
+                5,
+                6
+            ]
+        ]
+    }
+}

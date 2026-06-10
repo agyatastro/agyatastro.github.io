@@ -1,0 +1,227 @@
+{
+    "request": {
+        "name": "Chandraswami",
+        "title": "Spiritual Guru, Astrologer",
+        "year": 1949,
+        "month": 10,
+        "day": 30,
+        "hour": 23,
+        "minute": 30,
+        "second": 0,
+        "latitude": 27.56246,
+        "longitude": 76.625,
+        "location": "Alwar",
+        "gender": "male",
+        "agyat_rating": "AA",
+        "related": ["astrologer", "religious-preacher"],
+        "advanced": "convict, detention, powerful, fame, death by multiple organ failure",
+        "about": "<p>Tantrik Jagadacharya Chandraswami (born Nemichand Jain; 29 October 1948– 23 May 2017) was an Indian Tantrik.</p><p>His father Dharamchand Gandhi Jain came from Bagor in Bhilwara district of Rajasthan. The family moved to Hyderabad in 1960s when he was a child. Chandraswami was attracted to the study of Tantra from an early age. He left home when still young to become a student of Upadhyay Amar Muni and the scholar of Tantra, Mahamohopadhyay Gopinath Kaviraj. He later lived in the jungles of Bihar and Kathmandu where he spent time in meditation. He claimed that after four years he obtained extraordinary powers called siddhis.</p><p>Though Chandraswami was by birth a Jain, he became a \"sadhaka\" (worshipper) of the Goddess Kali. He was also interested in interfaith dialogue, and sat on the Board of World Religious Leaders for the Elijah Interfaith Institute.</p>",
+        "dod": "23/05/2017"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 100.44181171431885,
+            "ascendant": 4
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 271.91413097535474,
+                "cusp_degree": 1.9141309753547375,
+                "motion_speed": 0.1245529185625735,
+                "zodiac": 10,
+                "house": 7,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 193.83161314438658,
+                "cusp_degree": 13.83161314438658,
+                "motion_speed": 0.9998491073424061,
+                "zodiac": 7,
+                "house": 4,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 307.1758296714652,
+                "cusp_degree": 7.175829671465181,
+                "motion_speed": 12.163760115532318,
+                "zodiac": 11,
+                "house": 8,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 239.7896784723944,
+                "cusp_degree": 29.7896784723944,
+                "motion_speed": 1.1040938752639342,
+                "zodiac": 8,
+                "house": 5,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 128.94162645645866,
+                "cusp_degree": 8.941626456458664,
+                "motion_speed": 0.5618870734398363,
+                "zodiac": 5,
+                "house": 2,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 180.27822403360378,
+                "cusp_degree": 0.27822403360377734,
+                "motion_speed": 1.6073878199622376,
+                "zodiac": 7,
+                "house": 4,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 143.17637523327485,
+                "cusp_degree": 23.176375233274854,
+                "motion_speed": 0.09477606446054862,
+                "zodiac": 5,
+                "house": 2,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 353.4057010956867,
+                "cusp_degree": 23.40570109568671,
+                "motion_speed": 0.024452592564413646,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 352.2532256347048,
+                "cusp_degree": 22.25322563470479,
+                "motion_speed": -0.052992086052279425,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 172.2532256347048,
+                "motion_speed": -0.052992086052279425,
+                "cusp_degree": 22.25322563470479,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 173.4057010956867,
+                "motion_speed": 0.024452592564413646,
+                "cusp_degree": 23.40570109568671,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1949-10-30",
+        "latitude": 27.56246,
+        "longitude": 76.625,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2433219.5,
+        "solar_longitude": 193.08185419206467,
+        "lunar_longitude": 297.983582167247,
+        "lunar_latitude": -4.345298392384787,
+        "sunrise": [
+            2433219.775210214,
+            [
+                6,
+                36,
+                18
+            ],
+            [
+                1949,
+                10,
+                30,
+                6.605045132339001
+            ]
+        ],
+        "sunset": [
+            2433220.2345955037,
+            [
+                17,
+                37,
+                49
+            ],
+            [
+                1949,
+                10,
+                30,
+                17.63029208779335
+            ]
+        ],
+        "moonrise": [
+            2433220.089720925,
+            [
+                14,
+                9,
+                12
+            ],
+            [
+                1949,
+                10,
+                30,
+                14.153302196413279
+            ]
+        ],
+        "moonset": [
+            2433219.5306341765,
+            [
+                0,
+                44,
+                7
+            ],
+            [
+                1949,
+                10,
+                30,
+                0.7352202348411083
+            ]
+        ],
+        "tithi": [
+            9,
+            [
+                13,
+                10,
+                55
+            ]
+        ],
+        "nakshatra": [
+            "Uttara Ashadha",
+            21,
+            [
+                15,
+                35,
+                40
+            ]
+        ],
+        "yoga": [
+            "Vriddhi",
+            10
+        ],
+        "karana": [
+            18,
+            -0.016609535166992373
+        ],
+        "vaara": "Ravivara",
+        "lunar_phase": 104.90172797518233,
+        "masa": [
+            "Kartika",
+            8,
+            false
+        ],
+        "ahargana": 1844754,
+        "ritu": "Greeshma Ritu (Summer)",
+        "samvatsara": 23,
+        "day_duration": [
+            11.02524695545435,
+            [
+                11,
+                1,
+                31
+            ]
+        ]
+    }
+}

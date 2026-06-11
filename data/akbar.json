@@ -1,0 +1,226 @@
+{
+    "request": {
+        "name": "Akbar",
+        "title": "Mughal emperor",
+        "year": 1542,
+        "month": 10,
+        "day": 15,
+        "hour": 1,
+        "minute": 49,
+        "second": 0,
+        "latitude": 25.36329,
+        "longitude": 69.74184,
+        "location": "Umarkot",
+        "gender": "male",
+        "agyat_rating": "AA",
+        "dod": "14/02/1556",
+        "related": ["monarch"],
+        "about": "<p>Akbar (Jalal-ud-Din Muhammad Akbar, 15 October 1542 – 27 October 1605), also known as Akbar the Great, was the third Mughal emperor, who reigned from 1556 to 1605. Akbar succeeded his father, Humayun, under a regent, Bairam Khan, who helped the young emperor expand and consolidate Mughal domains in the Indian subcontinent. He is generally considered one of the greatest Mughal Emperor.</p><p>Akbar gradually enlarged the Mughal Empire to include much of the Indian subcontinent through Mughal military, political, cultural, and economic dominance. To unify the vast Mughal state, Akbar established a centralised system of administration and adopted a policy of conciliating conquered rulers through marriage and diplomacy. To preserve peace and order in a religiously and culturally diverse empire, he adopted policies that won him the support of his non-Muslim subjects, including abolishing the sectarian tax and appointing them to high civil and military posts.</p><p>Under Akbar, Mughal India developed a strong and stable economy, which tripled in size and wealth, leading to commercial expansion and greater patronage of an Indo-Persian culture. Akbar's courts at Delhi, Agra, and Fatehpur Sikri attracted holy men of many faiths, poets, architects, and artisans, and became known as centres of the arts, letters, and learning. Timurid and Perso-Islamic culture began to merge and blend with indigenous Indian elements into a distinct style of Mughal arts, including painting and architecture. Disillusioned with orthodox Islam and perhaps hoping to bring about religious unity within his empire, Akbar promulgated Din-i Ilahi, a syncretic creed derived mainly from Islam and Hinduism as well as elements of Zoroastrianism and Christianity.</p><p>Akbar was succeeded as emperor by his son, Prince Salim, later known as Jahangir.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 129.03254827333248,
+            "ascendant": 5
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 175.5899274499822,
+                "cusp_degree": 25.589927449982213,
+                "motion_speed": 0.2163953877161538,
+                "zodiac": 6,
+                "house": 2,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 183.33943200132515,
+                "cusp_degree": 3.33943200132515,
+                "motion_speed": 0.9954260441384675,
+                "zodiac": 7,
+                "house": 3,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 127.26191496306245,
+                "cusp_degree": 7.261914963062452,
+                "motion_speed": 14.128999902698059,
+                "zodiac": 5,
+                "house": 1,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 146.62475578013533,
+                "cusp_degree": 26.62475578013533,
+                "motion_speed": 1.200816849327355,
+                "zodiac": 5,
+                "house": 1,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 255.6935691952154,
+                "cusp_degree": 15.693569195215389,
+                "motion_speed": 0.719920518806413,
+                "zodiac": 9,
+                "house": 5,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 170.58527535891906,
+                "cusp_degree": 20.585275358919063,
+                "motion_speed": 1.6616370034471868,
+                "zodiac": 6,
+                "house": 2,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 201.61219127080378,
+                "cusp_degree": 21.612191270803777,
+                "motion_speed": 0.1151965466479108,
+                "zodiac": 7,
+                "house": 3,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 312.299152078708,
+                "cusp_degree": 12.299152078708005,
+                "motion_speed": 0.007983127461028193,
+                "zodiac": 11,
+                "house": 7,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 310.60416397776055,
+                "cusp_degree": 10.60416397776055,
+                "motion_speed": -0.05299240977908583,
+                "zodiac": 11,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 130.60416397776055,
+                "motion_speed": -0.05299240977908583,
+                "cusp_degree": 10.60416397776055,
+                "zodiac": 5,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 132.299152078708,
+                "motion_speed": 0.007983127461028193,
+                "cusp_degree": 12.299152078708005,
+                "zodiac": 5,
+                "house": 1,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1542-10-15",
+        "latitude": 25.36329,
+        "longitude": 69.74184,
+        "time_zone": "Asia/Karachi",
+        "offset": 5,
+        "julday": 2284550.5,
+        "solar_longitude": 183.44948568424627,
+        "lunar_longitude": 128.82672847447043,
+        "lunar_latitude": 0.31446678254983,
+        "sunrise": [
+            2284550.76588302,
+            [
+                6,
+                22,
+                52
+            ],
+            [
+                1542,
+                10,
+                15,
+                6.381192483007908
+            ]
+        ],
+        "sunset": [
+            2284551.2437839685,
+            [
+                17,
+                51,
+                3
+            ],
+            [
+                1542,
+                10,
+                15,
+                17.85081524401903
+            ]
+        ],
+        "moonrise": [
+            2284550.591842107,
+            [
+                2,
+                12,
+                15
+            ],
+            [
+                1542,
+                10,
+                15,
+                2.2042105682194233
+            ]
+        ],
+        "moonset": [
+            2284551.1433600527,
+            [
+                15,
+                26,
+                26
+            ],
+            [
+                1542,
+                10,
+                15,
+                15.440641265362501
+            ]
+        ],
+        "tithi": [
+            26,
+            [
+                18,
+                18,
+                47
+            ]
+        ],
+        "nakshatra": [
+            "Ashlesha",
+            9,
+            [
+                19,
+                30,
+                9
+            ]
+        ],
+        "yoga": [
+            "Shukla",
+            23
+        ],
+        "karana": [
+            51,
+            -2.8985376808660703
+        ],
+        "vaara": "Guruvara",
+        "lunar_phase": 305.37724279022416,
+        "masa": [
+            "Ashwin",
+            7,
+            false
+        ],
+        "ahargana": 1696085,
+        "ritu": "Greeshma Ritu (Summer)",
+        "samvatsara": 36,
+        "day_duration": [
+            11.469622761011124,
+            [
+                11,
+                28,
+                11
+            ]
+        ]
+    }
+}

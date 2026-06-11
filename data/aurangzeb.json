@@ -1,0 +1,226 @@
+{
+    "request": {
+        "name": "Aurangzeb",
+        "title": "Mughal emperor",
+        "year": 1618,
+        "month": 11,
+        "day": 3,
+        "hour": 14,
+        "minute": 5,
+        "second": 0,
+        "latitude": 22.5,
+        "longitude": 74.15,
+        "location": "Ahmedabad",
+        "dod": "03/03/1707",
+        "gender": "male",
+        "agyat_rating": "AA",
+        "related": ["monarch"],
+        "about": "<p>Alamgir I (Muhi al-Din Muhammad; 3 November 1618 – 3 March 1707), commonly known by the title Aurangzeb, was the sixth Mughal emperor, reigning from 1658 until his death in 1707. Under his reign, the Mughal Empire reached its greatest extent, with territory spanning nearly the entirety of the Indian subcontinent.</p><p>Aurangzeb and the Mughals belonged to a branch of the Timurid dynasty. He held administrative and military posts under his father Shah Jahan (r. 1628–1658) and gained recognition as an accomplished military commander. Aurangzeb served as the viceroy of the Deccan in 1636–1637 and the governor of Gujarat in 1645–1647. He jointly administered the provinces of Multan and Sindh in 1648–1652 and continued expeditions into the neighbouring Safavid territories. In September 1657, Shah Jahan nominated his eldest and liberalist son Dara Shikoh as his successor, a move repudiated by Aurangzeb, who proclaimed himself emperor in February 1658. In April 1658, Aurangzeb defeated the allied army of Shikoh and the Kingdom of Marwar at the Battle of Dharmat. Aurangzeb's decisive victory at the Battle of Samugarh in May 1658 cemented his sovereignty and his suzerainty was acknowledged throughout the Empire. After Shah Jahan recovered from illness in July 1658, Aurangzeb declared him incompetent to rule and imprisoned his father in the Agra Fort. Following this, Aurangzeb had Dara Shikoh executed by beheading and his head was placed in a box and presented to their imprisoned father.</p><p>Aurangzeb's reign is characterised by a period of rapid military expansion, with several dynasties and states being overthrown by the Mughals. The Mughals also surpassed Qing China as the world's largest economy and biggest manufacturing power. The Mughal military gradually improved and became one of the strongest armies in the world. A staunch Muslim, Aurangzeb is credited with the construction of numerous mosques and patronising works of Arabic calligraphy. He successfully imposed the Fatawa-i Alamgiri as the principal regulating body of the empire and prohibited religiously forbidden activities in Islam. Although Aurangzeb suppressed several local revolts, he maintained cordial relations with foreign governments.</p><p>His empire was also one of the largest in Indian history. However, his emperorship has a complicated legacy. He is often criticized for his actions against non-Muslims, including his ordering of the demolition of non-Muslim schools and temples and the reimposition of the jizya, a tax on non-Muslims, which had been suspended for the previous 100 years by his great-grandfather Akbar. He has also been criticized for his conservative view of Islam, with some arguing that he abandoned the legacy of pluralism and tolerance of the earlier Mughal emperors. Others, however, reject these assertions, arguing that he opposed bigotry against Hindus, Sikhs and Shia Muslims and that he employed significantly more Hindus in his imperial bureaucracy than his predecessors.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 302.34203693705666,
+            "ascendant": 11
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 309.5064677450499,
+                "cusp_degree": 9.506467745049918,
+                "motion_speed": 0.034610378057485444,
+                "zodiac": 11,
+                "house": 1,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 202.30536280477713,
+                "cusp_degree": 22.305362804777133,
+                "motion_speed": 1.0045173775991794,
+                "zodiac": 7,
+                "house": 9,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 33.26639234677392,
+                "cusp_degree": 3.2663923467739195,
+                "motion_speed": 15.320712352725062,
+                "zodiac": 2,
+                "house": 4,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 245.73427110806762,
+                "cusp_degree": 5.734271108067617,
+                "motion_speed": 1.1615002674796393,
+                "zodiac": 9,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 136.31626005000805,
+                "cusp_degree": 16.316260050008054,
+                "motion_speed": 0.5559502504329351,
+                "zodiac": 5,
+                "house": 7,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 205.15669337692412,
+                "cusp_degree": 25.156693376924125,
+                "motion_speed": -1.3118060259914397,
+                "zodiac": 7,
+                "house": 9,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 48.04599481998529,
+                "cusp_degree": 18.04599481998529,
+                "motion_speed": -0.0695467885482759,
+                "zodiac": 2,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 277.78112265826485,
+                "cusp_degree": 7.781122658264849,
+                "motion_speed": -0.1672845167742227,
+                "zodiac": 10,
+                "house": 12,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 278.5571213928806,
+                "cusp_degree": 8.557121392880617,
+                "motion_speed": -0.05299237042312,
+                "zodiac": 10,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 98.55712139288062,
+                "motion_speed": -0.05299237042312,
+                "cusp_degree": 8.557121392880617,
+                "zodiac": 4,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 97.78112265826485,
+                "motion_speed": -0.1672845167742227,
+                "cusp_degree": 7.781122658264849,
+                "zodiac": 4,
+                "house": 6,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1618-11-03",
+        "latitude": 22.5,
+        "longitude": 74.15,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2312328.5,
+        "solar_longitude": 201.9625074969251,
+        "lunar_longitude": 28.03302321621631,
+        "lunar_latitude": 4.710771126265042,
+        "sunrise": [
+            2312328.7797551057,
+            [
+                6,
+                42,
+                51
+            ],
+            [
+                1618,
+                11,
+                3,
+                6.714122537523508
+            ]
+        ],
+        "sunset": [
+            2312329.244127688,
+            [
+                17,
+                51,
+                33
+            ],
+            [
+                1618,
+                11,
+                3,
+                17.859064511954784
+            ]
+        ],
+        "moonrise": [
+            2312329.278065649,
+            [
+                18,
+                40,
+                25
+            ],
+            [
+                1618,
+                11,
+                3,
+                18.673575572669506
+            ]
+        ],
+        "moonset": [
+            2312328.8020258183,
+            [
+                7,
+                14,
+                55
+            ],
+            [
+                1618,
+                11,
+                3,
+                7.2486196383833885
+            ]
+        ],
+        "tithi": [
+            16,
+            [
+                16,
+                39,
+                3
+            ]
+        ],
+        "nakshatra": [
+            "Ashwini",
+            1,
+            [
+                11,
+                30,
+                22
+            ]
+        ],
+        "yoga": [
+            "Variyan",
+            17
+        ],
+        "karana": [
+            31,
+            -4.079174180610863
+        ],
+        "vaara": "Shanivara",
+        "lunar_phase": 186.07051571929122,
+        "masa": [
+            "Kartika",
+            8,
+            false
+        ],
+        "ahargana": 1723863,
+        "ritu": "Greeshma Ritu (Summer)",
+        "samvatsara": 52,
+        "day_duration": [
+            11.144941974431276,
+            [
+                11,
+                8,
+                42
+            ]
+        ]
+    }
+}

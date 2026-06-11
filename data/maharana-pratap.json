@@ -1,0 +1,226 @@
+{
+    "request": {
+        "name": "Maharana Pratap",
+        "title": "King (Rana) of Mewar, Monarch",
+        "year": 1540,
+        "month": 5,
+        "day": 9,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 25.07145,
+        "longitude": 73.8798,
+        "location": "Rajsamand",
+        "gender": "male",
+        "dod": "19/01/1597",
+        "agyat_rating": "AX",
+        "related": ["monarch"],
+        "about": "Pratap Singh I (18 May 1540 – 19 January 1597), popularly known as Maharana Pratap (IPA: [məɦaːˈɾaːɳaː pɾəˈtaːp]), was king of the Kingdom of Mewar, in north-western India in the present-day state of Rajasthan, from 1572 until his death in 1597. He is notable for leading the Rajput resistance against the expansionist policy of the Mughal Emperor Akbar including the battle of Haldighati."
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 111.23686885224936,
+            "ascendant": 4
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 95.86052257247024,
+                "cusp_degree": 5.860522572470245,
+                "motion_speed": 0.14483822759467244,
+                "zodiac": 4,
+                "house": 1,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 30.768917636670395,
+                "cusp_degree": 0.7689176366703947,
+                "motion_speed": 0.9633821480367124,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 300.04973347873295,
+                "cusp_degree": 0.04973347873294642,
+                "motion_speed": 12.094147227254393,
+                "zodiac": 11,
+                "house": 8,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 61.35797152761251,
+                "cusp_degree": 1.3579715276125128,
+                "motion_speed": 1.1992337296222009,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 153.99953943423967,
+                "cusp_degree": 3.999539434239665,
+                "motion_speed": 0.08389308342530823,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 42.55551935483241,
+                "cusp_degree": 12.555519354832413,
+                "motion_speed": 2.0268092901913795,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 171.5322963494994,
+                "cusp_degree": 21.532296349499404,
+                "motion_speed": -0.0505123431561731,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 358.798374679394,
+                "cusp_degree": 28.798374679393987,
+                "motion_speed": -0.0015048561596146966,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 357.6950986722483,
+                "cusp_degree": 27.69509867224832,
+                "motion_speed": -0.05299244509096121,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 177.69509867224838,
+                "motion_speed": -0.05299244509096121,
+                "cusp_degree": 27.695098672248378,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 178.798374679394,
+                "motion_speed": -0.0015048561596146966,
+                "cusp_degree": 28.798374679393987,
+                "zodiac": 6,
+                "house": 3,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1540-05-09",
+        "latitude": 25.07145,
+        "longitude": 73.8798,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2283661.5,
+        "solar_longitude": 30.52369070116134,
+        "lunar_longitude": 296.97704459377843,
+        "lunar_latitude": -4.594171318553135,
+        "sunrise": [
+            2283661.7478448544,
+            [
+                5,
+                56,
+                54
+            ],
+            [
+                1540,
+                5,
+                9,
+                5.948276504874229
+            ]
+        ],
+        "sunset": [
+            2283662.294384971,
+            [
+                19,
+                3,
+                55
+            ],
+            [
+                1540,
+                5,
+                9,
+                19.065239299088717
+            ]
+        ],
+        "moonrise": [
+            2283661.5422439477,
+            [
+                1,
+                0,
+                50
+            ],
+            [
+                1540,
+                5,
+                9,
+                1.0138547457754612
+            ]
+        ],
+        "moonset": [
+            2283662.012777804,
+            [
+                12,
+                18,
+                24
+            ],
+            [
+                1540,
+                5,
+                9,
+                12.306667294353247
+            ]
+        ],
+        "tithi": [
+            23,
+            [
+                26,
+                27,
+                39
+            ]
+        ],
+        "nakshatra": [
+            "Uttara Ashadha",
+            21,
+            [
+                6,
+                25,
+                40
+            ]
+        ],
+        "yoga": [
+            "Brahma",
+            24
+        ],
+        "karana": [
+            44,
+            -5.206331027811132
+        ],
+        "vaara": "Guruvara",
+        "lunar_phase": 266.4533538926171,
+        "masa": [
+            "Vaisakha",
+            2,
+            false
+        ],
+        "ahargana": 1695196,
+        "ritu": "Greeshma Ritu (Summer)",
+        "samvatsara": 33,
+        "day_duration": [
+            13.116962794214487,
+            [
+                13,
+                7,
+                1
+            ]
+        ]
+    }
+}

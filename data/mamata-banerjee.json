@@ -1,0 +1,226 @@
+{
+    "request": {
+        "name": "Mamata Banerjee",
+        "title": "Chief Minister, Politician",
+        "year": 1949,
+        "month": 10,
+        "day": 6,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 22.56263,
+        "longitude": 88.36304,
+        "location": "Kolkata",
+        "gender": "female",
+        "agyat_rating": "CX",
+        "related": ["chief-minister", "politician"],
+        "advanced": "marriage, unmarried",
+        "about": "<p>Mamata Banerjee (Bengali pronunciation: [ˈmɔmot̪aˑ ˈbɔnd̪ːoˌpad̪ːʱae̯]; born 5 January 1955) is an Indian politician and lawyer who served as the eighth chief minister of West Bengal from 2011 to 2026. She was the first and only woman to hold that office. Being the founder and president of the All India Trinamool Congress (AITC), she previously served as an Union Cabinet Minister.</p><p>She founded the AITC in 1998 after separating from the Indian National Congress (I), and became its second president later in 2001. She often refers to herself as Didi (meaning, elder sister in Bengali). She made history as the first sitting Chief Minister of India to argue as a lawyer in the Supreme Court. Banerjee previously served twice as Minister of Railways, becoming the first woman to do so. She was also the second female Minister of Coal, and Minister of Human Resource Development, Youth Affairs and Sports, Women and Child Development in the cabinet of the Indian government.</p><p>She rose to prominence after opposing the erstwhile land acquisition policies for industrialisation of the Left Front-led government in West Bengal for Special Economic Zones at the cost of agriculturalists and farmers at Singur. In 2011, Banerjee pulled off a landslide victory for the AITC alliance in West Bengal, defeating the 34-year-old Communist Party of India (Marxist)-led Left Front government. She led her party to a landslide victory in the 2021 West Bengal assembly polls.</p><p>She served as a member of West Bengal Legislative Assembly from Bhabanipur from 2011 to 2021. She contested the Nandigram assembly seat and lost to the BJP's Suvendu Adhikari in the 2021 state election, though her party won a large majority of seats. She is the third West Bengal Chief Minister to lose an election from her own constituency, after Prafulla Chandra Sen in 1967 and Buddhadeb Bhattacharjee in 2011. She got elected as member of West Bengal Legislative Assembly again from Bhabanipur constituency in the bypoll. Banerjee was fourteenth of the 18 female Indian chief ministers.</p><p>Banerjee became the second-longest-serving Chief Minister of West Bengal after Jyoti Basu on 26 October 2025, surpassing Bidhan Chandra Roy. She also became the second-longest-serving female Chief Minister in India on 22 September 2025, surpassing J. Jayalalithaa, though she remained behind Sheila Dikshit.</p><p>Banerjee lost her seat in the 2026 assembly elections, and the Trinamool Congress was defeated. Having refused to resign voluntarily, her tenure as chief minister came to an end as the assembly was dissolved by the governor upon the conclusion of its five-year term on 7 May 2026.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 256.2541015522396,
+            "ascendant": 9
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 269.67692265819335,
+                "cusp_degree": 29.676922658193348,
+                "motion_speed": 0.05589233545808174,
+                "zodiac": 9,
+                "house": 1,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 169.5160671695355,
+                "cusp_degree": 19.51606716953549,
+                "motion_speed": 0.986018575637545,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 340.32687987669345,
+                "cusp_degree": 10.326879876693454,
+                "motion_speed": 11.833203875607301,
+                "zodiac": 12,
+                "house": 4,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 212.05429710686994,
+                "cusp_degree": 2.0542971068699387,
+                "motion_speed": 1.1556763628706248,
+                "zodiac": 8,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 114.72011446251197,
+                "cusp_degree": 24.720114462511972,
+                "motion_speed": 0.5978200817447934,
+                "zodiac": 4,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 164.4487845049396,
+                "cusp_degree": 14.448784504939596,
+                "motion_speed": -1.0176438720482373,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 140.57495113091395,
+                "cusp_degree": 20.574951130913945,
+                "motion_speed": 0.1157595832418939,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 353.4964849256275,
+                "cusp_degree": 23.4964849256275,
+                "motion_speed": -0.0038271648320563913,
+                "zodiac": 12,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 353.5504271215944,
+                "cusp_degree": 23.550427121594396,
+                "motion_speed": -0.052992053014741476,
+                "zodiac": 12,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 173.55042712159434,
+                "motion_speed": -0.052992053014741476,
+                "cusp_degree": 23.55042712159434,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 173.49648492562756,
+                "motion_speed": -0.0038271648320563913,
+                "cusp_degree": 23.496484925627556,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1949-10-06",
+        "latitude": 22.56263,
+        "longitude": 88.36304,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2433195.5,
+        "solar_longitude": 169.24904079788328,
+        "lunar_longitude": 337.1199032142822,
+        "lunar_latitude": -1.496641334180853,
+        "sunrise": [
+            2433195.7312861253,
+            [
+                5,
+                33,
+                3
+            ],
+            [
+                1949,
+                10,
+                6,
+                5.550867006182671
+            ]
+        ],
+        "sunset": [
+            2433196.219618032,
+            [
+                17,
+                16,
+                15
+            ],
+            [
+                1949,
+                10,
+                6,
+                17.270832773298025
+            ]
+        ],
+        "moonrise": [
+            2433196.2049638433,
+            [
+                16,
+                55,
+                9
+            ],
+            [
+                1949,
+                10,
+                6,
+                16.919132240116596
+            ]
+        ],
+        "moonset": [
+            2433195.693567764,
+            [
+                4,
+                38,
+                44
+            ],
+            [
+                1949,
+                10,
+                6,
+                4.645626336336136
+            ]
+        ],
+        "tithi": [
+            14,
+            [
+                5,
+                50,
+                10
+            ]
+        ],
+        "nakshatra": [
+            "Shatabhisha",
+            24,
+            [
+                17,
+                44,
+                23
+            ]
+        ],
+        "yoga": [
+            "Dhruva",
+            11
+        ],
+        "karana": [
+            28,
+            -2.381793128616465
+        ],
+        "vaara": "Guruvara",
+        "lunar_phase": 167.87086241639892,
+        "masa": [
+            "Ashwin",
+            7,
+            false
+        ],
+        "ahargana": 1844730,
+        "ritu": "Greeshma Ritu (Summer)",
+        "samvatsara": 23,
+        "day_duration": [
+            11.719965767115355,
+            [
+                11,
+                43,
+                12
+            ]
+        ]
+    }
+}

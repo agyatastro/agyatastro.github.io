@@ -1,0 +1,225 @@
+{
+    "request": {
+        "name": "Brendan Eich",
+        "title": "Computer Engineer, Creator of Javascript",
+        "year": 1961,
+        "month": 7,
+        "day": 4,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 40.44062,
+        "longitude": -79.99589,
+        "location": "Pittsburgh",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "related": ["programmer", "engineer", "scientist"],
+        "about": "Brendan Eich (/ˈaɪk/ EYEK; born July 4, 1961)[1] is an American computer programmer and technology executive. He created the JavaScript programming language and co-founded the Mozilla project, the Mozilla Foundation, and the Mozilla Corporation. He served as the Mozilla Corporation's chief technical officer before he was appointed chief executive officer, but resigned shortly after his appointment due to pressure over his opposition to same-sex marriage.[2] He subsequently became the cofounder and CEO of Brave browser."
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 150.65567059547033,
+            "ascendant": 6
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 281.47128071912545,
+                "cusp_degree": 11.471280719125446,
+                "motion_speed": -0.1097397446578062,
+                "zodiac": 10,
+                "house": 5,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 79.09668082629298,
+                "cusp_degree": 19.09668082629298,
+                "motion_speed": 0.9532786721747334,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 342.94787620777834,
+                "cusp_degree": 12.947876207778336,
+                "motion_speed": 13.8316395061266,
+                "zodiac": 12,
+                "house": 7,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 34.05481132835998,
+                "cusp_degree": 4.054811328359982,
+                "motion_speed": 1.0365436534424495,
+                "zodiac": 2,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 130.03876113149843,
+                "cusp_degree": 10.038761131498433,
+                "motion_speed": 0.594027872191685,
+                "zodiac": 5,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 68.7161220752086,
+                "cusp_degree": 8.716122075208602,
+                "motion_speed": -0.3177712837104443,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 274.2978180264859,
+                "cusp_degree": 4.297818026485913,
+                "motion_speed": -0.06985746373009216,
+                "zodiac": 10,
+                "house": 5,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 124.89502403345469,
+                "cusp_degree": 4.895024033454689,
+                "motion_speed": 0.009598387600105285,
+                "zodiac": 5,
+                "house": 12,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 126.2465259332377,
+                "cusp_degree": 6.246525933237706,
+                "motion_speed": -0.052992107957112726,
+                "zodiac": 5,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 306.2465259332377,
+                "motion_speed": -0.052992107957112726,
+                "cusp_degree": 6.246525933237706,
+                "zodiac": 11,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 304.89502403345466,
+                "motion_speed": 0.009598387600105285,
+                "cusp_degree": 4.895024033454661,
+                "zodiac": 11,
+                "house": 6,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1961-07-04",
+        "latitude": 40.44062,
+        "longitude": -79.99589,
+        "time_zone": "America/New_York",
+        "offset": -4,
+        "julday": 2437484.5,
+        "solar_longitude": 78.4611810544076,
+        "lunar_longitude": 333.65486778630014,
+        "lunar_latitude": -2.48952173015866,
+        "sunrise": [
+            2437484.749917004,
+            [
+                5,
+                59,
+                53
+            ],
+            [
+                1961,
+                7,
+                4,
+                5.998008091002703
+            ]
+        ],
+        "sunset": [
+            2437485.36696618,
+            [
+                20,
+                48,
+                26
+            ],
+            [
+                1961,
+                7,
+                4,
+                20.80718832090497
+            ]
+        ],
+        "moonrise": [
+            2437484.521719891,
+            [
+                0,
+                31,
+                17
+            ],
+            [
+                1961,
+                7,
+                4,
+                0.5212773866951466
+            ]
+        ],
+        "moonset": [
+            2437485.044941964,
+            [
+                13,
+                4,
+                43
+            ],
+            [
+                1961,
+                7,
+                4,
+                13.078607138246298
+            ]
+        ],
+        "tithi": [
+            22,
+            [
+                22,
+                26,
+                50
+            ]
+        ],
+        "nakshatra": [
+            "Shatabhisha",
+            24,
+            [
+                12,
+                38,
+                42
+            ]
+        ],
+        "yoga": [
+            "Sobhana",
+            4
+        ],
+        "karana": [
+            43,
+            -0.4560656017592919
+        ],
+        "vaara": "Mangalvara",
+        "lunar_phase": 255.19368673189254,
+        "masa": [
+            "Ashadha",
+            4,
+            false
+        ],
+        "ahargana": 1849019,
+        "ritu": "Greeshma Ritu (Summer)",
+        "samvatsara": 35,
+        "day_duration": [
+            14.809180229902267,
+            [
+                14,
+                48,
+                33
+            ]
+        ]
+    }
+}

@@ -1,0 +1,231 @@
+{
+    "request": {
+        "name": "Guido van Rossum",
+        "title": "Computer Engineer, Creator of Python",
+        "year": 1956,
+        "month": 1,
+        "day": 31,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 52.07667,
+        "longitude": 4.29861,
+        "location": "The Hague",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "related": ["programmer", "engineer", "scientist"],
+        "about": "Guido van Rossum (Dutch: [ˈxidoː vɑn ˈrɔsʏm]; born 31 January 1956) is a Dutch programmer. He is the creator of the Python programming language, for which he was the \"benevolent dictator for life\" (BDFL) until he stepped down from the position on 12 July 2018. He remained a member of the Python Steering Council through 2019, and withdrew from nominations for the 2020 election."
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 35.64184969823344,
+            "ascendant": 2
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 125.30728347056433,
+                "cusp_degree": 5.307283470564329,
+                "motion_speed": -0.12025191417762739,
+                "zodiac": 5,
+                "house": 4,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 287.3044737191042,
+                "cusp_degree": 17.30447371910418,
+                "motion_speed": 1.0150371072573154,
+                "zodiac": 10,
+                "house": 9,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 159.07858144071812,
+                "cusp_degree": 9.078581440718125,
+                "motion_speed": 13.638973735910472,
+                "zodiac": 6,
+                "house": 5,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 323.65605367025364,
+                "cusp_degree": 23.65605367025364,
+                "motion_speed": 1.212049927512231,
+                "zodiac": 11,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 228.12729594720875,
+                "cusp_degree": 18.12729594720875,
+                "motion_speed": 0.6561788683542326,
+                "zodiac": 8,
+                "house": 7,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 278.7003492643204,
+                "cusp_degree": 8.70034926432038,
+                "motion_speed": -1.0685453198267876,
+                "zodiac": 10,
+                "house": 9,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 218.1945550146335,
+                "cusp_degree": 8.194555014633494,
+                "motion_speed": 0.0651802920198233,
+                "zodiac": 8,
+                "house": 7,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 232.4529584387771,
+                "cusp_degree": 22.452958438777102,
+                "motion_speed": -0.10815709669094234,
+                "zodiac": 8,
+                "house": 7,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 231.234821614088,
+                "cusp_degree": 21.23482161408799,
+                "motion_speed": -0.05299211315898663,
+                "zodiac": 8,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 51.23482161408799,
+                "motion_speed": -0.05299211315898663,
+                "cusp_degree": 21.23482161408799,
+                "zodiac": 2,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 52.4529584387771,
+                "motion_speed": -0.10815709669094234,
+                "cusp_degree": 22.452958438777102,
+                "zodiac": 2,
+                "house": 1,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1956-01-31",
+        "latitude": 52.07667,
+        "longitude": 4.29861,
+        "time_zone": "Europe/Amsterdam",
+        "offset": 2,
+        "julday": 2435503.5,
+        "solar_longitude": 286.8392261352191,
+        "lunar_longitude": 152.77577300498734,
+        "lunar_latitude": -5.029197212909154,
+        "sunrise": [
+            2435503.897570734,
+            [
+                9,
+                32,
+                30
+            ],
+            [
+                1956,
+                1,
+                31,
+                9.54169761389494
+            ]
+        ],
+        "sunset": [
+            2435504.2642675703,
+            [
+                18,
+                20,
+                33
+            ],
+            [
+                1956,
+                1,
+                31,
+                18.34242168813944
+            ]
+        ],
+        "moonrise": [
+            2435504.493475085,
+            [
+                23,
+                50,
+                36
+            ],
+            [
+                1956,
+                1,
+                31,
+                23.843402042984962
+            ]
+        ],
+        "moonset": [
+            2435503.9628641903,
+            [
+                11,
+                6,
+                31
+            ],
+            [
+                1956,
+                1,
+                31,
+                11.10874056816101
+            ]
+        ],
+        "tithi": [
+            19,
+            [
+                13,
+                27,
+                19
+            ],
+            20,
+            [
+                36,
+                43,
+                14
+            ]
+        ],
+        "nakshatra": [
+            "Purva Phalguni",
+            11,
+            [
+                32,
+                20,
+                21
+            ]
+        ],
+        "yoga": [
+            "Sukarma",
+            6
+        ],
+        "karana": [
+            38,
+            -3.006140488653074
+        ],
+        "vaara": "Mangalvara",
+        "lunar_phase": 225.93654686976822,
+        "masa": [
+            "Magha",
+            11,
+            false
+        ],
+        "ahargana": 1847038,
+        "ritu": "Greeshma Ritu (Summer)",
+        "samvatsara": 29,
+        "day_duration": [
+            8.8007240742445,
+            [
+                8,
+                48,
+                3
+            ]
+        ]
+    }
+}

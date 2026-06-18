@@ -1,0 +1,231 @@
+{
+    "request": {
+        "name": "James Gosling",
+        "title": "Computer Engineer, Creator of Java",
+        "year": 1955,
+        "month": 5,
+        "day": 19,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 51.05011,
+        "longitude": -114.08529,
+        "location": "Calgary",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "related": ["programmer", "engineer", "scientist"],
+        "about": "<p>James Arthur Gosling (born 19 May 1955) is a Canadian computer scientist, best known as the founder and lead designer behind the Java programming language.</p><p>Gosling was elected a member of the National Academy of Engineering in 2004 for the conception and development of the architecture for the Java programming language and for contributions to windowing systems.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 126.78959888087968,
+            "ascendant": 5
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 92.41140995018637,
+                "cusp_degree": 2.4114099501863677,
+                "motion_speed": 0.1622547309945256,
+                "zodiac": 4,
+                "house": 12,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 34.780628353823055,
+                "cusp_degree": 4.7806283538230545,
+                "motion_speed": 0.9628564094465847,
+                "zodiac": 2,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 5.410889493667505,
+                "cusp_degree": 5.410889493667505,
+                "motion_speed": 14.819582487614685,
+                "zodiac": 1,
+                "house": 9,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 7.034510966289812,
+                "cusp_degree": 7.034510966289812,
+                "motion_speed": 1.207199287054989,
+                "zodiac": 1,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 62.66268751215435,
+                "cusp_degree": 2.662687512154349,
+                "motion_speed": 0.6578453461268458,
+                "zodiac": 3,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 56.92126247650987,
+                "cusp_degree": 26.921262476509867,
+                "motion_speed": 1.1142114292865346,
+                "zodiac": 2,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 203.8537887407013,
+                "cusp_degree": 23.853788740701305,
+                "motion_speed": -0.0732393109561289,
+                "zodiac": 7,
+                "house": 3,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 243.3970567866594,
+                "cusp_degree": 3.397056786659391,
+                "motion_speed": -0.06743606621002923,
+                "zodiac": 9,
+                "house": 5,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 244.83611565588754,
+                "cusp_degree": 4.836115655887539,
+                "motion_speed": -0.05299208072731151,
+                "zodiac": 9,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 64.83611565588751,
+                "motion_speed": -0.05299208072731151,
+                "cusp_degree": 4.836115655887511,
+                "zodiac": 3,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 63.39705678665939,
+                "motion_speed": -0.06743606621002923,
+                "cusp_degree": 3.397056786659391,
+                "zodiac": 3,
+                "house": 11,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1955-05-19",
+        "latitude": 51.05011,
+        "longitude": -114.08529,
+        "time_zone": "America/Edmonton",
+        "offset": -6,
+        "julday": 2435246.5,
+        "solar_longitude": 34.01826283468464,
+        "lunar_longitude": 353.79279132635975,
+        "lunar_latitude": 4.898158768709906,
+        "sunrise": [
+            2435246.7415096518,
+            [
+                5,
+                47,
+                46
+            ],
+            [
+                1955,
+                5,
+                19,
+                5.796231642365456
+            ]
+        ],
+        "sunset": [
+            2435247.3878408624,
+            [
+                21,
+                18,
+                29
+            ],
+            [
+                1955,
+                5,
+                19,
+                21.308180697262287
+            ]
+        ],
+        "moonrise": [
+            2435246.688930048,
+            [
+                4,
+                32,
+                4
+            ],
+            [
+                1955,
+                5,
+                19,
+                4.534321155399084
+            ]
+        ],
+        "moonset": [
+            2435247.285717279,
+            [
+                18,
+                51,
+                26
+            ],
+            [
+                1955,
+                5,
+                19,
+                18.85721470043063
+            ]
+        ],
+        "tithi": [
+            27,
+            [
+                13,
+                8,
+                31
+            ],
+            28,
+            [
+                33,
+                43,
+                58
+            ]
+        ],
+        "nakshatra": [
+            "Uttara Bhadrapada",
+            26,
+            [
+                20,
+                14,
+                49
+            ]
+        ],
+        "yoga": [
+            "Ayushman",
+            2
+        ],
+        "karana": [
+            53,
+            -5.060798908737638
+        ],
+        "vaara": "Guruvara",
+        "lunar_phase": 319.7745284916751,
+        "masa": [
+            "Jyeshtha",
+            3,
+            false
+        ],
+        "ahargana": 1846781,
+        "ritu": "Greeshma Ritu (Summer)",
+        "samvatsara": 28,
+        "day_duration": [
+            15.511949054896832,
+            [
+                15,
+                30,
+                43
+            ]
+        ]
+    }
+}

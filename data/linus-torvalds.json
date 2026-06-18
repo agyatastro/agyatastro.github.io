@@ -1,0 +1,231 @@
+{
+    "request": {
+        "name": "Linus Torvalds",
+        "title": "Computer Engineer, Creator of Linux OS",
+        "year": 1969,
+        "month": 12,
+        "day": 28,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 60.16952,
+        "longitude": 24.93545,
+        "location": "Helsinki",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "related": ["programmer", "engineer", "scientist"],
+        "about": "<p>Linus Benedict Torvalds (born 28 December 1969) is a Finnish and American software engineer who is the creator and lead developer of the Linux kernel since 1991. He also created the distributed version control system Git.</p><p>Torvalds was one of the recipients of the 2012 Millennium Technology Prize \"in recognition of his creation of a new open source operating system for computers leading to the widely used Linux kernel\". He is also the recipient of the 2014 IEEE Computer Society Computer Pioneer Award and the 2018 IEEE Masaru Ibuka Consumer Electronics Award.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 343.8432220868836,
+            "ascendant": 12
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 188.38264925184032,
+                "cusp_degree": 8.38264925184032,
+                "motion_speed": 0.14401124416572134,
+                "zodiac": 7,
+                "house": 8,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 253.06591535156556,
+                "cusp_degree": 13.065915351565565,
+                "motion_speed": 1.0188285330682896,
+                "zodiac": 9,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 123.93838278239303,
+                "cusp_degree": 3.9383827823930346,
+                "motion_speed": 11.817115943764783,
+                "zodiac": 5,
+                "house": 6,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 246.50583445621163,
+                "cusp_degree": 6.50583445621163,
+                "motion_speed": 1.2581929216850265,
+                "zodiac": 9,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 316.12459664722417,
+                "cusp_degree": 16.124596647224166,
+                "motion_speed": 0.7459857009948404,
+                "zodiac": 11,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 272.7560992327078,
+                "cusp_degree": 2.756099232707811,
+                "motion_speed": 0.984370232119886,
+                "zodiac": 10,
+                "house": 11,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 8.654421805931596,
+                "cusp_degree": 8.654421805931596,
+                "motion_speed": -0.012078200903833658,
+                "zodiac": 1,
+                "house": 2,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 320.6325079938767,
+                "cusp_degree": 20.632507993876686,
+                "motion_speed": -0.043371193148612805,
+                "zodiac": 11,
+                "house": 12,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 322.03742139232395,
+                "cusp_degree": 22.03742139232395,
+                "motion_speed": -0.05299201701489025,
+                "zodiac": 11,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 142.03742139232395,
+                "motion_speed": -0.05299201701489025,
+                "cusp_degree": 22.03742139232395,
+                "zodiac": 5,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 140.6325079938767,
+                "motion_speed": -0.043371193148612805,
+                "cusp_degree": 20.632507993876686,
+                "zodiac": 5,
+                "house": 6,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1969-12-28",
+        "latitude": 60.16952,
+        "longitude": 24.93545,
+        "time_zone": "Europe/Helsinki",
+        "offset": 3,
+        "julday": 2440583.5,
+        "solar_longitude": 252.64141380021496,
+        "lunar_longitude": 119.01884846748217,
+        "lunar_latitude": 1.8711572556478913,
+        "sunrise": [
+            2440583.94191861,
+            [
+                10,
+                36,
+                22
+            ],
+            [
+                1969,
+                12,
+                28,
+                10.60604664310813
+            ]
+        ],
+        "sunset": [
+            2440584.171802324,
+            [
+                16,
+                7,
+                24
+            ],
+            [
+                1969,
+                12,
+                28,
+                16.123255770653486
+            ]
+        ],
+        "moonrise": [
+            2440584.4088021135,
+            [
+                21,
+                48,
+                41
+            ],
+            [
+                1969,
+                12,
+                28,
+                21.81125072389841
+            ]
+        ],
+        "moonset": [
+            2440584.014990887,
+            [
+                12,
+                21,
+                35
+            ],
+            [
+                1969,
+                12,
+                28,
+                12.359781291335821
+            ]
+        ],
+        "tithi": [
+            19,
+            [
+                14,
+                12,
+                46
+            ],
+            20,
+            [
+                40,
+                45,
+                17
+            ]
+        ],
+        "nakshatra": [
+            "Pushya",
+            8,
+            [
+                25,
+                30,
+                13
+            ]
+        ],
+        "yoga": [
+            "Priti",
+            1
+        ],
+        "karana": [
+            38,
+            -3.1451643813673513
+        ],
+        "vaara": "Ravivara",
+        "lunar_phase": 226.3774346672672,
+        "masa": [
+            "Pausha",
+            10,
+            false
+        ],
+        "ahargana": 1852118,
+        "ritu": "Greeshma Ritu (Summer)",
+        "samvatsara": 43,
+        "day_duration": [
+            5.517209127545357,
+            [
+                5,
+                31,
+                2
+            ]
+        ]
+    }
+}

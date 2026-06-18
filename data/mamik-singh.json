@@ -1,0 +1,226 @@
+{
+    "request": {
+        "name": "Mamik Singh",
+        "title": "Actor",
+        "year": 1963,
+        "month": 5,
+        "day": 3,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 19.07283,
+        "longitude": 72.88261,
+        "location": "Mumbai",
+        "gender": "male",
+        "agyat_rating": "XX",
+        "related": ["actor"],
+        "advanced": "failed career",
+        "about": "Harmeet Singh Mamik popularly known as Mamik is an Indian actor, who works on television and has also worked in a few Hindi-language films. He is best known for his roles in films like Jo Jeeta Wohi Sikandar (1992), Kya Kehna (2000), and television shows like Woh (1998), Ssshhhh...Koi Hai (2002), Vikraal Aur Gabraal (2003), Black (2009), Star One Horror Nights (2010), Who's Your Daddy (Season 2) (2020)."
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 101.94309121779402,
+            "ascendant": 4
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 343.3654520555437,
+                "cusp_degree": 13.365452055543699,
+                "motion_speed": 0.218605254761989,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 18.779331834321223,
+                "cusp_degree": 18.779331834321223,
+                "motion_speed": 0.969568585542311,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 139.0281325795062,
+                "cusp_degree": 19.028132579506206,
+                "motion_speed": 12.123040740792597,
+                "zodiac": 5,
+                "house": 2,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 347.6240957503772,
+                "cusp_degree": 17.624095750377194,
+                "motion_speed": 1.2035967279266517,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 112.71870132369448,
+                "cusp_degree": 22.718701323694475,
+                "motion_speed": 0.3893274108657715,
+                "zodiac": 4,
+                "house": 1,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 36.69023499608135,
+                "cusp_degree": 6.690234996081351,
+                "motion_speed": 0.3253490634635615,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 298.98715668986824,
+                "cusp_degree": 28.987156689868243,
+                "motion_speed": 0.04936152107694691,
+                "zodiac": 10,
+                "house": 7,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 90.17707238443082,
+                "cusp_degree": 0.17707238443081508,
+                "motion_speed": -0.08431294853903105,
+                "zodiac": 4,
+                "house": 1,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 90.86881329322028,
+                "cusp_degree": 0.8688132932202848,
+                "motion_speed": -0.052992073077117285,
+                "zodiac": 4,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 270.8688132932203,
+                "motion_speed": -0.052992073077117285,
+                "cusp_degree": 0.8688132932202848,
+                "zodiac": 10,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 270.1770723844308,
+                "motion_speed": -0.08431294853903105,
+                "cusp_degree": 0.17707238443080087,
+                "zodiac": 10,
+                "house": 7,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1963-05-03",
+        "latitude": 19.07283,
+        "longitude": 72.88261,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2438152.5,
+        "solar_longitude": 18.516720144966047,
+        "lunar_longitude": 135.73853265575062,
+        "lunar_latitude": 3.605422298971859,
+        "sunrise": [
+            2438152.75942823,
+            [
+                6,
+                13,
+                35
+            ],
+            [
+                1963,
+                5,
+                3,
+                6.226277522742748
+            ]
+        ],
+        "sunset": [
+            2438153.2899185647,
+            [
+                18,
+                57,
+                29
+            ],
+            [
+                1963,
+                5,
+                3,
+                18.958045553416014
+            ]
+        ],
+        "moonrise": [
+            2438153.116375879,
+            [
+                14,
+                47,
+                35
+            ],
+            [
+                1963,
+                5,
+                3,
+                14.793021094053984
+            ]
+        ],
+        "moonset": [
+            2438152.616563048,
+            [
+                2,
+                47,
+                51
+            ],
+            [
+                1963,
+                5,
+                3,
+                2.7975131571292877
+            ]
+        ],
+        "tithi": [
+            10,
+            [
+                12,
+                11,
+                38
+            ]
+        ],
+        "nakshatra": [
+            "Ashlesha",
+            9,
+            [
+                20,
+                33,
+                57
+            ]
+        ],
+        "yoga": [
+            "Dhruva",
+            11
+        ],
+        "karana": [
+            20,
+            -0.12158374234668656
+        ],
+        "vaara": "Shukrvara",
+        "lunar_phase": 117.22181251078457,
+        "masa": [
+            "Jyeshtha",
+            3,
+            false
+        ],
+        "ahargana": 1849687,
+        "ritu": "Greeshma Ritu (Summer)",
+        "samvatsara": 36,
+        "day_duration": [
+            12.731768030673265,
+            [
+                12,
+                43,
+                54
+            ]
+        ]
+    }
+}

@@ -1,0 +1,226 @@
+{
+    "request": {
+        "name": "Ronit Roy",
+        "title": "Actor",
+        "year": 1965,
+        "month": 10,
+        "day": 11,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 21.14631,
+        "longitude": 79.08491,
+        "location": "Nagpur",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "related": ["actor"],
+        "advanced": "career dip",
+        "about": "Ronit Bose Roy (born 11 October 1965) is an Indian actor who works primarily in Hindi television and films and Bengali films. He gained immense popularity for playing Mihir Virani in the hugely successful soap opera Kyunki Saas Bhi Kabhi Bahu Thi and Rishabh Bajaj in Kasautii Zindagii Kay. One of the highest paid television actors in India, he has earned numerous accolades including a Filmfare Award, five ITA Awards, and six Indian Telly Awards."
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 252.71442609839912,
+            "ascendant": 9
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 67.82032081782633,
+                "cusp_degree": 7.820320817826328,
+                "motion_speed": 0.028235435452321617,
+                "zodiac": 3,
+                "house": 7,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 174.35593540945334,
+                "cusp_degree": 24.355935409453338,
+                "motion_speed": 0.9887596525315488,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 2.425092770949022,
+                "cusp_degree": 2.425092770949022,
+                "motion_speed": 12.9521672710323,
+                "zodiac": 1,
+                "house": 5,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 218.41554831267456,
+                "cusp_degree": 8.41554831267456,
+                "motion_speed": 1.1365833609432292,
+                "zodiac": 8,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 221.5871065015951,
+                "cusp_degree": 11.587106501595088,
+                "motion_speed": 0.7145190798103591,
+                "zodiac": 8,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 184.05195169523128,
+                "cusp_degree": 4.051951695231281,
+                "motion_speed": 1.604000304297522,
+                "zodiac": 7,
+                "house": 11,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 318.06792953192536,
+                "cusp_degree": 18.06792953192536,
+                "motion_speed": -0.05355183468393985,
+                "zodiac": 11,
+                "house": 3,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 42.16010573907759,
+                "cusp_degree": 12.160105739077594,
+                "motion_speed": -0.10555476259945218,
+                "zodiac": 2,
+                "house": 6,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 43.59990681660101,
+                "cusp_degree": 13.599906816601013,
+                "motion_speed": -0.0529920375983644,
+                "zodiac": 2,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 223.59990681660102,
+                "motion_speed": -0.0529920375983644,
+                "cusp_degree": 13.59990681660102,
+                "zodiac": 8,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 222.1601057390776,
+                "motion_speed": -0.10555476259945218,
+                "cusp_degree": 12.160105739077608,
+                "zodiac": 8,
+                "house": 12,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1965-10-11",
+        "latitude": 21.14631,
+        "longitude": 79.08491,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2439044.5,
+        "solar_longitude": 174.0881674928226,
+        "lunar_longitude": 358.9248181779374,
+        "lunar_latitude": -3.513221906482465,
+        "sunrise": [
+            2439044.7578059435,
+            [
+                6,
+                11,
+                14
+            ],
+            [
+                1965,
+                10,
+                11,
+                6.187342643737793
+            ]
+        ],
+        "sunset": [
+            2439045.2426843187,
+            [
+                17,
+                49,
+                28
+            ],
+            [
+                1965,
+                10,
+                11,
+                17.824423648416996
+            ]
+        ],
+        "moonrise": [
+            2439045.267566479,
+            [
+                18,
+                25,
+                18
+            ],
+            [
+                1965,
+                10,
+                11,
+                18.421595491468906
+            ]
+        ],
+        "moonset": [
+            2439044.773964506,
+            [
+                6,
+                34,
+                31
+            ],
+            [
+                1965,
+                10,
+                11,
+                6.575148146599531
+            ]
+        ],
+        "tithi": [
+            16,
+            [
+                20,
+                32,
+                38
+            ]
+        ],
+        "nakshatra": [
+            "Uttara Bhadrapada",
+            26,
+            [
+                26,
+                3,
+                21
+            ]
+        ],
+        "yoga": [
+            "Harshana",
+            13
+        ],
+        "karana": [
+            31,
+            -1.9133220667535227
+        ],
+        "vaara": "Somavara",
+        "lunar_phase": 184.83665068511482,
+        "masa": [
+            "Kartika",
+            8,
+            false
+        ],
+        "ahargana": 1850579,
+        "ritu": "Greeshma Ritu (Summer)",
+        "samvatsara": 39,
+        "day_duration": [
+            11.637081004679203,
+            [
+                11,
+                38,
+                13
+            ]
+        ]
+    }
+}

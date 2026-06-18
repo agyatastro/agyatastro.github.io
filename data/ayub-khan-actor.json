@@ -1,0 +1,226 @@
+{
+    "request": {
+        "name": "Ayub Khan",
+        "title": "Actor, TV Actor",
+        "year": 1969,
+        "month": 2,
+        "day": 23,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 19.07283,
+        "longitude": 72.88261,
+        "location": "Mumbai",
+        "gender": "male",
+        "related": ["model", "actor", "dilip-kumar-family"],
+        "advanced": "failed career",
+        "agyat_rating": "AX",
+        "about": "Ayub Khan (born 23 February 1969) is an Indian film and television actor. He is the nephew of the actor Dilip Kumar."
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 39.50868262101959,
+            "ascendant": 2
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 160.88876355862647,
+                "cusp_degree": 10.888763558626465,
+                "motion_speed": -0.09796247724079396,
+                "zodiac": 6,
+                "house": 5,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 311.0493956179574,
+                "cusp_degree": 11.049395617957373,
+                "motion_speed": 1.006449132789812,
+                "zodiac": 11,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 30.964468875467524,
+                "cusp_degree": 0.9644688754675244,
+                "motion_speed": 12.088538035768462,
+                "zodiac": 2,
+                "house": 1,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 354.400367232289,
+                "cusp_degree": 24.400367232289,
+                "motion_speed": 0.6900463723523483,
+                "zodiac": 12,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 215.6639138174765,
+                "cusp_degree": 5.663913817476498,
+                "motion_speed": 0.45986530788868624,
+                "zodiac": 8,
+                "house": 7,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 284.3255398102537,
+                "cusp_degree": 14.325539810253701,
+                "motion_speed": 0.9986866538334741,
+                "zodiac": 10,
+                "house": 9,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 358.7240146240556,
+                "cusp_degree": 28.7240146240556,
+                "motion_speed": 0.09923914315809176,
+                "zodiac": 12,
+                "house": 11,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 337.1270716996067,
+                "cusp_degree": 7.127071699606688,
+                "motion_speed": 0.015333215562979634,
+                "zodiac": 12,
+                "house": 11,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 338.36669886946737,
+                "cusp_degree": 8.36669886946737,
+                "motion_speed": -0.05299203435013296,
+                "zodiac": 12,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 158.36669886946743,
+                "motion_speed": -0.05299203435013296,
+                "cusp_degree": 8.366698869467427,
+                "zodiac": 6,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 157.12707169960663,
+                "motion_speed": 0.015333215562979634,
+                "cusp_degree": 7.127071699606631,
+                "zodiac": 6,
+                "house": 5,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1969-02-23",
+        "latitude": 19.07283,
+        "longitude": 72.88261,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2440275.5,
+        "solar_longitude": 310.7767958491005,
+        "lunar_longitude": 27.68323020202542,
+        "lunar_latitude": 4.045940946324495,
+        "sunrise": [
+            2440275.7957457695,
+            [
+                7,
+                5,
+                52
+            ],
+            [
+                1969,
+                2,
+                23,
+                7.097898468375206
+            ]
+        ],
+        "sunset": [
+            2440276.276562167,
+            [
+                18,
+                38,
+                15
+            ],
+            [
+                1969,
+                2,
+                23,
+                18.63749200478196
+            ]
+        ],
+        "moonrise": [
+            2440275.9767633392,
+            [
+                11,
+                26,
+                32
+            ],
+            [
+                1969,
+                2,
+                23,
+                11.442320141941309
+            ]
+        ],
+        "moonset": [
+            2440276.53371865,
+            [
+                24,
+                48,
+                33
+            ],
+            [
+                1969,
+                2,
+                24,
+                0.8092476055026054
+            ]
+        ],
+        "tithi": [
+            7,
+            [
+                22,
+                29,
+                17
+            ]
+        ],
+        "nakshatra": [
+            "Ashwini",
+            1,
+            [
+                23,
+                32,
+                45
+            ]
+        ],
+        "yoga": [
+            "Indra",
+            25
+        ],
+        "karana": [
+            13,
+            -2.1910963519850952
+        ],
+        "vaara": "Ravivara",
+        "lunar_phase": 76.90643435292492,
+        "masa": [
+            "Phalguna",
+            12,
+            false
+        ],
+        "ahargana": 1851810,
+        "ritu": "Greeshma Ritu (Summer)",
+        "samvatsara": 42,
+        "day_duration": [
+            11.539593536406755,
+            [
+                11,
+                32,
+                23
+            ]
+        ]
+    }
+}

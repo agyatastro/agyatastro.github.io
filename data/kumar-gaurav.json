@@ -1,0 +1,226 @@
+{
+    "request": {
+        "name": "Kumar Gaurav",
+        "title": "Actor, Businessperson",
+        "year": 1960,
+        "month": 7,
+        "day": 11,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 26.83928,
+        "longitude": 80.92313,
+        "location": "Lucknow",
+        "gender": "male",
+        "agyat_rating": "XX",
+        "related": ["actor"],
+        "advanced": "failed career",
+        "about": "Kumar Gaurav (born Manoj Tuli; 11 July 1956) is an Indian businessman and former actor who worked in Hindi cinema. Son of actor Rajendra Kumar, Gaurav has appeared in several films such as Love Story, Teri Kasam, Star, Naam and Kaante."
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 172.38792973550642,
+            "ascendant": 6
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 242.85716048572496,
+                "cusp_degree": 2.857160485724961,
+                "motion_speed": -0.10884527452622338,
+                "zodiac": 9,
+                "house": 4,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 85.63822196064707,
+                "cusp_degree": 25.638221960647073,
+                "motion_speed": 0.953154045297118,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 300.16417090363444,
+                "cusp_degree": 0.1641709036344423,
+                "motion_speed": 14.60608251125273,
+                "zodiac": 11,
+                "house": 6,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 90.7656758099937,
+                "cusp_degree": 0.7656758099936951,
+                "motion_speed": 1.2298760725810283,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 21.682702107588447,
+                "cusp_degree": 21.682702107588447,
+                "motion_speed": 0.7030619489339557,
+                "zodiac": 1,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 94.7419415583311,
+                "cusp_degree": 4.741941558331106,
+                "motion_speed": -0.5344738953155422,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 261.5277851379805,
+                "cusp_degree": 21.527785137980516,
+                "motion_speed": -0.07342283354074297,
+                "zodiac": 9,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 143.78789670522022,
+                "cusp_degree": 23.78789670522022,
+                "motion_speed": -0.05306224071295282,
+                "zodiac": 5,
+                "house": 12,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 145.2386558860354,
+                "cusp_degree": 25.23865588603539,
+                "motion_speed": -0.052992042642868074,
+                "zodiac": 5,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 325.2386558860354,
+                "motion_speed": -0.052992042642868074,
+                "cusp_degree": 25.238655886035417,
+                "zodiac": 11,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 323.7878967052202,
+                "motion_speed": -0.05306224071295282,
+                "cusp_degree": 23.78789670522019,
+                "zodiac": 11,
+                "house": 6,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1960-07-11",
+        "latitude": 26.83928,
+        "longitude": 80.92313,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2437126.5,
+        "solar_longitude": 85.38008027129378,
+        "lunar_longitude": 296.1929254342721,
+        "lunar_latitude": 2.3643967259561753,
+        "sunrise": [
+            2437126.7250754195,
+            [
+                5,
+                24,
+                7
+            ],
+            [
+                1960,
+                7,
+                11,
+                5.401810068637133
+            ]
+        ],
+        "sunset": [
+            2437127.291003346,
+            [
+                18,
+                59,
+                3
+            ],
+            [
+                1960,
+                7,
+                11,
+                18.98408030346036
+            ]
+        ],
+        "moonrise": [
+            2437127.3869516035,
+            [
+                21,
+                17,
+                13
+            ],
+            [
+                1960,
+                7,
+                11,
+                21.286838483065367
+            ]
+        ],
+        "moonset": [
+            2437126.8288824963,
+            [
+                7,
+                53,
+                35
+            ],
+            [
+                1960,
+                7,
+                11,
+                7.893179912120104
+            ]
+        ],
+        "tithi": [
+            18,
+            [
+                14,
+                29,
+                47
+            ]
+        ],
+        "nakshatra": [
+            "Uttara Ashadha",
+            21,
+            [
+                17,
+                10,
+                43
+            ]
+        ],
+        "yoga": [
+            "Priti",
+            1
+        ],
+        "karana": [
+            35,
+            -3.90077492289754
+        ],
+        "vaara": "Somavara",
+        "lunar_phase": 210.81284516297836,
+        "masa": [
+            "Shravana",
+            5,
+            false
+        ],
+        "ahargana": 1848661,
+        "ritu": "Greeshma Ritu (Summer)",
+        "samvatsara": 34,
+        "day_duration": [
+            13.582270234823227,
+            [
+                13,
+                34,
+                56
+            ]
+        ]
+    }
+}

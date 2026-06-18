@@ -1,0 +1,226 @@
+{
+    "request": {
+        "name": "Rahul Roy",
+        "title": "Actor",
+        "year": 1968,
+        "month": 2,
+        "day": 9,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 19.07283,
+        "longitude": 72.88261,
+        "location": "Mumbai",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "related": ["actor"],
+        "advanced": "failed career",
+        "about": "<p>Rahul Roy (born 9 February 1966) is an Indian actor, producer and former model known for his works in Hindi films and television. Roy began his acting career with the 1990 film Aashiqui, a Mahesh Bhatt production as the lead actor with newcomer Anu Aggarwal. He then appeared opposite Karishma Kapoor in Sudhakar Bokade's romantic film Sapne Sajan Ke (1992). Roy has been honoured with life membership of the International Film And Television Club of Asian Academy of Film & Television.</p><p>Roy delivered a notable performance in Mahesh Bhatt's 1993 autobiographical Phir Teri Kahani Yaad Aayee, Roy's character is based on the filmmaker. The film was Zee TV's first mainstream production. Roy then featured in Bhatt's production Jaanam, which was Vikram Bhatt's directorial debut.</p><p>In 2006, Roy participated and won the first season of game show Bigg Boss – the Indian version of Celebrity Big Brother, produced by Endemol India for Colors Viacom 18. Roy has ventured into movie production. His company, Rahul Roy Productions, released its first film, Elaan, on 25 November 2011 in Bihar</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 23.939822943696807,
+            "ascendant": 1
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 128.91903969888241,
+                "cusp_degree": 8.919039698882415,
+                "motion_speed": -0.12584172575606373,
+                "zodiac": 5,
+                "house": 5,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 296.1658537535565,
+                "cusp_degree": 26.16585375355652,
+                "motion_speed": 1.012285284759057,
+                "zodiac": 10,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 56.30613484121012,
+                "cusp_degree": 26.306134841210117,
+                "motion_speed": 12.192847416021722,
+                "zodiac": 2,
+                "house": 2,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 263.16025953932785,
+                "cusp_degree": 23.160259539327853,
+                "motion_speed": 1.226480169796955,
+                "zodiac": 9,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 330.54684413652814,
+                "cusp_degree": 0.5468441365281365,
+                "motion_speed": 0.770392740794729,
+                "zodiac": 12,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 308.2707631691255,
+                "cusp_degree": 8.270763169125473,
+                "motion_speed": -0.4653111797013238,
+                "zodiac": 11,
+                "house": 11,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 345.46521748075037,
+                "cusp_degree": 15.465217480750368,
+                "motion_speed": 0.0962585520318664,
+                "zodiac": 12,
+                "house": 12,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 357.4642369376144,
+                "cusp_degree": 27.464236937614373,
+                "motion_speed": -0.09377339749172643,
+                "zodiac": 12,
+                "house": 12,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 358.50367575492845,
+                "cusp_degree": 28.50367575492845,
+                "motion_speed": -0.05299203529320342,
+                "zodiac": 12,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 178.5036757549285,
+                "motion_speed": -0.05299203529320342,
+                "cusp_degree": 28.50367575492851,
+                "zodiac": 6,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 177.46423693761437,
+                "motion_speed": -0.09377339749172643,
+                "cusp_degree": 27.464236937614373,
+                "zodiac": 6,
+                "house": 6,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1968-02-09",
+        "latitude": 19.07283,
+        "longitude": 72.88261,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2439895.5,
+        "solar_longitude": 295.8916775104487,
+        "lunar_longitude": 53.01280804128066,
+        "lunar_latitude": 4.1948540705297255,
+        "sunrise": [
+            2439895.801395974,
+            [
+                7,
+                14,
+                1
+            ],
+            [
+                1968,
+                2,
+                9,
+                7.233503378927708
+            ]
+        ],
+        "sunset": [
+            2439896.2720005666,
+            [
+                18,
+                31,
+                41
+            ],
+            [
+                1968,
+                2,
+                9,
+                18.528013598173857
+            ]
+        ],
+        "moonrise": [
+            2439896.09059667,
+            [
+                14,
+                10,
+                28
+            ],
+            [
+                1968,
+                2,
+                9,
+                14.174320075660944
+            ]
+        ],
+        "moonset": [
+            2439895.621340374,
+            [
+                2,
+                54,
+                44
+            ],
+            [
+                1968,
+                2,
+                9,
+                2.912168975919485
+            ]
+        ],
+        "tithi": [
+            10,
+            [
+                13,
+                25,
+                22
+            ]
+        ],
+        "nakshatra": [
+            "Krittika",
+            3,
+            [
+                25,
+                54,
+                0
+            ]
+        ],
+        "yoga": [
+            "Vaidhṛta",
+            26
+        ],
+        "karana": [
+            20,
+            -0.4821060879556285
+        ],
+        "vaara": "Shukrvara",
+        "lunar_phase": 117.12113053083198,
+        "masa": [
+            "Phalguna",
+            12,
+            false
+        ],
+        "ahargana": 1851430,
+        "ritu": "Greeshma Ritu (Summer)",
+        "samvatsara": 41,
+        "day_duration": [
+            11.294510219246149,
+            [
+                11,
+                17,
+                40
+            ]
+        ]
+    }
+}

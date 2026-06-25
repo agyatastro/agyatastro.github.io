@@ -1,0 +1,226 @@
+{
+    "request": {
+        "name": "Mahrang Baloch",
+        "title": "Doctor, Human Rights Activist",
+        "year": 1993,
+        "month": 1,
+        "day": 1,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 29.02663,
+        "longitude": 66.59361,
+        "location": "Kalat",
+        "gender": "female",
+        "agyat_rating": "AX",
+        "related": ["doctor", "human-rights-activist"],
+        "advanced": "detention, convicted, human rights activist",
+        "about": "Mahrang Baloch (born 1 January 1993) is a Baloch political activist who is the founder and leader of the Baloch Yakjehti Committee (BYC). She is known for her campaigns against alleged enforced disappearances, extrajudicial killings, and other human rights abuses in Balochistan, Pakistan."
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 339.8780496278281,
+            "ascendant": 12
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 169.74513897121093,
+                "cusp_degree": 19.745138971210935,
+                "motion_speed": 0.08335232064124855,
+                "zodiac": 6,
+                "house": 7,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 257.12013401648625,
+                "cusp_degree": 17.120134016486247,
+                "motion_speed": 1.0191937924494863,
+                "zodiac": 9,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 348.6727897523854,
+                "cusp_degree": 18.672789752385427,
+                "motion_speed": 12.065276142244606,
+                "zodiac": 12,
+                "house": 1,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 303.2421952840834,
+                "cusp_degree": 3.2421952840833796,
+                "motion_speed": 1.112679008269574,
+                "zodiac": 11,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 86.5408151617788,
+                "cusp_degree": 26.540815161778795,
+                "motion_speed": -0.38932211718122134,
+                "zodiac": 3,
+                "house": 4,
+                "motion": "R"
+            },
+            "Mercury": {
+                "degree": 244.22402514297178,
+                "cusp_degree": 4.224025142971783,
+                "motion_speed": 1.515350083910789,
+                "zodiac": 9,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 292.6175334370495,
+                "cusp_degree": 22.617533437049474,
+                "motion_speed": 0.10541938903622775,
+                "zodiac": 10,
+                "house": 11,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 237.5550068144846,
+                "cusp_degree": 27.555006814484614,
+                "motion_speed": 0.0022382609058604935,
+                "zodiac": 8,
+                "house": 9,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 236.64601907695177,
+                "cusp_degree": 26.646019076951774,
+                "motion_speed": -0.052992032024906356,
+                "zodiac": 8,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 56.6460190769518,
+                "motion_speed": -0.052992032024906356,
+                "cusp_degree": 26.646019076951802,
+                "zodiac": 2,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 57.555006814484614,
+                "motion_speed": 0.0022382609058604935,
+                "cusp_degree": 27.555006814484614,
+                "zodiac": 2,
+                "house": 3,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1993-01-01",
+        "latitude": 29.02663,
+        "longitude": 66.59361,
+        "time_zone": "Asia/Karachi",
+        "offset": 5,
+        "julday": 2448988.5,
+        "solar_longitude": 256.8228666630877,
+        "lunar_longitude": 345.1611936880476,
+        "lunar_latitude": 5.012812699660764,
+        "sunrise": [
+            2448988.813625829,
+            [
+                7,
+                31,
+                37
+            ],
+            [
+                1993,
+                1,
+                1,
+                7.527019891887903
+            ]
+        ],
+        "sunset": [
+            2448989.2381089097,
+            [
+                17,
+                42,
+                53
+            ],
+            [
+                1993,
+                1,
+                1,
+                17.71461383253336
+            ]
+        ],
+        "moonrise": [
+            2448989.017475565,
+            [
+                12,
+                25,
+                10
+            ],
+            [
+                1993,
+                1,
+                1,
+                12.419413559138775
+            ]
+        ],
+        "moonset": [
+            2448988.515146632,
+            [
+                0,
+                21,
+                49
+            ],
+            [
+                1993,
+                1,
+                1,
+                0.36351917311549187
+            ]
+        ],
+        "tithi": [
+            8,
+            [
+                24,
+                7,
+                33
+            ]
+        ],
+        "nakshatra": [
+            "Purva Bhadrapada",
+            25,
+            [
+                28,
+                39,
+                8
+            ]
+        ],
+        "yoga": [
+            "Parigha",
+            18
+        ],
+        "karana": [
+            15,
+            -1.7952626517926547
+        ],
+        "vaara": "Shukrvara",
+        "lunar_phase": 88.33832702495988,
+        "masa": [
+            "Magha",
+            11,
+            false
+        ],
+        "ahargana": 1860523,
+        "ritu": "Greeshma Ritu (Summer)",
+        "samvatsara": 6,
+        "day_duration": [
+            10.187593940645456,
+            [
+                10,
+                11,
+                15
+            ]
+        ]
+    }
+}

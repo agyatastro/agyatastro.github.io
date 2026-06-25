@@ -1,0 +1,227 @@
+{
+    "request": {
+        "name": "Akbar Bugti",
+        "title": "Chief Minister, Politician, Activist",
+        "year": 1926,
+        "month": 7,
+        "day": 12,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 29.89773,
+        "longitude": 69.52558,
+        "location": "Barkhan",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "dod": "26/08/2006",
+        "advanced": "freedom fighter, murdered, detention, death by violence",
+        "related": ["chief-minister", "politician", "activist"],
+        "about": "<p>Akbar Shahbaz Khan Bugti (Urdu: اکبر شہباز خان بُگٹی; 12 July 1926 – 26 August 2006) was a Pakistani politician and the tumandar (tribal chief) of the Bugti tribe of Baloch people. Over a career spanning nearly five decades, he held several senior offices in Pakistan, including Minister of State for Defence in the cabinet of Prime Minister Feroz Khan Noon, Governor of Balochistan from 1973 to 1974, and Chief Minister of Balochistan from 1989 to 1990. He founded and led the Jamhoori Watan Party (JWP) from 1989 until his death.</p><p>In his later years, Bugti came into armed conflict with the government of President Pervez Musharraf over the political and economic status of Balochistan. He was killed on 26 August 2006 during a military operation in Kohlu district. In July 2012, an Anti-Terrorism Court issued arrest warrants for Musharraf and other senior officials in connection with the killing.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 162.77645474403326,
+            "ascendant": 6
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 303.2898326989349,
+                "cusp_degree": 3.2898326989349016,
+                "motion_speed": -0.07914554879377689,
+                "zodiac": 11,
+                "house": 6,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 86.32326732600173,
+                "cusp_degree": 26.323267326001726,
+                "motion_speed": 0.9538994767524943,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 112.0144714997229,
+                "cusp_degree": 22.0144714997229,
+                "motion_speed": 11.93433441421197,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 52.91449025754929,
+                "cusp_degree": 22.91449025754929,
+                "motion_speed": 1.1819690203346052,
+                "zodiac": 2,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 355.20497078672753,
+                "cusp_degree": 25.20497078672753,
+                "motion_speed": 0.6294969836357255,
+                "zodiac": 12,
+                "house": 7,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 112.62630123655849,
+                "cusp_degree": 22.62630123655849,
+                "motion_speed": 0.8688719384177453,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 206.70619379728385,
+                "cusp_degree": 26.706193797283845,
+                "motion_speed": -0.019552875812521325,
+                "zodiac": 7,
+                "house": 2,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 83.58170764762595,
+                "cusp_degree": 23.581707647625947,
+                "motion_speed": -0.004818381227078901,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 83.29413734981672,
+                "cusp_degree": 23.294137349816722,
+                "motion_speed": -0.05299207541985746,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 263.2941373498167,
+                "motion_speed": -0.05299207541985746,
+                "cusp_degree": 23.294137349816708,
+                "zodiac": 9,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 263.58170764762593,
+                "motion_speed": -0.004818381227078901,
+                "cusp_degree": 23.581707647625933,
+                "zodiac": 9,
+                "house": 4,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1926-07-12",
+        "latitude": 29.89773,
+        "longitude": 69.52558,
+        "time_zone": "Asia/Karachi",
+        "offset": 5,
+        "julday": 2424708.5,
+        "solar_longitude": 86.06492091505508,
+        "lunar_longitude": 108.77843341148095,
+        "lunar_latitude": 2.255040512336753,
+        "sunrise": [
+            2424708.7313590003,
+            [
+                5,
+                33,
+                9
+            ],
+            [
+                1926,
+                7,
+                12,
+                5.552616007626057
+            ]
+        ],
+        "sunset": [
+            2424709.306322771,
+            [
+                19,
+                21,
+                6
+            ],
+            [
+                1926,
+                7,
+                12,
+                19.351746506989002
+            ]
+        ],
+        "moonrise": [
+            2424708.8094852683,
+            [
+                7,
+                25,
+                40
+            ],
+            [
+                1926,
+                7,
+                12,
+                7.427646439522505
+            ]
+        ],
+        "moonset": [
+            2424709.379255118,
+            [
+                21,
+                6,
+                8
+            ],
+            [
+                1926,
+                7,
+                12,
+                21.102122828364372
+            ]
+        ],
+        "tithi": [
+            2,
+            [
+                8,
+                21,
+                34
+            ]
+        ],
+        "nakshatra": [
+            "Punarvasu",
+            7,
+            [
+                19,
+                51,
+                25
+            ]
+        ],
+        "yoga": [
+            "Vajra",
+            14
+        ],
+        "karana": [
+            4,
+            -1.257679443416464
+        ],
+        "vaara": "Somavara",
+        "lunar_phase": 22.713512496425864,
+        "masa": [
+            "Shravana",
+            5,
+            false
+        ],
+        "ahargana": 1836243,
+        "ritu": "Greeshma Ritu (Summer)",
+        "samvatsara": 0,
+        "day_duration": [
+            13.799130499362946,
+            [
+                13,
+                47,
+                57
+            ]
+        ]
+    }
+}

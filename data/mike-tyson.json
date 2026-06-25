@@ -1,0 +1,226 @@
+{
+    "request": {
+        "name": "Mike Tyson",
+        "title": "Sportsperson, Wrestler",
+        "year": 1966,
+        "month": 6,
+        "day": 30,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 40.6501,
+        "longitude": -73.94958,
+        "location": "Brooklyn",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "related": ["boxer", "wrestler", "sportsperson"],
+        "advanced": "convict, detention",
+        "about": "<p>Michael Gerard Tyson (born June 30, 1966) is an American former professional boxer, who competed between 1985 and 2024, and a cannabis entrepreneur. Nicknamed \"Iron Mike\" and \"Kid Dynamite\" in his early career, and later known as \"the Baddest Man on the Planet\", Tyson is widely regarded as one of the greatest heavyweight boxers of all time, and one of the most intimidating men in boxing history. He reigned as the undisputed world heavyweight champion from 1987 to 1990.</p><p>Tyson won his first 19 professional fights by knockout, 12 of them in the first round. Claiming his first belt at the age of 20, Tyson holds the record as the youngest boxer ever to win a heavyweight title. He was the first heavyweight boxer to simultaneously hold the World Boxing Association (WBA), World Boxing Council (WBC), and International Boxing Federation (IBF) titles, as well as the only heavyweight to unify them in succession. The following year, Tyson became the lineal champion when he knocked out Michael Spinks in 91 seconds into the first round. In 1990, Tyson lost the undisputed heavyweight championship when he was knocked out by underdog Buster Douglas, making it one of the biggest upsets in boxing history.</p><p>In 1992, he was convicted of rape and sentenced to six years in prison. He was released on parole after three years. After his release in 1995, he engaged in a series of comeback fights, regaining the WBA and WBC titles in 1996 to join Floyd Patterson, Muhammad Ali, Tim Witherspoon, Evander Holyfield and George Foreman as the only men in boxing history to have regained a heavyweight championship after losing it. After being stripped of the WBC title in the same year, Tyson lost the WBA title to Evander Holyfield by an eleventh round stoppage. Their 1997 rematch ended when Tyson was disqualified for biting Holyfield's ears. In 2002, Tyson fought for the world heavyweight title, losing by knockout to Lennox Lewis. In November 2024, his bout against Jake Paul, which he lost via unanimous decision, became the biggest boxing gate in US history outside of Las Vegas.</p><p>Tyson was known for his ferocious and intimidating boxing style as well as his controversial behavior inside and outside the ring, which he explained was inspired by Sonny Liston, known for his strength and intimidation. With a knockout-to-win percentage of 88%, he was ranked 16th on The Ring magazine's list of 100 greatest punchers of all time, and first on ESPN's list of \"The Hardest Hitters in Heavyweight History\". Sky Sports described him as \"perhaps the most ferocious fighter to step into a professional ring\". He has been inducted into the International Boxing Hall of Fame and the World Boxing Hall of Fame.</p><p>Outside his boxing career, Tyson has appeared in various popular media. He appeared in the well-received movies Rocky Balboa (2006) and The Hangover (2009).</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 152.103482204741,
+            "ascendant": 6
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 78.59549602347624,
+                "cusp_degree": 18.595496023476244,
+                "motion_speed": 0.22580831290121678,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 75.01775801821003,
+                "cusp_degree": 15.017758018210031,
+                "motion_speed": 0.9531405543350564,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 229.48032526822132,
+                "cusp_degree": 19.48032526822132,
+                "motion_speed": 13.045774801746893,
+                "zodiac": 8,
+                "house": 3,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 41.54797317693342,
+                "cusp_degree": 11.547973176933418,
+                "motion_speed": 1.181721797048272,
+                "zodiac": 2,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 59.49057957789237,
+                "cusp_degree": 29.49057957789237,
+                "motion_speed": 0.6846672109463976,
+                "zodiac": 2,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 100.7324284173425,
+                "cusp_degree": 10.732428417342504,
+                "motion_speed": 0.9629925537135987,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 336.2029158546673,
+                "cusp_degree": 6.20291585466731,
+                "motion_speed": 0.01818609623908637,
+                "zodiac": 12,
+                "house": 7,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 31.32850599719017,
+                "cusp_degree": 1.3285059971901703,
+                "motion_speed": -0.04112624566048444,
+                "zodiac": 2,
+                "house": 9,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 29.69501456662941,
+                "cusp_degree": 29.69501456662941,
+                "motion_speed": -0.05299203689782925,
+                "zodiac": 1,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 209.69501456662942,
+                "motion_speed": -0.05299203689782925,
+                "cusp_degree": 29.695014566629425,
+                "zodiac": 7,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 211.32850599719018,
+                "motion_speed": -0.04112624566048444,
+                "cusp_degree": 1.3285059971901774,
+                "zodiac": 8,
+                "house": 3,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1966-06-30",
+        "latitude": 40.6501,
+        "longitude": -73.94958,
+        "time_zone": "America/New_York",
+        "offset": -4,
+        "julday": 2439306.5,
+        "solar_longitude": 74.38231364393323,
+        "lunar_longitude": 220.73889451181898,
+        "lunar_latitude": -0.8429040278661464,
+        "sunrise": [
+            2439306.731186573,
+            [
+                5,
+                32,
+                55
+            ],
+            [
+                1966,
+                6,
+                30,
+                5.548477750271559
+            ]
+        ],
+        "sunset": [
+            2439307.351083176,
+            [
+                20,
+                25,
+                34
+            ],
+            [
+                1966,
+                6,
+                30,
+                20.425996229052544
+            ]
+        ],
+        "moonrise": [
+            2439307.2830688087,
+            [
+                18,
+                47,
+                37
+            ],
+            [
+                1966,
+                6,
+                30,
+                18.793651409447193
+            ]
+        ],
+        "moonset": [
+            2439306.6459489893,
+            [
+                3,
+                30,
+                10
+            ],
+            [
+                1966,
+                6,
+                30,
+                3.5027757436037064
+            ]
+        ],
+        "tithi": [
+            13,
+            [
+                24,
+                43,
+                44
+            ]
+        ],
+        "nakshatra": [
+            "Vishakha",
+            16,
+            [
+                25,
+                22,
+                48
+            ]
+        ],
+        "yoga": [
+            "Shubha",
+            22
+        ],
+        "karana": [
+            24,
+            -5.177611192815675
+        ],
+        "vaara": "Guruvara",
+        "lunar_phase": 146.35658086788575,
+        "masa": [
+            "Ashadha",
+            4,
+            false
+        ],
+        "ahargana": 1850841,
+        "ritu": "Greeshma Ritu (Summer)",
+        "samvatsara": 40,
+        "day_duration": [
+            14.877518478780985,
+            [
+                14,
+                52,
+                39
+            ]
+        ]
+    }
+}

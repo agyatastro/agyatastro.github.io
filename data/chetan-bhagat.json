@@ -1,0 +1,225 @@
+{
+    "request": {
+        "name": "Chetan Bhagat",
+        "title": "Author, IIT, IIM",
+        "year": 1974,
+        "month": 4,
+        "day": 22,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 28.62137,
+        "longitude": 77.2148,
+        "location": "New Delhi",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "related": ["author"],
+        "about": "Chetan Prakash Bhagat (born 22 April 1974) is an Indian author, columnist, screenwriter, and YouTuber. He was included in Time magazine's list of the 100 Most Influential People in the World in 2010. Several of his novels have been adapted into films, including One Night at the Call Center and Half Girlfriend."
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 99.91994009314199,
+            "ascendant": 4
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 316.18612159609063,
+                "cusp_degree": 16.18612159609063,
+                "motion_speed": 0.19033641273486096,
+                "zodiac": 11,
+                "house": 8,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 8.25434530426711,
+                "cusp_degree": 8.25434530426711,
+                "motion_speed": 0.9756162307769258,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 6.284742091119267,
+                "cusp_degree": 6.284742091119267,
+                "motion_speed": 13.519681338051962,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 322.77662107825114,
+                "cusp_degree": 22.77662107825114,
+                "motion_speed": 1.0717698727225027,
+                "zodiac": 11,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 67.64425575832097,
+                "cusp_degree": 7.644255758320966,
+                "motion_speed": 0.5960446300951988,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 355.00183859448816,
+                "cusp_degree": 25.001838594488163,
+                "motion_speed": 1.8829618426343604,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 66.78270537794059,
+                "cusp_degree": 6.782705377940587,
+                "motion_speed": 0.08773137604861071,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 236.8578030548788,
+                "cusp_degree": 26.857803054878786,
+                "motion_speed": -0.12350907002139207,
+                "zodiac": 8,
+                "house": 5,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 238.52969192181675,
+                "cusp_degree": 28.52969192181675,
+                "motion_speed": -0.05299204594033683,
+                "zodiac": 8,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 58.52969192181672,
+                "motion_speed": -0.05299204594033683,
+                "cusp_degree": 28.52969192181672,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 56.85780305487879,
+                "motion_speed": -0.12350907002139207,
+                "cusp_degree": 26.857803054878786,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1974-04-22",
+        "latitude": 28.62137,
+        "longitude": 77.2148,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2442159.5,
+        "solar_longitude": 7.990096719091503,
+        "lunar_longitude": 2.632949467243624,
+        "lunar_latitude": 4.158631707877961,
+        "sunrise": [
+            2442159.7452508216,
+            [
+                5,
+                53,
+                10
+            ],
+            [
+                1974,
+                4,
+                22,
+                5.886019717901945
+            ]
+        ],
+        "sunset": [
+            2442160.282470996,
+            [
+                18,
+                46,
+                45
+            ],
+            [
+                1974,
+                4,
+                22,
+                18.779303904622793
+            ]
+        ],
+        "moonrise": [
+            2442159.734209794,
+            [
+                5,
+                37,
+                16
+            ],
+            [
+                1974,
+                4,
+                22,
+                5.621035058051348
+            ]
+        ],
+        "moonset": [
+            2442160.2877697945,
+            [
+                18,
+                54,
+                23
+            ],
+            [
+                1974,
+                4,
+                22,
+                18.906475067138672
+            ]
+        ],
+        "tithi": [
+            30,
+            [
+                16,
+                8,
+                41
+            ]
+        ],
+        "nakshatra": [
+            "Uttara Bhadrapada",
+            26,
+            [
+                18,
+                52,
+                9
+            ]
+        ],
+        "yoga": [
+            "Priti",
+            1
+        ],
+        "karana": [
+            59,
+            -3.709575597144692
+        ],
+        "vaara": "Somavara",
+        "lunar_phase": 354.6428527481521,
+        "masa": [
+            "Vaisakha",
+            2,
+            false
+        ],
+        "ahargana": 1853694,
+        "ritu": "Greeshma Ritu (Summer)",
+        "samvatsara": 47,
+        "day_duration": [
+            12.893284186720848,
+            [
+                12,
+                53,
+                36
+            ]
+        ]
+    }
+}

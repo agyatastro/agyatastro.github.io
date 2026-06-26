@@ -1,0 +1,226 @@
+{
+    "request": {
+        "name": "Salman Rushdie",
+        "title": "Author, Professor",
+        "year": 1947,
+        "month": 6,
+        "day": 19,
+        "hour": 2,
+        "minute": 30,
+        "second": 0,
+        "latitude": 19.07283,
+        "longitude": 72.88261,
+        "location": "Mumbai",
+        "gender": "male",
+        "agyat_rating": "AA",
+        "related": ["author", "professors"],
+        "advanced": "exiled, attacked, multiple marriage, persecution, knighthood",
+        "about": "<p>Sir Ahmed Salman Rushdie (born 19 June 1947) is an Indian-born British and American novelist. His work often combines magical realism with historical fiction and primarily deals with connections, disruptions, and migrations between Eastern and Western civilizations, typically set on the Indian subcontinent. Rushdie's second novel, Midnight's Children (1981), won the Booker Prize in 1981 and was deemed to be \"the best novel of all winners\" on two occasions that marked the 25th and the 40th anniversary of the prize.</p><p>After his fourth novel, The Satanic Verses (1988), Rushdie became the subject of several assassination attempts and death threats because of what was seen by some to be an irreverent depiction of Muhammad. The controversy involving the Satanic Verses included a fatwa calling for his death issued by Ruhollah Khomeini, the supreme leader of Iran. The book was banned in 20 countries. Numerous killings and bombings have been carried out by extremists who cited the book as motivation, sparking a debate about censorship and religiously motivated violence. In 2022, Rushdie survived a stabbing at the Chautauqua Institution that led to loss of his right eye and damage to his liver and hands. Two of the men who went to his aid were awarded the Carnegie Medal for heroism in 2025.</p><p>Rushdie was educated at King's College at the University of Cambridge, where he graduated with a degree in history in 1968. In 1983, Rushdie was elected a fellow of the Royal Society of Literature. He was appointed a Commandeur de l'Ordre des Arts et des Lettres of France in 1999. Rushdie was knighted in 2007 for his services to literature. In 2008, The Times ranked him 13th on its list of the 50 greatest British writers since 1945. Since 2000, he has lived in the United States. Rushdie was named Distinguished Writer in Residence at the Arthur L. Carter Journalism Institute of New York University in 2015. Earlier, he taught at Emory University. He was elected to the American Academy of Arts and Letters. In 2012, Rushdie published Joseph Anton: A Memoir, an account of his life in the wake of the events following The Satanic Verses. He was named one of the 100 most influential people in the world by Time magazine in April 2023.</p><p>Rushdie has been married five times. From 2004 to 2007, he was married to Indian-American television presenter and model Padma Lakshmi.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 7.184959895462207,
+            "ascendant": 1
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 205.65820474848715,
+                "cusp_degree": 25.65820474848715,
+                "motion_speed": -0.07805671243070814,
+                "zodiac": 7,
+                "house": 7,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 63.64683960531007,
+                "cusp_degree": 3.6468396053100705,
+                "motion_speed": 0.9548313932234925,
+                "zodiac": 3,
+                "house": 3,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 63.394994114606746,
+                "cusp_degree": 3.394994114606746,
+                "motion_speed": 15.116574142729297,
+                "zodiac": 3,
+                "house": 3,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 42.91935335695164,
+                "cusp_degree": 12.919353356951639,
+                "motion_speed": 1.2141936209782946,
+                "zodiac": 2,
+                "house": 2,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 28.074473316966394,
+                "cusp_degree": 28.074473316966394,
+                "motion_speed": 0.7240721973246054,
+                "zodiac": 1,
+                "house": 1,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 88.26021811694069,
+                "cusp_degree": 28.260218116940692,
+                "motion_speed": 0.8778655146976242,
+                "zodiac": 3,
+                "house": 3,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 103.48090273980189,
+                "cusp_degree": 13.480902739801891,
+                "motion_speed": 0.10871937327007566,
+                "zodiac": 4,
+                "house": 4,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 39.33887533055783,
+                "cusp_degree": 9.338875330557833,
+                "motion_speed": -0.031010195188209515,
+                "zodiac": 2,
+                "house": 2,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 38.084735061881716,
+                "cusp_degree": 8.084735061881716,
+                "motion_speed": -0.05299212148014341,
+                "zodiac": 2,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 218.0847350618817,
+                "motion_speed": -0.05299212148014341,
+                "cusp_degree": 8.084735061881702,
+                "zodiac": 8,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 219.33887533055784,
+                "motion_speed": -0.031010195188209515,
+                "cusp_degree": 9.33887533055784,
+                "zodiac": 8,
+                "house": 8,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1947-06-19",
+        "latitude": 19.07283,
+        "longitude": 72.88261,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2432355.5,
+        "solar_longitude": 63.76619241495563,
+        "lunar_longitude": 65.28557692471371,
+        "lunar_latitude": 2.2963312348888163,
+        "sunrise": [
+            2432355.753438111,
+            [
+                6,
+                4,
+                57
+            ],
+            [
+                1947,
+                6,
+                19,
+                6.08251466229558
+            ]
+        ],
+        "sunset": [
+            2432356.301364403,
+            [
+                19,
+                13,
+                58
+            ],
+            [
+                1947,
+                6,
+                19,
+                19.232745677232742
+            ]
+        ],
+        "moonrise": [
+            2432355.759280611,
+            [
+                6,
+                13,
+                22
+            ],
+            [
+                1947,
+                6,
+                19,
+                6.222734659910202
+            ]
+        ],
+        "moonset": [
+            2432356.3316193726,
+            [
+                19,
+                57,
+                32
+            ],
+            [
+                1947,
+                6,
+                19,
+                19.95886494219303
+            ]
+        ],
+        "tithi": [
+            1,
+            [
+                23,
+                47,
+                14
+            ]
+        ],
+        "nakshatra": [
+            "Rohini",
+            4,
+            [
+                23,
+                11,
+                3
+            ]
+        ],
+        "yoga": [
+            "Ganda",
+            9
+        ],
+        "karana": [
+            0,
+            -5.115831212739792
+        ],
+        "vaara": "Guruvara",
+        "lunar_phase": 1.5193845097580763,
+        "masa": [
+            "Ashadha",
+            4,
+            false
+        ],
+        "ahargana": 1843890,
+        "ritu": "Greeshma Ritu (Summer)",
+        "samvatsara": 21,
+        "day_duration": [
+            13.150231014937162,
+            [
+                13,
+                9,
+                1
+            ]
+        ]
+    }
+}

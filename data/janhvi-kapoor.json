@@ -1,0 +1,226 @@
+{
+    "request": {
+        "name": "Janhvi Kapoor",
+        "title": "Actor",
+        "year": 1997,
+        "month": 3,
+        "day": 6,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 19.07283,
+        "longitude": 72.88261,
+        "location": "Mumbai",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "related": ["anil-kapoor-family", "actor"],
+        "advanced": "sridevi, boney-kapoor",
+        "about": "<p>Janhvi Kapoor (born 6 March 1997) is an Indian actress who works predominantly in Hindi films. Born to film actress Sridevi and producer Boney Kapoor, she made her acting debut in 2018 with the romantic drama Dhadak, which was a commercial success.</p><p>Her subsequent theatrical releases were commercially unsuccessful, but she received nominations for the Filmfare Award for Best Actress for playing the titular aviator in Gunjan Saxena: The Kargil Girl (2020) and a woman trapped in a freezer in Mili (2022). In 2024, she had a brief role in the Telugu action drama Devara: Part 1, which became the highest-grossing of her career. She has since earned praise for her supporting role as a woman of a lower-caste navigating social discrimination in Homebound (2025).</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 50.17802604645371,
+            "ascendant": 2
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 286.1213348737938,
+                "cusp_degree": 16.121334873793785,
+                "motion_speed": 0.21296511823695083,
+                "zodiac": 10,
+                "house": 9,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 321.91032913784244,
+                "cusp_degree": 21.91032913784244,
+                "motion_speed": 1.0014370083317956,
+                "zodiac": 11,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 282.723685648114,
+                "cusp_degree": 12.723685648113985,
+                "motion_speed": 14.865390061954054,
+                "zodiac": 10,
+                "house": 9,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 315.0537335088541,
+                "cusp_degree": 15.053733508854123,
+                "motion_speed": 1.2481897496175538,
+                "zodiac": 11,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 157.07530674325378,
+                "cusp_degree": 7.075306743253776,
+                "motion_speed": -0.33950949462010627,
+                "zodiac": 6,
+                "house": 5,
+                "motion": "R"
+            },
+            "Mercury": {
+                "degree": 317.1191555805776,
+                "cusp_degree": 17.119155580577626,
+                "motion_speed": 1.8445509669929112,
+                "zodiac": 11,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 343.3850094900852,
+                "cusp_degree": 13.385009490085224,
+                "motion_speed": 0.11969209096927148,
+                "zodiac": 12,
+                "house": 11,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 154.94380835627763,
+                "cusp_degree": 4.9438083562776285,
+                "motion_speed": -0.027773109193506024,
+                "zodiac": 6,
+                "house": 5,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 155.83429495269868,
+                "cusp_degree": 5.834294952698684,
+                "motion_speed": -0.05299201973036428,
+                "zodiac": 6,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 335.83429495269866,
+                "motion_speed": -0.05299201973036428,
+                "cusp_degree": 5.834294952698656,
+                "zodiac": 12,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 334.9438083562776,
+                "motion_speed": -0.027773109193506024,
+                "cusp_degree": 4.9438083562776,
+                "zodiac": 12,
+                "house": 11,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1997-03-06",
+        "latitude": 19.07283,
+        "longitude": 72.88261,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2450513.5,
+        "solar_longitude": 321.63908996398567,
+        "lunar_longitude": 278.70870676848966,
+        "lunar_latitude": 4.394794022328135,
+        "sunrise": [
+            2450513.7901115725,
+            [
+                6,
+                57,
+                46
+            ],
+            [
+                1997,
+                3,
+                6,
+                6.962677739560604
+            ]
+        ],
+        "sunset": [
+            2450514.279212873,
+            [
+                18,
+                42,
+                4
+            ],
+            [
+                1997,
+                3,
+                6,
+                18.70110895112157
+            ]
+        ],
+        "moonrise": [
+            2450513.686554221,
+            [
+                4,
+                28,
+                38
+            ],
+            [
+                1997,
+                3,
+                6,
+                4.477301303297281
+            ]
+        ],
+        "moonset": [
+            2450514.167867962,
+            [
+                16,
+                1,
+                44
+            ],
+            [
+                1997,
+                3,
+                6,
+                16.028831083327532
+            ]
+        ],
+        "tithi": [
+            27,
+            [
+                18,
+                57,
+                4
+            ]
+        ],
+        "nakshatra": [
+            "Purva Ashadha",
+            20,
+            [
+                24,
+                28,
+                13
+            ]
+        ],
+        "yoga": [
+            "Parigha",
+            18
+        ],
+        "karana": [
+            53,
+            -3.080682431836351
+        ],
+        "vaara": "Guruvara",
+        "lunar_phase": 317.069616804504,
+        "masa": [
+            "Phalguna",
+            12,
+            false
+        ],
+        "ahargana": 1862048,
+        "ritu": "Varsha Ritu (Monsoon)",
+        "samvatsara": 10,
+        "day_duration": [
+            11.738431211560965,
+            [
+                11,
+                44,
+                18
+            ]
+        ]
+    }
+}

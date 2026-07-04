@@ -1,0 +1,224 @@
+{
+    "request": {
+        "name": "Mahua Moitra",
+        "title": "Politician",
+        "year": 1973,
+        "month": 10,
+        "day": 12,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 24.82733,
+        "longitude": 92.79787,
+        "location": "Silchar",
+        "gender": "female",
+        "agyat_rating": "AX",
+        "about": "<p>Mahua Moitra (Bengali pronunciation: [mohua moi̯tro]; born 12 October 1974) is an Indian politician and former investment banker. She is known for her controversial and fiery speeches in the parliament. She won the 2019 Indian general election as an Trinamool Congress (TMC) party candidate from Krishnanagar and served as a Member of Parliament, Lok Sabha from 2019 to 2023 until being expelled. She was re-elected to parliament in the 2024 Indian general election.</p><p>Moitra served as a member of the West Bengal Legislative Assembly representing Karimpur from 2016 to 2019, and served as the general secretary and national spokesperson of the AITC. On 13 November 2023, Moitra was appointed AITC District President of Krishnanagar (Nadia North). She was an investment banker at JPMorgan Chase before entering politics. Moitra was disqualified and expelled from the Lok Sabha on 8 December 2023 following the recommendation of the Lok Sabha Ethics Committee in a cash-for-query case for sharing her login and password of the NIC portal.</p><p>Moitra has been a strong supporter of the Muslim minority rights in India. In 2019, Moitra was one of the fierce opponents of the Citizenship (Amendment) Act (CAA) claiming that the law unfairly targeted the Muslim community. Along with the Indian Union Muslim League (IUML), Moitra moved the Supreme Court challenging the validity of the CAA. In 2026, Moitra petitioned the Calcutta High Court to advocate for Muslims' rights of animal sacrifice.</p><p>Moitra has been one of the most vocal critics of Bharatiya Janata Party (BJP). BJP leaders charge Moitra and her party, TMC, with Muslim appeasement, pointing to her silence on the issue of violence against Hindus in Bangladesh.s Earlier in 2017, Moitra filed a police complaint against a BJP leader for insulting her during a TV debate, but the court rejected those charges.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 265.0965917450514,
+            "ascendant": 9
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 279.10264755839887,
+                "cusp_degree": 9.102647558398871,
+                "motion_speed": 0.04460639633979714,
+                "zodiac": 10,
+                "house": 2,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 175.2951800437006,
+                "cusp_degree": 25.29518004370061,
+                "motion_speed": 0.9892324165037767,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 357.10766259258725,
+                "cusp_degree": 27.107662592587246,
+                "motion_speed": 13.941451314279393,
+                "zodiac": 12,
+                "house": 4,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 219.8230993836367,
+                "cusp_degree": 9.823099383636702,
+                "motion_speed": 1.1282995321465885,
+                "zodiac": 8,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 12.25764217505735,
+                "cusp_degree": 12.25764217505735,
+                "motion_speed": -0.2907345937026553,
+                "zodiac": 1,
+                "house": 5,
+                "motion": "R"
+            },
+            "Mercury": {
+                "degree": 198.97643881031487,
+                "cusp_degree": 18.976438810314875,
+                "motion_speed": 1.2191689421800256,
+                "zodiac": 7,
+                "house": 11,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 71.23540070419926,
+                "cusp_degree": 11.235400704199265,
+                "motion_speed": 0.00916523998102662,
+                "zodiac": 3,
+                "house": 7,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 247.92138160428965,
+                "cusp_degree": 7.92138160428965,
+                "motion_speed": -0.18861249681720998,
+                "zodiac": 9,
+                "house": 1,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 248.7041635299376,
+                "cusp_degree": 8.704163529937603,
+                "motion_speed": -0.05299202990438673,
+                "zodiac": 9,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 68.7041635299376,
+                "motion_speed": -0.05299202990438673,
+                "cusp_degree": 8.704163529937603,
+                "zodiac": 3,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 67.92138160428965,
+                "motion_speed": -0.18861249681720998,
+                "cusp_degree": 7.92138160428965,
+                "zodiac": 3,
+                "house": 7,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1973-10-12",
+        "latitude": 24.82733,
+        "longitude": 92.79787,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2441967.5,
+        "solar_longitude": 175.02728370933303,
+        "lunar_longitude": 353.3415230807585,
+        "lunar_latitude": 4.850966749550577,
+        "sunrise": [
+            2441967.721497363,
+            [
+                5,
+                18,
+                57
+            ],
+            [
+                1973,
+                10,
+                12,
+                5.315936710685492
+            ]
+        ],
+        "sunset": [
+            2441968.2024117024,
+            [
+                16,
+                51,
+                28
+            ],
+            [
+                1973,
+                10,
+                12,
+                16.857880856841803
+            ]
+        ],
+        "moonrise": [
+            2441968.212022762,
+            [
+                17,
+                5,
+                19
+            ],
+            [
+                1973,
+                10,
+                12,
+                17.08854628354311
+            ]
+        ],
+        "moonset": [
+            2441967.715741699,
+            [
+                5,
+                10,
+                40
+            ],
+            [
+                1973,
+                10,
+                12,
+                5.17780077829957
+            ]
+        ],
+        "tithi": [
+            15,
+            [
+                8,
+                27,
+                12
+            ]
+        ],
+        "nakshatra": [
+            "Purva Bhadrapada",
+            25,
+            [
+                11,
+                30,
+                43
+            ]
+        ],
+        "yoga": [
+            "Vyaghata",
+            12
+        ],
+        "karana": [
+            30,
+            -1.1737832335150244
+        ],
+        "vaara": "Shukrvara",
+        "lunar_phase": 178.3142393714255,
+        "masa": [
+            "Kartika",
+            8,
+            false
+        ],
+        "ahargana": 1853502,
+        "ritu": "Varsha Ritu (Monsoon)",
+        "samvatsara": 47,
+        "day_duration": [
+            11.541944146156311,
+            [
+                11,
+                32,
+                31
+            ]
+        ]
+    }
+}

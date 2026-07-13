@@ -1,0 +1,225 @@
+{
+    "request": {
+        "name": "Anant Ambani",
+        "title": "Businessperson",
+        "year": 1995,
+        "month": 4,
+        "day": 10,
+        "hour": 23,
+        "minute": 0,
+        "second": 0,
+        "latitude": 19.07283,
+        "longitude": 72.88261,
+        "location": "Mumbai",
+        "gender": "male",
+        "agyat_rating": "AA",
+        "about": "<p>Shri Anant M. Ambani is among India’s emerging global leaders at the intersection of business transformation, sustainability, technology, and humanitarian impact. As Executive Director of Reliance Industries Limited, he is helping shape the future of one of the world’s largest and most influential enterprises across renewable energy, advanced materials, digital services, retail, and sustainable industrial innovation.</p><p>A graduate of Brown University, Shri Anant M. Ambani serves on the Boards of Jio Platforms Limited, Reliance Retail Ventures Limited and Reliance Foundation. Shri Anant M. Ambani leads some of India’s most transformative national initiatives in digital connectivity, consumer transformation, clean energy, and social development.</p><p>Within Reliance, Shri Anant M. Ambani plays a pivotal role in corporate strategy, talent development, and the execution of large-scale transformational projects. He has emerged as a key force behind the group’s transition toward a new energy future, advancing initiatives in solar manufacturing, green hydrogen, circular materials, carbon capture, clean fuels, and next-generation energy technologies. His leadership supports Reliance’s ambitious vision of becoming a Net Carbon Zero enterprise by 2035 — one of the largest sustainability transitions being undertaken by any company globally.</p><p>Beyond business, Shri Anant M. Ambani has distinguished himself through an extraordinary commitment to wildlife protection, biodiversity preservation, and compassionate conservation. He is the Founder of Vantara, a pioneering wildlife rescue, rehabilitation, and conservation initiative spread across a 3,000-acre green ecosystem in Jamnagar, Gujarat. Integrating world-class veterinary care, protected natural habitats, scientific breeding and rehabilitation programs, and lifelong care for vulnerable and endangered species, Vantara is redefining global standards of animal welfare and conservation stewardship.</p><p>Under Anant’s leadership, Vantara has become internationally recognized as a model for science-led, compassion-driven conservation. The initiative was honoured with India’s prestigious Prani Mitra National Award, the nation’s highest recognition for corporate contribution to animal welfare, reflecting its transformative impact on wildlife rescue and ecosystem preservation.</p><p>In recognition of his pioneering global contributions to wildlife welfare and biodiversity conservation, Shri Anant M. Ambani received the Global Humanitarian Award for Leadership in Wildlife Conservation, becoming the youngest recipient and the first Asian honouree in the award’s history. The distinction celebrates exceptional leadership in advancing the protection of animals and natural ecosystems worldwide and reflects the humanitarian philosophy at the heart of his work.</p><p>Shri Anant M. Ambani has also been recognized as one of India’s most influential young leaders through his inclusion in the Avendus–Hurun U30 India List, which honours individuals shaping India’s future through innovation, enterprise, and societal impact. His growing influence in business leadership and sustainable development has additionally been reflected in national wealth-creation and enterprise leadership rankings, including the 360 ONE Wealth Creators List.</p><p>Deeply committed to humanitarian service, employee welfare, and ecological restoration, Shri Anant M. Ambani represents a new generation of leadership that seeks to align economic progress with environmental responsibility and social purpose. Through his rare combination of strategic vision, technological ambition, and profound compassion for all living beings, he is helping define a more sustainable, humane, and future-ready model of global development for the twenty-first century.</p>",
+        "related": ["ambani-family", "businessperson"]
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 232.87096221123213,
+            "ascendant": 8
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 231.45676793590414,
+                "cusp_degree": 21.45676793590414,
+                "motion_speed": -0.028735476363641172,
+                "zodiac": 8,
+                "house": 1,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 356.58888228256535,
+                "cusp_degree": 26.58888228256535,
+                "motion_speed": 0.9814983367439488,
+                "zodiac": 12,
+                "house": 5,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 115.2627291654143,
+                "cusp_degree": 25.2627291654143,
+                "motion_speed": 12.882125653141507,
+                "zodiac": 4,
+                "house": 9,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 322.4217180523295,
+                "cusp_degree": 22.42171805232948,
+                "motion_speed": 1.20261164799272,
+                "zodiac": 11,
+                "house": 4,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 111.01137261356321,
+                "cusp_degree": 21.01137261356321,
+                "motion_speed": 0.18406499786543973,
+                "zodiac": 4,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 352.4770433108054,
+                "cusp_degree": 22.477043310805414,
+                "motion_speed": 2.0263303824427963,
+                "zodiac": 12,
+                "house": 5,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 325.45971033226783,
+                "cusp_degree": 25.459710332267832,
+                "motion_speed": 0.11112646178660165,
+                "zodiac": 11,
+                "house": 4,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 191.89646938943076,
+                "cusp_degree": 11.896469389430763,
+                "motion_speed": -0.027678408513120988,
+                "zodiac": 7,
+                "house": 12,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 192.69245088705622,
+                "cusp_degree": 12.692450887056225,
+                "motion_speed": -0.05299202982152312,
+                "zodiac": 7,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 12.692450887056225,
+                "motion_speed": -0.05299202982152312,
+                "cusp_degree": 12.692450887056225,
+                "zodiac": 1,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 11.896469389430763,
+                "motion_speed": -0.027678408513120988,
+                "cusp_degree": 11.896469389430763,
+                "zodiac": 1,
+                "house": 6,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1995-04-10",
+        "latitude": 19.07283,
+        "longitude": 72.88261,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2449817.5,
+        "solar_longitude": 355.87303846525367,
+        "lunar_longitude": 105.96778437849989,
+        "lunar_latitude": -5.259816954780592,
+        "sunrise": [
+            2449817.770358969,
+            [
+                6,
+                29,
+                19
+            ],
+            [
+                1995,
+                4,
+                10,
+                6.48861525580287
+            ]
+        ],
+        "sunset": [
+            2449818.285349886,
+            [
+                18,
+                50,
+                54
+            ],
+            [
+                1995,
+                4,
+                10,
+                18.84839726239443
+            ]
+        ],
+        "moonrise": [
+            2449818.09002343,
+            [
+                14,
+                9,
+                38
+            ],
+            [
+                1995,
+                4,
+                10,
+                14.160562321543694
+            ]
+        ],
+        "moonset": [
+            2449817.6087898826,
+            [
+                2,
+                36,
+                39
+            ],
+            [
+                1995,
+                4,
+                10,
+                2.610957182943821
+            ]
+        ],
+        "tithi": [
+            10,
+            [
+                26,
+                37,
+                58
+            ]
+        ],
+        "nakshatra": [
+            "Punarvasu",
+            7,
+            [
+                26,
+                27,
+                39
+            ]
+        ],
+        "yoga": [
+            "Dhriti",
+            7
+        ],
+        "karana": [
+            18,
+            -5.253191445964234
+        ],
+        "vaara": "Somavara",
+        "lunar_phase": 110.09474591324621,
+        "masa": [
+            "Vaisakha",
+            2,
+            false
+        ],
+        "ahargana": 1861352,
+        "ritu": "Varsha Ritu (Monsoon)",
+        "samvatsara": 8,
+        "day_duration": [
+            12.359782006591558,
+            [
+                12,
+                21,
+                35
+            ]
+        ]
+    }
+}

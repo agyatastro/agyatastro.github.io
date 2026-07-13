@@ -1,0 +1,225 @@
+{
+    "request": {
+        "name": "Isha Ambani",
+        "title": "Businessperson, Philanthropist",
+        "year": 1991,
+        "month": 10,
+        "day": 23,
+        "hour": 19,
+        "minute": 10,
+        "second": 0,
+        "latitude": 19.07283,
+        "longitude": 72.88261,
+        "location": "Mumbai",
+        "gender": "female",
+        "agyat_rating": "AA",
+        "about": "<p>Isha M. Ambani is part of the executive leadership teams at Reliance Retail, Reliance Jio, Reliance Foundation, Reliance Foundation Institution of Education and Research, and Dhirubhai Ambani International School. She is on the Advisory Board of the Yale Schwarzman Center, and on the Board of Trustees of the Smithsonian’s National Museum of Asian Art, the Dia Art Foundation, LACMA, the International Volleyball Federation.</p><p>Isha M. Ambani played a pivotal role in conceptualizing and launching Reliance’s digital services business, Jio, in India in 2016. A game-changer in the Indian telecom landscape, with over 425 million subscribers, Jio is currently India’s no. 1 digital service provider and amongst the largest in the world.</p><p>Isha M. Ambani spearheads Reliance Retail, which is India’s largest retailer by revenue, profit, reach, and scale with presence in grocery, consumer electronics and fashion retail. She is driving the expansion of Reliance Retail into new categories, geographies and formats and is focused on enhancing the overall customer experience. She has led the expansion of the digital footprint for Reliance Retail and launched new formats such as the eCommerce business Ajio, and the online beauty platform Tira. She has been instrumental in expansion of Reliance Retail’s own brand portfolio including acquisition of some exciting Indian brands and launch of the Independence brand. Under her leadership, Reliance Retail is among the Top-10 Retailers in Asia and the only Indian retailer in the list of global top 100 retailers.</p>",
+        "related": ["ambani-family", "businessperson"]
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 24.21186552356525,
+            "ascendant": 1
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 134.32171959985692,
+                "cusp_degree": 14.32171959985692,
+                "motion_speed": 0.1710825792414012,
+                "zodiac": 5,
+                "house": 5,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 185.90465153583256,
+                "cusp_degree": 5.904651535832556,
+                "motion_speed": 0.9951991987831663,
+                "zodiac": 7,
+                "house": 7,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 7.267365284497672,
+                "cusp_degree": 7.267365284497672,
+                "motion_speed": 13.851143007011688,
+                "zodiac": 1,
+                "house": 1,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 139.75752485445545,
+                "cusp_degree": 19.757524854455454,
+                "motion_speed": 0.9147550703480959,
+                "zodiac": 5,
+                "house": 5,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 190.84880548563686,
+                "cusp_degree": 10.84880548563686,
+                "motion_speed": 0.6808644608194703,
+                "zodiac": 7,
+                "house": 7,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 198.7788717326857,
+                "cusp_degree": 18.7788717326857,
+                "motion_speed": 1.5283727203102924,
+                "zodiac": 7,
+                "house": 7,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 276.7308178522174,
+                "cusp_degree": 6.730817852217399,
+                "motion_speed": 0.030664836653102535,
+                "zodiac": 10,
+                "house": 10,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 258.97074875926194,
+                "cusp_degree": 18.970748759261937,
+                "motion_speed": -0.19307844342067296,
+                "zodiac": 9,
+                "house": 9,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 259.7358202653916,
+                "cusp_degree": 19.735820265391624,
+                "motion_speed": -0.05299204553752887,
+                "zodiac": 9,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 79.73582026539162,
+                "motion_speed": -0.05299204553752887,
+                "cusp_degree": 19.735820265391624,
+                "zodiac": 3,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 78.97074875926194,
+                "motion_speed": -0.19307844342067296,
+                "cusp_degree": 18.970748759261937,
+                "zodiac": 3,
+                "house": 3,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1991-10-23",
+        "latitude": 19.07283,
+        "longitude": 72.88261,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2448552.5,
+        "solar_longitude": 185.33802976368696,
+        "lunar_longitude": 359.4242440579248,
+        "lunar_latitude": 4.944827486327597,
+        "sunrise": [
+            2448552.77680756,
+            [
+                6,
+                38,
+                36
+            ],
+            [
+                1991,
+                10,
+                23,
+                6.64338144287467
+            ]
+        ],
+        "sunset": [
+            2448553.2548493543,
+            [
+                18,
+                6,
+                59
+            ],
+            [
+                1991,
+                10,
+                23,
+                18.116384502500296
+            ]
+        ],
+        "moonrise": [
+            2448553.256725901,
+            [
+                18,
+                9,
+                41
+            ],
+            [
+                1991,
+                10,
+                23,
+                18.16142161935568
+            ]
+        ],
+        "moonset": [
+            2448552.760274955,
+            [
+                6,
+                14,
+                48
+            ],
+            [
+                1991,
+                10,
+                23,
+                6.246598921716213
+            ]
+        ],
+        "tithi": [
+            15,
+            [
+                17,
+                45,
+                6
+            ]
+        ],
+        "nakshatra": [
+            "Uttara Bhadrapada",
+            26,
+            [
+                24,
+                35,
+                58
+            ]
+        ],
+        "yoga": [
+            "Vajra",
+            14
+        ],
+        "karana": [
+            29,
+            -3.612002934869679
+        ],
+        "vaara": "Budhvara",
+        "lunar_phase": 174.08621429423783,
+        "masa": [
+            "Kartika",
+            8,
+            false
+        ],
+        "ahargana": 1860087,
+        "ritu": "Varsha Ritu (Monsoon)",
+        "samvatsara": 5,
+        "day_duration": [
+            11.473003059625626,
+            [
+                11,
+                28,
+                23
+            ]
+        ]
+    }
+}

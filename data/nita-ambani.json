@@ -1,0 +1,225 @@
+{
+    "request": {
+        "name": "Nita Ambani",
+        "title": "Businessperson, Philanthropist",
+        "year": 1963,
+        "month": 11,
+        "day": 1,
+        "hour": 23,
+        "minute": 35,
+        "second": 0,
+        "latitude": 19.07283,
+        "longitude": 72.88261,
+        "location": "Mumbai",
+        "gender": "female",
+        "agyat_rating": "AA",
+        "related": ["ambani-family", "businessperson"],
+        "about": "<p>Nita Mukesh Ambani (née Ravindra Dalal; born 1 November 1963) is an Indian businesswoman and philanthropist. She is the chairperson and founder of the Reliance Foundation, Dhirubhai Ambani International School and a director of Reliance Industries. She is married to Reliance Industries Limited's chairman and managing director Mukesh Ambani. With a family fortune estimated in excess of US$113.5 billion (November 2025), the Ambanis are among the richest in the world. She is also an art collector and the owner of the Indian Premier League cricket team Mumbai Indians. amb In 2016, she was listed as one of the 'fifty high and mighty Indians' by India Today and in 'the most influential women business leaders in Asia' list by Forbes. She became the first Indian woman to become a member of the International Olympic Committee (IOC) in 2016.</p><p>ita Ambani was a co-chair and board member of the Mumbai Academy of the Moving Image during Jio's sponsorship of the organisation from 2015 to 2024. In 2023, she launched the Nita Mukesh Ambani Cultural Centre in Mumbai</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 96.24863735544537,
+            "ascendant": 4
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 348.0664802650337,
+                "cusp_degree": 18.066480265033704,
+                "motion_speed": -0.10489158838076373,
+                "zodiac": 12,
+                "house": 9,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 195.24637484388725,
+                "cusp_degree": 15.246374843887253,
+                "motion_speed": 1.0002341594467627,
+                "zodiac": 7,
+                "house": 4,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 17.736375619092428,
+                "cusp_degree": 17.736375619092428,
+                "motion_speed": 15.321008638248609,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 211.91089926661135,
+                "cusp_degree": 1.9108992666113522,
+                "motion_speed": 1.246264529334765,
+                "zodiac": 8,
+                "house": 5,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 221.71618663298764,
+                "cusp_degree": 11.716186632987643,
+                "motion_speed": 0.7245090271778676,
+                "zodiac": 8,
+                "house": 5,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 193.16617041908276,
+                "cusp_degree": 13.16617041908276,
+                "motion_speed": 1.6448717150306749,
+                "zodiac": 7,
+                "house": 4,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 293.2057001695899,
+                "cusp_degree": 23.205700169589875,
+                "motion_speed": 0.01882910168406334,
+                "zodiac": 10,
+                "house": 7,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 80.06196220297726,
+                "cusp_degree": 20.061962202977256,
+                "motion_speed": -0.15507445335522838,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 81.19868451200922,
+                "cusp_degree": 21.198684512009223,
+                "motion_speed": -0.05299213883745275,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 261.1986845120092,
+                "motion_speed": -0.05299213883745275,
+                "cusp_degree": 21.19868451200921,
+                "zodiac": 9,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 260.06196220297727,
+                "motion_speed": -0.15507445335522838,
+                "cusp_degree": 20.06196220297727,
+                "zodiac": 9,
+                "house": 6,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1963-11-01",
+        "latitude": 19.07283,
+        "longitude": 72.88261,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2438334.5,
+        "solar_longitude": 194.49287345253427,
+        "lunar_longitude": 6.211093314458201,
+        "lunar_latitude": -4.854217458856613,
+        "sunrise": [
+            2438334.7792474017,
+            [
+                6,
+                42,
+                7
+            ],
+            [
+                1963,
+                11,
+                1,
+                6.7019376419484615
+            ]
+        ],
+        "sunset": [
+            2438335.2513132514,
+            [
+                18,
+                1,
+                53
+            ],
+            [
+                1963,
+                11,
+                1,
+                18.031518034636974
+            ]
+        ],
+        "moonrise": [
+            2438335.2492756736,
+            [
+                17,
+                58,
+                57
+            ],
+            [
+                1963,
+                11,
+                1,
+                17.982616167515516
+            ]
+        ],
+        "moonset": [
+            2438334.755307454,
+            [
+                6,
+                7,
+                39
+            ],
+            [
+                1963,
+                11,
+                1,
+                6.127378899604082
+            ]
+        ],
+        "tithi": [
+            15,
+            [
+                20,
+                36,
+                24
+            ]
+        ],
+        "nakshatra": [
+            "Uttara Bhadrapada",
+            26,
+            [
+                11,
+                29,
+                1
+            ]
+        ],
+        "yoga": [
+            "Siddha",
+            15
+        ],
+        "karana": [
+            29,
+            -1.7040455071087592
+        ],
+        "vaara": "Shukrvara",
+        "lunar_phase": 171.71821986192393,
+        "masa": [
+            "Kartika",
+            8,
+            false
+        ],
+        "ahargana": 1849869,
+        "ritu": "Varsha Ritu (Monsoon)",
+        "samvatsara": 37,
+        "day_duration": [
+            11.329580392688513,
+            [
+                11,
+                19,
+                46
+            ]
+        ]
+    }
+}

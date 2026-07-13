@@ -1,0 +1,225 @@
+{
+    "request": {
+        "name": "Aakash Ambani",
+        "title": "Businessperson",
+        "year": 1991,
+        "month": 10,
+        "day": 23,
+        "hour": 19,
+        "minute": 0,
+        "second": 0,
+        "latitude": 19.07283,
+        "longitude": 72.88261,
+        "location": "Mumbai",
+        "gender": "male",
+        "agyat_rating": "AA",
+        "about": "<p>Akash M. Ambani is an Indian business leader serving as the Chairman of Reliance Jio Infocomm Limited (RJIL) since June 2022. He was earlier serving as non-Executive Director on RJIL board since October 2014. He is the Managing Director of Jio Platforms Limited (JPL). At JPL, he spearheads the creation of products and services that leverage new-age technologies like 5G, Artificial Intelligence, Blockchain and the Internet of Things to bring about a generational shift in Commerce, Education, and Healthcare across India. Under his leadership, Jio crossed the 100 million subscriber mark in less than six months of its launch in 2016, and today serves over 524 million customers.</p><p>Akash M. Ambani is part of the RJIL Executive Committee, the governing and operating council. He is also a member of the Product Leadership Group and is closely involved in the development of Products and all digital services applications. Akash M. Ambani has led the expansion of India’s digital ecosystem of India through launch of affordable devices such as the Jiophone, which enabled more than 100 million Indians to experience the power of the Internet as well as launch of new services and applications which deepen India’s digital ecosystem across information, entertainment, education and convenience of use. Along with positive social impact, Jio has won national and international recognition for the climate mitigation initiatives aimed at reducing its carbon footprint and transitioning it’s energy requirements towards renewable sources.</p><p>In addition to the digital services business, Shri Akash M. Ambani has been part of the leadership team of Reliance Industries’ retail businesses serving on the Board of Reliance Retail Ventures Limited as a Director since October 2014. Shri Akash M. Ambani is keenly involved in various employee engagement initiatives. He is an avid sportsperson and has played a key role in the management of Mumbai Indians.</p><p>Akash M. Ambani received a Bachelor’s in Economics from Brown University, USA. He is also a member of the President’s Leadership Council of the Brown University. He has been recognised in TIME magazine’s TIME100 Next list of rising stars from across industries around the world, and in Fortune’s 40 Under-40 list of young leaders who stood out for their impact on business globally. He was instrumental in attracting over USD 20 billion from marquee global investors including Meta and Google, and in forging strategic partnerships that position JPL as a full-stack technology platform.</p>",
+        "related": ["ambani-family", "businessperson"]
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 21.403429139494865,
+            "ascendant": 1
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 134.32053148952593,
+                "cusp_degree": 14.320531489525933,
+                "motion_speed": 0.17109312904685903,
+                "zodiac": 5,
+                "house": 5,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 185.897740442681,
+                "cusp_degree": 5.897740442680998,
+                "motion_speed": 0.9951953683623841,
+                "zodiac": 7,
+                "house": 7,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 7.171182687333328,
+                "cusp_degree": 7.171182687333328,
+                "motion_speed": 13.849330834951505,
+                "zodiac": 1,
+                "house": 1,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 139.75117263809457,
+                "cusp_degree": 19.751172638094573,
+                "motion_speed": 0.9146827910430452,
+                "zodiac": 5,
+                "house": 5,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 190.84407728033565,
+                "cusp_degree": 10.844077280335654,
+                "motion_speed": 0.6808590622914292,
+                "zodiac": 7,
+                "house": 7,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 198.7682578185253,
+                "cusp_degree": 18.768257818525313,
+                "motion_speed": 1.528438924300718,
+                "zodiac": 7,
+                "house": 7,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 276.730604941065,
+                "cusp_degree": 6.730604941064996,
+                "motion_speed": 0.030653585689505894,
+                "zodiac": 10,
+                "house": 10,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 258.972090097987,
+                "cusp_degree": 18.972090097987007,
+                "motion_speed": -0.19322664047494523,
+                "zodiac": 9,
+                "house": 9,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 259.73618826558294,
+                "cusp_degree": 19.73618826558294,
+                "motion_speed": -0.05299203729353118,
+                "zodiac": 9,
+                "house": 9,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 79.73618826558294,
+                "motion_speed": -0.05299203729353118,
+                "cusp_degree": 19.73618826558294,
+                "zodiac": 3,
+                "house": 3,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 78.972090097987,
+                "motion_speed": -0.19322664047494523,
+                "cusp_degree": 18.972090097987007,
+                "zodiac": 3,
+                "house": 3,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1991-10-23",
+        "latitude": 19.07283,
+        "longitude": 72.88261,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2448552.5,
+        "solar_longitude": 185.33802976368696,
+        "lunar_longitude": 359.4242440579248,
+        "lunar_latitude": 4.944827486327597,
+        "sunrise": [
+            2448552.77680756,
+            [
+                6,
+                38,
+                36
+            ],
+            [
+                1991,
+                10,
+                23,
+                6.64338144287467
+            ]
+        ],
+        "sunset": [
+            2448553.2548493543,
+            [
+                18,
+                6,
+                59
+            ],
+            [
+                1991,
+                10,
+                23,
+                18.116384502500296
+            ]
+        ],
+        "moonrise": [
+            2448553.256725901,
+            [
+                18,
+                9,
+                41
+            ],
+            [
+                1991,
+                10,
+                23,
+                18.16142161935568
+            ]
+        ],
+        "moonset": [
+            2448552.760274955,
+            [
+                6,
+                14,
+                48
+            ],
+            [
+                1991,
+                10,
+                23,
+                6.246598921716213
+            ]
+        ],
+        "tithi": [
+            15,
+            [
+                17,
+                45,
+                6
+            ]
+        ],
+        "nakshatra": [
+            "Uttara Bhadrapada",
+            26,
+            [
+                24,
+                35,
+                58
+            ]
+        ],
+        "yoga": [
+            "Vajra",
+            14
+        ],
+        "karana": [
+            29,
+            -3.612002934869679
+        ],
+        "vaara": "Budhvara",
+        "lunar_phase": 174.08621429423783,
+        "masa": [
+            "Kartika",
+            8,
+            false
+        ],
+        "ahargana": 1860087,
+        "ritu": "Varsha Ritu (Monsoon)",
+        "samvatsara": 5,
+        "day_duration": [
+            11.473003059625626,
+            [
+                11,
+                28,
+                23
+            ]
+        ]
+    }
+}

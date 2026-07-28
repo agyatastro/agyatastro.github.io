@@ -1,0 +1,226 @@
+{
+    "request": {
+        "name": "Badshah",
+        "title": "Rapper, Singer, Songwriter, Music Producer",
+        "year": 1985,
+        "month": 11,
+        "day": 19,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 28.65195,
+        "longitude": 77.23149,
+        "location": "Delhi",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "related": ["rapper", "singer", "music-producer", "songwriter"],
+        "advanced": "marriage, multiple marriages",
+        "about": "<p>Aditya Prateek Singh, better known professionally as Badshah, is an Indian rapper, singer-songwriter, music producer, businessman and movie producer. He is one of the most influential music artists in India widely credited with helping Indian Hip-Hop music reach global mainstream audiences. He is known for his high energy songs and commercial sound.</p><p>Badshah gained widespread recognition after his 2012 single, \"Saturday Saturday\", was featured in the soundtrack of the 2014 movie, Humpty Sharma Ki Dulhania. His notable works in Bollywood films include \"Abhi Toh Party Shuru Hui Hai\" from Khoobsurat, \"Kar Gayi Chull\" from Kapoor and Sons, \"Garmi\" from Street Dancer 3D, \"Naina\" from Crew, and \"Proper Patola\" from Namaste England, among others. He has also collaborated with international artists such as J Balvin and Tainy for the song \"Voodoo\", with the remix of the song featuring a guest verse from Lil Baby.</p><p>Badshah has appeared as a judge on MTV Hustle, Indian Idol, Dil Hai Hindustani, India's Got Talent, and India's Got Latent.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 286.875998205226,
+            "ascendant": 10
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 286.8962457720132,
+                "cusp_degree": 16.896245772013174,
+                "motion_speed": 0.13855238518736915,
+                "zodiac": 10,
+                "house": 1,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 213.21617375990263,
+                "cusp_degree": 3.216173759902631,
+                "motion_speed": 1.0091311191809316,
+                "zodiac": 8,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 301.9553473179886,
+                "cusp_degree": 1.9553473179885827,
+                "motion_speed": 12.926668814306945,
+                "zodiac": 11,
+                "house": 2,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 198.42432604907026,
+                "cusp_degree": 18.42432604907026,
+                "motion_speed": 1.2542387274603404,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 170.50257483331066,
+                "cusp_degree": 20.50257483331066,
+                "motion_speed": 0.6234123720960993,
+                "zodiac": 6,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 231.31875611386164,
+                "cusp_degree": 21.31875611386164,
+                "motion_speed": -0.09508476597799187,
+                "zodiac": 8,
+                "house": 11,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 216.60260586504972,
+                "cusp_degree": 6.602605865049725,
+                "motion_speed": 0.11890686511134213,
+                "zodiac": 8,
+                "house": 11,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 15.415317208605046,
+                "cusp_degree": 15.415317208605046,
+                "motion_speed": -0.00146462201276087,
+                "zodiac": 1,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 14.426383608069495,
+                "cusp_degree": 14.426383608069495,
+                "motion_speed": -0.05299203469279449,
+                "zodiac": 1,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 194.4263836080695,
+                "motion_speed": -0.05299203469279449,
+                "cusp_degree": 14.4263836080695,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 195.41531720860505,
+                "motion_speed": -0.00146462201276087,
+                "cusp_degree": 15.415317208605046,
+                "zodiac": 7,
+                "house": 10,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1985-11-19",
+        "latitude": 28.65195,
+        "longitude": 77.23149,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2446388.5,
+        "solar_longitude": 212.942879763949,
+        "lunar_longitude": 298.43972289685877,
+        "lunar_latitude": -5.1415922915423815,
+        "sunrise": [
+            2446388.785275977,
+            [
+                6,
+                50,
+                48
+            ],
+            [
+                1985,
+                11,
+                19,
+                6.846623450517654
+            ]
+        ],
+        "sunset": [
+            2446389.223495182,
+            [
+                17,
+                21,
+                50
+            ],
+            [
+                1985,
+                11,
+                19,
+                17.36388437077403
+            ]
+        ],
+        "moonrise": [
+            2446389.0345864748,
+            [
+                12,
+                49,
+                48
+            ],
+            [
+                1985,
+                11,
+                19,
+                12.830075394362211
+            ]
+        ],
+        "moonset": [
+            2446389.5132759167,
+            [
+                24,
+                19,
+                7
+            ],
+            [
+                1985,
+                11,
+                20,
+                0.31862200051546097
+            ]
+        ],
+        "tithi": [
+            8,
+            [
+                28,
+                9,
+                12
+            ]
+        ],
+        "nakshatra": [
+            "Uttara Ashadha",
+            21,
+            [
+                15,
+                10,
+                16
+            ]
+        ],
+        "yoga": [
+            "Dhruva",
+            11
+        ],
+        "karana": [
+            14,
+            -4.911253130051591
+        ],
+        "vaara": "Mangalvara",
+        "lunar_phase": 85.49684313290976,
+        "masa": [
+            "Margsheersha",
+            9,
+            false
+        ],
+        "ahargana": 1857923,
+        "ritu": "Varsha Ritu (Monsoon)",
+        "samvatsara": 59,
+        "day_duration": [
+            10.517260920256376,
+            [
+                10,
+                31,
+                2
+            ]
+        ]
+    }
+}

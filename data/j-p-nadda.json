@@ -1,0 +1,225 @@
+{
+    "request": {
+        "name": "J. P. Nadda",
+        "title": "Politician",
+        "year": 1960,
+        "month": 12,
+        "day": 2,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 25.59408,
+        "longitude": 85.13563,
+        "location": "Patna",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "related": ["politician"],
+        "about": "<p>Jagat Prakash Nadda (born 2 December 1960) is an Indian lawyer and politician who is serving as the 34th Minister of Health, 25th Minister of Chemicals and Fertilizers since 2024 and served as the 10th national president of the Bharatiya Janata Party (BJP) from 2020 to 2026. He is also the member of the Rajya Sabha representing Gujarat since 2024. A key decision maker of the BJP, he is a close aide to Narendra Modi. He was the BJP's national working president from 2019 to 2020. Nadda was also the Minister of Health and Family Welfare in the first Modi ministry from 2014 to 2019 and Parliamentary Board Secretary of Bharatiya Janata Party.</p><p>Previously, he was an MLA from Bilaspur from 2007 to 2012 and from 1993 to 2003 and Minister of Forest, Environment, Science, and Technology from 2007 to 2012 and the Minister of Health and Family Welfare and Parliamentary Affairs from 1998 to 2003 in the Himachal Pradesh Government.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 314.6076171648541,
+            "ascendant": 11
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 254.02897890012085,
+                "cusp_degree": 14.028978900120848,
+                "motion_speed": 0.21829246025342794,
+                "zodiac": 9,
+                "house": 11,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 226.78144008247733,
+                "cusp_degree": 16.78144008247733,
+                "motion_speed": 1.0138410795257222,
+                "zodiac": 8,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 36.43181761724305,
+                "cusp_degree": 6.431817617243048,
+                "motion_speed": 12.432228732413519,
+                "zodiac": 2,
+                "house": 4,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 267.0504472441923,
+                "cusp_degree": 27.0504472441923,
+                "motion_speed": 1.1969759243113167,
+                "zodiac": 9,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 84.40049239755423,
+                "cusp_degree": 24.40049239755423,
+                "motion_speed": -0.16372773277489766,
+                "zodiac": 3,
+                "house": 5,
+                "motion": "R"
+            },
+            "Mercury": {
+                "degree": 208.81926708447116,
+                "cusp_degree": 28.819267084471164,
+                "motion_speed": 1.3914812462390929,
+                "zodiac": 7,
+                "house": 9,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 262.95483615802215,
+                "cusp_degree": 22.954836158022147,
+                "motion_speed": 0.10293131134560689,
+                "zodiac": 9,
+                "house": 11,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 137.80528240311997,
+                "cusp_degree": 17.805282403119975,
+                "motion_speed": -0.23476243082019313,
+                "zodiac": 5,
+                "house": 7,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 137.60780062557865,
+                "cusp_degree": 17.607800625578648,
+                "motion_speed": -0.05299200911305405,
+                "zodiac": 5,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 317.60780062557865,
+                "motion_speed": -0.05299200911305405,
+                "cusp_degree": 17.607800625578648,
+                "zodiac": 11,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 317.80528240312,
+                "motion_speed": -0.23476243082019313,
+                "cusp_degree": 17.805282403119975,
+                "zodiac": 11,
+                "house": 1,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1960-12-02",
+        "latitude": 25.59408,
+        "longitude": 85.13563,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2437270.5,
+        "solar_longitude": 226.5068691704872,
+        "lunar_longitude": 33.058719799672744,
+        "lunar_latitude": -4.829405644608265,
+        "sunrise": [
+            2437270.766155356,
+            [
+                6,
+                23,
+                16
+            ],
+            [
+                1960,
+                12,
+                2,
+                6.387728545814753
+            ]
+        ],
+        "sunset": [
+            2437271.2043975443,
+            [
+                16,
+                54,
+                20
+            ],
+            [
+                1960,
+                12,
+                2,
+                16.90554106235504
+            ]
+        ],
+        "moonrise": [
+            2437271.1823225305,
+            [
+                16,
+                22,
+                33
+            ],
+            [
+                1960,
+                12,
+                2,
+                16.375740732997656
+            ]
+        ],
+        "moonset": [
+            2437270.722701097,
+            [
+                5,
+                20,
+                41
+            ],
+            [
+                1960,
+                12,
+                2,
+                5.344826325774193
+            ]
+        ],
+        "tithi": [
+            14,
+            [
+                9,
+                25,
+                27
+            ]
+        ],
+        "nakshatra": [
+            "Ashwini",
+            1,
+            [
+                12,
+                24,
+                39
+            ]
+        ],
+        "yoga": [
+            "Shiva",
+            19
+        ],
+        "karana": [
+            28,
+            -1.5969609020536382
+        ],
+        "vaara": "Shukrvara",
+        "lunar_phase": 166.55185062918554,
+        "masa": [
+            "Margsheersha",
+            9,
+            false
+        ],
+        "ahargana": 1848805,
+        "ritu": "Varsha Ritu (Monsoon)",
+        "samvatsara": 34,
+        "day_duration": [
+            10.517812516540289,
+            [
+                10,
+                31,
+                4
+            ]
+        ]
+    }
+}

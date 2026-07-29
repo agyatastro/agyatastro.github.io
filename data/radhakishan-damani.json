@@ -1,0 +1,225 @@
+{
+    "request": {
+        "name": "Radhakishan Damani",
+        "title": "Businessman, Investor",
+        "year": 1955,
+        "month": 7,
+        "day": 12,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 28.01762,
+        "longitude": 73.31495,
+        "location": "Bikaner",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "related": ["investor"],
+        "about": "<p>Radhakishan Shivkishan Damani is an Indian billionaire businessman and investor. He is the founder and chairman of retail chain DMart. Damani is referred to as the \"retail king\" of India.</p><p>His estimated net worth is US$15.5 billion as of December 2024, according to Forbes.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 165.78500989258242,
+            "ascendant": 6
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 102.80809156469942,
+                "cusp_degree": 12.808091564699424,
+                "motion_speed": 0.2157163001661916,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 85.90637402005892,
+                "cusp_degree": 25.90637402005892,
+                "motion_speed": 0.9535222792336148,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 348.4939836189924,
+                "cusp_degree": 18.493983618992388,
+                "motion_speed": 13.568531038425297,
+                "zodiac": 12,
+                "house": 7,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 71.96461093437955,
+                "cusp_degree": 11.96461093437955,
+                "motion_speed": 1.222561152532059,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 97.32344752568481,
+                "cusp_degree": 7.323447525684813,
+                "motion_speed": 0.6405904123142904,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 65.1621386763482,
+                "cusp_degree": 5.1621386763482064,
+                "motion_speed": 1.1394777265130906,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 201.30041901500195,
+                "cusp_degree": 21.30041901500195,
+                "motion_speed": -0.011497117466194688,
+                "zodiac": 7,
+                "house": 2,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 242.93060950937314,
+                "cusp_degree": 2.9306095093731415,
+                "motion_speed": -0.010030831996467999,
+                "zodiac": 9,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 242.00214471537285,
+                "cusp_degree": 2.00214471537285,
+                "motion_speed": -0.05299204747085631,
+                "zodiac": 9,
+                "house": 4,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 62.00214471537288,
+                "motion_speed": -0.05299204747085631,
+                "cusp_degree": 2.0021447153728786,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 62.93060950937314,
+                "motion_speed": -0.010030831996467999,
+                "cusp_degree": 2.9306095093731415,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1955-07-12",
+        "latitude": 28.01762,
+        "longitude": 73.31495,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2435300.5,
+        "solar_longitude": 85.64813392363247,
+        "lunar_longitude": 344.8303226303346,
+        "lunar_latitude": 5.139567732515711,
+        "sunrise": [
+            2435300.7445456004,
+            [
+                5,
+                52,
+                9
+            ],
+            [
+                1955,
+                7,
+                12,
+                5.869094409048557
+            ]
+        ],
+        "sunset": [
+            2435301.3138250923,
+            [
+                19,
+                31,
+                54
+            ],
+            [
+                1955,
+                7,
+                12,
+                19.531802214682102
+            ]
+        ],
+        "moonrise": [
+            2435301.507204844,
+            [
+                24,
+                10,
+                22
+            ],
+            [
+                1955,
+                7,
+                13,
+                0.1729162596166134
+            ]
+        ],
+        "moonset": [
+            2435301.008858379,
+            [
+                12,
+                12,
+                45
+            ],
+            [
+                1955,
+                7,
+                12,
+                12.212601095438004
+            ]
+        ],
+        "tithi": [
+            22,
+            [
+                15,
+                2,
+                57
+            ]
+        ],
+        "nakshatra": [
+            "Purva Bhadrapada",
+            25,
+            [
+                26,
+                11,
+                18
+            ]
+        ],
+        "yoga": [
+            "Atiganda",
+            5
+        ],
+        "karana": [
+            43,
+            -4.256094702895439
+        ],
+        "vaara": "Mangalvara",
+        "lunar_phase": 259.1821887067021,
+        "masa": [
+            "Ashadha",
+            4,
+            false
+        ],
+        "ahargana": 1846835,
+        "ritu": "Varsha Ritu (Monsoon)",
+        "samvatsara": 29,
+        "day_duration": [
+            13.662707805633545,
+            [
+                13,
+                39,
+                46
+            ]
+        ]
+    }
+}

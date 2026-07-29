@@ -1,0 +1,225 @@
+{
+    "request": {
+        "name": "Sabeer Bhatia",
+        "title": "Businessman, Inventor",
+        "year": 1968,
+        "month": 12,
+        "day": 30,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 30.73629,
+        "longitude": 76.7884,
+        "location": "Chandigarh",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "related": ["inventor", "businessman"],
+        "about": "Sabeer Bhatia (born 30 December 1968) is an Indian-American entrepreneur who co-founded the first free web-based email service, Hotmail.com (now Outlook.com) in 1996. In 2021 he co-founded ShowReel with Javed Yunus. ShowReel initially hosted short videos for job seekers and founders. It has since turned into an AI-based entrepreneurship course"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 341.05640832794626,
+            "ascendant": 12
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 161.92303548722336,
+                "cusp_degree": 11.923035487223359,
+                "motion_speed": 0.06549185493073889,
+                "zodiac": 6,
+                "house": 7,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 255.2174025602257,
+                "cusp_degree": 15.217402560225707,
+                "motion_speed": 1.0189659253146632,
+                "zodiac": 9,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 26.34835277613353,
+                "cusp_degree": 26.34835277613353,
+                "motion_speed": 11.901075219160706,
+                "zodiac": 1,
+                "house": 2,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 300.266548273732,
+                "cusp_degree": 0.26654827373198486,
+                "motion_speed": 1.141952614553305,
+                "zodiac": 11,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 186.7756433746787,
+                "cusp_degree": 6.775643374678708,
+                "motion_speed": 0.5700777445501815,
+                "zodiac": 7,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 268.3807904105594,
+                "cusp_degree": 28.380790410559428,
+                "motion_speed": 1.588850979499202,
+                "zodiac": 9,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 355.3431784699867,
+                "cusp_degree": 25.343178469986697,
+                "motion_speed": 0.016196511794130557,
+                "zodiac": 12,
+                "house": 1,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 341.4680159265603,
+                "cusp_degree": 11.468015926560327,
+                "motion_speed": -0.11901958105806508,
+                "zodiac": 12,
+                "house": 1,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 341.2812612973392,
+                "cusp_degree": 11.2812612973392,
+                "motion_speed": -0.052992067574613735,
+                "zodiac": 12,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 161.28126129733914,
+                "motion_speed": -0.052992067574613735,
+                "cusp_degree": 11.281261297339142,
+                "zodiac": 6,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 161.46801592656038,
+                "motion_speed": -0.11901958105806508,
+                "cusp_degree": 11.468015926560383,
+                "zodiac": 6,
+                "house": 7,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1968-12-30",
+        "latitude": 30.73629,
+        "longitude": 76.7884,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2440220.5,
+        "solar_longitude": 254.9414318698121,
+        "lunar_longitude": 23.122142488441074,
+        "lunar_latitude": 3.3350413044925697,
+        "sunrise": [
+            2440220.808548338,
+            [
+                7,
+                24,
+                19
+            ],
+            [
+                1968,
+                12,
+                30,
+                7.40516010671854
+            ]
+        ],
+        "sunset": [
+            2440221.2268126314,
+            [
+                17,
+                26,
+                37
+            ],
+            [
+                1968,
+                12,
+                30,
+                17.44350315257907
+            ]
+        ],
+        "moonrise": [
+            2440221.094962648,
+            [
+                14,
+                16,
+                45
+            ],
+            [
+                1968,
+                12,
+                30,
+                14.279103554785252
+            ]
+        ],
+        "moonset": [
+            2440220.640126124,
+            [
+                3,
+                21,
+                47
+            ],
+            [
+                1968,
+                12,
+                30,
+                3.363026976585388
+            ]
+        ],
+        "tithi": [
+            11,
+            [
+                15,
+                49,
+                38
+            ]
+        ],
+        "nakshatra": [
+            "Ashwini",
+            1,
+            [
+                33,
+                2,
+                14
+            ]
+        ],
+        "yoga": [
+            "Sadhya",
+            21
+        ],
+        "karana": [
+            21,
+            -5.541314371028022
+        ],
+        "vaara": "Somavara",
+        "lunar_phase": 128.18071061862898,
+        "masa": [
+            "Pausha",
+            10,
+            false
+        ],
+        "ahargana": 1851755,
+        "ritu": "Varsha Ritu (Monsoon)",
+        "samvatsara": 42,
+        "day_duration": [
+            10.038343045860529,
+            [
+                10,
+                2,
+                18
+            ]
+        ]
+    }
+}

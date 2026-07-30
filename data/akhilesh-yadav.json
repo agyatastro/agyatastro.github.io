@@ -14,7 +14,69 @@
         "agyat_rating": "AA",
         "gender": "male",
         "about": "<p>Akhilesh Yadav (born 1 July 1973) is an Indian politician and national president of the Samajwadi Party who served as the 20th Chief Minister of Uttar Pradesh. Having assumed the chief minister's office on 15 March 2012 at the age of 38, he is the youngest person to have held the office till date. He is the incumbent Member of Parliament for Kannauj in the 18th Lok Sabha. He is the parliamentary party leader of Samajwadi Party in 18th Lok Sabha. Earlier, he was an elected as the Member of Legislative Assembly for Karhal in the 18th Vidhan Sabha, before resigning and has also been the Leader of Opposition in the Uttar Pradesh Legislative Assembly from March 2022 to June 2024.</p><p>His first significant success in politics was being elected as the Member of the 13th Lok Sabha in the year 2000 ( by-poll) for the Kannauj constituency. He is the son of Mulayam Singh Yadav, a veteran Indian politician and the founder of Samajwadi Party who served as Minister of Defence, Government of India and served three terms as the Chief Minister of Uttar Pradesh.</p>",
-        "related": ["yadav-family", "politician"]
+        "related": ["yadav-family", "politician"],
+        "events": [
+            {
+                "date": "04-06-2024",
+                "event": "Won the Lok Sabha election from Kannauj and led Samajwadi Party to its best-ever general election performance, securing 37 seats in Uttar Pradesh"
+            },
+            {
+                "date": "10-10-2022",
+                "event": "His father and founder of the Samajwadi Party, Mulayam Singh Yadav, passed away"
+            },
+            {
+                "date": "25-03-2022",
+                "event": "Assumed the role of Leader of Opposition in the Uttar Pradesh Legislative Assembly after winning his maiden assembly seat from Karhal"
+            },
+            {
+                "date": "23-05-2019",
+                "event": "Elected to the 17th Lok Sabha from the Azamgarh constituency"
+            },
+            {
+                "date": "01-01-2017",
+                "event": "Unanimously elected as the National President of the Samajwadi Party after an intense internal family and party power struggle"
+            },
+            {
+                "date": "11-03-2017",
+                "event": "Resigned as Chief Minister of Uttar Pradesh following the Samajwadi Party's defeat in the state assembly elections"
+            },
+            {
+                "date": "21-11-2016",
+                "event": "Inaugurated his flagship infrastructure project, the 302 km Agra-Lucknow Expressway"
+            },
+            {
+                "date": "15-03-2012",
+                "event": "Sworn in as the 20th Chief Minister of Uttar Pradesh at age 38, becoming the youngest person to hold the office"
+            },
+            {
+                "date": "10-03-2012",
+                "event": "Appointed as the Leader of the Samajwadi Legislative Party in Uttar Pradesh following SP's decisive victory in the assembly elections"
+            },
+            {
+                "date": "10-03-2009",
+                "event": "Elected President of the Samajwadi Party's Uttar Pradesh state unit, spearheading the party's modern campaign overhaul"
+            },
+            {
+                "date": "16-05-2004",
+                "event": "Re-elected as Member of Parliament to the 14th Lok Sabha from Kannauj for his second term"
+            },
+            {
+                "date": "10-02-2000",
+                "event": "Entered active politics by winning a by-election to the 13th Lok Sabha from the Kannauj constituency"
+            },
+            {
+                "date": "24-11-1999",
+                "event": "Married Dimple Rawat (now Dimple Yadav)"
+            },
+            {
+                "date": "1998",
+                "event": "Completed his Master's degree in Environmental Engineering from the University of Sydney, Australia"
+            },
+            {
+                "date": "01-07-1973",
+                "event": "Born to Mulayam Singh Yadav and Malti Devi in Saifai, Etawah district, Uttar Pradesh, India"
+            }
+        ]
     },
     "response": {
         "ascendant": {

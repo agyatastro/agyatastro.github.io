@@ -14,7 +14,85 @@
         "agyat_rating": "AA",
         "gender": "female",
         "related": ["actor", "model"],
-        "about": "<p>Cameron Michelle Diaz (born August 30, 1972) is an American actress. Prolific in both comedy and drama, her films have grossed over $3 billion in the U.S. box-office.[1] Her output of romantic comedies in the late 1990s and early 2000s established her as a prominent sex symbol and one of Hollywood's most bankable stars, and in 2013 she was named the highest-paid actress over 40.[2] Diaz has received various accolades, including nominations for a British Academy Film Award and four Golden Globe Awards.</p><p>Born in San Diego, California, Diaz was raised in Long Beach.[3][4] While still in high school, she signed a modeling contract with Elite Model Management. She made her film debut at age 21 opposite Jim Carrey in the comedy The Mask (1994). Following a supporting role in the romantic comedy My Best Friend's Wedding (1997), she starred as the titular character in the Farrelly brothers' comedy There's Something About Mary (1998), which brought her increased fame and her first Golden Globe nomination. Her following two projects—the sports drama Any Given Sunday and Spike Jonze's fantasy film Being John Malkovich (both 1999)—earned Diaz recognition as a dramatic actress.</p><p>Diaz received praise for her supporting roles in Cameron Crowe's Vanilla Sky (2001) and Martin Scorsese's Gangs of New York (2002) and had greater commercial success in the action comedy Charlie's Angels (2000) and its 2003 sequel, as well as for voicing Princess Fiona in the Shrek franchise since 2001. Her subsequent films include the comedies In Her Shoes (2005), The Holiday (2006), What Happens in Vegas (2008), Knight and Day (2010), The Green Hornet (2011), and Bad Teacher (2011). After starring in three successful comedies in 2014—The Other Woman, Sex Tape and Annie—Diaz retired from acting to focus on her family, but made a return to the profession with the action comedy Back in Action (2025).</p><p>Diaz has also written two health books: The Body Book (2013), a New York Times bestseller, and The Longevity Book (2016). Her personal life has drawn media attention throughout the course of her career, mostly regarding her relationships and fashion choices. In 2015, Diaz married Good Charlotte guitarist Benji Madden; they have two children via surrogate.</p>"
+        "about": "<p>Cameron Michelle Diaz (born August 30, 1972) is an American actress. Prolific in both comedy and drama, her films have grossed over $3 billion in the U.S. box-office.[1] Her output of romantic comedies in the late 1990s and early 2000s established her as a prominent sex symbol and one of Hollywood's most bankable stars, and in 2013 she was named the highest-paid actress over 40.[2] Diaz has received various accolades, including nominations for a British Academy Film Award and four Golden Globe Awards.</p><p>Born in San Diego, California, Diaz was raised in Long Beach.[3][4] While still in high school, she signed a modeling contract with Elite Model Management. She made her film debut at age 21 opposite Jim Carrey in the comedy The Mask (1994). Following a supporting role in the romantic comedy My Best Friend's Wedding (1997), she starred as the titular character in the Farrelly brothers' comedy There's Something About Mary (1998), which brought her increased fame and her first Golden Globe nomination. Her following two projects—the sports drama Any Given Sunday and Spike Jonze's fantasy film Being John Malkovich (both 1999)—earned Diaz recognition as a dramatic actress.</p><p>Diaz received praise for her supporting roles in Cameron Crowe's Vanilla Sky (2001) and Martin Scorsese's Gangs of New York (2002) and had greater commercial success in the action comedy Charlie's Angels (2000) and its 2003 sequel, as well as for voicing Princess Fiona in the Shrek franchise since 2001. Her subsequent films include the comedies In Her Shoes (2005), The Holiday (2006), What Happens in Vegas (2008), Knight and Day (2010), The Green Hornet (2011), and Bad Teacher (2011). After starring in three successful comedies in 2014—The Other Woman, Sex Tape and Annie—Diaz retired from acting to focus on her family, but made a return to the profession with the action comedy Back in Action (2025).</p><p>Diaz has also written two health books: The Body Book (2013), a New York Times bestseller, and The Longevity Book (2016). Her personal life has drawn media attention throughout the course of her career, mostly regarding her relationships and fashion choices. In 2015, Diaz married Good Charlotte guitarist Benji Madden; they have two children via surrogate.</p>",
+        "events": [
+            {
+                "date": "09-04-2026",
+                "event": "Confirmed to star in and produce a sequel to the 1989 cult teen comedy hit 'Troop Beverly Hills', directed by Clea DuVall."
+            },
+            {
+                "date": "10-04-2026",
+                "event": "Starred alongside Keanu Reeves and Jonah Hill in the Apple TV+ dark comedy film 'Outcome', directed by Hill."
+            },
+            {
+                "date": "17-01-2025",
+                "event": "Made her major acting comeback after a decade-long retirement, starring alongside Jamie Foxx in the Netflix action-comedy film 'Back in Action'."
+            },
+            {
+                "date": "2024",
+                "event": "Announced the birth of her second child, a son, with her husband Benji Madden."
+            },
+            {
+                "date": "2020",
+                "event": "Co-founded the organic wine brand Avaline alongside entrepreneur Katherine Power."
+            },
+            {
+                "date": "05-01-2020",
+                "event": "Announced the birth of her first child, a daughter named Raddix, with her husband Benji Madden."
+            },
+            {
+                "date": "05-01-2015",
+                "event": "Married Good Charlotte musician Benji Madden in an intimate ceremony at her home in Beverly Hills, California."
+            },
+            {
+                "date": "2014",
+                "event": "Stepped away from Hollywood and retired from acting following her role in the film 'Annie' to focus on her personal life and well-being."
+            },
+            {
+                "date": "2013",
+                "event": "Released her first health and wellness book, 'The Body Book', which became a New York Times bestseller."
+            },
+            {
+                "date": "23-06-2009",
+                "event": "Received a star on the Hollywood Walk of Fame in recognition of her immensely successful cinematic career."
+            },
+            {
+                "date": "19-05-2007",
+                "event": "Voiced the beloved character Princess Fiona in DreamWorks' blockbuster animated sequel 'Shrek the Third'."
+            },
+            {
+                "date": "15-02-2002",
+                "event": "Starred as gang leader Jenny Everdeane in Martin Scorsese's acclaimed historical epic crime drama 'Gangs of New York'."
+            },
+            {
+                "date": "02-11-2001",
+                "event": "Starred as Julie Gianni in Cameron Crowe's psychological mystery thriller 'Vanilla Sky'."
+            },
+            {
+                "date": "03-11-2000",
+                "event": "Achieved massive global pop-culture icon status starring as Natalie Cook in the action-comedy blockbuster film adaptation of 'Charlie's Angels'."
+            },
+            {
+                "date": "24-05-1999",
+                "event": "Starred as Lotte Schwartz in Spike Jonze's mind-bending surrealist comedy-drama masterpiece 'Being John Malkovich'."
+            },
+            {
+                "date": "15-07-1998",
+                "event": "Cemented her status as a premier global romantic comedy star leading the hilarious box office phenomenon 'There's Something About Mary'."
+            },
+            {
+                "date": "29-07-1997",
+                "event": "Co-starred alongside Julia Roberts as Julianne's best friend Kimmy Wallace in the iconic romantic comedy 'My Best Friend's Wedding'."
+            },
+            {
+                "date": "29-07-1994",
+                "event": "Had her explosive Hollywood breakout feature film debut as femme fatale Tina Carlyle opposite Jim Carrey in the mega-hit comedy 'The Mask'."
+            },
+            {
+                "date": "30-08-1972",
+                "event": "Born as Cameron Michelle Diaz in San Diego, California, United States."
+            }
+        ]
     },
     "response": {
         "ascendant": {

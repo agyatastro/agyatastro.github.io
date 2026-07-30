@@ -16,7 +16,53 @@
         "gender": "male",
         "dod": "25/11/2020",
         "related": ["politician"],
-        "about": "<p>Ahmedbhai Muhamedbhai Patel (21 August 1949 – 25 November 2020), also known as Ahmed Patel, was an Indian politician and Member of Parliament from the Indian National Congress. He was the political secretary to Congress President Sonia Gandhi.</p><p>Patel has represented Gujarat for eight terms in the Parliament of India; three times in the lower house or Lok Sabha (1977–1989) and five times in the upper House or Rajya Sabha (1993–2020). He was also the treasurer of the All India Congress Committee (2018–2020).</p><p>Patel was born on 21 August 1949, in the small village piraman, Ta-Ankleshwar, dist-Bharuch-based agriculturalist family, as the third child of Mohammed Ishaakji Patel and Hawaben Mohammedbhai in the western Indian state of Gujarat. His father was a social worker. He went on to join the Youth Congress, the youth wing of the Indian National Congress.</p>"
+        "about": "<p>Ahmedbhai Muhamedbhai Patel (21 August 1949 – 25 November 2020), also known as Ahmed Patel, was an Indian politician and Member of Parliament from the Indian National Congress. He was the political secretary to Congress President Sonia Gandhi.</p><p>Patel has represented Gujarat for eight terms in the Parliament of India; three times in the lower house or Lok Sabha (1977–1989) and five times in the upper House or Rajya Sabha (1993–2020). He was also the treasurer of the All India Congress Committee (2018–2020).</p><p>Patel was born on 21 August 1949, in the small village piraman, Ta-Ankleshwar, dist-Bharuch-based agriculturalist family, as the third child of Mohammed Ishaakji Patel and Hawaben Mohammedbhai in the western Indian state of Gujarat. His father was a social worker. He went on to join the Youth Congress, the youth wing of the Indian National Congress.</p>",
+        "events": [
+            {
+                "date": "25-11-2020",
+                "event": "Passed away due to post-COVID-19 complications and multiple organ failure in Gurugram, Haryana"
+            },
+            {
+                "date": "21-08-2018",
+                "event": "Appointed Treasurer of the All India Congress Committee (AICC) by Congress leadership"
+            },
+            {
+                "date": "08-08-2017",
+                "event": "Won a fiercely contested Rajya Sabha election from Gujarat following a midnight vote-counting drama"
+            },
+            {
+                "date": "2004",
+                "event": "Declined a Union Cabinet post in the UPA government to remain political advisor to Sonia Gandhi and manage party affairs"
+            },
+            {
+                "date": "2001",
+                "event": "Appointed Political Secretary to Congress President Sonia Gandhi, becoming the central strategist of the party"
+            },
+            {
+                "date": "19-08-1993",
+                "event": "Elected to the Rajya Sabha from Gujarat for his first term in the upper house of Parliament"
+            },
+            {
+                "date": "1989",
+                "event": "Lost the Lok Sabha election from Bharuch constituency, marking his shift toward central party organization"
+            },
+            {
+                "date": "1985",
+                "event": "Appointed Parliamentary Secretary to Prime Minister Rajiv Gandhi and President of Gujarat Pradesh Congress Committee"
+            },
+            {
+                "date": "1977",
+                "event": "Elected to the 6th Lok Sabha from Bharuch, Gujarat, becoming one of the youngest MPs at age 28"
+            },
+            {
+                "date": "1976",
+                "event": "Married Memoona Patel"
+            },
+            {
+                "date": "21-08-1949",
+                "event": "Born in Piraman, Bharuch district, Gujarat, India"
+            }
+        ]
     },
     "response": {
         "ascendant": {

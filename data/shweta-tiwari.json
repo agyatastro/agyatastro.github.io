@@ -1,0 +1,226 @@
+{
+    "request": {
+        "name": "Shweta Tiwari",
+        "title": "Actor",
+        "year": 1980,
+        "month": 10,
+        "day": 4,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 24.03215,
+        "longitude": 74.78162,
+        "location": "Pratapgarh",
+        "gender": "female",
+        "agyat_rating": "UX",
+        "related": ["actor"],
+        "advanced": "marriage, multiple marriage, divorce",
+        "about": "<p>Shweta Tiwari (pronounced [ˈʃʋeːt̪a t̪ɪˈʋaːɾi]; born 4 October 1980) is an Indian actress who primarily works in Hindi television. One of the highest paid television actress, Tiwari is widely known for her portrayal of Prerna Sharma in Kasautii Zindagii Kay. In 2010, she participated in Bigg Boss 4 and emerged as the winner, thus becoming the first female winner of the series.</p><p>Tiwari has also worked in several other television shows and is known for portraying Sweety Ahluwalia in Parvarrish, Bindiya Thakur in Begusarai, Guneet Sikka Sharma in Mere Dad Ki Dulhan and Aparajita Singh in Main Hoon Aparajita. Other reality shows to her credit include Nach Baliye, Jhalak Dikhhla Jaa and Fear Factor: Khatron Ke Khiladi.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 241.17579444583822,
+            "ascendant": 9
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 151.65992056320223,
+                "cusp_degree": 1.6599205632022347,
+                "motion_speed": 0.21233939366679042,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 167.59966123984853,
+                "cusp_degree": 17.59966123984853,
+                "motion_speed": 0.9854920988439237,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 114.33832617942446,
+                "cusp_degree": 24.338326179424456,
+                "motion_speed": 12.271091848239124,
+                "zodiac": 4,
+                "house": 8,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 125.62164434603697,
+                "cusp_degree": 5.621644346036973,
+                "motion_speed": 1.146424283930429,
+                "zodiac": 5,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 210.76622823125163,
+                "cusp_degree": 0.7662282312516311,
+                "motion_speed": 0.7010315771935411,
+                "zodiac": 8,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 191.77682257293372,
+                "cusp_degree": 11.776822572933725,
+                "motion_speed": 1.2195578699641625,
+                "zodiac": 7,
+                "house": 11,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 158.00244956480984,
+                "cusp_degree": 8.002449564809837,
+                "motion_speed": 0.12302393345599474,
+                "zodiac": 6,
+                "house": 10,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 115.50930771703786,
+                "cusp_degree": 25.509307717037856,
+                "motion_speed": 0.0022919008467107657,
+                "zodiac": 4,
+                "house": 8,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 113.62746289810222,
+                "cusp_degree": 23.627462898102223,
+                "motion_speed": -0.05299205612947043,
+                "zodiac": 4,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 293.62746289810224,
+                "motion_speed": -0.05299205612947043,
+                "cusp_degree": 23.627462898102237,
+                "zodiac": 10,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 295.50930771703787,
+                "motion_speed": 0.0022919008467107657,
+                "cusp_degree": 25.50930771703787,
+                "zodiac": 10,
+                "house": 2,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1980-10-04",
+        "latitude": 24.03215,
+        "longitude": 74.78162,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2444516.5,
+        "solar_longitude": 167.33278026257332,
+        "lunar_longitude": 111.00707345456777,
+        "lunar_latitude": -0.4045902536833042,
+        "sunrise": [
+            2444516.7690363275,
+            [
+                6,
+                27,
+                25
+            ],
+            [
+                1980,
+                10,
+                4,
+                6.45687185972929
+            ]
+        ],
+        "sunset": [
+            2444517.2579342453,
+            [
+                18,
+                11,
+                26
+            ],
+            [
+                1980,
+                10,
+                4,
+                18.190421886742115
+            ]
+        ],
+        "moonrise": [
+            2444516.590407199,
+            [
+                2,
+                10,
+                11
+            ],
+            [
+                1980,
+                10,
+                4,
+                2.169772781431675
+            ]
+        ],
+        "moonset": [
+            2444517.148421905,
+            [
+                15,
+                33,
+                44
+            ],
+            [
+                1980,
+                10,
+                4,
+                15.562125720083714
+            ]
+        ],
+        "tithi": [
+            26,
+            [
+                24,
+                12,
+                16
+            ]
+        ],
+        "nakshatra": [
+            "Punarvasu",
+            7,
+            [
+                17,
+                3,
+                41
+            ]
+        ],
+        "yoga": [
+            "Sadhya",
+            21
+        ],
+        "karana": [
+            51,
+            -0.7183841380111744
+        ],
+        "vaara": "Shanivara",
+        "lunar_phase": 303.6742931919945,
+        "masa": [
+            "Ashwin",
+            7,
+            false
+        ],
+        "ahargana": 1856051,
+        "ritu": "Varsha Ritu (Monsoon)",
+        "samvatsara": 54,
+        "day_duration": [
+            11.733550027012825,
+            [
+                11,
+                44,
+                1
+            ]
+        ]
+    }
+}

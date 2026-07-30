@@ -15,7 +15,97 @@
         "gender": "male",
         "agyat_rating": "AA",
         "related": ["monarch"],
-        "about": "<p>Alamgir I (Muhi al-Din Muhammad; 3 November 1618 – 3 March 1707), commonly known by the title Aurangzeb, was the sixth Mughal emperor, reigning from 1658 until his death in 1707. Under his reign, the Mughal Empire reached its greatest extent, with territory spanning nearly the entirety of the Indian subcontinent.</p><p>Aurangzeb and the Mughals belonged to a branch of the Timurid dynasty. He held administrative and military posts under his father Shah Jahan (r. 1628–1658) and gained recognition as an accomplished military commander. Aurangzeb served as the viceroy of the Deccan in 1636–1637 and the governor of Gujarat in 1645–1647. He jointly administered the provinces of Multan and Sindh in 1648–1652 and continued expeditions into the neighbouring Safavid territories. In September 1657, Shah Jahan nominated his eldest and liberalist son Dara Shikoh as his successor, a move repudiated by Aurangzeb, who proclaimed himself emperor in February 1658. In April 1658, Aurangzeb defeated the allied army of Shikoh and the Kingdom of Marwar at the Battle of Dharmat. Aurangzeb's decisive victory at the Battle of Samugarh in May 1658 cemented his sovereignty and his suzerainty was acknowledged throughout the Empire. After Shah Jahan recovered from illness in July 1658, Aurangzeb declared him incompetent to rule and imprisoned his father in the Agra Fort. Following this, Aurangzeb had Dara Shikoh executed by beheading and his head was placed in a box and presented to their imprisoned father.</p><p>Aurangzeb's reign is characterised by a period of rapid military expansion, with several dynasties and states being overthrown by the Mughals. The Mughals also surpassed Qing China as the world's largest economy and biggest manufacturing power. The Mughal military gradually improved and became one of the strongest armies in the world. A staunch Muslim, Aurangzeb is credited with the construction of numerous mosques and patronising works of Arabic calligraphy. He successfully imposed the Fatawa-i Alamgiri as the principal regulating body of the empire and prohibited religiously forbidden activities in Islam. Although Aurangzeb suppressed several local revolts, he maintained cordial relations with foreign governments.</p><p>His empire was also one of the largest in Indian history. However, his emperorship has a complicated legacy. He is often criticized for his actions against non-Muslims, including his ordering of the demolition of non-Muslim schools and temples and the reimposition of the jizya, a tax on non-Muslims, which had been suspended for the previous 100 years by his great-grandfather Akbar. He has also been criticized for his conservative view of Islam, with some arguing that he abandoned the legacy of pluralism and tolerance of the earlier Mughal emperors. Others, however, reject these assertions, arguing that he opposed bigotry against Hindus, Sikhs and Shia Muslims and that he employed significantly more Hindus in his imperial bureaucracy than his predecessors.</p>"
+        "about": "<p>Alamgir I (Muhi al-Din Muhammad; 3 November 1618 – 3 March 1707), commonly known by the title Aurangzeb, was the sixth Mughal emperor, reigning from 1658 until his death in 1707. Under his reign, the Mughal Empire reached its greatest extent, with territory spanning nearly the entirety of the Indian subcontinent.</p><p>Aurangzeb and the Mughals belonged to a branch of the Timurid dynasty. He held administrative and military posts under his father Shah Jahan (r. 1628–1658) and gained recognition as an accomplished military commander. Aurangzeb served as the viceroy of the Deccan in 1636–1637 and the governor of Gujarat in 1645–1647. He jointly administered the provinces of Multan and Sindh in 1648–1652 and continued expeditions into the neighbouring Safavid territories. In September 1657, Shah Jahan nominated his eldest and liberalist son Dara Shikoh as his successor, a move repudiated by Aurangzeb, who proclaimed himself emperor in February 1658. In April 1658, Aurangzeb defeated the allied army of Shikoh and the Kingdom of Marwar at the Battle of Dharmat. Aurangzeb's decisive victory at the Battle of Samugarh in May 1658 cemented his sovereignty and his suzerainty was acknowledged throughout the Empire. After Shah Jahan recovered from illness in July 1658, Aurangzeb declared him incompetent to rule and imprisoned his father in the Agra Fort. Following this, Aurangzeb had Dara Shikoh executed by beheading and his head was placed in a box and presented to their imprisoned father.</p><p>Aurangzeb's reign is characterised by a period of rapid military expansion, with several dynasties and states being overthrown by the Mughals. The Mughals also surpassed Qing China as the world's largest economy and biggest manufacturing power. The Mughal military gradually improved and became one of the strongest armies in the world. A staunch Muslim, Aurangzeb is credited with the construction of numerous mosques and patronising works of Arabic calligraphy. He successfully imposed the Fatawa-i Alamgiri as the principal regulating body of the empire and prohibited religiously forbidden activities in Islam. Although Aurangzeb suppressed several local revolts, he maintained cordial relations with foreign governments.</p><p>His empire was also one of the largest in Indian history. However, his emperorship has a complicated legacy. He is often criticized for his actions against non-Muslims, including his ordering of the demolition of non-Muslim schools and temples and the reimposition of the jizya, a tax on non-Muslims, which had been suspended for the previous 100 years by his great-grandfather Akbar. He has also been criticized for his conservative view of Islam, with some arguing that he abandoned the legacy of pluralism and tolerance of the earlier Mughal emperors. Others, however, reject these assertions, arguing that he opposed bigotry against Hindus, Sikhs and Shia Muslims and that he employed significantly more Hindus in his imperial bureaucracy than his predecessors.</p>",
+        "events": [
+            {
+                "date": "03-03-1707",
+                "event": "Passed away at his military camp in Ahmednagar at the age of 88, ending his nearly 49-year reign; he was buried in a simple open-air grave in Khuldabad"
+            },
+            {
+                "date": "03-03-1699",
+                "event": "Established the siege of Panhala Fort, commencing his prolonged personal military campaign against Maratha strongholds in the Deccan"
+            },
+            {
+                "date": "11-03-1689",
+                "event": "Executed the Maratha ruler Chhatrapati Sambhaji Maharaj at Bhapur, shortly after capturing him at Sangameshwar"
+            },
+            {
+                "date": "22-09-1687",
+                "event": "Captured Golconda Fort after an eight-month siege, overthrowing Abul Hasan Qutb Shah and annexing the Qutb Shahi kingdom into the Mughal Empire"
+            },
+            {
+                "date": "22-09-1686",
+                "event": "Conquered Bijapur after personally directing the siege against Sikandar Adil Shah, annexing the Adil Shahi kingdom"
+            },
+            {
+                "date": "1682",
+                "event": "Relocated his court and central army permanently to the Deccan to crush the Maratha insurgency and annex the southern Sultanates"
+            },
+            {
+                "date": "1679",
+                "event": "Re-imposed Jizya, a poll tax on non-Muslim subjects across the Mughal Empire, reversing decades of policy established by Akbar"
+            },
+            {
+                "date": "11-11-1675",
+                "event": "Ordered the execution of Guru Tegh Bahadur, the ninth Sikh Guru, in Delhi after the Guru opposed religious conversions in Kashmir"
+            },
+            {
+                "date": "1672",
+                "event": "Suppressed the major armed uprising of the Satnami sect in Narnaul, Punjab region"
+            },
+            {
+                "date": "09-04-1669",
+                "event": "Issued a imperial decree ordering the destruction of newly built non-Muslim temples and schools, leading to the destruction of the Kashi Vishwanath temple in Varanasi"
+            },
+            {
+                "date": "17-08-1666",
+                "event": "Chhatrapati Shivaji Maharaj dramatically escaped from house arrest under Aurangzeb's guard in Agra concealed in sweet-baskets"
+            },
+            {
+                "date": "11-06-1665",
+                "event": "Forced Shivaji Maharaj to sign the Treaty of Purandar via his general Jai Singh I, ceding 23 forts to the Mughals"
+            },
+            {
+                "date": "22-01-1666",
+                "event": "His father, the deposed Emperor Shah Jahan, passed away in confinement inside Agra Fort"
+            },
+            {
+                "date": "05-06-1659",
+                "event": "Held his formal second coronation ceremony in Delhi, adopting the regnal title 'Alamgir' ('Conqueror of the World')"
+            },
+            {
+                "date": "12-04-1659",
+                "event": "Defeated his elder brother Dara Shikoh at the Battle of Deorai, effectively concluding the War of Succession"
+            },
+            {
+                "date": "21-07-1658",
+                "event": "Crowned himself Emperor in a brief initial coronation at the Shalimar Bagh outside Delhi after confining Shah Jahan at Agra Fort"
+            },
+            {
+                "date": "29-05-1658",
+                "event": "Defeated Dara Shikoh's imperial army at the decisive Battle of Samugarh, securing control of Agra"
+            },
+            {
+                "date": "15-04-1658",
+                "event": "Defeated the joint forces of Maharaja Jaswant Singh and Qasim Khan at the Battle of Dharmat"
+            },
+            {
+                "date": "1653",
+                "event": "Appointed Viceroy of the Deccan for a second term, implementing comprehensive land revenue reforms under Murshid Quli Khan"
+            },
+            {
+                "date": "19-05-1637",
+                "event": "Married Dilras Banu Begum (posthumously known as Rabia-ud-Daurani), a Safavid princess of Persia"
+            },
+            {
+                "date": "1636",
+                "event": "Appointed Viceroy of the Deccan for his first term by his father, Shah Jahan, establishing his headquarters at Khadki (later renamed Aurangabad)"
+            },
+            {
+                "date": "03-11-1618",
+                "event": "Born to Prince Khurram (later Emperor Shah Jahan) and Mumtaz Mahal in Dahod, Gujarat, Mughal Empire"
+            }
+        ]
     },
     "response": {
         "ascendant": {

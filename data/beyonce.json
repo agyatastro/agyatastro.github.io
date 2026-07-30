@@ -14,7 +14,101 @@
         "agyat_rating": "AA",
         "gender": "female",
         "related": ["singer", "songwriter", "actor"],
-        "about": "<p>Beyoncé Giselle Knowles-Carter (/biˈɒnseɪ/ bee-ON-say; born September 4, 1981) is an American singer, songwriter, actress, and businesswoman. With a career spanning over three decades, she has established herself as one of the most significant figures of the 21st century through her vocal ability, musical versatility, live performances, and culturally important works. Credited with revolutionizing the sound of popular music, Beyoncé is often deemed one of the influential entertainers of all time.</p><p>Beyoncé rose to fame in 1997 as a member of Destiny's Child, one of the best-selling girl groups of all time. Her debut solo album, Dangerously in Love (2003), became one of the best-selling albums of the 21st century and spawned the U.S. Billboard Hot 100 number-one singles \"Crazy in Love\" and \"Baby Boy\". Beyoncé's commercial success continued with the albums B'Day (2006), I Am... Sasha Fierce (2008) and 4 (2011), all of which featured hit singles including \"Check on It\", \"Irreplaceable\", \"If I Were a Boy\", \"Single Ladies (Put a Ring on It)\", \"Halo\", \"Run the World (Girls)\", and \"Love On Top\". She has also ventured into acting, starring in the films Austin Powers in Goldmember (2002), Dreamgirls (2006), Cadillac Records (2008), Obsessed (2009) and Black Is King (2020), as well as voicing Nala in The Lion King (2019) and Mufasa: The Lion King (2024).</p><p>Beyoncé's career shifted after forming her own management company Parkwood Entertainment, creating monocultural events through acclaimed concept albums. She explored personal and political themes on Beyoncé (2013) and Lemonade (2016). The former is credited with popularizing the visual album and surprise album and inspired setting Friday as the Global Release Day, while the latter was the best-selling album worldwide in 2016. Her ongoing trilogy project—currently consisting of the queer-inspired dance album Renaissance (2022) and Americana epic Cowboy Carter (2024)—has highlighted the contributions of Black pioneers to American musical and cultural history, spawning the U.S. number-one singles \"Break My Soul\" and \"Texas Hold 'Em\".</p><p>Beyoncé is one of the best-selling music artists of all time, with estimated sales of over 200 million records. She is the only female artist to debut all of her eight studio albums at number one on the U.S. Billboard 200. She is the most awarded and nominated artist of all time in the history of the Grammy Awards, as well as the most awarded artist at the BET, NAACP Image and Soul Train Music Awards. Her inductions include the Guinness World Records Hall of Fame and the Black Music & Entertainment Walk of Fame. The first woman to headline an all-stadium tour, Beyoncé is among the highest-grossing live acts in history. Billboard named her the Top Female Artist of the 2000s and the Greatest Pop Star of the 21st Century. Rolling Stone listed her as one of the greatest singers ever and included several of her albums, singles, and music videos among the greatest of all time.</p>"
+        "about": "<p>Beyoncé Giselle Knowles-Carter (/biˈɒnseɪ/ bee-ON-say; born September 4, 1981) is an American singer, songwriter, actress, and businesswoman. With a career spanning over three decades, she has established herself as one of the most significant figures of the 21st century through her vocal ability, musical versatility, live performances, and culturally important works. Credited with revolutionizing the sound of popular music, Beyoncé is often deemed one of the influential entertainers of all time.</p><p>Beyoncé rose to fame in 1997 as a member of Destiny's Child, one of the best-selling girl groups of all time. Her debut solo album, Dangerously in Love (2003), became one of the best-selling albums of the 21st century and spawned the U.S. Billboard Hot 100 number-one singles \"Crazy in Love\" and \"Baby Boy\". Beyoncé's commercial success continued with the albums B'Day (2006), I Am... Sasha Fierce (2008) and 4 (2011), all of which featured hit singles including \"Check on It\", \"Irreplaceable\", \"If I Were a Boy\", \"Single Ladies (Put a Ring on It)\", \"Halo\", \"Run the World (Girls)\", and \"Love On Top\". She has also ventured into acting, starring in the films Austin Powers in Goldmember (2002), Dreamgirls (2006), Cadillac Records (2008), Obsessed (2009) and Black Is King (2020), as well as voicing Nala in The Lion King (2019) and Mufasa: The Lion King (2024).</p><p>Beyoncé's career shifted after forming her own management company Parkwood Entertainment, creating monocultural events through acclaimed concept albums. She explored personal and political themes on Beyoncé (2013) and Lemonade (2016). The former is credited with popularizing the visual album and surprise album and inspired setting Friday as the Global Release Day, while the latter was the best-selling album worldwide in 2016. Her ongoing trilogy project—currently consisting of the queer-inspired dance album Renaissance (2022) and Americana epic Cowboy Carter (2024)—has highlighted the contributions of Black pioneers to American musical and cultural history, spawning the U.S. number-one singles \"Break My Soul\" and \"Texas Hold 'Em\".</p><p>Beyoncé is one of the best-selling music artists of all time, with estimated sales of over 200 million records. She is the only female artist to debut all of her eight studio albums at number one on the U.S. Billboard 200. She is the most awarded and nominated artist of all time in the history of the Grammy Awards, as well as the most awarded artist at the BET, NAACP Image and Soul Train Music Awards. Her inductions include the Guinness World Records Hall of Fame and the Black Music & Entertainment Walk of Fame. The first woman to headline an all-stadium tour, Beyoncé is among the highest-grossing live acts in history. Billboard named her the Top Female Artist of the 2000s and the Greatest Pop Star of the 21st Century. Rolling Stone listed her as one of the greatest singers ever and included several of her albums, singles, and music videos among the greatest of all time.</p>",
+        "events": [
+            {
+                "date": "02-02-2025",
+                "event": "Won Album of the Year and Best Country Album for 'Cowboy Carter' at the 67th Annual Grammy Awards, becoming the first Black woman to win Best Country Album"
+            },
+            {
+                "date": "25-12-2024",
+                "event": "Headlined the NFL Christmas Gameday halftime show during the Baltimore Ravens vs. Houston Texans game streamed on Netflix"
+            },
+            {
+                "date": "29-03-2024",
+                "event": "Released her eighth studio album, 'Cowboy Carter' (Act II of her trilogy), debuting at number one on the Billboard 200 and top of the Top Country Albums chart"
+            },
+            {
+                "date": "01-12-2023",
+                "event": "Released her concert documentary film 'Renaissance: A Film by Beyoncé', which premiered at the top of the North American box office"
+            },
+            {
+                "date": "10-05-2023",
+                "event": "Launched the Renaissance World Tour in Stockholm, Sweden, which went on to become one of the highest-grossing concert tours in history"
+            },
+            {
+                "date": "05-02-2023",
+                "event": "Became the most awarded artist in Grammy Awards history after winning four Grammys for 'Renaissance', bringing her total wins to 32"
+            },
+            {
+                "date": "29-07-2022",
+                "event": "Released her critically acclaimed seventh studio album, 'Renaissance' (Act I), exploring dance and house music traditions"
+            },
+            {
+                "date": "31-07-2020",
+                "event": "Released the musical film and visual album 'Black Is King' on Disney+, serving as a companion piece to 'The Lion King: The Gift'"
+            },
+            {
+                "date": "17-04-2019",
+                "event": "Released her landmark concert film 'Homecoming: A Film by Beyoncé' on Netflix alongside the surprise live album 'Homecoming: The Live Album'"
+            },
+            {
+                "date": "16-06-2018",
+                "event": "Released the joint collaborative album 'Everything Is Love' with her husband Jay-Z under the moniker The Carters"
+            },
+            {
+                "date": "14-04-2018",
+                "event": "Became the first Black woman to headline the Coachella Valley Music and Arts Festival, delivering her historic 'Beychella' performance"
+            },
+            {
+                "date": "13-06-2017",
+                "event": "Gave birth to twins, Rumi Carter and Sir Carter, in Los Angeles"
+            },
+            {
+                "date": "23-04-2016",
+                "event": "Released her groundbreaking sixth studio album and visual film 'Lemonade' via Parkwood Entertainment and Columbia Records"
+            },
+            {
+                "date": "13-12-2013",
+                "event": "Revolutionized music distribution by unexpectedly releasing her self-titled fifth studio album 'BEYONCÉ' on iTunes without prior announcement"
+            },
+            {
+                "date": "07-01-2012",
+                "event": "Gave birth to her first child, daughter Blue Ivy Carter, in New York City"
+            },
+            {
+                "date": "24-06-2011",
+                "event": "Released her fourth studio album, '4', featuring hit singles like 'Run the World (Girls)' and 'Love On Top'"
+            },
+            {
+                "date": "2010",
+                "event": "Founded her entertainment and management company, Parkwood Entertainment"
+            },
+            {
+                "date": "18-11-2008",
+                "event": "Released her third studio double album, 'I Am... Sasha Fierce', featuring iconic hits including 'Single Ladies (Put a Ring on It)'"
+            },
+            {
+                "date": "04-04-2008",
+                "event": "Married rapper and music mogul Shawn 'Jay-Z' Carter in a private ceremony in New York City"
+            },
+            {
+                "date": "04-09-2006",
+                "event": "Released her second solo studio album, 'B'Day', on her 25th birthday, featuring the international hit single 'Irreplaceable'"
+            },
+            {
+                "date": "22-06-2003",
+                "event": "Released her debut solo studio album, 'Dangerously in Love', which earned five Grammy Awards and spawned the chart-topping hit 'Crazy in Love'"
+            },
+            {
+                "date": "17-02-1998",
+                "event": "Released Destiny's Child's self-titled debut studio album, launching her mainstream recording career"
+            },
+            {
+                "date": "04-09-1981",
+                "event": "Born as Beyoncé Giselle Knowles to Celestine 'Tina' Knowles and Mathew Knowles in Houston, Texas, United States"
+            }
+        ]
     },
     "response": {
         "ascendant": {

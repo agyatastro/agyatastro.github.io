@@ -15,7 +15,93 @@
         "advanced": "prolonged career",
         "gender": "male",
         "related": ["programmer", "engineer", "businessperson"],
-        "about": "<p>William Henry Gates III (born October 28, 1955) is an American businessman and philanthropist. A pioneer of the microcomputer revolution of the 1970s and 1980s, he co-founded the software company Microsoft in 1975 with his childhood friend Paul Allen. Following the company's 1986 initial public offering (IPO), Gates became then the youngest ever billionaire in 1987, at age 31. Forbes magazine ranked him as the world's wealthiest person for 18 out of 24 years between 1995 and 2017, including 13 years consecutively from 1995 to 2007. He became the first centibillionaire in 1999, when his net worth briefly surpassed $100 billion. On the 2024 Forbes list, he was ranked the world's seventh wealthiest person, with an estimated net worth of $128 billion.</p><p>Born and raised in Seattle, Washington, Gates was privately educated at Lakeside School, where he befriended Allen and developed his computing interests. In 1973, he enrolled at Harvard College, where he took classes including Math 55 and graduate level computer science courses, but he dropped out in 1975 to co-found and lead Microsoft. He served as its CEO for the next 25 years and also became president and chairman of the board when the company incorporated in 1981. Succeeded as CEO by Steve Ballmer in 2000, he transitioned to chief software architect, a position he held until 2008. He stepped down as chairman of the board in 2014 and became technology adviser to CEO Satya Nadella and other Microsoft leaders, a position he still holds. He resigned from the board in 2020.</p><p>Over time, Gates has reduced his role at Microsoft to focus on his philanthropic work with the Gates Foundation, the world's largest private charitable organization. Focusing on areas including health, education, and poverty alleviation, Gates became known for his efforts to eradicate transmissible diseases such as tuberculosis, malaria, and polio. Gates and his then-wife Melinda French Gates co-chaired the Bill & Melinda Gates Foundation until 2024, when the latter resigned following the couple's divorce; the foundation was subsequently renamed, with Gates as its sole chair.</p><p>Gates is founder and chairman of several other companies, including BEN, Cascade Investment, TerraPower, Gates Ventures, and Breakthrough Energy. In 2010, he and Warren Buffett founded the Giving Pledge, whereby they and other billionaires pledge to give at least half their wealth to philanthropy. Named as one of the 100 most influential people of the 20th century by Time magazine in 1999, he has received numerous other honors and accolades, including a Presidential Medal of Freedom, awarded jointly to him and French Gates in 2016 for their philanthropic work. The subject of several documentary films, he published the first of three planned memoirs, Source Code: My Beginnings, in 2025.</p>"
+        "about": "<p>William Henry Gates III (born October 28, 1955) is an American businessman and philanthropist. A pioneer of the microcomputer revolution of the 1970s and 1980s, he co-founded the software company Microsoft in 1975 with his childhood friend Paul Allen. Following the company's 1986 initial public offering (IPO), Gates became then the youngest ever billionaire in 1987, at age 31. Forbes magazine ranked him as the world's wealthiest person for 18 out of 24 years between 1995 and 2017, including 13 years consecutively from 1995 to 2007. He became the first centibillionaire in 1999, when his net worth briefly surpassed $100 billion. On the 2024 Forbes list, he was ranked the world's seventh wealthiest person, with an estimated net worth of $128 billion.</p><p>Born and raised in Seattle, Washington, Gates was privately educated at Lakeside School, where he befriended Allen and developed his computing interests. In 1973, he enrolled at Harvard College, where he took classes including Math 55 and graduate level computer science courses, but he dropped out in 1975 to co-found and lead Microsoft. He served as its CEO for the next 25 years and also became president and chairman of the board when the company incorporated in 1981. Succeeded as CEO by Steve Ballmer in 2000, he transitioned to chief software architect, a position he held until 2008. He stepped down as chairman of the board in 2014 and became technology adviser to CEO Satya Nadella and other Microsoft leaders, a position he still holds. He resigned from the board in 2020.</p><p>Over time, Gates has reduced his role at Microsoft to focus on his philanthropic work with the Gates Foundation, the world's largest private charitable organization. Focusing on areas including health, education, and poverty alleviation, Gates became known for his efforts to eradicate transmissible diseases such as tuberculosis, malaria, and polio. Gates and his then-wife Melinda French Gates co-chaired the Bill & Melinda Gates Foundation until 2024, when the latter resigned following the couple's divorce; the foundation was subsequently renamed, with Gates as its sole chair.</p><p>Gates is founder and chairman of several other companies, including BEN, Cascade Investment, TerraPower, Gates Ventures, and Breakthrough Energy. In 2010, he and Warren Buffett founded the Giving Pledge, whereby they and other billionaires pledge to give at least half their wealth to philanthropy. Named as one of the 100 most influential people of the 20th century by Time magazine in 1999, he has received numerous other honors and accolades, including a Presidential Medal of Freedom, awarded jointly to him and French Gates in 2016 for their philanthropic work. The subject of several documentary films, he published the first of three planned memoirs, Source Code: My Beginnings, in 2025.</p>",
+        "events": [
+            {
+                "date": "08-05-2025",
+                "event": "Announced the Gates Foundation will double its giving to spend $200 billion over the next 20 years, accelerating its sunset date to 2045 to give away virtually all his wealth."
+            },
+            {
+                "date": "13-05-2024",
+                "event": "Announced that Melinda French Gates would step down as co-chair of the Bill & Melinda Gates Foundation, leaving him as the sole chair."
+            },
+            {
+                "date": "13-07-2022",
+                "event": "Pledged to transfer $20 billion of his personal wealth to the Gates Foundation's endowment to boost annual spending."
+            },
+            {
+                "date": "03-05-2021",
+                "event": "Bill and Melinda French Gates announced their decision to end their marriage after 27 years (divorce finalized in August 2021)."
+            },
+            {
+                "date": "13-03-2020",
+                "event": "Stepped down from the board of directors of Microsoft and Berkshire Hathaway to focus on philanthropic efforts."
+            },
+            {
+                "date": "2015",
+                "event": "Founded Breakthrough Energy, a venture capital firm and coalition dedicated to investing in clean energy innovations to combat climate change."
+            },
+            {
+                "date": "04-02-2014",
+                "event": "Stepped down as Chairman of Microsoft, transitioning to a new role as Technology Advisor to CEO Satya Nadella."
+            },
+            {
+                "date": "2010",
+                "event": "Launched 'The Giving Pledge' alongside Warren Buffett and Melinda Gates, encouraging billionaires to commit the majority of their wealth to philanthropy."
+            },
+            {
+                "date": "27-06-2008",
+                "event": "Transitioned out of his daily operational role at Microsoft to focus full-time on his work at the Bill & Melinda Gates Foundation."
+            },
+            {
+                "date": "02-03-2005",
+                "event": "Knighted by Queen Elizabeth II as an Honorary Knight Commander of the Order of the British Empire (KBE) for his contributions to global business and charity."
+            },
+            {
+                "date": "2000",
+                "event": "Co-founded the Bill & Melinda Gates Foundation by merging the Gates Learning Foundation and the William H. Gates Foundation, and stepped down as Microsoft CEO in favor of Steve Ballmer."
+            },
+            {
+                "date": "18-05-1998",
+                "event": "The U.S. Department of Justice and 20 states filed landmark antitrust lawsuits against Microsoft over the bundling of Internet Explorer."
+            },
+            {
+                "date": "17-07-1995",
+                "event": "Became the world's richest person for the first time, according to Forbes, with a net worth driven by Microsoft's rapid stock appreciation."
+            },
+            {
+                "date": "01-01-1994",
+                "event": "Married Melinda French in Hawaii."
+            },
+            {
+                "date": "13-03-1986",
+                "event": "Took Microsoft public (IPO) at $21 per share, making him an instant millionaire at age 30 and subsequently a billionaire in 1987."
+            },
+            {
+                "date": "20-11-1985",
+                "event": "Microsoft officially launched Windows 1.0, a graphical personal computer operating environment."
+            },
+            {
+                "date": "12-08-1981",
+                "event": "IBM launched the IBM PC powered by MS-DOS, establishing Microsoft as the dominant operating system provider for the PC market."
+            },
+            {
+                "date": "04-04-1975",
+                "event": "Co-founded Micro-Soft (later Microsoft) with Paul Allen in Albuquerque, New Mexico, to develop BASIC software for the Altair 8800."
+            },
+            {
+                "date": "1975",
+                "event": "Dropped out of Harvard University to pursue full-time entrepreneurship with Paul Allen."
+            },
+            {
+                "date": "1973",
+                "event": "Enrolled at Harvard University, scoring 1590 out of 1600 on the SAT."
+            },
+            {
+                "date": "28-10-1955",
+                "event": "Born as William Henry Gates III to William H. Gates Sr. and Mary Maxwell Gates in Seattle, Washington, United States."
+            }
+        ]
     },
     "response": {
         "ascendant": {

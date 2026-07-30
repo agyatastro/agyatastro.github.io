@@ -15,7 +15,105 @@
         "gender": "male",
         "related": ["politician"],
         "advanced": "fame, legal-issues, detention",
-        "about": "<p>Amitbhai Anilchandra Shah (born 22 October 1964) is an Indian politician who is currently serving as the 32nd Minister of Home Affairs since May 2019 and the 1st Minister of Co-operation since July 2021. He is also the member of parliament (MP) for Gandhinagar. He served as the 10th president of the Bharatiya Janata Party (BJP) from 2014 to 2020. He has also served as chairman of the National Democratic Alliance (NDA) since 2014. He had been elected as a member of the upper house of parliament, Rajya Sabha, from Gujarat from 2017 to 2019. Shah is a chief strategist of the BJP and an ardent ally of Prime Minister Narendra Modi.</p><p>Shah also served as a member of the Gujarat Legislative Assembly from Naranpura Assembly constituency from 2012 to 2017 and Sarkhej from 1997 to 2012 and the minister of State for Home, Law and Justice, Prison, Border Security, Civil Defence, Excise, Home Guards, Transport, Prohibition, Gram Rakshak Dal, Police Housing, Legislative and Parliamentary Affairs, government of Gujarat in the Modi ministry from 2002 to 2012. During his college days, Shah was a member of the Akhil Bharatiya Vidyarthi Parishad (ABVP), the student wing of the Rashtriya Swayamsevak Sangh (RSS). At the age of 18, he secured a position in the ABVP and joined the BJP in 1987.</p><p>Shah was the BJP's in-charge for India's largest and politically most crucial state, Uttar Pradesh, during the 2014 Lok Sabha elections. The BJP-led NDA won 73 out of 80 seats. As a result, Shah rose to national prominence and was appointed as the party's national president in July 2014. He has played an organising and membership-promotional role in the elections of many states since 2014. In his initial two years, the BJP achieved success in legislative assembly elections in Maharashtra, Haryana, Jammu and Kashmir, Jharkhand and Assam but lost ground in Delhi and the large eastern state of Bihar in 2015.</p><p>In 2017, he was partly credited with the party victories in Uttar Pradesh, Uttarakhand, Gujarat and Manipur, but the Akali-BJP alliance lost power in the larger Punjab election. In 2018, the party lost power in the states of Chhattisgarh, Rajasthan and Madhya Pradesh. A year later, the BJP won 303 seats to get a majority in the 2019 Indian general election under Shah's leadership.</p>"
+        "about": "<p>Amitbhai Anilchandra Shah (born 22 October 1964) is an Indian politician who is currently serving as the 32nd Minister of Home Affairs since May 2019 and the 1st Minister of Co-operation since July 2021. He is also the member of parliament (MP) for Gandhinagar. He served as the 10th president of the Bharatiya Janata Party (BJP) from 2014 to 2020. He has also served as chairman of the National Democratic Alliance (NDA) since 2014. He had been elected as a member of the upper house of parliament, Rajya Sabha, from Gujarat from 2017 to 2019. Shah is a chief strategist of the BJP and an ardent ally of Prime Minister Narendra Modi.</p><p>Shah also served as a member of the Gujarat Legislative Assembly from Naranpura Assembly constituency from 2012 to 2017 and Sarkhej from 1997 to 2012 and the minister of State for Home, Law and Justice, Prison, Border Security, Civil Defence, Excise, Home Guards, Transport, Prohibition, Gram Rakshak Dal, Police Housing, Legislative and Parliamentary Affairs, government of Gujarat in the Modi ministry from 2002 to 2012. During his college days, Shah was a member of the Akhil Bharatiya Vidyarthi Parishad (ABVP), the student wing of the Rashtriya Swayamsevak Sangh (RSS). At the age of 18, he secured a position in the ABVP and joined the BJP in 1987.</p><p>Shah was the BJP's in-charge for India's largest and politically most crucial state, Uttar Pradesh, during the 2014 Lok Sabha elections. The BJP-led NDA won 73 out of 80 seats. As a result, Shah rose to national prominence and was appointed as the party's national president in July 2014. He has played an organising and membership-promotional role in the elections of many states since 2014. In his initial two years, the BJP achieved success in legislative assembly elections in Maharashtra, Haryana, Jammu and Kashmir, Jharkhand and Assam but lost ground in Delhi and the large eastern state of Bihar in 2015.</p><p>In 2017, he was partly credited with the party victories in Uttar Pradesh, Uttarakhand, Gujarat and Manipur, but the Akali-BJP alliance lost power in the larger Punjab election. In 2018, the party lost power in the states of Chhattisgarh, Rajasthan and Madhya Pradesh. A year later, the BJP won 303 seats to get a majority in the 2019 Indian general election under Shah's leadership.</p>",
+        "events": [
+            {
+                "date": "04-06-2024",
+                "event": "Re-elected to the 18th Lok Sabha from the Gandhinagar constituency with a margin of over 7.4 lakh votes"
+            },
+            {
+                "date": "11-12-2023",
+                "event": "Passed the landmark Jammu and Kashmir Reorganisation (Amendment) Bill and Jammu and Kashmir Reservation (Amendment) Bill in Parliament"
+            },
+            {
+                "date": "11-08-2023",
+                "event": "Introduced three historic criminal justice reform bills in Lok Sabha—Bharatiya Nyaya Sanhita, Bharatiya Nagarik Suraksha Sanhita, and Bharatiya Sakshya Adhiniyam—to replace colonial-era laws"
+            },
+            {
+                "date": "07-07-2021",
+                "event": "Appointed as India's first Minister of Cooperation following the creation of the new ministry"
+            },
+            {
+                "date": "20-01-2020",
+                "event": "Concluded his tenure as the 10th National President of the Bharatiya Janata Party, succeeded by Jagat Prakash Nadda"
+            },
+            {
+                "date": "11-12-2019",
+                "event": "Spearheaded and piloted the Citizenship (Amendment) Bill through Parliament, successfully passing the Citizenship (Amendment) Act (CAA)"
+            },
+            {
+                "date": "05-08-2019",
+                "event": "Moved the historic resolution in Parliament to abrogate Article 370 and Article 35A, reorganizing Jammu and Kashmir into two Union Territories"
+            },
+            {
+                "date": "01-06-2019",
+                "event": "Assumed charge as the 31st Union Minister of Home Affairs in the second Modi administration"
+            },
+            {
+                "date": "23-05-2019",
+                "event": "Elected to the 17th Lok Sabha from the Gandhinagar constituency by a margin of over 5.5 lakh votes"
+            },
+            {
+                "date": "19-08-2017",
+                "event": "Elected as a Member of Parliament to the Rajya Sabha representing Gujarat"
+            },
+            {
+                "date": "24-01-2016",
+                "event": "Re-elected unanimously as the National President of the Bharatiya Janata Party"
+            },
+            {
+                "date": "30-12-2014",
+                "event": "Discharged from the Sohrabuddin Sheikh case by a special CBI court due to lack of evidence"
+            },
+            {
+                "date": "09-07-2014",
+                "event": "Appointed as the 10th National President of the Bharatiya Janata Party following a historic general election victory"
+            },
+            {
+                "date": "16-05-2014",
+                "event": "Engineered the BJP's sweep in Uttar Pradesh as state election campaign in-charge, winning 73 out of 80 NDA seats"
+            },
+            {
+                "date": "20-12-2012",
+                "event": "Elected as MLA from the Naranpura constituency in the Gujarat Legislative Assembly"
+            },
+            {
+                "date": "25-07-2010",
+                "event": "Arrested by the CBI in connection with the Sohrabuddin Sheikh case and later granted bail by the Gujarat High Court"
+            },
+            {
+                "date": "22-12-2002",
+                "event": "Sworn in as Minister of State for Home, Law, and Justice in the Gujarat state cabinet under Chief Minister Narendra Modi"
+            },
+            {
+                "date": "2000",
+                "event": "Elected as the youngest Chairman of the Ahmedabad District Co-operative Bank (ADCB)"
+            },
+            {
+                "date": "1997",
+                "event": "Elected as a Member of the Legislative Assembly (MLA) for the first time from the Sarkhej constituency in Gujarat"
+            },
+            {
+                "date": "1989",
+                "event": "Appointed Secretary of the BJP's Ahmedabad city unit, playing a major role in election campaigns for L.K. Advani and Atal Bihari Vajpayee"
+            },
+            {
+                "date": "1987",
+                "event": "Joined Bharatiya Janata Yuva Morcha (BJYM), the youth wing of the BJP, and married Sonal Shah"
+            },
+            {
+                "date": "1982",
+                "event": "Appointed Joint Secretary of the Gujarat unit of the Akhil Bharatiya Vidyarthi Parishad (ABVP)"
+            },
+            {
+                "date": "1980",
+                "event": "Joined the Rashtriya Swayamsevak Sangh (RSS) as a volunteer (Swayamsevak) at age 16"
+            },
+            {
+                "date": "22-10-1964",
+                "event": "Born as Amit Anilchandra Shah in Bombay (now Mumbai), Maharashtra, India"
+            }
+        ]
     },
     "response": {
         "ascendant": {

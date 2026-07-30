@@ -14,7 +14,69 @@
         "agyat_rating": "AA",
         "gender": "female",
         "related": ["actor", "comic"],
-        "about": "Bharti Singh (born 3 July 1984) is an Indian comedian and television personality. Singh has created numerous comedy shows as well as hosted various award shows. She participated in the reality shows Jhalak Dikhhla Jaa 5 (2012), Nach Baliye 8 (2017), and Fear Factor: Khatron Ke Khiladi 9 (2019). In 2019, she appeared on Khatra Khatra Khatra, a show conceptualised by her husband Haarsh Limbachiyaa for Colors TV. Since 2016, Singh has appeared in Forbes India's celebrity 100 list."
+        "about": "Bharti Singh (born 3 July 1984) is an Indian comedian and television personality. Singh has created numerous comedy shows as well as hosted various award shows. She participated in the reality shows Jhalak Dikhhla Jaa 5 (2012), Nach Baliye 8 (2017), and Fear Factor: Khatron Ke Khiladi 9 (2019). In 2019, she appeared on Khatra Khatra Khatra, a show conceptualised by her husband Haarsh Limbachiyaa for Colors TV. Since 2016, Singh has appeared in Forbes India's celebrity 100 list.",
+        "events": [
+            {
+                "date": "01-06-2024",
+                "event": "Began hosting the comedy cooking reality show 'Laughter Chefs – Unlimited Entertainment' on Colors TV"
+            },
+            {
+                "date": "28-07-2023",
+                "event": "Featured in a cameo appearance in Karan Johar's romantic comedy film 'Rocky Aur Rani Kii Prem Kahaani'"
+            },
+            {
+                "date": "03-04-2022",
+                "event": "Gave birth to her first child, a son named Laksh Limbachiyaa (nicknamed Golla)"
+            },
+            {
+                "date": "22-01-2022",
+                "event": "Began co-hosting the reality talent competition 'Hunarbaaz: Desh Ki Shaan' alongside husband Haarsh Limbachiyaa"
+            },
+            {
+                "date": "21-11-2020",
+                "event": "Arrested alongside husband Haarsh Limbachiyaa by the Narcotics Control Bureau (NCB) during a drug probe, before being granted bail on November 23"
+            },
+            {
+                "date": "11-03-2019",
+                "event": "Launched the hit comedy game show 'Khatra Khatra Khatra' on Colors TV, co-created and produced with Haarsh Limbachiyaa"
+            },
+            {
+                "date": "05-01-2019",
+                "event": "Participated as a contestant on 'Fear Factor: Khatron Ke Khiladi 9', finishing in 6th place"
+            },
+            {
+                "date": "03-12-2017",
+                "event": "Married screenwriter and television host Haarsh Limbachiyaa in Goa"
+            },
+            {
+                "date": "2017",
+                "event": "Joined 'The Kapil Sharma Show', playing iconic characters including Titli Yadav and Lalli"
+            },
+            {
+                "date": "05-09-2015",
+                "event": "Began co-hosting the comedy roast show 'Comedy Nights Bachao' alongside Krushna Abhishek"
+            },
+            {
+                "date": "07-12-2012",
+                "event": "Made her Hindi feature film debut in the action-comedy 'Khiladi 786' starring Akshay Kumar"
+            },
+            {
+                "date": "16-06-2012",
+                "event": "Participated as a contestant on the dance reality show 'Jhalak Dikhhla Jaa 5', finishing in 5th place"
+            },
+            {
+                "date": "22-04-2011",
+                "event": "Made her film acting debut in the Punjabi feature film 'Ek Noor'"
+            },
+            {
+                "date": "2008",
+                "event": "Emerged as second runner-up on 'The Great Indian Laughter Challenge 4', gaining national fame for her child comic character 'Lalli'"
+            },
+            {
+                "date": "03-07-1984",
+                "event": "Born in Amritsar, Punjab, India"
+            }
+        ]
     },
     "response": {
         "ascendant": {

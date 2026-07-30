@@ -15,7 +15,45 @@
         "gender": "male",
         "related": ["singer"],
         "advanced": "fame, marriage, prolonged career",
-        "about": "<p>Anup Jalota, (born 29 July 1953) is an Indian singer, musician and actor, best known for his contributions to the bhajan and ghazal genre of Indian music. He is popularly known as the Bhajan Samraat (transl.  \"Emperor of Bhajan\"). The Padma Shri was awarded to him by the Government of India in 2012. He was a contestant on the reality show Bigg Boss 12.</p><p>This section of a biography of a living person does not include any references or sources. Please help by adding reliable sources. Contentious material about living people that is unsourced or poorly sourced must be removed immediately.</p><p>Anup Jalota was born in Nainital to an Indian Punjabi Hindu family and hails from the Sham Chaurasia gharana of Punjab. He was educated at Lucknow's Bhatkhande Music Institute. His father, Purshottam Das Jalota, was also a bhajan singer. He also spent few years in Savarkundla, Gujarat in his early days. He has four siblings, two of which are younger brothers, Anil Jalota and Ajay Jalota and two of which are his younger sisters, Anjali Dhir and Anita Mehra. Ajay currently lives in California, U.S.</p>"
+        "about": "<p>Anup Jalota, (born 29 July 1953) is an Indian singer, musician and actor, best known for his contributions to the bhajan and ghazal genre of Indian music. He is popularly known as the Bhajan Samraat (transl.  \"Emperor of Bhajan\"). The Padma Shri was awarded to him by the Government of India in 2012. He was a contestant on the reality show Bigg Boss 12.</p><p>This section of a biography of a living person does not include any references or sources. Please help by adding reliable sources. Contentious material about living people that is unsourced or poorly sourced must be removed immediately.</p><p>Anup Jalota was born in Nainital to an Indian Punjabi Hindu family and hails from the Sham Chaurasia gharana of Punjab. He was educated at Lucknow's Bhatkhande Music Institute. His father, Purshottam Das Jalota, was also a bhajan singer. He also spent few years in Savarkundla, Gujarat in his early days. He has four siblings, two of which are younger brothers, Anil Jalota and Ajay Jalota and two of which are his younger sisters, Anjali Dhir and Anita Mehra. Ajay currently lives in California, U.S.</p>",
+        "events": [
+            {
+                "date": "16-09-2018",
+                "event": "Entered the 'Bigg Boss 12' house as a celebrity contestant alongside Jasleen Matharu"
+            },
+            {
+                "date": "24-11-2014",
+                "event": "His third wife, Medha Gujral Jalota (niece of former Indian Prime Minister I.K. Gujral), passed away in New York"
+            },
+            {
+                "date": "25-01-2012",
+                "event": "Conferred with the Padma Shri, India's fourth-highest civilian honor, for his contributions to Indian music"
+            },
+            {
+                "date": "2002",
+                "event": "Began hosting the spiritual and cultural television show 'Dharam Aur Hum' on Star Plus, running through 2005"
+            },
+            {
+                "date": "1994",
+                "event": "Married Medha Gujral"
+            },
+            {
+                "date": "1979",
+                "event": "Released his breakthrough devotional album featuring iconic bhajans like 'Aisi Lagi Lagan' and 'Main Nahi Makhan Khayo', establishing his title as 'Bhajan Samraat'"
+            },
+            {
+                "date": "1977",
+                "event": "Sang songs for the devotional feature film 'Shirdi Ke Sai Baba', gaining widespread recognition"
+            },
+            {
+                "date": "1975",
+                "event": "Began his professional music career as a chorus singer for All India Radio (AIR)"
+            },
+            {
+                "date": "29-07-1953",
+                "event": "Born to classical singer Purushottam Das Jalota and Kamala Jalota in Nainital, Uttar Pradesh (now Uttarakhand), India"
+            }
+        ]
     },
     "response": {
         "ascendant": {

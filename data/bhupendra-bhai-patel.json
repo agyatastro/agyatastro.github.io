@@ -14,7 +14,53 @@
         "agyat_rating": "AA",
         "gender": "male",
         "related": ["politician", "chief-minister"],
-        "about": "Bhupendrabhai Rajnikantbhai Patel (born 15 July 1962) is an Indian politician and civil engineer who is serving as the 17th and current Chief Minister of Gujarat since 2021. He represents the Ghatlodia Assembly constituency in the Gujarat Legislative Assembly since 2017. He is a member of the BJP. He started his political career in municipal bodies of Ahmedabad."
+        "about": "Bhupendrabhai Rajnikantbhai Patel (born 15 July 1962) is an Indian politician and civil engineer who is serving as the 17th and current Chief Minister of Gujarat since 2021. He represents the Ghatlodia Assembly constituency in the Gujarat Legislative Assembly since 2017. He is a member of the BJP. He started his political career in municipal bodies of Ahmedabad.",
+        "events": [
+            {
+                "date": "12-12-2022",
+                "event": "Sworn in as Chief Minister of Gujarat for his second term following a record-breaking victory for the BJP in the state assembly elections"
+            },
+            {
+                "date": "08-12-2022",
+                "event": "Re-elected to the Gujarat Legislative Assembly from the Ghatlodia constituency by a massive margin of over 1.92 lakh votes"
+            },
+            {
+                "date": "13-09-2021",
+                "event": "Sworn in as the 17th Chief Minister of Gujarat following the unexpected resignation of Vijay Rupani"
+            },
+            {
+                "date": "18-12-2017",
+                "event": "Elected to the Gujarat Legislative Assembly for the first time representing Ghatlodia constituency, winning by a record margin of over 1.17 lakh votes"
+            },
+            {
+                "date": "2015",
+                "event": "Appointed Chairman of the Ahmedabad Urban Development Authority (AUDA), serving in the position until 2017"
+            },
+            {
+                "date": "2010",
+                "event": "Elected as a corporator from Thaltej ward and appointed Chairman of the Standing Committee of the Ahmedabad Municipal Corporation (AMC)"
+            },
+            {
+                "date": "2008",
+                "event": "Appointed Vice Chairman of the Ahmedabad Municipal Corporation (AMC) School Board, serving until 2010"
+            },
+            {
+                "date": "1999",
+                "event": "Elected President of the Memnagar Nagarpalika"
+            },
+            {
+                "date": "1995",
+                "event": "Began his active political career upon being appointed Chairman of the Standing Committee of Memnagar Nagarpalika"
+            },
+            {
+                "date": "04-1982",
+                "event": "Earned his Diploma in Civil Engineering from Government Polytechnic, Ahmedabad"
+            },
+            {
+                "date": "15-07-1962",
+                "event": "Born as Bhupendrabhai Rajnikant Patel in Ahmedabad, Gujarat, India"
+            }
+        ]
     },
     "response": {
         "ascendant": {

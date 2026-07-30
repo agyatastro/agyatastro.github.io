@@ -14,7 +14,41 @@
         "gender": "male",
         "agyat_rating": "AA",
         "about": "<p>Akash M. Ambani is an Indian business leader serving as the Chairman of Reliance Jio Infocomm Limited (RJIL) since June 2022. He was earlier serving as non-Executive Director on RJIL board since October 2014. He is the Managing Director of Jio Platforms Limited (JPL). At JPL, he spearheads the creation of products and services that leverage new-age technologies like 5G, Artificial Intelligence, Blockchain and the Internet of Things to bring about a generational shift in Commerce, Education, and Healthcare across India. Under his leadership, Jio crossed the 100 million subscriber mark in less than six months of its launch in 2016, and today serves over 524 million customers.</p><p>Akash M. Ambani is part of the RJIL Executive Committee, the governing and operating council. He is also a member of the Product Leadership Group and is closely involved in the development of Products and all digital services applications. Akash M. Ambani has led the expansion of India’s digital ecosystem of India through launch of affordable devices such as the Jiophone, which enabled more than 100 million Indians to experience the power of the Internet as well as launch of new services and applications which deepen India’s digital ecosystem across information, entertainment, education and convenience of use. Along with positive social impact, Jio has won national and international recognition for the climate mitigation initiatives aimed at reducing its carbon footprint and transitioning it’s energy requirements towards renewable sources.</p><p>In addition to the digital services business, Shri Akash M. Ambani has been part of the leadership team of Reliance Industries’ retail businesses serving on the Board of Reliance Retail Ventures Limited as a Director since October 2014. Shri Akash M. Ambani is keenly involved in various employee engagement initiatives. He is an avid sportsperson and has played a key role in the management of Mumbai Indians.</p><p>Akash M. Ambani received a Bachelor’s in Economics from Brown University, USA. He is also a member of the President’s Leadership Council of the Brown University. He has been recognised in TIME magazine’s TIME100 Next list of rising stars from across industries around the world, and in Fortune’s 40 Under-40 list of young leaders who stood out for their impact on business globally. He was instrumental in attracting over USD 20 billion from marquee global investors including Meta and Google, and in forging strategic partnerships that position JPL as a full-stack technology platform.</p>",
-        "related": ["ambani-family", "businessperson"]
+        "related": ["ambani-family", "businessperson"],
+        "events": [
+            {
+                "date": "28-08-2023",
+                "event": "Appointed to the Board of Directors of Reliance Industries Limited (RIL)"
+            },
+            {
+                "date": "27-06-2022",
+                "event": "Appointed as Chairman of the Board of Directors of Reliance Jio Infocomm Limited"
+            },
+            {
+                "date": "2021",
+                "event": "Welcomed his first child, a son named Prithvi Akash Ambani, with wife Shloka Mehta"
+            },
+            {
+                "date": "10-03-2019",
+                "event": "Married Shloka Mehta, daughter of diamond merchant Russell Mehta, in Mumbai"
+            },
+            {
+                "date": "12-2015",
+                "event": "Co-led the commercial launch of Jio 4G services across India alongside sister Isha Ambani"
+            },
+            {
+                "date": "2014",
+                "event": "Appointed to the Board of Directors of Reliance Jio Infocomm Limited and Reliance Retail Ventures"
+            },
+            {
+                "date": "2013",
+                "event": "Graduated with an undergraduate degree in Economics from Brown University"
+            },
+            {
+                "date": "23-10-1991",
+                "event": "Born to Mukesh Ambani and Nita Ambani in Mumbai, India"
+            }
+        ]
     },
     "response": {
         "ascendant": {

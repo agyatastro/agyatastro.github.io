@@ -16,7 +16,69 @@
         "advanced": "legal-issues, death by air accident",
         "gender": "male",
         "about": "<p>Ajit Anantrao Pawar (Marathi pronunciation: [əd͡ʒit̪ pəʋaːɾ]; born 22 July 1959) is an Indian politician serving as the Deputy Chief Minister of Maharashtra along with Eknath Shinde under Devendra Fadnavis since 5 December 2024. He is the longest serving Deputy Chief Minister of Maharashtra non-consecutively. He has served this position for 6 terms within various governments. He has worked as deputy chief minister within the cabinets of Prithviraj Chavan, Devendra Fadnavis, Uddhav Thackeray and Eknath Shinde.</p><p>He served as the Leader of the Opposition in the Maharashtra Legislative Assembly from 2022 to 2023 and represented Baramati Lok Sabha constituency in 1991. He served as deputy chief minister many times.</p>",
-        "related": ["pawar-family", "politician"]
+        "related": ["pawar-family", "politician"],
+        "events": [
+            {
+                "date": "28-01-2026",
+                "event": "Tragically passed away in a private aircraft crash near Baramati Airport in Pune district, Maharashtra"
+            },
+            {
+                "date": "05-12-2024",
+                "event": "Sworn in as Deputy Chief Minister of Maharashtra for his historic sixth term following the Mahayuti alliance's victory"
+            },
+            {
+                "date": "06-02-2024",
+                "event": "The Election Commission of India officially recognized his faction as the real Nationalist Congress Party (NCP) and allotted them the 'clock' symbol"
+            },
+            {
+                "date": "02-07-2023",
+                "event": "Led a major split in the NCP to join the Eknath Shinde-led government and was sworn in as Deputy Chief Minister of Maharashtra"
+            },
+            {
+                "date": "04-07-2022",
+                "event": "Appointed as the Leader of the Opposition in the Maharashtra Legislative Assembly"
+            },
+            {
+                "date": "30-12-2019",
+                "event": "Took oath as Deputy Chief Minister of Maharashtra under the Maha Vikas Aghadi (MVA) coalition government led by Uddhav Thackeray"
+            },
+            {
+                "date": "23-11-2019",
+                "event": "Sworn in as Deputy Chief Minister in an early-morning ceremony alongside BJP's Devendra Fadnavis, before resigning 80 hours later"
+            },
+            {
+                "date": "25-09-2012",
+                "event": "Resigned as Deputy Chief Minister following allegations of financial irregularities in Maharashtra's irrigation projects"
+            },
+            {
+                "date": "10-11-2010",
+                "event": "Sworn in as Deputy Chief Minister of Maharashtra for the first time in the Congress-NCP alliance government"
+            },
+            {
+                "date": "10-06-1999",
+                "event": "Joined his uncle Sharad Pawar during the founding of the Nationalist Congress Party (NCP)"
+            },
+            {
+                "date": "29-08-1991",
+                "event": "Elected to the Maharashtra Legislative Assembly from the Baramati constituency for his first term as an MLA"
+            },
+            {
+                "date": "03-05-1991",
+                "event": "Elected as Member of Parliament to the 10th Lok Sabha from Baramati, later vacating the seat for Sharad Pawar"
+            },
+            {
+                "date": "1985",
+                "event": "Married Sunetra Patil"
+            },
+            {
+                "date": "1982",
+                "event": "Made his initial foray into public leadership after being elected to the board of a cooperative sugar factory"
+            },
+            {
+                "date": "22-07-1959",
+                "event": "Born in Deolali Pravara, Ahmednagar district, Maharashtra, India"
+            }
+        ]
     },
     "response": {
         "ascendant": {

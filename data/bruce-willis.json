@@ -14,7 +14,85 @@
         "agyat_rating": "AA",
         "advanced": "dementia, legal-issues",
         "related": ["actor"],
-        "about": "<p>Walter Bruce Willis (born March 19, 1955) is a retired American actor. He achieved fame with a leading role on the comedy-drama series Moonlighting (1985–1989) and has appeared in over one hundred films, gaining recognition as an action hero for his portrayal of John McClane in the Die Hard franchise (1988–2013).</p><p>Willis's other credits include The Last Boy Scout (1991), Pulp Fiction (1994), 12 Monkeys (1995), The Fifth Element (1997), Armageddon (1998), The Sixth Sense (1999), Unbreakable, The Whole Nine Yards (both 2000), Tears of the Sun (2003), Sin City (2005), The Expendables, Red (both 2010), Looper (2012), and Glass (2019). In the last years of his career, he starred in many low-budget direct-to-video films, which were poorly received. Willis retired in 2022 due to aphasia, and was diagnosed with frontotemporal dementia in 2023.</p><p>As a singer, Willis released his debut album, The Return of Bruno, in 1987, followed by two more albums in 1989 and 2001. He made his Broadway debut in the stage adaptation of Misery in 2015. Willis has received various accolades throughout his career, including a Golden Globe Award, two Primetime Emmy Awards, and two People's Choice Awards. He received a star on the Hollywood Walk of Fame in 2006. Films featuring Willis have grossed between US$2.64 billion and US$3.05 billion at North American box offices, making him in 2010 the eighth-highest-grossing leading actor.</p>"
+        "about": "<p>Walter Bruce Willis (born March 19, 1955) is a retired American actor. He achieved fame with a leading role on the comedy-drama series Moonlighting (1985–1989) and has appeared in over one hundred films, gaining recognition as an action hero for his portrayal of John McClane in the Die Hard franchise (1988–2013).</p><p>Willis's other credits include The Last Boy Scout (1991), Pulp Fiction (1994), 12 Monkeys (1995), The Fifth Element (1997), Armageddon (1998), The Sixth Sense (1999), Unbreakable, The Whole Nine Yards (both 2000), Tears of the Sun (2003), Sin City (2005), The Expendables, Red (both 2010), Looper (2012), and Glass (2019). In the last years of his career, he starred in many low-budget direct-to-video films, which were poorly received. Willis retired in 2022 due to aphasia, and was diagnosed with frontotemporal dementia in 2023.</p><p>As a singer, Willis released his debut album, The Return of Bruno, in 1987, followed by two more albums in 1989 and 2001. He made his Broadway debut in the stage adaptation of Misery in 2015. Willis has received various accolades throughout his career, including a Golden Globe Award, two Primetime Emmy Awards, and two People's Choice Awards. He received a star on the Hollywood Walk of Fame in 2006. Films featuring Willis have grossed between US$2.64 billion and US$3.05 billion at North American box offices, making him in 2010 the eighth-highest-grossing leading actor.</p>",
+        "events": [
+            {
+                "date": "19-07-2026",
+                "event": "Spotted on a rare public outing in Los Angeles, photographed looking relaxed as a passenger in a car during a drive around Studio City."
+            },
+            {
+                "date": "09-2025",
+                "event": "Transitioned into a specialized separate residence tailored to his ongoing medical requirements, supported closely by his wife Emma Heming Willis, ex-wife Demi Moore, and his children."
+            },
+            {
+                "date": "16-02-2023",
+                "event": "His family publicly announced that his aphasia condition had progressed to frontotemporal dementia (FTD), drawing widespread global attention and support for neurodegenerative research."
+            },
+            {
+                "date": "30-03-2022",
+                "event": "Announced his official retirement from acting after being diagnosed with aphasia, which had begun impacting his cognitive and language abilities."
+            },
+            {
+                "date": "27-06-2019",
+                "event": "Starred as security guard David Dunn in 'Glass', reprising his iconic superhero/thriller roles from 'Unbreakable' and 'Split'."
+            },
+            {
+                "date": "11-10-2013",
+                "event": "Starred as the older version of Joe in Rian Johnson's acclaimed sci-fi time-travel thriller 'Looper'."
+            },
+            {
+                "date": "21-07-2006",
+                "event": "Received a star on the Hollywood Walk of Fame in recognition of his prolific cinematic career."
+            },
+            {
+                "date": "20-11-2004",
+                "event": "Married his second wife, model Emma Heming, in a private ceremony in Turks and Caicos."
+            },
+            {
+                "date": "30-06-2004",
+                "event": "Starred as veteran private investigator John Hartigan in the neo-noir crime thriller adaptation 'Sin City'."
+            },
+            {
+                "date": "01-07-1998",
+                "event": "Starred as oil driller Harry S. Stamper in Michael Bay's blockbuster sci-fi action disaster film 'Armageddon'."
+            },
+            {
+                "date": "06-08-1999",
+                "event": "Starred as child psychologist Malcolm Crowe in M. Night Shyamalan's landmark supernatural psychological thriller 'The Sixth Sense'."
+            },
+            {
+                "date": "09-05-1997",
+                "event": "Starred as former special forces major Korben Dallas in Luc Besson's iconic sci-fi space opera masterpiece 'The Fifth Element'."
+            },
+            {
+                "date": "29-12-1995",
+                "event": "Starred as time-traveler James Cole in Terry Gilliam's mind-bending dystopian sci-fi masterpiece '12 Monkeys'."
+            },
+            {
+                "date": "14-10-1994",
+                "event": "Delivered an iconic performance as doomed boxer Butch Coolidge in Quentin Tarantino's cultural landmark film 'Pulp Fiction'."
+            },
+            {
+                "date": "21-11-1987",
+                "event": "Finalized his high-profile divorce from actress Demi Moore, with whom he shares three daughters (Rumer, Scout, and Tallulah)."
+            },
+            {
+                "date": "15-07-1987",
+                "event": "Married actress Demi Moore in Las Vegas, quickly becoming one of Hollywood's most-watched celebrity couples."
+            },
+            {
+                "date": "15-07-1988",
+                "event": "Achieved legendary global superstar status with his definitive portrayal of gritty NYPD cop John McClane in the blockbuster action classic 'Die Hard'."
+            },
+            {
+                "date": "03-03-1985",
+                "event": "Rose to international television prominence co-starring alongside Cybill Shepherd in the hit ABC comedy-drama mystery series 'Moonlighting'."
+            },
+            {
+                "date": "19-03-1955",
+                "event": "Born as Walter Bruce Willis in Idar-Oberstein, West Germany, before growing up in Carneys Point, New Jersey, United States."
+            }
+        ]
     },
     "response": {
         "ascendant": {

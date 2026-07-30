@@ -14,7 +14,45 @@
         "agyat_rating": "AA",
         "gender": "male",
         "about": "Chirag Paswan (born 31 October 1982) is an Indian politician and former actor who is serving as the 19th Minister of Food Processing Industries since June 2024, the 1st president of the Lok Janshakti Party (Ram Vilas) since 2021, 2nd president of the Lok Janshakti Party from 2019 to 2021 and a Member of Parliament, Lok Sabha from the Hajipur Lok Sabha constituency since 2024. He is the son of late Member of Parliament and Union Minister, Ram Vilas Paswan.",
-        "related": ["paswan-family", "politician"]
+        "related": ["paswan-family", "politician"],
+        "events": [
+            {
+                "date": "09-06-2026",
+                "event": "Inaugurated the SAPLING 2026 regional high-level policy forum on food processing and sustainable growth in Ahmedabad, organized jointly by the Ministry of Food Processing Industries and the World Bank."
+            },
+            {
+                "date": "04-06-2024",
+                "event": "Sworn in as the Union Cabinet Minister for Food Processing Industries in Prime Minister Narendra Modi's government."
+            },
+            {
+                "date": "04-06-2024",
+                "event": "Elected as a Member of Parliament to the 18th Lok Sabha from the Hajipur constituency in Bihar."
+            },
+            {
+                "date": "05-10-2021",
+                "event": "Became the founding president of the newly formed Lok Janshakti Party (Ram Vilas) following a factional split within the original party."
+            },
+            {
+                "date": "08-10-2020",
+                "event": "His father and veteran political leader, Ram Vilas Paswan, passed away, leading Chirag to take over complete leadership responsibilities of the LJP."
+            },
+            {
+                "date": "23-05-2019",
+                "event": "Re-elected to the 17th Lok Sabha for a second consecutive term representing the Jamui constituency."
+            },
+            {
+                "date": "16-05-2014",
+                "event": "Won his maiden Lok Sabha election from the Jamui constituency in Bihar, entering active parliamentary politics under the Lok Janshakti Party banner."
+            },
+            {
+                "date": "05-11-2011",
+                "event": "Made his Bollywood acting debut as the lead actor in the Hindi romantic drama film 'Miley Naa Miley Hum'."
+            },
+            {
+                "date": "31-10-1982",
+                "event": "Born as Chirag Kumar Paswan in Delhi to late political leader Ram Vilas Paswan and Reena Sharma."
+            }
+        ]
     },
     "response": {
         "ascendant": {

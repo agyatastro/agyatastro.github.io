@@ -16,7 +16,57 @@
         "advanced": "legal-issues, convict, detention",
         "related": ["businessperson"],
         "about": "<p>Abdul Karim Telgi (29 July 1961 – 23 October 2017) was an Indian counterfeiter. He earned money by printing counterfeit stamp paper in India, with the size of the scam estimated to be around ₹200 billion (US$2.3 billion)</p><p>Abdul Karim moved to more complex counterfeiting when he began to counterfeit stamp paper. He appointed 300 people as agents who sold the fakes to bulk purchasers, including banks, insurance companies, and stock brokerage firms. The size of the scam was estimated to be around ₹200 billion (US$2.3 billion) One aspect of the scandal that caused much concern was that it required the involvement of many police officers and other government employees including Nikhil Kothari, an Assistant Police Investigator who was found to have a net worth of over ₹1 billion (US$12 million), despite making a salary of only ₹9,000 (US$110) per month. Several police officers were implicated in the case. Pradip Sawant, then Deputy Commissioner of Police, Special Branch, Mumbai, was discharged but subsequently reinstated after being found innocent. Then police officer S M Mushrif, known for the book Who killed Karkare took decisive measures in this case.</p><p>On 17 January 2006, Abdul Karim and several associates were sentenced to 30 years rigorous imprisonment. On 28 June 2007, Telgi was sentenced to rigorous imprisonment for 13 years for another aspect of the scandal. He was also fined ₹10 billion (US$120 million). The Income Tax Department requested that Telgi's property be confiscated to pay the fine. He had been in jail for 13 years.</p><p>Abdul Karim was suffering from meningitis and died on 23 October 2017 at Victoria Hospital, Bengaluru. He was suffering from diabetes and hypertension for over 20 years, besides other ailments like HIV.</p>",
-        "dod": "23/10/2017"
+        "dod": "23/10/2017",
+        "events": [
+            {
+                "date": "31-12-2018",
+                "event": "Posthumously acquitted along with 7 others by a Nashik Special Court in a 2004 fake stamp paper case due to lack of evidence"
+            },
+            {
+                "date": "23-10-2017",
+                "event": "Died from meningitis and multiple organ failure at Victoria Hospital in Bengaluru while serving his prison sentence"
+            },
+            {
+                "date": "28-06-2007",
+                "event": "Sentenced to 13 years of rigorous imprisonment and fined ₹1,000 crore in the main fake stamp paper scam case"
+            },
+            {
+                "date": "17-01-2006",
+                "event": "Sentenced to 30 years of rigorous imprisonment in a Pune court for a 1995 counterfeiting case"
+            },
+            {
+                "date": "10-02-2004",
+                "event": "Subjected to narco-analysis and polygraph tests in Bengaluru, where he named prominent political figures"
+            },
+            {
+                "date": "09-12-2003",
+                "event": "Central Bureau of Investigation (CBI) officially took over the investigation of the nationwide stamp paper scam"
+            },
+            {
+                "date": "11-2001",
+                "event": "Arrested by Bengaluru Police in Ajmer, Rajasthan, bringing an end to his nationwide counterfeit operation"
+            },
+            {
+                "date": "1994",
+                "event": "Acquired a stamp paper vendor license and bought retired/discarded printing machinery from government auctions in Nashik"
+            },
+            {
+                "date": "1993",
+                "event": "Arrested by Mumbai Police for his involvement in a fake visa and passport racket"
+            },
+            {
+                "date": "1986",
+                "event": "Established 'Arabian Metro Travel Company' in Mumbai to facilitate labor export to the Gulf using forged documents"
+            },
+            {
+                "date": "1984",
+                "event": "Graduated with a Bachelor of Commerce (B.Com) degree from Gogte College of Commerce in Belagavi"
+            },
+            {
+                "date": "29-07-1961",
+                "event": "Born in Khanapur, Belagavi district, Karnataka, India"
+            }
+        ]
     },
     "response": {
         "ascendant": {

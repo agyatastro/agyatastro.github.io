@@ -14,7 +14,81 @@
         "agyat_rating": "AA",
         "gender": "male",
         "related": ["politician"],
-        "about": "Amarinder Singh (born 11 March 1942) is an Indian politician, military historian, former royal and Indian Army veteran who served as the 15th Chief Minister of Punjab. His father, Yadavindra Singh, was the last Maharaja of the princely state of Patiala and a member of the historical Phulkian dyansty. Before starting his political career, Singh was an officer in the Indian Army, where he served from 1963 to 1966. In his long political career, Singh has served in numerous positions including as a Member of the Legislative Assembly in Punjab and as a Member of Parliament, Lok Sabha. He also served as the president of the Punjab Pradesh Congress Committee thrice. Singh served as the Chief Minister of Punjab from 2002 to 2007 and 2017 to 2021. As of November 2022, Singh also serves as the chairman of the Punjab Urdu Academy. On 19 September 2022, he merged his party, Punjab Lok Congress, which he formed after leaving the Indian National Congress, with the Bharatiya Janata Party (BJP) and joined BJP on the same day."
+        "about": "Amarinder Singh (born 11 March 1942) is an Indian politician, military historian, former royal and Indian Army veteran who served as the 15th Chief Minister of Punjab. His father, Yadavindra Singh, was the last Maharaja of the princely state of Patiala and a member of the historical Phulkian dyansty. Before starting his political career, Singh was an officer in the Indian Army, where he served from 1963 to 1966. In his long political career, Singh has served in numerous positions including as a Member of the Legislative Assembly in Punjab and as a Member of Parliament, Lok Sabha. He also served as the president of the Punjab Pradesh Congress Committee thrice. Singh served as the Chief Minister of Punjab from 2002 to 2007 and 2017 to 2021. As of November 2022, Singh also serves as the chairman of the Punjab Urdu Academy. On 19 September 2022, he merged his party, Punjab Lok Congress, which he formed after leaving the Indian National Congress, with the Bharatiya Janata Party (BJP) and joined BJP on the same day.",
+        "events": [
+            {
+                "date": "19-09-2022",
+                "event": "Officially joined the Bharatiya Janata Party (BJP) in New Delhi and merged his political party, the Punjab Lok Congress (PLC), with the BJP"
+            },
+            {
+                "date": "02-11-2021",
+                "event": "Formed the regional political party Punjab Lok Congress (PLC) following his resignation from the Indian National Congress"
+            },
+            {
+                "date": "18-09-2021",
+                "event": "Resigned as Chief Minister of Punjab amid internal party friction within the Punjab Pradesh Congress Committee"
+            },
+            {
+                "date": "16-03-2017",
+                "event": "Sworn in as the 15th Chief Minister of Punjab for a second term after leading the Congress Party to a majority in the 2017 state assembly elections"
+            },
+            {
+                "date": "27-11-2015",
+                "event": "Appointed President of the Punjab Pradesh Congress Committee (PPCC) to lead the party's campaign ahead of the 2017 state assembly polls"
+            },
+            {
+                "date": "16-05-2014",
+                "event": "Elected to the 16th Lok Sabha from the Amritsar constituency, defeating BJP candidate Arun Jaitley by over 102,000 votes"
+            },
+            {
+                "date": "2010",
+                "event": "The Supreme Court of India set aside his 2008 expulsion from the Punjab Vidhan Sabha, declaring the assembly's action unconstitutional"
+            },
+            {
+                "date": "26-02-2002",
+                "event": "Sworn in as Chief Minister of Punjab for his first term, serving until March 2007"
+            },
+            {
+                "date": "1998",
+                "event": "Merged his faction, Shiromani Akali Dal (Panthic), back into the Indian National Congress under Sonia Gandhi's leadership"
+            },
+            {
+                "date": "1992",
+                "event": "Broke away from Shiromani Akali Dal to establish Shiromani Akali Dal (Panthic)"
+            },
+            {
+                "date": "1985",
+                "event": "Elected to the Punjab Legislative Assembly from Talwandi Sabo on a Shiromani Akali Dal ticket and served as Minister for Agriculture, Forest, Development, and Panchayats"
+            },
+            {
+                "date": "1984",
+                "event": "Resigned from the Lok Sabha and the Indian National Congress in protest against Operation Blue Star, subsequently joining Shiromani Akali Dal"
+            },
+            {
+                "date": "1980",
+                "event": "Entered national politics by winning his first term in the Lok Sabha representing the Patiala constituency on an Indian National Congress ticket"
+            },
+            {
+                "date": "17-06-1974",
+                "event": "Succeeded as the titular Maharaja of Patiala following the demise of his father, Maharaja Yadavindra Singh"
+            },
+            {
+                "date": "1965",
+                "event": "Rejoined active military service during the Indo-Pakistani War of 1965 as Aide-de-Camp (ADC) to Lieutenant General Harbaksh Singh"
+            },
+            {
+                "date": "31-10-1964",
+                "event": "Married Preneet Kaur"
+            },
+            {
+                "date": "06-1963",
+                "event": "Commissioned into the Sikh Regiment of the Indian Army after graduating from the National Defence Academy and Indian Military Academy"
+            },
+            {
+                "date": "11-03-1942",
+                "event": "Born to Maharaja Yadavindra Singh and Maharani Mohinder Kaur in Patiala, Punjab, British India"
+            }
+        ]
     },
     "response": {
         "ascendant": {

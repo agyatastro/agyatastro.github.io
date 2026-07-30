@@ -14,7 +14,73 @@
         "agyat_rating": "AA",
         "gender": "male",
         "related": ["politician", "chief-minister"],
-        "about": "<p>Bhupinder Singh Hooda (born 15 September 1947) is an Indian National Congress politician, who has served as the Chief Minister of Haryana from 2005 to 2014. He was the Leader of the Opposition in Haryana Legislative Assembly from 2019 to 2024.</p><p>When he began a second term in October 2009 after leading the Congress to an election victory, it was the first time since 1972 that a Haryana electorate returned a ruling party back to power. Hooda is also a Member of the Bar Council of Punjab and Haryana. In 2010, Indian Prime Minister Manmohan Singh constituted the Working Group on Agriculture Production under Hooda's chairmanship to recommend strategies and action plan for increasing agricultural production and productivity, including long-term policies to ensure sustained agricultural growth.</p>"
+        "about": "<p>Bhupinder Singh Hooda (born 15 September 1947) is an Indian National Congress politician, who has served as the Chief Minister of Haryana from 2005 to 2014. He was the Leader of the Opposition in Haryana Legislative Assembly from 2019 to 2024.</p><p>When he began a second term in October 2009 after leading the Congress to an election victory, it was the first time since 1972 that a Haryana electorate returned a ruling party back to power. Hooda is also a Member of the Bar Council of Punjab and Haryana. In 2010, Indian Prime Minister Manmohan Singh constituted the Working Group on Agriculture Production under Hooda's chairmanship to recommend strategies and action plan for increasing agricultural production and productivity, including long-term policies to ensure sustained agricultural growth.</p>",
+        "events": [
+            {
+                "date": "08-10-2024",
+                "event": "Re-elected to the 15th Haryana Legislative Assembly from the Garhi Sampla-Kiloi constituency for his fifth consecutive term as MLA"
+            },
+            {
+                "date": "04-11-2019",
+                "event": "Appointed Leader of the Opposition in the 14th Haryana Legislative Assembly"
+            },
+            {
+                "date": "24-10-2019",
+                "event": "Elected to the 14th Haryana Legislative Assembly from Garhi Sampla-Kiloi constituency with a massive margin of over 58,000 votes"
+            },
+            {
+                "date": "26-10-2014",
+                "event": "Resigned as Chief Minister of Haryana following the Congress party's defeat in the 2014 state assembly elections"
+            },
+            {
+                "date": "25-10-2009",
+                "event": "Sworn in as Chief Minister of Haryana for his second term after leading the Indian National Congress to victory in the state assembly elections"
+            },
+            {
+                "date": "05-03-2005",
+                "event": "Sworn in as the 9th Chief Minister of Haryana for his first term"
+            },
+            {
+                "date": "13-05-2004",
+                "event": "Re-elected to the 14th Lok Sabha representing the Rohtak constituency for his fourth term as MP"
+            },
+            {
+                "date": "2002",
+                "event": "Appointed Leader of the Opposition in the Haryana Legislative Assembly, serving until 2004"
+            },
+            {
+                "date": "2000",
+                "event": "Elected to the Haryana Legislative Assembly from the Kiloi constituency"
+            },
+            {
+                "date": "12-03-1998",
+                "event": "Re-elected to the 12th Lok Sabha representing the Rohtak constituency for his third term as MP"
+            },
+            {
+                "date": "02-1997",
+                "event": "Appointed President of the Haryana Pradesh Congress Committee (HPCC), serving until July 2002"
+            },
+            {
+                "date": "10-05-1996",
+                "event": "Re-elected to the 11th Lok Sabha representing the Rohtak constituency for his second term as MP"
+            },
+            {
+                "date": "16-06-1991",
+                "event": "Elected to the 10th Lok Sabha for his first term as MP from Rohtak, defeating veteran leader Chaudhary Devi Lal"
+            },
+            {
+                "date": "1982",
+                "event": "Appointed President of the Haryana Pradesh Youth Congress"
+            },
+            {
+                "date": "1976",
+                "event": "Married Asha Dahiya"
+            },
+            {
+                "date": "15-09-1947",
+                "event": "Born to freedom fighter Chaudhary Ranbir Singh Hooda and Har Devi Hooda in Sanghi village, Rohtak district, Punjab (now in Haryana), India"
+            }
+        ]
     },
     "response": {
         "ascendant": {

@@ -14,7 +14,77 @@
         "agyat_rating": "AA",
         "gender": "male",
         "about": "<p>Vishal Veeru Devgan (born 2 April 1969), known professionally as Ajay Devgn, is an Indian actor, film director, and producer. One of the most prolific actors of Hindi cinema, Devgn has appeared in over 100 films and has won numerous accolades, including four National Film Awards and four Filmfare Awards. In 2016, he was honoured by the Government of India with the Padma Shri, the country's fourth-highest civilian honour</p><p>Devgn emerged a star with his film debut, the action romance Phool Aur Kaante (1991) He had further action film roles in Vijaypath (1994), Dilwale (1994), Jaan (1996), Major Saab (1998) and Kachche Dhaage (1999) and romantic roles in Ishq (1997), Pyaar To Hona Hi Tha (1998) and Hum Dil De Chuke Sanam (1999) Devgn's dramatic performance in Zakhm (1998) earned him the National Film Award for Best Actor</p><p>In the 2000s, Devgn saw limited commercial success, but gained critical acclaim for the films Company (2002), The Legend of Bhagat Singh (2002), Gangaajal (2003), Khakee (2004), Raincoat (2004), and Omkara (2006) For portraying Bhagat Singh in The Legend of Bhagat Singh, he received his second National Film Award for Best Actor and the Filmfare Critics Award for Best Actor. He had a commercial resurgence in 2010 with Golmaal 3, Raajneeti, and Once Upon a Time in Mumbaai, and had further success in Singham (2011), Bol Bachchan (2012), Son of Sardaar (2012), Singham Returns (2014), Drishyam (2015), Golmaal Again (2017), Raid (2018) and Total Dhamaal (2019) His highest-grossing releases came with Tanhaji (2020), Drishyam 2 (2022) and Singham Again (2024). For portraying the title role in Tanhaji, he won his third National Film Award for Best Actor.</p><p>Devgn owns a production company Ajay Devgn FFilms, which was established in 1999. He has frequently collaborated with filmmaker Rohit Shetty and is married to actress Kajol, with whom he has two children.</p>",
-        "related": ["devgan-family", "mukherjee-family", "actor"]
+        "related": ["devgan-family", "mukherjee-family", "actor"],
+        "events": [
+            {
+                "date": "01-11-2024",
+                "event": "Starred in 'Singham Again', which emerged as the highest-grossing film of his career globally"
+            },
+            {
+                "date": "22-07-2022",
+                "event": "Won his third National Film Award for Best Actor for his role in 'Tanhaji: The Unsung Warrior'"
+            },
+            {
+                "date": "10-01-2020",
+                "event": "Starred in and produced 'Tanhaji: The Unsung Warrior', becoming the highest-grossing film of 2020 in India"
+            },
+            {
+                "date": "27-05-2019",
+                "event": "His father, renowned stunt choreographer Veeru Devgan, passed away"
+            },
+            {
+                "date": "2016",
+                "event": "Conferred with the Padma Shri, India's fourth-highest civilian honor"
+            },
+            {
+                "date": "22-07-2011",
+                "event": "Starred in 'Singham', initiating the highly successful cop universe franchise with director Rohit Shetty"
+            },
+            {
+                "date": "13-09-2010",
+                "event": "Welcomed his second child, son Yug Devgan, with wife Kajol"
+            },
+            {
+                "date": "11-04-2008",
+                "event": "Made his directorial debut with 'U Me Aur Hum', which he also produced and starred in opposite Kajol"
+            },
+            {
+                "date": "14-07-2006",
+                "event": "Starred in 'Golmaal: Fun Unlimited', launching the hit 'Golmaal' comedy franchise"
+            },
+            {
+                "date": "20-04-2003",
+                "event": "Welcomed his first child, daughter Nysa Devgan, with wife Kajol"
+            },
+            {
+                "date": "2003",
+                "event": "Won his second National Film Award for Best Actor for his performance in 'The Legend of Bhagat Singh'"
+            },
+            {
+                "date": "12-04-2002",
+                "event": "Starred in Ram Gopal Varma's 'Company', earning the Filmfare Critics Award for Best Actor"
+            },
+            {
+                "date": "2000",
+                "event": "Established his production company, Ajay Devgn FFilms"
+            },
+            {
+                "date": "1999",
+                "event": "Won his first National Film Award for Best Actor for his performance in 'Zakhm' (1998)"
+            },
+            {
+                "date": "24-02-1999",
+                "event": "Married actress Kajol in a traditional Maharashtrian ceremony at his residence"
+            },
+            {
+                "date": "22-11-1991",
+                "event": "Made his acting debut as a lead in 'Phool Aur Kaante', winning the Filmfare Award for Best Male Debut"
+            },
+            {
+                "date": "02-04-1969",
+                "event": "Born as Vishal Virender Devgan in New Delhi, India"
+            }
+        ]
     },
     "response": {
         "ascendant": {

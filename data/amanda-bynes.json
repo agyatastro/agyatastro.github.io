@@ -15,7 +15,65 @@
         "gender": "female",
         "related": ["actor"],
         "advanced": "mental-health, substance-use, legal-issues, detention, alcoholism",
-        "about": "<p>Amanda Laura Bynes (born April 3, 1986) is an American actress. Bynes began her career as a Child actor, appearing on the Nickelodeon sketch comedy series All That (1996–2000) and its spin-off series The Amanda Show (1999–2002). During her mid-teens, she played Holly Tyler on The WB sitcom What I Like About You (2002–2006) and starred in the teen comedy films Big Fat Liar (2002) and What a Girl Wants (2003). As an adult, she appeared in the films She's the Man (2006), Hairspray (2007), and Easy A (2010).</p><p>Bynes is heralded for her acting work in the 1990s and 2000s, winning a Critics' Choice Award and six Kids' Choice Awards among other accolades. In her personal life, she has struggled with mental health and other issues, and was in a conservatorship from August 2013 to March 2022.</p>"
+        "about": "<p>Amanda Laura Bynes (born April 3, 1986) is an American actress. Bynes began her career as a Child actor, appearing on the Nickelodeon sketch comedy series All That (1996–2000) and its spin-off series The Amanda Show (1999–2002). During her mid-teens, she played Holly Tyler on The WB sitcom What I Like About You (2002–2006) and starred in the teen comedy films Big Fat Liar (2002) and What a Girl Wants (2003). As an adult, she appeared in the films She's the Man (2006), Hairspray (2007), and Easy A (2010).</p><p>Bynes is heralded for her acting work in the 1990s and 2000s, winning a Critics' Choice Award and six Kids' Choice Awards among other accolades. In her personal life, she has struggled with mental health and other issues, and was in a conservatorship from August 2013 to March 2022.</p>",
+        "events": [
+            {
+                "date": "22-03-2022",
+                "event": "Officially freed from her 9-year conservatorship after a Ventura County judge terminated the legal agreement"
+            },
+            {
+                "date": "24-06-2019",
+                "event": "Graduated from the Fashion Institute of Design & Merchandising (FIDM) with an Associate's degree"
+            },
+            {
+                "date": "09-08-2013",
+                "event": "Placed under a temporary court-ordered conservatorship managed by her mother following a psychiatric hold"
+            },
+            {
+                "date": "06-04-2012",
+                "event": "Arrested in West Hollywood for driving under the influence (DUI), marking the beginning of a series of publicized legal struggles"
+            },
+            {
+                "date": "17-09-2010",
+                "event": "Starred as Marianne Bryant in 'Easy A', which marked her final feature film acting role"
+            },
+            {
+                "date": "20-06-2010",
+                "event": "Announced her retirement from acting via Twitter at age 24"
+            },
+            {
+                "date": "20-07-2007",
+                "event": "Starred as Penny Pingleton in the musical comedy 'Hairspray', winning critical praise and ensemble awards"
+            },
+            {
+                "date": "17-03-2006",
+                "event": "Starred as Viola Hastings in the romantic teen comedy 'She's the Man' opposite Channing Tatum"
+            },
+            {
+                "date": "04-04-2003",
+                "event": "Starred in 'What a Girl Wants' alongside Colin Firth"
+            },
+            {
+                "date": "20-09-2002",
+                "event": "Starred as Holly Tyler in The WB sitcom 'What I Like About You' alongside Jennie Garth"
+            },
+            {
+                "date": "08-02-2002",
+                "event": "Made her feature film debut starring as Kaylee in 'Big Fat Liar' opposite Frankie Muniz"
+            },
+            {
+                "date": "16-10-1999",
+                "event": "Launched her self-titled sketch comedy series 'The Amanda Show' on Nickelodeon, establishing her as a top child star"
+            },
+            {
+                "date": "1996",
+                "event": "Joined Nickelodeon's flagship sketch comedy series 'All That' as a main cast member at age 10"
+            },
+            {
+                "date": "03-04-1986",
+                "event": "Born as Amanda Laura Bynes in Thousand Oaks, California, USA"
+            }
+        ]
     },
     "response": {
         "ascendant": {

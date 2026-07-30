@@ -16,7 +16,89 @@
         "agyat_rating": "AA",
         "advanced": "marriage",
         "related": ["mangeshkar-family", "singer"],
-        "about": "<p>Ashalata Ganpat Bhosale (born Ashalata Dinanath Mangeshkar; 8 September 1933 – 12 April 2026) was an Indian playback singer, businesswoman, actress and television personality who predominantly worked in Indian cinema. Known for her versatility, she was described in the media as one of the greatest and most influential singers in Hindi cinema. In a career spanning over eight decades, she recorded songs for films and albums in various Indian languages and won several accolades including two National Film Awards, four BFJA Awards, eighteen Maharashtra State Film Awards, nine Filmfare Awards including a Lifetime Achievement Award and a record seven Filmfare Awards for Best Female Playback Singer, in addition to two Grammy nominations. In 2000, she was honoured with the Dadasaheb Phalke Award, India's highest award in the field of cinema. In 2008, she was honoured by the Government of India with the Padma Vibhushan, the second-highest civilian honour of the country. The Guinness Book of World Records acknowledged her in 2011 as the most recorded artist in music history.</p><p>Bhosle was the younger sister of playback singer Lata Mangeshkar and belonged to the prominent Mangeshkar family. Renowned for her soprano voice range and often credited with her versatility, her work included film music, pop, ghazals, bhajans, traditional Indian classical music, folk songs, qawwalis, and Rabindra Sangeet. Apart from Hindi, she sang in over 20 Indian and foreign languages. In 2013, she made her debut as an actress in the film Mai, and received critical acclaim for her performance. In 2006, she stated that she had recorded over 12,000 songs in her career, a figure repeated by several other sources.</p>"
+        "about": "<p>Ashalata Ganpat Bhosale (born Ashalata Dinanath Mangeshkar; 8 September 1933 – 12 April 2026) was an Indian playback singer, businesswoman, actress and television personality who predominantly worked in Indian cinema. Known for her versatility, she was described in the media as one of the greatest and most influential singers in Hindi cinema. In a career spanning over eight decades, she recorded songs for films and albums in various Indian languages and won several accolades including two National Film Awards, four BFJA Awards, eighteen Maharashtra State Film Awards, nine Filmfare Awards including a Lifetime Achievement Award and a record seven Filmfare Awards for Best Female Playback Singer, in addition to two Grammy nominations. In 2000, she was honoured with the Dadasaheb Phalke Award, India's highest award in the field of cinema. In 2008, she was honoured by the Government of India with the Padma Vibhushan, the second-highest civilian honour of the country. The Guinness Book of World Records acknowledged her in 2011 as the most recorded artist in music history.</p><p>Bhosle was the younger sister of playback singer Lata Mangeshkar and belonged to the prominent Mangeshkar family. Renowned for her soprano voice range and often credited with her versatility, her work included film music, pop, ghazals, bhajans, traditional Indian classical music, folk songs, qawwalis, and Rabindra Sangeet. Apart from Hindi, she sang in over 20 Indian and foreign languages. In 2013, she made her debut as an actress in the film Mai, and received critical acclaim for her performance. In 2006, she stated that she had recorded over 12,000 songs in her career, a figure repeated by several other sources.</p>",
+        "events": [
+            {
+                "date": "2021",
+                "event": "Honoured with the Maharashtra Bhushan Award, the highest civilian award of the State of Maharashtra"
+            },
+            {
+                "date": "20-10-2011",
+                "event": "Officially recognized by Guinness World Records as the most recorded artist in music history"
+            },
+            {
+                "date": "05-05-2008",
+                "event": "Conferred with the Padma Vibhushan, India's second-highest civilian honor"
+            },
+            {
+                "date": "2002",
+                "event": "Launched her successful global chain of Indian restaurants, starting with 'Asha's' in Dubai"
+            },
+            {
+                "date": "2000",
+                "event": "Honoured with the Dadasaheb Phalke Award, India's highest award in cinema"
+            },
+            {
+                "date": "1997",
+                "event": "Became the first Indian singer to be nominated for a Grammy Award for the album 'Legacy' with Ustad Ali Akbar Khan"
+            },
+            {
+                "date": "1996",
+                "event": "Received the Filmfare Special Award for her iconic comeback songs in 'Rangeela' (1995)"
+            },
+            {
+                "date": "04-01-1994",
+                "event": "Her husband and primary musical collaborator, R.D. Burman, passed away"
+            },
+            {
+                "date": "1988",
+                "event": "Won her second National Film Award for Best Female Playback Singer for 'Mera Kuchh Saamaan' from 'Ijaazat'"
+            },
+            {
+                "date": "1982",
+                "event": "Won her first National Film Award for Best Female Playback Singer for her ghazals in 'Umrao Jaan' (1981)"
+            },
+            {
+                "date": "1980",
+                "event": "Married composer Rahul Dev (R.D.) Burman"
+            },
+            {
+                "date": "1979",
+                "event": "Won her seventh Filmfare Award for Best Female Playback Singer for 'Yeh Mera Dil' from 'Don', subsequently requesting Filmfare to stop nominating her to encourage new talent"
+            },
+            {
+                "date": "1971",
+                "event": "Recorded iconic pop and cabaret tracks like 'Piya Tu Ab To Aaja' ('Caravan') and 'Dum Maro Dum' ('Hare Rama Hare Krishna'), cementing her status as the queen of Bollywood pop"
+            },
+            {
+                "date": "1968",
+                "event": "Won the inaugural Filmfare Award for Best Female Playback Singer for 'Garibon Ki Suno' from 'Das Lakh'"
+            },
+            {
+                "date": "1957",
+                "event": "Achieved her major breakthrough in Bollywood with 'Naya Daur', beginning a defining collaboration with composer O.P. Nayyar"
+            },
+            {
+                "date": "1949",
+                "event": "Recorded her first solo Hindi song for 'Raat Ki Rani' and eloped with Ganpatrao Bhosle against her family's wishes"
+            },
+            {
+                "date": "1948",
+                "event": "Made her Hindi film playback debut with 'Saawan Aaya' in 'Chunariya'"
+            },
+            {
+                "date": "1943",
+                "event": "Recorded her first song 'Chala Chala Nav Bala' for the Marathi film 'Majha Bal' at age 10"
+            },
+            {
+                "date": "24-04-1942",
+                "event": "Her father, Master Deenanath Mangeshkar, passed away, leading the family to relocate to Mumbai"
+            },
+            {
+                "date": "08-09-1933",
+                "event": "Born as Asha Mangeshkar in Goar, Sangli State, British India (now Maharashtra, India)"
+            }
+        ]
     },
     "response": {
         "ascendant": {

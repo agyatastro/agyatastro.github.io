@@ -15,7 +15,65 @@
         "agyat_rating": "AA",
         "gender": "male",
         "related": ["cinema-director"],
-        "about": "<p>Arun Kumar (born 21 September 1986), known professionally as Atlee, is an Indian film director, screenwriter and film producer best known for his work in Tamil cinema. He initially worked as an assistant director under S. Shankar in the films Enthiran (2010) and Nanban (2012). He made his directorial debut with the film Raja Rani (2013), produced by Fox Star Studios, for which he was awarded Best Debut Director by the Vijay Award and the Tamil Nadu State award for best dialogue writer.</p><p>He directed the films Theri (2016), Mersal (2017) and Bigil (2019), all featuring Vijay, all of which became commercially successful at the box office and won several accolades. He then directed the Hindi-language Jawan (2023) starring Shah Rukh Khan, which emerged as his highest-grossing release.</p>"
+        "about": "<p>Arun Kumar (born 21 September 1986), known professionally as Atlee, is an Indian film director, screenwriter and film producer best known for his work in Tamil cinema. He initially worked as an assistant director under S. Shankar in the films Enthiran (2010) and Nanban (2012). He made his directorial debut with the film Raja Rani (2013), produced by Fox Star Studios, for which he was awarded Best Debut Director by the Vijay Award and the Tamil Nadu State award for best dialogue writer.</p><p>He directed the films Theri (2016), Mersal (2017) and Bigil (2019), all featuring Vijay, all of which became commercially successful at the box office and won several accolades. He then directed the Hindi-language Jawan (2023) starring Shah Rukh Khan, which emerged as his highest-grossing release.</p>",
+        "events": [
+            {
+                "date": "25-12-2024",
+                "event": "Co-produced 'Baby John' starring Varun Dhawan, marking the official Hindi remake of his hit Tamil film 'Theri'"
+            },
+            {
+                "date": "07-09-2023",
+                "event": "Made his Hindi cinema directorial debut with 'Jawan' starring Shah Rukh Khan, which became one of the highest-grossing Indian films of all time"
+            },
+            {
+                "date": "13-01-2023",
+                "event": "Welcomed his first child, a son named Meer, with wife Krishna Priya"
+            },
+            {
+                "date": "24-11-2020",
+                "event": "Produced the supernatural horror thriller film 'Andhaghaaram', which premiered on Netflix"
+            },
+            {
+                "date": "25-10-2019",
+                "event": "Released 'Bigil' starring Vijay, completing a trilogy of blockbusters with the actor and emerging as the highest-grossing Tamil film of 2019"
+            },
+            {
+                "date": "18-10-2017",
+                "event": "Released 'Mersal' starring Vijay, which achieved massive commercial success and earned him the SIIMA Award for Best Director"
+            },
+            {
+                "date": "19-05-2017",
+                "event": "Debuted as a film producer under his banner A for Apple Productions with the Tamil horror comedy 'Sangili Bungili Kadhava Thorae'"
+            },
+            {
+                "date": "14-04-2016",
+                "event": "Released his second directorial venture 'Theri' starring Vijay, cementing his position as a leading director in Tamil cinema"
+            },
+            {
+                "date": "09-11-2014",
+                "event": "Married television and film actress Krishna Priya"
+            },
+            {
+                "date": "27-09-2013",
+                "event": "Made his directorial debut with the romantic comedy-drama 'Raja Rani', winning the Vijay Award for Best Debut Director"
+            },
+            {
+                "date": "12-01-2012",
+                "event": "Worked as an assistant director under S. Shankar on 'Nanban', the Tamil remake of '3 Idiots'"
+            },
+            {
+                "date": "2011",
+                "event": "Directed the award-winning short film 'Mugaputhagam' starring Sivakarthikeyan"
+            },
+            {
+                "date": "01-10-2010",
+                "event": "Began his career in mainstream cinema as an assistant director to S. Shankar on the sci-fi blockbuster 'Enthiran'"
+            },
+            {
+                "date": "21-09-1986",
+                "event": "Born as Arun Kumar in Thiruparankundram, Madurai, Tamil Nadu, India"
+            }
+        ]
     },
     "response": {
         "ascendant": {

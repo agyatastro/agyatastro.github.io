@@ -15,7 +15,77 @@
         "agyat_rating": "AA",
         "dod": "14/02/1556",
         "related": ["monarch"],
-        "about": "<p>Akbar (Jalal-ud-Din Muhammad Akbar, 15 October 1542 – 27 October 1605), also known as Akbar the Great, was the third Mughal emperor, who reigned from 1556 to 1605. Akbar succeeded his father, Humayun, under a regent, Bairam Khan, who helped the young emperor expand and consolidate Mughal domains in the Indian subcontinent. He is generally considered one of the greatest Mughal Emperor.</p><p>Akbar gradually enlarged the Mughal Empire to include much of the Indian subcontinent through Mughal military, political, cultural, and economic dominance. To unify the vast Mughal state, Akbar established a centralised system of administration and adopted a policy of conciliating conquered rulers through marriage and diplomacy. To preserve peace and order in a religiously and culturally diverse empire, he adopted policies that won him the support of his non-Muslim subjects, including abolishing the sectarian tax and appointing them to high civil and military posts.</p><p>Under Akbar, Mughal India developed a strong and stable economy, which tripled in size and wealth, leading to commercial expansion and greater patronage of an Indo-Persian culture. Akbar's courts at Delhi, Agra, and Fatehpur Sikri attracted holy men of many faiths, poets, architects, and artisans, and became known as centres of the arts, letters, and learning. Timurid and Perso-Islamic culture began to merge and blend with indigenous Indian elements into a distinct style of Mughal arts, including painting and architecture. Disillusioned with orthodox Islam and perhaps hoping to bring about religious unity within his empire, Akbar promulgated Din-i Ilahi, a syncretic creed derived mainly from Islam and Hinduism as well as elements of Zoroastrianism and Christianity.</p><p>Akbar was succeeded as emperor by his son, Prince Salim, later known as Jahangir.</p>"
+        "about": "<p>Akbar (Jalal-ud-Din Muhammad Akbar, 15 October 1542 – 27 October 1605), also known as Akbar the Great, was the third Mughal emperor, who reigned from 1556 to 1605. Akbar succeeded his father, Humayun, under a regent, Bairam Khan, who helped the young emperor expand and consolidate Mughal domains in the Indian subcontinent. He is generally considered one of the greatest Mughal Emperor.</p><p>Akbar gradually enlarged the Mughal Empire to include much of the Indian subcontinent through Mughal military, political, cultural, and economic dominance. To unify the vast Mughal state, Akbar established a centralised system of administration and adopted a policy of conciliating conquered rulers through marriage and diplomacy. To preserve peace and order in a religiously and culturally diverse empire, he adopted policies that won him the support of his non-Muslim subjects, including abolishing the sectarian tax and appointing them to high civil and military posts.</p><p>Under Akbar, Mughal India developed a strong and stable economy, which tripled in size and wealth, leading to commercial expansion and greater patronage of an Indo-Persian culture. Akbar's courts at Delhi, Agra, and Fatehpur Sikri attracted holy men of many faiths, poets, architects, and artisans, and became known as centres of the arts, letters, and learning. Timurid and Perso-Islamic culture began to merge and blend with indigenous Indian elements into a distinct style of Mughal arts, including painting and architecture. Disillusioned with orthodox Islam and perhaps hoping to bring about religious unity within his empire, Akbar promulgated Din-i Ilahi, a syncretic creed derived mainly from Islam and Hinduism as well as elements of Zoroastrianism and Christianity.</p><p>Akbar was succeeded as emperor by his son, Prince Salim, later known as Jahangir.</p>",
+        "events": [
+            {
+                "date": "27-10-1605",
+                "event": "Passed away due to dysentery at Fatehpur Sikri and was buried at Sikandra, Agra"
+            },
+            {
+                "date": "1601",
+                "event": "Conquered Khandesh, Berar, and parts of Ahmadnagar, expanding Mughal sovereignty into the Deccan"
+            },
+            {
+                "date": "1582",
+                "event": "Promulgated 'Din-i-Ilahi' (Religion of God), a syncretic ethical movement intended to bridge religious divides"
+            },
+            {
+                "date": "1579",
+                "event": "Issued the 'Mazhar' (Infallibility Decree), positioning himself as the supreme arbiter on Islamic religious law"
+            },
+            {
+                "date": "18-06-1576",
+                "event": "Mughal forces defeated Maharana Pratap's army at the historic Battle of Haldighati"
+            },
+            {
+                "date": "1575",
+                "event": "Established the 'Ibadat Khana' (House of Worship) at Fatehpur Sikri for interfaith theological debates"
+            },
+            {
+                "date": "1573",
+                "event": "Conquered Gujarat, granting the Mughal Empire direct control over lucrative maritime trade routes"
+            },
+            {
+                "date": "1571",
+                "event": "Founded the new capital city of Fatehpur Sikri to honor Sufi saint Sheikh Salim Chishti"
+            },
+            {
+                "date": "31-08-1569",
+                "event": "Welcomed his son and heir, Prince Salim (later Emperor Jahangir), born to Mariam-uz-Zamani"
+            },
+            {
+                "date": "03-1568",
+                "event": "Captured the historic fortress of Chittorgarh after a prolonged siege against the Kingdom of Mewar"
+            },
+            {
+                "date": "1564",
+                "event": "Abolished the Jizya tax imposed on non-Muslim subjects, establishing a policy of religious neutrality"
+            },
+            {
+                "date": "1563",
+                "event": "Abolished the pilgrim tax levied on Hindus traveling to sacred places"
+            },
+            {
+                "date": "06-02-1562",
+                "event": "Married Mariam-uz-Zamani (Harkha Bai / Jodha Bai), daughter of Raja Bharmal of Amber, forming a crucial Rajput alliance"
+            },
+            {
+                "date": "1560",
+                "event": "Ended the regency of Bairam Khan and assumed full, direct rule of the Mughal Empire"
+            },
+            {
+                "date": "05-11-1556",
+                "event": "Defeated Hemu at the Second Battle of Panipat, securing the Mughal throne in Delhi"
+            },
+            {
+                "date": "14-02-1556",
+                "event": "Enthroned as the third Mughal Emperor at Kalanaur, Punjab, following the death of his father Humayun"
+            },
+            {
+                "date": "15-10-1542",
+                "event": "Born as Jalal-ud-din Muhammad Akbar in Umarkot, Sindh, to Emperor Humayun and Hamida Banu Begum"
+            }
+        ]
     },
     "response": {
         "ascendant": {

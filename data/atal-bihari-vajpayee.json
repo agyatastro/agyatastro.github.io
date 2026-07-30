@@ -15,7 +15,97 @@
         "gender": "male",
         "dod": "16/08/2018",
         "related": ["politician", "prime-minister"],
-        "about": "<p>Atal Bihari Vajpayee (25 December 1924 – 16 August 2018) was an Indian poet, writer and statesman who served as the prime minister of India, first for a term of 13 days in 1996, then for a period of 13 months from 1998 to 1999, followed by a full term from 1999 to 2004. He was the first non-Congress prime minister to serve a full term in the office. Vajpayee was one of the co-founders and a senior leader of the Bharatiya Janata Party (BJP). He was a member of the Rashtriya Swayamsevak Sangh (RSS), a far-right Hindu nationalist paramilitary volunteer organisation. He was also a Hindi poet and a writer.</p><p>He was a member of the Indian Parliament for over five decades, having been elected ten times to the Lok Sabha, the lower house, and twice to the Rajya Sabha, the upper house. He served as the Member of Parliament from Lucknow, Gwalior, New Delhi and Balrampur constituencies, before retiring from active politics in 2009 due to health concerns. He was among the founding members of the Bharatiya Jana Sangh (BJS), of which he was president from 1968 to 1972. The BJS merged with several other parties to form the Janata Party, which won the 1977 general election. In March 1977, Vajpayee became the minister of external affairs in the cabinet of Prime Minister Morarji Desai. He resigned in 1979, and the Janata alliance collapsed soon after. Former members of the Bharatiya Jana Sangh formed the BJP in 1980, with Vajpayee as its first president.</p><p>During his tenure as prime minister, India carried out the Pokhran-II nuclear tests in 1998. Vajpayee sought to improve diplomatic relations with Pakistan, travelling to Lahore by bus to meet with Prime Minister, Nawaz Sharif. After the 1999 Kargil War with Pakistan, he sought to restore relations through engagement with President Pervez Musharraf, inviting him to India for a summit at Agra. Vajpayee's government introduced many domestic economic and infrastructural reforms, including encouraging the private sector and foreign investments, reducing governmental waste, encouraging research and development, and the privatisation of some government owned corporations. During his tenure, India's security was threatened by a number of violent incidents including 2001 Indian Parliament attack and 2002 Gujarat riots which ultimately caused his defeat in 2004 general election.</p><p>Vajpayee was conferred with the Padma Vibhushan in 1992, India's second highest civilian award by the Government of India. The administration of Narendra Modi declared in 2014 that Vajpayee's birthday, 25 December would be marked as Good Governance Day. In 2015, he was honoured India's highest civilian honour - Bharat Ratna, by the then President of India, Pranab Mukherjee. He died in 2018 due to age-related illness.</p>"
+        "about": "<p>Atal Bihari Vajpayee (25 December 1924 – 16 August 2018) was an Indian poet, writer and statesman who served as the prime minister of India, first for a term of 13 days in 1996, then for a period of 13 months from 1998 to 1999, followed by a full term from 1999 to 2004. He was the first non-Congress prime minister to serve a full term in the office. Vajpayee was one of the co-founders and a senior leader of the Bharatiya Janata Party (BJP). He was a member of the Rashtriya Swayamsevak Sangh (RSS), a far-right Hindu nationalist paramilitary volunteer organisation. He was also a Hindi poet and a writer.</p><p>He was a member of the Indian Parliament for over five decades, having been elected ten times to the Lok Sabha, the lower house, and twice to the Rajya Sabha, the upper house. He served as the Member of Parliament from Lucknow, Gwalior, New Delhi and Balrampur constituencies, before retiring from active politics in 2009 due to health concerns. He was among the founding members of the Bharatiya Jana Sangh (BJS), of which he was president from 1968 to 1972. The BJS merged with several other parties to form the Janata Party, which won the 1977 general election. In March 1977, Vajpayee became the minister of external affairs in the cabinet of Prime Minister Morarji Desai. He resigned in 1979, and the Janata alliance collapsed soon after. Former members of the Bharatiya Jana Sangh formed the BJP in 1980, with Vajpayee as its first president.</p><p>During his tenure as prime minister, India carried out the Pokhran-II nuclear tests in 1998. Vajpayee sought to improve diplomatic relations with Pakistan, travelling to Lahore by bus to meet with Prime Minister, Nawaz Sharif. After the 1999 Kargil War with Pakistan, he sought to restore relations through engagement with President Pervez Musharraf, inviting him to India for a summit at Agra. Vajpayee's government introduced many domestic economic and infrastructural reforms, including encouraging the private sector and foreign investments, reducing governmental waste, encouraging research and development, and the privatisation of some government owned corporations. During his tenure, India's security was threatened by a number of violent incidents including 2001 Indian Parliament attack and 2002 Gujarat riots which ultimately caused his defeat in 2004 general election.</p><p>Vajpayee was conferred with the Padma Vibhushan in 1992, India's second highest civilian award by the Government of India. The administration of Narendra Modi declared in 2014 that Vajpayee's birthday, 25 December would be marked as Good Governance Day. In 2015, he was honoured India's highest civilian honour - Bharat Ratna, by the then President of India, Pranab Mukherjee. He died in 2018 due to age-related illness.</p>",
+        "events": [
+            {
+                "date": "16-08-2018",
+                "event": "Passed away at the All India Institute of Medical Sciences (AIIMS) in New Delhi at the age of 93"
+            },
+            {
+                "date": "27-03-2015",
+                "event": "Conferred with the Bharat Ratna, India's highest civilian honor, by President Pranab Mukherjee"
+            },
+            {
+                "date": "29-12-2005",
+                "event": "Announced his complete retirement from active electoral politics at a BJP silver jubilee rally in Kanpur"
+            },
+            {
+                "date": "22-05-2004",
+                "event": "Resigned as Prime Minister following the NDA coalition's defeat in the 2004 Indian general election"
+            },
+            {
+                "date": "13-12-2001",
+                "event": "Led the national response following the terrorist attack on the Indian Parliament, initiating Operation Parakram along the Indo-Pakistani border"
+            },
+            {
+                "date": "13-10-1999",
+                "event": "Sworn in as Prime Minister of India for his third term, heading a stable National Democratic Alliance (NDA) government"
+            },
+            {
+                "date": "20-02-1999",
+                "event": "Inaugurated the historic Delhi-Lahore bus service (Sada-e-Sarhad) and signed the Lahore Declaration with Pakistani Prime Minister Nawaz Sharif"
+            },
+            {
+                "date": "11-05-1998",
+                "event": "Authorized Operation Shakti (Pokhran-II), conducting five underground nuclear weapons tests in Rajasthan to declare India a full nuclear-weapons state"
+            },
+            {
+                "date": "19-03-1998",
+                "event": "Sworn in as Prime Minister of India for a second term leading a coalition government"
+            },
+            {
+                "date": "01-06-1996",
+                "event": "Resigned as Prime Minister after 13 days in office due to lack of a parliamentary majority"
+            },
+            {
+                "date": "16-05-1996",
+                "event": "Sworn in as Prime Minister of India for his first term after the BJP emerged as the single largest party in the 11th Lok Sabha"
+            },
+            {
+                "date": "1994",
+                "event": "Conferred with the Outstanding Parliamentarian Award"
+            },
+            {
+                "date": "1992",
+                "event": "Awarded the Padma Vibhushan, India's second-highest civilian honor"
+            },
+            {
+                "date": "06-04-1980",
+                "event": "Co-founded the Bharatiya Janata Party (BJP) and was appointed its first National President"
+            },
+            {
+                "date": "04-10-1977",
+                "event": "Delivered a historic landmark address in Hindi at the 32nd session of the United Nations General Assembly"
+            },
+            {
+                "date": "26-03-1977",
+                "event": "Appointed Union Minister of External Affairs in Morarji Desai's Janata Party government"
+            },
+            {
+                "date": "26-06-1975",
+                "event": "Arrested and jailed for 19 months during the national Emergency imposed by Prime Minister Indira Gandhi"
+            },
+            {
+                "date": "1968",
+                "event": "Elected President of the Bharatiya Jana Sangh following the passing of Deendayal Upadhyaya"
+            },
+            {
+                "date": "1957",
+                "event": "Elected to the 2nd Lok Sabha from Balrampur, Uttar Pradesh, marking his first entry into the lower house of Parliament"
+            },
+            {
+                "date": "21-10-1951",
+                "event": "Co-founded the Bharatiya Jana Sangh alongside Syama Prasad Mookerjee"
+            },
+            {
+                "date": "1942",
+                "event": "Arrested and detained for 23 days for participating in the Quit India Movement in Bateshwar, Uttar Pradesh"
+            },
+            {
+                "date": "25-12-1924",
+                "event": "Born to Krishna Bihari Vajpayee and Krishna Devi in Gwalior, Madhya Pradesh, British India"
+            }
+        ]
     },
     "response": {
         "ascendant": {

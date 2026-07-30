@@ -14,7 +14,81 @@
         "agyat_rating": "AA",
         "gender": "male",
         "related": ["politician", "chief-minister"],
-        "about": "Ashok Gehlot (born 3 May 1951) is an Indian politician who served as the Chief Minister of Rajasthan from 1998 to December 2003, then again from 2008 to December 2013, and later from 2018 to December 2023. He represents Sardarpura constituency of Jodhpur as Member of Legislative Assembly of Rajasthan since 1999. He was a Member of Parliament, Lok Sabha from Jodhpur from 1991 to 1999 and from 1980 to 1989 and Union Minister of State (Independent Charge) for Textile from 1991 to 1993, Tourism and Civil aviation from 1984 to 1984 and Deputy Union minister for Sports from 1984 to 1984. He was also a national General secretary of Congress Party, in-charge of organisations and training from March 2018 to 23 January 2019. He was also made in-charge of Gujarat state in 2017 Gujarat Legislative Assembly election."
+        "about": "Ashok Gehlot (born 3 May 1951) is an Indian politician who served as the Chief Minister of Rajasthan from 1998 to December 2003, then again from 2008 to December 2013, and later from 2018 to December 2023. He represents Sardarpura constituency of Jodhpur as Member of Legislative Assembly of Rajasthan since 1999. He was a Member of Parliament, Lok Sabha from Jodhpur from 1991 to 1999 and from 1980 to 1989 and Union Minister of State (Independent Charge) for Textile from 1991 to 1993, Tourism and Civil aviation from 1984 to 1984 and Deputy Union minister for Sports from 1984 to 1984. He was also a national General secretary of Congress Party, in-charge of organisations and training from March 2018 to 23 January 2019. He was also made in-charge of Gujarat state in 2017 Gujarat Legislative Assembly election.",
+        "events": [
+            {
+                "date": "15-12-2023",
+                "event": "Demitted office as Chief Minister of Rajasthan following the 2023 Rajasthan Legislative Assembly election"
+            },
+            {
+                "date": "17-12-2018",
+                "event": "Sworn in as Chief Minister of Rajasthan for a third term following the Congress Party's victory in the assembly elections"
+            },
+            {
+                "date": "30-03-2018",
+                "event": "Appointed General Secretary (Organisation) of the All India Congress Committee (AICC) by Rahul Gandhi"
+            },
+            {
+                "date": "13-12-2008",
+                "event": "Sworn in as Chief Minister of Rajasthan for a second term, serving until December 2013"
+            },
+            {
+                "date": "17-07-2004",
+                "event": "Appointed General Secretary of the All India Congress Committee (AICC), overseeing party affairs in states like Uttar Pradesh and Delhi"
+            },
+            {
+                "date": "01-12-1998",
+                "event": "Sworn in as Chief Minister of Rajasthan for his first term after leading Congress to a resounding victory"
+            },
+            {
+                "date": "1997",
+                "event": "Appointed President of the Rajasthan Pradesh Congress Committee (RPCC) for a third term"
+            },
+            {
+                "date": "21-06-1991",
+                "event": "Appointed Union Minister of State (Independent Charge) for Textiles under Prime Minister P. V. Narasimha Rao"
+            },
+            {
+                "date": "06-1989",
+                "event": "Served as Minister of Home and Public Health Engineering in the Government of Rajasthan"
+            },
+            {
+                "date": "09-1985",
+                "event": "Appointed President of the Rajasthan Pradesh Congress Committee (RPCC) for the first time"
+            },
+            {
+                "date": "31-12-1984",
+                "event": "Appointed Union Minister of State for Tourism and Civil Aviation in the Rajiv Gandhi cabinet"
+            },
+            {
+                "date": "07-02-1984",
+                "event": "Appointed Deputy Union Minister for Sports in the Indira Gandhi administration"
+            },
+            {
+                "date": "02-09-1982",
+                "event": "Appointed Deputy Union Minister for Tourism and Civil Aviation"
+            },
+            {
+                "date": "1980",
+                "event": "Elected to the 7th Lok Sabha for the first time representing the Jodhpur constituency"
+            },
+            {
+                "date": "1977",
+                "event": "Married Sunita Gehlot"
+            },
+            {
+                "date": "1974",
+                "event": "Appointed the first State President of the National Students' Union of India (NSUI) in Rajasthan"
+            },
+            {
+                "date": "1971",
+                "event": "Organized and served in refugee camps in West Bengal during the East Pakistan refugee crisis, drawing the notice of Prime Minister Indira Gandhi"
+            },
+            {
+                "date": "03-05-1951",
+                "event": "Born to Babu Laxman Singh Gehlot, a professional magician, in Jodhpur, Rajasthan, India"
+            }
+        ]
     },
     "response": {
         "ascendant": {

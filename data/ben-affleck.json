@@ -14,7 +14,93 @@
         "agyat_rating": "AA",
         "gender": "male",
         "related": ["actor"],
-        "about": "<p>Benjamin Géza Affleck[b] (born August 15, 1972) is an American actor and filmmaker. His accolades include two Academy Awards, two BAFTA Awards, and three Golden Globes. Affleck began his career as a child when he starred in the PBS educational series The Voyage of the Mimi (1984–1988). He later appeared in the independent comedy Dazed and Confused (1993) and several Kevin Smith comedies, including Chasing Amy (1997).</p><p>Affleck gained wider recognition when he and Matt Damon won the Academy Award for Best Original Screenplay for writing Good Will Hunting (1997), which they also starred in. He established himself as a leading man in studio films, including the disaster film Armageddon (1998), the action crime thriller Reindeer Games (2000), the war drama Pearl Harbor (2001), and the thriller The Sum of All Fears (2002). After a career downturn, Affleck made a comeback by portraying George Reeves in the biopic Hollywoodland (2006), winning the Volpi Cup for Best Actor.</p><p>His directorial debut, Gone Baby Gone (2007), which he also co-wrote, was well received. He then directed and starred in the crime drama The Town (2010) and the political thriller Argo (2012), both of which were critical and commercial successes. For the latter, Affleck won the BAFTA Award for Best Director, and the BAFTA and Academy Award for Best Picture. Affleck then starred in the psychological thriller Gone Girl (2014) and played the superhero Batman in the DC Extended Universe (2016–2023). He starred in the thriller The Accountant (2016) and the sports drama The Way Back (2020). Affleck had supporting roles in the dramas The Last Duel (2021), The Tender Bar (2021) and Air (2023), the latter of which he also directed.</p><p>Affleck is the co-founder of the Eastern Congo Initiative, a grantmaking and advocacy-based nonprofit organization. He is a supporter of the Democratic Party. Affleck and Damon are co-owners of the production company Artists Equity and were also co-owners of Pearl Street Films.</p>"
+        "about": "<p>Benjamin Géza Affleck[b] (born August 15, 1972) is an American actor and filmmaker. His accolades include two Academy Awards, two BAFTA Awards, and three Golden Globes. Affleck began his career as a child when he starred in the PBS educational series The Voyage of the Mimi (1984–1988). He later appeared in the independent comedy Dazed and Confused (1993) and several Kevin Smith comedies, including Chasing Amy (1997).</p><p>Affleck gained wider recognition when he and Matt Damon won the Academy Award for Best Original Screenplay for writing Good Will Hunting (1997), which they also starred in. He established himself as a leading man in studio films, including the disaster film Armageddon (1998), the action crime thriller Reindeer Games (2000), the war drama Pearl Harbor (2001), and the thriller The Sum of All Fears (2002). After a career downturn, Affleck made a comeback by portraying George Reeves in the biopic Hollywoodland (2006), winning the Volpi Cup for Best Actor.</p><p>His directorial debut, Gone Baby Gone (2007), which he also co-wrote, was well received. He then directed and starred in the crime drama The Town (2010) and the political thriller Argo (2012), both of which were critical and commercial successes. For the latter, Affleck won the BAFTA Award for Best Director, and the BAFTA and Academy Award for Best Picture. Affleck then starred in the psychological thriller Gone Girl (2014) and played the superhero Batman in the DC Extended Universe (2016–2023). He starred in the thriller The Accountant (2016) and the sports drama The Way Back (2020). Affleck had supporting roles in the dramas The Last Duel (2021), The Tender Bar (2021) and Air (2023), the latter of which he also directed.</p><p>Affleck is the co-founder of the Eastern Congo Initiative, a grantmaking and advocacy-based nonprofit organization. He is a supporter of the Democratic Party. Affleck and Damon are co-owners of the production company Artists Equity and were also co-owners of Pearl Street Films.</p>",
+        "events": [
+            {
+                "date": "20-08-2024",
+                "event": "Jennifer Lopez filed for divorce from Ben Affleck after two years of marriage"
+            },
+            {
+                "date": "05-04-2023",
+                "event": "Directed and starred as Phil Knight in the biographical sports drama 'Air', marking the first release from his production company Artists Equity"
+            },
+            {
+                "date": "16-07-2022",
+                "event": "Married singer and actress Jennifer Lopez in Las Vegas, Nevada"
+            },
+            {
+                "date": "15-10-2021",
+                "event": "Starred as Pierre d'Alençon in Ridley Scott's 'The Last Duel', which he also co-wrote alongside Matt Damon and Nicole Holofcener"
+            },
+            {
+                "date": "06-03-2020",
+                "event": "Starred as Jack Cunningham in the sports drama 'The Way Back', receiving widespread critical praise for his performance"
+            },
+            {
+                "date": "07-11-2017",
+                "event": "Reprised his role as Bruce Wayne / Batman in the DC Extended Universe film 'Justice League'"
+            },
+            {
+                "date": "25-03-2016",
+                "event": "Debuted as Bruce Wayne / Batman in the DC Extended Universe superhero film 'Batman v Superman: Dawn of Justice'"
+            },
+            {
+                "date": "03-10-2014",
+                "event": "Starred as Nick Dunne in David Fincher's psychological thriller 'Gone Girl'"
+            },
+            {
+                "date": "24-02-2013",
+                "event": "Won the Academy Award for Best Picture as a producer for 'Argo', which he also directed and starred in"
+            },
+            {
+                "date": "31-08-2012",
+                "event": "Premiered 'Argo' at the Telluride Film Festival, directing, producing, and starring in the historical thriller"
+            },
+            {
+                "date": "17-09-2010",
+                "event": "Directed, co-wrote, and starred in the crime drama 'The Town'"
+            },
+            {
+                "date": "19-10-2007",
+                "event": "Made his feature directorial debut with the critically acclaimed crime drama 'Gone Baby Gone'"
+            },
+            {
+                "date": "29-06-2005",
+                "event": "Married actress Jennifer Garner"
+            },
+            {
+                "date": "14-02-2003",
+                "event": "Starred as Matt Murdock / Daredevil in the Marvel superhero film 'Daredevil'"
+            },
+            {
+                "date": "25-05-2001",
+                "event": "Starred as Captain Rafe McCawley in Michael Bay's blockbuster film 'Pearl Harbor'"
+            },
+            {
+                "date": "23-03-1998",
+                "event": "Won the Academy Award for Best Original Screenplay alongside Matt Damon for 'Good Will Hunting'"
+            },
+            {
+                "date": "05-12-1997",
+                "event": "Starred as Chuckie Sullivan in 'Good Will Hunting', the film that launched him and Matt Damon into global stardom"
+            },
+            {
+                "date": "23-01-1997",
+                "event": "Starred as Holden McNeil in Kevin Smith's romantic comedy 'Chasing Amy', premiering at the Sundance Film Festival"
+            },
+            {
+                "date": "24-09-1993",
+                "event": "Featured as Fred O'Bannion in Richard Linklater's coming-of-age cult comedy film 'Dazed and Confused'"
+            },
+            {
+                "date": "12-09-1984",
+                "event": "Made his early acting debut starring as C.T. Granville in the PBS children's television series 'The Voyage of the Mimi'"
+            },
+            {
+                "date": "15-08-1972",
+                "event": "Born as Benjamin Geza Affleck-Boldt in Berkeley, California, United States"
+            }
+        ]
     },
     "response": {
         "ascendant": {

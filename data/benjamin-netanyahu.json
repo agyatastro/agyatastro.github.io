@@ -14,7 +14,97 @@
         "agyat_rating": "AA",
         "gender": "male",
         "related": ["politician", "prime-minister"],
-        "about": "<p>Benjamin Netanyahu[a] (born 21 October 1949) is an Israeli politician who has served as the prime minister of Israel since 2022, having previously held the office from 1996 to 1999 and from 2009 to 2021. Netanyahu is the longest-serving prime minister in Israel's history, having served a total of over 17 years.</p><p>Born to secular Jewish parents, Netanyahu was raised in West Jerusalem and the United States. He returned to Israel in 1967 to join the Israel Defense Forces and served in the Sayeret Matkal special forces as a captain before being honorably discharged. In 1972, he returned to the United States, and after graduating from the Massachusetts Institute of Technology, Netanyahu worked for the Boston Consulting Group before moving back to Israel in 1978 to found the Yonatan Netanyahu Anti-Terror Institute. Between 1984 and 1988 Netanyahu was Israel's ambassador to the United Nations. Netanyahu rose to prominence after election as chair of Likud in 1993, becoming leader of the opposition. In the 1996 general election, Netanyahu became the first Israeli prime minister elected directly by popular vote, and its youngest. Netanyahu was defeated in the 1999 election and retired from politics, entering the private sector. He returned and served as minister of foreign affairs and finance, initiating economic reforms, before resigning over the Gaza disengagement plan.</p><p>Netanyahu returned to lead Likud in 2005 and was leader of the opposition between 2006 and 2009. After the 2009 legislative election, Netanyahu formed a coalition with other right-wing parties and became prime minister again. He led Likud to victory in the 2013 and 2015 elections. Netanyahu made his closeness to Donald Trump, a friend since the 1980s, central to his appeal from 2016. During Trump's first presidency, the US recognized Jerusalem as capital of Israel, Israeli sovereignty over the Golan Heights, and brokered the Abraham Accords, normalization agreements between Israel and the Arab world. Netanyahu has faced criticism over expanding Israeli settlements in the occupied West Bank, deemed illegal under international law. In 2019, Netanyahu was indicted on charges of breach of trust, bribery and fraud, and relinquished all ministerial posts except prime minister. The 2018–2022 Israeli political crisis led to a rotation agreement between Netanyahu and Benny Gantz. This collapsed in 2020, leading to a March 2021 election. In June 2021, Netanyahu was removed from the premiership, before returning after the 2022 election.</p><p>Netanyahu's premierships have been marked by democratic backsliding and a shift towards an authoritarian style of government. Netanyahu's coalition pursued judicial reform, which was met with large-scale protests in early 2023. The 7 October attacks by Hamas-led Palestinian groups in the same year triggered the Gaza war, with Netanyahu facing nationwide protests for the security lapse during the attack and failure to secure the return of Israeli hostages. In October 2024, he also ordered an invasion of Lebanon with the stated goal of destroying the military capabilities of Hezbollah, a key ally of Hamas that helped them since the 7 October attack. After the fall of the Assad regime in December 2024, Netanyahu directed an invasion of Syria against the Syrian opposition. Netanyahu's government has been accused of genocide in Gaza, culminating in the South Africa v. Israel case before the International Court of Justice in December 2023. The International Criminal Court issued an arrest warrant in November 2024 for Netanyahu along with former defense minister Yoav Gallant and Hamas militant Mohammed Deif, for alleged war crimes and crimes against humanity as part of the ICC investigation in Palestine.</p>"
+        "about": "<p>Benjamin Netanyahu[a] (born 21 October 1949) is an Israeli politician who has served as the prime minister of Israel since 2022, having previously held the office from 1996 to 1999 and from 2009 to 2021. Netanyahu is the longest-serving prime minister in Israel's history, having served a total of over 17 years.</p><p>Born to secular Jewish parents, Netanyahu was raised in West Jerusalem and the United States. He returned to Israel in 1967 to join the Israel Defense Forces and served in the Sayeret Matkal special forces as a captain before being honorably discharged. In 1972, he returned to the United States, and after graduating from the Massachusetts Institute of Technology, Netanyahu worked for the Boston Consulting Group before moving back to Israel in 1978 to found the Yonatan Netanyahu Anti-Terror Institute. Between 1984 and 1988 Netanyahu was Israel's ambassador to the United Nations. Netanyahu rose to prominence after election as chair of Likud in 1993, becoming leader of the opposition. In the 1996 general election, Netanyahu became the first Israeli prime minister elected directly by popular vote, and its youngest. Netanyahu was defeated in the 1999 election and retired from politics, entering the private sector. He returned and served as minister of foreign affairs and finance, initiating economic reforms, before resigning over the Gaza disengagement plan.</p><p>Netanyahu returned to lead Likud in 2005 and was leader of the opposition between 2006 and 2009. After the 2009 legislative election, Netanyahu formed a coalition with other right-wing parties and became prime minister again. He led Likud to victory in the 2013 and 2015 elections. Netanyahu made his closeness to Donald Trump, a friend since the 1980s, central to his appeal from 2016. During Trump's first presidency, the US recognized Jerusalem as capital of Israel, Israeli sovereignty over the Golan Heights, and brokered the Abraham Accords, normalization agreements between Israel and the Arab world. Netanyahu has faced criticism over expanding Israeli settlements in the occupied West Bank, deemed illegal under international law. In 2019, Netanyahu was indicted on charges of breach of trust, bribery and fraud, and relinquished all ministerial posts except prime minister. The 2018–2022 Israeli political crisis led to a rotation agreement between Netanyahu and Benny Gantz. This collapsed in 2020, leading to a March 2021 election. In June 2021, Netanyahu was removed from the premiership, before returning after the 2022 election.</p><p>Netanyahu's premierships have been marked by democratic backsliding and a shift towards an authoritarian style of government. Netanyahu's coalition pursued judicial reform, which was met with large-scale protests in early 2023. The 7 October attacks by Hamas-led Palestinian groups in the same year triggered the Gaza war, with Netanyahu facing nationwide protests for the security lapse during the attack and failure to secure the return of Israeli hostages. In October 2024, he also ordered an invasion of Lebanon with the stated goal of destroying the military capabilities of Hezbollah, a key ally of Hamas that helped them since the 7 October attack. After the fall of the Assad regime in December 2024, Netanyahu directed an invasion of Syria against the Syrian opposition. Netanyahu's government has been accused of genocide in Gaza, culminating in the South Africa v. Israel case before the International Court of Justice in December 2023. The International Criminal Court issued an arrest warrant in November 2024 for Netanyahu along with former defense minister Yoav Gallant and Hamas militant Mohammed Deif, for alleged war crimes and crimes against humanity as part of the ICC investigation in Palestine.</p>",
+        "events": [
+            {
+                "date": "29-12-2022",
+                "event": "Sworn in as Prime Minister of Israel for his sixth term, heading a coalition government following the November 2022 elections"
+            },
+            {
+                "date": "13-06-2021",
+                "event": "Ousted from the premiership after Naftali Bennett and Yair Lapid formed a broad coalition government, ending his unbroken 12-year tenure"
+            },
+            {
+                "date": "24-05-2020",
+                "event": "His criminal trial on charges of bribery, fraud, and breach of trust officially commenced at the Jerusalem District Court"
+            },
+            {
+                "date": "17-05-2020",
+                "event": "Sworn in as Prime Minister of a power-sharing unity government alongside Benny Gantz following three inconclusive national elections"
+            },
+            {
+                "date": "15-09-2020",
+                "event": "Signed the historic Abraham Accords at the White House, normalizing diplomatic relations with the United Arab Emirates and Bahrain"
+            },
+            {
+                "date": "21-11-2019",
+                "event": "Formally indicted by Israel's Attorney General Avichai Mandelblit on charges of bribery, fraud, and breach of trust in Cases 1000, 2000, and 4000"
+            },
+            {
+                "date": "20-07-2019",
+                "event": "Became the longest-serving Prime Minister in Israeli history, surpassing the tenure of the nation's founding father David Ben-Gurion"
+            },
+            {
+                "date": "03-03-2015",
+                "event": "Delivered a controversial joint address to the U.S. Congress lobbying against the Obama administration's proposed Iran Nuclear Deal"
+            },
+            {
+                "date": "31-03-2009",
+                "event": "Sworn in as Prime Minister of Israel for his second term, forming a right-leaning coalition after the 2009 general election"
+            },
+            {
+                "date": "09-08-2005",
+                "event": "Resigned as Minister of Finance in protest against Prime Minister Ariel Sharon's planned unilateral disengagement plan from the Gaza Strip"
+            },
+            {
+                "date": "28-02-2003",
+                "event": "Appointed Minister of Finance in Ariel Sharon's cabinet, where he introduced major free-market economic reforms and privatizations"
+            },
+            {
+                "date": "06-07-1999",
+                "event": "Resigned as Prime Minister and Likud party leader following his defeat by Ehud Barak in the 1999 general election"
+            },
+            {
+                "date": "23-10-1998",
+                "event": "Signed the Wye River Memorandum with Palestinian Authority Chairman Yasser Arafat to implement earlier peace agreements"
+            },
+            {
+                "date": "18-06-1996",
+                "event": "Sworn in as the 9th Prime Minister of Israel, becoming the youngest person and the first born in the state of Israel to hold the office"
+            },
+            {
+                "date": "29-05-1996",
+                "event": "Elected Prime Minister of Israel in the country's first direct elections for the premiership, defeating Shimon Peres"
+            },
+            {
+                "date": "25-03-1993",
+                "event": "Elected Chairman of the Likud Party, succeeding Yitzhak Shamir as leader of the opposition"
+            },
+            {
+                "date": "1988",
+                "event": "Elected to the Knesset for the first time representing the Likud party and appointed Deputy Foreign Minister"
+            },
+            {
+                "date": "1984",
+                "event": "Appointed Israel's Ambassador to the United Nations, serving in the position until 1988"
+            },
+            {
+                "date": "04-07-1976",
+                "event": "His elder brother, Yonatan Netanyahu, was killed while leading the hostage rescue mission Operation Entebbe in Uganda"
+            },
+            {
+                "date": "1972",
+                "event": "Discharged from full-time military service in Sayeret Matkal after five years of service, having attained the rank of Captain"
+            },
+            {
+                "date": "1967",
+                "event": "Enlisted in the Israel Defense Forces (IDF) during the Six-Day War, joining the elite special forces unit Sayeret Matkal"
+            },
+            {
+                "date": "21-10-1949",
+                "event": "Born to Benzion Netanyahu and Tzila Segal in Tel Aviv, Israel"
+            }
+        ]
     },
     "response": {
         "ascendant": {

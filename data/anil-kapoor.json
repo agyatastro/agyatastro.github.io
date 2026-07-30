@@ -15,7 +15,93 @@
         "advanced": "fame, prolonged career",
         "gender": "male",
         "about": "<p>Anil Kapoor (born 24 December 1956) is an Indian actor and producer who works primarily in Hindi films, in addition to Indian television and international films. In a career spanning over 40 years as an actor and since 2005 as a producer, Kapoor has appeared in more than 100 films. He has received several accolades, including two National Film Awards and seven Filmfare Awards.</p><p>Born to film producer Surinder Kapoor, he made his Bollywood debut with a small role in the romance Hamare Tumhare (1979) before starring in the Telugu film Vamsa Vruksham (1980) and Kannada film Pallavi Anupallavi (1983). His first two successes were Woh 7 Din (1984) and Meri Jung (1985), which made him a star. He went onto establish himself as an actor with highly successful ventures, throughout the 1980s and 1990s, such as Saaheb (1985), Karma (1986), Mr. India (1987), Tezaab (1988), Ram Lakhan (1989), Rakhwala (1989), Kishen Kanhaiya (1990), Beta (1992), Laadla (1994), Judaai (1997), Virasat (1997), Deewana Mastana (1997), Biwi No.1 (1999), Hum Aapke Dil Mein Rehte Hain (1999) and Taal (1999). After the leading role in hit Hamara Dil Aapke Paas Hai (2000), he had a series of flops and made a comeback with the multi-starrers No Entry (2005) and Welcome (2007), both of which were superhits. This was followed by supporting roles in Race (2008), Race 2 (2013), Shootout at Wadala (2013), Welcome Back (2015), Total Dhamaal (2019) and Animal (2023).</p><p>Kapoor's first international film role was in Danny Boyle's acclaimed drama Slumdog Millionaire (2008). He has since starred in the eighth season of the action series 24 in 2010 and played a brief role in Mission: Impossible – Ghost Protocol (2011). In Indian television, he has starred in the remakes 24 (2013–2016) and The Night Manager (2023).</p>",
-        "related": ["anil-kapoor-family", "actor"]
+        "related": ["anil-kapoor-family", "actor"],
+        "events": [
+            {
+                "date": "01-12-2023",
+                "event": "Starred as Balbir Singh in the action drama 'Animal', achieving major commercial success and critical praise"
+            },
+            {
+                "date": "17-02-2023",
+                "event": "Starred as arms dealer Shailendra Rungta in the Indian adaptation of 'The Night Manager'"
+            },
+            {
+                "date": "24-06-2022",
+                "event": "Starred in 'JugJugg Jeeyo', winning the Filmfare Award for Best Supporting Actor"
+            },
+            {
+                "date": "04-10-2013",
+                "event": "Produced and starred as Jai Singh Rathod in the Indian adaptation of the hit television series '24'"
+            },
+            {
+                "date": "17-01-2010",
+                "event": "Made his American television debut playing President Omar Hassan in Season 8 of '24'"
+            },
+            {
+                "date": "12-11-2008",
+                "event": "Gained international prominence playing game show host Prem Kumar in Danny Boyle's Oscar-winning 'Slumdog Millionaire'"
+            },
+            {
+                "date": "03-08-2007",
+                "event": "Produced 'Gandhi, My Father', winning the National Film Award – Special Jury Award"
+            },
+            {
+                "date": "2001",
+                "event": "Won his first National Film Award for Best Actor for his performance as Major Jaidev Rajvanshi in 'Pukar' (2000)"
+            },
+            {
+                "date": "13-08-1999",
+                "event": "Starred in Subhash Ghai's 'Taal', winning the Filmfare Award for Best Supporting Actor"
+            },
+            {
+                "date": "30-05-1997",
+                "event": "Starred in 'Virasat', winning the Filmfare Critics Award for Best Actor"
+            },
+            {
+                "date": "03-04-1992",
+                "event": "Starred as Raju in 'Beta', winning his second Filmfare Award for Best Actor"
+            },
+            {
+                "date": "22-12-1989",
+                "event": "Starred as Lakhan in Subhash Ghai's hit multi-starrer 'Ram Lakhan'"
+            },
+            {
+                "date": "11-11-1988",
+                "event": "Starred as Mahesh \"Munna\" Deshmukh in 'Tezaab', winning his first Filmfare Award for Best Actor"
+            },
+            {
+                "date": "29-05-1987",
+                "event": "Starred as Arun Verma in the classic sci-fi superhero film 'Mr. India'"
+            },
+            {
+                "date": "09-06-1985",
+                "event": "Welcomed his first child, daughter Sonam Kapoor, with wife Sunita Kapoor"
+            },
+            {
+                "date": "19-05-1984",
+                "event": "Married costume designer Sunita Bhavnani"
+            },
+            {
+                "date": "09-02-1984",
+                "event": "Starred in Yash Chopra's 'Mashaal', winning the Filmfare Award for Best Supporting Actor"
+            },
+            {
+                "date": "23-06-1983",
+                "event": "Made his debut in a Hindi lead role as Prem Pratap Patialawale in 'Woh 7 Din'"
+            },
+            {
+                "date": "1980",
+                "event": "Made his lead acting debut in Bapu's Telugu film 'Vamsa Vruksham'"
+            },
+            {
+                "date": "1979",
+                "event": "Made his feature screen debut in a minor supporting role in 'Hamare Tumhare'"
+            },
+            {
+                "date": "24-12-1956",
+                "event": "Born to film producer Surinder Kapoor and Nirmal Kapoor in Chembur, Bombay (now Mumbai), India"
+            }
+        ]
     },
     "response": {
         "ascendant": {

@@ -15,7 +15,65 @@
         "gender": "male",
         "advanced": "fame, legal-issues, bankruptcycy, riches-to-rags",
         "about": "<p>Anil Dhirubhai Ambani (born 4 June 1959) is an Indian businessman, chairman, and managing director of Reliance Group (a.k.a. Reliance ADA Group). The Reliance Group was created in July 2006 following a demerger from Reliance Industries Limited. He led several listed corporations, including Reliance Capital, Reliance Infrastructure, Reliance Power, and Reliance Communications. Anil's net worth is currently estimated at $530 million as of March 10, 2025.</p><p>Ambani, once the sixth richest person in the world, declared bankruptcycy before a UK court in February 2020. He served in the Rajya Sabha, the upper house of the Parliament of India from Uttar Pradesh, as an Independent MP between 2004 and 2006.</p>",
-        "related": ["ambani-family", "businessperson"]
+        "related": ["ambani-family", "businessperson"],
+        "events": [
+            {
+                "date": "23-08-2024",
+                "event": "Banned by SEBI from the securities market for five years and fined ₹25 crore over alleged diversion of funds from Reliance Home Finance"
+            },
+            {
+                "date": "02-2020",
+                "event": "Declared his net worth to be zero in a UK court during a legal dispute over $700 million in unpaid debt to Chinese banks"
+            },
+            {
+                "date": "18-03-2019",
+                "event": "Avoided a prison sentence for criminal contempt after paying ₹458 crore in guaranteed debts to Ericsson with financial assistance from his brother Mukesh Ambani"
+            },
+            {
+                "date": "15-01-2008",
+                "event": "Reliance Power launched India's largest IPO at the time, which was fully subscribed within 60 seconds"
+            },
+            {
+                "date": "2008",
+                "event": "Formed a major $1.2 billion joint venture between Reliance Entertainment and Steven Spielberg's DreamWorks Studios"
+            },
+            {
+                "date": "06-2006",
+                "event": "Formally established the Reliance Anil Dhirubhai Ambani Group (ADA Group) following the demerger of Reliance Industries assets"
+            },
+            {
+                "date": "25-03-2006",
+                "event": "Resigned from his position as an independent Member of Parliament in the Rajya Sabha"
+            },
+            {
+                "date": "18-06-2005",
+                "event": "Reached a family settlement mediated by mother Kokilaben Ambani to split the Reliance empire between him and Mukesh Ambani"
+            },
+            {
+                "date": "2005",
+                "event": "Entered the entertainment sector by acquiring a controlling stake in Adlabs Films (later renamed Reliance MediaWorks)"
+            },
+            {
+                "date": "16-06-2004",
+                "event": "Elected to the Rajya Sabha as an independent Member of Parliament representing Uttar Pradesh with support from the Samajwadi Party"
+            },
+            {
+                "date": "06-07-2002",
+                "event": "His father, Reliance Industries founder Dhirubhai Ambani, passed away without leaving a formal will, sparking a leadership conflict"
+            },
+            {
+                "date": "1991",
+                "event": "Married Bollywood actress Tina Munim"
+            },
+            {
+                "date": "1983",
+                "event": "Earned his MBA from the Wharton School of the University of Pennsylvania and joined Reliance Industries as Co-Chief Executive Officer"
+            },
+            {
+                "date": "04-06-1959",
+                "event": "Born to Dhirubhai Ambani and Kokilaben Ambani in Mumbai, Maharashtra, India"
+            }
+        ]
     },
     "response": {
         "ascendant": {

@@ -14,7 +14,53 @@
         "gender": "male",
         "agyat_rating": "AA",
         "about": "<p>Shri Anant M. Ambani is among India’s emerging global leaders at the intersection of business transformation, sustainability, technology, and humanitarian impact. As Executive Director of Reliance Industries Limited, he is helping shape the future of one of the world’s largest and most influential enterprises across renewable energy, advanced materials, digital services, retail, and sustainable industrial innovation.</p><p>A graduate of Brown University, Shri Anant M. Ambani serves on the Boards of Jio Platforms Limited, Reliance Retail Ventures Limited and Reliance Foundation. Shri Anant M. Ambani leads some of India’s most transformative national initiatives in digital connectivity, consumer transformation, clean energy, and social development.</p><p>Within Reliance, Shri Anant M. Ambani plays a pivotal role in corporate strategy, talent development, and the execution of large-scale transformational projects. He has emerged as a key force behind the group’s transition toward a new energy future, advancing initiatives in solar manufacturing, green hydrogen, circular materials, carbon capture, clean fuels, and next-generation energy technologies. His leadership supports Reliance’s ambitious vision of becoming a Net Carbon Zero enterprise by 2035 — one of the largest sustainability transitions being undertaken by any company globally.</p><p>Beyond business, Shri Anant M. Ambani has distinguished himself through an extraordinary commitment to wildlife protection, biodiversity preservation, and compassionate conservation. He is the Founder of Vantara, a pioneering wildlife rescue, rehabilitation, and conservation initiative spread across a 3,000-acre green ecosystem in Jamnagar, Gujarat. Integrating world-class veterinary care, protected natural habitats, scientific breeding and rehabilitation programs, and lifelong care for vulnerable and endangered species, Vantara is redefining global standards of animal welfare and conservation stewardship.</p><p>Under Anant’s leadership, Vantara has become internationally recognized as a model for science-led, compassion-driven conservation. The initiative was honoured with India’s prestigious Prani Mitra National Award, the nation’s highest recognition for corporate contribution to animal welfare, reflecting its transformative impact on wildlife rescue and ecosystem preservation.</p><p>In recognition of his pioneering global contributions to wildlife welfare and biodiversity conservation, Shri Anant M. Ambani received the Global Humanitarian Award for Leadership in Wildlife Conservation, becoming the youngest recipient and the first Asian honouree in the award’s history. The distinction celebrates exceptional leadership in advancing the protection of animals and natural ecosystems worldwide and reflects the humanitarian philosophy at the heart of his work.</p><p>Shri Anant M. Ambani has also been recognized as one of India’s most influential young leaders through his inclusion in the Avendus–Hurun U30 India List, which honours individuals shaping India’s future through innovation, enterprise, and societal impact. His growing influence in business leadership and sustainable development has additionally been reflected in national wealth-creation and enterprise leadership rankings, including the 360 ONE Wealth Creators List.</p><p>Deeply committed to humanitarian service, employee welfare, and ecological restoration, Shri Anant M. Ambani represents a new generation of leadership that seeks to align economic progress with environmental responsibility and social purpose. Through his rare combination of strategic vision, technological ambition, and profound compassion for all living beings, he is helping define a more sustainable, humane, and future-ready model of global development for the twenty-first century.</p>",
-        "related": ["ambani-family", "businessperson"]
+        "related": ["ambani-family", "businessperson"],
+        "events": [
+            {
+                "date": "12-07-2024",
+                "event": "Married Radhika Merchant in a high-profile, multi-day wedding ceremony at the Jio World Convention Centre in Mumbai"
+            },
+            {
+                "date": "29-05-2024",
+                "event": "Hosted a four-day pre-wedding Mediterranean cruise celebration from Italy to the South of France for over 800 guests"
+            },
+            {
+                "date": "26-02-2024",
+                "event": "Launched 'Vantara' (Star of the Forest), a 3,000-acre animal rescue, care, and rehabilitation initiative in Jamnagar, Gujarat"
+            },
+            {
+                "date": "01-03-2024",
+                "event": "Commenced a grand three-day pre-wedding celebration in Jamnagar, Gujarat, attended by global business icons, world leaders, and international artists"
+            },
+            {
+                "date": "29-12-2022",
+                "event": "Formally engaged to Radhika Merchant in a traditional 'Roka' ceremony at the Shrinathji Temple in Nathdwara, Rajasthan"
+            },
+            {
+                "date": "28-08-2022",
+                "event": "Appointed to the Board of Directors of Reliance Retail Ventures Limited (RRVL) and Reliance Jio Infocomm"
+            },
+            {
+                "date": "2021",
+                "event": "Appointed as Director of Reliance New Energy Land and Reliance New Solar Energy"
+            },
+            {
+                "date": "03-2020",
+                "event": "Appointed to the Board of Directors of Jio Platforms Limited"
+            },
+            {
+                "date": "05-2017",
+                "event": "Graduated with a Bachelor's degree in Business Management from Brown University, Rhode Island, USA"
+            },
+            {
+                "date": "2016",
+                "event": "Garnered widespread national attention for achieving a dramatic personal weight-loss transformation over an 18-month period"
+            },
+            {
+                "date": "10-04-1995",
+                "event": "Born to industrialist Mukesh Ambani and Nita Ambani in Mumbai, Maharashtra, India"
+            }
+        ]
     },
     "response": {
         "ascendant": {

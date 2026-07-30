@@ -14,7 +14,113 @@
         "agyat_rating": "AA",
         "gender": "male",
         "related": ["politician"],
-        "about": "<p>William Jefferson Clinton (né Blythe III; born August 19, 1946) is an American politician and lawyer who was the 42nd president of the United States from 1993 to 2001. A member of the Democratic Party, he previously served as the attorney general of Arkansas from 1977 to 1979 and as the governor of Arkansas from 1979 to 1981, and again from 1983 to 1992. Clinton, whose policies reflected a centrist \"Third Way\" political philosophy, became known as a New Democrat.</p><p>Born and raised in Arkansas, Clinton graduated from Georgetown University in 1968, and later from Yale Law School, where he met his future wife, Hillary Rodham. After graduating from law school, Clinton returned to Arkansas and won election as state attorney general, followed by two non-consecutive tenures as Arkansas governor. As governor, he overhauled the state's education system and served as chairman of the National Governors Association. Clinton was elected president in the 1992 election, defeating the incumbent Republican Party president George H. W. Bush, and the independent businessman Ross Perot. He became the first president to be born in the Baby Boomer generation and the youngest to serve two full terms.</p><p>Clinton presided over the second longest period of peacetime economic expansion in American history. He signed into law the North American Free Trade Agreement and the Violent Crime Control and Law Enforcement Act but failed to pass his plan for national health care reform. Starting in the mid-1990s, he began an ideological evolution as he became much more conservative in his domestic policy, advocating for and signing the Personal Responsibility and Work Opportunity Act, the State Children's Health Insurance Program and financial deregulation measures. He appointed Ruth Bader Ginsburg and Stephen Breyer to the U.S. Supreme Court. In foreign policy, Clinton ordered U.S. military intervention in the Bosnian and Kosovo wars, eventually signing the Dayton Peace agreement. He also called for the expansion of NATO in Eastern Europe and many former Warsaw Pact members joined NATO during his presidency. Clinton's foreign policy in the Middle East saw him sign the Iraq Liberation Act which gave aid to groups against Saddam Hussein. He also participated in the Oslo I Accord and Camp David Summit to advance the Israeli–Palestinian peace process, and assisted the Northern Ireland peace process.</p><p>Clinton won re-election in the 1996 election, defeating Republican nominee Bob Dole and returning Reform Party nominee Ross Perot. In his second term, Clinton made use of permanent normal trade. Many of his second term accomplishments were overshadowed by the Clinton–Lewinsky scandal, when it was revealed in early 1998 that he had been engaging in an eighteen-month-long sexual relationship with White House intern Monica Lewinsky. This scandal escalated throughout the year, culminating in December when Clinton was impeached by the House of Representatives, becoming the first U.S. president to be impeached since Andrew Johnson. The two impeachment articles that the House passed were centered around perjury and Clinton using the powers of the presidency to commit obstruction of justice. In January 1999, Clinton's impeachment trial began in the Senate, where he was acquitted two months later on both charges. During the last three years of Clinton's presidency, the Congressional Budget Office reported a budget surplus—the first and only such surplus since 1969.</p><p>Clinton left office in 2001 with the joint-highest approval rating of any U.S. president. His presidency ranks among the middle to upper tier in historical rankings of U.S. presidents. His personal conduct and misconduct allegations have made him the subject of substantial scrutiny. Since leaving office, Clinton has been involved in public speaking and humanitarian work. He created the Clinton Foundation to address international causes such as the prevention of HIV/AIDS and global warming. In 2009, he was named the United Nations special envoy to Haiti. After the 2010 Haiti earthquake, Clinton founded the Clinton Bush Haiti Fund with George W. Bush and Barack Obama. He has remained active in Democratic Party politics, campaigning for his wife's 2008 and 2016 presidential campaigns. Following Jimmy Carter's death in December 2024, he is the earliest-serving living former U.S. president and the only living president to have served in the 20th century</p>"
+        "about": "<p>William Jefferson Clinton (né Blythe III; born August 19, 1946) is an American politician and lawyer who was the 42nd president of the United States from 1993 to 2001. A member of the Democratic Party, he previously served as the attorney general of Arkansas from 1977 to 1979 and as the governor of Arkansas from 1979 to 1981, and again from 1983 to 1992. Clinton, whose policies reflected a centrist \"Third Way\" political philosophy, became known as a New Democrat.</p><p>Born and raised in Arkansas, Clinton graduated from Georgetown University in 1968, and later from Yale Law School, where he met his future wife, Hillary Rodham. After graduating from law school, Clinton returned to Arkansas and won election as state attorney general, followed by two non-consecutive tenures as Arkansas governor. As governor, he overhauled the state's education system and served as chairman of the National Governors Association. Clinton was elected president in the 1992 election, defeating the incumbent Republican Party president George H. W. Bush, and the independent businessman Ross Perot. He became the first president to be born in the Baby Boomer generation and the youngest to serve two full terms.</p><p>Clinton presided over the second longest period of peacetime economic expansion in American history. He signed into law the North American Free Trade Agreement and the Violent Crime Control and Law Enforcement Act but failed to pass his plan for national health care reform. Starting in the mid-1990s, he began an ideological evolution as he became much more conservative in his domestic policy, advocating for and signing the Personal Responsibility and Work Opportunity Act, the State Children's Health Insurance Program and financial deregulation measures. He appointed Ruth Bader Ginsburg and Stephen Breyer to the U.S. Supreme Court. In foreign policy, Clinton ordered U.S. military intervention in the Bosnian and Kosovo wars, eventually signing the Dayton Peace agreement. He also called for the expansion of NATO in Eastern Europe and many former Warsaw Pact members joined NATO during his presidency. Clinton's foreign policy in the Middle East saw him sign the Iraq Liberation Act which gave aid to groups against Saddam Hussein. He also participated in the Oslo I Accord and Camp David Summit to advance the Israeli–Palestinian peace process, and assisted the Northern Ireland peace process.</p><p>Clinton won re-election in the 1996 election, defeating Republican nominee Bob Dole and returning Reform Party nominee Ross Perot. In his second term, Clinton made use of permanent normal trade. Many of his second term accomplishments were overshadowed by the Clinton–Lewinsky scandal, when it was revealed in early 1998 that he had been engaging in an eighteen-month-long sexual relationship with White House intern Monica Lewinsky. This scandal escalated throughout the year, culminating in December when Clinton was impeached by the House of Representatives, becoming the first U.S. president to be impeached since Andrew Johnson. The two impeachment articles that the House passed were centered around perjury and Clinton using the powers of the presidency to commit obstruction of justice. In January 1999, Clinton's impeachment trial began in the Senate, where he was acquitted two months later on both charges. During the last three years of Clinton's presidency, the Congressional Budget Office reported a budget surplus—the first and only such surplus since 1969.</p><p>Clinton left office in 2001 with the joint-highest approval rating of any U.S. president. His presidency ranks among the middle to upper tier in historical rankings of U.S. presidents. His personal conduct and misconduct allegations have made him the subject of substantial scrutiny. Since leaving office, Clinton has been involved in public speaking and humanitarian work. He created the Clinton Foundation to address international causes such as the prevention of HIV/AIDS and global warming. In 2009, he was named the United Nations special envoy to Haiti. After the 2010 Haiti earthquake, Clinton founded the Clinton Bush Haiti Fund with George W. Bush and Barack Obama. He has remained active in Democratic Party politics, campaigning for his wife's 2008 and 2016 presidential campaigns. Following Jimmy Carter's death in December 2024, he is the earliest-serving living former U.S. president and the only living president to have served in the 20th century</p>",
+        "events": [
+            {
+                "date": "27-02-2026",
+                "event": "Testified before the U.S. House Oversight Committee regarding his historical ties to Jeffrey Epstein, maintaining under oath that he had no knowledge of or involvement in Epstein's crimes"
+            },
+            {
+                "date": "19-12-2025",
+                "event": "Featured in additional DOJ files and unredacted photos released under congressional transparency mandates, showing past social interactions with Epstein and Ghislaine Maxwell"
+            },
+            {
+                "date": "03-01-2024",
+                "event": "Named alongside numerous high-profile associates in unsealed Manhattan federal court documents from Virginia Giuffre's lawsuit, though no criminal allegations or illegal conduct were charged against him"
+            },
+            {
+                "date": "20-01-2001",
+                "event": "Completed his second term as the 42nd President of the United States and was succeeded by George W. Bush"
+            },
+            {
+                "date": "12-02-1999",
+                "event": "Acquitted by the U.S. Senate on both articles of impeachment (perjury and obstruction of justice)"
+            },
+            {
+                "date": "19-12-1998",
+                "event": "Impeached by the U.S. House of Representatives on charges of perjury and obstruction of justice stemming from the Monica Lewinsky scandal"
+            },
+            {
+                "date": "10-04-1998",
+                "event": "Helped broker the historic Good Friday Agreement, bringing an end to decades of conflict in Northern Ireland"
+            },
+            {
+                "date": "05-11-1996",
+                "event": "Re-elected President of the United States, defeating Republican nominee Bob Dole and Reform Party candidate Ross Perot"
+            },
+            {
+                "date": "22-08-1996",
+                "event": "Signed the Personal Responsibility and Work Opportunity Reconciliation Act, fulfilling his campaign promise to 'end welfare as we know it'"
+            },
+            {
+                "date": "13-09-1994",
+                "event": "Signed the Violent Crime Control and Law Enforcement Act, the largest crime bill in U.S. history"
+            },
+            {
+                "date": "08-12-1993",
+                "event": "Signed the North American Free Trade Agreement (NAFTA) Implementation Act into law"
+            },
+            {
+                "date": "30-11-1993",
+                "event": "Signed the Brady Handgun Violence Prevention Act, mandating federal background checks on firearm purchases"
+            },
+            {
+                "date": "13-09-1993",
+                "event": "Hosted the signing of the Oslo I Accord between Israeli Prime Minister Yitzhak Rabin and PLO Chairman Yasser Arafat at the White House"
+            },
+            {
+                "date": "10-08-1993",
+                "event": "Signed the Omnibus Budget Reconciliation Act of 1993, raising top tax rates to reduce the federal deficit and lay the groundwork for economic surpluses"
+            },
+            {
+                "date": "05-02-1993",
+                "event": "Signed the Family and Medical Leave Act (FMLA), requiring covered employers to provide unpaid, job-protected leave for medical and family reasons"
+            },
+            {
+                "date": "20-01-1993",
+                "event": "Sworn in as the 42nd President of the United States"
+            },
+            {
+                "date": "03-11-1992",
+                "event": "Elected President of the United States, defeating incumbent President George H. W. Bush and independent candidate Ross Perot"
+            },
+            {
+                "date": "11-01-1983",
+                "event": "Sworn in for his second tenure as Governor of Arkansas, going on to serve continuously until 1992"
+            },
+            {
+                "date": "27-02-1980",
+                "event": "His daughter and only child, Chelsea Victoria Clinton, was born"
+            },
+            {
+                "date": "09-01-1979",
+                "event": "Sworn in as Governor of Arkansas at age 32, becoming one of the youngest governors in U.S. history"
+            },
+            {
+                "date": "03-01-1977",
+                "event": "Assumed office as the 50th Attorney General of Arkansas"
+            },
+            {
+                "date": "11-10-1975",
+                "event": "Married Hillary Rodham in Fayetteville, Arkansas"
+            },
+            {
+                "date": "05-11-1974",
+                "event": "Ran for the U.S. House of Representatives in Arkansas's 3rd congressional district, losing narrowly to incumbent Republican John Paul Hammerschmidt"
+            },
+            {
+                "date": "1973",
+                "event": "Earned his Juris Doctor (J.D.) degree from Yale Law School"
+            },
+            {
+                "date": "1968",
+                "event": "Graduated from Georgetown University with a Bachelor of Science in Foreign Service and attended the University of Oxford as a Rhodes Scholar"
+            },
+            {
+                "date": "19-08-1946",
+                "event": "Born as William Jefferson Blythe III in Hope, Arkansas, United States"
+            }
+        ]
     },
     "response": {
         "ascendant": {

@@ -15,7 +15,81 @@
         "gender": "male",
         "related": ["actor"],
         "about": "<p>Carlos Irwin Estévez (born September 3, 1965), known professionally as Charlie Sheen, is an American actor. He is known as a leading man in film and television. Sheen has received numerous accolades including a Golden Globe Award as well as nominations for four Primetime Emmy Awards and three Screen Actors Guild Awards. In 1994, he received a star on the Hollywood Walk of Fame.</p><p>Charlie Sheen followed in the footsteps of his father Martin Sheen in becoming an actor. He starred in many successful films such as Red Dawn (1984), Platoon (1986), Wall Street (1987), Eight Men Out (1988), Young Guns (1988), The Rookie (1990), The Three Musketeers (1993), and The Arrival (1996). In the 2000s, when Sheen replaced Michael J. Fox as the star of ABC's Spin City, his portrayal of Charlie Crawford earned him a Golden Globe Award for Best Actor. He then starred as Charlie Harper on the CBS sitcom Two and a Half Men (2003–11), for which he received many Golden Globe and Primetime Emmy nominations. As Dr. Charles \"Charlie\" Goodson on the FX series Anger Management (2012–14). In 2010, Sheen was the highest-paid actor on television, earning US$1.8 million per episode of Two and a Half Men.</p><p>In March 2011, Sheen was terminated from his Two and a Half Men contract by CBS and Warner Bros. following public substance-abuse problems, marital difficulties and comments made towards the series' creator, Chuck Lorre. In 2015, Sheen publicly revealed that he was HIV positive, which led to an increase in HIV prevention and testing which was dubbed the \"Charlie Sheen effect\". Post-Two and a Half Men, he starred in the films Machete Kills (2013) and 9/11 (2017), and had a recurring role on Lorre's Max series Bookie (2023–2024).</p>",
-        "advanced": "riches-to-rags, bankruptcy, illness, bipolar, legal-issues"
+        "advanced": "riches-to-rags, bankruptcy, illness, bipolar, legal-issues",
+        "events": [
+            {
+                "date": "09-07-2026",
+                "event": "Agreed to pay $500,000 to resolve outstanding back child support claims with ex-wife Brooke Mueller."
+            },
+            {
+                "date": "03-09-2025",
+                "event": "Released his tell-all memoir, 'The Book of Sheen', alongside a deeply personal career retrospective documentary titled 'aka Charlie Sheen' to coincide with his 60th birthday."
+            },
+            {
+                "date": "05-09-2025",
+                "event": "Publicly discussed his private life in press tours, revealing past sexual encounters with men to clear up long-standing rumors and extortion attempts."
+            },
+            {
+                "date": "19-12-2023",
+                "event": "Survived a bizarre home invasion and assault incident at his Malibu residence committed by a neighbor, who was subsequently arrested and prosecuted."
+            },
+            {
+                "date": "2017",
+                "event": "Achieved long-term sobriety, marking a major turning point after decades of heavily publicized substance abuse battles."
+            },
+            {
+                "date": "17-11-2015",
+                "event": "Publicly revealed in a landmark television interview on 'Today' that he is HIV-positive, sparking a massive global surge in public health awareness and internet searches regarding HIV testing."
+            },
+            {
+                "date": "2014",
+                "event": "Starred in his final major television role as Charlie Goodson in the FX sitcom adaptation 'Anger Management'."
+            },
+            {
+                "date": "07-03-2011",
+                "event": "Fired from his blockbuster role as Charlie Harper on CBS's 'Two and a Half Men' following public fallout, erratic media rants, and sharp criticisms directed at series creator Chuck Lorre."
+            },
+            {
+                "date": "2010",
+                "event": "Reached the peak of his television career earnings as the highest-paid actor on television, commanding roughly $1.8 million to $2 million per episode for 'Two and a Half Men'."
+            },
+            {
+                "date": "30-05-2008",
+                "event": "Married his third wife, Brooke Mueller, in a private ceremony in Los Angeles (later divorcing in 2011)."
+            },
+            {
+                "date": "03-06-2000",
+                "event": "Won a Golden Globe Award for Best Actor in a Television Series Musical or Comedy for his standout lead role as Charlie Crawford in ABC's 'Spin City'."
+            },
+            {
+                "date": "15-06-1995",
+                "event": "Married his first wife, model Donna Peele, before separating and divorcing the following year."
+            },
+            {
+                "date": "15-06-1994",
+                "event": "Received a prestigious star on the Hollywood Walk of Fame in recognition of his extensive film contributions."
+            },
+            {
+                "date": "15-01-1991",
+                "event": "Starred as Topper Harley in the spoof comedy box office smash hit 'Hot Shots!', cementing his 90s leading man status."
+            },
+            {
+                "date": "19-12-1987",
+                "event": "Starred as Bud Fox alongside Michael Douglas in Oliver Stone's financial drama masterpiece 'Wall Street'."
+            },
+            {
+                "date": "19-12-1986",
+                "event": "Achieved widespread international critical acclaim starring as Private Chris Taylor in Oliver Stone's harrowing Academy Award-winning Vietnam War masterpiece 'Platoon'."
+            },
+            {
+                "date": "10-08-1984",
+                "event": "Starred alongside Patrick Swayze in the cold war action drama film 'Red Dawn'."
+            },
+            {
+                "date": "03-09-1965",
+                "event": "Born as Carlos Irwin Estévez to legendary actor Martin Sheen and Janet Templeton in New York City, United States."
+            }
+        ]
     },
     "response": {
         "ascendant": {

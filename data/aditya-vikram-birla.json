@@ -16,7 +16,53 @@
         "about": "<p>Aditya Vikram Birla (14 November 1943 – 1 October 1995) was an Indian industrialist and philanthropist. Born into one of the largest business families of India, he oversaw the diversification of his group into textiles, petrochemicals and telecommunications. He was one of the first Indian industrialists to expand abroad, setting up plants in Southeast Asia, the Philippines and Egypt. His net worth was estimated at £250 million by 1995. After his death at the age of 51, his son Kumar Mangalam Birla took charge of the group.</p><p>Birla was born on 14 November 1943 in Calcutta to industrialist Basant Kumar and Sarala Birla. His grandfather Ghanshyam Das Birla was an associate of Mahatma Gandhi and had built his fortune on aluminium prospecting and as the manufacturer of the Ambassador car.</p><p>After attending St. Xavier's College, Calcutta, he earned a degree in chemical engineering at the Massachusetts Institute of Technology. He was married to Rajashree and had a daughter Vasavadatta and a son Kumar Mangalam, who now heads the Aditya Birla Group.</p><p>Aditya Vikram Birla received his Sanskrit education from the late Sanskrit scholar Shri Durga Prasad Shastri in Kolkata.</p>",
         "related": ["birla-family", "businessperson"],
         "dod": "1/10/1995",
-        "advanced": "prostate cancer"
+        "advanced": "prostate cancer",
+        "events": [
+            {
+                "date": "01-10-1995",
+                "event": "Passed away due to prostate cancer at Johns Hopkins Hospital in Baltimore, Maryland, USA"
+            },
+            {
+                "date": "1993",
+                "event": "Diagnosed with prostate cancer, initiating the transition of group management responsibilities"
+            },
+            {
+                "date": "11-06-1983",
+                "event": "Took over key leadership of major group companies following the demise of his grandfather, Ghanshyam Das Birla"
+            },
+            {
+                "date": "1977",
+                "event": "Established Pan Century Edible Oils in Malaysia, expanding the group into palm oil refining"
+            },
+            {
+                "date": "1976",
+                "event": "Welcomed his second child, daughter Vasavadatta Birla"
+            },
+            {
+                "date": "1969",
+                "event": "Set up Indo-Thai Synthetics Company Ltd in Thailand, marking the group's first overseas venture"
+            },
+            {
+                "date": "14-06-1967",
+                "event": "Welcomed his first child, son Kumar Mangalam Birla"
+            },
+            {
+                "date": "1965",
+                "event": "Returned to India after graduating from MIT and launched Eastern Spinning Mills in Kolkata"
+            },
+            {
+                "date": "1965",
+                "event": "Graduated with a Bachelor of Science degree in Chemical Engineering from the Massachusetts Institute of Technology (MIT)"
+            },
+            {
+                "date": "1965",
+                "event": "Married Rajashree Firodia"
+            },
+            {
+                "date": "14-11-1943",
+                "event": "Born to Basant Kumar Birla and Sarala Birla in Kolkata, West Bengal, India"
+            }
+        ]
     },
     "response": {
         "ascendant": {

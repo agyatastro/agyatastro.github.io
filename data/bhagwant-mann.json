@@ -15,7 +15,69 @@
         "advanced": "alcoholism",
         "gender": "male",
         "related": ["politician"],
-        "about": "Bhagwant Singh Mann (born 17 October 1973), better known by his stage name \"Jugnu\", is an Indian politician, social worker, former comedian, singer and actor who is currently serving as the 17th Chief Minister of Punjab since 2022. He represents the Dhuri Assembly constituency in the Punjab Legislative Assembly since 2022 and is also serving as the state convener of Aam Aadmi Party, Punjab since 2019. Previously, he was a member of the lower house of Parliament from Sangrur from 2014 to 2022."
+        "about": "Bhagwant Singh Mann (born 17 October 1973), better known by his stage name \"Jugnu\", is an Indian politician, social worker, former comedian, singer and actor who is currently serving as the 17th Chief Minister of Punjab since 2022. He represents the Dhuri Assembly constituency in the Punjab Legislative Assembly since 2022 and is also serving as the state convener of Aam Aadmi Party, Punjab since 2019. Previously, he was a member of the lower house of Parliament from Sangrur from 2014 to 2022.",
+        "events": [
+            {
+                "date": "28-03-2024",
+                "event": "Blessed with a daughter, Niyamat Kaur, with his wife Dr. Gurpreet Kaur"
+            },
+            {
+                "date": "07-07-2022",
+                "event": "Married Dr. Gurpreet Kaur in a private Sikh wedding ceremony in Chandigarh"
+            },
+            {
+                "date": "16-03-2022",
+                "event": "Sworn in as the 17th Chief Minister of Punjab at Khatkar Kalan, the ancestral village of Shaheed Bhagat Singh"
+            },
+            {
+                "date": "10-03-2022",
+                "event": "Elected to the Punjab Legislative Assembly from the Dhuri constituency as AAP won a historic landslide victory securing 92 out of 117 seats"
+            },
+            {
+                "date": "23-05-2019",
+                "event": "Re-elected to the 17th Lok Sabha from the Sangrur constituency, serving as AAP's sole Lok Sabha member in Parliament"
+            },
+            {
+                "date": "31-01-2019",
+                "event": "Appointed State Convener of the Aam Aadmi Party (AAP) in Punjab"
+            },
+            {
+                "date": "2015",
+                "event": "Separated from his first wife, Inderpreet Kaur, who relocated to the United States with their two children"
+            },
+            {
+                "date": "16-05-2014",
+                "event": "Elected to the 16th Lok Sabha from the Sangrur constituency by a record margin of over 200,000 votes"
+            },
+            {
+                "date": "03-2014",
+                "event": "Joined the Aam Aadmi Party (AAP) to contest the general elections from Sangrur"
+            },
+            {
+                "date": "2012",
+                "event": "Contested his first state assembly election from the Lehra constituency representing the People's Party of Punjab"
+            },
+            {
+                "date": "03-2011",
+                "event": "Entered active politics by joining the People's Party of Punjab (PPP) led by Manpreet Singh Badal"
+            },
+            {
+                "date": "2008",
+                "event": "Gained widespread national recognition as a contestant on the popular television comedy show 'The Great Indian Laughter Challenge'"
+            },
+            {
+                "date": "2001",
+                "event": "Released the hit satirical comedy album 'Bhagwant Mann Hazir Ho' and starred in the Punjabi film 'Sikandera'"
+            },
+            {
+                "date": "1994",
+                "event": "Released his breakthrough commercial comedy album 'Koko De Bachhe Mummy Daddy Murdabaad' and made his debut in Punjabi cinema with 'Kachehri'"
+            },
+            {
+                "date": "17-10-1973",
+                "event": "Born as Bhagwant Singh Mann in Satoj village, Sangrur district, Punjab, India"
+            }
+        ]
     },
     "response": {
         "ascendant": {

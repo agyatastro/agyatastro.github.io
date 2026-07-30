@@ -16,7 +16,33 @@
         "related": ["astrologer", "religious-preacher"],
         "advanced": "convict, detention, powerful, fame, death by multiple organ failure",
         "about": "<p>Tantrik Jagadacharya Chandraswami (born Nemichand Jain; 29 October 1948– 23 May 2017) was an Indian Tantrik.</p><p>His father Dharamchand Gandhi Jain came from Bagor in Bhilwara district of Rajasthan. The family moved to Hyderabad in 1960s when he was a child. Chandraswami was attracted to the study of Tantra from an early age. He left home when still young to become a student of Upadhyay Amar Muni and the scholar of Tantra, Mahamohopadhyay Gopinath Kaviraj. He later lived in the jungles of Bihar and Kathmandu where he spent time in meditation. He claimed that after four years he obtained extraordinary powers called siddhis.</p><p>Though Chandraswami was by birth a Jain, he became a \"sadhaka\" (worshipper) of the Goddess Kali. He was also interested in interfaith dialogue, and sat on the Board of World Religious Leaders for the Elijah Interfaith Institute.</p>",
-        "dod": "23/05/2017"
+        "dod": "23/05/2017",
+        "events": [
+            {
+                "date": "23-05-2017",
+                "event": "Passed away from multiple organ failure and cardiac arrest following a prolonged illness and stroke at Apollo Hospital in New Delhi at the age of 68."
+            },
+            {
+                "date": "15-06-2011",
+                "event": "The Supreme Court of India ordered Chandraswami to pay a massive penalty of Rs 9 crores for multiple violations of the Foreign Exchange Regulation Act (FERA)."
+            },
+            {
+                "date": "1996",
+                "event": "Arrested and jailed on charges of financial fraud, specifically for allegedly cheating a London-based businessman named Lakhubhai Pathak out of $100,000."
+            },
+            {
+                "date": "1991",
+                "event": "Reached the peak of his political influence following the ascension of P.V. Narasimha Rao as Prime Minister of India, during which time his ashram (Vishwa Dharmayatan Sanathan) in Delhi became a major power center."
+            },
+            {
+                "date": "1980s",
+                "event": "Expanded his international profile as a self-styled godman and astrologer, cultivating high-profile relationships with global figures including British Prime Minister Margaret Thatcher, arms dealer Adnan Khashoggi, and the Sultan of Brunei."
+            },
+            {
+                "date": "29-10-1948",
+                "event": "Born as Nemichand Jain in Alwar, Rajasthan, British India (later relocating to Hyderabad during his childhood)."
+            }
+        ]
     },
     "response": {
         "ascendant": {

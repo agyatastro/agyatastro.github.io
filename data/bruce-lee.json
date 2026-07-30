@@ -16,7 +16,73 @@
         "dod": "20/07/1973",
         "related": ["actor"],
         "about": "<p>Bruce Lee (born Lee Jun-fan; November 27, 1940 – July 20, 1973) was a Hong Kong-American martial artist, actor, filmmaker, and philosopher. He was the founder of Jeet Kune Do, a hybrid martial arts philosophy which was formed from Lee's experiences in unarmed fighting and self-defense—as well as eclectic, Zen Buddhist and Taoist philosophies—as a new school of martial arts thought. With a film career spanning Hong Kong and the United States, Lee is regarded as the first global Chinese film star and one of the most influential martial artists in the history of cinema. Known for his roles in five feature-length martial arts films, Lee is credited with helping to popularize martial arts films in the 1970s and promoting Hong Kong action cinema.</p><p>Born in San Francisco and raised in British Hong Kong, Lee was introduced to the Hong Kong film industry as a child actor by his father. His early martial arts experience included Wing Chun (trained under Ip Man), tai chi, boxing (winning a Hong Kong boxing tournament), and frequent street fighting (neighborhood and rooftop fights). In 1959, Lee moved to Seattle, where he enrolled at the University of Washington in 1961. It was during this time in the United States that he began considering making money by teaching martial arts, even though he aspired to have a career in acting. He opened his first martial arts school, operated out of his home in Seattle. After later adding a second school in Oakland, California, he once drew significant attention at the 1964 Long Beach International Karate Championships of California by making demonstrations and speaking. He subsequently moved to Los Angeles to teach, where his students included Chuck Norris, Sharon Tate, and Kareem Abdul-Jabbar.</p><p>His roles in America, including playing Kato in The Green Hornet introduced him to American audiences. After returning to Hong Kong in 1971, Lee landed his first leading role in The Big Boss, directed by Lo Wei. A year later he starred in Fist of Fury, in which he portrayed Chen Zhen, and The Way of the Dragon, directed and written by Lee. He went on to star in the US-Hong Kong co-production Enter the Dragon (1973) and The Game of Death (1978). His Hong Kong and Hollywood-produced films, all of which were commercially successful, elevated Hong Kong martial arts films to a new level of popularity and acclaim, sparking a surge of Western interest in Chinese martial arts. The direction and tone of his films, including their fight choreography and diversification, dramatically influenced and changed martial arts and martial arts films worldwide. With his influence, kung fu films began to displace the wuxia film genre—fights were choreographed more realistically, fantasy elements were discarded for real-world conflicts, and the characterisation of the male lead went from simply being a chivalrous hero to one that embodied the notion of masculinity.</p><p>Lee's career was cut short by his sudden death at age 32 from a brain edema, the causes of which remain a matter of dispute. Nevertheless, his films remained popular, gained a large cult following, and became widely imitated and exploited. He became an iconic figure known throughout the world, particularly among the Chinese, based upon his portrayal of Cantonese culture in his films, and among Asian Americans for defying Asian stereotypes in the United States. Since his death, Lee has continued to be a prominent influence on modern combat sports, including judo, karate, mixed martial arts, and boxing, as well as modern popular culture, including film, television, comics, animation, and video games. Time named Lee one of the 100 most important people of the 20th century.</p>",
-        "advanced": "death by illness, cerebral edema"
+        "advanced": "death by illness, cerebral edema",
+        "events": [
+            {
+                "date": "20-07-1973",
+                "event": "Tragically passed away in Hong Kong at the age of 32 due to a cerebral edema, sparking worldwide shock and cementing his legacy as a global martial arts icon."
+            },
+            {
+                "date": "26-07-1973",
+                "event": "Posthumous release of the landmark Hollywood-Hong Kong co-production martial arts film 'Enter the Dragon', which became a massive global blockbuster and revolutionized Asian representation in cinema."
+            },
+            {
+                "date": "1972",
+                "event": "Wrote, directed, and starred in 'The Way of the Dragon' (released in the US as 'Return of the Dragon'), featuring his legendary Colosseum fight scene with Chuck Norris."
+            },
+            {
+                "date": "1971",
+                "event": "Starred in 'The Big Boss' (released in the US as 'Fists of Fury'), which shattered box office records across Asia and catapulted him to superstar status."
+            },
+            {
+                "date": "19-04-1969",
+                "event": "His daughter, Shannon Emery Lee, was born."
+            },
+            {
+                "date": "1967",
+                "event": "Formally coined and defined his hybrid martial arts philosophy and system as 'Jeet Kune Do' (The Way of the Intercepting Fist)."
+            },
+            {
+                "date": "01-02-1965",
+                "event": "His son, Brandon Bruce Lee, was born."
+            },
+            {
+                "date": "09-09-1966",
+                "event": "Debuted as Kato in the American television series 'The Green Hornet', gaining mainstream American exposure."
+            },
+            {
+                "date": "17-08-1964",
+                "event": "Married his martial arts student Linda Emery in Seattle, Washington."
+            },
+            {
+                "date": "1964",
+                "event": "Stunned the martial arts community with his famous demonstrations of the 'one-inch punch' and two-finger push-ups at the International Karate Championships in Long Beach, California."
+            },
+            {
+                "date": "1963",
+                "event": "Opened his first commercial martial arts school, the Jun Fan Gung Fu Institute, in Seattle, Washington, after enrolling at the University of Washington to study philosophy."
+            },
+            {
+                "date": "1959",
+                "event": "Moved back to the United States, briefly living in San Francisco before settling in Seattle."
+            },
+            {
+                "date": "1958",
+                "event": "Won the Hong Kong Cha-Cha Championship, showcasing his exceptional proficiency as a competitive dancer."
+            },
+            {
+                "date": "1954",
+                "event": "Began intensive training in Wing Chun kung fu under legendary grandmaster Yip Man in Hong Kong."
+            },
+            {
+                "date": "1941",
+                "event": "Appeared in his first Hong Kong film as an infant child actor, beginning a prolific youth acting career spanning over 20 films."
+            },
+            {
+                "date": "27-11-1940",
+                "event": "Born as Lee Jun-fan in San Francisco's Chinatown during the hour and the year of the Dragon."
+            }
+        ]
     },
     "response": {
         "ascendant": {

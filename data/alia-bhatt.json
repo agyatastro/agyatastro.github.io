@@ -14,7 +14,89 @@
         "agyat_rating": "AA",
         "gender": "female",
         "about": "<p>Alia Bhatt (/ˈɑːliə ˈbʌt/; born 15 March 1993) is a British actress of Indian descent who predominantly works in Hindi films. Known for her portrayals of women in challenging circumstances, she has received several accolades, including a National Film Award and six Filmfare Awards. She is one of India's highest-paid actresses. Time awarded her with the Time100 Impact Award in 2022 and named her one of the 100 most influential people in the world in 2024.</p><p>Born into the Bhatt family, she is a daughter of filmmaker Mahesh Bhatt and actress Soni Razdan. After making her acting debut as a child in the 1999 thriller film Sangharsh, she played her first leading role in Karan Johar's teen film Student of the Year (2012). She won the Filmfare Critics Award for Best Actress for playing a kidnapping victim in the road drama Highway (2014) and went on to establish herself with starring roles in several romantic films produced by Johar's studio Dharma Productions.</p><p>Bhatt won Filmfare Awards for Best Actress for playing a victim of drug abuse in the crime drama Udta Punjab (2016), an undercover spy in the thriller Raazi (2018), a possessive girlfriend in the musical drama Gully Boy (2019), and the title role of a prostitute in the biopic Gangubai Kathiawadi (2022). The last of these also earned her the National Film Award for Best Actress. She expanded to film production with the black comedy Darlings (2022) and had her biggest commercial success in the fantasy film Brahmāstra: Part One – Shiva (2022) and the romantic comedy Rocky Aur Rani Kii Prem Kahaani (2023). The last of these earned her a record-tying fifth Best Actress award at Filmfare.</p><p>In addition to acting, Bhatt supports various charities and is an investor and prominent brand endorser. She founded an ecological initiative, CoExist, in 2017, a production company, Eternal Sunshine Productions, in 2019, and a sustainable clothing brand, Ed-a-Mamma, in 2022. Bhatt has sung eight of her film songs, including the single \"Samjhawan Unplugged\" in 2014. She is married to actor Ranbir Kapoor, with whom she has a daughter.</p>",
-        "related": ["kapoor-family", "bhatt-family", "actor"]
+        "related": ["kapoor-family", "bhatt-family", "actor"],
+        "events": [
+            {
+                "date": "03-07-2026",
+                "event": "Starred in 'Alpha', leading the first female-centric action film in the YRF Spy Universe"
+            },
+            {
+                "date": "06-05-2024",
+                "event": "Attended her second Met Gala wearing a custom Sabyasachi saree with a 23-foot train"
+            },
+            {
+                "date": "17-04-2024",
+                "event": "Named to Time magazine's 100 Most Influential People in the World list"
+            },
+            {
+                "date": "24-08-2023",
+                "event": "Won her first National Film Award for Best Actress for her performance in 'Gangubai Kathiawadi'"
+            },
+            {
+                "date": "11-08-2023",
+                "event": "Made her Hollywood debut in the action thriller 'Heart of Stone' alongside Gal Gadot"
+            },
+            {
+                "date": "01-05-2023",
+                "event": "Made her Met Gala debut wearing a pearl-embellished gown designed by Prabal Gurung"
+            },
+            {
+                "date": "06-11-2022",
+                "event": "Welcomed her first child, daughter Raha Kapoor, with husband Ranbir Kapoor"
+            },
+            {
+                "date": "09-09-2022",
+                "event": "Starred alongside Ranbir Kapoor in the fantasy blockbuster 'Brahmāstra: Part One – Shiva'"
+            },
+            {
+                "date": "05-08-2022",
+                "event": "Made her debut as a producer with 'Darlings', released under her banner Eternal Sunshine Productions"
+            },
+            {
+                "date": "14-04-2022",
+                "event": "Married actor Ranbir Kapoor in an intimate ceremony at their Vastu residence in Mumbai"
+            },
+            {
+                "date": "25-02-2022",
+                "event": "Starred in Sanjay Leela Bhansali's 'Gangubai Kathiawadi', achieving major international critical and commercial acclaim"
+            },
+            {
+                "date": "2020",
+                "event": "Founded Ed-a-Mamma, a sustainable clothing and lifestyle brand for children"
+            },
+            {
+                "date": "14-02-2019",
+                "event": "Starred in Zoya Akhtar's 'Gully Boy', winning her third Filmfare Award for Best Actress"
+            },
+            {
+                "date": "2019",
+                "event": "Established her film production company, Eternal Sunshine Productions"
+            },
+            {
+                "date": "11-05-2018",
+                "event": "Starred as an undercover spy in 'Raazi', winning her second Filmfare Award for Best Actress"
+            },
+            {
+                "date": "17-06-2016",
+                "event": "Starred in 'Udta Punjab', winning her first Filmfare Award for Best Actress"
+            },
+            {
+                "date": "21-02-2014",
+                "event": "Starred in Imtiaz Ali's 'Highway', winning the Filmfare Critics Award for Best Actress"
+            },
+            {
+                "date": "19-10-2012",
+                "event": "Made her adult acting debut in a lead role in Karan Johar's 'Student of the Year'"
+            },
+            {
+                "date": "03-09-1999",
+                "event": "Made her first screen appearance as a child artist in the thriller 'Sangharsh'"
+            },
+            {
+                "date": "15-03-1993",
+                "event": "Born to filmmaker Mahesh Bhatt and actress Soni Razdan in Mumbai, Maharashtra, India"
+            }
+        ]
     },
     "response": {
         "ascendant": {

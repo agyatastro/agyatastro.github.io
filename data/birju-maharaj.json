@@ -15,7 +15,61 @@
         "gender": "male",
         "dod": "17/01/2022",
         "related": ["dancer"],
-        "about": "<p>Pandit Birju Maharaj (born Brijmohan Nath Mishra; 4 February 1938 – 17 January 2022) was an Indian dancer, composer, singer, and exponent of the Lucknow \"Kalka-Bindadin\" Gharana of Kathak dance in India. He was a descendant of the Maharaj family of Kathak dancers, which includes his two uncles, Shambhu Maharaj and Lachhu Maharaj, and his father and guru, Acchan Maharaj. He also practised Hindustani classical music and was a vocalist. After working along with his uncle, Shambhu Maharaj at Bhartiya Kala Kendra, later the Kathak Kendra, New Delhi, he remained head of the latter, for several years, until his retirement in 1998 when he opened his own dance school, Kalashram, also in Delhi.</p><p>Birju Maharaj was a recipient of the Padma Vibhushan, India's second highest civilian honor, in 1986.</p>"
+        "about": "<p>Pandit Birju Maharaj (born Brijmohan Nath Mishra; 4 February 1938 – 17 January 2022) was an Indian dancer, composer, singer, and exponent of the Lucknow \"Kalka-Bindadin\" Gharana of Kathak dance in India. He was a descendant of the Maharaj family of Kathak dancers, which includes his two uncles, Shambhu Maharaj and Lachhu Maharaj, and his father and guru, Acchan Maharaj. He also practised Hindustani classical music and was a vocalist. After working along with his uncle, Shambhu Maharaj at Bhartiya Kala Kendra, later the Kathak Kendra, New Delhi, he remained head of the latter, for several years, until his retirement in 1998 when he opened his own dance school, Kalashram, also in Delhi.</p><p>Birju Maharaj was a recipient of the Padma Vibhushan, India's second highest civilian honor, in 1986.</p>",
+        "events": [
+            {
+                "date": "16-01-2022",
+                "event": "Passed away at his home in New Delhi at the age of 83."
+            },
+            {
+                "date": "15-01-2016",
+                "event": "Won the Filmfare Award for Best Choreography for the song 'Mohe Rang Do Laal' in 'Bajirao Mastani'."
+            },
+            {
+                "date": "03-05-2013",
+                "event": "Won the National Film Award for Best Choreography for the song 'Unnai Kaanadhu Naan' in Kamal Haasan's 'Vishwaroopam'."
+            },
+            {
+                "date": "2002",
+                "event": "Choreographed the acclaimed Kathak song 'Kaahe Chhed Mohe' performed by Madhuri Dixit in Sanjay Leela Bhansali's 'Devdas'."
+            },
+            {
+                "date": "1998",
+                "event": "Retired from Kathak Kendra as Director and founded his own dance academy, 'Kalashram', in New Delhi."
+            },
+            {
+                "date": "1987",
+                "event": "Awarded the Kalidas Samman by the Government of Madhya Pradesh for his distinguished contribution to classical dance."
+            },
+            {
+                "date": "1986",
+                "event": "Conferred with the Padma Vibhushan, India's second-highest civilian honor."
+            },
+            {
+                "date": "1977",
+                "event": "Composed the music and sang for two classical dance sequences in Satyajit Ray's film 'Shatranj Ke Khilari'."
+            },
+            {
+                "date": "1964",
+                "event": "Received the Sangeet Natak Akademi Award at the age of 28, becoming one of its youngest recipients."
+            },
+            {
+                "date": "1951",
+                "event": "Began his career as a dance teacher at Sangeet Bharati in New Delhi at the age of thirteen."
+            },
+            {
+                "date": "20-05-1947",
+                "event": "His father and main guru, Acchan Maharaj, passed away, after which his training was continued by his uncles Shambhu Maharaj and Lachhu Maharaj."
+            },
+            {
+                "date": "1945",
+                "event": "Gave his first major solo Kathak recital in West Bengal at the age of seven."
+            },
+            {
+                "date": "04-02-1938",
+                "event": "Born as Brijmohan Nath Mishra into the legendary Kalka-Bindadin gharana of Lucknow in Handia, Allahabad district, Uttar Pradesh."
+            }
+        ]
     },
     "response": {
         "ascendant": {

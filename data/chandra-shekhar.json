@@ -15,7 +15,61 @@
         "gender": "male",
         "related": ["politician", "prime-minister"],
         "about": "<p>Chandra Shekhar (17 April 1927 – 8 July 2007), also known as Jananayak, was an Indian politician and the prime minister of India, between 10 November 1990 and 21 June 1991. He headed a minority government of a breakaway faction of the Janata Dal with outside support from the Indian National Congress. He was the first Indian Prime Minister who had never held any prior government office.</p><p>His government was formed with the fewest party MPs in the Lok Sabha. His government could not pass the budget at a crucial time when Moody's had downgraded India, after Shekhar's government was unable to pass the budget, global credit-rating agencies further downgraded India from investment grade, making it impossible to even get short-term loans, and in no position to give any commitment to reform, the World Bank and IMF stopped their assistance. Shekhar had to authorise mortgaging of gold to avoid default of payment, and this action came in for particular criticism, as it was done secretly in the midst of the election. The 1991 Indian economic crisis and the assassination of Rajiv Gandhi plunged his government into crisis. Granting the permission for US military planes to refuel in Indian airports during the Gulf War improved the Prime Minister's image with the West</p>",
-        "advanced": "cancer, death by illness"
+        "advanced": "cancer, death by illness",
+        "events": [
+            {
+                "date": "08-07-2007",
+                "event": "Passed away in New Delhi at the age of 80 following a prolonged battle with multiple myeloma (cancer)."
+            },
+            {
+                "date": "2004",
+                "event": "Elected to the 14th Lok Sabha from Ballia for his final term, extending his decades-long parliamentary tenure."
+            },
+            {
+                "date": "21-06-1991",
+                "event": "Stepped down from office as Prime Minister after serving a brief caretaker tenure following his formal resignation in March."
+            },
+            {
+                "date": "06-03-1991",
+                "event": "Resigned as Prime Minister after Rajiv Gandhi's Congress (I) party withdrew its outside parliamentary support over police surveillance controversy."
+            },
+            {
+                "date": "10-11-1990",
+                "event": "Sworn in as the 8th Prime Minister of India, heading a fragile minority government under the Samajwadi Janata Party with outside support from the Congress."
+            },
+            {
+                "date": "05-11-1990",
+                "event": "Broke away from the Janata Dal party along with a faction of loyal MPs following an intense leadership fallout with V.P. Singh."
+            },
+            {
+                "date": "06-01-1983",
+                "event": "Completed a legendary 4,260-kilometer nationwide 'Bharat Yatra' (padayatra) on foot from Kanyakumari to Rajghat in New Delhi to connect with rural grassroots realities."
+            },
+            {
+                "date": "1977",
+                "event": "Elected president of the newly formed Janata Party, steering the coalition that swept power under Morarji Desai."
+            },
+            {
+                "date": "25-06-1975",
+                "event": "Arrested and imprisoned under the Maintenance of Internal Security Act (MISA) during the national Emergency declared by Prime Minister Indira Gandhi, despite being a prominent working committee member of the ruling Congress party."
+            },
+            {
+                "date": "1969",
+                "event": "Founded and began editing the influential weekly political journal 'Young Indian', cementing his reputation as a fearless critic of political corruption and monopoly capital."
+            },
+            {
+                "date": "1964",
+                "event": "Joined the ruling Indian National Congress party, where he quickly emerged as a prominent voice of the radical 'Young Turks' faction pushing for socialist reforms like bank nationalization."
+            },
+            {
+                "date": "03-04-1962",
+                "event": "Began his parliamentary career by entering the Rajya Sabha (Upper House) from Uttar Pradesh as an independent/socialist-leaning legislator."
+            },
+            {
+                "date": "17-04-1927",
+                "event": "Born as Chandra Shekhar Singh into a farming family in the village of Ibrahimpatti, Ballia district, Uttar Pradesh, British India."
+            }
+        ]
     },
     "response": {
         "ascendant": {

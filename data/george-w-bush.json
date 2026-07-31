@@ -13,8 +13,61 @@
         "location": "New Haven, Connecticut",
         "agyat_rating": "AA",
         "gender": "male",
-        "related": ["politician", "president"],
-        "about": "<p>George Walker Bush (born July 6, 1946) is an American politician and businessman who was the 43rd president of the United States from 2001 to 2009. A member of the Bush family and the Republican Party, he is the eldest son of the 41st president, George H. W. Bush, and was the 46th governor of Texas from 1995 to 2000.</p><p>Bush flew warplanes in the Texas Air National Guard in his twenties. After graduating from Harvard Business School in 1975, he worked in the oil industry. He later co-owned the Major League Baseball team Texas Rangers before being elected governor of Texas in 1994. As governor, Bush successfully sponsored legislation for tort reform, increased education funding, set higher standards for schools, and reformed the criminal justice system. He also helped make Texas the leading producer of wind-generated electricity in the United States. In the 2000 presidential election, he won over Democratic incumbent vice president Al Gore, while losing the popular vote after a narrow and contested Electoral College win, which involved a Supreme Court decision to stop a recount in Florida.</p><p>In his first term, Bush signed a major tax-cut program and an education-reform bill, the No Child Left Behind Act. He pushed for socially conservative efforts such as the Partial-Birth Abortion Ban Act and faith-based initiatives. He also initiated the President's Emergency Plan for AIDS Relief, in 2003, to address the AIDS epidemic. The terrorist attacks on September 11, 2001 decisively reshaped his administration, resulting in the start of the war on terror and the creation of the Department of Homeland Security. Bush ordered the invasion of Afghanistan in an effort to overthrow the Taliban, destroy al-Qaeda, and capture Osama bin Laden. He signed the Patriot Act to authorize surveillance of suspected terrorists. He also ordered the 2003 invasion of Iraq to overthrow Saddam Hussein's regime on the false belief that it possessed weapons of mass destruction (WMDs) and had ties with al-Qaeda. Bush later signed the Medicare Modernization Act, which created Medicare Part D. In 2004, Bush was re-elected president in a close race, beating Democratic opponent John Kerry and winning the popular vote.</p><p>During his second term, Bush made various free trade agreements, appointed John Roberts and Samuel Alito to the Supreme Court, and sought major changes to Social Security and immigration laws, but both efforts failed in Congress. Bush was widely criticized for his administration's handling of Hurricane Katrina and revelations of torture against detainees at Abu Ghraib. Amid his unpopularity, the Democrats regained control of Congress in the 2006 elections. Meanwhile, the Afghanistan and Iraq wars continued; in January 2007, Bush launched a surge of troops in Iraq. By December, the U.S. entered the Great Recession, prompting the Bush administration and Congress to push through economic programs intended to preserve the country's financial system, including the Troubled Asset Relief Program.</p><p>After his second term, Bush returned to Texas, where he has maintained a low public profile. At various points in his presidency, he was among both the most popular and the most unpopular presidents in U.S. history. He received the highest recorded approval ratings in the wake of the September 11 attacks, and one of the lowest ratings during the 2008 financial crisis. Bush left office as one of the most unpopular U.S. presidents, but public opinion of him has improved since then. Scholars and historians rank Bush in the lower half of presidents.</p>"
+        "related": [
+            "politician",
+            "president"
+        ],
+        "about": "<p>George Walker Bush (born July 6, 1946) is an American politician and businessman who was the 43rd president of the United States from 2001 to 2009. A member of the Bush family and the Republican Party, he is the eldest son of the 41st president, George H. W. Bush, and was the 46th governor of Texas from 1995 to 2000.</p><p>Bush flew warplanes in the Texas Air National Guard in his twenties. After graduating from Harvard Business School in 1975, he worked in the oil industry. He later co-owned the Major League Baseball team Texas Rangers before being elected governor of Texas in 1994. As governor, Bush successfully sponsored legislation for tort reform, increased education funding, set higher standards for schools, and reformed the criminal justice system. He also helped make Texas the leading producer of wind-generated electricity in the United States. In the 2000 presidential election, he won over Democratic incumbent vice president Al Gore, while losing the popular vote after a narrow and contested Electoral College win, which involved a Supreme Court decision to stop a recount in Florida.</p><p>In his first term, Bush signed a major tax-cut program and an education-reform bill, the No Child Left Behind Act. He pushed for socially conservative efforts such as the Partial-Birth Abortion Ban Act and faith-based initiatives. He also initiated the President's Emergency Plan for AIDS Relief, in 2003, to address the AIDS epidemic. The terrorist attacks on September 11, 2001 decisively reshaped his administration, resulting in the start of the war on terror and the creation of the Department of Homeland Security. Bush ordered the invasion of Afghanistan in an effort to overthrow the Taliban, destroy al-Qaeda, and capture Osama bin Laden. He signed the Patriot Act to authorize surveillance of suspected terrorists. He also ordered the 2003 invasion of Iraq to overthrow Saddam Hussein's regime on the false belief that it possessed weapons of mass destruction (WMDs) and had ties with al-Qaeda. Bush later signed the Medicare Modernization Act, which created Medicare Part D. In 2004, Bush was re-elected president in a close race, beating Democratic opponent John Kerry and winning the popular vote.</p><p>During his second term, Bush made various free trade agreements, appointed John Roberts and Samuel Alito to the Supreme Court, and sought major changes to Social Security and immigration laws, but both efforts failed in Congress. Bush was widely criticized for his administration's handling of Hurricane Katrina and revelations of torture against detainees at Abu Ghraib. Amid his unpopularity, the Democrats regained control of Congress in the 2006 elections. Meanwhile, the Afghanistan and Iraq wars continued; in January 2007, Bush launched a surge of troops in Iraq. By December, the U.S. entered the Great Recession, prompting the Bush administration and Congress to push through economic programs intended to preserve the country's financial system, including the Troubled Asset Relief Program.</p><p>After his second term, Bush returned to Texas, where he has maintained a low public profile. At various points in his presidency, he was among both the most popular and the most unpopular presidents in U.S. history. He received the highest recorded approval ratings in the wake of the September 11 attacks, and one of the lowest ratings during the 2008 financial crisis. Bush left office as one of the most unpopular U.S. presidents, but public opinion of him has improved since then. Scholars and historians rank Bush in the lower half of presidents.</p>",
+        "events": [
+            {
+                "date": "20-01-2009",
+                "event": "Completed his second and final term as the 43rd President of the United States, leaving office amidst deep public unpopularity driven by the ongoing wars in Iraq and Afghanistan and the 2008 global financial crisis."
+            },
+            {
+                "date": "2008",
+                "event": "Faced severe economic controversy and criticism during the outbreak of the 2008 global financial crisis, signing the $700 billion Troubled Asset Relief Program (TARP) bailout package to stabilize the banking system."
+            },
+            {
+                "date": "August 2005",
+                "event": "Faced intense national controversy and heavy criticism for his administration's sluggish and inadequate federal response to Hurricane Katrina, which devastated the Gulf Coast."
+            },
+            {
+                "date": "2004",
+                "event": "Faced renewed political controversy and public scrutiny over his past Texas Air National Guard service record during his successful re-election campaign against Democratic challenger John Kerry."
+            },
+            {
+                "date": "2003",
+                "event": "Ordered the invasion of Iraq, launching the Iraq War based on erroneous intelligence claims that Saddam Hussein possessed weapons of mass destruction (WMDs) and maintained ties with al-Qaeda, leading to a massive international controversy when no WMDs were found."
+            },
+            {
+                "date": "11-09-2001",
+                "event": "Presided over the United States during the September 11 terrorist attacks orchestrated by al-Qaeda, which resulted in nearly 3,000 deaths and prompted the launch of the 'War on Terror'."
+            },
+            {
+                "date": "20-01-2001",
+                "event": "Inaugurated as the 43rd President of the United States after winning the highly contested and controversial 2000 presidential election against Al Gore, which was decided by the Supreme Court halting the Florida recount."
+            },
+            {
+                "date": "25-11-1981",
+                "event": "Welcomed the birth of his twin daughters, Barbara and Jenna Bush, with his wife Laura Bush."
+            },
+            {
+                "date": "1986",
+                "event": "Underwent a major personal lifestyle change by completely giving up alcohol after experiencing a spiritual awakening and developing a stronger Christian faith following his 40th birthday."
+            },
+            {
+                "date": "04-09-1976",
+                "event": "Arrested for driving under the influence (DUI) of alcohol near his family's home in Kennebunkport, Maine, a past legal infraction that became a major controversy when it leaked just days before the 2000 presidential election."
+            },
+            {
+                "date": "05-11-1977",
+                "event": "Married Laura Welch in Midland, Texas."
+            },
+            {
+                "date": "06-07-1946",
+                "event": "Born as George Walker Bush in New Haven, Connecticut, to future U.S. President George H.W. Bush and Barbara Bush."
+            }
+        ]
     },
     "response": {
         "ascendant": {

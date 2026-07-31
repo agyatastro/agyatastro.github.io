@@ -14,7 +14,36 @@
         "gender": "female",
         "agyat_rating": "AA",
         "about": "<p>Isha M. Ambani is part of the executive leadership teams at Reliance Retail, Reliance Jio, Reliance Foundation, Reliance Foundation Institution of Education and Research, and Dhirubhai Ambani International School. She is on the Advisory Board of the Yale Schwarzman Center, and on the Board of Trustees of the Smithsonian’s National Museum of Asian Art, the Dia Art Foundation, LACMA, the International Volleyball Federation.</p><p>Isha M. Ambani played a pivotal role in conceptualizing and launching Reliance’s digital services business, Jio, in India in 2016. A game-changer in the Indian telecom landscape, with over 425 million subscribers, Jio is currently India’s no. 1 digital service provider and amongst the largest in the world.</p><p>Isha M. Ambani spearheads Reliance Retail, which is India’s largest retailer by revenue, profit, reach, and scale with presence in grocery, consumer electronics and fashion retail. She is driving the expansion of Reliance Retail into new categories, geographies and formats and is focused on enhancing the overall customer experience. She has led the expansion of the digital footprint for Reliance Retail and launched new formats such as the eCommerce business Ajio, and the online beauty platform Tira. She has been instrumental in expansion of Reliance Retail’s own brand portfolio including acquisition of some exciting Indian brands and launch of the Independence brand. Under her leadership, Reliance Retail is among the Top-10 Retailers in Asia and the only Indian retailer in the list of global top 100 retailers.</p>",
-        "related": ["ambani-family", "businessperson"]
+        "related": [
+            "ambani-family",
+            "businessperson"
+        ],
+        "events": [
+            {
+                "date": "2025",
+                "event": "Honored with the Newsmaker of the Year Award for her influential role in driving growth and strategic expansions in Indian retail and business."
+            },
+            {
+                "date": "2024",
+                "event": "Conferred with Lokmat's Indian Businesswoman Award and the Harper's Bazaar Icon of the Year Award in recognition of her corporate leadership."
+            },
+            {
+                "date": "19-11-2022",
+                "event": "Welcomed the birth of her daughter, Aadiya Shakti Piramal, with her husband Anand Piramal."
+            },
+            {
+                "date": "19-11-2022",
+                "event": "Welcomed the birth of her son, Krishna Piramal, with her husband Anand Piramal."
+            },
+            {
+                "date": "12-12-2018",
+                "event": "Married corporate executive and Piramal Group scion Anand Piramal in a high-profile wedding ceremony held in Mumbai, attended by global leaders and celebrities."
+            },
+            {
+                "date": "23-10-1991",
+                "event": "Born as Isha Ambani in Mumbai, Maharashtra, India, to billionaire industrialist Mukesh Ambani and philanthropist Nita Ambani."
+            }
+        ]
     },
     "response": {
         "ascendant": {

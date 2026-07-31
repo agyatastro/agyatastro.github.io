@@ -15,8 +15,49 @@
         "gender": "male",
         "dod": "29/11/1993",
         "about": "<p>Jehangir Ratanji Dadabhoy Tata (29 July 1904 – 29 November 1993) was a French born Indian industrialist, philanthropist, aviator and former chairman of Tata Group.</p><p>Born into the Tata family of India, he was the son of noted businessman Ratanji Dadabhoy Tata and his wife Suzanne Brière. He is best known for being the founder of several industries under the Tata Group, including Tata Consultancy Services, Tata Motors, Titan Industries, Tata Salt, Voltas and Air India. In 1982, he was awarded the French Legion of Honour and in 1955 and 1992, he received two of India's highest civilian awards: the Padma Vibhushan and the Bharat Ratna. These honours were bestowed on him for his contributions to Indian industry.</p>",
-        "related": ["tata-family", "businessperson"],
-        "advanced": "death by illness, kidney infection"
+        "related": [
+            "tata-family",
+            "businessperson"
+        ],
+        "advanced": "death by illness, kidney infection",
+        "events": [
+            {
+                "date": "29-11-1993",
+                "event": "Passed away at the age of 89 in Geneva, Switzerland, due to a severe chest infection."
+            },
+            {
+                "date": "1992",
+                "event": "Conferred with the Bharat Ratna, India's highest civilian award, by the Government of India in recognition of his monumental contributions to Indian industry and society."
+            },
+            {
+                "date": "1983",
+                "event": "Awarded the prestigious French Legion of Honour (Légion d'honneur) by the French government."
+            },
+            {
+                "date": "1948",
+                "event": "Founded Air-India as an international carrier in collaboration with the Government of India, pioneering commercial aviation in the country."
+            },
+            {
+                "date": "1938",
+                "event": "Elected as the Chairman of Tata Sons at the young age of 34, becoming the head of India's largest industrial conglomerate."
+            },
+            {
+                "date": "1932",
+                "event": "Founded Tata Aviation Service (which later became Tata Airlines and subsequently Air-India), personally piloting the historic first inaugural mail flight from Karachi to Bombay."
+            },
+            {
+                "date": "1930",
+                "event": "Became the first person in India to obtain a commercial pilot's license, successfully completing his flight training."
+            },
+            {
+                "date": "1929",
+                "event": "Married Thelma Vicaji in a ceremony in France."
+            },
+            {
+                "date": "29-07-1904",
+                "event": "Born as Jehangir Ratanji Dadabhoy Tata in Paris, France, to businessman Ratanji Dadabhoy Tata and French-born Suzanne Brière Tata."
+            }
+        ]
     },
     "response": {
         "ascendant": {

@@ -13,8 +13,52 @@
         "location": "New York, United States",
         "agyat_rating": "AA",
         "gender": "female",
-        "related": ["actor"],
-        "about": "<p>Jennifer Lynn Lopez (born July 24, 1969), also known by her nickname J.Lo, is an American singer, songwriter, actress, dancer and businesswoman. Lopez is regarded as one of the most influential Latin entertainers of her time, credited with breaking barriers for Latino Americans in Hollywood and helping propel the Latin pop movement in music. She is also noted for her impact on popular culture through fashion, branding, and shifting mainstream beauty standards.</p><p> Lopez began her career as a dancer, making her television debut as a Fly Girl on the sketch comedy series In Living Color in 1991. She rose to fame as an actress, starring as singer Selena in the film of the same name (1997), and established herself as the highest-paid Latin actress, with leading roles in Anaconda (1997) and Out of Sight (1998). Lopez successfully ventured into the music industry with her debut album, On the 6 (1999). In 2001, she became the first woman to simultaneously have a number-one album and film in the United States, with her second album, J.Lo, and the romantic comedy The Wedding Planner. She has since become known for starring in romantic comedies, including Maid in Manhattan (2002), Shall We Dance? (2004), and Monster-in-Law (2005). Lopez released two albums in 2002: J to tha L–O! The Remixes and This Is Me... Then, the former becoming the first remix album to top the US Billboard 200. </p><p> Media scrutiny and the failure of her film Gigli (2003) preceded a career downturn. Her subsequent albums included Rebirth (2005) and Como Ama una Mujer (2007); the latter broke first-week sales records for a debut Spanish album. Lopez returned to prominence as a judge on American Idol (2011–2016) and with the album Love? (2011); she has remained musically active since. Throughout the 2010s, she voiced Shira in the animated Ice Age franchise (2012–2016), starred in the police drama series Shades of Blue (2016–2018), and served as a judge on World of Dance (2017–2020). In 2019, she garnered critical praise for her performance in the crime drama Hustlers. Lopez continued her acting career, with leading roles in the films Marry Me (2022), The Mother (2023), This Is Me... Now: A Love Story, Atlas (both 2024), and Kiss of the Spider Woman (2025). With over 80 million records sold worldwide, Lopez has earned four US Billboard Hot 100 number-one singles and two Billboard 200 number-one albums. Her accolades include a star on the Hollywood Walk of Fame, the Billboard Icon Award, three American Music Awards, four MTV Video Music Awards (including the Michael Jackson Video Vanguard Award), and six Guinness World Records. She has been ranked among the 100 most influential people in the world by Time (2016) and the World's 100 Most Powerful Women by Forbes (2012). Lopez has a large social media following, being one of the most-followed individuals on Instagram. Her other ventures include a lifestyle brand, beauty and fashion lines, fragrances, a production company, and a charitable foundation.</p>"
+        "related": [
+            "actor"
+        ],
+        "about": "<p>Jennifer Lynn Lopez (born July 24, 1969), also known by her nickname J.Lo, is an American singer, songwriter, actress, dancer and businesswoman. Lopez is regarded as one of the most influential Latin entertainers of her time, credited with breaking barriers for Latino Americans in Hollywood and helping propel the Latin pop movement in music. She is also noted for her impact on popular culture through fashion, branding, and shifting mainstream beauty standards.</p><p> Lopez began her career as a dancer, making her television debut as a Fly Girl on the sketch comedy series In Living Color in 1991. She rose to fame as an actress, starring as singer Selena in the film of the same name (1997), and established herself as the highest-paid Latin actress, with leading roles in Anaconda (1997) and Out of Sight (1998). Lopez successfully ventured into the music industry with her debut album, On the 6 (1999). In 2001, she became the first woman to simultaneously have a number-one album and film in the United States, with her second album, J.Lo, and the romantic comedy The Wedding Planner. She has since become known for starring in romantic comedies, including Maid in Manhattan (2002), Shall We Dance? (2004), and Monster-in-Law (2005). Lopez released two albums in 2002: J to tha L–O! The Remixes and This Is Me... Then, the former becoming the first remix album to top the US Billboard 200. </p><p> Media scrutiny and the failure of her film Gigli (2003) preceded a career downturn. Her subsequent albums included Rebirth (2005) and Como Ama una Mujer (2007); the latter broke first-week sales records for a debut Spanish album. Lopez returned to prominence as a judge on American Idol (2011–2016) and with the album Love? (2011); she has remained musically active since. Throughout the 2010s, she voiced Shira in the animated Ice Age franchise (2012–2016), starred in the police drama series Shades of Blue (2016–2018), and served as a judge on World of Dance (2017–2020). In 2019, she garnered critical praise for her performance in the crime drama Hustlers. Lopez continued her acting career, with leading roles in the films Marry Me (2022), The Mother (2023), This Is Me... Now: A Love Story, Atlas (both 2024), and Kiss of the Spider Woman (2025). With over 80 million records sold worldwide, Lopez has earned four US Billboard Hot 100 number-one singles and two Billboard 200 number-one albums. Her accolades include a star on the Hollywood Walk of Fame, the Billboard Icon Award, three American Music Awards, four MTV Video Music Awards (including the Michael Jackson Video Vanguard Award), and six Guinness World Records. She has been ranked among the 100 most influential people in the world by Time (2016) and the World's 100 Most Powerful Women by Forbes (2012). Lopez has a large social media following, being one of the most-followed individuals on Instagram. Her other ventures include a lifestyle brand, beauty and fashion lines, fragrances, a production company, and a charitable foundation.</p>",
+        "events": [
+            {
+                "date": "20-08-2024",
+                "event": "Filed for divorce from her fourth husband, actor Ben Affleck, in Los Angeles Superior Court, citing irreconcilable differences."
+            },
+            {
+                "date": "16-07-2022",
+                "event": "Married her fourth husband, actor Ben Affleck, in a surprise intimate ceremony in Las Vegas, Nevada."
+            },
+            {
+                "date": "2020",
+                "event": "Headlined the Super Bowl LIV halftime show alongside Shakira, delivering a critically acclaimed performance."
+            },
+            {
+                "date": "22-02-2008",
+                "event": "Welcomed the birth of her twins, Max and Emme Muñiz, with her then-husband Marc Anthony."
+            },
+            {
+                "date": "05-06-2004",
+                "event": "Married her third husband, singer Marc Anthony, in a private ceremony in her home in Beverly Hills."
+            },
+            {
+                "date": "29-09-2001",
+                "event": "Married her second husband, dancer Cris Judd, in a ceremony in Los Angeles (ending in separation and divorce the following year)."
+            },
+            {
+                "date": "1997",
+                "event": "Achieved international superstardom and critical acclaim starring in the biographical musical drama film 'Selena', earning a Golden Globe nomination."
+            },
+            {
+                "date": "22-02-1997",
+                "event": "Married her first husband, waiter Ojani Noa, in a brief marriage that ended in divorce in January 1998."
+            },
+            {
+                "date": "1991",
+                "event": "Began her professional entertainment career as a 'Fly Girl' dancer on the television comedy series 'In Living Color'."
+            },
+            {
+                "date": "24-07-1969",
+                "event": "Born as Jennifer Lynn Lopez in the Bronx, New York City, to David Lopez and Guadalupe Rodríguez."
+            }
+        ]
     },
     "response": {
         "ascendant": {

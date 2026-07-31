@@ -15,7 +15,65 @@
         "gender": "female",
         "advanced": "prolonged career",
         "about": "<p>Hema Malini Dharmendra Deol (born 16 October 1948; Hindi pronunciation: [ɦeːmaː maːlɪn̪iː d̪ʱəɾmeːn̪d̪ɾə d̪eːoːl]) is an Indian actress, director, producer, and politician who is currently serving as a member of the Lok Sabha from the Bharatiya Janata Party (BJP), representing Mathura constituency since 2014. She was a member of the Rajya Sabha from Karnataka from 2011 to 2012, subsequent to her nomination to that chamber from 2003 to 2009 as a member of the BJP. Primarily known for her work in Hindi films, she has starred in both comic and dramatic roles, and is one of the most popular and successful leading actresses of mainstream Hindi cinema.</p><p> Malini made her acting debut in 1963 with the Tamil film Idhu Sathiyam. Malini first acted in a lead role in Sapno Ka Saudagar (1968), and went on to feature in numerous Hindi films, frequently opposite Dharmendra, whom she married in 1980. Malini was initially promoted as the \"Dream Girl\", and in 1977 starred in a film of the same name. She won the Filmfare Award for Best Actress for her dual role in the comedy Seeta Aur Geeta (1972), and was nominated ten more times leading up to Baghban (2003). In 2000, Malini won the Filmfare Lifetime Achievement Award and in 2019 a Filmfare Special Award for 50 Years of Outstanding Contribution to Cinema. </p><p> Malini was honoured with the Padma Shri in 2000, the fourth-highest civilian honour awarded by the Government of India. In 2012, the Sir Padampat Singhania University conferred an honorary doctorate on Malini in recognition of her contribution to Indian cinema. Malini served as chairperson of the National Film Development Corporation. In 2006, Malini received the Sopori Academy of Music And Performing Arts (SaMaPa) Vitasta award from Bhajan Sopori in Delhi for her contribution and service to Indian culture and dance. In 2013, she received the NTR National Award from the Government of Andhra Pradesh for her contribution to Indian cinema. Malini has been involved with charitable and social ventures. Currently, Malini is also a life member of the International Society for Krishna Consciousness (ISKCON).</p>",
-        "related": ["deol-family", "actor", "politician"]
+        "related": [
+            "deol-family",
+            "actor",
+            "politician"
+        ],
+        "events": [
+            {
+                "date": "24-11-2025",
+                "event": "Experienced the profound personal loss of her husband, veteran actor Dharmendra, who passed away at the age of 89 following a brief period of illness."
+            },
+            {
+                "date": "2024",
+                "event": "Elected as a Member of Parliament in the 18th Lok Sabha representing the Mathura constituency under the Bharatiya Janata Party (BJP)."
+            },
+            {
+                "date": "2019",
+                "event": "Elected as a Member of Parliament in the 17th Lok Sabha representing the Mathura constituency for a consecutive term."
+            },
+            {
+                "date": "02-07-2015",
+                "event": "Faced intense national controversy and public backlash after her Mercedes-Benz collided with another vehicle in Dausa, Rajasthan, resulting in the tragic death of a young child, amidst criticism over her reaction and comments following the accident."
+            },
+            {
+                "date": "2014",
+                "event": "Elected to the Lok Sabha for the first time representing the Mathura constituency under the Bharatiya Janata Party (BJP)."
+            },
+            {
+                "date": "2011",
+                "event": "Elected as a Member of Parliament to the Rajya Sabha representing the state of Karnataka, and named 'PETA Person of the Year' for her animal rights activism."
+            },
+            {
+                "date": "2004",
+                "event": "Officially joined the Bharatiya Janata Party (BJP) and began her active political journey, following her initial appointment as a nominated member of the Rajya Sabha."
+            },
+            {
+                "date": "02-11-1985",
+                "event": "Welcomed the birth of her second daughter, Ahana Deol, with her husband Dharmendra."
+            },
+            {
+                "date": "02-11-1981",
+                "event": "Welcomed the birth of her first daughter, Esha Deol, with her husband Dharmendra."
+            },
+            {
+                "date": "02-05-1980",
+                "event": "Married veteran Bollywood actor Dharmendra in a high-profile ceremony that drew widespread public attention and controversy due to his existing marriage."
+            },
+            {
+                "date": "1972",
+                "event": "Won the prestigious Filmfare Award for Best Actress for her iconic dual role in the comedy-drama film 'Seeta Aur Geeta'."
+            },
+            {
+                "date": "1968",
+                "event": "Made her major Bollywood leading film debut opposite Raj Kapoor in 'Sapno Ka Saudagar', where she was famously promoted as the 'Dream Girl'."
+            },
+            {
+                "date": "16-10-1948",
+                "event": "Born as Hema Malini Chakravarthy in Ammankudi, Madras Province, British India (now Tamil Nadu), to V.S. Ramanujam Chakravarthy and Jaya Lakshmi Chakravarthy."
+            }
+        ]
     },
     "response": {
         "ascendant": {

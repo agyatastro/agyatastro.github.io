@@ -13,8 +13,49 @@
         "location": "Los Angeles",
         "agyat_rating": "AA",
         "gender": "female",
-        "related": ["actor", "model"],
-        "about": "<p>Jelena Noura \"Gigi\" Hadid (/ˈdʒiːdʒi həˈdiːd/ JEE-jee hə-DEED; born April 23, 1995) is an American fashion model and television personality. In 2016, she was named International Model of the Year by the British Fashion Council. Throughout her career, Hadid has made at least 50 appearances in international Vogue. Models.com ranks her as one of the \"New Supers.\" Since 2017, Hadid has been one of the highest-paid models in the world, earning $20 million.</p><p>Born in Los Angeles, she began her career as a child model for Baby Guess. She signed to IMG Models in 2013 and made her New York Fashion Week debut the next year. Hadid has appeared in numerous high fashion campaigns and editorials, and is a spokesmodel for Maybelline.</p>"
+        "related": [
+            "actor",
+            "model"
+        ],
+        "about": "<p>Jelena Noura \"Gigi\" Hadid (/ˈdʒiːdʒi həˈdiːd/ JEE-jee hə-DEED; born April 23, 1995) is an American fashion model and television personality. In 2016, she was named International Model of the Year by the British Fashion Council. Throughout her career, Hadid has made at least 50 appearances in international Vogue. Models.com ranks her as one of the \"New Supers.\" Since 2017, Hadid has been one of the highest-paid models in the world, earning $20 million.</p><p>Born in Los Angeles, she began her career as a child model for Baby Guess. She signed to IMG Models in 2013 and made her New York Fashion Week debut the next year. Hadid has appeared in numerous high fashion campaigns and editorials, and is a spokesmodel for Maybelline.</p>",
+        "events": [
+            {
+                "date": "2026",
+                "event": "Faced unexpected public controversy and media attention when her name surfaced in newly released Justice Department documents relating to Jeffrey Epstein, prompting her to publicly and strongly deny ever meeting or having any association with him."
+            },
+            {
+                "date": "November 2023",
+                "event": "Faced intense online controversy and criticism following a social media post regarding the Israeli-Palestinian conflict, after which she acknowledged that she had failed to properly fact-check the shared content."
+            },
+            {
+                "date": "September 2022",
+                "event": "Launched her first solo luxury cashmere clothing line as founder and creative director, titled 'Guest in Residence'."
+            },
+            {
+                "date": "October 2021",
+                "event": "Split from her long-term partner Zayn Malik following an alleged domestic dispute and altercation involving her mother Yolanda Hadid, which resulted in harassment charges filed against Malik."
+            },
+            {
+                "date": "19-09-2020",
+                "event": "Welcomed the birth of her first child, a daughter named Khai, with her then-partner Zayn Malik."
+            },
+            {
+                "date": "20-11-2016",
+                "event": "Faced widespread public backlash and accusations of racism after hosting the American Music Awards and performing an impersonation of Melania Trump, for which she later issued a formal apology."
+            },
+            {
+                "date": "2013",
+                "event": "Signed with IMG Models and subsequently relocated to New York City to pursue high-fashion modeling professionally."
+            },
+            {
+                "date": "1997",
+                "event": "Began her early modeling career as a toddler, appearing in an advertising campaign for Baby Guess after being discovered by Paul Marciano."
+            },
+            {
+                "date": "23-04-1995",
+                "event": "Born as Jelena Noura Hadid in Los Angeles, California, to real estate developer Mohamed Hadid and former model Yolanda Hadid."
+            }
+        ]
     },
     "response": {
         "ascendant": {

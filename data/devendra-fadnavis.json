@@ -13,8 +13,41 @@
         "location": "Nagpur, Maharashtra",
         "agyat_rating": "AA",
         "gender": "male",
-        "related": ["politician", "chief-minister"],
-        "about": "<p>Devendra Gangadharrao Fadnavis (born 22 July 1970) is an Indian politician who is currently serving as the Chief Minister of Maharashtra since 5 December 2024 with Eknath Shinde and Ajit Pawar as his deputies, and previously held this position for two terms from 2014 to 2019. He previously served as the Deputy Chief Minister of Maharashtra, alongside Ajit Pawar in the Eknath Shinde government. Besides this, from 2019 to 2022, he served as the Leader of the Opposition in the Maharashtra Legislative Assembly. He was the President of BJP's Maharashtra state unit from 2013 to 2015. He became Chief Minister at the age of 44, making him the second-youngest in Maharashtra's history after Sharad Pawar.</p><p>During the 2019 Maharashtra political crisis, he briefly held a second term as Chief Minister for 5 days before resigning on 28 November 2019. Fadnavis has been a member of the Bharatiya Janata Party (BJP) and the Rashtriya Swayamsevak Sangh (RSS), he has represented the Nagpur South West constituency in the Maharashtra Legislative Assembly since 2009, having previously served Nagpur West from 1999 to 2009. Additionally, he held the position of Mayor of Nagpur from 1997 to 1999.</p>"
+        "related": [
+            "politician",
+            "chief-minister"
+        ],
+        "about": "<p>Devendra Gangadharrao Fadnavis (born 22 July 1970) is an Indian politician who is currently serving as the Chief Minister of Maharashtra since 5 December 2024 with Eknath Shinde and Ajit Pawar as his deputies, and previously held this position for two terms from 2014 to 2019. He previously served as the Deputy Chief Minister of Maharashtra, alongside Ajit Pawar in the Eknath Shinde government. Besides this, from 2019 to 2022, he served as the Leader of the Opposition in the Maharashtra Legislative Assembly. He was the President of BJP's Maharashtra state unit from 2013 to 2015. He became Chief Minister at the age of 44, making him the second-youngest in Maharashtra's history after Sharad Pawar.</p><p>During the 2019 Maharashtra political crisis, he briefly held a second term as Chief Minister for 5 days before resigning on 28 November 2019. Fadnavis has been a member of the Bharatiya Janata Party (BJP) and the Rashtriya Swayamsevak Sangh (RSS), he has represented the Nagpur South West constituency in the Maharashtra Legislative Assembly since 2009, having previously served Nagpur West from 1999 to 2009. Additionally, he held the position of Mayor of Nagpur from 1997 to 1999.</p>",
+        "events": [
+            {
+                "date": "05-12-2024",
+                "event": "Sworn in for his third term as the 18th Chief Minister of Maharashtra following the Mahayuti alliance's victory in the assembly elections."
+            },
+            {
+                "date": "30-06-2022",
+                "event": "Assumed office as the 9th Deputy Chief Minister of Maharashtra in the government led by Eknath Shinde."
+            },
+            {
+                "date": "2019",
+                "event": "Served as the Leader of the Opposition in the Maharashtra Legislative Assembly from 2019 to 2022."
+            },
+            {
+                "date": "31-10-2014",
+                "event": "Sworn in for his first term as the 18th Chief Minister of Maharashtra, becoming the second-youngest CM in the state's history at the age of 44."
+            },
+            {
+                "date": "21-10-1999",
+                "event": "Elected as a Member of the Maharashtra Legislative Assembly (MLA) for the first time from the Nagpur West constituency."
+            },
+            {
+                "date": "05-03-1997",
+                "event": "Became the youngest Mayor of Nagpur Municipal Corporation at the age of 27, serving two consecutive terms until 1999."
+            },
+            {
+                "date": "22-07-1970",
+                "event": "Born as Devendra Gangadharrao Fadnavis in Nagpur, Maharashtra, India."
+            }
+        ]
     },
     "response": {
         "ascendant": {

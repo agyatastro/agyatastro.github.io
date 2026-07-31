@@ -15,7 +15,56 @@
         "advanced": "marriage",
         "gender": "male",
         "about": "<p>Venkatesh Prabhu Kasthuri Raja (born 28 July 1983), known professionally as Dhanush, is an Indian actor, filmmaker, lyricist and playback singer who primarily works in Tamil cinema. Having starred in 50 films over his career, his accolades include four National Film Awards (two as actor and two as producer), fourteen SIIMA Awards, eight Filmfare Awards South and a Filmfare Award. One of the highest paid actors in Indian cinema, he has been included in the Forbes India Celebrity 100 list six times.</p><p>Dhanush's first film was Thulluvadho Ilamai, a 2002 coming-of-age film directed by his father, Kasthuri Raja. He achieved further success in Polladhavan (2007) and Yaaradi Nee Mohini (2008), both of which were critically acclaimed and commercially successful. His role as a rooster fight jockey in Aadukalam (2010) won him the National Film Award for Best Actor and the Filmfare Award for Best Actor – Tamil. He continued success with films, including Maryan (2013), Velaiilla Pattadhari (2014), Anegan (2015), Maari (2015), Kodi (2016), Vada Chennai (2018), Asuran (2019), Thiruchitrambalam (2022), Vaathi (2023) and Raayan (2024), the lattermost of which emerged as his highest-grossing release.</p><p>In 2011, Dhanush's popular bilingual song \"Why This Kolaveri Di\" from the romantic psychological thriller film 3 (2012) became the first Indian music video to cross 100 million views on YouTube. He made his Hindi film debut with Aanand L. Rai's Raanjhanaa (2013). His performance as an obsessive one-sided lover in the film won him the Filmfare Award for Best Male Debut in addition to a nomination for the Filmfare Award for Best Actor. Dhanush produces films through his production company, Wunderbar Films, and made his directorial debut with Pa Paandi (2017). His song \"Rowdy Baby\" from Maari 2 became one of the most-viewed Indian songs of all time. It is the first South Indian video song to reach one billion views on YouTube. Dhanush won his second National Film Award for Best Actor for Asuran (2019)</p>",
-        "related": ["rajinikanth-family", "actor"]
+        "related": [
+            "rajinikanth-family",
+            "actor"
+        ],
+        "events": [
+            {
+                "date": "27-11-2024",
+                "event": "Officially granted a divorce from Aishwarya Rajinikanth by the court, following their separation announced in January 2022."
+            },
+            {
+                "date": "2024",
+                "event": "Released his milestone 50th film as an actor, 'Raayan', which he also wrote and directed."
+            },
+            {
+                "date": "17-01-2022",
+                "event": "Announced separation from his wife Aishwarya Rajinikanth after 18 years of marriage."
+            },
+            {
+                "date": "2022",
+                "event": "Made his Hollywood film debut, playing the assassin Avik San ('Lone Wolf') in the Netflix action thriller 'The Gray Man', directed by the Russo brothers."
+            },
+            {
+                "date": "22-03-2022",
+                "event": "Won his second National Film Award for Best Actor at the 67th National Film Awards for his acclaimed performance in the action drama 'Asuran' (2019)."
+            },
+            {
+                "date": "2013",
+                "event": "Made his Bollywood acting debut as the lead in Aanand L. Rai's romantic drama 'Raanjhanaa', winning the Filmfare Award for Best Male Debut."
+            },
+            {
+                "date": "16-11-2011",
+                "event": "Released the viral global internet phenomenon song 'Why This Kolaveri Di' from the movie '3', composed by Anirudh Ravichander and written and sung by Dhanush."
+            },
+            {
+                "date": "2011",
+                "event": "Won his first National Film Award for Best Actor at the 58th National Film Awards for his stellar performance as a rooster-fight jockey in Vetrimaaran's 'Aadukalam'."
+            },
+            {
+                "date": "18-11-2004",
+                "event": "Married Aishwarya Rajinikanth, elder daughter of superstar Rajinikanth, with whom he later had two sons, Yatra (born 2006) and Linga (born 2010)."
+            },
+            {
+                "date": "2002",
+                "event": "Made his acting debut as the lead in the coming-of-age drama film 'Thulluvadho Ilamai', directed by his father Kasthuri Raja."
+            },
+            {
+                "date": "28-07-1983",
+                "event": "Born as Venkatesh Prabhu Kasthuri Raja (professionally known as Dhanush) in Madras, Tamil Nadu, India."
+            }
+        ]
     },
     "response": {
         "ascendant": {

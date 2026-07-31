@@ -15,7 +15,40 @@
         "agyat_rating": "AA",
         "advanced": "prolonged career, detention, assassination attempt",
         "about": "Farooq Abdullah (born 21 October 1937) is an Indian politician who serves as current president of the Jammu & Kashmir National Conference. He has served as the chief minister of Jammu and Kashmir on several occasions since 1982 till 2002, and as the union minister for New and Renewable Energy between 2009 and 2014. His father Sheikh Abdullah was the 1st elected chief minister of Jammu and Kashmir. He is the father of Omar Abdullah who is current chief minister.",
-        "related": ["abdullah-family", "politician"]
+        "related": [
+            "abdullah-family",
+            "politician"
+        ],
+        "events": [
+            {
+                "date": "2024",
+                "event": "Elected as a Member of Parliament in the 18th Lok Sabha representing the Srinagar constituency in Jammu and Kashmir."
+            },
+            {
+                "date": "August 2019",
+                "event": "Placed under prolonged house arrest and detention by the Government of India under the Public Safety Act (PSA) following the revocation of Article 370, sparking severe political and human rights controversies until his release in March 2020."
+            },
+            {
+                "date": "2002",
+                "event": "Welcomed the birth of his grandson, Zahir Abdullah (son of Omar Abdullah)."
+            },
+            {
+                "date": "1990",
+                "event": "Resigned as Chief Minister of Jammu and Kashmir amid intense political turmoil, escalating militancy in the region, and widespread controversy over his handling of the rising insurgency."
+            },
+            {
+                "date": "1977",
+                "event": "Welcomed the birth of his son, Omar Abdullah, who later followed in his footsteps to become Chief Minister of Jammu and Kashmir."
+            },
+            {
+                "date": "1968",
+                "event": "Married Mollie Abdullah, a nurse of British origin, with whom he had three children: Safia, Hina, and Omar Abdullah."
+            },
+            {
+                "date": "21-10-1937",
+                "event": "Born as Farooq Abdullah in Soura, Srinagar, Jammu and Kashmir, India, to prominent political leader Sheikh Abdullah and Begum Akbar Jahan Abdullah."
+            }
+        ]
     },
     "response": {
         "ascendant": {

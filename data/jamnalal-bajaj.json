@@ -15,7 +15,56 @@
         "gender": "male",
         "dod": "11/02/1942",
         "about": "Jamnalal Kaniram Bajaj (4 November 1889 – 11 February 1942) was an Indian businessman and politician. He founded the Bajaj Group of companies in the 1920s, and the group now has 24 companies, including six that are listed on the bourses. He was also a close and beloved associate of Mahatma Gandhi, who is known to have often declared that Jamnalal was his fifth son.",
-        "related": ["bajaj-family", "businessperson"]
+        "related": [
+            "bajaj-family",
+            "businessperson"
+        ],
+        "events": [
+            {
+                "date": "11-02-1942",
+                "event": "Passed away at the age of 52 in Wardha, Central Provinces, British India, due to a sudden brain hemorrhage after taking a vow of fasting and physical exertion."
+            },
+            {
+                "date": "1927",
+                "event": "Elected as the President of the Nagpur session of the Indian National Congress, highlighting his prominent role in the freedom struggle."
+            },
+            {
+                "date": "1920",
+                "event": "Actively participated in the Non-Cooperation Movement launched by Mahatma Gandhi, renouncing his British-bestowed title of 'Rai Bahadur' and giving up his honorary magisterial position."
+            },
+            {
+                "date": "1926",
+                "event": "Founded the All-India Spinners' Association (AISA) under the guidance of Mahatma Gandhi to promote Khadi and rural self-sufficiency."
+            },
+            {
+                "date": "1920",
+                "event": "Founded the Sasta Sahitya Mandal to promote affordable and constructive literature in Hindi for the masses."
+            },
+            {
+                "date": "1926",
+                "event": "Established the Gandhi Seva Sangh to dedicate workers to rural upliftment and constructive programs inspired by Gandhian ideology."
+            },
+            {
+                "date": "1928",
+                "event": "Spearheaded the historic Lakshminarayan Temple entry movement in Wardha, opening temples to Dalits (Harijans) well before it became widespread."
+            },
+            {
+                "date": "1926",
+                "event": "Welcomed the birth of his youngest child, Ramkrishna Bajaj, with his wife Jankidevi Bajaj."
+            },
+            {
+                "date": "1915",
+                "event": "Founded the Bachhraj & Company, consolidating his vast business interests and later establishing the Bajaj Group of industries."
+            },
+            {
+                "date": "1902",
+                "event": "Married Jankidevi Bajaj in a traditional ceremony arranged by their families."
+            },
+            {
+                "date": "04-11-1889",
+                "event": "Born as Jamnalal Bajaj in Kasi Ka Bas, Sikar district, Rajputana, British India, to Kaniram and Birdibai Bajaj."
+            }
+        ]
     },
     "response": {
         "ascendant": {

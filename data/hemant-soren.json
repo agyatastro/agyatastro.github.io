@@ -15,7 +15,53 @@
         "gender": "male",
         "advanced": "legal-issues, detention",
         "about": "<p>Hemant Soren (born 10 August 1975) is an Indian politician who is serving as the current Chief Minister of Jharkhand since 4 July 2024. He previously held the office from 2019 to 2024 and from 2013 to 2014. He is also the president of the Jharkhand Mukti Morcha, a regional party. Soren has represented the Barhait constituency in the Jharkhand Legislative Assembly since 2014 and previously represented Dumka twice — from 2019 to 2020 and from 2009 to 2014. He also served as the Deputy Chief Minister of Jharkhand from 2010 to 2013, Leader of the Opposition in the Jharkhand Legislative Assembly from 2014 to 2019, and a member of the Rajya Sabha from Jharkhand from 2009 to 2010.</p><p>Notably, Soren was arrested by the Enforcement Directorate on 31 January 2024 in connection with a land scam case. He contends that the arrest was an act of political vendetta by the central government, a stance shared by opposition parties. He secured bail and was released from jail on 28 June 2024.</p>",
-        "related": ["soren-family", "politician", "chief-minister"]
+        "related": [
+            "soren-family",
+            "politician",
+            "chief-minister"
+        ],
+        "events": [
+            {
+                "date": "28-11-2024",
+                "event": "Assumed office as the Chief Minister of Jharkhand for the fourth time following the INDIA bloc's decisive victory in the State Assembly elections."
+            },
+            {
+                "date": "04-07-2024",
+                "event": "Sworn in as the Chief Minister of Jharkhand for a fresh term, succeeding Champai Soren, days after walking out of jail."
+            },
+            {
+                "date": "28-06-2024",
+                "event": "Released from jail after securing bail from the Jharkhand High Court in connection with a money laundering and land scam case investigated by the Enforcement Directorate."
+            },
+            {
+                "date": "31-01-2024",
+                "event": "Arrested by the Enforcement Directorate (ED) in a high-profile land scam and money laundering case, leading to his resignation as Chief Minister of Jharkhand amidst intense political controversy and allegations of political vendetta."
+            },
+            {
+                "date": "29-12-2019",
+                "event": "Sworn in as the Chief Minister of Jharkhand for his second term after leading the JMM-led alliance to victory in the state assembly elections."
+            },
+            {
+                "date": "15-07-2009",
+                "event": "Welcomed the birth of his son, Nikhil Soren, with his wife Kalpana Soren."
+            },
+            {
+                "date": "03-09-2006",
+                "event": "Welcomed the birth of his elder son,ansh Soren, with his wife Kalpana Soren."
+            },
+            {
+                "date": "2006",
+                "event": "Married Kalpana Soren in a private ceremony, with whom he has two sons."
+            },
+            {
+                "date": "2005",
+                "event": "Elected for the first time to the Jharkhand Legislative Assembly representing the Dumka/Barhait constituency."
+            },
+            {
+                "date": "10-08-1975",
+                "event": "Born as Hemant Soren in Nemara, Ramgarh district, Bihar (now in Jharkhand), to veteran political leader Shibu Soren and Roopi Soren."
+            }
+        ]
     },
     "response": {
         "ascendant": {

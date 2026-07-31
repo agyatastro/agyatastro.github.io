@@ -15,7 +15,60 @@
         "gender": "male",
         "advanced": "legal-issues, detention",
         "about": "<p>Robert Hunter Biden (born February 4, 1970) is an American attorney and businessman. He is the second son of former president Joe Biden and his first wife, Neilia Hunter Biden. Hunter Biden was a founding board member of BHR Partners, a Chinese investment company, in 2013, and later served on the board of Burisma Holdings, one of the largest private natural gas producers in Ukraine, from 2014 until his term expired in April 2019. He has worked as a lobbyist and legal representative for lobbying firms, a hedge fund principal, and a venture capital and private equity fund investor.</p><p>Since early 2019, Hunter and his father have been the targets of false allegations that Joe pressured Ukraine to fire a prosecutor to protect Hunter, which intensified after the New York Post published an article in October 2020 about a laptop computer that had belonged to Hunter Biden. Biden was convicted of three federal firearms-related felony charges in June 2024 after he had admitted to illegally owning a gun while a drug user. His tax affairs have been under federal criminal investigation since late 2018, and in September 2024, he pleaded guilty to all of the tax charges.</p><p>In December 2024, Biden's father pardoned him for all federal offenses committed between 2014 and 2024, including any potential offenses not yet discovered.</p>",
-        "related": ["biden-family", "lawyer"]
+        "related": [
+            "biden-family",
+            "lawyer"
+        ],
+        "events": [
+            {
+                "date": "01-12-2024",
+                "event": "Granted a full and unconditional presidential pardon by his father, outgoing U.S. President Joe Biden, covering all federal offenses he committed or may have committed over an extended period."
+            },
+            {
+                "date": "11-06-2024",
+                "event": "Found guilty by a federal jury in Wilmington, Delaware, on all three felony charges related to purchasing a firearm in 2018 while allegedly addicted to illegal drugs."
+            },
+            {
+                "date": "2023",
+                "event": "Reached and subsequently saw the collapse of a plea deal with federal prosecutors regarding tax and gun charges, leading to renewed felony indictments."
+            },
+            {
+                "date": "2020",
+                "event": "Became a central figure in intense political controversy when his laptop and foreign business dealings in Ukraine and China became subjects of major public scrutiny and partisan investigations during the U.S. presidential election."
+            },
+            {
+                "date": "2019",
+                "event": "Married his second wife, Melissa Cohen, in a private ceremony in Los Angeles."
+            },
+            {
+                "date": "2017",
+                "event": "Finalized divorce from his first wife, Kathleen Buhle."
+            },
+            {
+                "date": "2018",
+                "event": "Welcomed the birth of his daughter, Navy Joan Roberts, with Lunden Roberts."
+            },
+            {
+                "date": "2000",
+                "event": "Welcomed the birth of his third daughter, Maisy Biden, with his first wife, Kathleen Buhle."
+            },
+            {
+                "date": "1993",
+                "event": "Welcomed the birth of his second daughter, Finnegan Biden, with his first wife, Kathleen Buhle."
+            },
+            {
+                "date": "1993",
+                "event": "Welcomed the birth of his first daughter, Naomi Biden, with his first wife, Kathleen Buhle."
+            },
+            {
+                "date": "1993",
+                "event": "Married his first wife, Kathleen Buhle."
+            },
+            {
+                "date": "04-02-1970",
+                "event": "Born as Robert Hunter Biden in Wilmington, Delaware, to Joe Biden and Neilia Hunter Biden."
+            }
+        ]
     },
     "response": {
         "ascendant": {

@@ -14,9 +14,57 @@
         "gender": "male",
         "agyat_rating": "AA",
         "dod": "12/08/1997",
-        "related": ["t-series", "singer", "music-producer", "cinema-producer" ,"businessperson"],
+        "related": [
+            "t-series",
+            "singer",
+            "music-producer",
+            "cinema-producer",
+            "businessperson"
+        ],
         "advanced": "death by gunshot, murder",
-        "about": "<p>Born on 5 May, 1951 in a Punjabi Hindu family, Gulshan Kumar Dua was the son of a fruit juice vendor who worked the streets of the Daryaganj neighbourhood in the heart of Delhi. His family came as refugees from the Jhang region of West Punjab after the communal riots during the partition of India in 1947. Dua started working with his father from an early age. Gulshan Kumar was a devoted worshipper of Shiva and especially Vaishno Devi. He sung many religious and traditional songs in favour of almost all major deities in Hinduism. Due to traditional faith, love and respect towards Vaishno Devi, he ran a free of cost meal assistance service in which free meals are offered as prasad to all the devotees visiting Vaishno Devi Temple. It was first started in 1983 at Baan Ganga location which is situated in between of the Vaishno Devi Temple's pilgrimage. Even after his demise in 1997, the service still continues till today and is widely revered all across India. His son Bhushan Kumar now manages the service.</p><p>Dua changed career paths when his family acquired a shop selling records and inexpensive audio cassettes, which foreshadowed the onset of a vast music empire.</p>"
+        "about": "<p>Born on 5 May, 1951 in a Punjabi Hindu family, Gulshan Kumar Dua was the son of a fruit juice vendor who worked the streets of the Daryaganj neighbourhood in the heart of Delhi. His family came as refugees from the Jhang region of West Punjab after the communal riots during the partition of India in 1947. Dua started working with his father from an early age. Gulshan Kumar was a devoted worshipper of Shiva and especially Vaishno Devi. He sung many religious and traditional songs in favour of almost all major deities in Hinduism. Due to traditional faith, love and respect towards Vaishno Devi, he ran a free of cost meal assistance service in which free meals are offered as prasad to all the devotees visiting Vaishno Devi Temple. It was first started in 1983 at Baan Ganga location which is situated in between of the Vaishno Devi Temple's pilgrimage. Even after his demise in 1997, the service still continues till today and is widely revered all across India. His son Bhushan Kumar now manages the service.</p><p>Dua changed career paths when his family acquired a shop selling records and inexpensive audio cassettes, which foreshadowed the onset of a vast music empire.</p>",
+        "events": [
+            {
+                "date": "12-08-1997",
+                "event": "Assassinated and murdered at the age of 41, being shot 18 times outside a Shiva temple in Jeet Nagar, Andheri West, Mumbai, after refusing to pay extortion money to the D-Company underworld syndicate."
+            },
+            {
+                "date": "1997",
+                "event": "Faced severe threats and extortion demands from the Mumbai underworld, culminating in refusal to pay protection money prior to his tragic assassination."
+            },
+            {
+                "date": "1990",
+                "event": "Produced the blockbuster musical romance film 'Aashiqui', directed by Mahesh Bhatt, which became a historic musical milestone and cemented T-Series as a dominant force in the Indian music industry."
+            },
+            {
+                "date": "1989",
+                "event": "Expanded into Bollywood film production with his debut venture, 'Lal Dupatta Malmal Ka'."
+            },
+            {
+                "date": "1983",
+                "event": "Founded Super Cassettes Industries, launching the T-Series music label in Delhi, which revolutionized the Indian audio cassette market."
+            },
+            {
+                "date": "1978",
+                "event": "Welcomed the birth of his son, Bhushan Kumar, who later succeeded him as the head of T-Series."
+            },
+            {
+                "date": "1976",
+                "event": "Welcomed the birth of his daughter, Tulsi Kumar, who became a prominent playback singer."
+            },
+            {
+                "date": "1974",
+                "event": "Welcomed the birth of his daughter, Khushali Kumar, who pursued acting and fashion design."
+            },
+            {
+                "date": "1973",
+                "event": "Got married to Sudesh Kumari, with whom he had three children (Bhushan, Tulsi, and Khushali)."
+            },
+            {
+                "date": "05-05-1956",
+                "event": "Born as Gulshan Kumar Dua in Delhi, India, to a Punjabi Hindu family of refugees who migrated from Jhang during the partition of India."
+            }
+        ]
     },
     "response": {
         "ascendant": {

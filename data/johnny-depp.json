@@ -13,9 +13,57 @@
         "location": "Owensboro, United States",
         "agyat_rating": "AA",
         "gender": "male",
-        "related": ["actor"],
+        "related": [
+            "actor"
+        ],
         "advanced": "legal-issues, prolonged career",
-        "about": "John Christopher Depp II (born June 9, 1963) is an American actor and musician. He is the recipient of multiple accolades, including a Golden Globe Award as well as nominations for three Academy Awards and two British Academy Film Awards. His films, in which he has often played eccentric characters, have grossed over $8 billion worldwide, making him one of Hollywood's most bankable stars"
+        "about": "John Christopher Depp II (born June 9, 1963) is an American actor and musician. He is the recipient of multiple accolades, including a Golden Globe Award as well as nominations for three Academy Awards and two British Academy Film Awards. His films, in which he has often played eccentric characters, have grossed over $8 billion worldwide, making him one of Hollywood's most bankable stars",
+        "events": [
+            {
+                "date": "2025",
+                "event": "Returned to film directing with the premiere of 'Modi: Three Days on the Wing of Madness', a biographical drama following Italian artist Amedeo Modigliani."
+            },
+            {
+                "date": "2024",
+                "event": "Opened his first major art exhibition titled 'A Bunch of Stuff' in New York City, showcasing artwork he created over three decades."
+            },
+            {
+                "date": "2023",
+                "event": "Made his return to the screen playing King Louis XV in the French-language period drama 'Jeanne du Barry', which premiered at the Cannes Film Festival."
+            },
+            {
+                "date": "June 2022",
+                "event": "Won a high-profile, highly publicized defamation lawsuit against his ex-wife Amber Heard in a Fairfax County, Virginia court, with a jury awarding him $15 million in damages."
+            },
+            {
+                "date": "2016",
+                "event": "Faced intense controversy and career turbulence after his third wife, Amber Heard, filed for divorce and obtained a temporary restraining order alleging domestic abuse, which Depp strongly denied."
+            },
+            {
+                "date": "03-02-2015",
+                "event": "Married his third wife, actress Amber Heard, in a private ceremony at their home in Los Angeles after meeting on the set of 'The Rum Diary'."
+            },
+            {
+                "date": "2012",
+                "event": "Announced his separation from long-term partner and French singer-actress Vanessa Paradis, with whom he spent 14 years together."
+            },
+            {
+                "date": "09-04-2002",
+                "event": "Welcomed the birth of his second child and son, John 'Jack' Christopher Depp III, with his partner Vanessa Paradis."
+            },
+            {
+                "date": "27-05-1999",
+                "event": "Welcomed the birth of his first child and daughter, Lily-Rose Melody Depp, with his partner Vanessa Paradis."
+            },
+            {
+                "date": "20-12-1985",
+                "event": "Finalized his divorce from his first wife, makeup artist Lori Anne Allison, whom he had married in 1983."
+            },
+            {
+                "date": "09-06-1963",
+                "event": "Born as John Christopher Depp II in Owensboro, Kentucky, to civil engineer John Christopher Depp and waitress Betty Sue Wells."
+            }
+        ]
     },
     "response": {
         "ascendant": {

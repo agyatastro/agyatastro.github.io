@@ -13,9 +13,61 @@
         "location": "Gurudaspur, Punjab",
         "agyat_rating": "AA",
         "gender": "male",
-        "dod":"03/12/2011",
-        "related": ["actor"],
-        "about": "<p>Dev Anand (Hindi pronunciation: [de:u ǝna:nd]; born Dharamdev Pishorimal Anand; 26 September 1923 – 3 December 2011) was an Indian actor, writer, director and producer known for his work in Hindi cinema. Anand is considered as one of the greatest and most successful actors in the history of Indian cinema. Through a career that spanned over six decades, he worked in more than 100 films. Anand is a recipient of four Filmfare Awards, including two for Best Actor. The Government of India honoured him with Padma Bhushan, Indian third highest civilian honour in 2001 and with Dadasaheb Phalke Award in 2002.</p><p> In 1946, Anand debuted with a lead role in Prabhat Films's Hum Ek Hain, a film about Hindu-Muslim unity. He had his first commercial success in Ziddi (1948) and gained widespread recognition with the crime thriller Baazi (1951), which is regarded as the forerunner of the spate of \"Bombay Noir\" films that followed in Hindi cinema in the 1950s. He consistently starred in top–grossing Indian films from the early-1950s to the 1970s, such as Jaal, Taxi Driver, Insaniyat, C.I.D., Paying Guest, Kala Pani, Kala Bazar, Jab Pyar Kisi Se Hota Hai, Hum Dono, Asli-Naqli, Tere Ghar Ke Samne, Guide, Jewel Thief, Johny Mera Naam and Haré Rama Haré Krishna. Despite the arrival of new crop of stars in the latter-half of the 1970s and 1980s, Anand continued to star in highly successful films, such as Amir Garib, Warrant, Jaaneman, Darling Darling, Des Pardes, Swami Dada and Lashkar. Some of his most acclaimed performances, include Munimji, Funtoosh, Baarish, Nau Do Gyarah, Solva Saal, Manzil, Jaali Note, Baat Ek Raat Ki, Sharabi, Teen Devian, Duniya, Prem Pujari, Tere Mere Sapne, Heera Panna and Lootmaar. The 2011 film Chargesheet, which Anand also directed was his final film.</p>"
+        "dod": "03/12/2011",
+        "related": [
+            "actor"
+        ],
+        "about": "<p>Dev Anand (Hindi pronunciation: [de:u ǝna:nd]; born Dharamdev Pishorimal Anand; 26 September 1923 – 3 December 2011) was an Indian actor, writer, director and producer known for his work in Hindi cinema. Anand is considered as one of the greatest and most successful actors in the history of Indian cinema. Through a career that spanned over six decades, he worked in more than 100 films. Anand is a recipient of four Filmfare Awards, including two for Best Actor. The Government of India honoured him with Padma Bhushan, Indian third highest civilian honour in 2001 and with Dadasaheb Phalke Award in 2002.</p><p> In 1946, Anand debuted with a lead role in Prabhat Films's Hum Ek Hain, a film about Hindu-Muslim unity. He had his first commercial success in Ziddi (1948) and gained widespread recognition with the crime thriller Baazi (1951), which is regarded as the forerunner of the spate of \"Bombay Noir\" films that followed in Hindi cinema in the 1950s. He consistently starred in top–grossing Indian films from the early-1950s to the 1970s, such as Jaal, Taxi Driver, Insaniyat, C.I.D., Paying Guest, Kala Pani, Kala Bazar, Jab Pyar Kisi Se Hota Hai, Hum Dono, Asli-Naqli, Tere Ghar Ke Samne, Guide, Jewel Thief, Johny Mera Naam and Haré Rama Haré Krishna. Despite the arrival of new crop of stars in the latter-half of the 1970s and 1980s, Anand continued to star in highly successful films, such as Amir Garib, Warrant, Jaaneman, Darling Darling, Des Pardes, Swami Dada and Lashkar. Some of his most acclaimed performances, include Munimji, Funtoosh, Baarish, Nau Do Gyarah, Solva Saal, Manzil, Jaali Note, Baat Ek Raat Ki, Sharabi, Teen Devian, Duniya, Prem Pujari, Tere Mere Sapne, Heera Panna and Lootmaar. The 2011 film Chargesheet, which Anand also directed was his final film.</p>",
+        "events": [
+            {
+                "date": "03-12-2011",
+                "event": "Passed away at the age of 88 in London, England, following a cardiac arrest, shortly after the release of his final film 'Chargesheet'."
+            },
+            {
+                "date": "2002",
+                "event": "Conferral of the prestigious Dadasaheb Phalke Award by the Government of India for his lifetime contribution to Indian cinema."
+            },
+            {
+                "date": "2001",
+                "event": "Awarded the Padma Bhushan, India's third-highest civilian honor, for his remarkable contributions to the arts and cinema."
+            },
+            {
+                "date": "September 2007",
+                "event": "Released his autobiography titled 'Romancing with Life', chronicling his expansive journey and experiences in the film industry."
+            },
+            {
+                "date": "1971",
+                "event": "Directed, produced, and starred in the blockbuster hit film 'Hare Rama Hare Krishna', which popularized themes around the hippie culture and launched Zeenat Amaan to stardom."
+            },
+            {
+                "date": "1965",
+                "event": "Starred in and co-produced the acclaimed romantic drama 'Guide', directed by Vijay Anand, which won several Filmfare Awards and the National Film Award for Best Feature Film in Hindi."
+            },
+            {
+                "date": "1959",
+                "event": "Won his first Filmfare Award for Best Actor for his stellar performance in the crime drama classic 'Kala Pani'."
+            },
+            {
+                "date": "1954",
+                "event": "Married his co-star and actress Kalpana Kartik in a quiet ceremony during a lunch break while filming 'Taxi Driver'."
+            },
+            {
+                "date": "1949",
+                "event": "Co-founded the iconic film production company Navketan Films along with his elder brother Chetan Anand."
+            },
+            {
+                "date": "1948",
+                "event": "Achieved his major breakthrough as a leading man starring in Bombay Talkies' commercial hit 'Ziddi', opposite Kamini Kaushal."
+            },
+            {
+                "date": "1946",
+                "event": "Made his acting debut in Hindi cinema with Prabhat Films' production 'Hum Ek Hain'."
+            },
+            {
+                "date": "26-09-1923",
+                "event": "Born as Dharamdev Pishorimal Anand in Shakargarh, Punjab, British India (now in Pakistan)."
+            }
+        ]
     },
     "response": {
         "ascendant": {

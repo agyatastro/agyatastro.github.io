@@ -14,9 +14,75 @@
         "gender": "male",
         "agyat_rating": "AA",
         "dod": "12/07/2012",
-        "related": ["wrestler", "actor", "politician"],
+        "related": [
+            "wrestler",
+            "actor",
+            "politician"
+        ],
         "advanced": "death by heart attack",
-        "about": "<p>Dara Singh (born Deedar Singh Randhawa; 19 November 1928 – 12 July 2012) was an Indian professional wrestler, actor, and politician. Widely regarded as one of India's greatest wrestlers, Singh earned international recognition during the 1950s and 1960s for his victories in both Indian and world wrestling circuits. In 1968, Singh became world champion by defeating Lou Thesz.</p><p>Transitioning to cinema, Singh appeared in over 100 Hindi and Punjabi films, often portraying strong, heroic and religious characters, and is best remembered for his iconic role as Hanuman in the film Bajrangbali (1976) and in the television series Ramayan (1987–1988). He was the first sportsperson to be nominated as Member of the Rajya Sabha from 2003 to 2009, he was also awarded the Padma Shri in 1996. Singh was inducted into the Legacy wing of the WWE Hall of Fame Class of 2018</p>"
+        "about": "<p>Dara Singh (born Deedar Singh Randhawa; 19 November 1928 – 12 July 2012) was an Indian professional wrestler, actor, and politician. Widely regarded as one of India's greatest wrestlers, Singh earned international recognition during the 1950s and 1960s for his victories in both Indian and world wrestling circuits. In 1968, Singh became world champion by defeating Lou Thesz.</p><p>Transitioning to cinema, Singh appeared in over 100 Hindi and Punjabi films, often portraying strong, heroic and religious characters, and is best remembered for his iconic role as Hanuman in the film Bajrangbali (1976) and in the television series Ramayan (1987–1988). He was the first sportsperson to be nominated as Member of the Rajya Sabha from 2003 to 2009, he was also awarded the Padma Shri in 1996. Singh was inducted into the Legacy wing of the WWE Hall of Fame Class of 2018</p>",
+        "events": [
+            {
+                "date": "12-07-2012",
+                "event": "Passed away at the age of 83 in Mumbai following a cardiac arrest and cardiac-related complications."
+            },
+            {
+                "date": "2018",
+                "event": "Inducted posthumously into the WWE Hall of Fame in the Legacy wing, honoring his legendary professional wrestling career."
+            },
+            {
+                "date": "2007",
+                "event": "Played his final prominent film role as the lovable grandfather in the romantic comedy blockbuster 'Jab We Met', starring Kareena Kapoor and Shahid Kapoor."
+            },
+            {
+                "date": "27-08-2003",
+                "event": "Appointed and sworn in as a Member of Parliament in the Rajya Sabha (Upper House), making history as the first-ever sportsperson to be nominated to the Indian parliament (serving until August 2009)."
+            },
+            {
+                "date": "1998",
+                "event": "Officially joined the Bharatiya Janata Party (BJP), stepping into active national politics."
+            },
+            {
+                "date": "1987",
+                "event": "Achieved legendary nationwide television superstardom with his iconic portrayal of Lord Hanuman in Ramanand Sagar's epic television series 'Ramayan'."
+            },
+            {
+                "date": "June 1983",
+                "event": "Announced his official retirement from professional wrestling following his final tournament held in New Delhi."
+            },
+            {
+                "date": "1978",
+                "event": "Founded Dara Film Studio in Mohali, Punjab, establishing a prominent regional production and shooting hub."
+            },
+            {
+                "date": "29-05-1968",
+                "event": "Crowned the World Wrestling Champion in Bombay after defeating legendary American wrestler Lou Thesz."
+            },
+            {
+                "date": "1961",
+                "event": "Married his second wife, Surjit Kaur, with whom he subsequently had six children, including actor Vindu Dara Singh."
+            },
+            {
+                "date": "1959",
+                "event": "Won the prestigious Commonwealth Championship by defeating George Gordienko in Calcutta."
+            },
+            {
+                "date": "1954",
+                "event": "Won the 'Rustam-e-Hind' (Champion of India) tournament, receiving a silver cup from Maharaja Hari Singh."
+            },
+            {
+                "date": "1952",
+                "event": "Made shis acting debut in Hindi cinema with a brief appearance in the film 'Sangdil'."
+            },
+            {
+                "date": "1942",
+                "event": "Entered into his first marriage with Bachno Kaur in a child marriage arrangement (which later ended in divorce)."
+            },
+            {
+                "date": "19-11-1928",
+                "event": "Born as Deedar Singh Randhawa in the village of Dharmuchak, Amritsar district, Punjab, British India."
+            }
+        ]
     },
     "response": {
         "ascendant": {

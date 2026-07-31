@@ -14,8 +14,45 @@
         "agyat_rating": "AA",
         "gender": "female",
         "advanced": "legal-issues",
-        "related": ["cinema-producer", "cinema-director"],
-        "about": "<p>Ekta Kapoor (born 7 June 1975) is an Indian film and television producer and director who works in Hindi cinema and soap operas. She is the joint managing director and creative head of Balaji Telefilms Limited, which was founded in 1994. In 2001, Balaji Motion Pictures was launched as a subsidiary company of Balaji Telefilms Limited, which is a film production and distribution company. In April 2017, she launched ALTBalaji, a video on demand platform.</p><p>In 2017, Kapoor also launched her biography, Kingdom of the Soap Queen: The Story of Balaji Telefilms.</p><p>Kapoor was honored with the Padma Shri in 2020 for her work in the field of arts.</p><p>She is also honored with the 2023 International Emmy Directorate Award at the 51st International Emmy Awards.</p>"
+        "related": [
+            "cinema-producer",
+            "cinema-director"
+        ],
+        "about": "<p>Ekta Kapoor (born 7 June 1975) is an Indian film and television producer and director who works in Hindi cinema and soap operas. She is the joint managing director and creative head of Balaji Telefilms Limited, which was founded in 1994. In 2001, Balaji Motion Pictures was launched as a subsidiary company of Balaji Telefilms Limited, which is a film production and distribution company. In April 2017, she launched ALTBalaji, a video on demand platform.</p><p>In 2017, Kapoor also launched her biography, Kingdom of the Soap Queen: The Story of Balaji Telefilms.</p><p>Kapoor was honored with the Padma Shri in 2020 for her work in the field of arts.</p><p>She is also honored with the 2023 International Emmy Directorate Award at the 51st International Emmy Awards.</p>",
+        "events": [
+            {
+                "date": "2025",
+                "event": "Faced significant regulatory controversy and backlash when the Government of India banned her streaming app, ALTBalaji, over obscene and vulgar content."
+            },
+            {
+                "date": "20-11-2023",
+                "event": "Honored with the prestigious International Emmy Directorate Award, becoming the first Indian woman producer to receive the accolade."
+            },
+            {
+                "date": "2020",
+                "event": "Conferred with the Padma Shri, India's fourth-highest civilian honor, by the Government of India for her exceptional contributions to arts and entertainment."
+            },
+            {
+                "date": "27-01-2019",
+                "event": "Welcomed the birth of her son, Ravie Kapoor, via surrogacy after previously undergoing egg freezing and IVF procedures."
+            },
+            {
+                "date": "2012",
+                "event": "Faced legal and creative controversies over adult-themed content and copyright issues surrounding her film and television productions, leading to intense public debates on censorship."
+            },
+            {
+                "date": "2000",
+                "event": "Achieved massive breakthrough and revolutionized Indian television by producing the cult-classic daily soap opera 'Kyunki Saas Bhi Kabhi Bahu Thi', cementing her status as the 'Queen of Indian Television'."
+            },
+            {
+                "date": "1994",
+                "event": "Founded Balaji Telefilms Limited at the age of 19 under her parents' guidance, marking her official entry into television production."
+            },
+            {
+                "date": "07-06-1975",
+                "event": "Born as Ekta Ravi Kapoor in Bombay (now Mumbai), Maharashtra, India, to veteran actor Jeetendra and producer Shobha Kapoor."
+            }
+        ]
     },
     "response": {
         "ascendant": {

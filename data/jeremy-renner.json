@@ -13,8 +13,52 @@
         "location": "Modesto, United States",
         "agyat_rating": "AA",
         "gender": "male",
-        "related": ["actor"],
-        "about": "<p>Jeremy Lee Renner (born January 7, 1971) is an American actor. He began his career by appearing in independent films such as Dahmer (2002) and Neo Ned (2005), then supporting roles in bigger films, such as S.W.A.T. (2003) and 28 Weeks Later (2007). Renner gained Academy Award nominations for Best Actor for his performance as a soldier in The Hurt Locker (2009) and for Best Supporting Actor for playing a hot-headed robber in The Town (2010).</p><p>Renner has played Clint Barton / Hawkeye in the Marvel Cinematic Universe, including in The Avengers (2012) and in the Disney+ miniseries Hawkeye (2021). He also appeared in the action films Mission: Impossible – Ghost Protocol (2011), The Bourne Legacy (2012), Hansel & Gretel: Witch Hunters (2013) and Mission: Impossible – Rogue Nation (2015); and the dramas American Hustle (2013), Arrival (2016), and Wind River (2017). Since 2021, he has starred in the Paramount+ crime thriller series Mayor of Kingstown.</p>"
+        "related": [
+            "actor"
+        ],
+        "about": "<p>Jeremy Lee Renner (born January 7, 1971) is an American actor. He began his career by appearing in independent films such as Dahmer (2002) and Neo Ned (2005), then supporting roles in bigger films, such as S.W.A.T. (2003) and 28 Weeks Later (2007). Renner gained Academy Award nominations for Best Actor for his performance as a soldier in The Hurt Locker (2009) and for Best Supporting Actor for playing a hot-headed robber in The Town (2010).</p><p>Renner has played Clint Barton / Hawkeye in the Marvel Cinematic Universe, including in The Avengers (2012) and in the Disney+ miniseries Hawkeye (2021). He also appeared in the action films Mission: Impossible – Ghost Protocol (2011), The Bourne Legacy (2012), Hansel & Gretel: Witch Hunters (2013) and Mission: Impossible – Rogue Nation (2015); and the dramas American Hustle (2013), Arrival (2016), and Wind River (2017). Since 2021, he has starred in the Paramount+ crime thriller series Mayor of Kingstown.</p>",
+        "events": [
+            {
+                "date": "01-01-2023",
+                "event": "Suffered near-fatal chest trauma and orthopedic injuries after being accidentally run over by his own 14,000-pound snowplow while attempting to save his nephew near his Reno, Nevada home."
+            },
+            {
+                "date": "2019",
+                "event": "Finalized divorce from his former wife, Sonni Pacheco."
+            },
+            {
+                "date": "28-03-2013",
+                "event": "Welcomed the birth of his daughter, Ava Berlin Renner, with his then-girlfriend (and later wife) Sonni Pacheco."
+            },
+            {
+                "date": "13-01-2014",
+                "event": "Married his former wife, Sonni Pacheco, in a quiet ceremony (before separating later that year)."
+            },
+            {
+                "date": "2012",
+                "event": "Achieved global blockbuster success and widespread mainstream fame starring as Clint Barton / Hawkeye in Marvel's 'The Avengers'."
+            },
+            {
+                "date": "2010",
+                "event": "Received his second Academy Award nomination, this time for Best Supporting Actor, for his riveting performance in Ben Affleck's crime thriller 'The Town'."
+            },
+            {
+                "date": "2009",
+                "event": "Won critical acclaim and earned his first Academy Award nomination for Best Actor for his intense portrayal of an explosive ordnance disposal specialist in Kathryn Bigelow's war drama 'The Hurt Locker'."
+            },
+            {
+                "date": "2002",
+                "event": "Starrer breakout role as serial killer Jeffrey Dahmer in the biographical true-crime film 'Dahmer'."
+            },
+            {
+                "date": "1995",
+                "event": "Made his feature film debut in the teen comedy 'National Lampoon's Senior Trip'."
+            },
+            {
+                "date": "07-01-1971",
+                "event": "Born as Jeremy Lee Renner in Modesto, California, to Valerie Tague and Lee Renner."
+            }
+        ]
     },
     "response": {
         "ascendant": {

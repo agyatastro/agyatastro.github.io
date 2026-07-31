@@ -15,7 +15,72 @@
         "gender": "male",
         "dod": "11/06/1983",
         "about": "<p>Ghanshyam Das Birla was born on 10 April 1894 at Pilani town in Jhunjhunu district, in the region known as Rajputana, as a member of the Marwari Rajasthani community. His father was Raja Baldevdas Birla. In 1884, Baldeo Das Birla went to Bombay in search of new avenues of trade. He established his firm Shiv Narian Baldeo Das in Bombay in 1884 and Baldeo Das Jugal Kishore in 1897 in Calcutta. The firms started business in silver, cotton, grain and other commodities. He was succeeded by 4 sons, Jugal Kishore, Rameshwar Das, Ghanshyam Das and Braj Mohan. Ghanshyam Das was the most successful of the four brothers.</p>",
-        "related": ["birla-family", "businessperson"]
+        "related": [
+            "birla-family",
+            "businessperson"
+        ],
+        "events": [
+            {
+                "date": "11-06-1983",
+                "event": "Passed away at the age of 89 in London, United Kingdom, due to natural causes."
+            },
+            {
+                "date": "1957",
+                "event": "Conferred with the Padma Vibhushan, India's second-highest civilian award, by the Government of India for his monumental contributions to trade and industry."
+            },
+            {
+                "date": "1943",
+                "event": "Founded United Commercial Bank (later known as UCO Bank) to promote Indian-owned financial institutions amidst the backdrop of the Quit India movement."
+            },
+            {
+                "date": "1940",
+                "event": "Ventured into automobile manufacturing by establishing Hindustan Motors."
+            },
+            {
+                "date": "1932",
+                "event": "Became the founding president of Harijan Sevak Sangh, established by Mahatma Gandhi in Delhi to eradicate untouchability."
+            },
+            {
+                "date": "1926",
+                "event": "Elected as a member of the Central Legislative Assembly of British India, where he advocated strongly for domestic commercial interests."
+            },
+            {
+                "date": "06-01-1926",
+                "event": "Suffered the deeply personal loss of his second wife, Mahadevi Birla, who passed away in Solan."
+            },
+            {
+                "date": "1923",
+                "event": "Welcomed the birth of his third son, Basant Kumar Birla, with his second wife, Mahadevi Birla."
+            },
+            {
+                "date": "12-10-1918",
+                "event": "Welcomed the birth of his second son, Krishna Kumar Birla, with his second wife, Mahadevi Birla."
+            },
+            {
+                "date": "1916",
+                "event": "Faced intense political and colonial controversy and went underground for three months following his involvement in the Rodda cartridge affair."
+            },
+            {
+                "date": "1912",
+                "event": "Got married to his second wife, Mahadevi Birla (daughter of Premsukhdas Karwa), following the passing of his first wife."
+            },
+            {
+                "date": "1910",
+                "event": "Experienced personal tragedy with the death of his first wife, Durga Devi, who passed away from tuberculosis."
+            },
+            {
+                "date": "1909",
+                "event": "Welcomed the birth of his first-born son, Lakshmi Nivas Birla, with his first wife, Durga Devi."
+            },
+            {
+                "date": "1905",
+                "event": "Got married to his first wife, Durga Devi Somani, in an arranged match."
+            },
+            {
+                "date": "10-04-1894",
+                "event": "Born as Ghanshyam Das Birla in Pilani village, Rajputana Agency, British India, to Raja Baldeo Das Birla and his mother."
+            }
+        ]
     },
     "response": {
         "ascendant": {

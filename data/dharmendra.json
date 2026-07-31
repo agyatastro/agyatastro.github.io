@@ -16,7 +16,68 @@
         "gender": "male",
         "dod": "24/11/2025",
         "about": "<p>Dharmendra Kewal Krishan Deol (born 8 December 1935), known mononymously as Dharmendra, is an Indian actor, producer, and politician who is primarily known for his work in Hindi films. Nicknamed the \"He-Man\" of Bollywood, Dharmendra is widely regarded as one of the greatest actors of Indian cinema and to be among the most handsome Indian actors of all time. In 2012, he has received the Padma Bhushan, India's third highest civilian honour, from the Government of India. Dharmendra has worked in more than 200 films in a career spanning over six decades.</p><p>Dharmendra made his debut in 1960 with Dil Bhi Tera Hum Bhi Tere. He first gained popularity in the mid-1960s for films, such as Ayee Milan Ki Bela, Phool Aur Patthar and Aaye Din Bahar Ke, and achieved greater stardom in later years, being dubbed India's \"Garam Dharam\" for several of his on-screen roles in Hindi films. He consistently starred in several successful Hindi films from the late-1960s to the 1980s, such as Ankhen, Shikar, Aya Sawan Jhoom Ke, Jeevan Mrityu, Mera Gaon Mera Desh, Seeta Aur Geeta, Raja Jani, Jugnu, Yaadon Ki Baaraat, Dost, Sholay, Pratiggya, Charas, Dharam Veer, Chacha Bhatija, Ghulami, Hukumat, Aag Hi Aag, Elaan-E-Jung and Tahalka, as well as some of his acclaimed performances, include Anpadh, Bandini, Haqeeqat, Anupama, Mamta, Majhli Didi, Satyakam, Naya Zamana, Samadhi, Resham Ki Dori, Chupke Chupke, Dillagi, The Burning Train, Do Dishayen and Hathyar.</p><p>Beginning in the late 1990s, he appeared in character roles in several successful and acclaimed films, such as Pyaar Kiya To Darna Kya, Life in a... Metro, Apne, Johnny Gaddaar, Yamla Pagla Deewana, Rocky Aur Rani Kii Prem Kahaani and Teri Baaton Mein Aisa Uljha Jiya. In 1997, he received the Filmfare Lifetime Achievement Award for his contributions to Bollywood. He was a member of the 15th Lok Sabha of India, representing the Bikaner constituency in Rajasthan from the Bharatiya Janata Party (BJP).</p>",
-        "related": ["deol-family", "actor"]
+        "related": [
+            "deol-family",
+            "actor"
+        ],
+        "events": [
+            {
+                "date": "2026",
+                "event": "Posthumously conferred India's second-highest civilian honor, the Padma Vibhushan, by the Government of India."
+            },
+            {
+                "date": "24-11-2025",
+                "event": "Passed away at the age of 89 in Mumbai, Maharashtra, leaving behind an iconic legacy as Bollywood's original 'He-Man'."
+            },
+            {
+                "date": "2023",
+                "event": "Starred in Karan Johar's commercially successful romantic drama 'Rocky Aur Rani Kii Prem Kahaani'."
+            },
+            {
+                "date": "2012",
+                "event": "Honored with the Padma Bhushan, India's third-highest civilian honor, by the Government of India."
+            },
+            {
+                "date": "2011",
+                "event": "Starred alongside his sons Sunny and Bobby Deol in the comedy film 'Yamla Pagla Deewana' and served as a judge on Colors TV's reality show 'India's Got Talent'."
+            },
+            {
+                "date": "2004",
+                "event": "Elected as a Member of Parliament to the 14th Lok Sabha representing the Bharatiya Janata Party (BJP) from the Bikaner constituency in Rajasthan (serving until 2009)."
+            },
+            {
+                "date": "1997",
+                "event": "Received the prestigious Filmfare Lifetime Achievement Award for his massive contributions to Indian cinema."
+            },
+            {
+                "date": "1983",
+                "event": "Established his production house, Vijayta Films, which produced the award-winning film 'Ghayal' (1990) starring his eldest son Sunny Deol."
+            },
+            {
+                "date": "1980",
+                "event": "Married his frequent co-star Hema Malini while remaining married to his first wife, Prakash Kaur."
+            },
+            {
+                "date": "15-08-1975",
+                "event": "Starred as 'Veeru' in Ramesh Sippy's timeless action blockbuster 'Sholay', which became the highest-grossing film of the year and an all-time classic."
+            },
+            {
+                "date": "1966",
+                "event": "Achieved superstardom and received his first Filmfare Best Actor nomination with the massive commercial success of 'Phool Aur Patthar' alongside Meena Kumari."
+            },
+            {
+                "date": "1960",
+                "event": "Made his Bollywood acting debut as the lead in Arjun Hingorani's romantic drama 'Dil Bhi Tera Hum Bhi Tere'."
+            },
+            {
+                "date": "1954",
+                "event": "Married his first wife, Prakash Kaur, with whom he had four children: Sunny, Bobby, Ajeeta, and Vijayta."
+            },
+            {
+                "date": "08-12-1935",
+                "event": "Born as Dharam Singh Deol in Nasrali village, Ludhiana district, Punjab, British India."
+            }
+        ]
     },
     "response": {
         "ascendant": {

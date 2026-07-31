@@ -13,8 +13,32 @@
         "location": "Chhatarpur, Madhya Pradesh",
         "agyat_rating": "AU",
         "gender": "male",
-        "related": ["religious-preacher"],
-        "about": "Dhirendra Krishna Shastri (born 4 July 1996 as Dhirendra Krishna Garg) also known as Bageshwar Dham Sarkar, is an Indian self-styled godman. He is the leader of Bageshwar Dham, a religious Hindu site in Madhya Pradesh, India. Shastri has been accused of tricking people using mentalism."
+        "related": [
+            "religious-preacher"
+        ],
+        "about": "Dhirendra Krishna Shastri (born 4 July 1996 as Dhirendra Krishna Garg) also known as Bageshwar Dham Sarkar, is an Indian self-styled godman. He is the leader of Bageshwar Dham, a religious Hindu site in Madhya Pradesh, India. Shastri has been accused of tricking people using mentalism.",
+        "events": [
+            {
+                "date": "27-03-2026",
+                "event": "Sparked public and media discussion during Ram Navami celebrations in Chhatarpur by stating that acting against those harmful to the nation is not a crime."
+            },
+            {
+                "date": "12-06-2022",
+                "event": "Honored with the World Book of Records, London, for his exceptional contributions to the discourse on the Bhagwat Geeta."
+            },
+            {
+                "date": "January 2023",
+                "event": "Faced severe controversy and allegations of promoting blind faith and superstition after rationalist Shyam Manav challenged his miraculous claims at a 'divya darbar' in Nagpur."
+            },
+            {
+                "date": "2009",
+                "event": "Narrated the Shrimad Bhagwat Katha for the first time in a village after completing his spiritual training, marking the beginning of his journey as a prominent spiritual orator."
+            },
+            {
+                "date": "04-07-1996",
+                "event": "Born as Dhirendra Krishna Garg in Gada village, Chhatarpur district, Madhya Pradesh, India."
+            }
+        ]
     },
     "response": {
         "ascendant": {

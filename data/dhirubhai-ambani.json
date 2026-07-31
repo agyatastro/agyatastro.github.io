@@ -16,7 +16,60 @@
         "dod": "06/07/2002",
         "advanced": "rags-to-riches, death by illness, heart attack",
         "about": "<p>Dhirajlal Hirachand \"Dhirubhai\" Ambani (28 December 1932 – 6 July 2002) was an Indian billionaire businessman who founded Reliance Industries in 1958. Ambani took Reliance public in 1977. In 2016, he was honoured posthumously with the Padma Vibhushan, India's second-highest civilian honour for his contributions to trade and industry. Ambani faced numerous accusations of market manipulation, tax evasion, and cronyism.Dhirubhai Ambani was one of the sons of Hirachand Gordhanbhai Ambani, a village school teacher belonging to the Modh vaniya (Baniya) community and Jamnaben Ambani and was born in Chorwad, Malia Taluka, Junagadh district, Gujarat on 28 December 1932. He did his studies from Bahadur Khanji school. He returned from Aden in 1958 to try his hand at his own business in India in the textile market. It is also said that he has worked at a gas station as a petrol vendor. </p><p>Ambani returned to India and started \"Majin\" in partnership with Champaklal Damani, his second cousin, who lived with him in Yemen. Majin was to import polyester yarn and export spices to Yemen.</p><p>The first office of the Reliance Commercial Corporation was set up at the Narsinatha Street in Masjid Bunder. It was a 350 sq ft (33 m2) room with a telephone, one table and three chairs. Initially, they had two assistants to help them with their business.</p><p>During this period, Ambani and his family stayed in a two-bedroom apartment at the Jai Hind Estate in Bhuleshwar, Mumbai. In 1965, Champaklal Damani and Dhirubhai Ambani ended their partnership and Ambani started on his own. It is believed that both had different temperaments and different takes on how to conduct business.</p>",
-        "related": ["ambani-family", "businessperson"]
+        "related": [
+            "ambani-family",
+            "businessperson"
+        ],
+        "events": [
+            {
+                "date": "2016",
+                "event": "Posthumously conferred India's second-highest civilian award, the Padma Vibhushan, by the Government of India for his exceptional contributions to trade and industry."
+            },
+            {
+                "date": "06-07-2002",
+                "event": "Passed away at the age of 69 in Mumbai, Maharashtra, after suffering a major stroke and remaining in a coma for over a week, leaving behind a vast empire without a will which later sparked a major succession feud between his sons."
+            },
+            {
+                "date": "15-06-1998",
+                "event": "Became the first Indian to receive the Dean's Medal from The Wharton School, University of Pennsylvania, for setting an outstanding example of leadership."
+            },
+            {
+                "date": "1988",
+                "event": "Faced intense public scrutiny and accusations of market manipulation during a historic battle against the 'Bear Cartel' (Calcutta stockbrokers trying to short-sell Reliance shares), which led to the unprecedented three-day closure of the Bombay Stock Exchange."
+            },
+            {
+                "date": "February 1986",
+                "event": "Suffered his first major stroke, which paralyzed his right hand, prompting him to hand over the day-to-day running of Reliance Industries to his sons, Mukesh and Anil Ambani."
+            },
+            {
+                "date": "1985",
+                "event": "Engaged in a high-profile corporate war and bitter public feud with Nusli Wadia of Bombay Dyeing and the *Indian Express* newspaper (led by S. Gurumurthy and Ramnath Goenka), which heavily criticized Reliance's business practices, political lobbying, and regulatory advantages."
+            },
+            {
+                "date": "1977",
+                "event": "Took Reliance public by launching its historic Initial Public Offering (IPO), pioneering equity culture and bringing the stock market to the middle-class masses in India amidst early regulatory and competitor allegations of aggressive financial engineering."
+            },
+            {
+                "date": "1966",
+                "event": "Established his first textile mill in Naroda, Ahmedabad, and launched the iconic brand 'Vimal', beginning his journey into manufacturing and backward integration."
+            },
+            {
+                "date": "1958",
+                "event": "Returned to India from Aden and founded Reliance Commercial Corporation in Mumbai with limited capital, initially trading in spices and polyester yarn."
+            },
+            {
+                "date": "1955",
+                "event": "Married Kokila Patel (later known as Kokilaben Ambani), with whom he had four children: Mukesh, Anil, Nina, and Dipti."
+            },
+            {
+                "date": "1949",
+                "event": "Migrated as a teenager to the British colony of Aden (present-day Yemen) and worked as a clerk and filling station attendant for A. Besse & Co., gaining early exposure to international commodity trading."
+            },
+            {
+                "date": "28-12-1932",
+                "event": "Born as Dharam Singh / Dhirajlal Hirachand Ambani in Chorwad village, Junagadh district, Gujarat, British India, to a village schoolteacher father, Hirachand Gordhanbhai Ambani, and Jamnaben Ambani."
+            }
+        ]
     },
     "response": {
         "ascendant": {

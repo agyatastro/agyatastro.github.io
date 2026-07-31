@@ -13,8 +13,73 @@
         "location": "Jalandhar",
         "agyat_rating": "AA",
         "gender": "male",
-        "related": ["sportsperson", "cricketer"],
-        "about": "<p>Harbhajan Singh (born 3 July 1980), also known by his nickname Bhajji, is a former Indian cricketer. He later became a politician, serving as a Member of Parliament in Rajya Sabha. He is also a film actor, a television celebrity and a cricket commentator.</p><p>Harbhajan played for India from 1998 to 2016 as an off spin bowler. In domestic cricket, he played for Punjab cricket team; and in the Indian Premier League for Mumbai Indians, Chennai Super Kings, and Kolkata Knight Riders. Considered one of the best Indian spin bowlers of his era, he was in the Indian teams that won the 2007 T20 World Cup and the 2011 Cricket World Cup, and also their team that were joint-winners with Sri Lanka of the 2002 ICC Champions Trophy . He was also a lower-order batter, having two centuries in tests with a top score of 115 on his records.</p>"
+        "related": [
+            "sportsperson",
+            "cricketer"
+        ],
+        "about": "<p>Harbhajan Singh (born 3 July 1980), also known by his nickname Bhajji, is a former Indian cricketer. He later became a politician, serving as a Member of Parliament in Rajya Sabha. He is also a film actor, a television celebrity and a cricket commentator.</p><p>Harbhajan played for India from 1998 to 2016 as an off spin bowler. In domestic cricket, he played for Punjab cricket team; and in the Indian Premier League for Mumbai Indians, Chennai Super Kings, and Kolkata Knight Riders. Considered one of the best Indian spin bowlers of his era, he was in the Indian teams that won the 2007 T20 World Cup and the 2011 Cricket World Cup, and also their team that were joint-winners with Sri Lanka of the 2002 ICC Champions Trophy . He was also a lower-order batter, having two centuries in tests with a top score of 115 on his records.</p>",
+        "events": [
+            {
+                "date": "24-04-2026",
+                "event": "Switched political allegiance and joined the Bharatiya Janata Party (BJP) along with several other Rajya Sabha MPs, subsequently facing local protests and political controversy regarding the withdrawal of his security cover by the Punjab government."
+            },
+            {
+                "date": "24-12-2021",
+                "event": "Officially announced his retirement from all formats of professional cricket, bringing an end to his illustrious 23-year international and domestic career."
+            },
+            {
+                "date": "10-07-2021",
+                "event": "Welcomed the birth of his second child and son, Jovan Veer Singh Plaha, with his wife Geeta Basra."
+            },
+            {
+                "date": "2022",
+                "event": "Assumed office as a Member of Parliament representing Punjab in the Rajya Sabha (upper house of the Indian Parliament)."
+            },
+            {
+                "date": "27-07-2016",
+                "event": "Welcomed the birth of his first child and daughter, Hinaya Heer Plaha, with his wife Geeta Basra."
+            },
+            {
+                "date": "29-10-2015",
+                "event": "Married his long-time girlfriend and Bollywood actress Geeta Basra in a private ceremony in Jalandhar, Punjab."
+            },
+            {
+                "date": "2011",
+                "event": "Won the ICC Cricket World Cup with the Indian national cricket team, playing a vital role as a senior spin bowler."
+            },
+            {
+                "date": "2009",
+                "event": "Conferred with the Padma Shri, India's fourth-highest civilian award, by the Government of India for his outstanding contributions to sports."
+            },
+            {
+                "date": "2008",
+                "event": "Faced severe controversy and disciplinary action, including being suspended from the ODI team and banned from the Indian Premier League, after slapping teammate S. Sreesanth following an IPL match."
+            },
+            {
+                "date": "2008",
+                "event": "Faced major international controversy and a temporary three-test ban by the International Cricket Council (ICC) for allegedly racially vilifying Australian cricketer Andrew Symonds during the Sydney Test (later reduced upon appeal)."
+            },
+            {
+                "date": "2007",
+                "event": "Won the inaugural ICC T20 World Cup with the Indian cricket team in South Africa."
+            },
+            {
+                "date": "2001",
+                "event": "Achieved historic national stardom by becoming the first Indian bowler to take a Test hat-trick during the legendary home series against Australia."
+            },
+            {
+                "date": "25-03-1998",
+                "event": "Made his Test cricket debut for India against Australia."
+            },
+            {
+                "date": "1986",
+                "event": "Lost his father, Sardar Sardev Singh Plaha, an event that deeply impacted his life and preceded his full devotion to professional cricket."
+            },
+            {
+                "date": "03-07-1980",
+                "event": "Born as Harbhajan Singh Plaha in Jalandhar, Punjab, India, to father Sardar Sardev Singh Plaha and mother Avtar Kaur."
+            }
+        ]
     },
     "response": {
         "ascendant": {

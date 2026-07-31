@@ -13,8 +13,58 @@
         "location": "Dina, Pakistan",
         "gender": "male",
         "agyat_rating": "AU",
-        "related": ["poet", "author", "screenwriter"],
-        "about": "<p>Gulzar (born Sampooran Singh Kalra; 18 August 1934) is an Indian Urdu poet, lyricist, author, screenwriter, and film director known for his works in Hindi cinema. He is regarded as one of greatest Urdu poets of this era. He started his career with music director S.D. Burman as a lyricist in the 1963 film Bandini and worked with many music directors including R. D. Burman, Salil Chowdhury, Vishal Bhardwaj and A. R. Rahman. Gulzar also writes poetry, dialogues and scripts. He directed films such as Aandhi and Mausam during the 1970s and the TV series Mirza Ghalib in the 1980s. He also directed Kirdaar in 1993.</p><p>He has won 5 Indian National Film Awards; including 2 Best Lyrics, one Best Screenplay, one Second Best Feature Film (director), and one Best Popular Film (director); 22 Filmfare Awards; one Academy Award; and one Grammy Award. He was awarded the Sahitya Akademi Award - Hindi in 2002, the Padma Bhushan in 2004, the third-highest civilian award in India, and the Dadasaheb Phalke Award in 2013, the highest award in Indian cinema. In April 2013, Gulzar was appointed as the Chancellor of the Assam University. In 2024, Gulzar was awarded the Jnanpith, India's highest literary award</p>"
+        "related": [
+            "poet",
+            "author",
+            "screenwriter"
+        ],
+        "about": "<p>Gulzar (born Sampooran Singh Kalra; 18 August 1934) is an Indian Urdu poet, lyricist, author, screenwriter, and film director known for his works in Hindi cinema. He is regarded as one of greatest Urdu poets of this era. He started his career with music director S.D. Burman as a lyricist in the 1963 film Bandini and worked with many music directors including R. D. Burman, Salil Chowdhury, Vishal Bhardwaj and A. R. Rahman. Gulzar also writes poetry, dialogues and scripts. He directed films such as Aandhi and Mausam during the 1970s and the TV series Mirza Ghalib in the 1980s. He also directed Kirdaar in 1993.</p><p>He has won 5 Indian National Film Awards; including 2 Best Lyrics, one Best Screenplay, one Second Best Feature Film (director), and one Best Popular Film (director); 22 Filmfare Awards; one Academy Award; and one Grammy Award. He was awarded the Sahitya Akademi Award - Hindi in 2002, the Padma Bhushan in 2004, the third-highest civilian award in India, and the Dadasaheb Phalke Award in 2013, the highest award in Indian cinema. In April 2013, Gulzar was appointed as the Chancellor of the Assam University. In 2024, Gulzar was awarded the Jnanpith, India's highest literary award</p>",
+        "events": [
+            {
+                "date": "2024",
+                "event": "Conferred with the Jnanpith Award, India's highest literary honor, recognizing his profound and enduring contributions to literature and poetry."
+            },
+            {
+                "date": "2013",
+                "event": "Honored with the Dadasaheb Phalke Award, India's highest cinematic accolade, for his lifetime contribution to Indian cinema."
+            },
+            {
+                "date": "22-02-2009",
+                "event": "Won the Academy Award for Best Original Song alongside composer A. R. Rahman for 'Jai Ho' from the film 'Slumdog Millionaire'."
+            },
+            {
+                "date": "2004",
+                "event": "Conferred with the Padma Bhushan, India's third-highest civilian award, by the Government of India."
+            },
+            {
+                "date": "13-12-1973",
+                "event": "Welcomed the birth of his only daughter, Meghna Gulzar, with his wife Rakhee."
+            },
+            {
+                "date": "15-05-1973",
+                "event": "Married prominent Bollywood actress Rakhee."
+            },
+            {
+                "date": "1975",
+                "event": "Faced severe political controversy and a temporary ban from the Indian government and state broadcaster Doordarshan when his critically acclaimed film 'Aandhi' was perceived to be based on the life of then-Prime Minister Indira Gandhi."
+            },
+            {
+                "date": "1971",
+                "event": "Made his directorial debut with the film 'Mere Apne', marking a major transition into filmmaking."
+            },
+            {
+                "date": "1963",
+                "event": "Made his official debut as a film lyricist with the song 'Mora Gora Ang Lay Le' in Bimal Roy's film 'Bandini'."
+            },
+            {
+                "date": "1947",
+                "event": "Experienced the immense trauma and displacement of the Partition of India, forcing his family to relocate from Dina to Delhi, where he worked odd jobs including a mechanic at a car garage."
+            },
+            {
+                "date": "18-08-1934",
+                "event": "Born as Sampooran Singh Kalra in Dina, Jhelum District, British India (now in Punjab, Pakistan), to Makhan Singh Kalra and Sujan Kaur."
+            }
+        ]
     },
     "response": {
         "ascendant": {

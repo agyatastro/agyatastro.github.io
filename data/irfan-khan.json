@@ -14,9 +14,57 @@
         "agyat_rating": "AA",
         "gender": "male",
         "dod": "29/04/2020",
-        "related": ["actor"],
+        "related": [
+            "actor"
+        ],
         "advanced": "death by illness, neuroendocrine cancer",
-        "about": "<p>Irrfan Khan (Hindustani pronunciation: [ɪrfaːn xaːn]) (born Sahabzade Irfan Ali Khan; 7 January 1967 – 29 April 2020) was an Indian actor who worked in Indian cinema as well as British and American films. Widely regarded as one of the finest actors in world cinema, Khan's career spanned over 30 years and earned him numerous accolades, including a National Film Award, an Asian Film Award, and six Filmfare Awards. In 2011, he was awarded the Padma Shri, India's fourth highest civilian honour. In 2021, he was posthumously awarded the Filmfare Lifetime Achievement Award.</p><p>Khan made his film debut with a small role in Salaam Bombay! (1988), which was followed by years of struggle. He acted in a few Film and Television Institute of India student films such as Reconnaissance (1990), which was directed by Sandeep Chattopadhyay. After starring in the British film The Warrior (2001), he had his breakthrough with starring roles in the dramas Haasil (2003) and Maqbool (2004). He went on to gain critical acclaim for his roles in The Namesake (2006) for which he was nominated for the Independent Spirit Award for Best Supporting Male, Life in a... Metro (2007), and Paan Singh Tomar (2011). For portraying the title character in the last of these, he won the National Film Award for Best Actor. Further success came for his starring roles in The Lunchbox (2013), Piku (2015), and Talvar (2015) and he had supporting roles in the Hollywood films The Amazing Spider-Man (2012), Life of Pi (2012), Jurassic World (2015), and Inferno (2016). His other notable roles were in Slumdog Millionaire (2008), New York (2009), Haider (2014), and Gunday (2014), and the television series In Treatment (2010). His highest-grossing Hindi film release came with the comedy-drama Hindi Medium (2017), and his final film appearance was in its sequel Angrezi Medium (2020), both of which won him the Filmfare Award for Best Actor in 2018 and 2021.</p><p>As of 2017, his films had grossed $3.643 billion (₹237 billion) at the worldwide box office. Khan was diagnosed with neuroendocrine cancer in March 2018, and died from the disease on 29 April 2020. Khan was described by Peter Bradshaw of The Guardian as \"a distinguished and charismatic star in Hindi and English-language movies whose hardworking career was an enormously valuable bridge between South Asian and Hollywood cinema\". He was honoured in the 'In memoriam' segment of the 93rd Academy Awards.</p>"
+        "about": "<p>Irrfan Khan (Hindustani pronunciation: [ɪrfaːn xaːn]) (born Sahabzade Irfan Ali Khan; 7 January 1967 – 29 April 2020) was an Indian actor who worked in Indian cinema as well as British and American films. Widely regarded as one of the finest actors in world cinema, Khan's career spanned over 30 years and earned him numerous accolades, including a National Film Award, an Asian Film Award, and six Filmfare Awards. In 2011, he was awarded the Padma Shri, India's fourth highest civilian honour. In 2021, he was posthumously awarded the Filmfare Lifetime Achievement Award.</p><p>Khan made his film debut with a small role in Salaam Bombay! (1988), which was followed by years of struggle. He acted in a few Film and Television Institute of India student films such as Reconnaissance (1990), which was directed by Sandeep Chattopadhyay. After starring in the British film The Warrior (2001), he had his breakthrough with starring roles in the dramas Haasil (2003) and Maqbool (2004). He went on to gain critical acclaim for his roles in The Namesake (2006) for which he was nominated for the Independent Spirit Award for Best Supporting Male, Life in a... Metro (2007), and Paan Singh Tomar (2011). For portraying the title character in the last of these, he won the National Film Award for Best Actor. Further success came for his starring roles in The Lunchbox (2013), Piku (2015), and Talvar (2015) and he had supporting roles in the Hollywood films The Amazing Spider-Man (2012), Life of Pi (2012), Jurassic World (2015), and Inferno (2016). His other notable roles were in Slumdog Millionaire (2008), New York (2009), Haider (2014), and Gunday (2014), and the television series In Treatment (2010). His highest-grossing Hindi film release came with the comedy-drama Hindi Medium (2017), and his final film appearance was in its sequel Angrezi Medium (2020), both of which won him the Filmfare Award for Best Actor in 2018 and 2021.</p><p>As of 2017, his films had grossed $3.643 billion (₹237 billion) at the worldwide box office. Khan was diagnosed with neuroendocrine cancer in March 2018, and died from the disease on 29 April 2020. Khan was described by Peter Bradshaw of The Guardian as \"a distinguished and charismatic star in Hindi and English-language movies whose hardworking career was an enormously valuable bridge between South Asian and Hollywood cinema\". He was honoured in the 'In memoriam' segment of the 93rd Academy Awards.</p>",
+        "events": [
+            {
+                "date": "29-04-2020",
+                "event": "Passed away at the age of 53 at Kokilaben Dhirubhai Ambani Hospital in Mumbai, due to a colon infection while battling a neuroendocrine tumor."
+            },
+            {
+                "date": "March 2018",
+                "event": "Publicly announced that he was diagnosed with a rare neuroendocrine tumor, subsequently traveling to London for treatment."
+            },
+            {
+                "date": "2015",
+                "event": "Starred in the critically acclaimed comedy-drama film 'Piku' alongside Deepika Padukone and Amitabh Bachchan."
+            },
+            {
+                "date": "2013",
+                "event": "Won the National Film Award for Best Actor for his stellar performance in the biographical drama 'Paan Singh Tomar'."
+            },
+            {
+                "date": "2012",
+                "event": "Starred in the globally acclaimed adventure drama film 'Life of Pi', directed by Ang Lee."
+            },
+            {
+                "date": "2011",
+                "event": "Conferred with the Padma Shri, India's fourth-highest civilian award, by the Government of India."
+            },
+            {
+                "date": "23-08-2003",
+                "event": "Welcomed the birth of his second son, Babil Khan, with his wife Sutapa Sikdar."
+            },
+            {
+                "date": "1997",
+                "event": "Welcomed the birth of his first son, Ayaan Khan, with his wife Sutapa Sikdar."
+            },
+            {
+                "date": "23-02-1995",
+                "event": "Married fellow National School of Drama graduate and writer Sutapa Sikdar."
+            },
+            {
+                "date": "1988",
+                "event": "Made his feature film debut with a small role as a letter writer in Mira Nair's critically acclaimed film 'Salaam Bombay!'."
+            },
+            {
+                "date": "07-01-1966",
+                "event": "Born as Sahabzade Irfan Ali Khan in Jaipur, Rajasthan, India, to Yaseen Ali Khan and Saeeda Begum Khan."
+            }
+        ]
     },
     "response": {
         "ascendant": {

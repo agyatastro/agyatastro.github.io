@@ -14,8 +14,58 @@
         "agyat_rating": "AA",
         "gender": "male",
         "dod": "16/02/1944",
-        "related": ["cinema-director", "cinema-producer"],
-        "about": "<p>Dhundiraj Govind Phalke (Pronunciation: [d̪ʱuɳɖiɾaːd͡ʒ pʰaːɭke]), popularly known as Dadasaheb Phalke (30 April 1870 – 16 February 1944), was an Indian producer-director-screenwriter, known as \"the Father of Indian cinema\".</p><p>His debut film, Raja Harishchandra, was the first Indian movie released in 1913, and is now known as India's first full-length mythological feature film. He made 94 feature-length films and 27 short films in his career, spanning 19 years until 1937, including his most noted works: Mohini Bhasmasur (1913), Satyavan Savitri (1914), Lanka Dahan (1917), Shri Krishna Janma (1918) and Kaliya Mardan (1919). In his honour, the Dadasaheb Phalke Award was instituted as highest honorary award under the National Film Awards by the Government of India.</p>"
+        "advanced": "famous, Award name",
+        "related": [
+            "cinema-director",
+            "cinema-producer"
+        ],
+        "about": "<p>Dhundiraj Govind Phalke (Pronunciation: [d̪ʱuɳɖiɾaːd͡ʒ pʰaːɭke]), popularly known as Dadasaheb Phalke (30 April 1870 – 16 February 1944), was an Indian producer-director-screenwriter, known as \"the Father of Indian cinema\".</p><p>His debut film, Raja Harishchandra, was the first Indian movie released in 1913, and is now known as India's first full-length mythological feature film. He made 94 feature-length films and 27 short films in his career, spanning 19 years until 1937, including his most noted works: Mohini Bhasmasur (1913), Satyavan Savitri (1914), Lanka Dahan (1917), Shri Krishna Janma (1918) and Kaliya Mardan (1919). In his honour, the Dadasaheb Phalke Award was instituted as highest honorary award under the National Film Awards by the Government of India.</p>",
+        "events": [
+            {
+                "date": "16-02-1944",
+                "event": "Passed away at the age of 73 in Nashik, Bombay Presidency, British India, leaving behind an unmatched legacy as the founding pioneer of Indian cinema."
+            },
+            {
+                "date": "1937",
+                "event": "Released his final film and only talkie 'Gangavataran', following which he retired from filmmaking."
+            },
+            {
+                "date": "1932",
+                "event": "Released his last silent feature film 'Setubandhan', marking the end of an era as sound cinema took over the Indian film industry."
+            },
+            {
+                "date": "1918",
+                "event": "Released the blockbuster mythological film 'Shri Krishna Janma', featuring his young daughter Mandakini Phalke as the infant Krishna."
+            },
+            {
+                "date": "1917",
+                "event": "Overcame severe financial debt by releasing 'Lanka Dahan', which became one of the biggest commercial blockbusters of the silent film era."
+            },
+            {
+                "date": "03-05-1913",
+                "event": "Released India's first full-length feature-length silent film 'Raja Harishchandra' at the Coronation Theater in Bombay, officially launching the Indian film industry."
+            },
+            {
+                "date": "1912",
+                "event": "Traveled to London to study filmmaking techniques from British pioneer Cecil Hepworth and acquired essential production equipment and a Williamson camera."
+            },
+            {
+                "date": "1902",
+                "event": "Married Girija Karandikar (subsequently renamed Saraswatibai Phalke), who provided unwavering support throughout his cinematic career and personal life."
+            },
+            {
+                "date": "1900",
+                "event": "Suffered a devastating personal tragedy, losing his first wife and child during the bubonic plague epidemic in Godhra."
+            },
+            {
+                "date": "1890",
+                "event": "Completed his studies in oil and watercolor painting at Kala Bhavan, Maharaja Sayajirao University of Baroda, and began experimenting with photography."
+            },
+            {
+                "date": "30-04-1870",
+                "event": "Born as Dhundiraj Govind Phalke in Trimbak, Bombay Presidency, British India."
+            }
+        ]
     },
     "response": {
         "ascendant": {

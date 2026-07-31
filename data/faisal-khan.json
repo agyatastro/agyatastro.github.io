@@ -14,7 +14,40 @@
         "gender": "male",
         "agyat_rating": "AA",
         "about": "<p>Mohammad Faisal Hussain Khan (born 3 August 1966) is an Indian actor who appears in Hindi films. He is fame for his role as Shankar Shane in Mela.</p><p>Khan is the son of producer Tahir Hussain. His brother is Aamir Khan, who is an actor, director and producer, and he has two sisters, Nikhat Khan, who is a producer and actor, and Farhat Khan. His paternal uncle Nasir Hussain was a film producer and director. His nephew Imran Khan is a former actor and his cousin Tariq Khan was an actor in the 1970s and 1980s. He is a great-grandnephew of Maulana Abul Kalam Azad.</p>",
-        "related": ["aamir-khan-family", "actor"]
+        "related": [
+            "aamir-khan-family",
+            "actor"
+        ],
+        "events": [
+            {
+                "date": "2007",
+                "event": "Faced intense public and media scrutiny during a high-profile custody and legal battle with his ex-wife Reena Dutta over the custody of their children, Junaid and Ira."
+            },
+            {
+                "date": "2002",
+                "event": "Filed for and finalized divorce from his first wife, Reena Dutta, after 16 years of marriage."
+            },
+            {
+                "date": "1988",
+                "event": "Welcomed the birth of his daughter, Ira Khan, with his first wife, Reena Dutta."
+            },
+            {
+                "date": "1993",
+                "event": "Welcomed the birth of his son, Junaid Khan, with his first wife, Reena Dutta."
+            },
+            {
+                "date": "18-04-1986",
+                "event": "Married his first wife, Reena Dutta."
+            },
+            {
+                "date": "1973",
+                "event": "Made his acting debut as a child artist in the classic Hindi film 'Yaadon Ki Baaraat', directed by Nasir Hussain."
+            },
+            {
+                "date": "14-03-1965",
+                "event": "Born as Mohammad Aamir Hussain Khan in Mumbai, Maharashtra, India, to film producer Tahir Hussain and Zeenat Hussain."
+            }
+        ]
     },
     "response": {
         "ascendant": {

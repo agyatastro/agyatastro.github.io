@@ -14,7 +14,40 @@
         "agyat_rating": "AA",
         "gender": "male",
         "about": "<p>Donald John Trump Jr. (born December 31, 1977), often nicknamed Don Jr., is an American businessman and political activist. He is the eldest child of U.S. president Donald Trump and his first wife Ivana.</p><p>Trump serves as a trustee and executive vice president of the Trump Organization, running the company alongside his younger brother Eric. During their father's first presidency, the brothers continued to engage in deals and investments in foreign countries and collect payments at their U.S. properties from foreign governments, despite pledging not to do so. He also served as a boardroom judge on the reality TV show featuring his father, The Apprentice. In addition, he authored Triggered in 2019 and Liberal Privilege in 2020.</p><p>Trump was active in his father's 2016 presidential campaign. He had a meeting with a Russian lawyer who promised damaging information about the campaign of Hillary Clinton in the 2016 presidential election. Trump campaigned for several Republicans during the 2018 midterm elections. He has promoted several conspiracy theories.</p><p>Trump was also active in his father's 2020 presidential campaign, often being on the campaign trail and being featured in the news for making unfounded claims. During the election he called for \"total war\" as the results were counted and promoted the stolen election conspiracy theory. Following his father's defeat, he engaged in attempts to overturn the results. He spoke at the rally that led to the storming of the Capitol, where he threatened Trump's opponents that \"we're coming for you.\" In January 2021, Attorney General for the District of Columbia Karl Racine said that he is looking at whether to charge Donald Trump Jr. with inciting the violent attack on the U.S. Capitol in the criminal investigation into the attack. CNN reported in April 2022 that two days after the election, Trump Jr. sent a text message to White House Chief of Staff Mark Meadows outlining paths to subvert the Electoral College process and ensure his father a second term.</p><p>At the 2024 Republican National Convention, he led the introductions of JD Vance, who had been selected as Donald Trump's running mate.",
-        "related": ["trump-family", "businessperson"]
+        "related": [
+            "trump-family",
+            "businessperson"
+        ],
+        "events": [
+            {
+                "date": "2026",
+                "event": "Announced engagement to Bettina Anderson."
+            },
+            {
+                "date": "2018",
+                "event": "Filed for and finalized divorce from Vanessa Haydon after 12 years of marriage, with whom he shares five children (Kai, Donald III, Tristan, Spencer, and Chloe)."
+            },
+            {
+                "date": "July 2017",
+                "event": "Faced intense public controversy and media scrutiny after emails revealed he attended a 2016 Trump Tower meeting with a Russian lawyer promising damaging information on Hillary Clinton."
+            },
+            {
+                "date": "November 2016",
+                "event": "Played a prominent role on the campaign trail supporting his father's successful presidential election victory, later taking over management of the Trump Organization alongside his brother Eric."
+            },
+            {
+                "date": "12-11-2005",
+                "event": "Married model Vanessa Haydon at his father's Mar-a-Lago estate in Palm Beach, Florida."
+            },
+            {
+                "date": "2001",
+                "event": "Joined the Trump Organization as a full-time executive, managing large-scale real estate developments and construction projects."
+            },
+            {
+                "date": "31-12-1977",
+                "event": "Born as Donald John Trump Jr. in New York City, New York, as the eldest child of real estate mogul Donald Trump and Czech-born model Ivana Trump."
+            }
+        ]
     },
     "response": {
         "ascendant": {

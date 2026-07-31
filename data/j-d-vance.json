@@ -13,8 +13,56 @@
         "location": "Middletown",
         "agyat_rating": "AA",
         "gender": "male",
-        "related": ["politician"],
-        "about": "<p>American politician, lawyer, author and U.S. Marine Corps veteran who has been serving as the junior United States senator from Ohio since 2023. A member of the Republican Party, he is the party's nominee for vice president in the 2024 United States presidential election.</p><p>After graduating from Middletown High School, Vance served from 2003 to 2007 as a combat correspondent, with six months in Iraq. He then attended Ohio State University, graduating in 2009. He graduated from Yale Law School in 2013. His 2016 bestselling memoir Hillbilly Elegy got significant press attention during the 2016 election and became a feature film in 2020.</p><p>In 2021, Vance entered electoral politics as a Republican candidate in the 2022 United States Senate election in Ohio, which he won defeating the Democratic nominee Tim Ryan. Initially opposed to Donald Trump's candidacy in the 2016 election, Vance has since become a strong Trump supporter. In July 2024, Trump nominated Vance as his running mate at the Republican National Convention. He is the first Marine veteran to be nominated for vice president.</p><p>Vance has been called a neoreactionary, national conservative, and a right-wing populist. He has cited Curtis Yarvin, Rod Dreher, and Patrick Deneen as influences on his ideological views and describes himself as a member of the postliberal right. On social issues, he has promoted strongly conservative policies, opposing abortion, same-sex marriage and gun control and is in favor of banning pornography and transgender healthcare for minors. Vance differs from mainstream Republican views on market interventions, taxes, the minimum wage, unionization, tariffs, and antitrust policy, while opposing American military aid to Ukraine.</p><p>James Donald Bowman was born to Beverly Carol (née Vance; born 1961) and Donald Ray Bowman (1959–2023). He is of Scots-Irish descent. His parents divorcee when he was a toddler. Shortly afterward, Bowman was adopted by his mother's third husband, Bob Hamel, and had his name changed to James David Hamel.</p><p>Around 2011, Vance met his wife, Usha Chilukuri, while both were graduate students at Yale Law School, and described her as \"my Yale spirit guide\". In 2014, Vance married Chilukuri in Kentucky, in an interfaith marriage ceremony; she is a Hindu and he a Christian. The Vance couple went on to have three children: two boys, Ewan and Vivek, and the youngest one, daughter Mirabel.</p>"
+        "related": [
+            "politician"
+        ],
+        "about": "<p>American politician, lawyer, author and U.S. Marine Corps veteran who has been serving as the junior United States senator from Ohio since 2023. A member of the Republican Party, he is the party's nominee for vice president in the 2024 United States presidential election.</p><p>After graduating from Middletown High School, Vance served from 2003 to 2007 as a combat correspondent, with six months in Iraq. He then attended Ohio State University, graduating in 2009. He graduated from Yale Law School in 2013. His 2016 bestselling memoir Hillbilly Elegy got significant press attention during the 2016 election and became a feature film in 2020.</p><p>In 2021, Vance entered electoral politics as a Republican candidate in the 2022 United States Senate election in Ohio, which he won defeating the Democratic nominee Tim Ryan. Initially opposed to Donald Trump's candidacy in the 2016 election, Vance has since become a strong Trump supporter. In July 2024, Trump nominated Vance as his running mate at the Republican National Convention. He is the first Marine veteran to be nominated for vice president.</p><p>Vance has been called a neoreactionary, national conservative, and a right-wing populist. He has cited Curtis Yarvin, Rod Dreher, and Patrick Deneen as influences on his ideological views and describes himself as a member of the postliberal right. On social issues, he has promoted strongly conservative policies, opposing abortion, same-sex marriage and gun control and is in favor of banning pornography and transgender healthcare for minors. Vance differs from mainstream Republican views on market interventions, taxes, the minimum wage, unionization, tariffs, and antitrust policy, while opposing American military aid to Ukraine.</p><p>James Donald Bowman was born to Beverly Carol (née Vance; born 1961) and Donald Ray Bowman (1959–2023). He is of Scots-Irish descent. His parents divorcee when he was a toddler. Shortly afterward, Bowman was adopted by his mother's third husband, Bob Hamel, and had his name changed to James David Hamel.</p><p>Around 2011, Vance met his wife, Usha Chilukuri, while both were graduate students at Yale Law School, and described her as \"my Yale spirit guide\". In 2014, Vance married Chilukuri in Kentucky, in an interfaith marriage ceremony; she is a Hindu and he a Christian. The Vance couple went on to have three children: two boys, Ewan and Vivek, and the youngest one, daughter Mirabel.</p>",
+        "events": [
+            {
+                "date": "20-01-2025",
+                "event": "Assumed office as the 50th Vice President of the United States, serving alongside President Donald Trump following their victory in the 2024 presidential election."
+            },
+            {
+                "date": "15-07-2024",
+                "event": "Selected by Donald Trump as his vice presidential running mate at the Republican National Convention in Milwaukee, Wisconsin."
+            },
+            {
+                "date": "03-01-2023",
+                "event": "Assumed office as a United States Senator representing Ohio, following his victory in the 2022 Senate election."
+            },
+            {
+                "date": "2021",
+                "event": "Transitioned into national politics and announced his candidacy for the United States Senate seat from Ohio."
+            },
+            {
+                "date": "2020",
+                "event": "Welcomed the birth of his second son, Mirabel Vance (Note: born to his wife Usha Vance, following their children Ewan and Vivek)."
+            },
+            {
+                "date": "2017",
+                "event": "Welcomed the birth of his first son, Ewan Vance, with his wife Usha Vance."
+            },
+            {
+                "date": "2016",
+                "event": "Achieved massive literary and commercial success with the publication of his bestselling memoir, 'Hillbilly Elegy: A Memoir of a Family and Culture in Crisis'."
+            },
+            {
+                "date": "2014",
+                "event": "Married his former law school classmate and clerk Usha Chilukuri in a ceremony in Kentucky."
+            },
+            {
+                "date": "2013",
+                "event": "Graduated with a Juris Doctor (J.D.) from Yale Law School."
+            },
+            {
+                "date": "2003",
+                "event": "Enlisted in the United States Marine Corps, subsequently serving as a public affairs marine and deploying to Iraq for a non-combat tour."
+            },
+            {
+                "date": "02-08-1984",
+                "event": "Born as James Donald Bowman in Middletown, Ohio, to Donald Bowman and Beverly Vance."
+            }
+        ]
     },
     "response": {
         "ascendant": {

@@ -1,0 +1,287 @@
+{
+    "request": {
+        "name": "Nargis Dutt",
+        "title": "Politician, Actor",
+        "year": 1929,
+        "month": 6,
+        "day": 1,
+        "hour": 3,
+        "minute": 51,
+        "second": 0,
+        "latitude": 22.56263,
+        "longitude": 88.36304,
+        "location": "Kolkata",
+        "gender": "female",
+        "agyat_rating": "AA",
+        "related": ["dutt-family", "actor", "politician"],
+        "about": "</p><p>Nargis was born on 1 June 1929 as Fatima Rashid in Calcutta, in the Bengal Presidency of British India (now Kolkata, West Bengal, India).</p><p>Her father Abdul Rashid, formerly Mohanchand Uttamchand (\"Mohan Babu\") a Mohyal Brahmin, was originally a wealthy heir from Rawalpindi, Punjab who had converted from Hinduism to Islam. Her mother Jaddanbai was from Benares and was a Hindustani classical music singer, becoming one of the early pioneers of Indian cinema. Nargis' mother had moved from Allahabad to Calcutta and later introduced Nargis into the movie culture unfolding in India at the time.</p><p>Nargis' maternal half-brother, Anwar Hussain, was also a film actor.</p>",
+        "events": [
+            {
+                "date": "03-05-1981",
+                "event": "Passed away at the age of 51 in Bombay (now Mumbai) following a prolonged battle with pancreatic cancer, just days before her son Sanjay Dutt's debut film release."
+            },
+            {
+                "date": "03-04-1980",
+                "event": "Nominated as a Member of Parliament in the Rajya Sabha (Upper House) representing the arts constituency."
+            },
+            {
+                "date": "1970s",
+                "event": "Became the first patron of the Spastics Society of India, actively dedicating herself to social work for children with special needs."
+            },
+            {
+                "date": "1971",
+                "event": "Visited Dhaka along with husband Sunil Dutt as part of the Ajanta Arts Cultural Troupe to perform for soldiers following the liberation war of Bangladesh."
+            },
+            {
+                "date": "1967",
+                "event": "Made her acclaimed return to acting in the film 'Raat Aur Din', winning the inaugural National Film Award for Best Actress."
+            },
+            {
+                "date": "03-06-1963",
+                "event": "Welcomed the birth of her third child and younger daughter, Priya Dutt."
+            },
+            {
+                "date": "23-08-1959",
+                "event": "Welcomed the birth of her second child and elder daughter, Namrata Dutt."
+            },
+            {
+                "date": "11-03-1958",
+                "event": "Married her 'Mother India' co-star Sunil Dutt, subsequently retiring from full-time film acting."
+            },
+            {
+                "date": "29-07-1959",
+                "event": "Welcomed the birth of her first child and only son, Bollywood actor Sanjay Dutt."
+            },
+            {
+                "date": "1958",
+                "event": "Conferral of the Padma Shri, India's fourth-highest civilian honor, and won the Filmfare Award for Best Actress for 'Mother India'."
+            },
+            {
+                "date": "1957",
+                "event": "Starred in Mehboob Khan’s epic rural drama 'Mother India', which earned an Academy Award nomination and cemented her legacy as the iconic 'Radha'."
+            },
+            {
+                "date": "1948",
+                "event": "Began her legendary collaborative partnership with Raj Kapoor by starring in his directorial debut 'Aag', followed by a series of massive box-office hits like 'Barsaat' (1949), 'Awaara' (1951), and 'Shree 420' (1955)."
+            },
+            {
+                "date": "1943",
+                "event": "Achieved her major breakthrough as a lead actress in Mehboob Khan's commercially successful film 'Taqdeer' opposite Motilal."
+            },
+            {
+                "date": "1935",
+                "event": "Made her first screen appearance as a child artist in the film 'Talash-E-Haq' credited as Baby Nargis."
+            },
+            {
+                "date": "01-06-1929",
+                "event": "Born as Fatima Rashid in Calcutta, Bengal Presidency, British India."
+            }
+        ]
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 30.066415009995303,
+            "ascendant": 2
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 34.45756468771956,
+                "cusp_degree": 4.457564687719561,
+                "motion_speed": 0.23340638365620406,
+                "zodiac": 2,
+                "house": 1,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 47.07148932044485,
+                "cusp_degree": 17.071489320444847,
+                "motion_speed": 0.9582556883279378,
+                "zodiac": 2,
+                "house": 1,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 320.0688943190718,
+                "cusp_degree": 20.068894319071774,
+                "motion_speed": 12.714428569540228,
+                "zodiac": 11,
+                "house": 10,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 5.576165619046981,
+                "cusp_degree": 5.576165619046981,
+                "motion_speed": 0.6041318119015656,
+                "zodiac": 1,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 107.59481327008854,
+                "cusp_degree": 17.594813270088537,
+                "motion_speed": 0.566695914510368,
+                "zodiac": 4,
+                "house": 3,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 59.11658855605955,
+                "cusp_degree": 29.116588556059547,
+                "motion_speed": -0.2537998386953528,
+                "zodiac": 2,
+                "house": 1,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 245.65225951949643,
+                "cusp_degree": 5.652259519496425,
+                "motion_speed": -0.06787852390801817,
+                "zodiac": 9,
+                "house": 8,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 28.253413709475943,
+                "cusp_degree": 28.253413709475943,
+                "motion_speed": 0.00332665882934789,
+                "zodiac": 1,
+                "house": 12,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 27.40548724177418,
+                "cusp_degree": 27.40548724177418,
+                "motion_speed": -0.05299213885256479,
+                "zodiac": 1,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 207.40548724177418,
+                "motion_speed": -0.05299213885256479,
+                "cusp_degree": 27.405487241774182,
+                "zodiac": 7,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 208.25341370947595,
+                "motion_speed": 0.00332665882934789,
+                "cusp_degree": 28.25341370947595,
+                "zodiac": 7,
+                "house": 6,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1929-06-01",
+        "latitude": 22.56263,
+        "longitude": 88.36304,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2425763.5,
+        "solar_longitude": 47.13736887132501,
+        "lunar_longitude": 320.9438157189802,
+        "lunar_latitude": -4.856244197829818,
+        "sunrise": [
+            2425763.705189454,
+            [
+                4,
+                55,
+                28
+            ],
+            [
+                1929,
+                6,
+                1,
+                4.924546893686056
+            ]
+        ],
+        "sunset": [
+            2425764.258922179,
+            [
+                18,
+                12,
+                51
+            ],
+            [
+                1929,
+                6,
+                1,
+                18.21413230150938
+            ]
+        ],
+        "moonrise": [
+            2425763.502491773,
+            [
+                0,
+                3,
+                35
+            ],
+            [
+                1929,
+                6,
+                1,
+                0.05980255454778671
+            ]
+        ],
+        "moonset": [
+            2425764.003099217,
+            [
+                12,
+                4,
+                28
+            ],
+            [
+                1929,
+                6,
+                1,
+                12.074381209909916
+            ]
+        ],
+        "tithi": [
+            23,
+            [
+                9,
+                23,
+                5
+            ]
+        ],
+        "nakshatra": [
+            "Dhanishta",
+            23,
+            [
+                21,
+                32,
+                32
+            ]
+        ],
+        "yoga": [
+            "Vishkumbha",
+            0
+        ],
+        "karana": [
+            46,
+            -0.23082721019204655
+        ],
+        "vaara": "Shanivara",
+        "lunar_phase": 273.8064468476552,
+        "masa": [
+            "Jyeshtha",
+            3,
+            false
+        ],
+        "ahargana": 1837298,
+        "ritu": "Varsha Ritu (Monsoon)",
+        "samvatsara": 2,
+        "day_duration": [
+            13.289585407823324,
+            [
+                13,
+                17,
+                23
+            ]
+        ]
+    }
+}

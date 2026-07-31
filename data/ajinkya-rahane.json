@@ -1,0 +1,283 @@
+ {
+    "request": {
+        "name": "Ajinkya Rahane",
+        "title": "Sportsperson, Cricket",
+        "year": 1988,
+        "month": 6,
+        "day": 6,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 19.56784,
+        "longitude": 74.21154,
+        "location": "Sangamner",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "related": ["cricketer", "sportsperson"],
+        "about": "<p>Ajinkya Madhukar Rahane (born 6 June 1988) is a former Indian professional cricketer and also captained the India national cricket team in all three formats. He formerly played for and captained Mumbai in domestic cricket. He played primarily as a middle-order batsman in the Test format and as a top-order batsman in white-ball forms of the game. India lost only one match under his captaincy.</p><p>Rahane made his first-class debut in 2007–08 Ranji Trophy season for Mumbai. He made his international debut in a Twenty20 International against England at Manchester in August 2011[1][2] and his Test debut in March 2013 against Australia. His first Test century came at the Basin Reserve, Wellington against New Zealand.[3] Under his captaincy, India won the 2020-21 Border–Gavaskar Trophy in Australia.[4]</p><p>On 30 July 2026, Rahane announced his retirement from all forms of professional cricket</p>",
+        "events": [
+            {
+                "date": "30-07-2026",
+                "event": "Announced his retirement from international cricket and all formats of the game via an emotional video statement after a distinguished career spanning over a decade."
+            },
+            {
+                "date": "2024",
+                "event": "Led the Mumbai cricket team to victory in the Ranji Trophy final against Vidarbha, capturing another domestic title."
+            },
+            {
+                "date": "11-06-2023",
+                "event": "Finished as India's highest scorer in the first innings of the ICC World Test Championship Final against Australia at The Oval, marking his return to the Test setup."
+            },
+            {
+                "date": "19-01-2021",
+                "event": "Captain-led an injury-depleted Indian national team to a historic 2-1 Test series victory in Australia (Border-Gavaskar Trophy), highlighted by a famous win at the Gabba."
+            },
+            {
+                "date": "26-12-2020",
+                "event": "Scored a crucial century as captain during the Boxing Day Test against Australia in Melbourne, rescuing India's series campaign."
+            },
+            {
+                "date": "05-10-2019",
+                "event": "Welcomed the birth of his second child, a son named Raghav, with his wife Radhika Dhopavkar."
+            },
+            {
+                "date": "04-10-2019",
+                "event": "Welcomed the birth of his first child, a daughter named Aarya."
+            },
+            {
+                "date": "2016",
+                "event": "Conferred with the prestigious Arjuna Award by the Government of India in recognition of his outstanding sporting achievements."
+            },
+            {
+                "date": "17-07-2014",
+                "event": "Scored a magnificent maiden Test century (103) at Lord's against England, guiding India to a historic victory and cementing his place as an overseas specialist."
+            },
+            {
+                "date": "26-09-2014",
+                "event": "Married his childhood friend Radhika Dhopavkar in a traditional ceremony."
+            },
+            {
+                "date": "22-03-2013",
+                "event": "Made his Test match debut for the India national cricket team against Australia in Delhi."
+            },
+            {
+                "date": "03-09-2011",
+                "event": "Made his international debut for India in a Twenty20 International against England at Manchester."
+            },
+            {
+                "date": "September 2007",
+                "event": "Made his first-class debut for Mumbai in the Mohammad Nissar Trophy against Karachi Urban at Karachi."
+            },
+            {
+                "date": "06-06-1988",
+                "event": "Born as Ajinkya Madhukar Rahane in Ashwi Khurd, Maharashtra, India."
+            }
+        ]
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 134.31372747283586,
+            "ascendant": 5
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 27.0250426650796,
+                "cusp_degree": 27.0250426650796,
+                "motion_speed": 0.22628074480489338,
+                "zodiac": 1,
+                "house": 9,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 52.07191682720712,
+                "cusp_degree": 22.07191682720712,
+                "motion_speed": 0.956773671437116,
+                "zodiac": 2,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 308.9718451424205,
+                "cusp_degree": 8.971845142420477,
+                "motion_speed": 14.191556959536099,
+                "zodiac": 11,
+                "house": 7,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 62.525687379183275,
+                "cusp_degree": 2.5256873791832746,
+                "motion_speed": -0.5406842123931074,
+                "zodiac": 3,
+                "house": 11,
+                "motion": "R"
+            },
+            "Mars": {
+                "degree": 315.6713758983929,
+                "cusp_degree": 15.67137589839291,
+                "motion_speed": 0.6122188357743616,
+                "zodiac": 11,
+                "house": 7,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 62.07828996857196,
+                "cusp_degree": 2.0782899685719585,
+                "motion_speed": -0.36136642208414793,
+                "zodiac": 3,
+                "house": 11,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 246.5848515718111,
+                "cusp_degree": 6.5848515718111,
+                "motion_speed": -0.07019436965302517,
+                "zodiac": 9,
+                "house": 5,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 325.12052721698274,
+                "cusp_degree": 25.120527216982737,
+                "motion_speed": -0.012366631381649009,
+                "zodiac": 11,
+                "house": 7,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 325.1438003081319,
+                "cusp_degree": 25.143800308131915,
+                "motion_speed": -0.05299203229776486,
+                "zodiac": 11,
+                "house": 7,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 145.14380030813192,
+                "motion_speed": -0.05299203229776486,
+                "cusp_degree": 25.143800308131915,
+                "zodiac": 5,
+                "house": 1,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 145.12052721698274,
+                "motion_speed": -0.012366631381649009,
+                "cusp_degree": 25.120527216982737,
+                "zodiac": 5,
+                "house": 1,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1988-06-06",
+        "latitude": 19.56784,
+        "longitude": 74.21154,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2447318.5,
+        "solar_longitude": 51.81278482485352,
+        "lunar_longitude": 305.1250225603018,
+        "lunar_latitude": -1.727910778720372,
+        "sunrise": [
+            2447318.7483345955,
+            [
+                5,
+                57,
+                36
+            ],
+            [
+                1988,
+                6,
+                6,
+                5.9600302912294865
+            ]
+        ],
+        "sunset": [
+            2447319.2958732606,
+            [
+                19,
+                6,
+                3
+            ],
+            [
+                1988,
+                6,
+                6,
+                19.1009582541883
+            ]
+        ],
+        "moonrise": [
+            2447319.5201128577,
+            [
+                24,
+                28,
+                58
+            ],
+            [
+                1988,
+                6,
+                7,
+                0.4827085845172405
+            ]
+        ],
+        "moonset": [
+            2447318.9833140546,
+            [
+                11,
+                35,
+                58
+            ],
+            [
+                1988,
+                6,
+                6,
+                11.599537309259176
+            ]
+        ],
+        "tithi": [
+            22,
+            [
+                25,
+                21,
+                46
+            ]
+        ],
+        "nakshatra": [
+            "Shravana",
+            22,
+            [
+                25,
+                39,
+                6
+            ]
+        ],
+        "yoga": [
+            "Vishkumbha",
+            0
+        ],
+        "karana": [
+            42,
+            -4.602139337434039
+        ],
+        "vaara": "Somavara",
+        "lunar_phase": 253.31223773544826,
+        "masa": [
+            "Jyeshtha",
+            3,
+            false
+        ],
+        "ahargana": 1858853,
+        "ritu": "Varsha Ritu (Monsoon)",
+        "samvatsara": 1,
+        "day_duration": [
+            13.140927962958813,
+            [
+                13,
+                8,
+                27
+            ]
+        ]
+    }
+}

@@ -13,9 +13,62 @@
         "location": "Kanpur, Uttar Pradesh",
         "agyat_rating": "AA",
         "gender": "male",
-        "related": ["politician", "chief-minister"],
+        "related": [
+            "politician",
+            "chief-minister"
+        ],
         "advanced": "legal-issues, detention",
-        "about": "<p>Kamal Nath (born 18 November 1946; Hindi pronunciation: [kəməl n̪aːt̪ʰ]) is an Indian politician who served as the 18th Chief Minister of Madhya Pradesh for approximately 15 months and resigned after a political crisis. He was the Leader of the Opposition in the Madhya Pradesh Legislative Assembly from March 2020 to April 2022.</p><p> As a leader of the Indian National Congress he has served as the Minister of Urban Development. He is one of the longest serving and most senior members of the Lok Sabha, the lower house of India's bicameral Parliament. He was appointed the Pro Tem Speaker of the 16th Lok Sabha. He has been elected nine times from the Chhindwara Lok Sabha constituency of Madhya Pradesh. Nath was elected president of the Madhya Pradesh Congress Committee in May 2018, leading the party in the November–December 2018 assembly election. He assumed the office of Chief Minister on 17 December 2018 and resigned on 20 March 2020 due to lack of majority in government.</p>"
+        "about": "<p>Kamal Nath (born 18 November 1946; Hindi pronunciation: [kəməl n̪aːt̪ʰ]) is an Indian politician who served as the 18th Chief Minister of Madhya Pradesh for approximately 15 months and resigned after a political crisis. He was the Leader of the Opposition in the Madhya Pradesh Legislative Assembly from March 2020 to April 2022.</p><p> As a leader of the Indian National Congress he has served as the Minister of Urban Development. He is one of the longest serving and most senior members of the Lok Sabha, the lower house of India's bicameral Parliament. He was appointed the Pro Tem Speaker of the 16th Lok Sabha. He has been elected nine times from the Chhindwara Lok Sabha constituency of Madhya Pradesh. Nath was elected president of the Madhya Pradesh Congress Committee in May 2018, leading the party in the November–December 2018 assembly election. He assumed the office of Chief Minister on 17 December 2018 and resigned on 20 March 2020 due to lack of majority in government.</p>",
+        "events": [
+            {
+                "date": "04-06-2024",
+                "event": "Suffered a major political blow as his long-standing family and party stronghold of Chhindwara slipped to the BJP, with his son Nakul Nath losing the Lok Sabha seat in the general elections."
+            },
+            {
+                "date": "20-03-2020",
+                "event": "Resigned as the 18th Chief Minister of Madhya Pradesh following a intense political crisis triggered by Jyotiraditya Scindia's exit from the Congress and the subsequent resignation of several party MLAs."
+            },
+            {
+                "date": "17-12-2018",
+                "event": "Sworn in as the 18th Chief Minister of Madhya Pradesh, leading the Indian National Congress back to power in the state after 15 years."
+            },
+            {
+                "date": "May 2018",
+                "event": "Appointed as the President of the Madhya Pradesh Congress Committee (MPCC) to lead and supervise the party's assembly election campaign."
+            },
+            {
+                "date": "2014",
+                "event": "Served as the Pro Tem Speaker of the newly elected 16th Lok Sabha and famously administered the oath to Prime Minister Narendra Modi."
+            },
+            {
+                "date": "2012",
+                "event": "Assumed additional charge as the Union Minister for Parliamentary Affairs in the UPA government."
+            },
+            {
+                "date": "2011",
+                "event": "Appointed as the Union Minister of Urban Development in a cabinet reshuffle, and later recognized as one of the richest cabinet ministers in India."
+            },
+            {
+                "date": "2009",
+                "event": "Elected to the 15th Lok Sabha and appointed as the Union Minister for Road Transport and Highways."
+            },
+            {
+                "date": "2004",
+                "event": "Re-elected to the Lok Sabha and served as the Union Cabinet Minister of Commerce & Industry under the UPA government."
+            },
+            {
+                "date": "27-01-1973",
+                "event": "Married Alka Nath."
+            },
+            {
+                "date": "1980",
+                "event": "Elected to the 7th Lok Sabha from Chhindwara, Madhya Pradesh, marking his entry into national parliament as a close associate of Sanjay Gandhi and Indira Gandhi."
+            },
+            {
+                "date": "18-11-1946",
+                "event": "Born as Kamal Nath in Kanpur, United Provinces, British India (now Uttar Pradesh, India), to Mahendra Nath and Leela Nath."
+            }
+        ]
     },
     "response": {
         "ascendant": {

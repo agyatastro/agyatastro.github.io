@@ -15,7 +15,40 @@
         "gender": "male",
         "advanced": "legal-issues, detention",
         "about": "<p>Kalvakuntla Taraka Rama Rao (born 24 July 1976), commonly known as KTR, is an Indian politician and Member of Legislative Assembly (MLA) of Telangana Legislative Assembly. He is a former Minister for Municipal Administration and Urban Development, Industries and Commerce, and Information Technology, Electronics and Communications of Telangana. He represents Sircilla assembly constituency in the Telangana Legislative Assembly, he is also the working president of the Bharat Rashtra Samithi.</p><p>He is the son of K. Chandrashekar Rao, former Chief Minister of Telangana and the founder of Telangana Rashtra Samithi (now Bharat Rashtra Samiti). Rama Rao has been awarded Most Inspirational Icon of the Year 2015 by CNN-IBN and Ritz Magazine. Rao visited Mahabububad for mega dharna on 25 November 2024.</p>",
-        "related": ["kcr", "politician"]
+        "related": [
+            "kcr",
+            "politician"
+        ],
+        "events": [
+            {
+                "date": "31-07-2026",
+                "event": "Personally appeared before the Special ACB Court in Hyderabad in connection with the Formula E-car race case, submitting a personal bond and completing formalities."
+            },
+            {
+                "date": "20-03-2025",
+                "event": "Declared 2025 as a 'year of struggle' for the BRS and announced plans to launch a statewide padayatra to protest against the policies of the Congress-led Telangana government."
+            },
+            {
+                "date": "03-12-2023",
+                "event": "Transitioned out of cabinet office following the defeat of the Bharat Rashtra Samithi (BRS) in the Telangana Legislative Assembly elections."
+            },
+            {
+                "date": "08-09-2019",
+                "event": "Assumed office as the working president of the Telangana Rashtra Samithi (later renamed Bharat Rashtra Samithi - BRS), alongside handling key cabinet portfolios including IT, Industries & Commerce, and Municipal Administration & Urban Development."
+            },
+            {
+                "date": "02-06-2014",
+                "event": "Sworn in as a Cabinet Minister in the newly formed state of Telangana, taking charge of IT, Panchayat Raj, and Rural Development departments."
+            },
+            {
+                "date": "2009",
+                "event": "Made his political debut by successfully winning the Sircilla Assembly Constituency on a TRS ticket during the Andhra Pradesh state assembly elections."
+            },
+            {
+                "date": "24-07-1976",
+                "event": "Born as Kalvakuntla Taraka Rama Rao (popularly known as KTR) in Siddipet, Andhra Pradesh (now Telangana), to political leader K. Chandrashekhar Rao and K. Shobha."
+            }
+        ]
     },
     "response": {
         "ascendant": {

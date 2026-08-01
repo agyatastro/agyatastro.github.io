@@ -15,7 +15,45 @@
         "gender": "male",
         "advanced": "legal-issues, detention, alcoholism",
         "about": "Kalvakuntla Chandrashekar Rao (born 17 February 1954), frequently known by his initials KCR, is an Indian politician currently representing the Gajwel Assembly constituency and serving as the leader of the opposition in the Telangana Legislative Assembly. He is the founder and leader of the Bharat Rashtra Samithi, a state party in India. After heading the Telangana Movement, he was the first Chief Minister of Telangana and held the position for almost 10 years.",
-        "related": ["k-t-rama-rao", "politician", "chief-minister"]
+        "related": [
+            "k-t-rama-rao",
+            "politician",
+            "chief-minister"
+        ],
+        "events": [
+            {
+                "date": "01-02-2026",
+                "event": "Appeared for questioning by a Special Investigation Team (SIT) in connection with the high-profile Telangana phone-tapping case probe."
+            },
+            {
+                "date": "29-12-2025",
+                "event": "Returned to active legislative proceedings by attending the Telangana Legislative Assembly session for the first time since the BRS electoral defeat in December 2023."
+            },
+            {
+                "date": "September 2025",
+                "event": "Suspended his daughter, K. Kavitha, from the Bharat Rashtra Samithi (BRS) due to alleged anti-party activities amid rising internal party and family turmoil."
+            },
+            {
+                "date": "07-12-2023",
+                "event": "Concluded his nearly decade-long historic tenure as the first Chief Minister of Telangana following the BRS party's defeat in the assembly elections."
+            },
+            {
+                "date": "05-10-2022",
+                "event": "Officially transitioned the party name from Telangana Rashtra Samithi (TRS) to Bharat Rashtra Samithi (BRS), signaling ambitions to expand into national politics."
+            },
+            {
+                "date": "02-06-2014",
+                "event": "Sworn in as the first Chief Minister of the newly carved state of Telangana, fulfilling a decades-long statehood movement."
+            },
+            {
+                "date": "27-04-2001",
+                "event": "Founded the Telangana Rashtra Samithi (TRS) with the single-agenda mission of achieving statehood for Telangana."
+            },
+            {
+                "date": "17-02-1954",
+                "event": "Born as Kalvakuntla Chandrashekar Rao (KCR) in Chintamadaka, Medak district, Hyderabad State (now Telangana, India)."
+            }
+        ]
     },
     "response": {
         "ascendant": {

@@ -15,7 +15,56 @@
         "gender": "male",
         "dod": "30/08/2008",
         "about": "<p>Born at Pilani in the northwestern Indian state Rajasthan on 11 November 1918, Krishna Kumar Birla was the second son of Ghanshyam Das Birla. He had one older brother, Lakshmi Niwas Birla, who was the son of Ghanshyam Das Birla by his deceased first wife, Durga Devi Birla. Krishna Kumar was the elder of the two sons born to Ghanshyam Das Birla's second wife, Mahadevi Birla, the other son being Basant Kumar Birla, father of Aditya Vikram Birla. Krishna Kumar also had three sisters, all of whom were born to Mahadevi Birla.</p><p>Birla's birthday coincided with the Hindu festival of Gopashtami, which is associated with the Hindu god Krishna and thus led to the selection of his name.</p><p>Krishna Kumar's father, Ghanshyam Das Birla, was the founder of the Birla Group and he was one of India's richest businessmen. He was also a staunch follower of Mahatma Gandhi and a major financier of Gandhi's Congress Party in the years preceding and immediately following the Independence of India in 1947.[1] Krishna Kumar joined Congress Party in 1984 as a life member. He was elected as a Rajya Sabha member in the same year, under the leadership of Indira Gandhi. He was a Member of Parliament for three terms from 1984 to 2002, and served on several committees of Parliament. He was appointed twice, in 1980 and 2004, as a member of the National Integration Council chaired by the prime minister.</p><p>Birla was one of the industrialists who supported economic reforms in India in 1991.</p><p>Birla was a Hindi Prabhakar (Honours in Hindi) and in 1997 was conferred the degree of Doctor of Letters (Honoris Causa) by Pondicherry University. In 1991, Birla established the K.K. Birla Foundation to promote Hindi literature.</p><p>He was the chairman of one of the Hindustan Times. He was on the central board of the State Bank of India and ICICI. He headed the Federation of Indian Chambers of Commerce and Industries (FICCI), the Indian Sugar Mills Association and many Sports Federations. Birla was the group chairman of the Zuari-Chambal group of companies. He was also the Chairman of Zuari-Chambal-Paradeep.</p><p>He liked playing bridge. He was president of the Bridge Federation of India for a number of years and also headed the Indian Lawn Tennis Association</p>",
-        "related": ["birla-family", "businessperson"]
+        "related": [
+            "birla-family",
+            "businessperson"
+        ],
+        "events": [
+            {
+                "date": "30-08-2008",
+                "event": "Passed away at the age of 89 at his residence, Birla Park in Kolkata, due to age-related ailments and pneumonia, exactly one month after the passing of his wife Manorama Devi."
+            },
+            {
+                "date": "29-07-2008",
+                "event": "Suffered the personal loss of his wife, Manorama Devi, with whom he shared a marriage of 67 years."
+            },
+            {
+                "date": "2002",
+                "event": "Concluded his extensive tenure as a Member of Parliament in the Rajya Sabha after serving for 18 consecutive years across three terms."
+            },
+            {
+                "date": "1997",
+                "event": "Conferred with the degree of Doctor of Letters (Honoris Causa) by Pondicherry University for his contributions to scholarship and education."
+            },
+            {
+                "date": "1996",
+                "event": "Inaugurated the magnificent Shri Radha-Krishna Temple in Kolkata, constructed by him and his wife to serve as a major cultural and spiritual landmark."
+            },
+            {
+                "date": "1991",
+                "event": "Established the K.K. Birla Foundation to promote Hindi literature, art, and culture, and actively supported the historic economic reforms in India."
+            },
+            {
+                "date": "1984",
+                "event": "Officially joined the Indian National Congress as a life member and was elected to the Rajya Sabha under the leadership of Indira Gandhi."
+            },
+            {
+                "date": "1961",
+                "event": "Elected as the Sheriff of Calcutta, recognizing his prominent status in the city's business and civic community."
+            },
+            {
+                "date": "30-01-1948",
+                "event": "Witnessed the tragic assassination of Mahatma Gandhi, who had been residing at his family's New Delhi property (Birla House) for the previous several months."
+            },
+            {
+                "date": "1940",
+                "event": "Graduated from Punjab University, Lahore, and formally entered the sugar industry, marking his entry into the family's extensive business empire."
+            },
+            {
+                "date": "12-10-1918",
+                "event": "Born as Krishna Kumar Birla in Pilani, Rajasthan, British India, to legendary industrialist Ghanshyam Das Birla and Mahadevi Birla."
+            }
+        ]
     },
     "response": {
         "ascendant": {

@@ -13,8 +13,65 @@
         "location": "Paramakudi, Tamilnadu",
         "agyat_rating": "AA",
         "gender": "male",
-        "related": ["politician", "actor"],
-        "about": "Parthasarathy Srinivasan (born 7 November 1954), known professionally as Kamal Haasan, is an Indian actor, film director, film producer, screenwriter, choreographer, playback singer, lyricist, television presenter, social activist and politician who works in Tamil cinema. Besides Tamil films, he has also appeared in some Malayalam, Telugu, Hindi, Kannada and Bengali films. Considered as one of the greatest actors in the history of Indian Cinema, Haasan is also known for introducing many new technologies to Tamil cinema. He has won numerous accolades, including four National Film Awards, nine Tamil Nadu State Film Awards, four Nandi Awards, one Rashtrapati Award, two Filmfare Awards and eighteen Filmfare Awards South. He was awarded the Kalaimamani Award in 1984, the Padma Shri in 1990, the Padma Bhushan in 2014 and the Order of Arts and Letters (Chevalier) in 2016."
+        "related": [
+            "politician",
+            "actor"
+        ],
+        "about": "Parthasarathy Srinivasan (born 7 November 1954), known professionally as Kamal Haasan, is an Indian actor, film director, film producer, screenwriter, choreographer, playback singer, lyricist, television presenter, social activist and politician who works in Tamil cinema. Besides Tamil films, he has also appeared in some Malayalam, Telugu, Hindi, Kannada and Bengali films. Considered as one of the greatest actors in the history of Indian Cinema, Haasan is also known for introducing many new technologies to Tamil cinema. He has won numerous accolades, including four National Film Awards, nine Tamil Nadu State Film Awards, four Nandi Awards, one Rashtrapati Award, two Filmfare Awards and eighteen Filmfare Awards South. He was awarded the Kalaimamani Award in 1984, the Padma Shri in 1990, the Padma Bhushan in 2014 and the Order of Arts and Letters (Chevalier) in 2016.",
+        "events": [
+            {
+                "date": "25-07-2025",
+                "event": "Took oath as a Member of Parliament representing Tamil Nadu in the Rajya Sabha (the upper house of the Parliament of India)."
+            },
+            {
+                "date": "05-06-2025",
+                "event": "Starred in the action thriller film 'Thug Life', directed by Mani Ratnam, marking their notable on-screen reunion decades after 'Nayakan'."
+            },
+            {
+                "date": "27-06-2024",
+                "event": "Played a prominent antagonist role as Supreme Yaskin in the epic dystopian science fiction film 'Kalki 2898 AD', which emerged as one of the highest-grossing Indian films of all time."
+            },
+            {
+                "date": "03-06-2022",
+                "event": "Achieved massive commercial and critical success starring in the high-octane action thriller 'Vikram', directed by Lokesh Kanagaraj."
+            },
+            {
+                "date": "21-02-2018",
+                "event": "Launched his political party, Makkal Needhi Maiam (MNM), aiming for political reform and anti-corruption in Tamil Nadu."
+            },
+            {
+                "date": "2016",
+                "event": "Conferred with the prestigious French civilian honor 'Chevalier de L'Ordre des Arts et des Lettres' (Knight of the Order of Arts and Letters) by the Government of France."
+            },
+            {
+                "date": "2014",
+                "event": "Honored with the Padma Bhushan, India's third-highest civilian award, by the Government of India."
+            },
+            {
+                "date": "1996",
+                "event": "Won his third National Film Award for Best Actor for his powerful dual-role performance in the vigilante action thriller film 'Indian'."
+            },
+            {
+                "date": "1990",
+                "event": "Conferred with the Padma Shri, India's fourth-highest civilian award, for his exceptional contributions to Indian cinema."
+            },
+            {
+                "date": "1987",
+                "event": "Won his second National Film Award for Best Actor for his legendary portrayal of Velu Naicker in Mani Ratnam's classic crime drama 'Nayakan'."
+            },
+            {
+                "date": "1982",
+                "event": "Won his first National Film Award for Best Actor for his critically acclaimed performance in the romantic drama 'Moondram Pirai'."
+            },
+            {
+                "date": "1960",
+                "event": "Made his acting debut as a child artist in the film 'Kalathur Kannamma', winning the President's Gold Medal (Rashtrapati Award) for Best Child Artist."
+            },
+            {
+                "date": "07-11-1954",
+                "event": "Born as Parthasarathy Srinivasan (later known as Kamal Haasan) in Paramakudi, Ramanathapuram district, Madras State, to D. Srinivasan and Rajalakshmi."
+            }
+        ]
     },
     "response": {
         "ascendant": {

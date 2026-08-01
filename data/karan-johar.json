@@ -14,7 +14,45 @@
         "agyat_rating": "AU",
         "advanced": "Dharma Production, lgbtq, Padma Shri",
         "about": "<p>Karan Kumar Johar (born Rahul Kumar Johar; 25 May 1972), often informally referred to as KJo, is an Indian filmmaker, producer and television personality who primarily works in Hindi cinema. He has launched the careers of several successful actors and filmmakers under his company Dharma Productions. The recipient of several accolades, including three National Film Awards and seven Filmfare Awards, he has been honoured with the Padma Shri by the Government of India in 2020.</p><p>The son of producer Yash Johar, he made his directorial debut with the romantic comedy-drama Kuch Kuch Hota Hai (1998), which earned him the National Film Award for Best Popular Film Providing Wholesome Entertainment (as director), the Filmfare Award for Best Director and the Filmfare Award for Best Screenplay. His next films, the family drama Kabhi Khushi Kabhie Gham... (2001) and the musical romantic drama Kabhi Alvida Naa Kehna (2006), were both major commercial successes in both domestic and overseas markets. His social drama My Name Is Khan (2010) earned him his second Filmfare Award for Best Director. Johar produced the spy thriller Raazi (2018) and the biopic Shershaah (2021), both of which won him the Filmfare Award for Best Film, with the latter also earning him the National Film Award – Special Jury Mention as producer. Later, as producer of the fantasy film Brahmāstra: Part One – Shiva (2022), he won the inaugural National Film Award for Best Film in AVGC. These, along with other films he has produced or directed under his company, have established him as one of the leading filmmakers in Hindi cinema.</p><p>Johar has also ventured into other avenues of the entertainment industry. He hosts a television talk show, Koffee with Karan since 2004, a dating show What the Love! and a radio show Calling Karan, and appeared as a judge on competition reality shows Jhalak Dikhhla Jaa and India's Got Talent.</p>",
-        "related": ["chopra-johar-family", "cinema-producer", "cinema-director"]
+        "related": [
+            "chopra-johar-family",
+            "cinema-producer",
+            "cinema-director"
+        ],
+        "events": [
+            {
+                "date": "August 2025",
+                "event": "Offered a strong indication of his return to the director's chair, announcing plans to step back behind the camera in 2026 for a new project focused on classic, old-school Hindi cinema."
+            },
+            {
+                "date": "28-07-2023",
+                "event": "Returned to feature film directing after a hiatus with the romantic comedy-drama 'Rocky Aur Rani Kii Prem Kahaani', starring Ranveer Singh and Alia Bhatt."
+            },
+            {
+                "date": "2020",
+                "event": "Conferred with the Padma Shri, India's fourth-highest civilian award, by the Government of India for his contributions to the arts and cinema."
+            },
+            {
+                "date": "February 2017",
+                "event": "Became a single father to twins, son Yash Johar and daughter Roohi Johar, born via surrogacy."
+            },
+            {
+                "date": "19-11-2004",
+                "event": "Premiered his landmark celebrity talk show 'Koffee with Karan' on Star World, cementing his role as a prominent television personality."
+            },
+            {
+                "date": "16-10-1998",
+                "event": "Made his highly successful feature film directorial debut with the blockbuster romantic comedy-drama 'Kuch Kuch Hota Hai', winning the Filmfare Award for Best Director and Best Screenplay."
+            },
+            {
+                "date": "20-10-1995",
+                "event": "Worked as an assistant director, costume designer, and made an on-screen acting appearance in Aditya Chopra's landmark blockbuster 'Dilwale Dulhania Le Jayenge' (DDLJ)."
+            },
+            {
+                "date": "25-05-1972",
+                "event": "Born as Rahul Kumar Johar (later known as Karan Johar) in Bombay, Maharashtra, India, to veteran film producer Yash Johar and Hiroo Johar."
+            }
+        ]
     },
     "response": {
         "ascendant": {

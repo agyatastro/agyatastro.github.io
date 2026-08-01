@@ -13,8 +13,72 @@
         "location": "Oakland",
         "agyat_rating": "AA",
         "gender": "female",
-        "related": ["politician"],
-        "about": "<p>Kamala Devi Harris (/ˈkɑːmələ ˈdeɪvi/ KAH-mə-lə DAY-vee; born October 20, 1964) is an American politician and attorney who served as the 49th vice president of the United States from 2021 to 2025 under President Joe Biden. She is the first female, first African American, and first Asian American U.S. vice president, and the highest-ranking female and Asian American official in U.S. history. Harris represented California in the U.S. senate from 2017 to 2021 and was the attorney general of California from 2011 to 2017. A member of the Democratic Party, she was the party's nominee in the 2024 presidential election.</p><p>Born in Oakland, California, Harris graduated from Howard University and the University of California, Hastings College of the Law. She began her law career in the office of the district attorney of Alameda County. Harris was recruited to the San Francisco District Attorney's Office and later to the office of the city attorney of San Francisco. She was elected district attorney of San Francisco in 2003 and attorney general of California in 2010, and reelected as attorney general in 2014.</p><p>Harris was the junior U.S. senator from California from 2017 to 2021 after winning the 2016 Senate election. She was the second Black woman and first South Asian American U.S. senator. As a senator, Harris advocated for stricter gun control laws, the DREAM Act, federal legalization of cannabis, and reforms to healthcare and taxation. She gained a national profile while asking pointed questions of officials from the first presidency of Republican president Donald Trump during Senate hearings, including his second U.S. Supreme Court nominee, Brett Kavanaugh.</p><p>Harris sought the 2020 Democratic presidential nomination in 2019, but withdrew from the race before the primaries. Biden selected her as his running mate; their ticket defeated the incumbent president and vice president, Trump and Mike Pence, in the 2020 presidential election. When her vice presidency began, Harris presided over an evenly split U.S. Senate. She cast 33 tie-breaking votes, more than any other vice president, including votes to pass the American Rescue Plan Act of 2021 and the Inflation Reduction Act.</p><p>In July 2024, after Biden withdrew his candidacy from the 2024 presidential election, Harris launched her own presidential campaign with his endorsement. She later became the nominee and selected Minnesota governor Tim Walz as her running mate. She ultimately lost the election to the Republican nominees, former president Trump and Ohio senator JD Vance.</p>"
+        "related": [
+            "politician"
+        ],
+        "about": "<p>Kamala Devi Harris (/ˈkɑːmələ ˈdeɪvi/ KAH-mə-lə DAY-vee; born October 20, 1964) is an American politician and attorney who served as the 49th vice president of the United States from 2021 to 2025 under President Joe Biden. She is the first female, first African American, and first Asian American U.S. vice president, and the highest-ranking female and Asian American official in U.S. history. Harris represented California in the U.S. senate from 2017 to 2021 and was the attorney general of California from 2011 to 2017. A member of the Democratic Party, she was the party's nominee in the 2024 presidential election.</p><p>Born in Oakland, California, Harris graduated from Howard University and the University of California, Hastings College of the Law. She began her law career in the office of the district attorney of Alameda County. Harris was recruited to the San Francisco District Attorney's Office and later to the office of the city attorney of San Francisco. She was elected district attorney of San Francisco in 2003 and attorney general of California in 2010, and reelected as attorney general in 2014.</p><p>Harris was the junior U.S. senator from California from 2017 to 2021 after winning the 2016 Senate election. She was the second Black woman and first South Asian American U.S. senator. As a senator, Harris advocated for stricter gun control laws, the DREAM Act, federal legalization of cannabis, and reforms to healthcare and taxation. She gained a national profile while asking pointed questions of officials from the first presidency of Republican president Donald Trump during Senate hearings, including his second U.S. Supreme Court nominee, Brett Kavanaugh.</p><p>Harris sought the 2020 Democratic presidential nomination in 2019, but withdrew from the race before the primaries. Biden selected her as his running mate; their ticket defeated the incumbent president and vice president, Trump and Mike Pence, in the 2020 presidential election. When her vice presidency began, Harris presided over an evenly split U.S. Senate. She cast 33 tie-breaking votes, more than any other vice president, including votes to pass the American Rescue Plan Act of 2021 and the Inflation Reduction Act.</p><p>In July 2024, after Biden withdrew his candidacy from the 2024 presidential election, Harris launched her own presidential campaign with his endorsement. She later became the nominee and selected Minnesota governor Tim Walz as her running mate. She ultimately lost the election to the Republican nominees, former president Trump and Ohio senator JD Vance.</p>",
+        "events": [
+            {
+                "date": "July 2025",
+                "event": "Announced that she would not run for governor of California in the upcoming 2026 midterm elections."
+            },
+            {
+                "date": "20-01-2025",
+                "event": "Concluded her historic term as the 49th Vice President of the United States following the inauguration of Donald Trump."
+            },
+            {
+                "date": "05-11-2024",
+                "event": "Sustained a defeat in the U.S. presidential election against Republican nominee Donald Trump."
+            },
+            {
+                "date": "21-07-2024",
+                "event": "Officially launched her historic campaign for President of the United States after President Joe Biden withdrew from the race and endorsed her nomination."
+            },
+            {
+                "date": "14-03-2024",
+                "event": "Became the first sitting U.S. Vice President or President to visit a reproductive health clinic, touring an abortion facility in St. Paul, Minnesota."
+            },
+            {
+                "date": "20-01-2021",
+                "event": "Sworn in as the 49th Vice President of the United States, becoming the first woman, the first African American, and the first South Asian American to hold the office."
+            },
+            {
+                "date": "11-08-2020",
+                "event": "Selected by presumptive Democratic presidential nominee Joe Biden to be his vice-presidential running mate."
+            },
+            {
+                "date": "03-12-2019",
+                "event": "Withdrew from the 2020 Democratic presidential primary nomination race citing a shortage of campaign funds."
+            },
+            {
+                "date": "21-01-2019",
+                "event": "Officially announced her candidacy for President of the United States in the 2020 election during a major rally in her hometown of Oakland, California."
+            },
+            {
+                "date": "03-01-2017",
+                "event": "Sworn in as a United States Senator representing California, becoming only the second African American woman and the first South Asian American to serve in the Senate."
+            },
+            {
+                "date": "03-01-2011",
+                "event": "Assumed office as the 32nd Attorney General of California, making history as the first woman, first African American, and first South Asian American to hold the state's top legal post."
+            },
+            {
+                "date": "08-01-2004",
+                "event": "Took office as the District Attorney of San Francisco, becoming the first woman and person of color elected to the position."
+            },
+            {
+                "date": "1989",
+                "event": "Earned her Juris Doctor (J.D.) degree from the University of California, Hastings College of the Law."
+            },
+            {
+                "date": "1986",
+                "event": "Graduated with a Bachelor of Arts degree in political science and economics from Howard University, a historically Black university in Washington, D.C."
+            },
+            {
+                "date": "20-10-1964",
+                "event": "Born as Kamala Devi Harris in Oakland, California, to immigrant parents Dr. Shyamala Gopalan (a breast cancer scientist from India) and Donald J. Harris (an economist from Jamaica)."
+            }
+        ]
     },
     "response": {
         "ascendant": {

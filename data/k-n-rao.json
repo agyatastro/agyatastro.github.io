@@ -14,8 +14,40 @@
         "agyat_rating": "AA",
         "gender": "male",
         "advanced": "prolonged career",
-        "related": ["astrologer"],
-        "about": "Kotamraju Narayana Rao belongs to an illustrious Andhra Brahmin family. He is the second of the four sons of the fame journalist of the pre-independence era, Sri K. Rama Rao, the founder editor of the National Herald and editor of more than thirty journals in his long journalistic career."
+        "related": [
+            "astrologer"
+        ],
+        "about": "Kotamraju Narayana Rao belongs to an illustrious Andhra Brahmin family. He is the second of the four sons of the fame journalist of the pre-independence era, Sri K. Rama Rao, the founder editor of the National Herald and editor of more than thirty journals in his long journalistic career.",
+        "events": [
+            {
+                "date": "1993-1995",
+                "event": "Toured the United States on five separate lecture tours, serving as the Chief Guest at the Standing Conference of the American Council of Vedic Astrology in 1993."
+            },
+            {
+                "date": "November 1990",
+                "event": "Retired as Director General from the Indian Audit and Accounts Service (IA&AS) after a long and distinguished government career."
+            },
+            {
+                "date": "1987",
+                "event": "Founded the Institute of Astrology at Bharatiya Vidya Bhavan in New Delhi, building it into one of the largest academic institutions for Vedic astrology in the world."
+            },
+            {
+                "date": "December 1981",
+                "event": "Stepped back into public astrological discourse by delivering a groundbreaking speech at a three-day national seminar on astrology in Delhi, initiating his widespread sharing of original research."
+            },
+            {
+                "date": "1957",
+                "event": "Joined government service through an all-India competitive examination, entering the Indian Audit and Accounts Service."
+            },
+            {
+                "date": "1943",
+                "event": "Initiated into the study of Vedic astrology at the age of twelve by his mother, Smt. K. Sarawani Devi."
+            },
+            {
+                "date": "12-10-1931",
+                "event": "Born as Kotamraju Narayana Rao in Machilipatnam, Andhra Pradesh, India, as the son of renowned journalist and pre-independence nationalist K. Rama Rao."
+            }
+        ]
     },
     "response": {
         "ascendant": {

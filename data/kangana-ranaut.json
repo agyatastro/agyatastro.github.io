@@ -14,8 +14,53 @@
         "agyat_rating": "AA",
         "gender": "female",
         "advanced": "legal-issues",
-        "related": ["politician", "actor"],
-        "about": "<p>Kangna Amardeep Ranaut (pronounced [kəŋɡənaː raːɳoːʈʰ]; born 23 March 1986) is an Indian actress, filmmaker, and politician serving as a Member of Parliament, Lok Sabha from Mandi since June 2024. Known for her portrayals of strong-willed, unconventional women in female-led Hindi films, she is the recipient of several awards, including four National Film Awards and four Filmfare Awards, and has featured six times in Forbes India's Celebrity 100 list. In 2020, the Government of India honoured her with the Padma Shri, the country's fourth-highest civilian award.</p><p>At the age of sixteen, Ranaut briefly took up modelling before being trained under theatre director Arvind Gaur. She made her film debut in the 2006 thriller Gangster, for which she was awarded the Filmfare Award for Best Female Debut, and received praise for portraying emotionally intense characters in the dramas Woh Lamhe... (2006), Life in a... Metro (2007) and Fashion (2008). For the last of these, she won the National Film Award for Best Supporting Actress. She appeared in the commercially successful films Raaz: The Mystery Continues (2009) and Once Upon a Time in Mumbaai (2010) but was criticised for being typecast in neurotic roles. A comic role in Tanu Weds Manu (2011) was well-received, though this was followed by a series of brief, glamorous roles.</p><p>Ranaut's career prospects improved in 2013 when she played a mutant in the superhero film Krrish 3, one of the highest-grossing Indian films. She won two consecutive National Film Awards for Best Actress for playing an abandoned bride in the comedy-drama Queen (2014) and a dual role in the comedy sequel Tanu Weds Manu Returns (2015), which was the biggest-earning female-led Hindi film at the time. This was followed by several commercial failures and a decline in stardom, with the sole exception of her co-directorial epic action Manikarnika: The Queen of Jhansi (2019). Her portrayal of the titular warrior in it and her part as a sportswoman in Panga (2020) jointly earned her a fourth National Film Award. In Ranaut's second directorial, the poorly-received biographical drama Emergency (2025), she portrayed Indira Gandhi.</p><p>In 2020, Ranaut launched her own production company, Manikarnika Films, under which she works as a director and a producer. She is known to be outspoken in interviews and on social media, addressing private and public matters. The opinions she has voiced, aligning with right-wing ideologies and supporting the Bharatiya Janata Party (BJP), along with frequent clashes in her personal and professional relationships, have sparked controversy.</p>"
+        "related": [
+            "politician",
+            "actor"
+        ],
+        "about": "<p>Kangna Amardeep Ranaut (pronounced [kəŋɡənaː raːɳoːʈʰ]; born 23 March 1986) is an Indian actress, filmmaker, and politician serving as a Member of Parliament, Lok Sabha from Mandi since June 2024. Known for her portrayals of strong-willed, unconventional women in female-led Hindi films, she is the recipient of several awards, including four National Film Awards and four Filmfare Awards, and has featured six times in Forbes India's Celebrity 100 list. In 2020, the Government of India honoured her with the Padma Shri, the country's fourth-highest civilian award.</p><p>At the age of sixteen, Ranaut briefly took up modelling before being trained under theatre director Arvind Gaur. She made her film debut in the 2006 thriller Gangster, for which she was awarded the Filmfare Award for Best Female Debut, and received praise for portraying emotionally intense characters in the dramas Woh Lamhe... (2006), Life in a... Metro (2007) and Fashion (2008). For the last of these, she won the National Film Award for Best Supporting Actress. She appeared in the commercially successful films Raaz: The Mystery Continues (2009) and Once Upon a Time in Mumbaai (2010) but was criticised for being typecast in neurotic roles. A comic role in Tanu Weds Manu (2011) was well-received, though this was followed by a series of brief, glamorous roles.</p><p>Ranaut's career prospects improved in 2013 when she played a mutant in the superhero film Krrish 3, one of the highest-grossing Indian films. She won two consecutive National Film Awards for Best Actress for playing an abandoned bride in the comedy-drama Queen (2014) and a dual role in the comedy sequel Tanu Weds Manu Returns (2015), which was the biggest-earning female-led Hindi film at the time. This was followed by several commercial failures and a decline in stardom, with the sole exception of her co-directorial epic action Manikarnika: The Queen of Jhansi (2019). Her portrayal of the titular warrior in it and her part as a sportswoman in Panga (2020) jointly earned her a fourth National Film Award. In Ranaut's second directorial, the poorly-received biographical drama Emergency (2025), she portrayed Indira Gandhi.</p><p>In 2020, Ranaut launched her own production company, Manikarnika Films, under which she works as a director and a producer. She is known to be outspoken in interviews and on social media, addressing private and public matters. The opinions she has voiced, aligning with right-wing ideologies and supporting the Bharatiya Janata Party (BJP), along with frequent clashes in her personal and professional relationships, have sparked controversy.</p>",
+        "events": [
+            {
+                "date": "2025",
+                "event": "Released her second directorial film, the biographical historical drama 'Emergency', in which she starred as former Indian Prime Minister Indira Gandhi."
+            },
+            {
+                "date": "04-06-2024",
+                "event": "Won her first Lok Sabha election as the Bharatiya Janata Party (BJP) candidate from the Mandi constituency in Himachal Pradesh, entering Parliament as a Member of Parliament."
+            },
+            {
+                "date": "2021",
+                "event": "Won her fourth National Film Award, sharing the Best Actress honor for her performances in 'Manikarnika: The Queen of Jhansi' and 'Panga'."
+            },
+            {
+                "date": "2020",
+                "event": "Conferred with the Padma Shri, India's fourth-highest civilian award, by the Government of India for her contributions to the arts."
+            },
+            {
+                "date": "2020",
+                "event": "Launched her own film production and direction banner named Manikarnika Films."
+            },
+            {
+                "date": "2015",
+                "event": "Won her second consecutive National Film Award for Best Actress for her acclaimed dual-role performance in the romantic comedy-drama 'Tanu Weds Manu Returns'."
+            },
+            {
+                "date": "2014",
+                "event": "Won her first National Film Award for Best Actress and achieved widespread critical acclaim for her defining role in the coming-of-age drama 'Queen'."
+            },
+            {
+                "date": "2008",
+                "event": "Gained broader recognition and won her first Filmfare Award for Best Supporting Actress for her role in the fashion drama 'Fashion'."
+            },
+            {
+                "date": "2006",
+                "event": "Made her Bollywood acting debut in Anurag Basu's romantic thriller 'Gangster', winning the Filmfare Award for Best Female Debut."
+            },
+            {
+                "date": "23-03-1987",
+                "event": "Born as Kangana Amardeep Ranaut in Bhambla (now Surajpur), a small town in the Mandi district of Himachal Pradesh, to Amardeep Ranaut and Asha Ranaut."
+            }
+        ]
     },
     "response": {
         "ascendant": {

@@ -14,7 +14,64 @@
         "agyat_rating": "AA",
         "gender": "female",
         "about": "<p>Karisma Kapoor (pronounced [kar-iz-maː kəˈpuːr]; born 25 June 1974) is an Indian actress who appears in Hindi films. One of the leading and highest-paid actresses of the 1990s and early 2000s, Kapoor is a recipient of several accolades, including a National Film Award and four Filmfare Awards. </p><p> A part of the Kapoor family, she made her acting debut as a teenager with a leading role in the moderately successful Prem Qaidi (1991).</p><p> The 1996 blockbuster romance Raja Hindustani marked a significant turning point in Kapoor's career, earning her praise and a Filmfare Award for Best Actress. She later won the National Film Award and Filmfare Award for Best Supporting Actress for her portrayal of a passionate dancer in the musical romance Dil To Pagal Hai (1997). Kapoor achieved further success by featuring as the female lead in three of David Dhawan's top-grossing romantic comedies—Hero No.1 (1997), Biwi No.1 (1999) and Dulhan Hum Le Jayenge (2000), and in Sooraj Barjatya's highly successful family drama Hum Saath-Saath Hain (1999)—and won the Best Actress and Best Actress Critics awards at Filmfare for her titular roles in the dramas Fiza (2000) and Zubeidaa (2001). Kapoor took a sabbatical from full-time acting in 2004, and has since acted sporadically, starring in the web-series Mentalhood (2020) and the mystery thriller Murder Mubarak (2024).</p><p> Kapoor was married to businessman Sanjay Kapur from 2003–2016; the couple had two children together. Her off-screen life is a subject of substantial media coverage. Kapoor has played the titular character in the television series Karishma: The Miracles of Destiny (2003–2004) and has featured as a talent judge for several reality shows. Apart from her acting career, Kapoor participates in stage shows and is a prominent celebrity endorser for various products.</p>",
-        "related": ["kapoor-family", "actor"]
+        "related": [
+            "kapoor-family",
+            "actor"
+        ],
+        "events": [
+            {
+                "date": "04-06-2026",
+                "event": "Made her major OTT return starring as a troubled police officer in the neo-noir psychological crime thriller web series 'Brown' on ZEE5."
+            },
+            {
+                "date": "15-03-2024",
+                "event": "Starred in the mystery thriller film 'Murder Mubarak', directed by Homi Adajania and released on Netflix."
+            },
+            {
+                "date": "20-03-2020",
+                "event": "Made her web-streaming debut in the mother-centric comedy-drama series 'Mentalhood' on ALTBalaji and ZEE5."
+            },
+            {
+                "date": "05-06-2016",
+                "event": "Officially granted a divorce from businessman Sunjay Kapur by the Mumbai Family Court after filing for separation by mutual consent in 2014."
+            },
+            {
+                "date": "12-03-2010",
+                "event": "Welcomed the birth of her second child and son, Kiaan Raj Kapur, with her then-husband Sunjay Kapur."
+            },
+            {
+                "date": "11-03-2005",
+                "event": "Welcomed the birth of her first child and daughter, Samaira Kapur, with her then-husband Sunjay Kapur."
+            },
+            {
+                "date": "29-09-2003",
+                "event": "Married Delhi-based industrialist Sunjay Kapur in a high-profile ceremony at her ancestral home, RK Studios, in Mumbai."
+            },
+            {
+                "date": "2003",
+                "event": "Took a sabbatical from full-time leading roles in mainstream Hindi cinema after starring in the film 'Dangerous Ishhq' (later returning intermittently)."
+            },
+            {
+                "date": "2001",
+                "event": "Delivered critically acclaimed performances in the Shyam Benegal-directed drama 'Zubeidaa', winning the Filmfare Critics Award for Best Actress."
+            },
+            {
+                "date": "1997",
+                "event": "Won the National Film Award for Best Supporting Actress and the Filmfare Award for Best Supporting Actress for her iconic role as Nisha in Yash Chopra's blockbuster musical romance 'Dil To Pagal Hai'."
+            },
+            {
+                "date": "1996",
+                "event": "Achieved superstardom and won her first Filmfare Award for Best Actress for her career-defining portrayal of Aarti Sehgal in Dharmesh Darshan's blockbuster romantic drama 'Raja Hindustani'."
+            },
+            {
+                "date": "21-06-1991",
+                "event": "Made her Bollywood acting debut as a leading lady at the age of 16 in Kuku Kohli's romance film 'Prem Qaidi', breaking a multi-generational family tradition as the first woman in the Kapoor family to enter the film industry."
+            },
+            {
+                "date": "25-06-1974",
+                "event": "Born as Karisma Randhir Kapoor (popularly known as Lolo) in Bombay, Maharashtra, India, to veteran actors Randhir Kapoor and Babita Shivdasani."
+            }
+        ]
     },
     "response": {
         "ascendant": {

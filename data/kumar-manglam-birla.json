@@ -14,7 +14,44 @@
         "agyat_rating": "AA",
         "gender": "male",
         "about": "<p>Kumar Mangalam Birla (born 14 June 1967) is an Indian billionaire businessman. He is the chairman of the Aditya Birla Group, one of the largest conglomerates in India. He is the chancellor of the Birla Institute of Technology & Science, Pilani and former chairman of Indian Institute of Management Ahmedabad. In 2023, Birla received the Padma Bhushan, the third highest civilian honour in India.</p><p>As of December 2024, Forbes estimated his net worth at US$23.1 billion.</p><p>Born to Aditya Vikram Birla, the eldest of two children, he took over as chairman of the Aditya Birla Group in 1995, at the age of 28, following the death of his father. During Birla's tenure as chairman, the group's annual turnover increased from US$2 billion in 1995 to US$66 billion as of March 2024, with operations in 40 countries.<p>",
-        "related": ["birla-family", "businessperson"]
+        "related": [
+            "birla-family",
+            "businessperson"
+        ],
+        "events": [
+            {
+                "date": "27-01-2026",
+                "event": "Published his annual reflection piece marking 30 years of business building as the Chairman of the Aditya Birla Group, navigating global economic shifts and scaling massive new ventures like Birla Opus and Indriya."
+            },
+            {
+                "date": "2023",
+                "event": "Conferred with the Padma Bhushan, India's third-highest civilian award, by the Government of India for his exceptional contributions to trade and industry."
+            },
+            {
+                "date": "2016",
+                "event": "Appointed as the Chairman of the Board of Governors of the Indian Institute of Management, Ahmedabad (IIMA)."
+            },
+            {
+                "date": "2007",
+                "event": "Spearheaded Hindalco's landmark international acquisition of U.S.-based aluminum and recycling giant Novelis Inc. for approximately $6 billion."
+            },
+            {
+                "date": "2004",
+                "event": "Acquired a majority stake in L&T Cement, subsequently renaming it UltraTech Cement and turning it into India's largest cement manufacturer."
+            },
+            {
+                "date": "1999",
+                "event": "Established the Aditya Birla Scholarship Programme in memory of his late father to support meritorious students in professional education."
+            },
+            {
+                "date": "1995",
+                "event": "Took over as Chairman of the Aditya Birla Group at the age of 28 following the sudden death of his father, Aditya Vikram Birla, successfully consolidating group companies under a unified global brand."
+            },
+            {
+                "date": "14-06-1967",
+                "event": "Born as Kumar Mangalam Birla in Calcutta (now Kolkata), West Bengal, India, to industrialist Aditya Vikram Birla and Rajashree Birla."
+            }
+        ]
     },
     "response": {
         "ascendant": {

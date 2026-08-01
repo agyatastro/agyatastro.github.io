@@ -14,7 +14,57 @@
         "agyat_rating": "AA",
         "gender": "female",
         "about": "<p>Kareena Kapoor Khan (pronounced [kəˈriːna kəˈpuːr xɑːn]; née Kapoor; born 21 September 1980) is an Indian actress. A prolific leading lady of Hindi cinema since 2000, she is noted for her roles in a range of film genres—from romantic comedies to crime dramas. Kapoor is the recipient of several awards, including six Filmfare Awards, and as of 2024, is one of Hindi cinema's highest-paid actresses.</p><p>Born into the Kapoor family, she is the daughter of actors Babita and Randhir Kapoor, and the younger sister of actress Karisma Kapoor. After making her acting debut in 2000 in Refugee, Kapoor established herself the following year with several roles, including in the top-grossing drama Kabhi Khushi Kabhie Gham.... This was followed by a series of commercial failures and negative reviews for her repetitive roles. An against-type performance as a sex worker in the 2004 drama Chameli marked a turning point in her career. She earned critical recognition for her portrayal of a riot victim in the 2004 drama Dev and a character based on Desdemona in the 2006 crime film Omkara. Her performance as a loquacious woman in the romantic comedy Jab We Met (2007) earned her the Filmfare Award for Best Actress.</p><p>Further praise came for her dramatic performances in Kurbaan (2009), Talaash: The Answer Lies Within, Heroine (both 2012), Udta Punjab (2016) and Laal Singh Chaddha (2022). Her highest-grossing releases include the comedy-dramas 3 Idiots (2009) and Bajrangi Bhaijaan (2015), the action films Bodyguard (2011) and Singham Returns (2014), and the comedies Golmaal 3 (2010) and Good Newwz (2019). She has also starred in the female-led comedies Veere Di Wedding (2018) and Crew (2024).</p><p>Kapoor Khan is married to actor Saif Ali Khan, with whom she has two sons. Her off-screen life is the subject of widespread coverage in India. She is known for being outspoken and assertive and is recognised for her fashion style. Beside film acting, Kapoor participates in stage shows, hosts a radio show and has contributed as a co-writer to two autobiographical memoirs and two books of nutrition guides. She has started her own line of clothing and cosmetics for women, and has worked with UNICEF since 2014 to advocate for the education of girls and an increase in quality based education in India.</p>",
-        "related": ["kapoor-family", "pataudi-family", "actor"]
+        "related": [
+            "kapoor-family",
+            "pataudi-family",
+            "actor"
+        ],
+        "events": [
+            {
+                "date": "31-12-2025",
+                "event": "Reflected publicly on 2025 as a deeply challenging and emotional year for her family following a traumatic home invasion and knife attack on her husband, Saif Ali Khan, earlier in January."
+            },
+            {
+                "date": "01-11-2024",
+                "event": "Starred in Rohit Shetty's multi-starrer action film 'Singham Again', portraying Avni Kamat as part of the popular cop universe."
+            },
+            {
+                "date": "29-03-2024",
+                "event": "Achieved significant box office success starring alongside Tabu and Kriti Sanon in the female-led comedy film 'Crew'."
+            },
+            {
+                "date": "21-09-2023",
+                "event": "Made her web/streaming film debut in Sujoy Ghosh's psychological thriller 'Jaane Jaan' on Netflix, adapted from the Japanese novel 'The Devotion of Suspect X'."
+            },
+            {
+                "date": "21-02-2021",
+                "event": "Welcomed the birth of her second child and son, Jehangir Ali Khan (Jeh), with her husband Saif Ali Khan."
+            },
+            {
+                "date": "20-12-2016",
+                "event": "Welcomed the birth of her first child and son, Taimur Ali Khan Pataudi, with her husband Saif Ali Khan."
+            },
+            {
+                "date": "16-10-2012",
+                "event": "Married actor Saif Ali Khan in a private ceremony in Mumbai after dating for five years."
+            },
+            {
+                "date": "2007",
+                "event": "Delivered a career-defining, iconic performance as Geet Dhillon in Imtiaz Ali's romantic comedy 'Jab We Met', winning her first Filmfare Award for Best Actress."
+            },
+            {
+                "date": "2004",
+                "event": "Transitioned to critically acclaimed and intense roles, winning the Filmfare Special Award for her powerful portrayal of a sex worker in the drama 'Chameli'."
+            },
+            {
+                "date": "30-06-2000",
+                "event": "Made her Bollywood acting debut alongside Abhishek Bachchan in J.P. Dutta's war drama 'Refugee', winning the Filmfare Award for Best Female Debut."
+            },
+            {
+                "date": "21-09-1980",
+                "event": "Born as Kareena Kapoor in Bombay, Maharashtra, India, to veteran actors Randhir Kapoor and Babita."
+            }
+        ]
     },
     "response": {
         "ascendant": {

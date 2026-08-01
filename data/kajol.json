@@ -14,7 +14,69 @@
         "agyat_rating": "AA",
         "gender": "female",
         "about": "<p>Kajol Devgan (née Mukherjee) (Bengali pronunciation: [kad͡ʒol]; born 5 August 1974), known mononymously as Kajol, is an Indian actress. Described in the media as one of the most successful actresses of Hindi cinema, she is the recipient of numerous accolades, such as six Filmfare Awards, which include a record-tying five Best Actress wins. In 2011, she was honoured with the Padma Shri by the Government of India.</p><p>The daughter of Tanuja and Shomu Mukherjee, Kajol made her acting debut with Bekhudi (1992) while still in school. She subsequently quit her studies, and had commercial successes in Baazigar (1993), and Yeh Dillagi (1994). Starring roles in the top-grossing romances Dilwale Dulhania Le Jayenge (1995) and Kuch Kuch Hota Hai (1998) established her as a leading star in the 1990s and earned her two Filmfare Awards for Best Actress. She also gained critical appreciation for playing a psychopathic killer in Gupt: The Hidden Truth (1997) and an avenger in Dushman (1998).</p><p>After starring in the family drama Kabhi Khushi Kabhie Gham... (2001), which won her a third Filmfare Award, Kajol took a sabbatical from full-time acting and worked infrequently over the next decades. She won two more Best Actress awards at Filmfare for starring in the romantic thriller Fanaa (2006) and the drama My Name Is Khan (2010). Her highest-grossing releases came with the comedy Dilwale (2015) and the period film Tanhaji (2020). She has since starred in the streaming projects Tribhanga (2021), The Trial (2023) and Do Patti (2024).</p><p>In addition to acting in films, Kajol is a social activist and noted for her work with widows and children. She has featured as a talent judge for the reality show Rock-N-Roll Family in 2008, and holds a managerial position at Devgn Entertainment and Software Ltd. Kajol has been married to the actor and filmmaker Ajay Devgn since 1999, with whom she has two children.</p>",
-        "related": ["devgan-family", "mukherjee-family", "actor"]
+        "related": [
+            "devgan-family",
+            "mukherjee-family",
+            "actor"
+        ],
+        "events": [
+            {
+                "date": "20-02-2026",
+                "event": "Secured a significant legal victory when the Delhi High Court granted her an ad interim injunction protecting her personality and publicity rights against unauthorized commercial exploitation and deepfake misuse."
+            },
+            {
+                "date": "2025",
+                "event": "Starred in the thriller film 'Sarzameen'."
+            },
+            {
+                "date": "10-01-2020",
+                "event": "Starred as Savitribai Malusare in the blockbuster period action film 'Tanhaji: The Unsung Warrior', alongside her husband Ajay Devgn."
+            },
+            {
+                "date": "13-09-2010",
+                "event": "Welcomed the birth of her second child and son, Yug Devgan, with her husband Ajay Devgn."
+            },
+            {
+                "date": "2011",
+                "event": "Conferred with the Padma Shri, the fourth-highest civilian award in India, by the Government of India for her contributions to cinema."
+            },
+            {
+                "date": "2011",
+                "event": "Won her record-tying sixth Filmfare Award for Best Actress for her powerful performance in 'My Name Is Khan'."
+            },
+            {
+                "date": "2008",
+                "event": "Honored with the Karmaveer Puraskaar for her extensive philanthropic work supporting widows and underprivileged children."
+            },
+            {
+                "date": "20-04-2003",
+                "event": "Welcomed the birth of her first child and daughter, Nysa Devgan, with her husband Ajay Devgn."
+            },
+            {
+                "date": "24-02-1999",
+                "event": "Married actor Ajay Devgn in a traditional Maharashtrian ceremony after dating for five years."
+            },
+            {
+                "date": "1998",
+                "event": "Delivered a massive commercial blockbuster and won her third Filmfare Award for Best Actress starring as Anjali Sharma in Karan Johar's directorial debut 'Kuch Kuch Hota Hai'."
+            },
+            {
+                "date": "1997",
+                "event": "Won the Filmfare Award for Best Performance in a Negative Role for her chilling portrayal of a killer in the thriller 'Gupt: The Hidden Truth', becoming the first actress to win the category."
+            },
+            {
+                "date": "20-10-1995",
+                "event": "Achieved historic, enduring superstardom starring alongside Shah Rukh Khan as Simran Singh in Aditya Chopra's record-breaking blockbuster 'Dilwale Dulhania Le Jayenge' (DDLJ), winning her first Filmfare Award for Best Actress."
+            },
+            {
+                "date": "1992",
+                "event": "Made her Bollywood acting debut at the age of 16 in Rahul Rawail's romance drama 'Bekhudi'."
+            },
+            {
+                "date": "05-08-1974",
+                "event": "Born as Kajol Mukherjee in Bombay, Maharashtra, India, to veteran actress Tanuja Samarth and filmmaker Shomu Mukherjee."
+            }
+        ]
     },
     "response": {
         "ascendant": {

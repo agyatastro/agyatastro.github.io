@@ -13,8 +13,76 @@
         "location": "London, United Kingdom",
         "agyat_rating": "AA",
         "gender": "male",
-        "related": ["monarch"],
-        "about": "<p>Charles III (Charles Philip Arthur George; born 14 November 1948) is King of the United Kingdom and the 14 other Commonwealth realms since 2022.</p><p> Charles was born at Buckingham Palace during the reign of his maternal grandfather, King George VI, and became heir apparent when his mother, Queen Elizabeth II, acceded to the throne in 1952. He was created Prince of Wales in 1958 and his investiture was held in 1969. He was educated at Cheam School and Gordonstoun, and later spent six months at the Timbertop campus of Geelong Grammar School in Victoria, Australia. After completing a history degree from the University of Cambridge, Charles served in the Royal Air Force and the Royal Navy from 1971 to 1976. In 1981, he married Lady Diana Spencer. They had two sons, William and Harry. After years of estrangement, Charles and Diana divorcee in 1996, after they had each engaged in well-publicised extramarital affairs. Diana died as a result of injuries sustained in a car crash the following year. In 2005, Charles married his long-term partner, Camilla Parker Bowles.</p><p> As heir apparent, Charles undertook official duties and engagements on behalf of his mother and represented the United Kingdom on visits abroad. He founded The Prince's Trust in 1976, sponsored the Prince's Charities, and became patron or president of more than 800 other charities and organisations. He advocated for the conservation of historic buildings and the importance of traditional architecture in society. In that vein, he generated the experimental new town of Poundbury. An environmentalist, Charles supported organic farming and action to prevent climate change during his time as the manager of the Duchy of Cornwall estates, earning him awards and recognition as well as criticism; he is also a prominent critic of the adoption of genetically modified food, while his support for alternative medicine has been criticised. He has authored or co-authored 17 books.</p><p> Charles became king upon his mother's death in 2022. At the age of 73, he was the oldest person to accede to the British throne, after having been the longest-serving heir apparent and Prince of Wales in British history. Significant events in his reign have included his coronation in 2023 and his cancer diagnosis the following year, the latter of which temporarily suspended planned public engagements.</p>"
+        "related": [
+            "monarch"
+        ],
+        "about": "<p>Charles III (Charles Philip Arthur George; born 14 November 1948) is King of the United Kingdom and the 14 other Commonwealth realms since 2022.</p><p> Charles was born at Buckingham Palace during the reign of his maternal grandfather, King George VI, and became heir apparent when his mother, Queen Elizabeth II, acceded to the throne in 1952. He was created Prince of Wales in 1958 and his investiture was held in 1969. He was educated at Cheam School and Gordonstoun, and later spent six months at the Timbertop campus of Geelong Grammar School in Victoria, Australia. After completing a history degree from the University of Cambridge, Charles served in the Royal Air Force and the Royal Navy from 1971 to 1976. In 1981, he married Lady Diana Spencer. They had two sons, William and Harry. After years of estrangement, Charles and Diana divorcee in 1996, after they had each engaged in well-publicised extramarital affairs. Diana died as a result of injuries sustained in a car crash the following year. In 2005, Charles married his long-term partner, Camilla Parker Bowles.</p><p> As heir apparent, Charles undertook official duties and engagements on behalf of his mother and represented the United Kingdom on visits abroad. He founded The Prince's Trust in 1976, sponsored the Prince's Charities, and became patron or president of more than 800 other charities and organisations. He advocated for the conservation of historic buildings and the importance of traditional architecture in society. In that vein, he generated the experimental new town of Poundbury. An environmentalist, Charles supported organic farming and action to prevent climate change during his time as the manager of the Duchy of Cornwall estates, earning him awards and recognition as well as criticism; he is also a prominent critic of the adoption of genetically modified food, while his support for alternative medicine has been criticised. He has authored or co-authored 17 books.</p><p> Charles became king upon his mother's death in 2022. At the age of 73, he was the oldest person to accede to the British throne, after having been the longest-serving heir apparent and Prince of Wales in British history. Significant events in his reign have included his coronation in 2023 and his cancer diagnosis the following year, the latter of which temporarily suspended planned public engagements.</p>",
+        "events": [
+            {
+                "date": "30-07-2026",
+                "event": "Announced alongside Queen Camilla that they will permanently continue living at Clarence House rather than moving into Buckingham Palace following its multi-year renovation, breaking a residential tradition held since Queen Victoria in 1837."
+            },
+            {
+                "date": "2026",
+                "event": "Reunited privately with Prince Harry, Meghan Markle, and his grandchildren Archie and Lilibet at Highgrove House, marking a significant family encounter."
+            },
+            {
+                "date": "April 2025",
+                "event": "Embarked on a high-profile state visit to the United States to commemorate America's 250th anniversary, becoming the first British monarch in decades to address a joint meeting of Congress."
+            },
+            {
+                "date": "05-02-2024",
+                "event": "Buckingham Palace publicly announced that King Charles had been diagnosed with a form of cancer and had commenced outpatient treatment."
+            },
+            {
+                "date": "06-05-2023",
+                "event": "Crowned alongside Queen Camilla at Westminster Abbey in a historic coronation ceremony."
+            },
+            {
+                "date": "08-09-2022",
+                "event": "Acceded to the British throne as King Charles III immediately following the death of his mother, Queen Elizabeth II."
+            },
+            {
+                "date": "09-04-2005",
+                "event": "Married Camilla Parker Bowles in a civil ceremony at Windsor Guildhall."
+            },
+            {
+                "date": "31-08-1997",
+                "event": "Ex-wife Diana, Princess of Wales, tragically passed away following a car crash in Paris."
+            },
+            {
+                "date": "28-08-1996",
+                "event": "Officially finalized his divorce from Diana, Princess of Wales."
+            },
+            {
+                "date": "09-12-1992",
+                "event": "Announced his formal separation from Diana, Princess of Wales, after a tumultuous period in their marriage."
+            },
+            {
+                "date": "15-09-1984",
+                "event": "Welcomed the birth of his second son, Prince Harry (Henry Charles Albert David)."
+            },
+            {
+                "date": "21-06-1982",
+                "event": "Welcomed the birth of his first son, Prince William (William Arthur Philip Louis)."
+            },
+            {
+                "date": "29-07-1981",
+                "event": "Married Lady Diana Spencer in a grand royal wedding at St Paul's Cathedral."
+            },
+            {
+                "date": "01-07-1969",
+                "event": "Formally invested as the Prince of Wales by Queen Elizabeth II at Caernarfon Castle."
+            },
+            {
+                "date": "06-02-1952",
+                "event": "Became the heir apparent to the British throne at the age of three following the accession of his mother, Queen Elizabeth II."
+            },
+            {
+                "date": "14-11-1948",
+                "event": "Born as Charles Philip Arthur George at Buckingham Palace in London, the first child of Princess Elizabeth and Prince Philip."
+            }
+        ]
     },
     "response": {
         "ascendant": {

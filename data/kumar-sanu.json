@@ -13,8 +13,52 @@
         "location": "Kolkata, West Bengal",
         "agyat_rating": "AA",
         "gender": "male",
-        "related": ["singer"],
-        "about": "<p>Kedarnath Bhattacharya (born 20 October 1957), professionally known as Kumar Sanu, is a leading Indian playback singer who primarily sings in Hindi film songs. Apart from Hindi, he has also sung in other languages including Marathi, Nepali, Assamese, Bhojpuri, Gujarati, Manipuri, Telugu, Malayalam, Kannada, Tamil, Punjabi, Odia, Chhattisgarhi, Urdu, Pali, English and his native language Bengali. He holds the record for winning five consecutive Filmfare Award for Best Male Playback Singer from 1991 to 1995. He holds the Guinness World Record for recording the maximum number of songs (28 songs) in a single day since 1993.</p><p> For his contribution to Indian cinema and music, he was awarded the Padma Shri in 2009 by the Government of India. Many of his tracks feature in BBC's \"Top 40 Bollywood Soundtracks of all time\".</p>"
+        "related": [
+            "singer"
+        ],
+        "about": "<p>Kedarnath Bhattacharya (born 20 October 1957), professionally known as Kumar Sanu, is a leading Indian playback singer who primarily sings in Hindi film songs. Apart from Hindi, he has also sung in other languages including Marathi, Nepali, Assamese, Bhojpuri, Gujarati, Manipuri, Telugu, Malayalam, Kannada, Tamil, Punjabi, Odia, Chhattisgarhi, Urdu, Pali, English and his native language Bengali. He holds the record for winning five consecutive Filmfare Award for Best Male Playback Singer from 1991 to 1995. He holds the Guinness World Record for recording the maximum number of songs (28 songs) in a single day since 1993.</p><p> For his contribution to Indian cinema and music, he was awarded the Padma Shri in 2009 by the Government of India. Many of his tracks feature in BBC's \"Top 40 Bollywood Soundtracks of all time\".</p>",
+        "events": [
+            {
+                "date": "21-01-2026",
+                "event": "Won a major legal victory as the Bombay High Court issued a strict gag order and ad-interim injunction protecting his reputation, restraining his ex-wife Rita Bhattacharya from making further defamatory public statements or giving contentious interviews regarding him."
+            },
+            {
+                "date": "2009",
+                "event": "Conferred with the Padma Shri, India's fourth-highest civilian award, by the Government of India for his immense contributions to Indian playback singing and music."
+            },
+            {
+                "date": "1993",
+                "event": "Set a Guinness World Record by recording a remarkable 28 songs in a single day."
+            },
+            {
+                "date": "1994",
+                "event": "Won his fifth consecutive Filmfare Award for Best Male Playback Singer for the song 'Ek Ladki Ko Dekha' from '1942: A Love Story'."
+            },
+            {
+                "date": "1993",
+                "event": "Won his fourth consecutive Filmfare Award for Best Male Playback Singer for the song 'Aisi Deewangi' from 'Baazigar'."
+            },
+            {
+                "date": "1992",
+                "event": "Won his third consecutive Filmfare Award for Best Male Playback Singer for the song 'Sochênge Tumhe Pyaar' from 'Deewana'."
+            },
+            {
+                "date": "1991",
+                "event": "Won his second consecutive Filmfare Award for Best Male Playback Singer for the song 'Mera Dil Bhi Kitna Pagal Hai' from 'Saajan'."
+            },
+            {
+                "date": "1990",
+                "event": "Achieved overnight nationwide superstardom and won his first consecutive Filmfare Award for Best Male Playback Singer for landmark songs in the blockbuster musical romance 'Aashiqui'."
+            },
+            {
+                "date": "1987",
+                "event": "Relocated to Mumbai and was advised by music directors Kalyanji-Anandji to change his name from Kedarnath Bhattacharya to Kumar Sanu for broader commercial appeal."
+            },
+            {
+                "date": "23-09-1957",
+                "event": "Born as Kedarnath Bhattacharya (later known as Kumar Sanu) in Calcutta (now Kolkata), West Bengal, India, to classical vocalist and composer Pashupati Bhattacharjee."
+            }
+        ]
     },
     "response": {
         "ascendant": {

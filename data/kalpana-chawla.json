@@ -13,8 +13,41 @@
         "location": "Karnal",
         "gender": "female",
         "agyat_rating": "AU",
-        "related": ["scientist", "engineer"],
-        "about": "</p><p>Kalpana Chawla (March 17, 1962 – February 1, 2003) was an Indian-American astronaut and aerospace engineer who was the first woman of Indian origin to fly to space. Chawla expressed an interest in aerospace engineering from an early age and took engineering classes at Dayal Singh College and Punjab Engineering College in India. She then traveled to the United States, where she earned her MSc and PhD, becoming a naturalized United States citizen in the early 1990s.</p><p>She first flew on the Space Shuttle Columbia in 1997 as a mission specialist and robotic arm operator aboard STS-87. Her role in the flight caused some controversy due to the failed deployment of the Shuttle-Pointed Autonomous Research Tool for Astronomy (\"Spartan\") module.[2] Chawla's second flight was in 2003 on STS-107, the final flight of Columbia. She was one of the seven crew members who died in the Space Shuttle Columbia disaster when the spacecraft disintegrated during its descent back to Earth's atmosphere on February 1, 2003.</p><p>Chawla was posthumously awarded the Congressional Space Medal of Honor, the NASA Space Flight Medal, and the NASA Distinguished Service Medal. Several buildings, spacecraft, and extraterrestrial landmarks have been named in her honor.</p>"
+        "related": [
+            "scientist",
+            "engineer"
+        ],
+        "about": "</p><p>Kalpana Chawla (March 17, 1962 – February 1, 2003) was an Indian-American astronaut and aerospace engineer who was the first woman of Indian origin to fly to space. Chawla expressed an interest in aerospace engineering from an early age and took engineering classes at Dayal Singh College and Punjab Engineering College in India. She then traveled to the United States, where she earned her MSc and PhD, becoming a naturalized United States citizen in the early 1990s.</p><p>She first flew on the Space Shuttle Columbia in 1997 as a mission specialist and robotic arm operator aboard STS-87. Her role in the flight caused some controversy due to the failed deployment of the Shuttle-Pointed Autonomous Research Tool for Astronomy (\"Spartan\") module.[2] Chawla's second flight was in 2003 on STS-107, the final flight of Columbia. She was one of the seven crew members who died in the Space Shuttle Columbia disaster when the spacecraft disintegrated during its descent back to Earth's atmosphere on February 1, 2003.</p><p>Chawla was posthumously awarded the Congressional Space Medal of Honor, the NASA Space Flight Medal, and the NASA Distinguished Service Medal. Several buildings, spacecraft, and extraterrestrial landmarks have been named in her honor.</p>",
+        "events": [
+            {
+                "date": "2004",
+                "event": "Posthumously awarded the Congressional Space Medal of Honor by U.S. President George W. Bush."
+            },
+            {
+                "date": "01-02-2003",
+                "event": "Tragically passed away along with all six fellow crew members when the Space Shuttle Columbia disintegrated over Texas and Louisiana during its re-entry into Earth's atmosphere, concluding her final mission STS-107."
+            },
+            {
+                "date": "16-01-2003",
+                "event": "Launched into space for her second mission as a mission specialist aboard the Space Shuttle Columbia for the STS-107 research flight."
+            },
+            {
+                "date": "19-11-1997",
+                "event": "Made history as the first woman of Indian origin to fly into space, serving as a mission specialist and robotic arm operator on the Space Shuttle Columbia flight STS-87."
+            },
+            {
+                "date": "1983",
+                "event": "Married Jean-Pierre Harrison."
+            },
+            {
+                "date": "1982",
+                "event": "Became the first woman to graduate with a degree in aeronautical engineering from Punjab Engineering College, India, before moving to the United States for higher studies."
+            },
+            {
+                "date": "17-03-1962",
+                "event": "Born as Kalpana Chawla in Karnal, Haryana, India, to Banarsi Lal Chawla and Sanjyothi Kharbanda."
+            }
+        ]
     },
     "response": {
         "ascendant": {

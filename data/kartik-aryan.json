@@ -13,8 +13,60 @@
         "location": "Gwalior",
         "agyat_rating": "AA",
         "gender": "male",
-        "related": ["actor"],
-        "about": "<p>Kartik Aaryan (né Tiwari; born 22 November 1990) is an Indian actor known for his work in Hindi cinema. While pursuing a degree in engineering, he made his acting debut with Luv Ranjan's buddy film Pyaar Ka Punchnama (2011). He went on to star in the romances Akaash Vani (2013) and Kaanchi (2014), but these failed to propel his career forward.</p><p>Aaryan had commercial successes in Ranjan's comedies Pyaar Ka Punchnama 2 (2015) and Sonu Ke Titu Ki Sweety (2018), his breakthrough film, as well as the romantic comedies Luka Chuppi and Pati Patni Aur Woh (both 2019). He also played against type in the thrillers Dhamaka (2021) and Freddy (2022), and the romantic drama Satyaprem Ki Katha (2023), and gained praise for portraying Murlikant Petkar in the biopic Chandu Champion (2024). His highest-grossing releases came with the comedy horror films Bhool Bhulaiyaa 2 (2022) and Bhool Bhulaiyaa 3 (2024). The former also earned him a nomination for the Filmfare Award for Best Actor and the latter won him the IIFA Award for Best Actor.</p><p>In addition to his acting career, Aaryan endorses several brands and products, and has co-hosted award ceremonies. He appeared in Forbes India's Celebrity 100 list of 2019.</p>"
+        "related": [
+            "actor"
+        ],
+        "about": "<p>Kartik Aaryan (né Tiwari; born 22 November 1990) is an Indian actor known for his work in Hindi cinema. While pursuing a degree in engineering, he made his acting debut with Luv Ranjan's buddy film Pyaar Ka Punchnama (2011). He went on to star in the romances Akaash Vani (2013) and Kaanchi (2014), but these failed to propel his career forward.</p><p>Aaryan had commercial successes in Ranjan's comedies Pyaar Ka Punchnama 2 (2015) and Sonu Ke Titu Ki Sweety (2018), his breakthrough film, as well as the romantic comedies Luka Chuppi and Pati Patni Aur Woh (both 2019). He also played against type in the thrillers Dhamaka (2021) and Freddy (2022), and the romantic drama Satyaprem Ki Katha (2023), and gained praise for portraying Murlikant Petkar in the biopic Chandu Champion (2024). His highest-grossing releases came with the comedy horror films Bhool Bhulaiyaa 2 (2022) and Bhool Bhulaiyaa 3 (2024). The former also earned him a nomination for the Filmfare Award for Best Actor and the latter won him the IIFA Award for Best Actor.</p><p>In addition to his acting career, Aaryan endorses several brands and products, and has co-hosted award ceremonies. He appeared in Forbes India's Celebrity 100 list of 2019.</p>",
+        "events": [
+            {
+                "date": "18-07-2026",
+                "event": "Conferred with the prestigious National Film Award for Best Actor in a Leading Role at the 72nd National Film Awards for his acclaimed performance as Murlikant Petkar in 'Chandu Champion'."
+            },
+            {
+                "date": "01-11-2024",
+                "event": "Starred in the horror-comedy blockbuster 'Bhool Bhulaiyaa 3', reprising his popular role as Rooh Baba and cementing his box-office success."
+            },
+            {
+                "date": "14-06-2024",
+                "event": "Delivered a critically acclaimed and physically transformative performance as paralympic gold medalist Murlikant Petkar in Kabir Khan's biographical sports drama 'Chandu Champion'."
+            },
+            {
+                "date": "29-06-2023",
+                "event": "Starred alongside Kiara Advani in the romantic drama film 'Satyaprem Ki Katha', showcasing his versatility in emotional and romantic roles."
+            },
+            {
+                "date": "02-12-2022",
+                "event": "Starred in the psychological thriller film 'Freddy', earning critical acclaim for his chilling performance as a lonely, socially awkward dentist."
+            },
+            {
+                "date": "20-05-2022",
+                "event": "Achieved a massive career breakthrough and major box-office superstardom starring as Rooh Baba in the horror-comedy blockbuster 'Bhool Bhulaiyaa 2'."
+            },
+            {
+                "date": "19-11-2021",
+                "event": "Transitioned to intense digital cinema by starring as news anchor Arjun Pathak in Ram Madhvani's thriller film 'Dhamaka', released on Netflix."
+            },
+            {
+                "date": "06-12-2019",
+                "event": "Starred in the hit romantic comedy 'Pati Patni Aur Woh' alongside Ananya Panday and Bhumi Pednekar, which grossed over ₹1 billion worldwide."
+            },
+            {
+                "date": "01-03-2019",
+                "event": "Starred alongside Kriti Sanon in the commercially successful romantic comedy 'Luka Chuppi'."
+            },
+            {
+                "date": "23-02-2018",
+                "event": "Achieved his breakthrough commercial blockbuster with Luv Ranjan's buddy comedy film 'Sonu Ke Titu Ki Sweety', which grossed over ₹1.5 billion."
+            },
+            {
+                "date": "20-05-2011",
+                "event": "Made his Bollywood acting debut in Luv Ranjan's romantic comedy 'Pyaar Ka Punchnama', gaining widespread fame and pop-culture recognition for his iconic four-minute monologue."
+            },
+            {
+                "date": "22-11-1990",
+                "event": "Born as Kartik Tiwari (later known as Kartik Aaryan) in Gwalior, Madhya Pradesh, India, to doctor parents Dr. Manish Tiwari and Mala Tiwari."
+            }
+        ]
     },
     "response": {
         "ascendant": {

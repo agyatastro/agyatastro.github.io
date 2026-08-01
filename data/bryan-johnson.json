@@ -1,0 +1,278 @@
+{
+    "request": {
+        "name": "Bryan Johnson",
+        "title": "Businessperson",
+        "year": 1977,
+        "month": 8,
+        "day": 22,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 40.23384,
+        "longitude": -111.65853,
+        "location": "Provo",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "related": ["Businessperson"],
+        "advanced": "anti-aging champion, auto-immune disease, gastritis",
+        "about": "<p>Bryan Johnson (born August 22, 1977) is an American entrepreneur, venture capitalist, writer and author. He is the founder and former CEO of Kernel, a company creating devices that monitor and record brain activity, and OS Fund, a venture capital firm that invests in early-stage science and technology companies.</p><p>Johnson was also the founder, chairman and CEO of Braintree, a company specializing in mobile and web payment systems for e-commerce companies. Braintree acquired Venmo in 2012 for $26.2 million; the combined entity was acquired by PayPal for $800 million in 2013.</p><p>Johnson has received media attention for his anti-aging attempt that he refers to as \"Project Blueprint\". He refers to the philosophy as \"don't die\". In 2026 Johnson announced he was diagnosed with an incurable autoimmune disease</p>",
+        "events": [
+            {
+                "date": "30-07-2026",
+                "event": "Publicly questioned whether his intensive longevity experiment had gone \"too far\" following recent health challenges."
+            },
+            {
+                "date": "July 2026",
+                "event": "Revealed that he had been diagnosed with autoimmune gastritis, a chronic condition causing his immune system to attack his stomach lining."
+            },
+            {
+                "date": "October 2024",
+                "event": "Raised $60 million in external funding for his anti-aging and health optimization company, Blueprint, from a group of investors including Kim Kardashian and the Winklevoss twins."
+            },
+            {
+                "date": "July 2025",
+                "event": "Appointed Gyre Renwick as the CEO of Blueprint to oversee commercial operations while Johnson continued leading product and protocol development."
+            },
+            {
+                "date": "13-10-2021",
+                "event": "Announced Project Blueprint, a high-profile, multi-million-dollar anti-aging and longevity experiment aimed at reversing biological aging."
+            },
+            {
+                "date": "2016",
+                "event": "Founded Kernel, investing $100 million of his own capital to build advanced neuroscience hardware and brain-monitoring devices."
+            },
+            {
+                "date": "October 2014",
+                "event": "Launched the OS Fund with $100 million of his personal capital to invest in early-stage science and technology startups."
+            },
+            {
+                "date": "26-09-2013",
+                "event": "Sold his digital payments and mobile commerce company, Braintree (including Venmo), to PayPal for $800 million, walking away with over $300 million."
+            },
+            {
+                "date": "2012",
+                "event": "Acquired the peer-to-peer payments app Venmo through Braintree for $26.2 million."
+            },
+            {
+                "date": "2007",
+                "event": "Founded Braintree, a digital payments company that grew rapidly to process billions in transactions."
+            },
+            {
+                "date": "22-08-1977",
+                "event": "Born as Bryan Johnson in Springville, Utah, United States."
+            }
+        ]
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 187.61132029875762,
+            "ascendant": 7
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 66.82730314332483,
+                "cusp_degree": 6.827303143324826,
+                "motion_speed": 0.16630041261152792,
+                "zodiac": 3,
+                "house": 9,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 125.9720164539331,
+                "cusp_degree": 5.972016453933094,
+                "motion_speed": 0.9636224185674096,
+                "zodiac": 5,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 225.3044712610204,
+                "cusp_degree": 15.30447126102041,
+                "motion_speed": 14.229549412508279,
+                "zodiac": 8,
+                "house": 2,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 89.52443601786169,
+                "cusp_degree": 29.52443601786169,
+                "motion_speed": 1.173631163421915,
+                "zodiac": 3,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 60.63057655972108,
+                "cusp_degree": 0.630576559721078,
+                "motion_speed": 0.6378588050457983,
+                "zodiac": 3,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 147.2297218485071,
+                "cusp_degree": 27.229721848507097,
+                "motion_speed": -0.014554516946289398,
+                "zodiac": 5,
+                "house": 11,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 118.06115735721181,
+                "cusp_degree": 28.061157357211812,
+                "motion_speed": 0.1271866881597153,
+                "zodiac": 4,
+                "house": 10,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 172.7573209079789,
+                "cusp_degree": 22.757320907978908,
+                "motion_speed": -0.01872084361371533,
+                "zodiac": 6,
+                "house": 12,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 173.95999804600365,
+                "cusp_degree": 23.959998046003648,
+                "motion_speed": -0.05299204269210542,
+                "zodiac": 6,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 353.95999804600365,
+                "motion_speed": -0.05299204269210542,
+                "cusp_degree": 23.959998046003648,
+                "zodiac": 12,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 352.7573209079789,
+                "motion_speed": -0.01872084361371533,
+                "cusp_degree": 22.757320907978908,
+                "zodiac": 12,
+                "house": 6,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1977-08-22",
+        "latitude": 40.23384,
+        "longitude": -111.65853,
+        "time_zone": "America/Denver",
+        "offset": -6,
+        "julday": 2443377.5,
+        "solar_longitude": 125.2493864110417,
+        "lunar_longitude": 214.66765991938698,
+        "lunar_latitude": 3.44378775065256,
+        "sunrise": [
+            2443377.784085462,
+            [
+                6,
+                49,
+                5
+            ],
+            [
+                1977,
+                8,
+                22,
+                6.8180510848760605
+            ]
+        ],
+        "sunset": [
+            2443378.3396519227,
+            [
+                20,
+                9,
+                6
+            ],
+            [
+                1977,
+                8,
+                22,
+                20.15164614468813
+            ]
+        ],
+        "moonrise": [
+            2443378.1385751665,
+            [
+                15,
+                19,
+                33
+            ],
+            [
+                1977,
+                8,
+                22,
+                15.325803995132446
+            ]
+        ],
+        "moonset": [
+            2443377.506905374,
+            [
+                0,
+                9,
+                57
+            ],
+            [
+                1977,
+                8,
+                22,
+                0.16572897881269455
+            ]
+        ],
+        "tithi": [
+            8,
+            [
+                18,
+                43,
+                20
+            ],
+            9,
+            [
+                40,
+                18,
+                41
+            ]
+        ],
+        "nakshatra": [
+            "Swati",
+            15,
+            [
+                9,
+                1,
+                50
+            ]
+        ],
+        "yoga": [
+            "Indra",
+            25
+        ],
+        "karana": [
+            15,
+            -3.1649820875281307
+        ],
+        "vaara": "Somavara",
+        "lunar_phase": 89.41827350834528,
+        "masa": [
+            "Bhadrapada",
+            6,
+            false
+        ],
+        "ahargana": 1854912,
+        "ritu": "Varsha Ritu (Monsoon)",
+        "samvatsara": 51,
+        "day_duration": [
+            13.333595059812069,
+            [
+                13,
+                20,
+                1
+            ]
+        ]
+    }
+}

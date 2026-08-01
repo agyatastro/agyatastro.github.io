@@ -1,0 +1,262 @@
+{
+    "request": {
+        "name": "Smt. Droupadi Murmu",
+        "title": "President, Governor",
+        "year": 1958,
+        "month": 6,
+        "day": 20,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 22.45,
+        "longitude": 86.28333334,
+        "location": "Uparbeda Village, Rairangpur",
+        "gender": "female",
+        "agyat_rating": "AX",
+        "about": "<p>Droupadi Murmu (born Durgi Tudu; 20 June 1958) is an Indian politician who has served as the president of India since 2022. She won the 2022 presidential election from the Bharatiya Janata Party (BJP). She is the first person belonging to a tribal community and also the second woman, after Pratibha Patil, to hold the office. She is also the youngest person to occupy the post (at 64) and the first president born in independent India.</p><p>Previously, she served as the governor of Jharkhand from 2015 to 2021, being the longest-serving governor for that state, as a member of the Odisha Legislative Assembly from Rairangpur Assembly constituency from 2000 to 2009, and as minister of State (Independent Charge), Government of Odisha, from 2000 to 2004. Before entering politics, she worked as a clerk in the State Irrigation and Power Department from 1979 to 1983, and then as a teacher in Rairangpur from 1994 until 1997</p>",
+        "events": [
+            {
+                "date": "01-08-2026",
+                "event": "Gave official assent to the Public Examinations (Prevention of Unfair Means) Amendment Bill, 2026, strengthening legal penalties to curb examination malpractices and paper leaks."
+            },
+            {
+                "date": "25-07-2022",
+                "event": "Sworn in as the 15th President of India, making history as the first person from a tribal community, the youngest person, and the first president born in independent India to hold the office."
+            },
+            {
+                "date": "18-05-2015",
+                "event": "Appointed as the Governor of Jharkhand, serving a full tenure until 2021 as the first woman tribal governor of the state."
+            },
+            {
+                "date": "2007",
+                "event": "Awarded the prestigious Pandit Nilkanth Das – Best Legislator Award by the Odisha Legislative Assembly for her dedicated public service."
+            },
+            {
+                "date": "2000",
+                "event": "Elected as a Member of the Legislative Assembly (MLA) of Odisha from the Rairangpur constituency, subsequently serving two terms until 2009 and holding ministerial portfolios."
+            },
+            {
+                "date": "1997",
+                "event": "Entered grassroots politics by joining the Bharatiya Janata Party (BJP) and winning election as a councilor of the Rairangpur Nagar Panchayat."
+            },
+            {
+                "date": "1981",
+                "event": "Married Shyam Charan Murmu, an officer in a bank."
+            },
+            {
+                "date": "1979",
+                "event": "Graduated with a Bachelor of Arts degree from Rama Devi Women's College in Bhubaneswar, becoming the first woman from her village to complete a university education, and began working as a junior assistant in Odisha's Irrigation and Power Department."
+            },
+            {
+                "date": "20-06-1958",
+                "event": "Born as Puti Tudu (later known as Droupadi Murmu) in Uparbeda village, Mayurbhanj district, Odisha, into a Santhali tribal family."
+            }
+        ]
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 158.33806255712915,
+            "ascendant": 6
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 178.47836577096442,
+                "cusp_degree": 28.478365770964416,
+                "motion_speed": 0.0035589192559947326,
+                "zodiac": 6,
+                "house": 1,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 65.15224150894309,
+                "cusp_degree": 5.152241508943092,
+                "motion_speed": 0.9545680603557316,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 101.51185004669904,
+                "cusp_degree": 11.511850046699038,
+                "motion_speed": 13.65019426042065,
+                "zodiac": 4,
+                "house": 11,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 28.869075840171018,
+                "cusp_degree": 28.869075840171018,
+                "motion_speed": 1.1700527417514446,
+                "zodiac": 1,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 345.92765270847303,
+                "cusp_degree": 15.927652708473033,
+                "motion_speed": 0.6990757668099654,
+                "zodiac": 12,
+                "house": 7,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 67.10139720060084,
+                "cusp_degree": 7.101397200600843,
+                "motion_speed": 2.1867823564055375,
+                "zodiac": 3,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 238.67752826514027,
+                "cusp_degree": 28.677528265140268,
+                "motion_speed": -0.07316248443322872,
+                "zodiac": 8,
+                "house": 3,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 186.14558577997252,
+                "cusp_degree": 6.145585779972521,
+                "motion_speed": -0.14027652284622238,
+                "zodiac": 7,
+                "house": 2,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 185.08867879089814,
+                "cusp_degree": 5.088678790898143,
+                "motion_speed": -0.052992077777307904,
+                "zodiac": 7,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 5.088678790898143,
+                "motion_speed": -0.052992077777307904,
+                "cusp_degree": 5.088678790898143,
+                "zodiac": 1,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 6.145585779972521,
+                "motion_speed": -0.14027652284622238,
+                "cusp_degree": 6.145585779972521,
+                "zodiac": 1,
+                "house": 8,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1958-06-20",
+        "latitude": 22.45,
+        "longitude": 86.28333334,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2436374.5,
+        "solar_longitude": 64.8937060405467,
+        "lunar_longitude": 97.82173423496849,
+        "lunar_latitude": -5.079551695261402,
+        "sunrise": [
+            2436374.7116939677,
+            [
+                5,
+                4,
+                50
+            ],
+            [
+                1958,
+                6,
+                20,
+                5.080655224621296
+            ]
+        ],
+        "sunset": [
+            2436375.2690916723,
+            [
+                18,
+                27,
+                30
+            ],
+            [
+                1958,
+                6,
+                20,
+                18.45820013433695
+            ]
+        ],
+        "moonrise": [
+            2436374.8181148274,
+            [
+                7,
+                38,
+                5
+            ],
+            [
+                1958,
+                6,
+                20,
+                7.634755857288837
+            ]
+        ],
+        "moonset": [
+            2436375.38317102,
+            [
+                21,
+                11,
+                46
+            ],
+            [
+                1958,
+                6,
+                20,
+                21.196104481816292
+            ]
+        ],
+        "tithi": [
+            3,
+            [
+                10,
+                54,
+                8
+            ]
+        ],
+        "nakshatra": [
+            "Ardra",
+            6,
+            [
+                15,
+                6,
+                3
+            ]
+        ],
+        "yoga": [
+            "Vyaghata",
+            12
+        ],
+        "karana": [
+            5,
+            -5.609119057895114
+        ],
+        "vaara": "Shukrvara",
+        "lunar_phase": 32.928028194421785,
+        "masa": [
+            "Ashadha",
+            4,
+            false
+        ],
+        "ahargana": 1847909,
+        "ritu": "Varsha Ritu (Monsoon)",
+        "samvatsara": 31,
+        "day_duration": [
+            13.377544909715652,
+            [
+                13,
+                22,
+                39
+            ]
+        ]
+    }
+}

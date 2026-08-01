@@ -1,0 +1,258 @@
+{
+    "request": {
+        "name": "Priyanka Gandhi",
+        "title": "Politician",
+        "year": 1972,
+        "month": 1,
+        "day": 12,
+        "hour": 17,
+        "minute": 5,
+        "second": 0,
+        "latitude": 28.65195,
+        "longitude": 77.23149,
+        "location": "Delhi",
+        "gender": "female",
+        "agyat_rating": "AA",
+        "about": "<p>Priyanka Gandhi Vadra (née Gandhi; born 12 January 1972) is an Indian politician who is serving as the member of the Lok Sabha for Wayanad, Kerala, since November 2024. A member of the Indian National Congress, she is also serving as a general secretary of the All India Congress Committee (AICC).</p><p>Gandhi Vadra is a member of the politically prominent Nehru–Gandhi family. She is also a trustee of the Rajiv Gandhi Foundation.</p>",
+        "related": [
+            "gandhi-family",
+            "politician"
+        ],
+        "events": [
+            {
+                "date": "2024",
+                "event": "Made her official electoral debut by winning the Wayanad Lok Sabha by-election in Kerala, transitioning from a behind-the-scenes strategist to a frontline Member of Parliament."
+            },
+            {
+                "date": "11-09-2020",
+                "event": "Appointed as the General Secretary in-charge of the entire Uttar Pradesh Congress Committee, overseeing key organizational strategies and state-level assembly campaigns."
+            },
+            {
+                "date": "23-01-2019",
+                "event": "Formally entered active electoral politics when she was appointed as the Congress General Secretary for Eastern Uttar Pradesh ahead of the general elections."
+            },
+            {
+                "date": "18-02-1997",
+                "event": "Married businessman Robert Vadra in a private ceremony at the Gandhi family residence, 10 Janpath, in New Delhi."
+            },
+            {
+                "date": "21-05-1991",
+                "event": "Suffered a profound personal tragedy at age 19 when her father, former Prime Minister Rajiv Gandhi, was assassinated by LTTE terrorists during an election campaign."
+            },
+            {
+                "date": "31-10-1984",
+                "event": "Experienced a major childhood trauma at age 12 when her grandmother, India's first female Prime Minister Indira Gandhi, was assassinated."
+            },
+            {
+                "date": "12-01-1972",
+                "event": "Born as Priyanka Gandhi in New Delhi, India, to former Prime Minister Rajiv Gandhi and veteran Congress leader Sonia Gandhi."
+            }
+        ]
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 80.59011509648234,
+            "ascendant": 3
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 241.3898708956381,
+                "cusp_degree": 1.3898708956380972,
+                "motion_speed": 0.21492888803162666,
+                "zodiac": 9,
+                "house": 7,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 267.89560084765793,
+                "cusp_degree": 27.89560084765793,
+                "motion_speed": 1.0192092152689545,
+                "zodiac": 9,
+                "house": 7,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 220.94654456691856,
+                "cusp_degree": 10.946544566918561,
+                "motion_speed": 12.309652467362397,
+                "zodiac": 8,
+                "house": 6,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 301.4525805764182,
+                "cusp_degree": 1.4525805764181996,
+                "motion_speed": 1.2269652116102794,
+                "zodiac": 11,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 347.3745451779731,
+                "cusp_degree": 17.37454517797312,
+                "motion_speed": 0.6534820419474526,
+                "zodiac": 12,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 247.50577434089115,
+                "cusp_degree": 7.505774340891151,
+                "motion_speed": 1.3605691669138802,
+                "zodiac": 9,
+                "house": 7,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 36.443614575806755,
+                "cusp_degree": 6.443614575806755,
+                "motion_speed": -0.03499152216538904,
+                "zodiac": 2,
+                "house": 12,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 281.8383591626012,
+                "cusp_degree": 11.838359162601193,
+                "motion_speed": -0.035878993079006515,
+                "zodiac": 10,
+                "house": 8,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 282.554853734748,
+                "cusp_degree": 12.554853734748008,
+                "motion_speed": -0.05299204808687666,
+                "zodiac": 10,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 102.55485373474801,
+                "motion_speed": -0.05299204808687666,
+                "cusp_degree": 12.554853734748008,
+                "zodiac": 4,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 101.8383591626012,
+                "motion_speed": -0.035878993079006515,
+                "cusp_degree": 11.838359162601193,
+                "zodiac": 4,
+                "house": 2,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1972-01-12",
+        "latitude": 28.65195,
+        "longitude": 77.23149,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2441328.5,
+        "solar_longitude": 267.4036871192688,
+        "lunar_longitude": 215.03180646207832,
+        "lunar_latitude": -4.838735641538474,
+        "sunrise": [
+            2441328.8052193974,
+            [
+                7,
+                19,
+                31
+            ],
+            [
+                1972,
+                1,
+                12,
+                7.325265537947416
+            ]
+        ],
+        "sunset": [
+            2441329.2352882186,
+            [
+                17,
+                38,
+                49
+            ],
+            [
+                1972,
+                1,
+                12,
+                17.6469172462821
+            ]
+        ],
+        "moonrise": [
+            2441328.642014557,
+            [
+                3,
+                24,
+                30
+            ],
+            [
+                1972,
+                1,
+                12,
+                3.4083493687212467
+            ]
+        ],
+        "moonset": [
+            2441329.092382074,
+            [
+                14,
+                13,
+                2
+            ],
+            [
+                1972,
+                1,
+                12,
+                14.217169772833586
+            ]
+        ],
+        "tithi": [
+            26,
+            [
+                16,
+                39,
+                31
+            ]
+        ],
+        "nakshatra": [
+            "Swati",
+            15,
+            [
+                21,
+                59,
+                12
+            ]
+        ],
+        "yoga": [
+            "Ganda",
+            9
+        ],
+        "karana": [
+            51,
+            -5.051444487392246
+        ],
+        "vaara": "Budhvara",
+        "lunar_phase": 307.62811934280955,
+        "masa": [
+            "Pausha",
+            10,
+            false
+        ],
+        "ahargana": 1852863,
+        "ritu": "Varsha Ritu (Monsoon)",
+        "samvatsara": 45,
+        "day_duration": [
+            10.321651708334684,
+            [
+                10,
+                19,
+                18
+            ]
+        ]
+    }
+}

@@ -15,8 +15,37 @@
         "gender": "female",
         "about": "<p>Gayatri Devi (born Princess Gayatri Devi of Cooch Behar; 23 May 1919 − 29 July 2009) was the third Maharani consort of Jaipur from 1940 to 1949 through her marriage to Maharaja Sawai Man Singh II. Following her husband's signature for the Jaipur State to become part of the Union of India and her step-son's assumption of the title in 1970, she was known as Maharani Gayatri Devi, Rajmata of Jaipur.</p><p> She was born in the Hindu royal family of Cooch Behar. Her father was Maharaja Jitendra Narayan of Cooch Behar in West Bengal, and her mother was the Maratha Princess, Indira Raje of Baroda, the only daughter of Maharaja Sayajirao Gaekwad III, and she was sister to Jagaddipendra Narayan, informally known as 'Bhaiya', who succeeded their father to the throne of Cooch Behar.</p><p> Following India's independence and the abolition of the princely states, she became a successful politician in the Swatantra Party. Gayatri was also celebrated for her beauty and became something of a fashion icon in her adulthood. She served 12 years in Swatantra Party, during which she was a prominent critic of Indira Gandhi's government. After her departure from politics, she lived a quiet life in her large estate, spending time on hobbies and leisure.</p><p> She died on 29 July 2009 in Jaipur, at the age of 90. She was suffering from paralytic ileus and a lung infection. She left an estate estimated at £250 million, which was passed on to her grandchildren.<p>",
         "dod": "29/07/2009",
-        "related": ["jaipur-rajgharana", "politician"],
-        "advanced": "death by illness, lung failure"
+        "related": [
+            "jaipur-rajgharana",
+            "politician"
+        ],
+        "advanced": "death by illness, lung failure",
+        "events": [
+            {
+                "date": "29-07-2009",
+                "event": "Passed away at the age of 90 in Jaipur, Rajasthan, following complications from a lung infection and paralytic ileus."
+            },
+            {
+                "date": "1976",
+                "event": "Published her celebrated autobiography, 'A Princess Remembers', detailing her extraordinary life growing up in royalty and entering public service."
+            },
+            {
+                "date": "1975",
+                "event": "Arrested and imprisoned for five months in Tihar Jail during the national Emergency declared by Prime Minister Indira Gandhi on allegations of violating tax laws."
+            },
+            {
+                "date": "1962",
+                "event": "Made history by winning the Jaipur Lok Sabha parliamentary seat on a Swatantra Party ticket with a world-record landslide majority of votes."
+            },
+            {
+                "date": "09-05-1940",
+                "event": "Married Maharaja Sawai Man Singh II in a grand ceremony, becoming the third Maharani consort of Jaipur."
+            },
+            {
+                "date": "23-05-1919",
+                "event": "Born as Princess Gayatri Devi of Cooch Behar in London, United Kingdom, to Maharaja Jitendra Narayan of Cooch Behar and Maratha Princess Indira Raje of Baroda."
+            }
+        ]
     },
     "response": {
         "ascendant": {

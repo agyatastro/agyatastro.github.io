@@ -14,9 +14,42 @@
         "agyat_rating": "AA",
         "gender": "male",
         "about": "<p>Madhavrao Jiwajirao Scindia (10 March 1945 – 30 September 2001) was an Indian politician and minister in the Government of India. He was a member of the Indian National Congress. He was viewed as a potential future prime ministerial candidate before the 1999 Lok Sabha elections in the aftermath of the controversy over Sonia Gandhi's foreign origin.</p><p>Scindia was the son of Jiwajirao Scindia, the last ruling Maharaja of the erstwhile Gwalior State. Upon the death of his father in 1961, and under terms agreed to during the political integration of India, Scindia succeeded to a privy purse, certain privileges, and the use of the title \"Maharaja of Gwalior,\" which lasted until 1971, whereupon all were abolished by the 26th Amendment to the Constitution of India.</p>",
-        "related": ["scindia-family", "politician"],
+        "related": [
+            "scindia-family",
+            "politician"
+        ],
         "dod": "30/09/2001",
-        "advanced": "death by accident, air crash"
+        "advanced": "death by accident, air crash",
+        "events": [
+            {
+                "date": "30-09-2001",
+                "event": "Tragically passed away at the age of 56 in a private plane crash near Mainpuri in Uttar Pradesh while en route to a political rally in Kanpur."
+            },
+            {
+                "date": "1995",
+                "event": "Re-inducted into the Union Cabinet as the Minister for Human Resource Development under Prime Minister P.V. Narasimha Rao."
+            },
+            {
+                "date": "1990",
+                "event": "Elected as the President of the Board of Control for Cricket in India (BCCI), serving in the post until 1993."
+            },
+            {
+                "date": "1984",
+                "event": "Achieved a landmark political victory by defeating BJP stalwart Atal Bihari Vajpayee in the Gwalior Lok Sabha constituency by a massive margin as a Congress candidate."
+            },
+            {
+                "date": "1980",
+                "event": "Formally joined the Indian National Congress party, transitioning away from his earlier alignment with the Jan Sangh."
+            },
+            {
+                "date": "1971",
+                "event": "Elected to the 5th Lok Sabha for the first time from the Guna constituency as an independent candidate supported by the Jan Sangh, launching his lifelong unbeaten parliamentary career."
+            },
+            {
+                "date": "10-03-1945",
+                "event": "Born as Madhavrao Jiwajirao Scindia in Gwalior, princely state of Gwalior (now Madhya Pradesh, India), as the son of Maharaja Jivaji Rao Scindia, the last ruling monarch of Gwalior."
+            }
+        ]
     },
     "response": {
         "ascendant": {

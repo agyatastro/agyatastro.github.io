@@ -14,9 +14,54 @@
         "agyat_rating": "AA",
         "gender": "male",
         "dod": "11/01/1966",
-        "related": ["politician", "prime-minister"],
+        "related": [
+            "politician",
+            "prime-minister"
+        ],
         "about": "<p>Lal Bahadur Shastri (pronounced [lɑːl bəˈɦɑːd̪ʊɾ ˈʃɑːst̪ɾiː]; born Lal Bahadur Srivastava; 2 October 1904 – 11 January 1966) was an Indian politician and statesman who served as the prime minister of India from 1964 to 1966. He previously served as home minister from 1961 to 1963. Shastri was born to Sharad Prasad Srivastava and Ramdulari Devi in Mughalsarai (present-day Uttar Pradesh) on 2 October 1904. He studied in East Central Railway Inter college and Harish Chandra High School, which he left to join the non-cooperation movement. He worked for the betterment of the Harijans at Muzaffarpur and dropped his caste-derived surname of \"Srivastava\". Shastri's thoughts were influenced by reading about Swami Vivekananda, Mahatma Gandhi and Annie Besant. Deeply impressed and influenced by Gandhi, he joined the Indian Independence movement in the 1920s. He served as the president of Servants of the People Society (Lok Sevak Mandal), founded by Lala Lajpat Rai and held prominent positions in the Indian National Congress (INC). Following independence in 1947, he joined the Indian government and became one of prime minister Nehru's key cabinet colleagues, first as railways minister (1951–56), and then in numerous other prominent positions, including the home ministry.</p><p> As prime minister, Shastri promoted the White Revolution – a national campaign to increase the production and supply of milk – by supporting the Amul milk co-operative of Anand, Gujarat and creating the National Dairy Development Board. Underlining the need to boost India's food production, Shastri also promoted the Green Revolution in India in 1965. This led to an increase in food grain production, especially in the states of Punjab, Haryana and Uttar Pradesh. He led the country during the Second India–Pakistan War. His slogan \"Jai Jawan, Jai Kisan\" (\"Hail to the soldier; Hail to the farmer\") became very popular during the war. The war formally ended with the Tashkent Declaration on 10 January 1966; Shastri died the next day.</p>",
-        "advanced": "death by illness, heart attack"
+        "advanced": "death by illness, heart attack",
+        "events": [
+            {
+                "date": "1966",
+                "event": "Posthumously conferred with India's highest civilian honor, the Bharat Ratna."
+            },
+            {
+                "date": "11-01-1966",
+                "event": "Passed away under mysterious circumstances in Tashkent, USSR, hours after signing the historic Tashkent Declaration with Pakistani President Mohammad Ayub Khan."
+            },
+            {
+                "date": "10-01-1966",
+                "event": "Signed the Tashkent Declaration in Tashkent, Uzbekistan, aiming to restore peaceful relations between India and Pakistan following the 1965 war."
+            },
+            {
+                "date": "August–September 1965",
+                "event": "Led India with resolute determination and strong military strategy during the Indo-Pakistani War, coining the iconic national slogan 'Jai Jawan, Jai Kisan'."
+            },
+            {
+                "date": "1964",
+                "event": "Laid the foundation for India's White Revolution by establishing the National Dairy Development Board (NDDB) to boost milk production."
+            },
+            {
+                "date": "09-06-1964",
+                "event": "Sworn in as the second Prime Minister of India, succeeding Jawaharlal Nehru."
+            },
+            {
+                "date": "1956",
+                "event": "Resigned from his high-profile post as India's Minister of Railways, taking moral responsibility for a major train accident in Ariyalur, Tamil Nadu, that claimed numerous lives."
+            },
+            {
+                "date": "16-05-1928",
+                "event": "Married Lalita Devi in a traditional ceremony that featured a spinning wheel and handspun cloth as the only accepted dowry."
+            },
+            {
+                "date": "1926",
+                "event": "Graduated from Kashi Vidyapeeth in Varanasi, earning the honorific title 'Shastri' (meaning scholar)."
+            },
+            {
+                "date": "02-10-1904",
+                "event": "Born as Lal Bahadur Srivastava (later known as Lal Bahadur Shastri) in Mughalsarai, United Provinces, British India, to Sharda Prasad Srivastava and Ramdulari Devi."
+            }
+        ]
     },
     "response": {
         "ascendant": {

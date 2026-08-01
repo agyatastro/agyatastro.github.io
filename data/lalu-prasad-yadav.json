@@ -15,7 +15,61 @@
         "gender": "male",
         "advanced": "legal-issues, detention",
         "about": "<p>Lalu Prasad (born 11 June 1948) is an Indian politician who served as the chief minister of Bihar from 1990 to 1997 with a brief interruption in 1995 and as the union minister for Railways from 2004 to 2009. He is the founder and president of the Rashtriya Janata Dal (RJD) a prominent political party in Bihar. He is also a former member of Parliament (MP) of the Lok Sabha and Rajya Sabha.</p><p>Lalu Prasad Yadav is often regarded as a political messiah for the lower castes in Bihar, particularly the Other Backward Classes (OBCs), Scheduled Castes (SCs), and Muslim communities. His political rise in the 1990s marked a significant shift in Bihar's social and political landscape, which had long been dominated by upper-caste elites.</p><p>He entered politics at Patna University as a student leader and, in 1977, was elected as one of the youngest members of the Lok Sabha for the Bharatiya Lok Dal of the Janata Alliance. He became the chief minister of Bihar in 1990. His party came to power in the 2015 Bihar Legislative Assembly election in coalition with Nitish Kumar of JD(U). The coalition ended when Nitish resigned and the RJD was ousted, becoming the opposition party.</p><p>In the 2020 Bihar Legislative Assembly election, the RJD remained the single largest party in Bihar, and along with JD(U) in power after JD(U) rejoined MGB in 2022, headed the government until JD(U) returned to NDA.</p><p>Lalu was convicted in the controversial Fodder Scam, and was serving a term until 17 April 2021, when he was granted bail from the High Court.</p>",
-        "related": ["lalu-yadav-family", "politician", "chief-minister"]
+        "related": [
+            "lalu-yadav-family",
+            "politician",
+            "chief-minister"
+        ],
+        "events": [
+            {
+                "date": "20-07-2026",
+                "event": "Traveled to New Delhi for specialized medical check-ups and monitoring at AIIMS following a brief hospitalization in Patna due to fluctuating health conditions."
+            },
+            {
+                "date": "11-06-2026",
+                "event": "Celebrated his 79th birthday surrounded by family members and senior Rashtriya Janata Dal (RJD) leaders in Patna."
+            },
+            {
+                "date": "December 2025",
+                "event": "Underwent successful cataract and retina surgery on his eyes at a specialized private eye hospital in New Delhi."
+            },
+            {
+                "date": "05-12-2022",
+                "event": "Successfully underwent a kidney transplant surgery in Singapore, receiving a kidney donated by his second daughter, Rohini Acharya."
+            },
+            {
+                "date": "03-10-2013",
+                "event": "Convicted by a special CBI court in the first multi-million-rupee Fodder Scam case, resulting in a prison sentence and subsequent disqualification from Parliament."
+            },
+            {
+                "date": "2004",
+                "event": "Appointed as the Union Cabinet Minister for Railways in the UPA government, where he famously engineered a profitable turnaround of the Indian Railways."
+            },
+            {
+                "date": "05-07-1997",
+                "event": "Founded the Rashtriya Janata Dal (RJD) after splitting from the Janata Dal and subsequently stepped down as Chief Minister of Bihar, installing his wife Rabri Devi as his successor."
+            },
+            {
+                "date": "10-03-1995",
+                "event": "Secured a resounding second consecutive term as the Chief Minister of undivided Bihar."
+            },
+            {
+                "date": "10-03-1990",
+                "event": "Assumed office as the 15th Chief Minister of Bihar for his first term, focusing heavily on social justice and the empowerment of backward classes."
+            },
+            {
+                "date": "1977",
+                "event": "Elected to the 6th Lok Sabha from the Chapra constituency as a Janata Party candidate, marking his entry into national parliamentary politics."
+            },
+            {
+                "date": "1973",
+                "event": "Elected as the President of the Patna University Students' Union, emerging as a prominent youth leader during the student movements led by Jayaprakash Narayan."
+            },
+            {
+                "date": "11-06-1948",
+                "event": "Born as Lalu Prasad Yadav in Phulwaria village, Gopalganj district, Bihar, India, to Kundan Rai and Marachhiya Devi."
+            }
+        ]
     },
     "response": {
         "ascendant": {

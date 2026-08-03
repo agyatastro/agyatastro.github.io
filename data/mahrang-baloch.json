@@ -13,8 +13,8 @@
         "location": "Kalat",
         "gender": "female",
         "agyat_rating": "AX",
-        "related": ["doctor", "human-rights-activist"],
-        "advanced": "detention, convicted, human rights activist",
+        "related": ["activist", "doctor"],
+        "advanced": "detention, convict, human rights activist",
         "about": "Mahrang Baloch (born 1 January 1993) is a Baloch political activist who is the founder and leader of the Baloch Yakjehti Committee (BYC). She is known for her campaigns against alleged enforced disappearances, extrajudicial killings, and other human rights abuses in Balochistan, Pakistan."
     },
     "response": {

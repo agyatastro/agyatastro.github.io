@@ -1,7 +1,7 @@
 {
     "request": {
         "name": "Sabeer Bhatia",
-        "title": "Businessman, Inventor",
+        "title": "Businessperson, Inventor",
         "year": 1968,
         "month": 12,
         "day": 30,
@@ -13,7 +13,7 @@
         "location": "Chandigarh",
         "gender": "male",
         "agyat_rating": "AX",
-        "related": ["inventor", "businessman"],
+        "related": ["inventor", "businessperson"],
         "about": "Sabeer Bhatia (born 30 December 1968) is an Indian-American entrepreneur who co-founded the first free web-based email service, Hotmail.com (now Outlook.com) in 1996. In 2021 he co-founded ShowReel with Javed Yunus. ShowReel initially hosted short videos for job seekers and founders. It has since turned into an AI-based entrepreneurship course"
     },
     "response": {

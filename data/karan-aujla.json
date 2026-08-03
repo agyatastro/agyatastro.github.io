@@ -1,0 +1,259 @@
+{
+    "request": {
+        "name": "Karan Aujla",
+        "title": "Rapper, Singer, Songwriter",
+        "year": 1997,
+        "month": 1,
+        "day": 18,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 30.91204,
+        "longitude": 75.85379,
+        "location": "Ludhiana",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "related": [
+            "rapper",
+            "singer",
+            "songwriter"
+        ],
+        "about": "<p>Jaskaran Singh Aujla (born 18 January 1997) is an Indian singer, rapper and songwriter who is primarily associated with Punjabi music. He is known for his numerous tracks which have charted on the UK Asian chart published by the Official Charts Company, while seven have charted on the Global YouTube music chart. His debut album Bacthafucup peaked at number 20 on Billboard Canadian Albums chart and 34th on the New Zealand albums chart, earning him the title of the Largest Digital Artist 2021 on Spotify and had been listed in their Most Popular Artists in Punjabi Music Industry.</p><p>Aujla started as a songwriter for Jassi Gill's \"Range\", from his album Replay. He worked as a songwriter for various other artists including Deep Jandu and Elly Mangat. In 2016, he released his debut song \"Property of Punjab\" as a lead artist, and started featuring as guest artist in songs. He came into limelight with his tracks like \"Yaarian Ch Fikk\", \"Unity\", \"Alcohol 2\", and \"Lafaafe\"; subsequently he achieved mainstream popularity in 2018 with \"Don't Worry\", his first song to enter UK Asian chart. In 2020, his singles \"Jhanjar\", \"Red Eyes\" and \"Kya Baat Aa\" entered top 10 in the chart, while \"So Far\" entered top 5.</p>",
+        "events": [
+            {
+                "date": "2024",
+                "event": "Released his highly successful studio album 'Making Memories' featuring chart-topping tracks like 'Winning Speech' and 'Admiring You', which achieved massive global streaming success and debuted on the Billboard Canadian Hot 100."
+            },
+            {
+                "date": "18-06-2023",
+                "event": "Faced severe public outrage and a major controversy when videos emerged showing him firing gunshots at a birthday celebration in Canada, prompting local police investigations into the incident."
+            },
+            {
+                "date": "2021",
+                "event": "Released his debut full-length studio album 'BacFmWtf' (Backstreet Studios), which established him as a leading force in modern Punjabi music."
+            },
+            {
+                "date": "2019",
+                "event": "Encountered a major controversy when his song 'Don't Worry' and subsequent tracks faced criticism from student and social organizations in Punjab for allegedly glorifying gun culture, violence, and gang violence."
+            },
+            {
+                "date": "2018",
+                "event": "Rose to mainstream prominence and commercial breakthrough with the release of his hit single 'Dont Worry' as a singer and songwriter."
+            },
+            {
+                "date": "2016",
+                "event": "Gained initial recognition in the Punjabi music industry as a lyricist, writing notable songs for established artists like Jassie Gill ('Takabbar') and Diljit Dosanjh ('Bul Jugadi')."
+            },
+            {
+                "date": "18-01-1994",
+                "event": "Born as Jaskaran Singh Aujla in Ghurala, Ludhiana district, Punjab, India."
+            }
+        ]
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 6.359379340071481,
+            "ascendant": 1
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 275.3923050236041,
+                "cusp_degree": 5.392305023604081,
+                "motion_speed": 0.2353723499158496,
+                "zodiac": 10,
+                "house": 10,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 274.39442313667865,
+                "cusp_degree": 4.394423136678654,
+                "motion_speed": 1.0179370415549205,
+                "zodiac": 10,
+                "house": 10,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 33.86084599331912,
+                "cusp_degree": 3.860845993319117,
+                "motion_speed": 12.78080035585244,
+                "zodiac": 2,
+                "house": 2,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 256.25360223993476,
+                "cusp_degree": 16.253602239934764,
+                "motion_speed": 1.2522612549239411,
+                "zodiac": 9,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 160.10939464429023,
+                "cusp_degree": 10.109394644290234,
+                "motion_speed": 0.20164826064778993,
+                "zodiac": 6,
+                "house": 6,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 250.96777282094396,
+                "cusp_degree": 10.967772820943964,
+                "motion_speed": 0.6202718267767877,
+                "zodiac": 9,
+                "house": 9,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 338.6166862092861,
+                "cusp_degree": 8.616686209286115,
+                "motion_speed": 0.0761590234329877,
+                "zodiac": 12,
+                "house": 12,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 157.2963976388813,
+                "cusp_degree": 7.296397638881302,
+                "motion_speed": -0.08741115741479363,
+                "zodiac": 6,
+                "house": 6,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 158.3249197122668,
+                "cusp_degree": 8.32491971226679,
+                "motion_speed": -0.05299202186174246,
+                "zodiac": 6,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 338.3249197122668,
+                "motion_speed": -0.05299202186174246,
+                "cusp_degree": 8.32491971226682,
+                "zodiac": 12,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 337.29639763888133,
+                "motion_speed": -0.08741115741479363,
+                "cusp_degree": 7.296397638881331,
+                "zodiac": 12,
+                "house": 12,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1997-01-18",
+        "latitude": 30.91204,
+        "longitude": 75.85379,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2450466.5,
+        "solar_longitude": 274.11872337620844,
+        "lunar_longitude": 30.390666191082666,
+        "lunar_latitude": -4.060284212559646,
+        "sunrise": [
+            2450466.8117019823,
+            [
+                7,
+                28,
+                51
+            ],
+            [
+                1997,
+                1,
+                18,
+                7.480847574770451
+            ]
+        ],
+        "sunset": [
+            2450467.2398783467,
+            [
+                17,
+                45,
+                25
+            ],
+            [
+                1997,
+                1,
+                18,
+                17.75708032026887
+            ]
+        ],
+        "moonrise": [
+            2450467.062908387,
+            [
+                13,
+                30,
+                35
+            ],
+            [
+                1997,
+                1,
+                18,
+                13.509801283478737
+            ]
+        ],
+        "moonset": [
+            2450466.614336252,
+            [
+                2,
+                44,
+                39
+            ],
+            [
+                1997,
+                1,
+                18,
+                2.744070053100586
+            ]
+        ],
+        "tithi": [
+            10,
+            [
+                15,
+                4,
+                58
+            ]
+        ],
+        "nakshatra": [
+            "Ashwini",
+            1,
+            [
+                18,
+                11,
+                21
+            ]
+        ],
+        "yoga": [
+            "Shukla",
+            23
+        ],
+        "karana": [
+            19,
+            -5.9469589767393245
+        ],
+        "vaara": "Shanivara",
+        "lunar_phase": 116.27194281487422,
+        "masa": [
+            "Magha",
+            11,
+            false
+        ],
+        "ahargana": 1862001,
+        "ritu": "Varsha Ritu (Monsoon)",
+        "samvatsara": 10,
+        "day_duration": [
+            10.276232745498419,
+            [
+                10,
+                16,
+                34
+            ]
+        ]
+    }
+}

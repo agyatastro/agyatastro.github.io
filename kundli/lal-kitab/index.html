@@ -337,25 +337,48 @@
         </table>
     </div></script><script id="agyat-tmpl-lal-kitab-dasha" type="text/x-handlebars-template"><div class="card shadow-sm border-0 lal-kitab-dasha-card mb-4">
     <div class="card-body">
-      <h5 class="card-title mb-3">Lal Kitab Dasha</h5>
-      <p class="mb-2"><strong>Start:</strong> {{dasha.startPlanet}} • <strong>Current:</strong> {{dasha.current.planet}} (Cycle {{dasha.current.cycle}})</p>
-      <div class="table-responsive">
-        <table class="table table-sm table-bordered mb-0">
-          <thead>
-            <tr>
-              <th>Planet</th>
-              <th>Start - End</th>
-            </tr>
-          </thead>
-          <tbody>
-            {{#each dasha.cycles}}
-            <tr>
-              <td>{{planet}}</td>
-              <td>{{formatDate startDate}} - {{formatDate endDate}}</td>
-            </tr>
-            {{/each}}
-          </tbody>
-        </table>
+      <div class="d-flex flex-column flex-lg-row justify-content-between align-items-lg-start mb-3">
+        <div>
+          <span class="badge badge-dark mb-2">Lal Kitab Dasha</span>
+          <h4 class="mb-1 font-weight-bold text-dark">Current cycle overview</h4>
+          <p class="text-muted mb-0 small">Starting from {{dasha.startPlanet}} and continuing through the cycle.</p>
+        </div>
+        <div class="text-muted small mt-2 mt-lg-0">
+          <div><strong>Current:</strong> {{dasha.current.planet}}</div>
+          <div><strong>Cycle:</strong> {{dasha.current.cycle}}</div>
+        </div>
+      </div>
+      <div class="list-group list-group-flush">
+        {{#each dasha.cycles}}
+          <div class="list-group-item px-0 py-3">
+            <div class="d-flex flex-column flex-lg-row justify-content-between align-items-lg-start">
+              <div class="mb-3 mb-lg-0">
+                <div class="d-flex align-items-center mb-2">
+                  <span class="badge dasha-badge-{{dashaStatus this}} mr-2">{{dashaStatusText this}}</span>
+                  <h6 class="mb-0 font-weight-bold text-dark">{{planet}}</h6>
+                </div>
+                <p class="small text-muted mb-0">Lal Kitab dasha period</p>
+              </div>
+              <div class="text-left text-lg-right mt-2 mt-lg-0">
+                <div class="small text-muted">Start</div>
+                <div class="font-weight-bold">{{formatDate startDate}}</div>
+                <div class="small text-muted mt-2">End</div>
+                <div class="font-weight-bold">{{formatDate endDate}}</div>
+              </div>
+            </div>
+            {{#if (isActive this)}}
+              <div class="mt-3">
+                <div class="d-flex justify-content-between small text-muted mb-1">
+                  <span>Elapsed: {{elapsedPercent this}}%</span>
+                  <span>Remaining: {{remainingYears this}} yrs</span>
+                </div>
+                <div class="progress dasha-progress">
+                  <div class="progress-bar dasha-progress-bar" role="progressbar" aria-valuenow="{{elapsedPercent this}}" aria-valuemin="0" aria-valuemax="100" data-width="{{elapsedPercent this}}"></div>
+                </div>
+              </div>
+            {{/if}}
+          </div>
+        {{/each}}
       </div>
     </div>
   </div></script><!--

@@ -1,0 +1,229 @@
+{
+    "request": {
+        "name": "M. Karunanidhi",
+        "title": "Politician, Screenwriter",
+        "year": 1926,
+        "month": 6,
+        "day": 3,
+        "hour": 9,
+        "minute": 0,
+        "second": 0,
+        "latitude": 13.05,
+        "longitude": 80.18,
+        "location": "Chennai",
+        "gender": "male",
+        "agyat_rating": "AA",
+        "related": [
+            "Karunanidhi-family",
+            "politician",
+            "screenwriter"
+        ],
+        "about": "<p>Muthuvel Karunanidhi (3 June 1924 – 7 August 2018), popularly known as Kalaignar was an Indian politician, writer and screenwriter who served as Chief Minister of Tamil Nadu for five terms between 1969 and 2011 and was the longest-serving chief minister in the state's history. He was the ten-time president of the Dravida Munnetra Kazhagam (DMK) for nearly five decades and a leading figure in the Dravidian movement.[4] He was noted for his contributions to Tamil literature, which include plays, novels, poems, and a multi-volume memoir.</p><p>Born in Thirukkuvalai in 1924, Karunanidhi was politically active from adolescence, participating in the Anti-Hindi agitation of 1937–40 and founding the Dravidian movement's first student wing. He pursued a parallel career in the Tamil film industry as a screenwriter, composing the dialogue for landmark films including M. G. Ramachandran's debut as a lead, Rajakumari, and Sivaji Ganesan's debut, Parasakthi. He used his writing to propagate the rationalist and egalitarian ideals of Periyar and DMK founder C. N. Annadurai, and was himself an avowed atheist and rationalist.</p><p>Karunanidhi entered the Madras state legislature in 1957 and succeeded Annadurai as DMK president and Chief Minister following the latter's death in 1969. Over the following four decades, his political career was characterised by shifting alliances with national parties — the Indian National Congress, the Bharatiya Janata Party, and the United Front — and by sustained rivalry with the AIADMK, particularly its leader J. Jayalalithaa. His government was dismissed in 1991 over alleged links with the Liberation Tigers of Tamil Eelam, and he was controversially arrested in 2001 on Jayalalithaa's orders. He returned to power in 1996 and again in 2006, completing his final term in 2011.</p><p>As Chief Minister, Karunanidhi championed increased state autonomy, caste-based affirmative action, and subsidies for the poor, policies that were widely adopted elsewhere in India and cemented his support among lower-caste communities. He was instrumental in securing classical language status for Tamil and in commissioning the 133-foot Thiruvalluvar Statue at Kanyakumari. He was also frequently accused of nepotism and of lending political support to the LTTE. Karunanidhi died on 7 August 2018 at Kauvery Hospital in Chennai after prolonged age-related illnesses.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 93.72967919103577,
+            "ascendant": 4
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 304.06355757584686,
+                "cusp_degree": 4.063557575846858,
+                "motion_speed": 0.04193075466756236,
+                "zodiac": 11,
+                "house": 8,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 48.97675597887444,
+                "cusp_degree": 18.976755978874444,
+                "motion_speed": 0.9575979868365473,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 316.4214935982366,
+                "cusp_degree": 16.421493598236623,
+                "motion_speed": 14.186370581553938,
+                "zodiac": 11,
+                "house": 8,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 7.530274389551896,
+                "cusp_degree": 7.530274389551896,
+                "motion_speed": 1.1336432671826322,
+                "zodiac": 1,
+                "house": 10,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 328.9038463102103,
+                "cusp_degree": 28.903846310210326,
+                "motion_speed": 0.7028731924252405,
+                "zodiac": 11,
+                "house": 8,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 47.05355092826705,
+                "cusp_degree": 17.05355092826705,
+                "motion_speed": 2.1947392096969476,
+                "zodiac": 2,
+                "house": 11,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 208.52038407729174,
+                "cusp_degree": 28.520384077291737,
+                "motion_speed": -0.06768969253037918,
+                "zodiac": 7,
+                "house": 4,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 84.09115945722202,
+                "cusp_degree": 24.09115945722202,
+                "motion_speed": 0.004098800013922751,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "D"
+            },
+            "Rahu Mean": {
+                "degree": 85.36745258102786,
+                "cusp_degree": 25.367452581027862,
+                "motion_speed": -0.05299207555120779,
+                "zodiac": 3,
+                "house": 12,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 265.36745258102786,
+                "motion_speed": -0.05299207555120779,
+                "cusp_degree": 25.367452581027862,
+                "zodiac": 9,
+                "house": 6,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 264.09115945722203,
+                "motion_speed": 0.004098800013922751,
+                "cusp_degree": 24.091159457222034,
+                "zodiac": 9,
+                "house": 6,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1926-06-03",
+        "latitude": 13.05,
+        "longitude": 80.18,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2424669.5,
+        "solar_longitude": 48.837104403818266,
+        "lunar_longitude": 314.3520140319481,
+        "lunar_latitude": -4.004014326975672,
+        "sunrise": [
+            2424669.7398306234,
+            [
+                5,
+                45,
+                21
+            ],
+            [
+                1926,
+                6,
+                3,
+                5.755934961140156
+            ]
+        ],
+        "sunset": [
+            2424670.2700839555,
+            [
+                18,
+                28,
+                55
+            ],
+            [
+                1926,
+                6,
+                3,
+                18.482014931738377
+            ]
+        ],
+        "moonrise": [
+            2424669.5000910666,
+            [
+                0,
+                0,
+                8
+            ],
+            [
+                1926,
+                6,
+                3,
+                0.0021855980157852173
+            ]
+        ],
+        "moonset": [
+            2424670.006093465,
+            [
+                12,
+                8,
+                46
+            ],
+            [
+                1926,
+                6,
+                3,
+                12.146243155002594
+            ]
+        ],
+        "tithi": [
+            23,
+            [
+                24,
+                48,
+                14
+            ]
+        ],
+        "nakshatra": [
+            "Shravana",
+            22,
+            [
+                8,
+                33,
+                44
+            ]
+        ],
+        "yoga": [
+            "Vishkumbha",
+            0
+        ],
+        "karana": [
+            44,
+            -4.687932913809107
+        ],
+        "vaara": "Guruvara",
+        "lunar_phase": 265.51490962812983,
+        "masa": [
+            "Jyeshtha",
+            3,
+            false
+        ],
+        "ahargana": 1836204,
+        "ritu": "Varsha Ritu (Monsoon)",
+        "samvatsara": 59,
+        "day_duration": [
+            12.72607997059822,
+            [
+                12,
+                43,
+                34
+            ]
+        ]
+    }
+}

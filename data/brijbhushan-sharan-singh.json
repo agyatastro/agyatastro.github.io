@@ -1,0 +1,224 @@
+{
+    "request": {
+        "name": "Brij Bhushan Sharan Singh",
+        "title": "Politician",
+        "year": 1957,
+        "month": 1,
+        "day": 8,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 27.13181,
+        "longitude": 81.95332,
+        "location": "Gonda City",
+        "gender": "male",
+        "agyat_rating": "AA",
+        "about": "<p>Brijbhushan Sharan Singh (born 8 January 1957) is an Indian politician and a six-term former Member of Parliament (MP) as a member of the Bharatiya Janata Party. He has also served as the president of the Wrestling Federation of India (WFI). He is also known as a bahubali of Uttar Pradesh in his political region.</p><p>His political career is marked by many controversies; he was arrested in the demolition of the Babri Masjid case and booked under the anti-terrorism law TADA for harbouring the shooters of the Dawood Ibrahim gang. However, he was later acquitted in both cases. In an interview he admitted that they have committed murder once in a lifetime as self defense.</p><p>He was at the centre of accusations of sexual harassment of India's top female wrestlers before getting cleared of the charges. Seven female wrestlers, including one minor, had testified against him in a first information report (FIR). These accusations led to the 2023 wrestlers' protests at Jantar Mantar in New Delhi. Singh was however acquitted of the charges in August 2026.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 0.2046101215632241,
+            "ascendant": 1
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 158.43419106261487,
+                "cusp_degree": 8.434191062614872,
+                "motion_speed": 0.025640447205086535,
+                "zodiac": 6,
+                "house": 6,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 264.47150875575306,
+                "cusp_degree": 24.471508755753064,
+                "motion_speed": 1.0191624430987696,
+                "zodiac": 9,
+                "house": 9,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 342.8803658492255,
+                "cusp_degree": 12.880365849225484,
+                "motion_speed": 12.201182643425657,
+                "zodiac": 12,
+                "house": 12,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 241.02067369017706,
+                "cusp_degree": 1.0206736901770626,
+                "motion_speed": 1.2488356997755825,
+                "zodiac": 9,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 354.61448177913724,
+                "cusp_degree": 24.614481779137236,
+                "motion_speed": 0.5829882709934059,
+                "zodiac": 12,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 269.9001441628561,
+                "cusp_degree": 29.900144162856122,
+                "motion_speed": -1.1864732042580126,
+                "zodiac": 9,
+                "house": 9,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 226.8026574131987,
+                "cusp_degree": 16.802657413198688,
+                "motion_speed": 0.10200306194336178,
+                "zodiac": 8,
+                "house": 8,
+                "motion": "D"
+            },
+            "Rahu True": {
+                "degree": 214.325058655726,
+                "cusp_degree": 4.3250586557259965,
+                "motion_speed": -0.03015563131118516,
+                "zodiac": 8,
+                "house": 8,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 213.0684830581907,
+                "cusp_degree": 3.068483058190708,
+                "motion_speed": -0.052992079121534794,
+                "zodiac": 8,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 33.068483058190736,
+                "motion_speed": -0.052992079121534794,
+                "cusp_degree": 3.0684830581907363,
+                "zodiac": 2,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 34.325058655726025,
+                "motion_speed": -0.03015563131118516,
+                "cusp_degree": 4.325058655726025,
+                "zodiac": 2,
+                "house": 2,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1957-01-08",
+        "latitude": 27.13181,
+        "longitude": 81.95332,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2435846.5,
+        "solar_longitude": 264.1954806297864,
+        "lunar_longitude": 339.58387679892564,
+        "lunar_latitude": 4.1920401692931515,
+        "sunrise": [
+            2435846.789783886,
+            [
+                6,
+                57,
+                17
+            ],
+            [
+                1957,
+                1,
+                8,
+                6.95481326803565
+            ]
+        ],
+        "sunset": [
+            2435847.222624421,
+            [
+                17,
+                20,
+                35
+            ],
+            [
+                1957,
+                1,
+                8,
+                17.34298610687256
+            ]
+        ],
+        "moonrise": [
+            2435846.964185465,
+            [
+                11,
+                8,
+                26
+            ],
+            [
+                1957,
+                1,
+                8,
+                11.140451163053513
+            ]
+        ],
+        "moonset": [
+            2435847.4892851473,
+            [
+                23,
+                44,
+                34
+            ],
+            [
+                1957,
+                1,
+                8,
+                23.74284353479743
+            ]
+        ],
+        "tithi": [
+            7,
+            [
+                25,
+                22,
+                6
+            ]
+        ],
+        "nakshatra": [
+            "Shatabhisha",
+            24,
+            [
+                12,
+                44,
+                25
+            ]
+        ],
+        "yoga": [
+            "Parigha",
+            18
+        ],
+        "karana": [
+            13,
+            -0.6208028530950855
+        ],
+        "vaara": "Mangalvara",
+        "lunar_phase": 75.38839616913924,
+        "masa": [
+            "Magha",
+            11,
+            false
+        ],
+        "ahargana": 1847381,
+        "ritu": "Varsha Ritu (Monsoon)",
+        "samvatsara": 30,
+        "day_duration": [
+            10.388172838836908,
+            [
+                10,
+                23,
+                17
+            ]
+        ]
+    }
+}

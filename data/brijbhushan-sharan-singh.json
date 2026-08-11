@@ -13,6 +13,7 @@
         "location": "Gonda City",
         "gender": "male",
         "agyat_rating": "AA",
+        "related": ["politician"],
         "about": "<p>Brijbhushan Sharan Singh (born 8 January 1957) is an Indian politician and a six-term former Member of Parliament (MP) as a member of the Bharatiya Janata Party. He has also served as the president of the Wrestling Federation of India (WFI). He is also known as a bahubali of Uttar Pradesh in his political region.</p><p>His political career is marked by many controversies; he was arrested in the demolition of the Babri Masjid case and booked under the anti-terrorism law TADA for harbouring the shooters of the Dawood Ibrahim gang. However, he was later acquitted in both cases. In an interview he admitted that they have committed murder once in a lifetime as self defense.</p><p>He was at the centre of accusations of sexual harassment of India's top female wrestlers before getting cleared of the charges. Seven female wrestlers, including one minor, had testified against him in a first information report (FIR). These accusations led to the 2023 wrestlers' protests at Jantar Mantar in New Delhi. Singh was however acquitted of the charges in August 2026.</p>"
     },
     "response": {

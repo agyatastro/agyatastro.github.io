@@ -18,96 +18,96 @@
     },
     "response": {
         "ascendant": {
-            "asc_deg": 70.06742534949191,
-            "ascendant": 3
+            "asc_deg": 14.558913831849559,
+            "ascendant": 1
         },
         "planets": {
             "Jupiter": {
-                "degree": 222.91742521962178,
-                "cusp_degree": 12.917425219621776,
-                "motion_speed": 0.022537462178990022,
+                "degree": 222.91410562498137,
+                "cusp_degree": 12.914105624981374,
+                "motion_speed": 0.022988389251840144,
                 "zodiac": 8,
-                "house": 6,
+                "house": 8,
                 "motion": "D"
             },
             "Sun": {
-                "degree": 331.564550376083,
-                "cusp_degree": 1.564550376082991,
-                "motion_speed": 0.9956783103990507,
+                "degree": 331.4193420460426,
+                "cusp_degree": 1.4193420460425727,
+                "motion_speed": 0.9957508144993873,
                 "zodiac": 12,
-                "house": 10,
+                "house": 12,
                 "motion": "D"
             },
             "Moon": {
-                "degree": 197.12078296848688,
-                "cusp_degree": 17.12078296848688,
-                "motion_speed": 12.15855238406268,
+                "degree": 195.34934610825738,
+                "cusp_degree": 15.349346108257379,
+                "motion_speed": 12.135533702903972,
                 "zodiac": 7,
-                "house": 5,
-                "motion": "D"
-            },
-            "Venus": {
-                "degree": 290.77847172183914,
-                "cusp_degree": 20.77847172183914,
-                "motion_speed": 1.1774349615260182,
-                "zodiac": 10,
-                "house": 8,
-                "motion": "D"
-            },
-            "Mars": {
-                "degree": 248.86941087168384,
-                "cusp_degree": 8.86941087168384,
-                "motion_speed": 0.6033570256396055,
-                "zodiac": 9,
                 "house": 7,
                 "motion": "D"
             },
-            "Mercury": {
-                "degree": 340.62360648990096,
-                "cusp_degree": 10.623606489900965,
-                "motion_speed": 1.9614507330530415,
-                "zodiac": 12,
+            "Venus": {
+                "degree": 290.6067748570485,
+                "cusp_degree": 20.606774857048492,
+                "motion_speed": 1.1772658708648327,
+                "zodiac": 10,
                 "house": 10,
                 "motion": "D"
             },
+            "Mars": {
+                "degree": 248.78141231509437,
+                "cusp_degree": 8.781412315094371,
+                "motion_speed": 0.6034805749827697,
+                "zodiac": 9,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 340.3374546936862,
+                "cusp_degree": 10.337454693686198,
+                "motion_speed": 1.9629088785920352,
+                "zodiac": 12,
+                "house": 12,
+                "motion": "D"
+            },
             "Saturn": {
-                "degree": 25.158395947998407,
-                "cusp_degree": 25.158395947998407,
-                "motion_speed": 0.09362268920804079,
+                "degree": 25.144755032507547,
+                "cusp_degree": 25.144755032507547,
+                "motion_speed": 0.09345260349614991,
                 "zodiac": 1,
-                "house": 11,
+                "house": 1,
                 "motion": "D"
             },
             "Rahu True": {
-                "degree": 299.73309943943207,
-                "cusp_degree": 29.733099439432067,
-                "motion_speed": -0.08758371355668575,
+                "degree": 299.7459906633377,
+                "cusp_degree": 29.745990663337693,
+                "motion_speed": -0.0891738972454885,
                 "zodiac": 10,
-                "house": 8,
+                "house": 10,
                 "motion": "R"
             },
             "Rahu Mean": {
-                "degree": 298.56967444399754,
-                "cusp_degree": 28.569674443997542,
-                "motion_speed": -0.05299201581142091,
+                "degree": 298.57740245017203,
+                "cusp_degree": 28.57740245017203,
+                "motion_speed": -0.05299203229346184,
                 "zodiac": 10,
-                "house": 8,
+                "house": 10,
                 "motion": "R"
             },
             "Ketu Mean": {
-                "degree": 118.56967444399754,
-                "motion_speed": -0.05299201581142091,
-                "cusp_degree": 28.569674443997542,
+                "degree": 118.57740245017203,
+                "motion_speed": -0.05299203229346184,
+                "cusp_degree": 28.57740245017203,
                 "zodiac": 4,
-                "house": 2,
+                "house": 4,
                 "motion": "R"
             },
             "Ketu True": {
-                "degree": 119.73309943943207,
-                "motion_speed": -0.08758371355668575,
-                "cusp_degree": 29.733099439432067,
+                "degree": 119.7459906633377,
+                "motion_speed": -0.0891738972454885,
+                "cusp_degree": 29.745990663337693,
                 "zodiac": 4,
-                "house": 2,
+                "house": 4,
                 "motion": "R"
             }
         }
@@ -211,7 +211,7 @@
             false
         ],
         "ahargana": 1852561,
-        "ritu": "Vasant Ritu (Spring)",
+        "ritu": "Varsha Ritu (Monsoon)",
         "samvatsara": 44,
         "day_duration": [
             11.858401827514172,

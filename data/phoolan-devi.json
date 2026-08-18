@@ -1,0 +1,234 @@
+{
+    "request": {
+        "name": "Phoolan Devi",
+        "email": "agyat.astro@gmail.com",
+        "title": "Politician, Dacoit",
+        "year": 1963,
+        "month": 8,
+        "day": 10,
+        "hour": 8,
+        "minute": 15,
+        "second": 0,
+        "latitude": 26.1451,
+        "longitude": 79.3366,
+        "location": "Jalaun",
+        "gender": "female",
+        "agyat_rating": "AU",
+        "related": ["politician", "dacoit"],
+        "advanced": "death by gun, gunned-down",
+        "rating_notes": "Alternative time from sources quote 1245 hours",
+        "about": "<p>Phoolan Devi (Hindi: [pʰuː.lən d̪eː.ʋiː], 10 August 1963 – 25 July 2001), popularly known as the Bandit Queen, was an Indian dacoit (bandit) who became a politician, serving as a member of parliament until her assassination. She was a woman of the Mallah subcaste who grew up in poverty in a village in the state of Uttar Pradesh, where her family was on the losing side of a land dispute which caused them many problems. After being married off at the age of eleven and being sexually abused by various people, she joined a gang of dacoits. Her gang robbed higher-caste villages and held up trains and vehicles. When she punished her rapists and evaded capture by the authorities, she became a heroine to the Other Backward Classes who saw her as a Robin Hood figure. Phoolan Devi was charged in absentia for the 1981 Behmai massacre, in which twenty Thakur men were killed, allegedly on her command. After this event, the Chief Minister of Uttar Pradesh resigned, and calls to apprehend her were amplified. She surrendered two years later in a carefully negotiated settlement and spent eleven years in Gwalior prison, awaiting trial.</p><p>Phoolan Devi was released in 1994 after her charges were set aside. She subsequently became a politician and was elected as a member of parliament for the Samajwadi Party in 1996. She lost her seat in 1998, but regained it the following year. She was the incumbent at the time of her death in 2001. She was assassinated outside her house by Sher Singh Rana, who was convicted for the murder in 2014. At the time of her death, she was still fighting against the reinstituted criminal charges, having lost a 1996 appeal to the Supreme Court to have the charges dropped. Phoolan Devi's worldwide fame grew after the release of the controversial 1994 film Bandit Queen, which told her life story in a way she did not approve of. Her life has also inspired several biographies and her dictated autobiography was entitled I, Phoolan Devi. There are varying accounts of her life because she offered differing versions to suit her changing circumstances.</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 146.28836357675584,
+            "ascendant": 5
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 356.1377056082373,
+                "cusp_degree": 26.137705608237297,
+                "motion_speed": -0.0015701651480709866,
+                "zodiac": 12,
+                "house": 8,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 113.42608787363571,
+                "cusp_degree": 23.42608787363571,
+                "motion_speed": 0.958773077020807,
+                "zodiac": 4,
+                "house": 12,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 354.8400319454836,
+                "cusp_degree": 24.840031945483588,
+                "motion_speed": 14.272038028169538,
+                "zodiac": 12,
+                "house": 8,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 107.95342988711971,
+                "cusp_degree": 17.95342988711971,
+                "motion_speed": 1.2335456825492035,
+                "zodiac": 4,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 165.20207289478338,
+                "cusp_degree": 15.202072894783385,
+                "motion_speed": 0.622737329151715,
+                "zodiac": 6,
+                "house": 2,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 137.0204259983347,
+                "cusp_degree": 17.0204259983347,
+                "motion_speed": 1.4470274949690385,
+                "zodiac": 5,
+                "house": 1,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 296.6481792567763,
+                "cusp_degree": 26.648179256776302,
+                "motion_speed": -0.07475037112508495,
+                "zodiac": 10,
+                "house": 6,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 86.82658039419037,
+                "cusp_degree": 26.826580394190373,
+                "motion_speed": -0.0419748714479417,
+                "zodiac": 3,
+                "house": 11,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 85.63088053070898,
+                "cusp_degree": 25.63088053070898,
+                "motion_speed": -0.05299200656535778,
+                "zodiac": 3,
+                "house": 11,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 265.63088053070896,
+                "motion_speed": -0.05299200656535778,
+                "cusp_degree": 25.630880530708964,
+                "zodiac": 9,
+                "house": 5,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 266.8265803941904,
+                "motion_speed": -0.0419748714479417,
+                "cusp_degree": 26.826580394190387,
+                "zodiac": 9,
+                "house": 5,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1963-08-10",
+        "latitude": 26.1451,
+        "longitude": 79.3366,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2438251.5,
+        "solar_longitude": 113.31623103765621,
+        "lunar_longitude": 353.20487310770125,
+        "lunar_latitude": -5.211111132731672,
+        "sunrise": [
+            2438251.7403264022,
+            [
+                5,
+                46,
+                4
+            ],
+            [
+                1963,
+                8,
+                10,
+                5.767833653837442
+            ]
+        ],
+        "sunset": [
+            2438252.2845217097,
+            [
+                18,
+                49,
+                43
+            ],
+            [
+                1963,
+                8,
+                10,
+                18.82852103188634
+            ]
+        ],
+        "moonrise": [
+            2438252.428447756,
+            [
+                22,
+                16,
+                58
+            ],
+            [
+                1963,
+                8,
+                10,
+                22.282746143639088
+            ]
+        ],
+        "moonset": [
+            2438251.9360299995,
+            [
+                10,
+                27,
+                53
+            ],
+            [
+                1963,
+                8,
+                10,
+                10.464719988405704
+            ]
+        ],
+        "tithi": [
+            20,
+            [
+                5,
+                58,
+                7
+            ],
+            21,
+            [
+                27,
+                35,
+                46
+            ]
+        ],
+        "nakshatra": [
+            "Purva Bhadrapada",
+            25,
+            [
+                11,
+                20,
+                50
+            ]
+        ],
+        "yoga": [
+            "Shula",
+            8
+        ],
+        "karana": [
+            40,
+            -3.0881706281298307
+        ],
+        "vaara": "Shanivara",
+        "lunar_phase": 239.88864207004502,
+        "masa": [
+            "Shravana",
+            5,
+            false
+        ],
+        "ahargana": 1849786,
+        "ritu": "Varsha Ritu (Monsoon)",
+        "samvatsara": 37,
+        "day_duration": [
+            13.060687378048897,
+            [
+                13,
+                3,
+                38
+            ]
+        ]
+    }
+}

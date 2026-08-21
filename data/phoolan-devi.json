@@ -1,7 +1,6 @@
 {
     "request": {
         "name": "Phoolan Devi",
-        "email": "agyat.astro@gmail.com",
         "title": "Politician, Dacoit",
         "year": 1963,
         "month": 8,
@@ -14,10 +13,64 @@
         "location": "Jalaun",
         "gender": "female",
         "agyat_rating": "AU",
-        "related": ["politician", "dacoit"],
+        "related": [
+            "politician",
+            "dacoit"
+        ],
+        "dod": "25/07/2001",
         "advanced": "death by gun, gunned-down",
         "rating_notes": "Alternative time from sources quote 1245 hours",
-        "about": "<p>Phoolan Devi (Hindi: [pʰuː.lən d̪eː.ʋiː], 10 August 1963 – 25 July 2001), popularly known as the Bandit Queen, was an Indian dacoit (bandit) who became a politician, serving as a member of parliament until her assassination. She was a woman of the Mallah subcaste who grew up in poverty in a village in the state of Uttar Pradesh, where her family was on the losing side of a land dispute which caused them many problems. After being married off at the age of eleven and being sexually abused by various people, she joined a gang of dacoits. Her gang robbed higher-caste villages and held up trains and vehicles. When she punished her rapists and evaded capture by the authorities, she became a heroine to the Other Backward Classes who saw her as a Robin Hood figure. Phoolan Devi was charged in absentia for the 1981 Behmai massacre, in which twenty Thakur men were killed, allegedly on her command. After this event, the Chief Minister of Uttar Pradesh resigned, and calls to apprehend her were amplified. She surrendered two years later in a carefully negotiated settlement and spent eleven years in Gwalior prison, awaiting trial.</p><p>Phoolan Devi was released in 1994 after her charges were set aside. She subsequently became a politician and was elected as a member of parliament for the Samajwadi Party in 1996. She lost her seat in 1998, but regained it the following year. She was the incumbent at the time of her death in 2001. She was assassinated outside her house by Sher Singh Rana, who was convicted for the murder in 2014. At the time of her death, she was still fighting against the reinstituted criminal charges, having lost a 1996 appeal to the Supreme Court to have the charges dropped. Phoolan Devi's worldwide fame grew after the release of the controversial 1994 film Bandit Queen, which told her life story in a way she did not approve of. Her life has also inspired several biographies and her dictated autobiography was entitled I, Phoolan Devi. There are varying accounts of her life because she offered differing versions to suit her changing circumstances.</p>"
+        "about": "<p>Phoolan Devi (Hindi: [pʰuː.lən d̪eː.ʋiː], 10 August 1963 – 25 July 2001), popularly known as the Bandit Queen, was an Indian dacoit (bandit) who became a politician, serving as a member of parliament until her assassination. She was a woman of the Mallah subcaste who grew up in poverty in a village in the state of Uttar Pradesh, where her family was on the losing side of a land dispute which caused them many problems. After being married off at the age of eleven and being sexually abused by various people, she joined a gang of dacoits. Her gang robbed higher-caste villages and held up trains and vehicles. When she punished her rapists and evaded capture by the authorities, she became a heroine to the Other Backward Classes who saw her as a Robin Hood figure. Phoolan Devi was charged in absentia for the 1981 Behmai massacre, in which twenty Thakur men were killed, allegedly on her command. After this event, the Chief Minister of Uttar Pradesh resigned, and calls to apprehend her were amplified. She surrendered two years later in a carefully negotiated settlement and spent eleven years in Gwalior prison, awaiting trial.</p><p>Phoolan Devi was released in 1994 after her charges were set aside. She subsequently became a politician and was elected as a member of parliament for the Samajwadi Party in 1996. She lost her seat in 1998, but regained it the following year. She was the incumbent at the time of her death in 2001. She was assassinated outside her house by Sher Singh Rana, who was convicted for the murder in 2014. At the time of her death, she was still fighting against the reinstituted criminal charges, having lost a 1996 appeal to the Supreme Court to have the charges dropped. Phoolan Devi's worldwide fame grew after the release of the controversial 1994 film Bandit Queen, which told her life story in a way she did not approve of. Her life has also inspired several biographies and her dictated autobiography was entitled I, Phoolan Devi. There are varying accounts of her life because she offered differing versions to suit her changing circumstances.</p>",
+        "events": [
+            {
+                "date": "25-07-2001",
+                "event": "Assassinated outside her official residence in New Delhi"
+            },
+            {
+                "date": "10-10-1999",
+                "event": "Re-elected as Member of Parliament (MP) to the 13th Lok Sabha from Mirzapur"
+            },
+            {
+                "date": "1998",
+                "event": "Lost the Lok Sabha election from Mirzapur constituency"
+            },
+            {
+                "date": "1996",
+                "event": "Autobiography 'I, Phoolan Devi' was published"
+            },
+            {
+                "date": "05-1996",
+                "event": "Elected as Member of Parliament (MP) to the 11th Lok Sabha from Mirzapur constituency representing the Samajwadi Party"
+            },
+            {
+                "date": "1994",
+                "event": "Got married to Umed Singh"
+            },
+            {
+                "date": "18-02-1994",
+                "event": "Released from Tihar Jail after charges were withdrawn by the Uttar Pradesh government"
+            },
+            {
+                "date": "14-02-1983",
+                "event": "Surrendered to Madhya Pradesh police in Bhind in the presence of Chief Minister Arjun Singh"
+            },
+            {
+                "date": "14-02-1981",
+                "event": "Led the Behmai massacre resulting in the execution of 20 Rajput men"
+            },
+            {
+                "date": "1980",
+                "event": "Assumed leadership of the bandit gang after the murder of Vikram Mallah"
+            },
+            {
+                "date": "1979",
+                "event": "Abducted by a rival gang led by Babu Gujjar and subsequently joined Vikram Mallah's gang"
+            },
+            {
+                "date": "10-08-1963",
+                "event": "Born to Devi Din and Moola in Gurha Ka Purwa, Jalaun district, Uttar Pradesh"
+            }
+        ]
     },
     "response": {
         "ascendant": {

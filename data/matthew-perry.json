@@ -14,9 +14,173 @@
         "agyat_rating": "AA",
         "gender": "male",
         "dod": "28/10/2023",
-        "related": ["actor"],
+        "related": [
+            "actor"
+        ],
         "advanced": "substance-abuse, alcoholism",
-        "about": "<p>Matthew Langford Perry (August 19, 1969 – October 28, 2023) was an American and Canadian actor, comedian, director and screenwriter. He gained international fame for starring as Chandler Bing on the NBC television sitcom Friends (1994–2004). Perry also appeared on Ally McBeal (2002) and received Primetime Emmy Award nominations for his performances in The West Wing (2003) and The Ron Clark Story (2006). He played a leading role in the NBC series Studio 60 on the Sunset Strip (2006–2007), and also became known for his leading film roles in Fools Rush In (1997), Almost Heroes (1998), Three to Tango (1999), The Whole Nine Yards (2000), Serving Sara (2002), The Whole Ten Yards (2004), and 17 Again (2009).</p><p>Perry was co-creator, co-writer, executive producer, and star of the ABC sitcom Mr. Sunshine, which ran from February to April 2011. In August 2012, he starred as sportscaster Ryan King on the NBC sitcom Go On. He co-developed and starred in a revival of the CBS sitcom The Odd Couple portraying Oscar Madison from 2015 to 2017. He had recurring roles in the legal dramas The Good Wife (2012–2013), and The Good Fight (2017). Perry portrayed Ted Kennedy in The Kennedys: After Camelot (2017) and appeared as himself in his final television appearance, Friends: The Reunion (2021). He voiced Benny in the video game Fallout: New Vegas (2010).</p><p>For most of his life, Perry suffered from severe addictions to drugs and alcohol. Through his recovery, he became an advocate for rehabilitation and a spokesperson for the National Association of Drug Court Professionals. In 2013, Perry received the Champion of Recovery Award from the White House Office of National Drug Control Policy. In 2022, he released his memoir, Friends, Lovers, and the Big Terrible Thing.</p><p>He died on October 28, 2023, at age 54, from accidental drowning caused by the acute effects of ketamine use. Five people were charged in connection with helping him acquire lethal doses of the drug.</p>"
+        "about": "<p>Matthew Langford Perry (August 19, 1969 – October 28, 2023) was an American and Canadian actor, comedian, director and screenwriter. He gained international fame for starring as Chandler Bing on the NBC television sitcom Friends (1994–2004). Perry also appeared on Ally McBeal (2002) and received Primetime Emmy Award nominations for his performances in The West Wing (2003) and The Ron Clark Story (2006). He played a leading role in the NBC series Studio 60 on the Sunset Strip (2006–2007), and also became known for his leading film roles in Fools Rush In (1997), Almost Heroes (1998), Three to Tango (1999), The Whole Nine Yards (2000), Serving Sara (2002), The Whole Ten Yards (2004), and 17 Again (2009).</p><p>Perry was co-creator, co-writer, executive producer, and star of the ABC sitcom Mr. Sunshine, which ran from February to April 2011. In August 2012, he starred as sportscaster Ryan King on the NBC sitcom Go On. He co-developed and starred in a revival of the CBS sitcom The Odd Couple portraying Oscar Madison from 2015 to 2017. He had recurring roles in the legal dramas The Good Wife (2012–2013), and The Good Fight (2017). Perry portrayed Ted Kennedy in The Kennedys: After Camelot (2017) and appeared as himself in his final television appearance, Friends: The Reunion (2021). He voiced Benny in the video game Fallout: New Vegas (2010).</p><p>For most of his life, Perry suffered from severe addictions to drugs and alcohol. Through his recovery, he became an advocate for rehabilitation and a spokesperson for the National Association of Drug Court Professionals. In 2013, Perry received the Champion of Recovery Award from the White House Office of National Drug Control Policy. In 2022, he released his memoir, Friends, Lovers, and the Big Terrible Thing.</p><p>He died on October 28, 2023, at age 54, from accidental drowning caused by the acute effects of ketamine use. Five people were charged in connection with helping him acquire lethal doses of the drug.</p>",
+        "events": [
+            {
+                "year": "2023",
+                "date": "2023-12-15",
+                "event": "Autopsy report officially revealed cause of death as acute effects of ketamine, with drowning as a secondary contributing factor"
+            },
+            {
+                "year": "2023",
+                "date": "2023-10-28",
+                "event": "Died at age 54 in Los Angeles, California, found unresponsive in a hot tub at his home"
+            },
+            {
+                "year": "2022",
+                "date": "2022-11-01",
+                "event": "Published his bestselling memoir 'Friends, Lovers, and the Big Terrible Thing', detailing his career and lifelong struggles with addiction"
+            },
+            {
+                "year": "2021",
+                "date": "2021-06-01",
+                "event": "Broke off engagement with literary manager Molly Hurwitz"
+            },
+            {
+                "year": "2021",
+                "date": "2021-05-27",
+                "event": "Appeared in HBO Max's 'Friends: The Reunion' alongside his former co-stars"
+            },
+            {
+                "year": "2020",
+                "date": "2020-11-26",
+                "event": "Got engaged to literary manager Molly Hurwitz"
+            },
+            {
+                "year": "2018",
+                "date": "2018-08-01",
+                "event": "Suffered a near-fatal gastrointestinal perforation (burst colon) due to opioid abuse, spending two weeks in a coma, five months in the hospital, and using a colostomy bag for nine months"
+            },
+            {
+                "year": "2015",
+                "date": "2015-02-19",
+                "event": "Co-created and starred as Oscar Madison in the CBS reboot of 'The Odd Couple'"
+            },
+            {
+                "year": "2013",
+                "date": "2013-05-01",
+                "event": "Converted his former Malibu mansion into a sober-living facility called 'Perry House' and received the Champion of Recovery award from the White House Office of National Drug Control Policy"
+            },
+            {
+                "year": "2012",
+                "date": "2012-09-11",
+                "event": "Starred in the NBC comedy-drama series 'Go On'"
+            },
+            {
+                "year": "2012",
+                "date": "2012-05-00",
+                "event": "Ended six-year relationship with actress Lizzy Caplan"
+            },
+            {
+                "year": "2009",
+                "date": "2009-04-17",
+                "event": "Co-starred opposite Zac Efron in the fantasy comedy film '17 Again'"
+            },
+            {
+                "year": "2006",
+                "date": "2006-09-18",
+                "event": "Starred as Matt Albie in Aaron Sorkin's NBC drama series 'Studio 60 on the Sunset Strip'"
+            },
+            {
+                "year": "2006",
+                "date": "2006-08-13",
+                "event": "Starred in the TV film 'The Ron Clark Story', earning Emmy and Golden Globe nominations"
+            },
+            {
+                "year": "2006",
+                "date": "2006-01-01",
+                "event": "Began dating actress Lizzy Caplan"
+            },
+            {
+                "year": "2004",
+                "date": "2004-05-06",
+                "event": "Final episode of 'Friends' aired on NBC, concluding a landmark 10-season run"
+            },
+            {
+                "year": "2003",
+                "date": "2003-07-00",
+                "event": "Received Primetime Emmy Award nomination for Outstanding Guest Actor in a Drama Series for his role in 'The West Wing'"
+            },
+            {
+                "year": "2002",
+                "date": "2002-07-00",
+                "event": "Earned a Primetime Emmy Award nomination for Outstanding Lead Actor in a Comedy Series for 'Friends'"
+            },
+            {
+                "year": "2001",
+                "date": "2001-02-23",
+                "event": "Entered rehab for severe addiction to Vicodin, methadone, amphetamines, and alcohol while filming 'Serving Sara'"
+            },
+            {
+                "year": "2000",
+                "date": "2000-02-18",
+                "event": "Co-starred with Bruce Willis in the hit comedy film 'The Whole Nine Yards'"
+            },
+            {
+                "year": "2000",
+                "date": "2000-01-01",
+                "event": "Hospitalized for two weeks due to alcohol-induced pancreatitis"
+            },
+            {
+                "year": "1997",
+                "date": "1997-02-14",
+                "event": "Starred in the romantic comedy film 'Fools Rush In' alongside Salma Hayek"
+            },
+            {
+                "year": "1997",
+                "date": "1997-01-01",
+                "event": "Entered a 28-day rehabilitation program for prescription Vicodin addiction following a jet ski accident"
+            },
+            {
+                "year": "1996",
+                "date": "1996-01-01",
+                "event": "Ended relationship with actress Julia Roberts"
+            },
+            {
+                "year": "1995",
+                "date": "1995-01-01",
+                "event": "Began dating Julia Roberts after she guest-starred on 'Friends'"
+            },
+            {
+                "year": "1994",
+                "date": "1994-09-22",
+                "event": "Breakthrough role as Chandler Bing premiered on the NBC sitcom 'Friends'"
+            },
+            {
+                "year": "1988",
+                "date": "1988-05-27",
+                "event": "Feature film debut in 'A Night in the Life of Jimmy Reardon' starring River Phoenix"
+            },
+            {
+                "year": "1987",
+                "date": "1987-09-24",
+                "event": "Landed first lead TV role as Chazz Russell in 'Second Chance' (later renamed 'Boys Will Be Boys')"
+            },
+            {
+                "year": "1984",
+                "date": "1984-01-01",
+                "event": "Moved to Los Angeles at age 15 to live with his father and pursue acting after giving up competitive junior tennis"
+            },
+            {
+                "year": "1979",
+                "date": "1979-09-10",
+                "event": "Made TV acting debut as a child actor in an episode of the police drama '240-Robert'"
+            },
+            {
+                "year": "1970",
+                "date": "1970-01-01",
+                "event": "Parents Suzanne Langford and John Bennett Perry divorced; relocated with his mother to Ottawa, Ontario"
+            },
+            {
+                "year": "1969",
+                "date": "1969-08-19",
+                "event": "Born in Williamstown, Massachusetts, USA"
+            }
+        ]
     },
     "response": {
         "ascendant": {

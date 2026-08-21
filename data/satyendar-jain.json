@@ -1,0 +1,226 @@
+{
+    "request": {
+        "name": "Satyendra Kumar Jain",
+        "title": "Architect, Politician",
+        "year": 1963,
+        "month": 10,
+        "day": 3,
+        "hour": 12,
+        "minute": 0,
+        "second": 0,
+        "latitude": 28.94485,
+        "longitude": 77.21865,
+        "location": "Baghpat",
+        "gender": "male",
+        "agyat_rating": "AX",
+        "related": ["politician", "engineer"],
+        "advanced": "detention",
+        "about": "<p>Satyendra Kumar Jain is an Indian politician who is a member of the Aam Aadmi Party (AAP) and a former Cabinet Minister in the Government of Delhi led by Arvind Kejriwal. Jain is an architect by profession. He was arrested by the Enforcement Directorate in May 2022 and was in custody since on allegations of money laundering, 9 months after which he submitted his resignation for the portfolios he held as a minister. He had spent more than 2 years in jail without bail or a trial or conviction, till the dismissal of the case against him.</p><p>His portfolios included Health and Family Welfare, Industries, Home, Power, Water, Urban Development and Irrigation & Flood Control. He served three terms as the Delhi Health Minister. In his first tenure he served as Health & Family welfare, Gurudwara Elections and Industries Minister from 28 December 2013 to 14 February 2014 and, In his Second tenure he served as Health & Family Welfare, Industries, Home, PWD, Power, Water, Transport, Urban Development and Irrigation & Flood Control from 14 February to 13 February 2020 in the previous AAP Governments</p>"
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 239.5071600544798,
+            "ascendant": 8
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 351.79034213192335,
+                "cusp_degree": 21.790342131923353,
+                "motion_speed": -0.13339924061795286,
+                "zodiac": 12,
+                "house": 5,
+                "motion": "R"
+            },
+            "Sun": {
+                "degree": 165.98267947291896,
+                "cusp_degree": 15.98267947291896,
+                "motion_speed": 0.9838676311116004,
+                "zodiac": 6,
+                "house": 11,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 347.0181563148786,
+                "cusp_degree": 17.01815631487858,
+                "motion_speed": 14.966243562123667,
+                "zodiac": 12,
+                "house": 5,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 175.16383619306475,
+                "cusp_degree": 25.163836193064753,
+                "motion_speed": 1.2455630182163149,
+                "zodiac": 6,
+                "house": 11,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 200.83470893609794,
+                "cusp_degree": 20.83470893609794,
+                "motion_speed": 0.6911684238923717,
+                "zodiac": 7,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 148.49731896326762,
+                "cusp_degree": 28.497318963267617,
+                "motion_speed": 0.6463650529588401,
+                "zodiac": 5,
+                "house": 10,
+                "motion": "D"
+            },
+            "Saturn": {
+                "degree": 293.38568138846875,
+                "cusp_degree": 23.385681388468754,
+                "motion_speed": -0.030262208539496453,
+                "zodiac": 10,
+                "house": 3,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 83.2567802374974,
+                "cusp_degree": 23.256780237497395,
+                "motion_speed": -0.19074045304120107,
+                "zodiac": 3,
+                "house": 8,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 82.76102992749045,
+                "cusp_degree": 22.761029927490455,
+                "motion_speed": -0.05299200642460022,
+                "zodiac": 3,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 262.7610299274904,
+                "motion_speed": -0.05299200642460022,
+                "cusp_degree": 22.761029927490426,
+                "zodiac": 9,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 263.2567802374974,
+                "motion_speed": -0.19074045304120107,
+                "cusp_degree": 23.256780237497424,
+                "zodiac": 9,
+                "house": 2,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1963-10-03",
+        "latitude": 28.94485,
+        "longitude": 77.21865,
+        "time_zone": "Asia/Kolkata",
+        "offset": 5.5,
+        "julday": 2438305.5,
+        "solar_longitude": 165.71623601459572,
+        "lunar_longitude": 342.9725992960609,
+        "lunar_latitude": -4.925524443973406,
+        "sunrise": [
+            2438305.7628403837,
+            [
+                6,
+                18,
+                29
+            ],
+            [
+                1963,
+                10,
+                3,
+                6.308169208467007
+            ]
+        ],
+        "sunset": [
+            2438306.251346009,
+            [
+                18,
+                1,
+                56
+            ],
+            [
+                1963,
+                10,
+                3,
+                18.03230421245098
+            ]
+        ],
+        "moonrise": [
+            2438306.260515179,
+            [
+                18,
+                15,
+                9
+            ],
+            [
+                1963,
+                10,
+                3,
+                18.252364296466112
+            ]
+        ],
+        "moonset": [
+            2438305.7552885013,
+            [
+                6,
+                7,
+                37
+            ],
+            [
+                1963,
+                10,
+                3,
+                6.126924030482769
+            ]
+        ],
+        "tithi": [
+            15,
+            [
+                11,
+                1,
+                38
+            ]
+        ],
+        "nakshatra": [
+            "Purva Bhadrapada",
+            25,
+            [
+                27,
+                26,
+                46
+            ]
+        ],
+        "yoga": [
+            "Dhruva",
+            11
+        ],
+        "karana": [
+            30,
+            -0.9237222790602573
+        ],
+        "vaara": "Guruvara",
+        "lunar_phase": 177.25636328146516,
+        "masa": [
+            "Ashwin",
+            7,
+            false
+        ],
+        "ahargana": 1849840,
+        "ritu": "Varsha Ritu (Monsoon)",
+        "samvatsara": 37,
+        "day_duration": [
+            11.724135003983974,
+            [
+                11,
+                43,
+                27
+            ]
+        ]
+    }
+}

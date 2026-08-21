@@ -14,8 +14,109 @@
         "agyat_rating": "AA",
         "gender": "male",
         "advanced": "litigation, detention",
-        "related": ["sportsperson", "cricketer"],
-        "about": "<p>Mohammad Azharuddin (born 8 February 1963) is an Indian politician and a former cricketer who also served as the Indian national cricket team's captain. He was a right-handed middle order batter and an occasional medium fast bowler. He played 99 Test matches and 334 One Day Internationals for India. As a captain, he led the team to wins in the 1990-91 and 1995 Asia Cups and reached the semi-finals of the 1996 Cricket World Cup. He was considered as one of the best ODI batsmen in the world and one of the greatest of his era. He captained India in three Cricket World Cups, the most by any Indian captain, all during the 1990s. He was also a part of the Indian squad which won the 1985 World Championship of Cricket.</p><p>His cricketing career came to an abrupt end in 2000 after he was banned by the Board of Control for Cricket in India for life due to his alleged involvement in a match fixing scandal. In 2012, the Andhra Pradesh High Court lifted the life ban after appeal. In September 2019, he was elected as the president of Hyderabad Cricket Association.</p><p>In 2009, Azharuddin joined Indian National Congress and was elected as a member of parliament for Moradabad. He was appointed as the President of Telangana Pradesh Congress Committee in 2018.</p>"
+        "related": [
+            "sportsperson",
+            "cricketer"
+        ],
+        "about": "<p>Mohammad Azharuddin (born 8 February 1963) is an Indian politician and a former cricketer who also served as the Indian national cricket team's captain. He was a right-handed middle order batter and an occasional medium fast bowler. He played 99 Test matches and 334 One Day Internationals for India. As a captain, he led the team to wins in the 1990-91 and 1995 Asia Cups and reached the semi-finals of the 1996 Cricket World Cup. He was considered as one of the best ODI batsmen in the world and one of the greatest of his era. He captained India in three Cricket World Cups, the most by any Indian captain, all during the 1990s. He was also a part of the Indian squad which won the 1985 World Championship of Cricket.</p><p>His cricketing career came to an abrupt end in 2000 after he was banned by the Board of Control for Cricket in India for life due to his alleged involvement in a match fixing scandal. In 2012, the Andhra Pradesh High Court lifted the life ban after appeal. In September 2019, he was elected as the president of Hyderabad Cricket Association.</p><p>In 2009, Azharuddin joined Indian National Congress and was elected as a member of parliament for Moradabad. He was appointed as the President of Telangana Pradesh Congress Committee in 2018.</p>",
+        "events": [
+            {
+                "date": "31-10-2025",
+                "event": "Sworn in as a Cabinet Minister in the Telangana Government"
+            },
+            {
+                "date": "27-09-2019",
+                "event": "Elected as the President of the Hyderabad Cricket Association (HCA)"
+            },
+            {
+                "date": "30-11-2018",
+                "event": "Appointed Working President of the Telangana Pradesh Congress Committee (TPCC)"
+            },
+            {
+                "date": "13-05-2016",
+                "event": "Biographical sports drama film 'Azhar', based on his life and match-fixing controversy, was released"
+            },
+            {
+                "date": "08-11-2012",
+                "event": "Andhra Pradesh High Court struck down the lifetime ban imposed on him by BCCI, declaring it illegal"
+            },
+            {
+                "date": "16-09-2011",
+                "event": "Younger son Mohammad Ayazuddin passed away following a severe superbike accident in Hyderabad"
+            },
+            {
+                "date": "2010",
+                "event": "Divorced second wife Sangeeta Bijlani"
+            },
+            {
+                "date": "16-05-2009",
+                "event": "Elected as Member of Parliament (MP) to the 15th Lok Sabha from Moradabad, Uttar Pradesh representing Indian National Congress"
+            },
+            {
+                "date": "19-02-2009",
+                "event": "Formally joined active politics by entering the Indian National Congress party"
+            },
+            {
+                "date": "05-12-2000",
+                "event": "Imposed a lifetime ban from all cricket by the BCCI following the CBI match-fixing investigation report"
+            },
+            {
+                "date": "20-07-2000",
+                "event": "Residences raided by Income Tax officials in connection with the national match-fixing probe"
+            },
+            {
+                "date": "15-06-2000",
+                "event": "Accused by South African captain Hansie Cronje during the King Commission hearings of introducing him to a bookie in 1996"
+            },
+            {
+                "date": "03-06-2000",
+                "event": "Played his final One Day International (ODI) match for India against Pakistan at Dhaka"
+            },
+            {
+                "date": "02-03-2000",
+                "event": "Played his 99th and final Test match for India against South Africa at Bengaluru"
+            },
+            {
+                "date": "1996",
+                "event": "Got married to second wife, Bollywood actress Sangeeta Bijlani"
+            },
+            {
+                "date": "1996",
+                "event": "Divorced first wife Naureen"
+            },
+            {
+                "date": "1990",
+                "event": "Appointed Captain of the Indian National Cricket Team succeeding Krishnamachari Srikkanth"
+            },
+            {
+                "date": "1990",
+                "event": "Younger son Mohammad Ayazuddin was born"
+            },
+            {
+                "date": "18-05-1990",
+                "event": "Eldest son Mohammad Asaduddin was born"
+            },
+            {
+                "date": "1987",
+                "event": "Got married to first wife Naureen"
+            },
+            {
+                "date": "1986",
+                "event": "Conferred with the Arjuna Award for outstanding achievement in sports"
+            },
+            {
+                "date": "20-01-1985",
+                "event": "Made One Day International (ODI) debut for India against England at Bengaluru"
+            },
+            {
+                "date": "31-12-1984",
+                "event": "Made Test debut for India against England at Kolkata and became the first player in history to score centuries in his first three consecutive Test matches"
+            },
+            {
+                "date": "08-02-1963",
+                "event": "Born to Mohammad Azizuddin and Yousuf Sultana in Hyderabad, Andhra Pradesh (now Telangana)"
+            }
+        ]
     },
     "response": {
         "ascendant": {

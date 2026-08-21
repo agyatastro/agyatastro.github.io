@@ -14,9 +14,98 @@
         "gender": "male",
         "dod": "20/10/2011",
         "agyat_rating": "AA",
-        "related": ["politician", "dictator"],
+        "related": [
+            "politician",
+            "dictator"
+        ],
         "advanced": "death by gunshot, violent death, dictator",
-        "about": "<p>Muammar Muhammad Abu Minyar al-Gaddafi[b] (c. 1942 – 20 October 2011) was a Libyan military officer, revolutionary, politician, and political theorist who ruled Libya from 1969 until his overthrow by Libyan rebel forces in 2011 during the First Libyan Civil War. He came to power through a bloodless military coup, first becoming Revolutionary Chairman of the Libyan Arab Republic from 1969 to 1977, Secretary General of the General People's Congress from 1977 to 1979, and then the Brotherly Leader of the Great Socialist People's Libyan Arab Jamahiriya from 1979 to 2011. Initially ideologically committed to Arab nationalism and Arab socialism, Gaddafi later ruled according to his own Third International Theory.</p><p>Born near Sirte, Italian Libya, to a poor Bedouin Arab family, Gaddafi became an Arab nationalist while at school in Sabha, later enrolling in the Royal Military Academy, Benghazi. He founded a revolutionary group known as the Free Officers movement which deposed the Western-backed Senussi monarchy of Idris in a 1969 coup. Gaddafi converted Libya into a republic governed by his Revolutionary Command Council. Ruling by decree, he deported Libya's Italian population and ejected its Western military bases. He strengthened ties to Arab nationalist governments and unsuccessfully advocated pan-Arab political union. An Islamic modernist, he introduced sharia law as the basis for the legal system and promoted Islamic socialism. He nationalized the oil industry and used the increasing state revenues to bolster the military, fund foreign revolutionaries, and implement social programs emphasizing housebuilding, healthcare and education projects. In 1973, he initiated a \"Popular Revolution\" with the formation of Basic People's Congresses, presented as a system of direct democracy, but retained personal control over major decisions. He outlined his Third International Theory that year in The Green Book.</p><p>In 1977, Gaddafi transformed Libya into a new socialist state called a Jamahiriya (\"state of the masses\"). He officially adopted a symbolic role in governance but remained head of both the military and the Revolutionary Committees responsible for policing and suppressing dissent. During the 1970s and 1980s, Libya's unsuccessful border conflicts with Egypt and Chad, support for foreign militants, and alleged responsibility for bombings of Pan Am Flight 103 and UTA Flight 772 left it increasingly isolated on the world stage. A particularly hostile relationship developed with Israel, the United States and the United Kingdom, resulting in the 1986 U.S. bombing of Libya and United Nations–imposed economic sanctions. From 1999, Gaddafi shunned pan-Arabism, and encouraged pan-Africanism and rapprochement with Western nations; he was Chairperson of the African Union from 2009 to 2010. Amid the 2011 Arab Spring, protests against widespread corruption and unemployment broke out in eastern Libya. The situation descended into civil war, in which NATO intervened militarily on the side of the anti-Gaddafist National Transitional Council (NTC). Gaddafi's government was overthrown; he retreated to Sirte only to be captured, tortured and killed by NTC militants.</p><p>A highly divisive figure, Gaddafi dominated Libya's politics for four decades and was the subject of a pervasive cult of personality. He was decorated with various awards and praised for his anti-imperialist stance, support for Arab—and then African—unity, as well as for significant development to the country after the discovery of oil reserves. Conversely, many Libyans strongly opposed Gaddafi's social and economic reforms; he was accused of various human rights violations. He was condemned by many as a dictator whose authoritarian administration systematically violated human rights and financed terrorism in the region and abroad.</p><p>"
+        "about": "<p>Muammar Muhammad Abu Minyar al-Gaddafi[b] (c. 1942 – 20 October 2011) was a Libyan military officer, revolutionary, politician, and political theorist who ruled Libya from 1969 until his overthrow by Libyan rebel forces in 2011 during the First Libyan Civil War. He came to power through a bloodless military coup, first becoming Revolutionary Chairman of the Libyan Arab Republic from 1969 to 1977, Secretary General of the General People's Congress from 1977 to 1979, and then the Brotherly Leader of the Great Socialist People's Libyan Arab Jamahiriya from 1979 to 2011. Initially ideologically committed to Arab nationalism and Arab socialism, Gaddafi later ruled according to his own Third International Theory.</p><p>Born near Sirte, Italian Libya, to a poor Bedouin Arab family, Gaddafi became an Arab nationalist while at school in Sabha, later enrolling in the Royal Military Academy, Benghazi. He founded a revolutionary group known as the Free Officers movement which deposed the Western-backed Senussi monarchy of Idris in a 1969 coup. Gaddafi converted Libya into a republic governed by his Revolutionary Command Council. Ruling by decree, he deported Libya's Italian population and ejected its Western military bases. He strengthened ties to Arab nationalist governments and unsuccessfully advocated pan-Arab political union. An Islamic modernist, he introduced sharia law as the basis for the legal system and promoted Islamic socialism. He nationalized the oil industry and used the increasing state revenues to bolster the military, fund foreign revolutionaries, and implement social programs emphasizing housebuilding, healthcare and education projects. In 1973, he initiated a \"Popular Revolution\" with the formation of Basic People's Congresses, presented as a system of direct democracy, but retained personal control over major decisions. He outlined his Third International Theory that year in The Green Book.</p><p>In 1977, Gaddafi transformed Libya into a new socialist state called a Jamahiriya (\"state of the masses\"). He officially adopted a symbolic role in governance but remained head of both the military and the Revolutionary Committees responsible for policing and suppressing dissent. During the 1970s and 1980s, Libya's unsuccessful border conflicts with Egypt and Chad, support for foreign militants, and alleged responsibility for bombings of Pan Am Flight 103 and UTA Flight 772 left it increasingly isolated on the world stage. A particularly hostile relationship developed with Israel, the United States and the United Kingdom, resulting in the 1986 U.S. bombing of Libya and United Nations–imposed economic sanctions. From 1999, Gaddafi shunned pan-Arabism, and encouraged pan-Africanism and rapprochement with Western nations; he was Chairperson of the African Union from 2009 to 2010. Amid the 2011 Arab Spring, protests against widespread corruption and unemployment broke out in eastern Libya. The situation descended into civil war, in which NATO intervened militarily on the side of the anti-Gaddafist National Transitional Council (NTC). Gaddafi's government was overthrown; he retreated to Sirte only to be captured, tortured and killed by NTC militants.</p><p>A highly divisive figure, Gaddafi dominated Libya's politics for four decades and was the subject of a pervasive cult of personality. He was decorated with various awards and praised for his anti-imperialist stance, support for Arab—and then African—unity, as well as for significant development to the country after the discovery of oil reserves. Conversely, many Libyans strongly opposed Gaddafi's social and economic reforms; he was accused of various human rights violations. He was condemned by many as a dictator whose authoritarian administration systematically violated human rights and financed terrorism in the region and abroad.</p>",
+        "events": [
+            {
+                "date": "20-10-2011",
+                "event": "Captured, tortured, and killed by National Transitional Council (NTC) rebel forces during the Battle of Sirte"
+            },
+            {
+                "date": "27-06-2011",
+                "event": "International Criminal Court (ICC) issued an arrest warrant for him on charges of crimes against humanity"
+            },
+            {
+                "date": "17-02-2011",
+                "event": "Violent crackdown on anti-government protests triggered the First Libyan Civil War and subsequent NATO military intervention"
+            },
+            {
+                "date": "02-02-2009",
+                "event": "Elected Chairperson of the African Union for a one-year term"
+            },
+            {
+                "date": "19-12-2003",
+                "event": "Announced the total dismantling of Libya's nuclear, chemical, and biological weapons programs to reconcile with Western powers"
+            },
+            {
+                "date": "1999",
+                "event": "Surrendered two Libyan suspects for trial in the Netherlands over the 1988 Pan Am Flight 103 Lockerbie bombing"
+            },
+            {
+                "date": "15-04-1992",
+                "event": "United Nations imposed mandatory sanctions on Libya due to its refusal to extradite suspects in the Lockerbie bombing"
+            },
+            {
+                "date": "21-12-1988",
+                "event": "Libyan intelligence services were implicated in the terrorist bombing of Pan Am Flight 103 over Lockerbie, Scotland, killing 270 people"
+            },
+            {
+                "date": "15-04-1986",
+                "event": "United States launched Operation El Dorado Canyon air strikes targeting Tripoli and Benghazi in retaliation for the West Berlin nightclub bombing"
+            },
+            {
+                "date": "17-04-1984",
+                "event": "British police officer Yvonne Fletcher was shot dead by gunfire originating from the Libyan Embassy in London, leading to a break in UK-Libya diplomatic relations"
+            },
+            {
+                "date": "02-03-1977",
+                "event": "Proclaimed the establishment of the 'Jamahiriya' (State of the Masses) and renamed the country the Great Socialist People's Libyan Arab Jamahiriya"
+            },
+            {
+                "date": "1975",
+                "event": "Published the first part of 'The Green Book,' outlining his Third International Theory political philosophy"
+            },
+            {
+                "date": "1972",
+                "event": "Gave birth to son Saif al-Islam Gaddafi"
+            },
+            {
+                "date": "1970",
+                "event": "Gave birth to first son Muhammad Gaddafi with his first wife Fathia Nuri Khalid"
+            },
+            {
+                "date": "10-09-1970",
+                "event": "Got married to second wife Safia Farkash"
+            },
+            {
+                "date": "1970",
+                "event": "Divorced first wife Fathia Nuri Khalid"
+            },
+            {
+                "date": "1970",
+                "event": "Ordered the expulsion of foreign military bases and thousands of Italian settlers from Libya"
+            },
+            {
+                "date": "25-12-1969",
+                "event": "Got married to first wife Fathia Nuri Khalid"
+            },
+            {
+                "date": "01-09-1969",
+                "event": "Led a bloodless military coup d'état that deposed King Idris I and established the Libyan Arab Republic"
+            },
+            {
+                "date": "1965",
+                "event": "Graduated from the Royal Military Academy in Benghazi and was commissioned as an officer in the Libyan Army"
+            },
+            {
+                "date": "07-06-1942",
+                "event": "Born to Mohammad Abdul Salam abu Mnyar and Aisha Gaddafi in a tent near Sirte, Italian Libya"
+            }
+        ]
     },
     "response": {
         "ascendant": {

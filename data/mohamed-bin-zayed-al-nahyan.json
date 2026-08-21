@@ -13,10 +13,79 @@
         "location": "Al Ain City",
         "gender": "male",
         "advanced": "President of the United Arab Emirates, Ruler of Abu Dhabi, MbZ",
-        "source": "self - birth certificate", 
+        "source": "self - birth certificate",
         "agyat_rating": "AA",
-        "related": ["politician", "monarch"],
-        "about": "<p>Mohamed bin Zayed Al Nahyan (born 11 March 1961), also known as MBZ or MbZ, is an Emirati royal and politician who has served as the third president of the United Arab Emirates and the ruler of Abu Dhabi since 2022.</p><p>Mohamed completed his education in Abu Dhabi and Al Ain, and graduated from the Royal Military Academy Sandhurst in 1979. He joined the UAE Armed Forces, and held various posts, before becoming a pilot in the UAE Air Force; he was promoted to general in 2005.</p><p>Mohamed is the third son of Sheikh Zayed bin Sultan Al Nahyan, the first president of the UAE and 16th ruler of Abu Dhabi. Mohamed became the crown prince of Abu Dhabi in 2004, following the death of his father, when his brother, Sheikh Khalifa, became the second president of the UAE, and the ruler of Abu Dhabi. In 2014, Sheikh Khalifa suffered a stroke, and Mohamed became the de facto president of the UAE, and ruler of Abu Dhabi. Mohamed officially became president of the UAE, and ruler of Abu Dhabi, after being chosen by the UAE Supreme Council, following the death of his brother in May 2022. In March 2023, Mohamed appointed his son Sheikh Khalid, crown prince of Abu Dhabi, and his successor.</p><p>Scholars characterize the UAE under Mohamed as an authoritarian capitalist country, and a rentier state. In 2019, The New York Times named Mohamed as the most powerful Arab ruler, and he was named as one of the 100 Most Influential People of 2019 by Time magazine. He is an opponent of the Muslim Brotherhood, Iran, and its proxies in the Middle East. Since becoming de facto president, the UAE participated in the war against ISIS in Iraq and Syria, the Syrian civil war, and was part of the Saudi-led intervention in the Yemeni civil war, until Mohamed disagreed with Saudi Arabia's support of Al-Islah, a Yemeni party connected with the Muslim Brotherhood, but he has maintained his support of the Southern Transitional Council. Mohamed has been the main backer of the Rapid Support Forces (RSF) in the Sudanese civil war. He fell out with the Obama administration on the Iran nuclear deal, and supported US withdrawal from the Iran nuclear deal. The UAE was a leading party in the Qatar diplomatic crisis, in which the UAE, Saudi Arabia, Bahrain, and other Arab countries severed diplomatic relations with Qatar, based on accusations that Qatar supports the Muslim Brotherhood and off-shoot organizations. Mohamed maintained a close relationship with US President Donald Trump, with reports suggesting Mohamed was pushing Trump to take a tougher stance on Iran and the Muslim Brotherhood. In 2020, the UAE, alongside Bahrain, Morocco and Sudan, signed the Abraham Accords, an agreement to normalize diplomatic relationship with the Israel, brokered by Trump. The UAE has been involved in an economic rivalry with Saudi Arabia, and opposed Saudi efforts for OPEC+ production cuts.</p>"
+        "related": [
+            "politician",
+            "monarch"
+        ],
+        "about": "<p>Mohamed bin Zayed Al Nahyan (born 11 March 1961), also known as MBZ or MbZ, is an Emirati royal and politician who has served as the third president of the United Arab Emirates and the ruler of Abu Dhabi since 2022.</p><p>Mohamed completed his education in Abu Dhabi and Al Ain, and graduated from the Royal Military Academy Sandhurst in 1979. He joined the UAE Armed Forces, and held various posts, before becoming a pilot in the UAE Air Force; he was promoted to general in 2005.</p><p>Mohamed is the third son of Sheikh Zayed bin Sultan Al Nahyan, the first president of the UAE and 16th ruler of Abu Dhabi. Mohamed became the crown prince of Abu Dhabi in 2004, following the death of his father, when his brother, Sheikh Khalifa, became the second president of the UAE, and the ruler of Abu Dhabi. In 2014, Sheikh Khalifa suffered a stroke, and Mohamed became the de facto president of the UAE, and ruler of Abu Dhabi. Mohamed officially became president of the UAE, and ruler of Abu Dhabi, after being chosen by the UAE Supreme Council, following the death of his brother in May 2022. In March 2023, Mohamed appointed his son Sheikh Khalid, crown prince of Abu Dhabi, and his successor.</p><p>Scholars characterize the UAE under Mohamed as an authoritarian capitalist country, and a rentier state. In 2019, The New York Times named Mohamed as the most powerful Arab ruler, and he was named as one of the 100 Most Influential People of 2019 by Time magazine. He is an opponent of the Muslim Brotherhood, Iran, and its proxies in the Middle East. Since becoming de facto president, the UAE participated in the war against ISIS in Iraq and Syria, the Syrian civil war, and was part of the Saudi-led intervention in the Yemeni civil war, until Mohamed disagreed with Saudi Arabia's support of Al-Islah, a Yemeni party connected with the Muslim Brotherhood, but he has maintained his support of the Southern Transitional Council. Mohamed has been the main backer of the Rapid Support Forces (RSF) in the Sudanese civil war. He fell out with the Obama administration on the Iran nuclear deal, and supported US withdrawal from the Iran nuclear deal. The UAE was a leading party in the Qatar diplomatic crisis, in which the UAE, Saudi Arabia, Bahrain, and other Arab countries severed diplomatic relations with Qatar, based on accusations that Qatar supports the Muslim Brotherhood and off-shoot organizations. Mohamed maintained a close relationship with US President Donald Trump, with reports suggesting Mohamed was pushing Trump to take a tougher stance on Iran and the Muslim Brotherhood. In 2020, the UAE, alongside Bahrain, Morocco and Sudan, signed the Abraham Accords, an agreement to normalize diplomatic relationship with the Israel, brokered by Trump. The UAE has been involved in an economic rivalry with Saudi Arabia, and opposed Saudi efforts for OPEC+ production cuts.</p>",
+        "events": [
+            {
+                "date": "29 March 2023",
+                "event": "Appointed his eldest son, Sheikh Khaled bin Mohamed Al Nahyan, as Crown Prince of Abu Dhabi"
+            },
+            {
+                "date": "14 May 2022",
+                "event": "Elected as the 3rd President of the United Arab Emirates by the Federal Supreme Council"
+            },
+            {
+                "date": "13 May 2022",
+                "event": "Became Ruler of Abu Dhabi following the passing of his half-brother, Sheikh Khalifa bin Zayed Al Nahyan"
+            },
+            {
+                "date": "15 September 2020",
+                "event": "Spearheaded and signed the Abraham Accords, normalizing diplomatic relations between the UAE and Israel"
+            },
+            {
+                "date": "2015",
+                "event": "Led the UAE\\'s military entry into the Saudi-led military intervention in Yemen, a campaign later facing international scrutiny over human rights concerns"
+            },
+            {
+                "date": "24 January 2014",
+                "event": "Became the de facto ruler of Abu Dhabi and the UAE after President Sheikh Khalifa suffered a debilitating stroke"
+            },
+            {
+                "date": "2008",
+                "event": "Mandated and launched the Abu Dhabi Economic Vision 2030 to diversify the economy away from oil reliance"
+            },
+            {
+                "date": "28 January 2005",
+                "event": "Promoted to the rank of General and appointed Deputy Supreme Commander of the UAE Armed Forces"
+            },
+            {
+                "date": "8 December 2004",
+                "event": "Appointed Chairman of the Abu Dhabi Executive Council"
+            },
+            {
+                "date": "2 November 2004",
+                "event": "Became Crown Prince of Abu Dhabi following the death of his father, Sheikh Zayed bin Sultan Al Nahyan"
+            },
+            {
+                "date": "30 November 2003",
+                "event": "Appointed Deputy Crown Prince of Abu Dhabi by his father, Sheikh Zayed"
+            },
+            {
+                "date": "1993",
+                "event": "Appointed Chief of Staff of the UAE Armed Forces"
+            },
+            {
+                "date": "1982",
+                "event": "Birth of his eldest son, Sheikh Khaled bin Mohamed Al Nahyan"
+            },
+            {
+                "date": "1981",
+                "event": "Got married to Sheikha Salama bint Hamdan Al Nahyan"
+            },
+            {
+                "date": "April 1979",
+                "event": "Graduated from the Royal Military Academy Sandhurst, UK, and subsequently joined the UAE Armed Forces as an officer"
+            },
+            {
+                "date": "11 March 1961",
+                "event": "Born in Al Ain, Trucial States (now UAE), to Sheikh Zayed bin Sultan Al Nahyan and Sheikha Fatima bint Mubarak"
+            }
+        ]
     },
     "response": {
         "ascendant": {

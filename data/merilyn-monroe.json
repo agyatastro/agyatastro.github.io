@@ -13,10 +13,78 @@
         "location": "Los Angeles, United States",
         "agyat_rating": "AA",
         "gender": "female",
-        "related": ["actor"],
+        "related": [
+            "actor"
+        ],
         "about": "<p>Marilyn Monroe (/ˈmærəlɪn mənˈroʊ/ MARR-ə-lin mən-ROH; born Norma Jeane Mortenson; June 1, 1926 – August 4, 1962) was an American actress and model. Known for playing comic \"blonde bombshell\" characters, she became one of the most popular sex symbols of the 1950s and early 1960s, as well as an emblem of the era's sexual revolution. She was a top-billed actress for a decade, and her films grossed $200 million (equivalent to $2 billion in 2024) by her death in 1962.</p><p> Born in Los Angeles, Monroe spent most of her childhood in foster homes and an orphanage before marrying James Dougherty at the age of 16. She was working in a factory during World War II when she met a photographer from the First Motion Picture Unit and began a successful pin-up modeling career, which led to short-lived film contracts with 20th Century Fox and Columbia Pictures. After roles as a freelancer, she began a longer contract with Fox in 1951, becoming a popular actress with roles in several comedies, including As Young as You Feel and Monkey Business, and in the dramas Clash by Night and Don't Bother to Knock. Monroe faced a scandal when it was revealed that she had posed for nude photographs prior to fame, but the story resulted in increased interest in her films.</p><p> Monroe became one of the most marketable Hollywood stars in 1953. She had leading roles in the film noir Niagara, which overtly relied on her sex appeal, and the comedies Gentlemen Prefer Blondes and How to Marry a Millionaire, which established her star image as a \"dumb blonde\". The same year, her nude images were used as the centerfold and cover of the first issue of Playboy. Monroe played a significant role in the creation and management of her public image, but felt disappointed when typecast and underpaid by the studio. She was briefly suspended in early 1954 for refusing a film project but returned to star in The Seven Year Itch (1955), one of the biggest box office successes of her career.</p><p> When the studio was still reluctant to change Monroe's contract, she founded her own film production company in 1954 with her friend Milton Greene. She dedicated 1955 to building the company and began studying method acting under Lee Strasberg at the Actors Studio. Later that year, Fox awarded her a new contract, which gave her more control and a larger salary. Her subsequent roles included a critically acclaimed performance in Bus Stop (1956) and her first independent production in The Prince and the Showgirl (1957), for which she received a BAFTA nomination. She won a Golden Globe for her role in Some Like It Hot (1959), a critical and commercial success. Her last completed film was the drama The Misfits (1961).</p><p> Monroe's troubled private life received much attention. Her marriages to retired baseball star Joe DiMaggio and to playwright Arthur Miller were highly publicized; both ended in divorce. On August 4, 1962, Monroe died at age 36 of an overdose of barbiturates at her Los Angeles home. Her death was ruled a probable suicide. Monroe remains a pop culture icon, with the American Film Institute ranking her as the sixth-greatest female screen legend from the Golden Age of Hollywood.</p>",
         "dod": "04/08/1962",
-        "advanced": "death by accident, suicide, drug overdose"
+        "advanced": "death by accident, suicide, drug overdose",
+        "events": [
+            {
+                "date": "1962-08-05",
+                "event": "Died at age 36 at her home in Brentwood, Los Angeles, due to acute barbiturate poisoning (acute poisoning from overdose), ruled a probable suicide"
+            },
+            {
+                "date": "1962-05-19",
+                "event": "Sank her famous, sultry rendition of 'Happy Birthday, Mr. President' for President John F. Kennedy at Madison Square Garden"
+            },
+            {
+                "date": "1961-01-20",
+                "event": "Divorced her third husband, playwright Arthur Miller, in Ciudad Juárez, Mexico"
+            },
+            {
+                "date": "1960-03-08",
+                "event": "Won the Golden Globe Award for Best Actress in a Comedy or Musical for her performance in 'Some Like It Hot'"
+            },
+            {
+                "date": "1956-06-29",
+                "event": "Married playwright Arthur Miller in a civil ceremony in White Plains, New York (converted to Judaism)"
+            },
+            {
+                "date": "1955-01-00",
+                "event": "Co-founded Marilyn Monroe Productions (MMP) with photographer Milton Greene to gain artistic control over her career"
+            },
+            {
+                "date": "1954-10-27",
+                "event": "Divorced her second husband, baseball star Joe DiMaggio, after 9 months of marriage citing mental cruelty"
+            },
+            {
+                "date": "1954-01-14",
+                "event": "Married baseball legend Joe DiMaggio at San Francisco City Hall"
+            },
+            {
+                "date": "1953-12-01",
+                "event": "Featured as the inaugural centerfold cover star in the premier issue of Playboy magazine"
+            },
+            {
+                "date": "1952-03-00",
+                "event": "Faced major public scandal after 1949 nude calendar photos surfaced; gained public sympathy by openly admitting she posed nude due to financial desperation"
+            },
+            {
+                "date": "1946-09-13",
+                "event": "Divorced her first husband, James Dougherty"
+            },
+            {
+                "date": "1946-08-26",
+                "event": "Signed her first studio contract with 20th Century Fox and officially adopted the stage name Marilyn Monroe"
+            },
+            {
+                "date": "1944-00-00",
+                "event": "Discovered by U.S. Army photographer David Conover while working on an assembly line at the Radioplane Company defense plant, launching her modeling career"
+            },
+            {
+                "date": "1942-06-19",
+                "event": "Married her first husband, James Dougherty, at age 16 to avoid returning to an orphanage or foster care"
+            },
+            {
+                "date": "1935-09-13",
+                "event": "Placed into the Los Angeles Orphans' Home Society after her mother, Gladys Pearl Baker, suffered a severe mental breakdown and was institutionalized"
+            },
+            {
+                "date": "1926-06-01",
+                "event": "Born Norma Jeane Mortenson at Los Angeles General Hospital, Los Angeles, California"
+            }
+        ]
     },
     "response": {
         "ascendant": {

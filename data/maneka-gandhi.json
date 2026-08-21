@@ -14,7 +14,80 @@
         "agyat_rating": "AA",
         "gender": "female",
         "about": "<p>Maneka Gandhi (also spelled Menaka; née Anand) (born 26 August 1956) is an Indian politician, animal rights activist, and environmentalist. She served as a member of the Lok Sabha, the lower house of the Indian parliament, and is a member of the Bharatiya Janata Party (BJP). She is the widow of Indian politician Sanjay Gandhi. Gandhi has held ministerial positions in four governments, most recently serving in Narendra Modi's government from May 2014 to May 2019.</p><p> In addition to her political work, Gandhi is an author, with several books on etymology, law, and animal rights.</p>",
-        "related": ["gandhi-family", "politician"]
+        "related": [
+            "gandhi-family",
+            "politician"
+        ],
+        "events": [
+            {
+                "date": "04-06-2024",
+                "event": "Lost the Lok Sabha election from Sultanpur constituency to Samajwadi Party candidate Rambhual Nishad"
+            },
+            {
+                "date": "26-05-2014",
+                "event": "Sworn in as Union Minister for Women and Child Development in the Narendra Modi cabinet"
+            },
+            {
+                "date": "16-05-2009",
+                "event": "Elected to the 15th Lok Sabha from Aonla constituency on a BJP ticket"
+            },
+            {
+                "date": "2004",
+                "event": "Formally joined the Bharatiya Janata Party (BJP) and was re-elected to the Lok Sabha from Pilibhit"
+            },
+            {
+                "date": "13-10-1999",
+                "event": "Appointed Union Minister of State for Social Justice and Empowerment in the Atal Bihari Vajpayee government"
+            },
+            {
+                "date": "1992",
+                "event": "Founded 'People for Animals' (PFA), which grew to become India's largest animal welfare organisation"
+            },
+            {
+                "date": "06-12-1989",
+                "event": "Appointed Union Minister of State (Independent Charge) for Environment and Forests in V. P. Singh's cabinet, becoming India's youngest minister at the time"
+            },
+            {
+                "date": "1988",
+                "event": "Merged Rashtriya Sanjay Manch with Janata Dal and was appointed its General Secretary"
+            },
+            {
+                "date": "12-1984",
+                "event": "Contested the Lok Sabha general elections as an independent candidate from Amethi against brother-in-law Rajiv Gandhi"
+            },
+            {
+                "date": "03-04-1983",
+                "event": "Founded her own political party, Rashtriya Sanjay Manch, focused on youth empowerment"
+            },
+            {
+                "date": "03-1982",
+                "event": "Had a public falling out with Prime Minister Indira Gandhi and moved out of the Prime Minister's official residence"
+            },
+            {
+                "date": "23-06-1980",
+                "event": "Husband Sanjay Gandhi died in a plane crash in New Delhi"
+            },
+            {
+                "date": "13-03-1980",
+                "event": "Gave birth to son Feroze Varun Gandhi"
+            },
+            {
+                "date": "1978",
+                "event": "Won a landmark Supreme Court case (Maneka Gandhi v. Union of India) expanding the scope of Article 21 (Right to Personal Liberty)"
+            },
+            {
+                "date": "1977",
+                "event": "Founded and edited the political magazine 'Surya India'"
+            },
+            {
+                "date": "23-09-1974",
+                "event": "Got married to Sanjay Gandhi, son of Prime Minister Indira Gandhi"
+            },
+            {
+                "date": "26-08-1956",
+                "event": "Born as Maneka Anand to Lt. Col. Tarlochan Singh Anand and Amteshwar Anand in New Delhi"
+            }
+        ]
     },
     "response": {
         "ascendant": {

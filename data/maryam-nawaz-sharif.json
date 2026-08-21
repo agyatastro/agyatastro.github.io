@@ -14,7 +14,77 @@
         "agyat_rating": "AA",
         "gender": "female",
         "about": "<p>Maryam Nawaz Sharif (Urdu: مریم نواز شریف; born 28 October 1973) is a Pakistani politician who has served as the 20th chief minister of Punjab since 26 February 2024. She is the first woman to hold the position of chief minister in Pakistan.</p><p>Born to former Prime Minister of Pakistan Nawaz Sharif in 1973, she began her political career in 2012 when she took charge of the election campaign for the 2013 Pakistani general election. Following the election, she was appointed as the chairperson of the Prime Minister's Youth Programme in 2013. In 2014, she resigned from the position after her appointment was challenged in the Lahore High Court. After her election to the Provincial Assembly of the Punjab in the 2024 Pakistani general election, Maryam was appointed chief minister of Punjab.</p>",
-        "related": ["sharif-family", "politician", "chief-minister"]
+        "related": [
+            "sharif-family",
+            "politician",
+            "chief-minister"
+        ],
+        "events": [
+            {
+                "date": "2024-02-26",
+                "event": "Sworn in as the 19th Chief Minister of Punjab, Pakistan, becoming the first female Chief Minister of any province in Pakistan's history."
+            },
+            {
+                "date": "2023-01-03",
+                "event": "Appointed as the Senior Vice President and Chief Organizer of the Pakistan Muslim League-Nawaz (PML-N) party."
+            },
+            {
+                "date": "2022-09-29",
+                "event": "Acquitted by the Islamabad High Court in the Avenfield corruption case, overturning her 2018 conviction."
+            },
+            {
+                "date": "2019-11-04",
+                "event": "Granted bail by the Lahore High Court in the Chaudhry Sugar Mills corruption and money laundering case."
+            },
+            {
+                "date": "2019-08-08",
+                "event": "Arrested by the National Accountability Bureau (NAB) in Lahore regarding the Chaudhry Sugar Mills case while visiting her father in jail."
+            },
+            {
+                "date": "2018-09-19",
+                "event": "Released on bail from Adiala Jail after the Islamabad High Court suspended her 7-year prison sentence in the Avenfield case."
+            },
+            {
+                "date": "2018-07-13",
+                "event": "Arrested at Lahore Airport along with her father, Nawaz Sharif, upon returning from London to face corruption charges."
+            },
+            {
+                "date": "2018-07-06",
+                "event": "Sentenced to 7 years in prison and fined £2 million by a Pakistani accountability court in the Avenfield corruption reference linked to offshore property holdings."
+            },
+            {
+                "date": "2016-10-06",
+                "event": "Named in the 'Dawn Leaks' political and civil-military controversy regarding a top-secret national security meeting."
+            },
+            {
+                "date": "2016-04-03",
+                "event": "Implicated in the Panama Papers scandal, exposing offshore companies and real estate properties in London linked to the Sharif family."
+            },
+            {
+                "date": "2014-11-12",
+                "event": "Resigned as the Chairperson of the Prime Minister's Youth Programme following a legal challenge by Pakistan Tehreek-e-Insaf (PTI) regarding her appointment."
+            },
+            {
+                "date": "2013-11-22",
+                "event": "Appointed as the Chairperson of the Prime Minister's Youth Programme under Prime Minister Shehbaz Sharif/Nawaz Sharif administration initiatives."
+            },
+            {
+                "date": "2011-11-01",
+                "event": "Formally joined active politics and entered the Pakistan Muslim League-Nawaz (PML-N) party."
+            },
+            {
+                "date": "1997-01-01",
+                "event": "Appointed as the Chairperson of the Sharif Trust."
+            },
+            {
+                "date": "1992-12-25",
+                "event": "Married Muhammad Safdar Awan (Captain Safdar), a former Pakistan Army officer."
+            },
+            {
+                "date": "1973-10-28",
+                "event": "Born in Lahore, Punjab, Pakistan, to former Prime Minister Nawaz Sharif and Kulsoom Nawaz."
+            }
+        ]
     },
     "response": {
         "ascendant": {

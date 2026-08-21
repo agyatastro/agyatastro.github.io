@@ -13,8 +13,114 @@
         "location": "Fort Smith",
         "agyat_rating": "AA",
         "gender": "male",
-        "related": ["politician"],
-        "about": "<p>Mark Joseph Carney (born March 16, 1965) is a Canadian politician and economist who has served as the 24th and current prime minister of Canada since 2025. He has served as Leader of the Liberal Party and Member of Parliament (MP) for Nepean since 2025.</p><p>Carney was born in Fort Smith, Northwest Territories, and raised in Edmonton, Alberta. He graduated with a bachelor's degree in economics from Harvard University in 1987 before studying at the University of Oxford, where he earned a master's degree in economics in 1993 and a doctorate in economics in 1995. He then held a number of roles at the investment bank Goldman Sachs, before joining the Bank of Canada as a deputy governor in 2003. In 2004, he was named as a senior associate deputy minister for the Department of Finance Canada. Carney served as the eighth Governor of the Bank of Canada from 2008 to 2013, where he was responsible for Canadian monetary policy during the global financial crisis. During this time, he was also appointed as the second Chair of the Financial Stability Board, a position he held for two terms from 2011 to 2018. Following his term as Governor of the Bank of Canada, he was appointed as the 120th Governor of the Bank of England, serving from 2013 to 2020, where he led the British central bank's response to Brexit and the early phase of the COVID pandemic.</p><p>After leaving central banking, Carney held a number of roles in the private and public sectors, including being chair of Bloomberg L.P. and chair and head of impact investing at Brookfield Asset Management. In December 2019, United Nations Secretary-General António Guterres appointed Carney to be his Special Envoy on Climate Action and Finance. Carney also worked as one of several informal advisors to Canadian Prime Minister Justin Trudeau during the COVID pandemic and was appointed chair of the Liberal Party's economic growth task force by Trudeau in September 2024. In 2023, Carney became co-chair of the World Bank's private sector investment lab.</p><p>In January 2025, after Justin Trudeau resigned his leadership, Carney announced his intention to seek the leadership of the Liberal Party of Canada, and went on to win a landslide victory in March. Shortly after winning the leadership, Carney was appointed Prime Minister and advised the Governor General to dissolve Parliament and trigger a federal election. He led the Liberal Party to a minority government, overturning earlier poor opinion polling to win the party's fourth consecutive mandate since 2015, while also winning a seat in Parliament for the first time.</p>"
+        "related": [
+            "politician"
+        ],
+        "about": "<p>Mark Joseph Carney (born March 16, 1965) is a Canadian politician and economist who has served as the 24th and current prime minister of Canada since 2025. He has served as Leader of the Liberal Party and Member of Parliament (MP) for Nepean since 2025.</p><p>Carney was born in Fort Smith, Northwest Territories, and raised in Edmonton, Alberta. He graduated with a bachelor's degree in economics from Harvard University in 1987 before studying at the University of Oxford, where he earned a master's degree in economics in 1993 and a doctorate in economics in 1995. He then held a number of roles at the investment bank Goldman Sachs, before joining the Bank of Canada as a deputy governor in 2003. In 2004, he was named as a senior associate deputy minister for the Department of Finance Canada. Carney served as the eighth Governor of the Bank of Canada from 2008 to 2013, where he was responsible for Canadian monetary policy during the global financial crisis. During this time, he was also appointed as the second Chair of the Financial Stability Board, a position he held for two terms from 2011 to 2018. Following his term as Governor of the Bank of Canada, he was appointed as the 120th Governor of the Bank of England, serving from 2013 to 2020, where he led the British central bank's response to Brexit and the early phase of the COVID pandemic.</p><p>After leaving central banking, Carney held a number of roles in the private and public sectors, including being chair of Bloomberg L.P. and chair and head of impact investing at Brookfield Asset Management. In December 2019, United Nations Secretary-General António Guterres appointed Carney to be his Special Envoy on Climate Action and Finance. Carney also worked as one of several informal advisors to Canadian Prime Minister Justin Trudeau during the COVID pandemic and was appointed chair of the Liberal Party's economic growth task force by Trudeau in September 2024. In 2023, Carney became co-chair of the World Bank's private sector investment lab.</p><p>In January 2025, after Justin Trudeau resigned his leadership, Carney announced his intention to seek the leadership of the Liberal Party of Canada, and went on to win a landslide victory in March. Shortly after winning the leadership, Carney was appointed Prime Minister and advised the Governor General to dissolve Parliament and trigger a federal election. He led the Liberal Party to a minority government, overturning earlier poor opinion polling to win the party's fourth consecutive mandate since 2015, while also winning a seat in Parliament for the first time.</p>",
+        "events": [
+            {
+                "year": "2025",
+                "exact_date": "2025-04-28",
+                "event_title": "Led Liberal Party to victory in the federal snap election to secure full mandate as Prime Minister",
+                "details": "Led the Liberal Party to a historic comeback victory in the snap federal election following political momentum after taking party leadership."
+            },
+            {
+                "year": "2025",
+                "exact_date": "2025-03-14",
+                "event_title": "Sworn in as 24th Prime Minister of Canada",
+                "details": "Succeeded Justin Trudeau as Prime Minister of Canada after winning the Liberal Party of Canada leadership contest."
+            },
+            {
+                "year": "2025",
+                "exact_date": "2025-03-09",
+                "event_title": "Elected Leader of the Liberal Party of Canada",
+                "details": "Won the Liberal Party leadership race, defeating rival candidate Chrystia Freeland."
+            },
+            {
+                "year": "2024",
+                "exact_date": "2024-09-09",
+                "event_title": "Appointed Chair of Liberal Party Task Force on Economic Growth",
+                "details": "Tapped by Prime Minister Justin Trudeau to lead an economic task force for the Liberal Party of Canada."
+            },
+            {
+                "year": "2020",
+                "exact_date": "2020-03-15",
+                "event_title": "Completed tenure as Governor of the Bank of England",
+                "details": "Stepped down as Governor of the Bank of England after serving a seven-year term amidst Brexit and early COVID-19 economic responses."
+            },
+            {
+                "year": "2019",
+                "exact_date": "2019-12-01",
+                "event_title": "Appointed UN Special Envoy on Climate Action and Finance",
+                "details": "Named by UN Secretary-General António Guterres to mobilize private finance toward climate action."
+            },
+            {
+                "year": "2013",
+                "exact_date": "2013-07-01",
+                "event_title": "Assumed office as Governor of the Bank of England",
+                "details": "Became the first non-British individual to lead the Bank of England since its establishment in 1694."
+            },
+            {
+                "year": "2011",
+                "exact_date": "2011-11-04",
+                "event_title": "Appointed Chairman of the Financial Stability Board (FSB)",
+                "details": "Succeeded Mario Draghi to lead the international body monitoring global financial systems post-2008 crisis."
+            },
+            {
+                "year": "2008",
+                "exact_date": "2008-02-01",
+                "event_title": "Appointed 8th Governor of the Bank of Canada",
+                "details": "Took charge of Canada's central bank and spearheaded monetary policy responses during the 2007–2008 global financial crisis."
+            },
+            {
+                "year": "2004",
+                "exact_date": "2004-11-15",
+                "event_title": "Appointed Senior Associate Deputy Minister at Department of Finance Canada",
+                "details": "Joined Canada's Ministry of Finance to manage public debt and economic strategy."
+            },
+            {
+                "year": "2003",
+                "exact_date": "2003-08-05",
+                "event_title": "Appointed Deputy Governor of the Bank of Canada",
+                "details": "Left Goldman Sachs to begin his career in Canadian public central banking."
+            },
+            {
+                "year": "1995",
+                "exact_date": "1995-01-01",
+                "event_title": "Earned Doctorate (DPhil) in Economics from University of Oxford",
+                "details": "Completed doctoral degree with thesis titled 'The Dynamic Advantage of Competition'."
+            },
+            {
+                "year": "1994",
+                "exact_date": "1994-07-01",
+                "event_title": "Got married to Diana Fox",
+                "details": "Married British economist and environmentalist Diana Fox."
+            },
+            {
+                "year": "1993",
+                "exact_date": "1993-01-01",
+                "event_title": "Earned Master of Philosophy (MPhil) in Economics from University of Oxford",
+                "details": "Graduated with postgraduate MPhil degree from Nuffield College, Oxford."
+            },
+            {
+                "year": "1988",
+                "exact_date": "1988-01-01",
+                "event_title": "Joined Goldman Sachs",
+                "details": "Began a 13-year career in investment banking across London, Tokyo, New York, and Toronto offices."
+            },
+            {
+                "year": "1987",
+                "exact_date": "1987-06-01",
+                "event_title": "Graduated from Harvard University",
+                "details": "Earned a Bachelor of Arts (BA) in Economics magna cum laude while playing as backup goalie for the varsity ice hockey team."
+            },
+            {
+                "year": "1965",
+                "exact_date": "1965-03-16",
+                "event_title": "Born in Fort Smith, Northwest Territories, Canada",
+                "details": "Born at St. Ann's General Hospital to parents Robert Carney and Verlie Carney."
+            }
+        ]
     },
     "response": {
         "ascendant": {

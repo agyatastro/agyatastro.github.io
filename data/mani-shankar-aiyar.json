@@ -13,8 +13,80 @@
         "location": "Lahore",
         "agyat_rating": "AA",
         "gender": "male",
-        "related": ["politician"],
-        "about": "<p>Mani Shankar Aiyar (born 10 April 1941) is an Indian politician and former career civil servant diplomat. He is a member of the Indian National Congress Party.</p>He represented the Mayiladuthurai constituency of Tamil Nadu in the 10th Lok Sabha, 13th Lok Sabha, and 14th Lok Sabha. He was a nominated member of parliament from Rajya Sabha.</p>"
+        "related": [
+            "politician"
+        ],
+        "about": "<p>Mani Shankar Aiyar (born 10 April 1941) is an Indian politician and former career civil servant diplomat. He is a member of the Indian National Congress Party.</p>He represented the Mayiladuthurai constituency of Tamil Nadu in the 10th Lok Sabha, 13th Lok Sabha, and 14th Lok Sabha. He was a nominated member of parliament from Rajya Sabha.</p>",
+        "events": [
+            {
+                "date": "2020",
+                "event": "Published memoir titled 'Memoirs of a Maverick: The First Fifty Years (1941–1991)'"
+            },
+            {
+                "date": "12-2017",
+                "event": "Suspended from primary membership of Indian National Congress following controversial 'neech' remark directed at Prime Minister Narendra Modi"
+            },
+            {
+                "date": "2017",
+                "event": "Term ended as nominated Member of Parliament in Rajya Sabha"
+            },
+            {
+                "date": "03-2010",
+                "event": "Nominated to Rajya Sabha as a Member of Parliament by the President of India"
+            },
+            {
+                "date": "05-2009",
+                "event": "Lost the Lok Sabha general election from Mayiladuthurai constituency"
+            },
+            {
+                "date": "29-01-2006",
+                "event": "Appointed Union Cabinet Minister for Youth Affairs and Sports"
+            },
+            {
+                "date": "23-05-2004",
+                "event": "Sworn in as Union Cabinet Minister for Petroleum and Natural Gas and Minister of Panchayati Raj in the UPA-I government"
+            },
+            {
+                "date": "05-2004",
+                "event": "Re-elected to the 14th Lok Sabha from Mayiladuthurai constituency"
+            },
+            {
+                "date": "10-1999",
+                "event": "Re-elected to the 13th Lok Sabha from Mayiladuthurai constituency"
+            },
+            {
+                "date": "1998",
+                "event": "Lost the Lok Sabha election from Mayiladuthurai constituency"
+            },
+            {
+                "date": "1996",
+                "event": "Lost the Lok Sabha election from Mayiladuthurai constituency after leaving Congress to briefly join All India Indira Congress (Tiwari)"
+            },
+            {
+                "date": "06-1991",
+                "event": "Elected to the 10th Lok Sabha for the first time from Mayiladuthurai constituency, Tamil Nadu"
+            },
+            {
+                "date": "1989",
+                "event": "Resigned from the Indian Foreign Service (IFS) to enter active politics under Rajiv Gandhi"
+            },
+            {
+                "date": "1985",
+                "event": "Appointed Joint Secretary in the Prime Minister's Office (PMO) under Prime Minister Rajiv Gandhi"
+            },
+            {
+                "date": "1963",
+                "event": "Got married to Sreeti Sircar"
+            },
+            {
+                "date": "1963",
+                "event": "Joined the Indian Foreign Service (IFS)"
+            },
+            {
+                "date": "10-04-1941",
+                "event": "Born to V. Sankar Aiyar and Bhaghyalaksmi in Lahore, British India (now Pakistan)"
+            }
+        ]
     },
     "response": {
         "ascendant": {

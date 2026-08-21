@@ -13,8 +13,105 @@
         "location": "Kolkata, West Bengal",
         "agyat_rating": "AA",
         "gender": "male",
-        "related": ["politician", "actor"],
-        "about": "<p>Mithun Chakraborty (born Gouranga Chakraborty; 16 June 1950) is an Indian actor, film producer, screenwriter, entrepreneur and politician who predominantly works in Hindi and Bengali cinema. In a career spanning over five decades, he has done 350 films, mostly in Hindi and Bengali languages, and a few in Odia, Telugu, Kannada, Punjabi and Tamil. He is a former Rajya Sabha Member of Parliament. He is the recipient of three National Film Awards and four Filmfare Awards. In January 2024, Chakraborty was awarded Padma Bhushan, the third-highest civilian honour by the Government of India. He was also awarded India's highest accolade in the field of cinema, the Dadasaheb Phalke Award for the year 2022, whose announcement came from the Union Ministry of Information and Broadcasting in September 2024.</p><p> Chakraborty made his acting debut with the art house drama Mrigayaa (1976), directed by Mrinal Sen, for which he won his first National Film Award for Best Actor. Chakraborty gained greater fame with the 1982 film Disco Dancer, which was a major box office success in India and the Soviet Union. Besides Disco Dancer, Chakraborty also gained recognition for many other performances as both a lead and character artist. Chakraborty's performance in Agneepath won him the Filmfare Award for Best Supporting Actor in 1990.</p><p> Chakraborty owns the Monarch Group, which has interests in the hospitality and educational sectors. He also started the production house Paparatzy Productions. In 1992, he, along with Dilip Kumar and Sunil Dutt, set up a trust to help actors in need of assistance called Cine & T.V Artistes Association (CINTAA). He was also the Chairperson of Film Studios Setting & Allied Mazdoor Union, which protects the welfare of cinema workers and resolves their demands and problems. The television show Dance India Dance, where Chakraborty was the Grand Master, also entered in the Limca Book of Records and the Guinness World Records. Chakraborty played a crucial mediating role between Pranab Mukherjee of the Indian National Congress and Mamata Banerjee, winning Mukherjee the support of Banerjee's party, the All India Trinamool Congress, in the 2012 Indian presidential election. He joined the Bharatiya Janata Party (BJP) on 7 March 2021, ahead of the 2021 West Bengal Legislative Assembly election.</p>"
+        "related": [
+            "politician",
+            "actor"
+        ],
+        "about": "<p>Mithun Chakraborty (born Gouranga Chakraborty; 16 June 1950) is an Indian actor, film producer, screenwriter, entrepreneur and politician who predominantly works in Hindi and Bengali cinema. In a career spanning over five decades, he has done 350 films, mostly in Hindi and Bengali languages, and a few in Odia, Telugu, Kannada, Punjabi and Tamil. He is a former Rajya Sabha Member of Parliament. He is the recipient of three National Film Awards and four Filmfare Awards. In January 2024, Chakraborty was awarded Padma Bhushan, the third-highest civilian honour by the Government of India. He was also awarded India's highest accolade in the field of cinema, the Dadasaheb Phalke Award for the year 2022, whose announcement came from the Union Ministry of Information and Broadcasting in September 2024.</p><p> Chakraborty made his acting debut with the art house drama Mrigayaa (1976), directed by Mrinal Sen, for which he won his first National Film Award for Best Actor. Chakraborty gained greater fame with the 1982 film Disco Dancer, which was a major box office success in India and the Soviet Union. Besides Disco Dancer, Chakraborty also gained recognition for many other performances as both a lead and character artist. Chakraborty's performance in Agneepath won him the Filmfare Award for Best Supporting Actor in 1990.</p><p> Chakraborty owns the Monarch Group, which has interests in the hospitality and educational sectors. He also started the production house Paparatzy Productions. In 1992, he, along with Dilip Kumar and Sunil Dutt, set up a trust to help actors in need of assistance called Cine & T.V Artistes Association (CINTAA). He was also the Chairperson of Film Studios Setting & Allied Mazdoor Union, which protects the welfare of cinema workers and resolves their demands and problems. The television show Dance India Dance, where Chakraborty was the Grand Master, also entered in the Limca Book of Records and the Guinness World Records. Chakraborty played a crucial mediating role between Pranab Mukherjee of the Indian National Congress and Mamata Banerjee, winning Mukherjee the support of Banerjee's party, the All India Trinamool Congress, in the 2012 Indian presidential election. He joined the Bharatiya Janata Party (BJP) on 7 March 2021, ahead of the 2021 West Bengal Legislative Assembly election.</p>",
+        "events": [
+            {
+                "date": "08-10-2024",
+                "event": "Honoured with the 54th Dadasaheb Phalke Award, India's highest award in cinema, at the 70th National Film Awards ceremony"
+            },
+            {
+                "date": "22-04-2024",
+                "event": "Conferred with the Padma Bhushan, India's third-highest civilian award, by President Droupadi Murmu"
+            },
+            {
+                "date": "10-02-2024",
+                "event": "Suffered an ischemic stroke and was admitted to Apollo Hospital in Kolkata, before being discharged two days later"
+            },
+            {
+                "date": "07-03-2021",
+                "event": "Formally joined the Bharatiya Janata Party (BJP) at Brigade Parade Ground, Kolkata, in the presence of Prime Minister Narendra Modi"
+            },
+            {
+                "date": "26-12-2016",
+                "event": "Resigned as a Rajya Sabha Member of Parliament citing health reasons following scrutiny in the Saradha Group financial scam"
+            },
+            {
+                "date": "16-06-2015",
+                "event": "Surrendered ₹1.19 crore earned as brand ambassador fees from Saradha Group to the Enforcement Directorate (ED) after his name surfaced in the chit fund scam"
+            },
+            {
+                "date": "07-02-2014",
+                "event": "Elected to the Rajya Sabha as a Member of Parliament representing the All India Trinamool Congress (TMC)"
+            },
+            {
+                "date": "1998",
+                "event": "Won his third National Film Award for Best Supporting Actor for his role as Ramakrishna Paramahamsa in 'Swami Vivekananda'"
+            },
+            {
+                "date": "1997",
+                "event": "Son Namashi Chakraborty was born"
+            },
+            {
+                "date": "1996",
+                "event": "Adopted daughter Dishani Chakraborty after finding her abandoned near a garbage bin as an infant"
+            },
+            {
+                "date": "1992",
+                "event": "Won his second National Film Award for Best Actor for his role in the Bengali film 'Tahader Katha'"
+            },
+            {
+                "date": "1991",
+                "event": "Won the Filmfare Award for Best Supporting Actor for playing Krishnan Iyer Nariyal Paniwala in 'Agneepath'"
+            },
+            {
+                "date": "1988",
+                "event": "Son Ushmey Chakraborty was born"
+            },
+            {
+                "date": "1987",
+                "event": "Reported secret marriage with co-star Sridevi ended after his refusal to divorce his wife Yogeeta Bali"
+            },
+            {
+                "date": "1985",
+                "event": "Allegedly secretly married actress Sridevi after meeting on the sets of 'Jaag Utha Insan'"
+            },
+            {
+                "date": "1984",
+                "event": "Son Mahakshay Chakraborty (Mimoh) was born"
+            },
+            {
+                "date": "10-12-1982",
+                "event": "Achieved superstardom with the release of the hit film 'Disco Dancer', introducing his signature dance style to Indian cinema"
+            },
+            {
+                "date": "1979",
+                "event": "Got married to second wife, actress Yogeeta Bali"
+            },
+            {
+                "date": "1979",
+                "event": "Divorced first wife, actress Helena Luke, four months after their marriage"
+            },
+            {
+                "date": "1979",
+                "event": "Got married to first wife, actress Helena Luke"
+            },
+            {
+                "date": "1976",
+                "event": "Won his first National Film Award for Best Actor for his debut film 'Mrigayaa', directed by Mrinal Sen"
+            },
+            {
+                "date": "1971",
+                "event": "Fled Kolkata and abandoned the Naxalite movement following the tragic death of his brother in an accident"
+            },
+            {
+                "date": "16-06-1950",
+                "event": "Born as Gouranga Chakraborty to Basanta Kumar Chakraborty and Shanti Rani Chakraborty in Calcutta, West Bengal, India"
+            }
+        ]
     },
     "response": {
         "ascendant": {

@@ -1,0 +1,312 @@
+{
+    "request": {
+        "name": "Muhammad Ali Jinnah",
+        "title": "Lawyer, Politician",
+        "year": 1875,
+        "month": 10,
+        "day": 20,
+        "hour": 14,
+        "minute": 30,
+        "second": 0,
+        "latitude": 24.8608,
+        "longitude": 67.0104,
+        "location": "Karachi",
+        "gender": "male",
+        "agyat_rating": "AA",
+        "dod": "11/09/1948",
+        "related": [
+            "lawyer",
+            "politician"
+        ],
+        "advanced": "legend, death by disease, tuberculosis",
+        "about": "<p>Muhammad Ali Jinnah (born Mahomedali Jinnahbhai; 25 December 1876 – 11 September 1948) was a barrister, statesman, and the founder of Pakistan. He served as the leader of the All-India Muslim League from 1913 until the independence of Pakistan on 14 August 1947, and then as Pakistan's first governor-general until his death a year later in 1948.</p><p>Born at Wazir Mansion in Karachi, Jinnah was trained as a barrister at Lincoln's Inn in London, England. Upon his return to India, he enrolled at the Bombay High Court, and took an interest in national politics, which eventually replaced his legal practice. Jinnah rose to prominence in the Indian National Congress in the first two decades of the 20th century. In these early years of his political career, Jinnah advocated for Hindu–Muslim unity, helping to shape the 1916 Lucknow Pact between the Congress and the All-India Muslim League, in which Jinnah had also become prominent. Jinnah became a key leader in the All-India Home Rule League, and proposed a fourteen-point constitutional reform plan to safeguard the political rights of Muslims in the Indian subcontinent. In 1920, however, Jinnah resigned from the Congress when it agreed to follow a campaign of satyagraha, which he regarded as political anarchy.</p><p>After joining the All-India Muslim League, Jinnah worked for the rights of Muslims in the subcontinent to protect them from the threat of marginalisation in a Hindu-dominated state. In 1940, the Muslim League, led by Jinnah, passed the Lahore Resolution. During the Second World War, the League gained strength while leaders of the Congress were imprisoned, and in the provincial elections held shortly after the war, it won most of the seats reserved for Muslims. Ultimately, the Congress and the Muslim League could not reach a power-sharing formula that would allow the entirety of British India to be united as a single state following independence, leading all parties to agree instead to the independence of a Hindu-majority India, and for a predominantly Muslim state of Pakistan.</p><p>As the first governor-general of Pakistan, Jinnah worked to establish the government of the new nation and policies to aid the millions of Muslim migrants who had emigrated from regions that became part of the Dominion of India to Pakistan after the independence of both states, personally supervising the establishment of refugee camps. Jinnah died at age 71 in September 1948, just over a year after Pakistan gained independence from the United Kingdom. He left a deep and respected legacy in Pakistan. Several universities and public buildings in Pakistan bear Jinnah's name. He is revered in Pakistan as the Quaid-e-Azam (\"Great Leader\") and Baba-e-Qaum (\"Father of the Nation\"). His birthday is also observed as a national holiday in the country. According to his biographer, Stanley Wolpert, Jinnah remains Pakistan's greatest leader.</p>",
+        "events": [
+            {
+                "date": "11-09-1948",
+                "event": "Passed away in Karachi due to cardiac arrest caused by long-term tuberculosis and lung complications"
+            },
+            {
+                "date": "15-08-1947",
+                "event": "Sworn in as the first Governor-General of Pakistan"
+            },
+            {
+                "date": "11-08-1947",
+                "event": "Elected as the President of the Constituent Assembly of Pakistan and delivered his landmark presidential address"
+            },
+            {
+                "date": "16-08-1946",
+                "event": "Called for 'Direct Action Day' to press for a separate Muslim state, resulting in widespread communal violence"
+            },
+            {
+                "date": "23-03-1940",
+                "event": "Presided over the Lahore session of the All-India Muslim League where the historic Lahore Resolution (Pakistan Resolution) was adopted"
+            },
+            {
+                "date": "17-11-1938",
+                "event": "Estringement with daughter Dina Jinnah after she married Parsi businessman Neville Wadia against his wishes"
+            },
+            {
+                "date": "28-03-1929",
+                "event": "Presented his famous 'Fourteen Points' as constitutional reform proposals to safeguard Muslim rights"
+            },
+            {
+                "date": "20-02-1929",
+                "event": "Second wife Rattanbai 'Ruttie' Petit passed away at the age of 29"
+            },
+            {
+                "date": "1927",
+                "event": "Separated from second wife Rattanbai 'Ruttie' Petit"
+            },
+            {
+                "date": "28-12-1920",
+                "event": "Resigned from the Indian National Congress at the Nagpur session over opposition to Mahatma Gandhi's Non-Cooperation Movement"
+            },
+            {
+                "date": "15-08-1919",
+                "event": "Only child, daughter Dina Jinnah, was born in London"
+            },
+            {
+                "date": "19-04-1918",
+                "event": "Got married to second wife Rattanbai 'Ruttie' Petit"
+            },
+            {
+                "date": "31-12-1916",
+                "event": "Instrumental in architecting the Lucknow Pact between the Indian National Congress and the All-India Muslim League"
+            },
+            {
+                "date": "1913",
+                "event": "Joined the All-India Muslim League"
+            },
+            {
+                "date": "04-01-1910",
+                "event": "Elected to the Imperial Legislative Council from Bombay"
+            },
+            {
+                "date": "1906",
+                "event": "Entered active politics by joining the Indian National Congress as secretary to Dadabhai Naoroji"
+            },
+            {
+                "date": "24-08-1896",
+                "event": "Called to the Bar at Lincoln's Inn and returned to India to establish legal practice in Bombay"
+            },
+            {
+                "date": "1893",
+                "event": "First wife Emibai Jinnah passed away in India while Jinnah was studying in London"
+            },
+            {
+                "date": "1892",
+                "event": "Got married to first wife Emibai Jinnah"
+            },
+            {
+                "date": "25-12-1876",
+                "event": "Born as Mahomedali Jinnahbhai to Jinnahbhai Poonja and Mithibai in Karachi, British India"
+            }
+        ]
+    },
+    "response": {
+        "ascendant": {
+            "asc_deg": 305.88090027954104,
+            "ascendant": 11
+        },
+        "planets": {
+            "Jupiter": {
+                "degree": 196.6048441542347,
+                "cusp_degree": 16.604844154234712,
+                "motion_speed": 0.21658625483246047,
+                "zodiac": 7,
+                "house": 9,
+                "motion": "D"
+            },
+            "Sun": {
+                "degree": 184.4898448838383,
+                "cusp_degree": 4.489844883838288,
+                "motion_speed": 0.9949398431665137,
+                "zodiac": 7,
+                "house": 9,
+                "motion": "D"
+            },
+            "Moon": {
+                "degree": 79.18568156814887,
+                "cusp_degree": 19.185681568148865,
+                "motion_speed": 14.214055113252652,
+                "zodiac": 3,
+                "house": 5,
+                "motion": "D"
+            },
+            "Venus": {
+                "degree": 191.57589763356725,
+                "cusp_degree": 11.575897633567251,
+                "motion_speed": 1.25049562090952,
+                "zodiac": 7,
+                "house": 9,
+                "motion": "D"
+            },
+            "Mars": {
+                "degree": 275.5402442797497,
+                "cusp_degree": 5.540244279749686,
+                "motion_speed": 0.6527320570216307,
+                "zodiac": 10,
+                "house": 12,
+                "motion": "D"
+            },
+            "Mercury": {
+                "degree": 202.93628559791355,
+                "cusp_degree": 22.936285597913553,
+                "motion_speed": -0.22265521073320488,
+                "zodiac": 7,
+                "house": 9,
+                "motion": "R"
+            },
+            "Saturn": {
+                "degree": 297.2993079392425,
+                "cusp_degree": 27.29930793924251,
+                "motion_speed": -0.006778576321837676,
+                "zodiac": 10,
+                "house": 12,
+                "motion": "R"
+            },
+            "Rahu True": {
+                "degree": 346.1763220495432,
+                "cusp_degree": 16.176322049543217,
+                "motion_speed": -0.01735845886321088,
+                "zodiac": 12,
+                "house": 2,
+                "motion": "R"
+            },
+            "Rahu Mean": {
+                "degree": 345.0711293971654,
+                "cusp_degree": 15.071129397165407,
+                "motion_speed": -0.05299217395643198,
+                "zodiac": 12,
+                "house": 2,
+                "motion": "R"
+            },
+            "Ketu Mean": {
+                "degree": 165.07112939716535,
+                "motion_speed": -0.05299217395643198,
+                "cusp_degree": 15.07112939716535,
+                "zodiac": 6,
+                "house": 8,
+                "motion": "R"
+            },
+            "Ketu True": {
+                "degree": 166.17632204954316,
+                "motion_speed": -0.01735845886321088,
+                "cusp_degree": 16.17632204954316,
+                "zodiac": 6,
+                "house": 8,
+                "motion": "R"
+            }
+        }
+    },
+    "panchang": {
+        "date": "1875-10-20",
+        "latitude": 24.8608,
+        "longitude": 67.0104,
+        "time_zone": "Asia/Karachi",
+        "offset": 5,
+        "julday": 2406181.5,
+        "solar_longitude": 184.07409917174468,
+        "lunar_longitude": 73.21804881296269,
+        "lunar_latitude": 5.250526437396543,
+        "sunrise": [
+            2406181.7749628094,
+            [
+                6,
+                35,
+                57
+            ],
+            [
+                1875,
+                10,
+                20,
+                6.599107425659895
+            ]
+        ],
+        "sunset": [
+            2406182.24825667,
+            [
+                17,
+                57,
+                29
+            ],
+            [
+                1875,
+                10,
+                20,
+                17.95816007629037
+            ]
+        ],
+        "moonrise": [
+            2406182.4598111343,
+            [
+                23,
+                2,
+                8
+            ],
+            [
+                1875,
+                10,
+                20,
+                23.035467222332954
+            ]
+        ],
+        "moonset": [
+            2406182.0040849154,
+            [
+                12,
+                5,
+                53
+            ],
+            [
+                1875,
+                10,
+                20,
+                12.098037969321012
+            ]
+        ],
+        "tithi": [
+            21,
+            [
+                11,
+                45,
+                16
+            ]
+        ],
+        "nakshatra": [
+            "Rohini",
+            4,
+            [
+                8,
+                45,
+                3
+            ]
+        ],
+        "yoga": [
+            "Shiva",
+            19
+        ],
+        "karana": [
+            42,
+            -0.802875082099348
+        ],
+        "vaara": "Budhvara",
+        "lunar_phase": 249.143949641218,
+        "masa": [
+            "Kartika",
+            8,
+            false
+        ],
+        "ahargana": 1817716,
+        "ritu": "Varsha Ritu (Monsoon)",
+        "samvatsara": 9,
+        "day_duration": [
+            11.359052650630474,
+            [
+                11,
+                21,
+                33
+            ]
+        ]
+    }
+}

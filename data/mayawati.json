@@ -13,8 +13,101 @@
         "location": "Delhi, Delhi",
         "agyat_rating": "AA",
         "gender": "female",
-        "related": ["politician", "chief-minister"],
-        "about": "<p>Kumari Mayawati (born Kumari Mayawati Das; 15 January 1956) is an Indian politician who served as the 18th Chief Minister of Uttar Pradesh from 1995 to 1995, 1997 to 1997, 2002 to 2003 and from 2007 to 2012. She is the national president of the Bahujan Samaj Party (BSP), which focuses on a platform of social change for Bahujans, more commonly known as Other Backward Classes, Scheduled Castes and Scheduled Tribes as well as religious minorities since 2003.</p><p> Mayawati had also served as a Member of Parliament, Rajya Sabha from 2012 to 2017 from Uttar Pradesh. Mayawati's rise from humble beginnings has been called a \"miracle of democracy\" by P. V. Narasimha Rao, former prime minister of India. In 1993, Kanshi Ram formed a coalition with the Samajwadi Party and Mayawati became the Chief Minister of Uttar Pradesh in 1995. She was the first female Scheduled Caste chief minister in India. In 1997 and in 2002 she was chief minister with outside support from the Bharatiya Janata Party (BJP), the second time only for a year up to 26 August 2003 due to BJP withdrawing support.</p><p> Mayawati's tenure has attracted praise and criticism. Millions of Dalits across India popularly view her as an icon, and refer to her as Behen-ji (elder sister). She has been praised for her fundraising efforts on behalf of her party and her birthdays have been widely celebrated by her supporters. On the contrary, the rise in her personal wealth and that of her party have been criticised as indicative of corruption.</p>"
+        "related": [
+            "politician",
+            "chief-minister"
+        ],
+        "about": "<p>Kumari Mayawati (born Kumari Mayawati Das; 15 January 1956) is an Indian politician who served as the 18th Chief Minister of Uttar Pradesh from 1995 to 1995, 1997 to 1997, 2002 to 2003 and from 2007 to 2012. She is the national president of the Bahujan Samaj Party (BSP), which focuses on a platform of social change for Bahujans, more commonly known as Other Backward Classes, Scheduled Castes and Scheduled Tribes as well as religious minorities since 2003.</p><p> Mayawati had also served as a Member of Parliament, Rajya Sabha from 2012 to 2017 from Uttar Pradesh. Mayawati's rise from humble beginnings has been called a \"miracle of democracy\" by P. V. Narasimha Rao, former prime minister of India. In 1993, Kanshi Ram formed a coalition with the Samajwadi Party and Mayawati became the Chief Minister of Uttar Pradesh in 1995. She was the first female Scheduled Caste chief minister in India. In 1997 and in 2002 she was chief minister with outside support from the Bharatiya Janata Party (BJP), the second time only for a year up to 26 August 2003 due to BJP withdrawing support.</p><p> Mayawati's tenure has attracted praise and criticism. Millions of Dalits across India popularly view her as an icon, and refer to her as Behen-ji (elder sister). She has been praised for her fundraising efforts on behalf of her party and her birthdays have been widely celebrated by her supporters. On the contrary, the rise in her personal wealth and that of her party have been criticised as indicative of corruption.</p>",
+        "events": [
+            {
+                "date": "2017-07",
+                "event": "Resigned from Parliament in protest after being asked to cut short her speech regarding the mistreatment of Dalits."
+            },
+            {
+                "date": "2012",
+                "event": "Elected to the Rajya Sabha for the third time after her party faced a defeat in the UP assembly elections."
+            },
+            {
+                "date": "2012-03",
+                "event": "Completed her fourth and longest term (full five years) as Chief Minister of Uttar Pradesh."
+            },
+            {
+                "date": "2008",
+                "event": "Published her autobiography, 'A Travelogue of My Struggle-Ridden Life and BSP Movement'."
+            },
+            {
+                "date": "2007",
+                "event": "Became Chief Minister of Uttar Pradesh for the fourth time after the BSP won an absolute majority."
+            },
+            {
+                "date": "2004",
+                "event": "Elected to the Lok Sabha and subsequently the Rajya Sabha; appointed Satish Chandra Mishra as BSP general secretary to court upper-caste voters."
+            },
+            {
+                "date": "2003",
+                "event": "Officially named the National President of the Bahujan Samaj Party (BSP)."
+            },
+            {
+                "date": "2002-2003",
+                "event": "Implicated in the Taj Heritage Corridor corruption case, leading to a Supreme Court investigation over alleged financial irregularities."
+            },
+            {
+                "date": "2002-05-03",
+                "event": "Sworn in as Chief Minister of Uttar Pradesh for the third time."
+            },
+            {
+                "date": "2001-12-15",
+                "event": "Declared as the political successor to the BSP by party founder Kanshi Ram."
+            },
+            {
+                "date": "1999",
+                "event": "Re-elected to the Lok Sabha."
+            },
+            {
+                "date": "1998",
+                "event": "Re-elected to the Lok Sabha."
+            },
+            {
+                "date": "1997-03-21",
+                "event": "Sworn in as Chief Minister of Uttar Pradesh for the second time."
+            },
+            {
+                "date": "1995-06-03",
+                "event": "Made history by becoming the youngest and the first Dalit woman Chief Minister of Uttar Pradesh (First term)."
+            },
+            {
+                "date": "1994",
+                "event": "Elected to the Rajya Sabha for the first time."
+            },
+            {
+                "date": "1989",
+                "event": "Elected to the Lok Sabha for the first time from the Bijnor constituency."
+            },
+            {
+                "date": "1984-04-14",
+                "event": "Joined the newly founded Bahujan Samaj Party (BSP) as a core member."
+            },
+            {
+                "date": "1983",
+                "event": "Obtained her LL.B. degree from the University of Delhi."
+            },
+            {
+                "date": "1977",
+                "event": "Met Dalit activist Kanshi Ram, who persuaded her to abandon civil service preparations to pursue a career in politics."
+            },
+            {
+                "date": "1976",
+                "event": "Completed her Bachelor of Education (B.Ed.) from Meerut University."
+            },
+            {
+                "date": "1975",
+                "event": "Completed her Bachelor of Arts (B.A.) from Kalindi College, University of Delhi."
+            },
+            {
+                "date": "1956-01-15",
+                "event": "Born Kumari Mayawati Das in New Delhi."
+            }
+        ]
     },
     "response": {
         "ascendant": {

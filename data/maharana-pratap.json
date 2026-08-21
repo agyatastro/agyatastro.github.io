@@ -14,8 +14,45 @@
         "gender": "male",
         "dod": "19/01/1597",
         "agyat_rating": "AX",
-        "related": ["monarch", "activist"],
-        "about": "Pratap Singh I (18 May 1540 – 19 January 1597), popularly known as Maharana Pratap (IPA: [məɦaːˈɾaːɳaː pɾəˈtaːp]), was king of the Kingdom of Mewar, in north-western India in the present-day state of Rajasthan, from 1572 until his death in 1597. He is notable for leading the Rajput resistance against the expansionist policy of the Mughal Emperor Akbar including the battle of Haldighati."
+        "related": [
+            "monarch",
+            "activist"
+        ],
+        "about": "Pratap Singh I (18 May 1540 – 19 January 1597), popularly known as Maharana Pratap (IPA: [məɦaːˈɾaːɳaː pɾəˈtaːp]), was king of the Kingdom of Mewar, in north-western India in the present-day state of Rajasthan, from 1572 until his death in 1597. He is notable for leading the Rajput resistance against the expansionist policy of the Mughal Emperor Akbar including the battle of Haldighati.",
+        "events": [
+            {
+                "date": "19-01-1597",
+                "event": "Passed away due to injuries sustained in a hunting accident at Chavand"
+            },
+            {
+                "date": "1585",
+                "event": "Established Chavand as the new capital of Mewar"
+            },
+            {
+                "date": "1582",
+                "event": "Defeated the Mughal forces at the Battle of Dewair, recapturing major parts of Mewar"
+            },
+            {
+                "date": "18-06-1576",
+                "event": "Fought the historic Battle of Haldighati against the Mughal army led by Raja Man Singh I"
+            },
+            {
+                "date": "01-03-1572",
+                "event": "Crowned as the 54th ruler of Mewar at Gogunda following the death of his father Maharana Udai Singh II"
+            },
+            {
+                "date": "16-03-1559",
+                "event": "Eldest son and successor Prince Amar Singh I was born"
+            },
+            {
+                "date": "1557",
+                "event": "Got married to first wife Maharani Ajabde Punwar"
+            },
+            {
+                "date": "09-05-1540",
+                "event": "Born to Maharana Udai Singh II and Rani Jaiwanta Bai at Kumbhalgarh Fort, Mewar"
+            }
+        ]
     },
     "response": {
         "ascendant": {

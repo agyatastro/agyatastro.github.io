@@ -15,8 +15,133 @@
         "agyat_rating": "AA",
         "dod": "25/06/2009",
         "advanced": "substance-abuse, litigation, child-abuse, bankruptcy",
-        "related": ["singer", "dancer"],
-        "about": "<p>Michael Joseph Jackson (August 29, 1958 – June 25, 2009) was an American singer, songwriter, dancer, and philanthropist. Dubbed the \"King of Pop\", he is widely regarded as one of the most culturally significant figures of the 20th century. Over a four-decade career, his musical achievements broke American racial barriers and made him a dominant figure worldwide. Through his songs, concerts, and fashion, he proliferated visual performance for artists in popular music, popularizing street dance moves such as the moonwalk, the robot, and the anti-gravity lean. Jackson is often deemed the greatest entertainer of all time.[nb 1]</p><p>The eighth child of the Jackson family, Jackson made his public debut at age six as the lead singer of the Jackson 5, one of Motown's most successful acts. He rose to solo stardom with the album Off the Wall (1979) and achieved unprecedented global success with Thriller (1982), the best-selling album in history. Its short film-style music videos for \"Thriller\", \"Beat It\", and \"Billie Jean\" redefined the medium as an art form. Jackson followed it with Bad (1987), the first album to produce five US Billboard Hot 100 number-one singles: \"I Just Can't Stop Loving You\", \"Bad\", \"The Way You Make Me Feel\", \"Man in the Mirror\", and \"Dirty \". His albums Dangerous (1991) and HIStory (1995) spawned the respective US number-one singles \"Black or White\" and \"You Are Not Alone\"; the latter was the first song to debut atop the Hot 100. Jackson's final album, Invincible (2001), is the most expensive album ever made.</p><p>From the mid-1980s, Jackson came under public scrutiny due to changes in his appearance, relationships, behavior, and lifestyle. He was accused of sexually abusing the child of a family friend in 1993. In 2005, Jackson was tried and acquitted of further such allegations and other charges. In 2009, while preparing for This Is It, a series of comeback concerts, he died from an overdose of propofol administered by his personal physician Conrad Murray, who was convicted of involuntary manslaughter in 2011. Jackson's death triggered global reactions, creating unprecedented surges of internet traffic and a spike in his music sales. His televised memorial service, held at the Staples Center in Los Angeles, is estimated to have been viewed by more than 2.5 billion people.</p><p>Jackson is one of the best-selling music artists of all time, with estimated sales of over 500 million records as a solo artist.[nb 2] He is also—along with Paul McCartney and Phil Collins—one of three recording artists to have sold over 100 million records both as solo artists and separately as principal members of a band. He holds a joint-record for a male solo artist with 13 Billboard Hot 100 number-one singles and is the only artist to have a top-ten single in six decades. One of the most-awarded music artists in history, Jackson received 13 Grammy Awards, the Grammy Legend Award, and the Grammy Lifetime Achievement Award; 26 American Music Awards; 12 World Music Awards; 8 MTV Video Music Awards; 6 Brit Awards; and 3 presidential honors. He was inducted into numerous halls of fame, including the Rock and Roll Hall of Fame twice, the Songwriters Hall of Fame, and the Dance Hall of Fame. Having donated an estimated $500 million, Jackson is credited with setting a standard for celebrity charity. In 2024, half of his music catalogue was sold to Sony for $600 million, the largest music acquisition for a single artist.</p>"
+        "related": [
+            "singer",
+            "dancer"
+        ],
+        "about": "<p>Michael Joseph Jackson (August 29, 1958 – June 25, 2009) was an American singer, songwriter, dancer, and philanthropist. Dubbed the \"King of Pop\", he is widely regarded as one of the most culturally significant figures of the 20th century. Over a four-decade career, his musical achievements broke American racial barriers and made him a dominant figure worldwide. Through his songs, concerts, and fashion, he proliferated visual performance for artists in popular music, popularizing street dance moves such as the moonwalk, the robot, and the anti-gravity lean. Jackson is often deemed the greatest entertainer of all time.[nb 1]</p><p>The eighth child of the Jackson family, Jackson made his public debut at age six as the lead singer of the Jackson 5, one of Motown's most successful acts. He rose to solo stardom with the album Off the Wall (1979) and achieved unprecedented global success with Thriller (1982), the best-selling album in history. Its short film-style music videos for \"Thriller\", \"Beat It\", and \"Billie Jean\" redefined the medium as an art form. Jackson followed it with Bad (1987), the first album to produce five US Billboard Hot 100 number-one singles: \"I Just Can't Stop Loving You\", \"Bad\", \"The Way You Make Me Feel\", \"Man in the Mirror\", and \"Dirty \". His albums Dangerous (1991) and HIStory (1995) spawned the respective US number-one singles \"Black or White\" and \"You Are Not Alone\"; the latter was the first song to debut atop the Hot 100. Jackson's final album, Invincible (2001), is the most expensive album ever made.</p><p>From the mid-1980s, Jackson came under public scrutiny due to changes in his appearance, relationships, behavior, and lifestyle. He was accused of sexually abusing the child of a family friend in 1993. In 2005, Jackson was tried and acquitted of further such allegations and other charges. In 2009, while preparing for This Is It, a series of comeback concerts, he died from an overdose of propofol administered by his personal physician Conrad Murray, who was convicted of involuntary manslaughter in 2011. Jackson's death triggered global reactions, creating unprecedented surges of internet traffic and a spike in his music sales. His televised memorial service, held at the Staples Center in Los Angeles, is estimated to have been viewed by more than 2.5 billion people.</p><p>Jackson is one of the best-selling music artists of all time, with estimated sales of over 500 million records as a solo artist.[nb 2] He is also—along with Paul McCartney and Phil Collins—one of three recording artists to have sold over 100 million records both as solo artists and separately as principal members of a band. He holds a joint-record for a male solo artist with 13 Billboard Hot 100 number-one singles and is the only artist to have a top-ten single in six decades. One of the most-awarded music artists in history, Jackson received 13 Grammy Awards, the Grammy Legend Award, and the Grammy Lifetime Achievement Award; 26 American Music Awards; 12 World Music Awards; 8 MTV Video Music Awards; 6 Brit Awards; and 3 presidential honors. He was inducted into numerous halls of fame, including the Rock and Roll Hall of Fame twice, the Songwriters Hall of Fame, and the Dance Hall of Fame. Having donated an estimated $500 million, Jackson is credited with setting a standard for celebrity charity. In 2024, half of his music catalogue was sold to Sony for $600 million, the largest music acquisition for a single artist.</p>",
+        "events": [
+            {
+                "date": "25-06-2009",
+                "event": "Passed away in Los Angeles, California, due to acute propofol and benzodiazepine intoxication administered by his personal physician"
+            },
+            {
+                "date": "05-03-2009",
+                "event": "Announced 'This Is It', a series of 50 residency concerts in London that would have marked his final concert performances"
+            },
+            {
+                "date": "13-06-2005",
+                "event": "Acquitted of all 14 charges in the 2005 child sexual abuse trial (People v. Jackson) after a high-profile trial"
+            },
+            {
+                "date": "18-12-2003",
+                "event": "Formally charged with child sexual abuse and administering an intoxicating agent to a minor in Santa Barbara County"
+            },
+            {
+                "date": "20-11-2003",
+                "event": "Surrendered to law enforcement and was arrested on charges of child molestation before being released on bail"
+            },
+            {
+                "date": "20-11-2002",
+                "event": "Dangled his nine-month-old son, Bigi ('Blanket'), over a fourth-floor hotel balcony railing in Berlin, triggering worldwide controversy"
+            },
+            {
+                "date": "21-02-2002",
+                "event": "Third child, Bigi Jackson (initially named Prince Michael Jackson II and nicknamed 'Blanket'), was born via a surrogate"
+            },
+            {
+                "date": "30-10-2001",
+                "event": "Released his tenth and final studio album, 'Invincible'"
+            },
+            {
+                "date": "1999",
+                "event": "Divorced second wife Debbie Rowe, with Rowe giving full custody of their two children to Jackson"
+            },
+            {
+                "date": "03-04-1998",
+                "event": "Second child and only daughter, Paris-Michael Katherine Jackson, was born"
+            },
+            {
+                "date": "13-02-1997",
+                "event": "First child, Prince Michael Jackson, was born"
+            },
+            {
+                "date": "13-11-1996",
+                "event": "Got married to second wife, dermatologist nurse Debbie Rowe, in Sydney, Australia"
+            },
+            {
+                "date": "20-08-1996",
+                "event": "Divorce from Lisa Marie Presley was finalized"
+            },
+            {
+                "date": "20-06-1995",
+                "event": "Released ninth studio album, 'HIStory: Past, Present and Future, Book I'"
+            },
+            {
+                "date": "26-05-1994",
+                "event": "Got married to first wife, Lisa Marie Presley (daughter of Elvis Presley), in the Dominican Republic"
+            },
+            {
+                "date": "25-01-1994",
+                "event": "Settled the child sexual abuse civil lawsuit filed by Jordan Chandler for an estimated $23 million without admitting wrongdoing"
+            },
+            {
+                "date": "1993",
+                "event": "First public allegations of child sexual abuse emerged when Jordan Chandler and his father accused Jackson of molestation"
+            },
+            {
+                "date": "26-11-1991",
+                "event": "Released eighth studio album, 'Dangerous', featuring hits like 'Black or White'"
+            },
+            {
+                "date": "1988",
+                "event": "Purchased a 2,700-acre property in Santa Barbara County, California, and established the 'Neverland Ranch'"
+            },
+            {
+                "date": "31-08-1987",
+                "event": "Released seventh studio album, 'Bad', which produced five consecutive Billboard Hot 100 number-one singles"
+            },
+            {
+                "date": "27-01-1984",
+                "event": "Suffered severe second-degree burns on his scalp when pyrotechnics accidentally ignited his hair during a Pepsi commercial shoot"
+            },
+            {
+                "date": "25-03-1983",
+                "event": "Debuted his iconic 'Moonwalk' dance move during a performance of 'Billie Jean' at the 'Motown 25: Yesterday, Today, Forever' television special"
+            },
+            {
+                "date": "30-11-1982",
+                "event": "Released sixth studio album, 'Thriller', which went on to become the best-selling album of all time worldwide"
+            },
+            {
+                "date": "10-08-1979",
+                "event": "Released fifth studio album, 'Off the Wall', marking a major breakthrough as an adult solo artist"
+            },
+            {
+                "date": "24-10-1978",
+                "event": "Starred as the Scarecrow in the musical film 'The Wiz', alongside Diana Ross"
+            },
+            {
+                "date": "24-01-1972",
+                "event": "Released debut solo studio album, 'Got to Be There', with Motown Records"
+            },
+            {
+                "date": "11-12-1969",
+                "event": "The Jackson 5 released their debut Motown album, 'Diana Ross Presents The Jackson 5', featuring the hit 'I Want You Back'"
+            },
+            {
+                "date": "03-1968",
+                "event": "The Jackson 5 signed their major record contract with Motown Records"
+            },
+            {
+                "date": "1965",
+                "event": "Joined his brothers in the Jackson Brothers band, which was soon renamed The Jackson 5, serving as co-lead singer"
+            },
+            {
+                "date": "29-08-1958",
+                "event": "Born as Michael Joseph Jackson to Joseph Walter 'Joe' Jackson and Katherine Esther Jackson in Gary, Indiana"
+            }
+        ]
     },
     "response": {
         "ascendant": {

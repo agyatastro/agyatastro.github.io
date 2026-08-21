@@ -13,8 +13,97 @@
         "location": "Brooklyn",
         "agyat_rating": "AA",
         "gender": "male",
-        "related": ["sportsperson", "basketball"],
-        "about": "<p>Michael Jeffrey Jordan (born February 17, 1963), also known by his initials MJ, is an American businessman , former professional basketball player and former professional baseball player, who is currently a minority owner of the Charlotte Hornets of the National Basketball Association (NBA). He played 15 seasons in the NBA between 1984 and 2003, winning six NBA championships with the Chicago Bulls. Widely considered to be one of the greatest players of all time, he was integral in popularizing basketball and the NBA around the world in the 1980s and 1990s, becoming a global cultural icon.</p><p>Jordan played college basketball with the North Carolina Tar Heels. As a freshman, he was a member of the Tar Heels' national championship team in 1982. Jordan joined the Bulls in 1984 as the third overall draft pick and quickly emerged as a league star, entertaining crowds with his prolific scoring while gaining a reputation as one of the best defensive players. His leaping ability, demonstrated by performing slam dunks from the free-throw line in Slam Dunk Contests, earned him the nicknames \"Air Jordan\" and \"His Airness\". Jordan won his first NBA title with the Bulls in 1991 and followed that achievement with titles in 1992 and 1993, securing a three-peat. Citing physical and mental exhaustion from basketball and superstardom, Jordan abruptly retired from basketball before the 1993–94 NBA season to play Minor League Baseball in the Chicago White Sox organization. He returned to the Bulls in March 1995 and led them to three more championships in 1996, 1997, and 1998, as well as a then-record 72 regular season wins in the 1995–96 NBA season. Jordan retired for the second time in January 1999, returning for two more NBA seasons from 2001 to 2003 as a member of the Washington Wizards. He was selected to play for the United States national team during his college and NBA careers, winning four gold medals—at the 1983 Pan American Games, 1984 Summer Olympics, 1992 Tournament of the Americas and 1992 Summer Olympics—while also being undefeated.</p><p>Jordan's individual accolades include six NBA Finals Most Valuable Player (MVP) awards, ten NBA scoring titles (both all-time records), five NBA MVP awards, 10 All-NBA First Team designations, nine All-Defensive First Team honors, fourteen NBA All-Star Game selections, three NBA All-Star Game MVP awards, three NBA steals titles, and the 1988 NBA Defensive Player of the Year Award. He holds the NBA records for career regular season scoring average (30.1 points per game) and career playoff scoring average (33.4 points per game). He is one of only eight players to achieve the basketball Triple Crown. In 1999, Jordan was named the 20th century's greatest North American athlete by ESPN and was second to Babe Ruth on the Associated Press' list of athletes of the century. Jordan was twice inducted into the Naismith Memorial Basketball Hall of Fame, once in 2009 for his individual career, and again in 2010 as part of the 1992 United States men's Olympic basketball team (\"The Dream Team\"). He became a member of the United States Olympic Hall of Fame in 2009, a member of the North Carolina Sports Hall of Fame in 2010, and an individual member of the FIBA Hall of Fame in 2015 and a \"Dream Team\" member in 2017. Jordan was named to the NBA 50th Anniversary Team in 1996 and to the NBA 75th Anniversary Team in 2021. The trophy for the NBA Most Valuable Player Award is named in his honor.</p><p>One of the most effectively marketed athletes of his generation, Jordan made many product endorsements. He fueled the success of Nike's Air Jordan sneakers, which were introduced in 1984 and remain popular. Jordan starred as himself in the live-action/animation hybrid film Space Jam (1996) and was the central focus of the Emmy-winning documentary series The Last Dance (2020). He became part-owner and head of basketball operations for the Charlotte Hornets (then named the Bobcats) in 2006 and bought a controlling interest in 2010, before selling his majority stake in 2023. Jordan is also a co-owner of 23XI Racing in the NASCAR Cup Series. In 2014, he became the first billionaire player in NBA history. In 2016, President Barack Obama awarded Jordan the Presidential Medal of Freedom. As of 2025, his net worth is estimated at $3.5 billion by Forbes, making him one of the richest celebrities.</p>"
+        "related": [
+            "sportsperson",
+            "basketball"
+        ],
+        "about": "<p>Michael Jeffrey Jordan (born February 17, 1963), also known by his initials MJ, is an American businessman , former professional basketball player and former professional baseball player, who is currently a minority owner of the Charlotte Hornets of the National Basketball Association (NBA). He played 15 seasons in the NBA between 1984 and 2003, winning six NBA championships with the Chicago Bulls. Widely considered to be one of the greatest players of all time, he was integral in popularizing basketball and the NBA around the world in the 1980s and 1990s, becoming a global cultural icon.</p><p>Jordan played college basketball with the North Carolina Tar Heels. As a freshman, he was a member of the Tar Heels' national championship team in 1982. Jordan joined the Bulls in 1984 as the third overall draft pick and quickly emerged as a league star, entertaining crowds with his prolific scoring while gaining a reputation as one of the best defensive players. His leaping ability, demonstrated by performing slam dunks from the free-throw line in Slam Dunk Contests, earned him the nicknames \"Air Jordan\" and \"His Airness\". Jordan won his first NBA title with the Bulls in 1991 and followed that achievement with titles in 1992 and 1993, securing a three-peat. Citing physical and mental exhaustion from basketball and superstardom, Jordan abruptly retired from basketball before the 1993–94 NBA season to play Minor League Baseball in the Chicago White Sox organization. He returned to the Bulls in March 1995 and led them to three more championships in 1996, 1997, and 1998, as well as a then-record 72 regular season wins in the 1995–96 NBA season. Jordan retired for the second time in January 1999, returning for two more NBA seasons from 2001 to 2003 as a member of the Washington Wizards. He was selected to play for the United States national team during his college and NBA careers, winning four gold medals—at the 1983 Pan American Games, 1984 Summer Olympics, 1992 Tournament of the Americas and 1992 Summer Olympics—while also being undefeated.</p><p>Jordan's individual accolades include six NBA Finals Most Valuable Player (MVP) awards, ten NBA scoring titles (both all-time records), five NBA MVP awards, 10 All-NBA First Team designations, nine All-Defensive First Team honors, fourteen NBA All-Star Game selections, three NBA All-Star Game MVP awards, three NBA steals titles, and the 1988 NBA Defensive Player of the Year Award. He holds the NBA records for career regular season scoring average (30.1 points per game) and career playoff scoring average (33.4 points per game). He is one of only eight players to achieve the basketball Triple Crown. In 1999, Jordan was named the 20th century's greatest North American athlete by ESPN and was second to Babe Ruth on the Associated Press' list of athletes of the century. Jordan was twice inducted into the Naismith Memorial Basketball Hall of Fame, once in 2009 for his individual career, and again in 2010 as part of the 1992 United States men's Olympic basketball team (\"The Dream Team\"). He became a member of the United States Olympic Hall of Fame in 2009, a member of the North Carolina Sports Hall of Fame in 2010, and an individual member of the FIBA Hall of Fame in 2015 and a \"Dream Team\" member in 2017. Jordan was named to the NBA 50th Anniversary Team in 1996 and to the NBA 75th Anniversary Team in 2021. The trophy for the NBA Most Valuable Player Award is named in his honor.</p><p>One of the most effectively marketed athletes of his generation, Jordan made many product endorsements. He fueled the success of Nike's Air Jordan sneakers, which were introduced in 1984 and remain popular. Jordan starred as himself in the live-action/animation hybrid film Space Jam (1996) and was the central focus of the Emmy-winning documentary series The Last Dance (2020). He became part-owner and head of basketball operations for the Charlotte Hornets (then named the Bobcats) in 2006 and bought a controlling interest in 2010, before selling his majority stake in 2023. Jordan is also a co-owner of 23XI Racing in the NASCAR Cup Series. In 2014, he became the first billionaire player in NBA history. In 2016, President Barack Obama awarded Jordan the Presidential Medal of Freedom. As of 2025, his net worth is estimated at $3.5 billion by Forbes, making him one of the richest celebrities.</p>",
+        "events": [
+            {
+                "date": "August 2023",
+                "event": "Sold majority stake in the Charlotte Hornets NBA franchise for approximately $3 billion, ending his 13-year tenure as majority owner"
+            },
+            {
+                "date": "March 27, 2013",
+                "event": "Married long-time girlfriend Yvette Prieto in Palm Beach, Florida"
+            },
+            {
+                "date": "September 11, 2009",
+                "event": "Inducted into the Naismith Memorial Basketball Hall of Fame as an individual player"
+            },
+            {
+                "date": "December 29, 2006",
+                "event": "Divorce from Juanita Vanoy was finalized following 17 years of marriage"
+            },
+            {
+                "date": "April 16, 2003",
+                "event": "Played his final NBA game against the Philadelphia 76ers, officially retiring from professional basketball for the third and final time"
+            },
+            {
+                "date": "January 19, 2000",
+                "event": "Returned to the NBA as part-owner and President of Basketball Operations for the Washington Wizards"
+            },
+            {
+                "date": "January 13, 1999",
+                "event": "Announced second retirement from professional basketball"
+            },
+            {
+                "date": "June 14, 1998",
+                "event": "Hit the famous 'Last Shot' against the Utah Jazz in Game 6 of the NBA Finals, securing his 6th NBA Championship with the Chicago Bulls"
+            },
+            {
+                "date": "November 15, 1996",
+                "event": "Starred in the live-action/animated sports comedy film Space Jam alongside the Looney Tunes characters"
+            },
+            {
+                "date": "December 7, 1992",
+                "event": "Birth of daughter Jasmine M. Jordan with Juanita Vanoy"
+            },
+            {
+                "date": "March 18, 1995",
+                "event": "Announced return to the NBA from baseball with a two-word press release: 'I'm back.'"
+            },
+            {
+                "date": "February 7, 1994",
+                "event": "Signed a minor league baseball contract with the Chicago White Sox organization following his first basketball retirement"
+            },
+            {
+                "date": "October 6, 1993",
+                "event": "Announced first retirement from professional basketball amidst exhaustion, grief, and intense media scrutiny surrounding his gambling habits"
+            },
+            {
+                "date": "July 23, 1993",
+                "event": "Father James Jordan Sr. was murdered at a highway rest stop in Lumberton, North Carolina"
+            },
+            {
+                "date": "August 8, 1992",
+                "event": "Won second Olympic Gold Medal in Barcelona as a key member of the iconic United States 'Dream Team'"
+            },
+            {
+                "date": "December 24, 1990",
+                "event": "Birth of second son Marcus Jordan with Juanita Vanoy"
+            },
+            {
+                "date": "September 2, 1989",
+                "event": "Married Juanita Vanoy at A Little White Wedding Chapel in Las Vegas"
+            },
+            {
+                "date": "November 18, 1988",
+                "event": "Birth of first child, son Jeffrey Michael Jordan, with Juanita Vanoy"
+            },
+            {
+                "date": "June 19, 1984",
+                "event": "Selected 3rd overall in the 1984 NBA Draft by the Chicago Bulls"
+            },
+            {
+                "date": "March 29, 1982",
+                "event": "Hit the game-winning jump shot for the UNC Tar Heels to win the NCAA National Championship against Georgetown"
+            },
+            {
+                "date": "February 17, 1963",
+                "event": "Born in Brooklyn, New York to James Jordan Sr. and Deloris Jordan"
+            }
+        ]
     },
     "response": {
         "ascendant": {

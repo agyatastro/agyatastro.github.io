@@ -2,7 +2,7 @@
   "name": "Agyat Astrology: Insights with MoneyBack Assurance",
   "short_name": "AgyatAstro",
   "start_url": "/",
-  "display": "standalone",
+  "display": "minimal-ui",
   "background_color": "#ffffff",
   "theme_color": "#510400",
   "id": "agyatone",
